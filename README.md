@@ -93,7 +93,8 @@ psql "$DATABASE_URL" -f sql/01_schema.sql
 DB는 둘 중 하나로 만든다.
 
 ```bash
-# A. 덤프 복원 (가장 빠름, 덤프는 GitHub Releases에 올린다)
+# A. 덤프 복원 (가장 빠름). stocktag.dump는 Releases에서 받는다:
+#    https://github.com/Laattae/StocksTag/releases/tag/v0.1-tags
 docker run -d --name stocktag-pg -e POSTGRES_USER=stocktag -e POSTGRES_PASSWORD=... -p 5432:5432 postgres:16
 docker exec -i stocktag-pg pg_restore -U stocktag -d stocktag --no-owner < stocktag.dump
 
@@ -105,7 +106,7 @@ python -m src.s03_fetch_reports      # 섹션 파일이 있으면 다시 받지 
 python -m src.s05_load_tags && python -m src.s06_build_aliases
 ```
 
-덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump`
+덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump` → 새 Release에 첨부 (`gh release create <태그> stocktag.dump`). 최신 덤프: [v0.1-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.1-tags)
 
 ## 다음 단계: 급등락 → 뉴스 연결 설계
 
