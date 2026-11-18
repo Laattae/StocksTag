@@ -1,0 +1,146 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며 수익의 안정성을 제고하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "토큰증권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 토큰증권(Security Token) 사업을 준비하고 있습니다. 토큰증권이란, 분산원장 기술을 활용해 자본시장법상 증권(신탁수익증권, 투자계약증권 등)을 디지털화한 것을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "종합투자계좌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 금융위원회로부터 종합투자계좌(IMA: Investment Management Account) 사업자 지정을 받았습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "서 울 | 25 | 0 | 0 | 25 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부 산 | 4 | 0 | 0 | 4 |"
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[홍콩*] 세계 금융 중심지 중 하나인 홍콩*은 중국의 대외 투자 전진기지이자 아시아의 금융 허브로서"
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[브라질] 2025년 상반기 강세 흐름을 이어가던 브라질 주식시장은 7월 조정 이후 8월부터 재차 상승세를 보였고"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[미국] 2025년 4분기에는 무역적자축소(10월 $29.4B, 전월 대비 39% 감소)와 민간 투자"
+    },
+    {
+      "axis": "product",
+      "value": "집합투자증권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "해외주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "장내파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "금현물",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "RP",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며 수익의 안정성을 제고하고 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"토큰증권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 토큰증권(Security Token) 사업을 준비하고 있습니다. 토큰증권이란, 분산원장 기술을 활용해 자본시장법상 증권(신탁수익증권, 투자계약증권 등)을 디지털화한 것을 의미합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"종합투자계좌\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 금융위원회로부터 종합투자계좌(IMA: Investment Management Account) 사업자 지정을 받았습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"시장리스크란 주가ㆍ금리ㆍ환율 등 시장가격의 변동으로 당사가 부담하게 되는 자산운용상의 손실가능성을 말합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"서 울 | 25 | 0 | 0 | 25 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"부 산 | 4 | 0 | 0 | 4 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"홍콩\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[홍콩*] 세계 금융 중심지 중 하나인 홍콩*은 중국의 대외 투자 전진기지이자 아시아의 금융 허브로서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[브라질] 2025년 상반기 강세 흐름을 이어가던 브라질 주식시장은 7월 조정 이후 8월부터 재차 상승세를 보였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[미국] 2025년 4분기에는 무역적자축소(10월 $29.4B, 전월 대비 39% 감소)와 민간 투자\"\n    }\n  ]\n}",
+    "{\"tags\": [\n  {\"axis\": \"product\", \"value\": \"집합투자증권\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"해외주식\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"장내파생상품\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"금현물\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"발행어음\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"},\n  {\"axis\": \"product\", \"value\": \"RP\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"}\n]}"
+  ],
+  "text_path": "data/reports/006800_20260515002972.txt"
+}

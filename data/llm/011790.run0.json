@@ -1,0 +1,235 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "이차전지 소재 | 제품 | 전지박(Copper Foil) 등 | 전기차, ESS, 기타 중소형IT기기 산업에 적용되는이차전지 소재 | - | 수출 | 486,569,668,917 | | 내수 | 19,427,395,123 | | 합계 | 505,997,064,040 | 27.5%"
+    },
+    {
+      "axis": "product",
+      "value": "POD",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "화학 | 제품 및용역 | POD 등* | 윤활제, 자동차,화장품,가전제품, 단열재 등 | SUPER-AGREEN | 수출 | 725,911,360,218 | | 내수 | 365,267,713,601 | | 합계 | 1,091,179,073,819 | 59.3%"
+    },
+    {
+      "axis": "product",
+      "value": "반도체테스트소켓",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "반도체 소재 | 제품 | 반도체 소재 등 | 반도체테스트 소켓 등 | - | 수출 |  217,529,759,438 | | 내수 |  2,898,027,548 | | 합계 |  220,427,786,986 | 12.0%"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": null,
+      "direction": null,
+      "evidence": "이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": null,
+      "direction": null,
+      "evidence": "이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": null,
+      "direction": null,
+      "evidence": "이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": null,
+      "direction": null,
+      "evidence": "내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "하이닉스",
+      "weight": null,
+      "direction": null,
+      "evidence": "내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매"
+    },
+    {
+      "axis": "raw_material",
+      "value": "동",
+      "weight": null,
+      "direction": null,
+      "evidence": "이차전지소재 | 동(銅) | 전지박 원재료 | 280,786 | (주)바다이앤알 外"
+    },
+    {
+      "axis": "raw_material",
+      "value": "프로필렌",
+      "weight": null,
+      "direction": null,
+      "evidence": "화학 | 프로필렌 | PO 원재료 | 191,561 | SK지오센트릭 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": null,
+      "direction": null,
+      "evidence": "에틸렌 | SM 원재료 | 151,032 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "벤젠",
+      "weight": null,
+      "direction": null,
+      "evidence": "벤젠 | 389,495 |"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": null,
+      "direction": null,
+      "evidence": "폴란드 동박공장 증설"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "- '26.03.02 이사회 의결을 통해 포고소켓 Capa 확대를 위한 베트남 공장 설비투자를 결정하였으며 예상 소요자금은 약 58.2억원입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "당기말 및 전기말 현재 각 외화에 대한 원화환율이 10% 변동시 환율변동이 자본에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당기말 및 전기말 현재 다른 모든 변수가 일정하고 이자율 1%p 변동시 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "구리 가격",
+      "weight": null,
+      "direction": 1,
+      "evidence": "전지박 판가는 주요 원재료인 구리값에 가공비를 더하여 결정되고 있습니다. 구리값은 Global 수급 상황에 따라 실시간 변동되며 제조에 따른 소요기일을 감안하여 판가에 반영하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체테스트소켓",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사의 주력사업은 반도체 IC와 IT 디바이스 등을 테스트하는 반도체 테스트 소켓이며 반도체 테스트 장비에 사용되는 인터페이스 유닛, 커넥터와 각종 테스트 솔루션을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "글라스기판",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인구 증가 및 삶의 질 향상과 연계된 화장품, 식음료, 향정·향료, 의약품 등 전방산업의 경기 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "AI반도체 시장의 성장에 따라 디바이스와 어플리케이션에 투입되는 반도체의 유형과 기능이 달라지고 있으며 테스트의 특성, 요구사항 역시 다양해지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "실리콘",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 사업부문은 실리콘, 파우더 등을 원재료로 이용하여 반도체 테스트 솔루션 개발, 제조 및 판매 부문로 구분합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "파우더",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 사업부문은 실리콘, 파우더 등을 원재료로 이용하여 반도체 테스트 솔루션 개발, 제조 및 판매 부문로 구분합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 시장 성장",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 시장 리포트에 따르면 전기차 시장은 ‘24년 판매량 1,763만대에서 ‘30년까지 연평균 16% 성장한 4,335만대로 전망되며 이러한 전방시장의 중장기적 성장세에 힘입어 전지박 수요도 점진적 성장이 예상됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "AI반도체 시장 성장",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "AI반도체 시장의 성장에 따라 디바이스와 어플리케이션에 투입되는 반도체의 유형과 기능이 달라지고 있으며 테스트의 특성, 요구사항 역시 다양해지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 생산량",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "2026년 글로벌 테스트 소켓 시장은 전년 대비10% 성장할 것으로 전망이나 테스트 소켓은 반도체 생산량과 연계되어 반도체 생산량이 증가해야 시장 규모도 성장하는 특징을 갖고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"전지박\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"이차전지 소재 | 제품 | 전지박(Copper Foil) 등 | 전기차, ESS, 기타 중소형IT기기 산업에 적용되는이차전지 소재 | - | 수출 | 486,569,668,917 | | 내수 | 19,427,395,123 | | 합계 | 505,997,064,040 | 27.5%\"}, {\"axis\": \"product\", \"value\": \"POD\", \"weight\": 0.59, \"direction\": null, \"evidence\": \"화학 | 제품 및용역 | POD 등* | 윤활제, 자동차,화장품,가전제품, 단열재 등 | SUPER-AGREEN | 수출 | 725,911,360,218 | | 내수 | 365,267,713,601 | | 합계 | 1,091,179,073,819 | 59.3%\"}, {\"axis\": \"product\", \"value\": \"반도체테스트소켓\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"반도체 소재 | 제품 | 반도체 소재 등 | 반도체테스트 소켓 등 | - | 수출 |  217,529,759,438 | | 내수 |  2,898,027,548 | | 합계 |  220,427,786,986 | 12.0%\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": null, \"direction\": null, \"evidence\": \"이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"}, {\"axis\": \"application\", \"value\": \"ESS\", \"weight\": null, \"direction\": null, \"evidence\": \"이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": null, \"direction\": null, \"evidence\": \"이차전지 소재사업의 전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": null, \"direction\": null, \"evidence\": \"내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매\"}, {\"axis\": \"customer\", \"value\": \"하이닉스\", \"weight\": null, \"direction\": null, \"evidence\": \"내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매\"}, {\"axis\": \"raw_material\", \"value\": \"동\", \"weight\": null, \"direction\": null, \"evidence\": \"이차전지소재 | 동(銅) | 전지박 원재료 | 280,786 | (주)바다이앤알 外\"}, {\"axis\": \"raw_material\", \"value\": \"프로필렌\", \"weight\": null, \"direction\": null, \"evidence\": \"화학 | 프로필렌 | PO 원재료 | 191,561 | SK지오센트릭 등\"}, {\"axis\": \"raw_material\", \"value\": \"에틸렌\", \"weight\": null, \"direction\": null, \"evidence\": \"에틸렌 | SM 원재료 | 151,032 |\"}, {\"axis\": \"raw_material\", \"value\": \"벤젠\", \"weight\": null, \"direction\": null, \"evidence\": \"벤젠 | 389,495 |\"}, {\"axis\": \"region\", \"value\": \"폴란드\", \"weight\": null, \"direction\": null, \"evidence\": \"폴란드 동박공장 증설\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": null, \"direction\": null, \"evidence\": \"- '26.03.02 이사회 의결을 통해 포고소켓 Capa 확대를 위한 베트남 공장 설비투자를 결정하였으며 예상 소요자금은 약 58.2억원입니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": 1, \"evidence\": \"당기말 및 전기말 현재 각 외화에 대한 원화환율이 10% 변동시 환율변동이 자본에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": null, \"direction\": -1, \"evidence\": \"당기말 및 전기말 현재 다른 모든 변수가 일정하고 이자율 1%p 변동시 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"구리 가격\", \"weight\": null, \"direction\": 1, \"evidence\": \"전지박 판가는 주요 원재료인 구리값에 가공비를 더하여 결정되고 있습니다. 구리값은 Global 수급 상황에 따라 실시간 변동되며 제조에 따른 소요기일을 감안하여 판가에 반영하고 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전지박\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체테스트소켓\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력사업은 반도체 IC와 IT 디바이스 등을 테스트하는 반도체 테스트 소켓이며 반도체 테스트 장비에 사용되는 인터페이스 유닛, 커넥터와 각종 테스트 솔루션을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글라스기판\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"인구 증가 및 삶의 질 향상과 연계된 화장품, 식음료, 향정·향료, 의약품 등 전방산업의 경기 변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"AI반도체 시장의 성장에 따라 디바이스와 어플리케이션에 투입되는 반도체의 유형과 기능이 달라지고 있으며 테스트의 특성, 요구사항 역시 다양해지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"실리콘\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 사업부문은 실리콘, 파우더 등을 원재료로 이용하여 반도체 테스트 솔루션 개발, 제조 및 판매 부문로 구분합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"파우더\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 사업부문은 실리콘, 파우더 등을 원재료로 이용하여 반도체 테스트 솔루션 개발, 제조 및 판매 부문로 구분합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기차 시장 성장\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 시장 리포트에 따르면 전기차 시장은 ‘24년 판매량 1,763만대에서 ‘30년까지 연평균 16% 성장한 4,335만대로 전망되며 이러한 전방시장의 중장기적 성장세에 힘입어 전지박 수요도 점진적 성장이 예상됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"AI반도체 시장 성장\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"AI반도체 시장의 성장에 따라 디바이스와 어플리케이션에 투입되는 반도체의 유형과 기능이 달라지고 있으며 테스트의 특성, 요구사항 역시 다양해지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 생산량\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"2026년 글로벌 테스트 소켓 시장은 전년 대비10% 성장할 것으로 전망이나 테스트 소켓은 반도체 생산량과 연계되어 반도체 생산량이 증가해야 시장 규모도 성장하는 특징을 갖고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/011790_20260610000521.txt"
+}

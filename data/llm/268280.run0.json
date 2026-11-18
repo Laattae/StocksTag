@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "에너지경화수지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "연결기업의 주력 사업은 에너지경화수지(UV/EB curable resin)를 생산하는 것입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아크릴계 모노머",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "올리고머",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "광개시제",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "코팅",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "잉크",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "접착제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "조광페인트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "지에스칼텍스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "TOYO Chemical",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "RAHN AG",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "AA",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AA 등 | 1,700 | 1,713 | 1,818 |"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전주공장(미원스페셜티케미칼주식회사) | 전북 완주군 봉동읍 완주산단1로 167 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충주공장(미원스페셜티케미칼주식회사) | 충북 충주시 대소원면 기업도시1로 21 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외(1개 사업장) | Miwon Specialty Chemical USA, Inc. | 1700 Longwood Road, Richland County,SC 29209, USA |"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "주요 제품의 가격은 원재료 가격 및 시장의 수급상황에 따라 변동합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반덤핑 관세",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "미 상무부에 한국 산 특정 모노머와 올리고머의 수입으로 인한 피해를 주장하면서 미 상무부에 반덤핑 관세 부과를 제소하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"에너지경화수지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"연결기업의 주력 사업은 에너지경화수지(UV/EB curable resin)를 생산하는 것입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아크릴계 모노머\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"올리고머\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광개시제\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"코팅\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"잉크\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"접착제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"조광페인트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"지에스칼텍스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"TOYO Chemical\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"RAHN AG\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"AA\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AA 등 | 1,700 | 1,713 | 1,818 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전주공장(미원스페셜티케미칼주식회사) | 전북 완주군 봉동읍 완주산단1로 167 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충주공장(미원스페셜티케미칼주식회사) | 충북 충주시 대소원면 기업도시1로 21 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외(1개 사업장) | Miwon Specialty Chemical USA, Inc. | 1700 Longwood Road, Richland County,SC 29209, USA |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"주요 제품의 가격은 원재료 가격 및 시장의 수급상황에 따라 변동합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반덤핑 관세\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"미 상무부에 한국 산 특정 모노머와 올리고머의 수입으로 인한 피해를 주장하면서 미 상무부에 반덤핑 관세 부과를 제소하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/268280_20260311003661.txt"
+}

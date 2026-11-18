@@ -1,0 +1,136 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LNG 보냉재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LNG 운반선의 핵심 부품인 LNG 보냉재, 스포츠레저용품, 항공부품, 철도부품, 자동차부품, 방산부품, 탄소섬유 블레이드, 준불연건축재"
+    },
+    {
+      "axis": "product",
+      "value": "프리프레그",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "프리프레그는 첨단 복합재 산업 가치사슬의 중간재로 강화재인 탄소섬유, 유리섬유, 아라미드 섬유 등에 특수하게 혼합된 에폭시 수지(Matrix)를 함침시킨 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "글라스페이퍼",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글라스페이퍼(GP)는 유리 장섬유를 일정 길이로 절단한 유리 단섬유를 주원료로 하여 습식법으로 생산된 유리섬유 페이퍼로써"
+    },
+    {
+      "axis": "product",
+      "value": "SMC",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "SMC는 Sheet Molding Compound의 약자로 유리섬유 시트(직물 또는 Chop)에 불포화 폴리에스테르 또는 비닐에스테르 수지를 함침시킨 복합소재입니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄소섬유 직물",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "탄소섬유 직물은 중량에 비해 고강도, 고탄성과 고내열성 등의 특성을 가지는 복합소재로 탁월한 기능성과 물성을 발휘해 광범위한 분야에 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "LNG운반선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아 글로벌 LNG운반선을 건조하는 국내외 조선사에 납품을 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항공기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "적용 분야로는 스포츠&레저용(낚시대, 골프 샤프트, 바이크 프레임, 포크 등), 자동차 구조재 및 내/외장재, 항공기 구조재 및 내장재, 요트 구조재"
+    },
+    {
+      "axis": "application",
+      "value": "건축 산업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "건물 내장 인테리어 소재와 외부 단열 구조 소재, 지붕 및 터널, 교각의 방수 소재로 고기능성의 제품을 건축 산업에 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "풍력블레이드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "적용 분야로는 스포츠&레저용(낚시대, 골프 샤프트, 바이크 프레임, 포크 등), 자동차 구조재 및 내/외장재, 항공기 구조재 및 내장재, 요트 구조재, 풍력블레이드"
+    },
+    {
+      "axis": "customer",
+      "value": "GTT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 LNG 화물창 기술의 라이선스는 프랑스의 GTT(Gruppo Torinese Trasporti社)가 독점하고 있으며, 당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아"
+    },
+    {
+      "axis": "raw_material",
+      "value": "C원사",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음."
+    },
+    {
+      "axis": "raw_material",
+      "value": "WOOD",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음."
+    },
+    {
+      "axis": "raw_material",
+      "value": "수지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | 수지 | F생산용 | 145,175 | 46.97 | K사 外"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일반재 | 자가 | 함양수동면원평리183 외 | 10,752,877 | - | - | - | - | - | 10,752,877"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "HCM VINA Co., Ltd. | USD 36,687,685 | 100.00 | 제조업 | 베트남사회주의 공화국"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "당사는USD,유로화로 결제하는 조건으로 계약이 되어있어 환율의 변동에 따라 가격이 변동됨."
+    },
+    {
+      "axis": "exposure",
+      "value": "LNG운반선 수요",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "탄소중립으로 가는 에너지 전환 과정에서 브릿지 연료 역할을 하는 LNG의 수요-공급 밸런스 확대에 따라 LNG운반선에 대한 수요는 급증하고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG 보냉재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LNG 운반선의 핵심 부품인 LNG 보냉재, 스포츠레저용품, 항공부품, 철도부품, 자동차부품, 방산부품, 탄소섬유 블레이드, 준불연건축재\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"프리프레그\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"프리프레그는 첨단 복합재 산업 가치사슬의 중간재로 강화재인 탄소섬유, 유리섬유, 아라미드 섬유 등에 특수하게 혼합된 에폭시 수지(Matrix)를 함침시킨 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글라스페이퍼\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"글라스페이퍼(GP)는 유리 장섬유를 일정 길이로 절단한 유리 단섬유를 주원료로 하여 습식법으로 생산된 유리섬유 페이퍼로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SMC\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"SMC는 Sheet Molding Compound의 약자로 유리섬유 시트(직물 또는 Chop)에 불포화 폴리에스테르 또는 비닐에스테르 수지를 함침시킨 복합소재입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄소섬유 직물\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"탄소섬유 직물은 중량에 비해 고강도, 고탄성과 고내열성 등의 특성을 가지는 복합소재로 탁월한 기능성과 물성을 발휘해 광범위한 분야에 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"LNG운반선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아 글로벌 LNG운반선을 건조하는 국내외 조선사에 납품을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"적용 분야로는 스포츠&레저용(낚시대, 골프 샤프트, 바이크 프레임, 포크 등), 자동차 구조재 및 내/외장재, 항공기 구조재 및 내장재, 요트 구조재\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건축 산업\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"건물 내장 인테리어 소재와 외부 단열 구조 소재, 지붕 및 터널, 교각의 방수 소재로 고기능성의 제품을 건축 산업에 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"풍력블레이드\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"적용 분야로는 스포츠&레저용(낚시대, 골프 샤프트, 바이크 프레임, 포크 등), 자동차 구조재 및 내/외장재, 항공기 구조재 및 내장재, 요트 구조재, 풍력블레이드\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GTT\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 LNG 화물창 기술의 라이선스는 프랑스의 GTT(Gruppo Torinese Trasporti社)가 독점하고 있으며, 당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"C원사\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"WOOD\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"수지\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 수지 | F생산용 | 145,175 | 46.97 | K사 外\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일반재 | 자가 | 함양수동면원평리183 외 | 10,752,877 | - | - | - | - | - | 10,752,877\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"HCM VINA Co., Ltd. | USD 36,687,685 | 100.00 | 제조업 | 베트남사회주의 공화국\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"당사는USD,유로화로 결제하는 조건으로 계약이 되어있어 환율의 변동에 따라 가격이 변동됨.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"LNG운반선 수요\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"탄소중립으로 가는 에너지 전환 과정에서 브릿지 연료 역할을 하는 LNG의 수요-공급 밸런스 확대에 따라 LNG운반선에 대한 수요는 급증하고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/017960_20260319001272.txt"
+}

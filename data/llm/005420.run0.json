@@ -1,0 +1,164 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "황산코발트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 이차전지 양극소재 주요 원료인 황산코발트와 대표적인 백색안료인 이산화티타늄을 제조 및 판매하는 국내 유일의 회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "이산화티타늄",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 이차전지 양극소재 주요 원료인 황산코발트와 대표적인 백색안료인 이산화티타늄을 제조 및 판매하는 국내 유일의 회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "양극활물질",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "신소재부문은 이차전지 양극활물질, 토너, 이형필름 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "기능성필름",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신소재부문은 이차전지 양극활물질, 토너, 이형필름 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "제올라이트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "촉매부문은 제올라이트, 알루민산소다, 규산소다 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "이차전지 시장은 세계적으로 전기자동차 및 각종 휴대용 기기의 비약적인 발전과 더불어 지속적으로 높은 성장세를 이어가고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "향후 MLCC 시장은 AI 서버와 고용량 데이터센터 및 전장 분야의 급격한 성장이 반도체 수요 증가를 견인할 것으로 예상되며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "향후 MLCC 시장은 AI 서버와 고용량 데이터센터 및 전장 분야의 급격한 성장이 반도체 수요 증가를 견인할 것으로 예상되며"
+    },
+    {
+      "axis": "application",
+      "value": "전력저장시스템",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이외에도 전력저장시스템(ESS)와 전동공구, E-bike 및 모바일, E-모바일 등 IT기기 소형분야에서도 이차전지 시장 규모가 커지면서 수요는 함께 증가할 것으로 전망됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "엘지화학",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "아모레퍼시픽",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 매출처는 아모레퍼시픽㈜, LG생활건강, 희성촉매 등이며 매출처별 금액 및 비율은 회사의 원활한 업무수행을 위해 불가피하게 생략하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원광석",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제조하고 있는 이산화티타늄의 원재료는 티타늄 원광석(Titanium Ilmenite)으로, 티타늄 원광석 중 한 종류인 티탄철석(FeTiO3)을 황산으로 화학반응 시켜 이산화티타늄을 제조하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "황산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 제조하고 있는 이산화티타늄의 원재료는 티타늄 원광석(Titanium Ilmenite)으로, 티타늄 원광석 중 한 종류인 티탄철석(FeTiO3)을 황산으로 화학반응 시켜 이산화티타늄을 제조하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "리튬",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "양극활물질의 핵심원료인 전구체와 리튬은 국제시세(FMB, LME)에 연동되어 공급받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "NCM 전구체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "양극활물질의 핵심원료인 전구체와 리튬은 국제시세(FMB, LME)에 연동되어 공급받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "베이스필름",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신소재부문의 주요 원료는 베이스필름, 레진, 코발트 등이 있고, 구입액과 주요 구입처는 다음과 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 현재 충청북도 충주와 울산광역시 울주군에 생산설비를 보유하고 있으며 유형자산 현황은 다음과 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 현재 충청북도 충주와 울산광역시 울주군에 생산설비를 보유하고 있으며 유형자산 현황은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결회사의 재무제표는 해외에 중요한 영업투자로 인해 원화와 외화간 환율변동에 상당한 영향을 받을 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "후방산업 업계의 메탈 가격은 양극활물질의 판매 가격을 결정하는 중요한 요소로 작용하여 메탈 시세 변동이 양극활물질에 직접적인 영향을 미칩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산코발트\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 이차전지 양극소재 주요 원료인 황산코발트와 대표적인 백색안료인 이산화티타늄을 제조 및 판매하는 국내 유일의 회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이산화티타늄\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 이차전지 양극소재 주요 원료인 황산코발트와 대표적인 백색안료인 이산화티타늄을 제조 및 판매하는 국내 유일의 회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극활물질\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"신소재부문은 이차전지 양극활물질, 토너, 이형필름 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기능성필름\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신소재부문은 이차전지 양극활물질, 토너, 이형필름 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제올라이트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"촉매부문은 제올라이트, 알루민산소다, 규산소다 등을 생산, 판매하고 있으며 주요 매출액 및 구성은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"이차전지 시장은 세계적으로 전기자동차 및 각종 휴대용 기기의 비약적인 발전과 더불어 지속적으로 높은 성장세를 이어가고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"향후 MLCC 시장은 AI 서버와 고용량 데이터센터 및 전장 분야의 급격한 성장이 반도체 수요 증가를 견인할 것으로 예상되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"향후 MLCC 시장은 AI 서버와 고용량 데이터센터 및 전장 분야의 급격한 성장이 반도체 수요 증가를 견인할 것으로 예상되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력저장시스템\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이외에도 전력저장시스템(ESS)와 전동공구, E-bike 및 모바일, E-모바일 등 IT기기 소형분야에서도 이차전지 시장 규모가 커지면서 수요는 함께 증가할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지화학\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 삼성전기, 삼성SDI, 엘지화학 등이며 매출처별 금액 및 비율은 계약 이행 등 회사의 원활한 업무 수행을 위해 불가피하게 생략 하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"아모레퍼시픽\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 아모레퍼시픽㈜, LG생활건강, 희성촉매 등이며 매출처별 금액 및 비율은 회사의 원활한 업무수행을 위해 불가피하게 생략하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원광석\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조하고 있는 이산화티타늄의 원재료는 티타늄 원광석(Titanium Ilmenite)으로, 티타늄 원광석 중 한 종류인 티탄철석(FeTiO3)을 황산으로 화학반응 시켜 이산화티타늄을 제조하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"황산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조하고 있는 이산화티타늄의 원재료는 티타늄 원광석(Titanium Ilmenite)으로, 티타늄 원광석 중 한 종류인 티탄철석(FeTiO3)을 황산으로 화학반응 시켜 이산화티타늄을 제조하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"리튬\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"양극활물질의 핵심원료인 전구체와 리튬은 국제시세(FMB, LME)에 연동되어 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"NCM 전구체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"양극활물질의 핵심원료인 전구체와 리튬은 국제시세(FMB, LME)에 연동되어 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"베이스필름\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신소재부문의 주요 원료는 베이스필름, 레진, 코발트 등이 있고, 구입액과 주요 구입처는 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 충청북도 충주와 울산광역시 울주군에 생산설비를 보유하고 있으며 유형자산 현황은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 충청북도 충주와 울산광역시 울주군에 생산설비를 보유하고 있으며 유형자산 현황은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"연결회사의 재무제표는 해외에 중요한 영업투자로 인해 원화와 외화간 환율변동에 상당한 영향을 받을 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"후방산업 업계의 메탈 가격은 양극활물질의 판매 가격을 결정하는 중요한 요소로 작용하여 메탈 시세 변동이 양극활물질에 직접적인 영향을 미칩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/005420_20260602000269.txt"
+}

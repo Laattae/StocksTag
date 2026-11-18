@@ -1,0 +1,200 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "초코파이",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "초코파이, 포카칩, 고래밥, 예감 등"
+    },
+    {
+      "axis": "product",
+      "value": "포카칩",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "초코파이, 포카칩, 고래밥, 예감 등"
+    },
+    {
+      "axis": "product",
+      "value": "영화매출",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "영화매출(극장상영), 콘텐츠 제작 매출"
+    },
+    {
+      "axis": "product",
+      "value": "닥터유 제주용암수",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등"
+    },
+    {
+      "axis": "product",
+      "value": "치과질환 치료제",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": null,
+      "direction": null,
+      "evidence": ""
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "포장재 제조 | 안산공장 | 254,016 | 74,369 | 254,016 | 73,926 | 254,016 | 73,913"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "청주4공장 | 충북 청주시"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": null,
+      "direction": null,
+      "evidence": "익산2공장 | 전북 익산시"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)오리온제주용암수 | 제주공장 | 제주특별자치도 제주시"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "곡물가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유지류",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(주)오리온 | 유지류 | 국 내 | 2,388 | 2,163 | 2,401"
+    },
+    {
+      "axis": "raw_material",
+      "value": "당류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주)오리온 | 당 류 | 국 내 | 1,151 | 1,164 | 1,144"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유제품류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주)오리온 | 유제품류 | 국 내 | 7,299 | 7,397 | 7,516"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주)오리온 | 코코아류 | 국 내 | 8,895 | 7,065 | 5,905"
+    },
+    {
+      "axis": "raw_material",
+      "value": "서류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)오리온 | 서 류 | 국 내 | 969 | 988 | 995"
+    },
+    {
+      "axis": "product",
+      "value": "파이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Orion International EuroLLC \n음식료품 \n제품 \n파 이 \n내 수 \n247,876"
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비스킷 \n내 수 \n49,454 \n35,520 \n34,297"
+    },
+    {
+      "axis": "product",
+      "value": "혼합음료",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "(주)오리온제주용암수 \n음식료품제조 \n제품 \n혼합음료 \n내 수 \n16,854"
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "수 출 \n영화 \n4,053 \n6.46% \n10,087 \n10.83% \n5,011"
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "드라마 \n265 \n0.42% \n112 \n0.12% \n8,585"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원재료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원 재 료 비 \n675 \n537 \n505"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제주특별자치도 \n계약 유형 \n상생협약"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "산동루캉의약주식유한공사ㆍOrion FoodCo., Ltd \n계약 유형 \n합자투자계약"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체의 환위험은 개별기업의 기능통화 이외의 통화로 표시된 자산과 부채에서 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "향후 금융상품 예치시 적용되는 시장이자율의 변동에 따라 이자수익의 규모에 영향을 미칠 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"초코파이\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"초코파이, 포카칩, 고래밥, 예감 등\"}, {\"axis\": \"product\", \"value\": \"포카칩\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"초코파이, 포카칩, 고래밥, 예감 등\"}, {\"axis\": \"product\", \"value\": \"영화매출\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"영화매출(극장상영), 콘텐츠 제작 매출\"}, {\"axis\": \"product\", \"value\": \"닥터유 제주용암수\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등\"}, {\"axis\": \"product\", \"value\": \"치과질환 치료제\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": null, \"direction\": null, \"evidence\": \"\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"포장재 제조 | 안산공장 | 254,016 | 74,369 | 254,016 | 73,926 | 254,016 | 73,913\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": null, \"direction\": null, \"evidence\": \"청주4공장 | 충북 청주시\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": null, \"direction\": null, \"evidence\": \"익산2공장 | 전북 익산시\"}, {\"axis\": \"region\", \"value\": \"제주\", \"weight\": null, \"direction\": null, \"evidence\": \"(주)오리온제주용암수 | 제주공장 | 제주특별자치도 제주시\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"곡물가격\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"유지류\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"(주)오리온 | 유지류 | 국 내 | 2,388 | 2,163 | 2,401\"}, {\"axis\": \"raw_material\", \"value\": \"당류\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"(주)오리온 | 당 류 | 국 내 | 1,151 | 1,164 | 1,144\"}, {\"axis\": \"raw_material\", \"value\": \"유제품류\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"(주)오리온 | 유제품류 | 국 내 | 7,299 | 7,397 | 7,516\"}, {\"axis\": \"raw_material\", \"value\": \"코코아류\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"(주)오리온 | 코코아류 | 국 내 | 8,895 | 7,065 | 5,905\"}, {\"axis\": \"raw_material\", \"value\": \"서류\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"(주)오리온 | 서 류 | 국 내 | 969 | 988 | 995\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"파이\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"Orion International EuroLLC \\n음식료품 \\n제품 \\n파 이 \\n내 수 \\n247,876\"}, {\"axis\": \"product\", \"value\": \"비스킷\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"비스킷 \\n내 수 \\n49,454 \\n35,520 \\n34,297\"}, {\"axis\": \"product\", \"value\": \"혼합음료\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"(주)오리온제주용암수 \\n음식료품제조 \\n제품 \\n혼합음료 \\n내 수 \\n16,854\"}, {\"axis\": \"product\", \"value\": \"영화\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"수 출 \\n영화 \\n4,053 \\n6.46% \\n10,087 \\n10.83% \\n5,011\"}, {\"axis\": \"product\", \"value\": \"드라마\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"드라마 \\n265 \\n0.42% \\n112 \\n0.12% \\n8,585\"}, {\"axis\": \"raw_material\", \"value\": \"원재료\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"원 재 료 비 \\n675 \\n537 \\n505\"}, {\"axis\": \"region\", \"value\": \"제주\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"제주특별자치도 \\n계약 유형 \\n상생협약\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"산동루캉의약주식유한공사ㆍOrion FoodCo., Ltd \\n계약 유형 \\n합자투자계약\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"연결실체의 환위험은 개별기업의 기능통화 이외의 통화로 표시된 자산과 부채에서 발생합니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"향후 금융상품 예치시 적용되는 시장이자율의 변동에 따라 이자수익의 규모에 영향을 미칠 수 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/001800_20260318000838.txt"
+}

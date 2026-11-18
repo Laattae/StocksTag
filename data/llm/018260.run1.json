@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "클라우드 서비스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "클라우드 서비스는 CSP(Cloud Service Provider), MSP(Managed Service Provider), SaaS 3가지로 구분되며"
+    },
+    {
+      "axis": "product",
+      "value": "SI",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "SI는 기업경영에 필수적인 업무시스템과 솔루션 도입을 위한 컨설팅부터 구축 서비스를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "ITO",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "ITO는 업종전문성과 디지털 IT역량을 기반으로 고객 접점에서 고객의 IT혁신을 선도하고 비즈니스 경쟁력 강화에 기여하는 IT 아웃소싱 서비스입니다."
+    },
+    {
+      "axis": "product",
+      "value": "물류 서비스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국제운송, 내륙운송, 물류센터 운영, 프로젝트 물류까지 글로벌 물류의 전 영역에 걸친 종합 물류 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "동탄 데이터센터는 HPC(High Performance Computing) 전용 데이터센터로서 R&D, AI 및 Simulation 등 고성능 컴퓨팅 시스템을 설치하여 운영하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 고객은 삼성전자를 포함한 삼성 관계사이며, 한국 및 글로벌 기업고객 확대를 지속적으로 추진하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전산장비",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사 | 상품 | 전산장비 外 | 상품매출 | 235,438 (13.1%)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "수원 | 자가 | 경기도 수원시 영통구 삼성로 168번길 10 | 토지 및 건물"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "상암 데이터센터 | 자가 | 서울시 마포구 월드컵북로 60길 24 | 토지 및 건물"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미주 | 3,487,338 | 3,493,948 | 3,630,930"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결실체는 글로벌 영업활동을 수행함에 따라 (표시통화와 다른) 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "시장에 영향을 주는 주요 요인은 경쟁의 강도, 세계 및 권역별 경기변동, 선박의 수급, 유가의 변동, 기후, 국제정세 등이며"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"클라우드 서비스\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"클라우드 서비스는 CSP(Cloud Service Provider), MSP(Managed Service Provider), SaaS 3가지로 구분되며\"}, {\"axis\": \"product\", \"value\": \"SI\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"SI는 기업경영에 필수적인 업무시스템과 솔루션 도입을 위한 컨설팅부터 구축 서비스를 제공합니다.\"}, {\"axis\": \"product\", \"value\": \"ITO\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"ITO는 업종전문성과 디지털 IT역량을 기반으로 고객 접점에서 고객의 IT혁신을 선도하고 비즈니스 경쟁력 강화에 기여하는 IT 아웃소싱 서비스입니다.\"}, {\"axis\": \"product\", \"value\": \"물류 서비스\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"국제운송, 내륙운송, 물류센터 운영, 프로젝트 물류까지 글로벌 물류의 전 영역에 걸친 종합 물류 서비스를 제공하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"동탄 데이터센터는 HPC(High Performance Computing) 전용 데이터센터로서 R&D, AI 및 Simulation 등 고성능 컴퓨팅 시스템을 설치하여 운영하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 주요 고객은 삼성전자를 포함한 삼성 관계사이며, 한국 및 글로벌 기업고객 확대를 지속적으로 추진하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"전산장비\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사 | 상품 | 전산장비 外 | 상품매출 | 235,438 (13.1%)\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"수원 | 자가 | 경기도 수원시 영통구 삼성로 168번길 10 | 토지 및 건물\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"상암 데이터센터 | 자가 | 서울시 마포구 월드컵북로 60길 24 | 토지 및 건물\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"미주 | 3,487,338 | 3,493,948 | 3,630,930\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"연결실체는 글로벌 영업활동을 수행함에 따라 (표시통화와 다른) 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"시장에 영향을 주는 주요 요인은 경쟁의 강도, 세계 및 권역별 경기변동, 선박의 수급, 유가의 변동, 기후, 국제정세 등이며\"}]}"
+  ],
+  "text_path": "data/reports/018260_20260310002989.txt"
+}

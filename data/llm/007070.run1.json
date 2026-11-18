@@ -1,0 +1,152 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가"
+    },
+    {
+      "axis": "product",
+      "value": "수퍼마켓",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가, 홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 개발사업",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소, 개발사업 부문은 343억원으로 4.78% 감소"
+    },
+    {
+      "axis": "product",
+      "value": "삼각김밥",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)후레쉬서브오산공장주) \n 삼각김밥 \n 18,563,819"
+    },
+    {
+      "axis": "product",
+      "value": "도시락",
+      "weight": null,
+      "direction": null,
+      "evidence": "도시락 \n 6,742,812"
+    },
+    {
+      "axis": "raw_material",
+      "value": "농산물",
+      "weight": null,
+      "direction": null,
+      "evidence": "농산물 : 백미, 깻잎, 양파, 단무지 등 가공식품 : 참치, 스팸, 고추장돼지불고기, 가라아게 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "가공식품",
+      "weight": null,
+      "direction": null,
+      "evidence": "가공식품 : 참치, 스팸, 고추장돼지불고기, 가라아게 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "수산물",
+      "weight": null,
+      "direction": null,
+      "evidence": "수산물 : 김류, 맛살채, 오징어채 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "축산물",
+      "weight": null,
+      "direction": null,
+      "evidence": "축산물 : 돈후지, 조미우전각, 조미우뽈살 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "최저임금",
+      "weight": null,
+      "direction": -1,
+      "evidence": "최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "수퍼마켓",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 개발",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "광범위한 영역의 부동산 개발ㆍ운영 경험과 상업시설 노하우 등 시장과 차별화된 핵심 역량을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "간편식",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 F/F(Fresh Food), HMR(Home Meal Replacement) 및 차별화 상품 강화 등을 통하여 소비트렌드 및 인구구조 변화에 적극적으로 대응하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "인플레이션",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "내수 경기",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "홈쇼핑사업은 최종 소비자를 대상으로 하는 소매유통업으로서, 내수 경기 변동에 따른 국내 소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PT. GS Retail Indonesia는 수퍼 사업의 해외 확장을 위해 설립된 인도네시아 현지 법인으로"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"편의점\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수퍼마켓\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홈쇼핑\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가, 홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 개발사업\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소, 개발사업 부문은 343억원으로 4.78% 감소\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"삼각김밥\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(주)후레쉬서브오산공장주) \\n 삼각김밥 \\n 18,563,819\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"도시락\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도시락 \\n 6,742,812\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"농산물\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"농산물 : 백미, 깻잎, 양파, 단무지 등 가공식품 : 참치, 스팸, 고추장돼지불고기, 가라아게 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"가공식품\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"가공식품 : 참치, 스팸, 고추장돼지불고기, 가라아게 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"수산물\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"수산물 : 김류, 맛살채, 오징어채 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"축산물\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"축산물 : 돈후지, 조미우전각, 조미우뽈살 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"최저임금\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"편의점\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수퍼마켓\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홈쇼핑\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 개발\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"광범위한 영역의 부동산 개발ㆍ운영 경험과 상업시설 노하우 등 시장과 차별화된 핵심 역량을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"간편식\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 F/F(Fresh Food), HMR(Home Meal Replacement) 및 차별화 상품 강화 등을 통하여 소비트렌드 및 인구구조 변화에 적극적으로 대응하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인플레이션\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"내수 경기\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"홈쇼핑사업은 최종 소비자를 대상으로 하는 소매유통업으로서, 내수 경기 변동에 따른 국내 소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PT. GS Retail Indonesia는 수퍼 사업의 해외 확장을 위해 설립된 인도네시아 현지 법인으로\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/007070_20260311004487.txt"
+}

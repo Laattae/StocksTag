@@ -1,0 +1,158 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정수기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "공기청정기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "비데",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "매트리스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2011년 10월 시작한 매트리스 사업은 시장에 조기안착 하였으며 순항중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "안마의자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2021년 12월부터는 안마의자 또한 기존 일시불 판매에서 렌탈 판매 방식까지 확대하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기레인지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기"
+    },
+    {
+      "axis": "product",
+      "value": "제습기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기"
+    },
+    {
+      "axis": "product",
+      "value": "가습기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기"
+    },
+    {
+      "axis": "raw_material",
+      "value": "컴프레샤",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "헤파필터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 헤파필터 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "와이어콘덴서",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 와이어콘덴서 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "멤브레인소자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 멤브레인소자 외 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PBA 아세이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 국내를 거점으로 말레이시아, 미국, 중국, 태국, 인도네시아, 베트남, 유럽, 싱가포르, 인도의 해외종속회사에서 동종 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 국내를 거점으로 말레이시아, 미국, 중국, 태국, 인도네시아, 베트남, 유럽, 싱가포르, 인도의 해외종속회사에서 동종 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동될 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환경문제",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "환경에 대한 관심의 정도를 변화시킬 수 있는 환경문제, 정부의 정책등에 의해서도 민감하게 영향받는 시장입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"정수기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공기청정기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비데\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"매트리스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2011년 10월 시작한 매트리스 사업은 시장에 조기안착 하였으며 순항중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"안마의자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2021년 12월부터는 안마의자 또한 기존 일시불 판매에서 렌탈 판매 방식까지 확대하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기레인지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제습기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가습기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"- 제품군 기타 : 연수기, 전기레인지, 제습기, 가습기\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"컴프레샤\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"헤파필터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 헤파필터 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"와이어콘덴서\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 와이어콘덴서 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"멤브레인소자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 멤브레인소자 외 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PBA 아세이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내를 거점으로 말레이시아, 미국, 중국, 태국, 인도네시아, 베트남, 유럽, 싱가포르, 인도의 해외종속회사에서 동종 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내를 거점으로 말레이시아, 미국, 중국, 태국, 인도네시아, 베트남, 유럽, 싱가포르, 인도의 해외종속회사에서 동종 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동될 위험입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경문제\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"환경에 대한 관심의 정도를 변화시킬 수 있는 환경문제, 정부의 정책등에 의해서도 민감하게 영향받는 시장입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/021240_20260323000924.txt"
+}

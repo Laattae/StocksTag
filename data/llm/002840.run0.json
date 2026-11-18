@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "계면활성제",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 | 198,086,421 | 44.9%"
+    },
+    {
+      "axis": "product",
+      "value": "전자재료",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 | 200,746,597 | 45.5%"
+    },
+    {
+      "axis": "product",
+      "value": "렌즈모노머",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "지배기업 및 종속기업의 사업분야는 생활화학재료, 전자재료, 렌즈모노머 등을 포함한 기타 분야로 구성되어 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외"
+    },
+    {
+      "axis": "application",
+      "value": "전지소재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 경기도 안양에 위치한 안양사무소를 비롯하여 반월, 전주, 익산 등의 국내사업장과 중국의 해외사업장에서 주요 제품에 대한 영업 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전주1공장(미원상사) | 전북 완주군 봉동읍 완주3단1로 167"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해외(1개 사업장) | 청운(계동청운) | 중국 장쑤성 치둥시 런민중로 669-1, 2214호"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품목군별 주요 원료 가격 변동추이는 아래와 같으며, 국내외 수급상황과 환율에 따라 변동하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 제품의 가격은 원재료 가격 및 시장 수급상황에 따라 변동하며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"계면활성제\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 | 198,086,421 | 44.9%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자재료\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 | 200,746,597 | 45.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"렌즈모노머\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"지배기업 및 종속기업의 사업분야는 생활화학재료, 전자재료, 렌즈모노머 등을 포함한 기타 분야로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전지소재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 안양에 위치한 안양사무소를 비롯하여 반월, 전주, 익산 등의 국내사업장과 중국의 해외사업장에서 주요 제품에 대한 영업 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전주1공장(미원상사) | 전북 완주군 봉동읍 완주3단1로 167\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해외(1개 사업장) | 청운(계동청운) | 중국 장쑤성 치둥시 런민중로 669-1, 2214호\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"품목군별 주요 원료 가격 변동추이는 아래와 같으며, 국내외 수급상황과 환율에 따라 변동하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 제품의 가격은 원재료 가격 및 시장 수급상황에 따라 변동하며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/002840_20260316000483.txt"
+}

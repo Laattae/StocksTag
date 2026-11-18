@@ -1,0 +1,162 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LNG 보냉재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "탄소섬유 프리프레그 사업을 기반으로 유리섬유를 포함한 여러 산업용 복합소재를 상용화하여 다양한 첨단산업에 공급하고 있습니다. 당사는 1995년에 한국거래소 유가증권시장에 상장되었으며, LNG 운반선의 핵심 부품인 LNG 보냉재"
+    },
+    {
+      "axis": "product",
+      "value": "카본시트",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "카본시트 | 낚시대,골프항공용레져용 | HANKUKCARBONCO.LTD | 52,243 | 5.75"
+    },
+    {
+      "axis": "product",
+      "value": "글라스페이퍼",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "글라스페이퍼(GP)는 유리 장섬유를 일정 길이로 절단한 유리 단섬유를 주원료로 하여 습식법으로 생산된 유리섬유 페이퍼로써"
+    },
+    {
+      "axis": "product",
+      "value": "탄소섬유 보강재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "탄소섬유 보강재는 구조 내력이 부족한 교량이나 건축 슬라브 등 철근콘크리트 구조 표면에 부착하는 소재로 구조물의 강도"
+    },
+    {
+      "axis": "product",
+      "value": "프리프레그",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "프리프레그는 첨단 복합재 산업 가치사슬의 중간재로 강화재인 탄소섬유, 유리섬유, 아라미드 섬유 등에 특수하게 혼합된 에폭시 수지(Matrix)를 함침시킨 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "SMC",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "SMC는 Sheet Molding Compound의 약자로 유리섬유 시트(직물 또는 Chop)에 불포화 폴리에스테르 또는 비닐에스테르 수지를 함침시킨 복합소재입니다."
+    },
+    {
+      "axis": "product",
+      "value": "철도 내/외장재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철도부품 사업부는 유리섬유를 적용하여 가볍고 물성과 강도가 우수하며 난연성, 안정성을 갖춘 철도 내/외장재를 고객사에 다양한 솔루션을 제공하고 있습니다."
+    },
+    {
+      "application": "조선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아 글로벌 LNG운반선을 건조하는 국내외 조선사에 납품을 하고 있습니다."
+    },
+    {
+      "application": "건축",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국카본의 건축 자재용 소재는 주택, 아파트, 상업 시설, 공공기관 및 학교, 의료 시설과 같이 다양한 장소에서 요구되는 사양에 맞추어 개발 적용되고 있습니다."
+    },
+    {
+      "application": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다."
+    },
+    {
+      "application": "항공우주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다."
+    },
+    {
+      "customer": "GTT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 LNG 화물창 기술의 라이선스는 프랑스의 GTT(Gruppo Torinese Trasporti社)가 독점하고 있으며, 당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아"
+    },
+    {
+      "customer": "한화오션",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며"
+    },
+    {
+      "customer": "현대중공업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며"
+    },
+    {
+      "customer": "삼성중공업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며"
+    },
+    {
+      "raw_material": "카본원사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음."
+    },
+    {
+      "raw_material": "WOOD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음."
+    },
+    {
+      "raw_material": "수지",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료 | 수지 | F생산용 | 145,175 | 46.97"
+    },
+    {
+      "region": "경남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "산업재 | 자가 | 밀양부북용지리183 외 | 56,290,146 | 3,405,540"
+    },
+    {
+      "region": "경북",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일반재 | 자가 | 함양수동면원평리183 외 | 10,752,877"
+    },
+    {
+      "region": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일반재 | 자가 | 베트남 | 9,650,191 | 4,203"
+    },
+    {
+      "region": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "충북개발공사 | 계약유형 | 충북 보은일반산업단지 | 체결시기 및 기간 | 2019.02"
+    },
+    {
+      "exposure": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 안정적인 물량을 확보중이고 당사는USD,유로화로 결제하는 조건으로 계약이 되어있어 환율의 변동에 따라 가격이 변동됨."
+    },
+    {
+      "exposure": "LNG운반선 수요",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "탄소중립으로 가는 에너지 전환 과정에서 브릿지 연료 역할을 하는 LNG의 수요-공급 밸런스 확대에 따라 LNG운반선에 대한 수요는 급증하고 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG 보냉재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"탄소섬유 프리프레그 사업을 기반으로 유리섬유를 포함한 여러 산업용 복합소재를 상용화하여 다양한 첨단산업에 공급하고 있습니다. 당사는 1995년에 한국거래소 유가증권시장에 상장되었으며, LNG 운반선의 핵심 부품인 LNG 보냉재\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카본시트\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"카본시트 | 낚시대,골프항공용레져용 | HANKUKCARBONCO.LTD | 52,243 | 5.75\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글라스페이퍼\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"글라스페이퍼(GP)는 유리 장섬유를 일정 길이로 절단한 유리 단섬유를 주원료로 하여 습식법으로 생산된 유리섬유 페이퍼로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄소섬유 보강재\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"탄소섬유 보강재는 구조 내력이 부족한 교량이나 건축 슬라브 등 철근콘크리트 구조 표면에 부착하는 소재로 구조물의 강도\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"프리프레그\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"프리프레그는 첨단 복합재 산업 가치사슬의 중간재로 강화재인 탄소섬유, 유리섬유, 아라미드 섬유 등에 특수하게 혼합된 에폭시 수지(Matrix)를 함침시킨 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SMC\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"SMC는 Sheet Molding Compound의 약자로 유리섬유 시트(직물 또는 Chop)에 불포화 폴리에스테르 또는 비닐에스테르 수지를 함침시킨 복합소재입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철도 내/외장재\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철도부품 사업부는 유리섬유를 적용하여 가볍고 물성과 강도가 우수하며 난연성, 안정성을 갖춘 철도 내/외장재를 고객사에 다양한 솔루션을 제공하고 있습니다.\"\n    },\n    {\n      \"application\": \"조선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아 글로벌 LNG운반선을 건조하는 국내외 조선사에 납품을 하고 있습니다.\"\n    },\n    {\n      \"application\": \"건축\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국카본의 건축 자재용 소재는 주택, 아파트, 상업 시설, 공공기관 및 학교, 의료 시설과 같이 다양한 장소에서 요구되는 사양에 맞추어 개발 적용되고 있습니다.\"\n    },\n    {\n      \"application\": \"자동차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다.\"\n    },\n    {\n      \"application\": \"항공우주\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"고강도, 고탄성, 초경량의 특성으로 스포츠&레저, 항공우주방산, 자동차, 로봇 등 고성능의 복합재료를 필요로 하는 분야로 널리 적용되고 있습니다.\"\n    },\n    {\n      \"customer\": \"GTT\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 LNG 화물창 기술의 라이선스는 프랑스의 GTT(Gruppo Torinese Trasporti社)가 독점하고 있으며, 당사는 GTT의 멤브레인(Membrane) 타입의 보냉재 생산 인증을 받아\"\n    },\n    {\n      \"customer\": \"한화오션\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며\"\n    },\n    {\n      \"customer\": \"현대중공업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며\"\n    },\n    {\n      \"customer\": \"삼성중공업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 기존의 현대중공업/삼성중공업 향 MARKⅢ 타입 뿐만 아니라 세계최초로 NO96-SUPER+를 채택한 한화오션을 새로운 고객사로 유치하여 매출 확대로 이어지며\"\n    },\n    {\n      \"raw_material\": \"카본원사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음.\"\n    },\n    {\n      \"raw_material\": \"WOOD\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"동사의 원재료중 카본원사, WOOD가 높은 비중을 차지하고, 구매처의 다각화로 원사의 가격을 인하토록 유도하고 있음.\"\n    },\n    {\n      \"raw_material\": \"수지\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 수지 | F생산용 | 145,175 | 46.97\"\n    },\n    {\n      \"region\": \"경남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"산업재 | 자가 | 밀양부북용지리183 외 | 56,290,146 | 3,405,540\"\n    },\n    {\n      \"region\": \"경북\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일반재 | 자가 | 함양수동면원평리183 외 | 10,752,877\"\n    },\n    {\n      \"region\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일반재 | 자가 | 베트남 | 9,650,191 | 4,203\"\n    },\n    {\n      \"region\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"충북개발공사 | 계약유형 | 충북 보은일반산업단지 | 체결시기 및 기간 | 2019.02\"\n    },\n    {\n      \"exposure\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 안정적인 물량을 확보중이고 당사는USD,유로화로 결제하는 조건으로 계약이 되어있어 환율의 변동에 따라 가격이 변동됨.\"\n    },\n    {\n      \"exposure\": \"LNG운반선 수요\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"탄소중립으로 가는 에너지 전환 과정에서 브릿지 연료 역할을 하는 LNG의 수요-공급 밸런스 확대에 따라 LNG운반선에 대한 수요는 급증하고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/017960_20260319001272.txt"
+}

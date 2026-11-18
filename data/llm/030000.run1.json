@@ -1,0 +1,10 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고 기획 및 제작\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 제공하는 마케팅 솔루션은 크게 광고 기획/제작, 매체(TV/라디오/옥외 등) 선정, 프로모션 대행 등으로 구분되며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"매체 구매 대행\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"광고업은 매체의 경우 매체비를 제외한 매체구매대행 수수료 등을 영업수익으로 인식(순액기재)하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털 광고 솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"소비자의 온라인 구매 패턴 분석 및 개인화 마케팅 전략 수립 등 AdTech를 활용한 솔루션 또한 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"체험 마케팅\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"프로모션 이벤트, 글로벌 전시, 스포츠 행사 등을 기획. 제작 및 집행하는 체험 마케팅을 제공합니다.\"\n    },\n    {\n      \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전자, 금융, 식품, 화장품, 건설, 통신, 건강기능 등 다양한 업종의 광고주를 국내외에서 영입하며 사업을 성장 시켰습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 국내 광고업을 위해 다음과 같이 토지, 건물을 소유 또는 임차하고 있습니다. (중략) 서울 3,572 25,173 28,745\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"본사 영업총이익은 리테일 및 디지털 중심 물량 확대로 전년 대비 4.6% 증가한3,908억원을 기록하였으며, 연결 종속회사 영업총이익은 북미/중남미/동남아 등해외 지역의 호실적이 더해지며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"경기변동에 대해 광고업은 탄력도가 높다고 할 수 있습니다. 즉, 경기호황시 광고 시장은 더 크게 성장하나 경기침체시에는\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"소비지표\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"이와 같이 소비지표가 부진한 가운데 기업의 마케팅 활동은 효율화 기조를 유지하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/030000_20260310002959.txt"
+}

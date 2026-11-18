@@ -1,0 +1,152 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "세노바메이트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 자체개발한 주력 제품 뇌전증 치료 신약 ‘세노바메이트’는 2019년 11월 FDA NDA 승인을 받고 미국시장에 2020년 5월 제품명 XCOPRI®로 출시되었으며"
+    },
+    {
+      "axis": "product",
+      "value": "솔리암페톨",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다(2019년 7월, 제품명 SUNOSI®)."
+    },
+    {
+      "axis": "application",
+      "value": "뇌전증",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "거대한 글로벌 신약 시장을 타겟으로 중추신경계 분야 중 특히 뇌전증 분야의 혁신 신약 개발에 집중해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "수면장애",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다(2019년 7월, 제품명 SUNOSI®)."
+    },
+    {
+      "axis": "customer",
+      "value": "Ignis Therapeutics",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2021년 11월 중 Ignis Therapeutics社와 세노바메이트 등 6개의 신약에 대해 중국 등 지역(중국,홍콩,마카오,대만)에 상업화 권리를 부여하는 기술수출 계약을 체결하였고"
+    },
+    {
+      "axis": "customer",
+      "value": "Axsome Malta Ltd.",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2023년 Axsome社가 Atnahs社에 솔리암페톨의 유럽지역에 대한 상업화 권리를 부여하는 계약 (서브라이센싱 계약)을 체결함에 따라 수취한 대가를 매출로 인식하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Eurofarma Laboratorios S.A.",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2022년 7월 중 Eurofarma社와 세노바메이트의 라틴아메리카 지역내 독점적 권리를 부여하는 기술수출 계약을 체결하여 계약금 USD 15,000,000을 수취하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 임상 시험용 및 상업용 원료의약품은 당사와 특수관계인 SK바이오텍이 공급하고 있으며, 세노바메이트 및 기타 임상 과제에 대한 의약품 생산과 관련된 각종 안전성 시험, 생산기술 개발 등을 SK바이오텍을 통해 위탁연구용역으로 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 직접 판매하고 있는 미국시장을 제외하고, 유럽을 포함한 중국, 일본, 한국, 호주, 캐나다, 라틴아메리카, 중동 및 북아프리카(MENA) 지역 등 대부분의 국가에 기술수출 계약을 체결하는 성과를 거두었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 연결실체는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세노바메이트",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사의 주력 파이프라인인 세노바메이트 외에도, 기술수출하여 미국에서 신약 출시된 솔리암페톨과, FDA가 희귀의약품으로 지정한 카리스바메이트 등 CNS 파이프라인과 다수의 신약후보물질을 보유 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "솔리암페톨",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이미 2개의 미국 FDA NDA 승인 및 출시된 프로덕트(세노바메이트, 솔리암페톨)를 보유한 회사가 되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "카리스바메이트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 주력 파이프라인인 세노바메이트 외에도, 기술수출하여 미국에서 신약 출시된 솔리암페톨과, FDA가 희귀의약품으로 지정한 카리스바메이트 등 CNS 파이프라인과 다수의 신약후보물질을 보유 하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "뇌전증",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "1996년 FDA로부터 신약 후보물질의 첫 임상시험을 승인 받은 것을 시작으로 본격적으로 CNS, 특히 뇌전증 질환 치료를 위한 혁신신약 개발에 집중 해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "중추신경계 질환",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 주력하고 있는 CNS 질환 의약품 시장은 전체 치료영역 중 3위 규모의 큰 시장이며"
+    },
+    {
+      "axis": "application",
+      "value": "수면장애",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 뇌전증 치료제인 세노바메이트 및 수면장애 치료제인 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "다만 당사의 현재 주력 시장은 글로벌, 특히 미국 시장으로서 국내 약가정책이나 기타 규제의 당사 영업이나 손익 등에 대한 영향은 제한적일 것으로 예상됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "유럽시장은 Arvelle社(현재 Angelini 社에 인수)에의 세노바메이트 기술수출을 통해 유럽 판권을 이전하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국의 경우 2021년 11월 중국 현지 재무적 투자자와 Ignis Therapeutics 를 설립하고 1대주주 지분을 확보 하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "약가정책",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국내 시장의 경우 정부가 약가를 직접적으로 통제하고 있어 정부의 약가정책이 제약산업 내 개별 기업의 매출 및 영업 수익성에 직접적인 영향을 미치고 있으며"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"세노바메이트\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사가 자체개발한 주력 제품 뇌전증 치료 신약 ‘세노바메이트’는 2019년 11월 FDA NDA 승인을 받고 미국시장에 2020년 5월 제품명 XCOPRI®로 출시되었으며\"}, {\"axis\": \"product\", \"value\": \"솔리암페톨\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다(2019년 7월, 제품명 SUNOSI®).\"}, {\"axis\": \"application\", \"value\": \"뇌전증\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"거대한 글로벌 신약 시장을 타겟으로 중추신경계 분야 중 특히 뇌전증 분야의 혁신 신약 개발에 집중해 왔습니다.\"}, {\"axis\": \"application\", \"value\": \"수면장애\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다(2019년 7월, 제품명 SUNOSI®).\"}, {\"axis\": \"customer\", \"value\": \"Ignis Therapeutics\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"2021년 11월 중 Ignis Therapeutics社와 세노바메이트 등 6개의 신약에 대해 중국 등 지역(중국,홍콩,마카오,대만)에 상업화 권리를 부여하는 기술수출 계약을 체결하였고\"}, {\"axis\": \"customer\", \"value\": \"Axsome Malta Ltd.\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2023년 Axsome社가 Atnahs社에 솔리암페톨의 유럽지역에 대한 상업화 권리를 부여하는 계약 (서브라이센싱 계약)을 체결함에 따라 수취한 대가를 매출로 인식하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"Eurofarma Laboratorios S.A.\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2022년 7월 중 Eurofarma社와 세노바메이트의 라틴아메리카 지역내 독점적 권리를 부여하는 기술수출 계약을 체결하여 계약금 USD 15,000,000을 수취하였으며\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사의 임상 시험용 및 상업용 원료의약품은 당사와 특수관계인 SK바이오텍이 공급하고 있으며, 세노바메이트 및 기타 임상 과제에 대한 의약품 생산과 관련된 각종 안전성 시험, 생산기술 개발 등을 SK바이오텍을 통해 위탁연구용역으로 수행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 직접 판매하고 있는 미국시장을 제외하고, 유럽을 포함한 중국, 일본, 한국, 호주, 캐나다, 라틴아메리카, 중동 및 북아프리카(MENA) 지역 등 대부분의 국가에 기술수출 계약을 체결하는 성과를 거두었습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 연결실체는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세노바메이트\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력 파이프라인인 세노바메이트 외에도, 기술수출하여 미국에서 신약 출시된 솔리암페톨과, FDA가 희귀의약품으로 지정한 카리스바메이트 등 CNS 파이프라인과 다수의 신약후보물질을 보유 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"솔리암페톨\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이미 2개의 미국 FDA NDA 승인 및 출시된 프로덕트(세노바메이트, 솔리암페톨)를 보유한 회사가 되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카리스바메이트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사가 주력 파이프라인인 세노바메이트 외에도, 기술수출하여 미국에서 신약 출시된 솔리암페톨과, FDA가 희귀의약품으로 지정한 카리스바메이트 등 CNS 파이프라인과 다수의 신약후보물질을 보유 하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"뇌전증\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"1996년 FDA로부터 신약 후보물질의 첫 임상시험을 승인 받은 것을 시작으로 본격적으로 CNS, 특히 뇌전증 질환 치료를 위한 혁신신약 개발에 집중 해 왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중추신경계 질환\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 주력하고 있는 CNS 질환 의약품 시장은 전체 치료영역 중 3위 규모의 큰 시장이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"수면장애\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 뇌전증 치료제인 세노바메이트 및 수면장애 치료제인 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"다만 당사의 현재 주력 시장은 글로벌, 특히 미국 시장으로서 국내 약가정책이나 기타 규제의 당사 영업이나 손익 등에 대한 영향은 제한적일 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"유럽시장은 Arvelle社(현재 Angelini 社에 인수)에의 세노바메이트 기술수출을 통해 유럽 판권을 이전하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국의 경우 2021년 11월 중국 현지 재무적 투자자와 Ignis Therapeutics 를 설립하고 1대주주 지분을 확보 하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"약가정책\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국내 시장의 경우 정부가 약가를 직접적으로 통제하고 있어 정부의 약가정책이 제약산업 내 개별 기업의 매출 및 영업 수익성에 직접적인 영향을 미치고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/326030_20260318000773.txt"
+}

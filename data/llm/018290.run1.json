@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.93,
+      "direction": null,
+      "evidence": "당사의 화장품사업부문의 2025년 당기 매출액은 409,163백만원이며, 매출비율은 93.59%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "라미네이팅",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "라이네이팅 사업부문의 2025년 당기말 매출액은 27,433백만원이며 매출비율은 6.27% 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "리들샷",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 주력 상품인 '시카 데일리 수딩 마스크'에 이어 마이크로니들에센스 성분을 기반으로 하는 '리들샷'이라는 차별화된 제품을 통해 시장성장을 이루어 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "치매치료제",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "조절 T 세포를 이용한 알츠하이머병 치료제 및 알츠하이머병 치료용 백신 조성물 기술이전(L/I)하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "GMP",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외전시회 참가를 통해 GMP 고객사와의 관계개선을 넓혀가고있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "코스메카코리아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "화장품원료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화장품원료 | 파운데이션, 마스크팩, 스킨케어, 향료 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "EVA",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "필름 원부재료 | EVA | 원단접착제외"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "라미네이터 | 파주문발 | 3,905"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현재 일본에서 재생의료 서비스를 진행하기 위해 도쿄 소재 세포치료제 전문병원과 계약서를 진행중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "한편 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기말 및 전기말 현재 순손익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.93,\n      \"direction\": null,\n      \"evidence\": \"당사의 화장품사업부문의 2025년 당기 매출액은 409,163백만원이며, 매출비율은 93.59%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라미네이팅\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"라이네이팅 사업부문의 2025년 당기말 매출액은 27,433백만원이며 매출비율은 6.27% 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리들샷\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 주력 상품인 '시카 데일리 수딩 마스크'에 이어 마이크로니들에센스 성분을 기반으로 하는 '리들샷'이라는 차별화된 제품을 통해 시장성장을 이루어 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"치매치료제\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"조절 T 세포를 이용한 알츠하이머병 치료제 및 알츠하이머병 치료용 백신 조성물 기술이전(L/I)하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GMP\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외전시회 참가를 통해 GMP 고객사와의 관계개선을 넓혀가고있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"코스메카코리아\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"화장품원료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화장품원료 | 파운데이션, 마스크팩, 스킨케어, 향료 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"EVA\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"필름 원부재료 | EVA | 원단접착제외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"라미네이터 | 파주문발 | 3,905\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현재 일본에서 재생의료 서비스를 진행하기 위해 도쿄 소재 세포치료제 전문병원과 계약서를 진행중에 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"한편 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기말 및 전기말 현재 순손익에 미치는 영향은 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/018290_20260319001002.txt"
+}

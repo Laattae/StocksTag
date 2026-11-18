@@ -1,0 +1,236 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "지상무기체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "해양무기체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "항공우주체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "전산시스템 설계 및 구축",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등"
+    },
+    {
+      "axis": "product",
+      "value": "전산시스템 위탁운영",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등"
+    },
+    {
+      "axis": "product",
+      "value": "디지털플랫폼",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "디지털플랫폼,상선 및 지원함 등"
+    },
+    {
+      "axis": "product",
+      "value": "상선 및 지원함",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "디지털플랫폼,상선 및 지원함 등"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "방위사업청(17%)국방과학연구소(10%)"
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "방위사업청(17%)국방과학연구소(10%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "송수신모듈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "송수신모듈(4채널)질문기, 피아식별기용휴대II형 필터 회로카드조립체정비장비송신모듈"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기자재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "의장재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경상북도 구미시 산호대로 264-60"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "서울특별시 중구 을지로 100"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기도 용인시 수지구 디지털벨리로 101"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "제주 서귀포시 1100로 506-2"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Hanwha Philly Shipyard Inc. | - | 미국, 펜실베이니아"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당기와 전기의 각 외화에 대한 원화환율이 10% 변동시 외화자산과 외화부채 환산액의 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당기말 현재, 다른 변수가 일정하고 변동금리부 부채에 대한 연이자율이 1% 상승 또는 하락할 경우, 법인세비용차감전순손익은 연간 2,186,920천원만큼 감소 또는 증가하게 됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "방산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |"
+    },
+    {
+      "axis": "product",
+      "value": "ICT",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |"
+    },
+    {
+      "axis": "product",
+      "value": "무기체계",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유도무기ㆍ항공기ㆍ함정 등 전장에서 전투력을 발휘하기 위한 무기와 이를 운영하는데 필요한 장비ㆍ부품ㆍ시설ㆍ소프트웨어 등 제반 요소를 통합한 것을 '무기체계'로 구분하고"
+    },
+    {
+      "axis": "product",
+      "value": "전력지원체계",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "무기체계 외의 장비ㆍ부품ㆍ시설ㆍ소프트웨어, 그 밖의 물품 등 제반 요소를 '전력지원체계'로 구분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT아웃소싱",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "IT 아웃소싱은 고객의 요청에 따라 기업 정보시스템과 관련된 설비, 인력, 하드웨어 등을 관리 및 운영하는 것을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "SI/컨버전스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "고객에게 필요한 정보시스템 구축 계획 및 운영 전략을 기획하고, 시스템 설계 및 개발을 지원하는 서비스를 의미합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "정부",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "방위산업은 공급(방산기업)과 내수 위주의 수요(정부) 측면에서 모두 독점적 성격을 갖는 쌍방 독과점적 시장구조를 가지고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "폴란드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "폴란드ㆍ중동 등 주요 고객국과의 대규모 패키지 계약이 순차적으로 이행되면서 중기적으로 연간 200억 달러(약 25조 원) 이상 수출 달성이 가능한 수준의 수주 잔고를 확보한 상태입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "사우디아라비아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "UAE",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "인도",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국방비",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "북미와 유럽 지역은 우크라이나 전쟁 장기화, 러시아의 군사적 위협 지속, NATO의 방위비 분담 기준 상향 기조에 따라 국방 예산을 구조적으로 확대하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"지상무기체계\",\n      \"weight\": 0.67,\n      \"direction\": null,\n      \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해양무기체계\",\n      \"weight\": 0.67,\n      \"direction\": null,\n      \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공우주체계\",\n      \"weight\": 0.67,\n      \"direction\": null,\n      \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전산시스템 설계 및 구축\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전산시스템 위탁운영\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털플랫폼\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"디지털플랫폼,상선 및 지원함 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"상선 및 지원함\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"디지털플랫폼,상선 및 지원함 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"방위사업청(17%)국방과학연구소(10%)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방과학연구소\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"방위사업청(17%)국방과학연구소(10%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"송수신모듈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"송수신모듈(4채널)질문기, 피아식별기용휴대II형 필터 회로카드조립체정비장비송신모듈\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기자재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"의장재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경상북도 구미시 산호대로 264-60\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"서울특별시 중구 을지로 100\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기도 용인시 수지구 디지털벨리로 101\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"제주 서귀포시 1100로 506-2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Philly Shipyard Inc. | - | 미국, 펜실베이니아\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당기와 전기의 각 외화에 대한 원화환율이 10% 변동시 외화자산과 외화부채 환산액의 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당기말 현재, 다른 변수가 일정하고 변동금리부 부채에 대한 연이자율이 1% 상승 또는 하락할 경우, 법인세비용차감전순손익은 연간 2,186,920천원만큼 감소 또는 증가하게 됩니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"방산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ICT\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무기체계\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유도무기ㆍ항공기ㆍ함정 등 전장에서 전투력을 발휘하기 위한 무기와 이를 운영하는데 필요한 장비ㆍ부품ㆍ시설ㆍ소프트웨어 등 제반 요소를 통합한 것을 '무기체계'로 구분하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력지원체계\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"무기체계 외의 장비ㆍ부품ㆍ시설ㆍ소프트웨어, 그 밖의 물품 등 제반 요소를 '전력지원체계'로 구분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT아웃소싱\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"IT 아웃소싱은 고객의 요청에 따라 기업 정보시스템과 관련된 설비, 인력, 하드웨어 등을 관리 및 운영하는 것을 의미합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SI/컨버전스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"고객에게 필요한 정보시스템 구축 계획 및 운영 전략을 기획하고, 시스템 설계 및 개발을 지원하는 서비스를 의미합니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"정부\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"방위산업은 공급(방산기업)과 내수 위주의 수요(정부) 측면에서 모두 독점적 성격을 갖는 쌍방 독과점적 시장구조를 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"폴란드ㆍ중동 등 주요 고객국과의 대규모 패키지 계약이 순차적으로 이행되면서 중기적으로 연간 200억 달러(약 25조 원) 이상 수출 달성이 가능한 수준의 수주 잔고를 확보한 상태입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"사우디아라비아\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"UAE\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"인도\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"사우디아라비아, UAE, 이라크 등의 중동지역, 인도, 인도네시아, 필리핀 등의 아시아 태평양 국가들이 주변국과의 긴장 강화와 자국의 경제발전 흐름이 맞물려 실질적인 군비 지출이 증가하고 있어 큰 기회 시장으로 부각하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방비\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"북미와 유럽 지역은 우크라이나 전쟁 장기화, 러시아의 군사적 위협 지속, NATO의 방위비 분담 기준 상향 기조에 따라 국방 예산을 구조적으로 확대하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/272210_20260513000644.txt"
+}

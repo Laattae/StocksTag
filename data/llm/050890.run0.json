@@ -1,0 +1,150 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "유무선 통신장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "이동통신 중계기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Open RAN 장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국을 비롯한 주요 시장에서 Open RAN 인프라 도입에 대한 투자가 본격화될 것으로 예상되는 가운데, 당사는 장기간 축적한 기술력과 상용화 경험을 바탕으로 Open RAN 장비의 공급을 확대하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "광전송장비",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "국방 통신 장비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 ㈜쏠리드윈텍은 TICN(전술정보통신체계), TMMR(차세대 군용무전기), 전술이동통신망 중계기, 군 위성통신장비 등 다양한 국방 통신 분야에서 사업을 전개하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "이동통신",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "글로벌 통신장비 시장은 최근 주요국 통신사업자의 이동통신분야 설비투자(CAPEX) 축소 기조가 지속되면서 성장률이 둔화되었지만, 5G 네트워크 이용의 보편적 확산으로 실내 통신 품질 개선 요구는 지속적으로 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "5G 네트워크",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특히 고주파 대역 기반의 5G 서비스는 전파 도달 범위 및 회절 특성의 한계로 인해 실내 커버리지 확보를 위한 중계기 솔루션의 수요를 구조적으로 확대시키고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "인빌딩 커버리지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 글로벌 In-Building DAS(Distributed Antenna System) 시장에서 기술 경쟁력과 공급 역량을 기반으로 주요 공급사로서의 입지를 확보하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "국방 통신",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 ㈜쏠리드윈텍은 TICN(전술정보통신체계), TMMR(차세대 군용무전기), 전술이동통신망 중계기, 군 위성통신장비 등 다양한 국방 통신 분야에서 사업을 전개하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Verizon",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "북미 및 유럽 시장은 Carrier Market(Verizon, AT&T 등 주요 이동통신사업자)과 Non-Carrier Market(Neutral Host, Enterprise 등)으로 구분되며"
+    },
+    {
+      "axis": "customer",
+      "value": "AT&T",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "북미 및 유럽 시장은 Carrier Market(Verizon, AT&T 등 주요 이동통신사업자)과 Non-Carrier Market(Neutral Host, Enterprise 등)으로 구분되며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "모듈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "모듈 | 21,514,385 | 17.5%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원자재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원자재 | 66,367,243 | 54.0%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "이동통신 네트워크 장비 등 | 유무선 통신장비 | 안양 사업장 | 161,639,719"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 | 93,815,234 | 85,388,540 | 92,376,822 | SOLiD Gear, Inc."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "일본 | 42,003,802 | 51,675,130 | 51,083,873 | SOLiD JAPAN, Inc., ㈜쏠리드"
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "유럽 | 53,070,765 | 59,292,153 | 55,395,535 | SOLID TELECOMMUNICATIONS LTD, SOLID EU GmbH"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사는 변동이자율로 발행된 차입금(장부금액: 97,023,500천원)으로 인하여 이자율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "통신사업자 설비투자(CAPEX)",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "글로벌 통신장비 시장은 최근 주요국 통신사업자의 이동통신분야 설비투자(CAPEX) 축소 기조가 지속되면서 성장률이 둔화되었지만"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"유무선 통신장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이동통신 중계기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Open RAN 장비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국을 비롯한 주요 시장에서 Open RAN 인프라 도입에 대한 투자가 본격화될 것으로 예상되는 가운데, 당사는 장기간 축적한 기술력과 상용화 경험을 바탕으로 Open RAN 장비의 공급을 확대하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광전송장비\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 통신 산업 중 무선통신 분야를 중심으로, 이동통신 중계기, 광전송장비, 개방형 무선네트워크(Open RAN) 기술을 적용한 기지국 솔루션 등의 연구개발, 제조 및 공급을 핵심 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"국방 통신 장비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 ㈜쏠리드윈텍은 TICN(전술정보통신체계), TMMR(차세대 군용무전기), 전술이동통신망 중계기, 군 위성통신장비 등 다양한 국방 통신 분야에서 사업을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이동통신\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"글로벌 통신장비 시장은 최근 주요국 통신사업자의 이동통신분야 설비투자(CAPEX) 축소 기조가 지속되면서 성장률이 둔화되었지만, 5G 네트워크 이용의 보편적 확산으로 실내 통신 품질 개선 요구는 지속적으로 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"5G 네트워크\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특히 고주파 대역 기반의 5G 서비스는 전파 도달 범위 및 회절 특성의 한계로 인해 실내 커버리지 확보를 위한 중계기 솔루션의 수요를 구조적으로 확대시키고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"인빌딩 커버리지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 글로벌 In-Building DAS(Distributed Antenna System) 시장에서 기술 경쟁력과 공급 역량을 기반으로 주요 공급사로서의 입지를 확보하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방 통신\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 ㈜쏠리드윈텍은 TICN(전술정보통신체계), TMMR(차세대 군용무전기), 전술이동통신망 중계기, 군 위성통신장비 등 다양한 국방 통신 분야에서 사업을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Verizon\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"북미 및 유럽 시장은 Carrier Market(Verizon, AT&T 등 주요 이동통신사업자)과 Non-Carrier Market(Neutral Host, Enterprise 등)으로 구분되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AT&T\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"북미 및 유럽 시장은 Carrier Market(Verizon, AT&T 등 주요 이동통신사업자)과 Non-Carrier Market(Neutral Host, Enterprise 등)으로 구분되며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"모듈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"모듈 | 21,514,385 | 17.5%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원자재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원자재 | 66,367,243 | 54.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"이동통신 네트워크 장비 등 | 유무선 통신장비 | 안양 사업장 | 161,639,719\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 | 93,815,234 | 85,388,540 | 92,376,822 | SOLiD Gear, Inc.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"일본 | 42,003,802 | 51,675,130 | 51,083,873 | SOLiD JAPAN, Inc., ㈜쏠리드\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"유럽 | 53,070,765 | 59,292,153 | 55,395,535 | SOLID TELECOMMUNICATIONS LTD, SOLID EU GmbH\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 변동이자율로 발행된 차입금(장부금액: 97,023,500천원)으로 인하여 이자율위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"통신사업자 설비투자(CAPEX)\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 통신장비 시장은 최근 주요국 통신사업자의 이동통신분야 설비투자(CAPEX) 축소 기조가 지속되면서 성장률이 둔화되었지만\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/050890_20260324000935.txt"
+}

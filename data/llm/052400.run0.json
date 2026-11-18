@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스마트카드",
+      "weight": 0.613,
+      "direction": null,
+      "evidence": "스마트카드 KONA카드,콤비카드,통신카드 189,477 (61.3%)"
+    },
+    {
+      "axis": "product",
+      "value": "플랫폼",
+      "weight": 0.215,
+      "direction": null,
+      "evidence": "플랫폼 코나머니 외 66,524 (21.5%)"
+    },
+    {
+      "axis": "product",
+      "value": "COB 외",
+      "weight": 0.086,
+      "direction": null,
+      "evidence": "상품 COB 외 COB 외 26,570 (8.6%)"
+    },
+    {
+      "axis": "product",
+      "value": "S/W 개발 외",
+      "weight": 0.086,
+      "direction": null,
+      "evidence": "SI 외 S/W 개발 외 카드사 IC발급시스템 개발, MVNO 사업 외 26,593 (8.6%)"
+    },
+    {
+      "axis": "product",
+      "value": "메탈카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2018년부터 프리미엄 카드 시장에 진출하여 특히 '메탈 카드’ 분야에서 글로벌 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "당사 매출의 약 40%가 해외 수출이므로 환율 변동이 실적에 영향을 미칩니다. 달러 강세 시 수출 경쟁력과 환산 매출이 증가하는 효과가 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 수급 사이클",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "해외 COB 사업은 반도체 수급 사이클의 영향을 받습니다. 반도체 쇼티지 시기에는 제작사와 금융기관들이 재고를 과다 확보하여 수요가 급증하고"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당 연결회사는 원재료를 국내 및 해외로부터 공급받아 자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자체 생산시설인 진천공장(종속법인)의 2025년도 누적 가동일은 총 261일이며"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재지 강원도 영월군 남면 북쌍리 산 35"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트카드\",\n      \"weight\": 0.613,\n      \"direction\": null,\n      \"evidence\": \"스마트카드 KONA카드,콤비카드,통신카드 189,477 (61.3%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플랫폼\",\n      \"weight\": 0.215,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 코나머니 외 66,524 (21.5%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"COB 외\",\n      \"weight\": 0.086,\n      \"direction\": null,\n      \"evidence\": \"상품 COB 외 COB 외 26,570 (8.6%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"S/W 개발 외\",\n      \"weight\": 0.086,\n      \"direction\": null,\n      \"evidence\": \"SI 외 S/W 개발 외 카드사 IC발급시스템 개발, MVNO 사업 외 26,593 (8.6%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메탈카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2018년부터 프리미엄 카드 시장에 진출하여 특히 '메탈 카드’ 분야에서 글로벌 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"당사 매출의 약 40%가 해외 수출이므로 환율 변동이 실적에 영향을 미칩니다. 달러 강세 시 수출 경쟁력과 환산 매출이 증가하는 효과가 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 수급 사이클\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"해외 COB 사업은 반도체 수급 사이클의 영향을 받습니다. 반도체 쇼티지 시기에는 제작사와 금융기관들이 재고를 과다 확보하여 수요가 급증하고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당 연결회사는 원재료를 국내 및 해외로부터 공급받아 자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자체 생산시설인 진천공장(종속법인)의 2025년도 누적 가동일은 총 261일이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재지 강원도 영월군 남면 북쌍리 산 35\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/052400_20260311003779.txt"
+}

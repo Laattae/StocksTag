@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "의류",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "DISCOVERY EXPEDITION 상표권을 활용한 의류, 모자, 가방, 수영복, 신발 등의 품목 상용화 및 판매"
+    },
+    {
+      "axis": "product",
+      "value": "신발",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MLB 상표권을 활용한 의류, 모자, 가방, 신발 상용화 및 판매"
+    },
+    {
+      "axis": "product",
+      "value": "모자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MLB KIDS 상표권을 활용한 의류, 모자, 가방, 신발 상용화 및 판매"
+    },
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "기타부문 | 매니지먼트, 음반, 음원 등 | 음반, 음원, 출연료 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "COTTON류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "패션 | 원재료 | COTTON류 외 | 의류생산"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기도 용인시 | 1,618 | 쇼핑몰 운영"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "서울시 역삼동 | 1,938 | 역삼 사옥"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "에프앤에프 차이나는 (주)에프앤에프가 중국 비즈니스 전개를 위해 100% 지분을 보유하고 있는 중국현지법인으로"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)에프앤에프가 100% 지분을 보유하고 있는 F&F VIETNAM CO.,LTD는 베트남 내 제품 유통 및 생산 품질관리"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원단의 원, 부재료는 중국 등에서, 일부 특수섬유소재는 일본, 유럽 등에서 해외조달이 확대됨에 따라 환율에 따른 가격변동이 중요한 경영상 주요 고려요소입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "패션산업은 각 복종별로 경기에 대한 민감도의 차이는 있을 수 있으나, 전체적으로 타 산업 대비 경기변동에 대한 민감도가 매우 높은 산업입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"의류\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"DISCOVERY EXPEDITION 상표권을 활용한 의류, 모자, 가방, 수영복, 신발 등의 품목 상용화 및 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신발\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"MLB 상표권을 활용한 의류, 모자, 가방, 신발 상용화 및 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모자\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MLB KIDS 상표권을 활용한 의류, 모자, 가방, 신발 상용화 및 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"기타부문 | 매니지먼트, 음반, 음원 등 | 음반, 음원, 출연료 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"COTTON류\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"패션 | 원재료 | COTTON류 외 | 의류생산\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경기도 용인시 | 1,618 | 쇼핑몰 운영\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"서울시 역삼동 | 1,938 | 역삼 사옥\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"에프앤에프 차이나는 (주)에프앤에프가 중국 비즈니스 전개를 위해 100% 지분을 보유하고 있는 중국현지법인으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)에프앤에프가 100% 지분을 보유하고 있는 F&F VIETNAM CO.,LTD는 베트남 내 제품 유통 및 생산 품질관리\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원단의 원, 부재료는 중국 등에서, 일부 특수섬유소재는 일본, 유럽 등에서 해외조달이 확대됨에 따라 환율에 따른 가격변동이 중요한 경영상 주요 고려요소입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"패션산업은 각 복종별로 경기에 대한 민감도의 차이는 있을 수 있으나, 전체적으로 타 산업 대비 경기변동에 대한 민감도가 매우 높은 산업입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/383220_20260318001512.txt"
+}

@@ -1,0 +1,214 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "철강 및 철강원료",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%, 기타 0.1% 를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "천연가스",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "에너지 사업은 가스전을 탐사하고 개발하는 E&P사업, 가스 저장 및 운송에서 트레이딩에 이르는 LNG사업, LNG를 원료로 활용하는 발전사업을 운영하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "구동모터코아",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "트레이딩사업은 철강 및 철강원료, 전기/하이브리드차 부품, 산업소재, 이차전지 소재, 식량 등을 주요 품목으로 하여 전 세계에 분포되어 있는 해외 네트워크를 기반으로 트레이딩 및 구동모터코아 생산/판매"
+    },
+    {
+      "axis": "product",
+      "value": "팜오일",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "전력",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인천발전소 3~9호기가 생산한 전력은 전력시장가격으로 전력량 요금을 정산."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자회사인 ㈜포스코모빌리티솔루션을 통해 향후 지속적인 성장이 전망되는 전기차 및 하이브리드차용 구동모터코아 사업에 진출하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "발전소",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "하류부문(Downstream)은 천연가스를 최종 소비자(도시가스, 발전소, 산업용 등)에게 공급 또는 판매하는 분야로"
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "태양광, 풍력 등 신재생에너지 산업과 미래 모빌리티 시장으로 사업을 본격 확대하고 신규 수요 창출에 주력하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "CNUOC",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미얀마 A-1 광구 및 A-3 광구의 쉐, 쉐퓨, 미야 등 3개 가스전에서 생산되는 가스를 중국 CNPC(China National Petroleum Corporation)의 자회사인 CNUOC(China National United Oil Corporation)에 판매하는 가스 판매 & 구매 계약"
+    },
+    {
+      "axis": "customer",
+      "value": "Rivian",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "북미 신생 전기차 스타트업 회사 Rivian와 총 1,450억 규모의 전기차 하프샤프트 공급계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "빈패스트",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "베트남 전기차 회사 빈패스트와 8,500만불 규모의 하프샤프트 공급계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "BENZ",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "독일 BENZ와 2,690억원 규모의 영구자석 공급 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "STELLANTIS",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "미국 STELLANTIS와 9,000억원 규모의 영구자석 공급 계약을 체결하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "발전사업 | 원재료 | LNG | 발전연료 | 1,386,784 | 1,779,652 |  2,078,511"
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해상파이프라인및 육상가스터미널(운송시설) | 미얀마 북서부 해상및 인근 육상"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "3~4호기, 5~6호기,7~9호기, G/T, S/T및 기타 발전시설 등 | 인천광역시 서구 중봉대로405번길 314"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "1~6호 LNG 탱크및 LPG 탱크 등 | 전라남도 광양시 제철로 2148-581"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "호주 동부지역 퀸즈랜드주에 위치한 육상 가스전(Roma North, Atlas 등) 생산 ·개발 사업"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "회사는 종합상사로서 업종 특성상 현금흐름의 대부분이 외화로 발생하기 때문에 환율 변동에 따른 환위험이 항상 존재합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "천연가스의 경우 산업의 특성상 회사의 수익이 원자재 가격에 밀접하게 연동됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "가스판매 가격은 계약 체결시 결정된 기준가격에 판매시점 전 일정 기간의 평균 국제유가 및 물가 등을 반영한 지수와 연동되어 매 분기별로 변동함."
+    },
+    {
+      "axis": "product",
+      "value": "LNG",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "LNG자산 연계사업 당사는 종합사업회사로서 보유한 국내외 프로젝트 개발 역량과 전문 트레이딩 역량을 기반으로, 포스코그룹의 자체 LNG 수요를 바탕으로 한 LNG 트레이딩"
+    },
+    {
+      "axis": "product",
+      "value": "육상풍력발전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 육상풍력발전 사업 신안그린에너지는 전라남도 신안군 자은면 일대에 총 20기의 육상풍력발전기를 운영 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "LNG수소혼소발전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 발전 포트폴리오 다각화를 위해 구역전기 집단에너지 사업 및 LNG수소혼소 발전사업을 추진중에 있고"
+    },
+    {
+      "axis": "product",
+      "value": "상표권",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 국내외 175개국에 총 3,420 건의 상표권(DAEWOO, 大宇, 도형 등)을 등록ㆍ보유하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Cheniere Energy",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2022년 5월에는 미국 Cheniere Energy와 20년간 LNG 40만톤 공급 계약을 체결, 같은 해 10월에는 판매 계약 체결도 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신안그린에너지는 전라남도 신안군 자은면 일대에 총 20기의 육상풍력발전기를 운영 중입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2022년 5월에는 미국 Cheniere Energy와 20년간 LNG 40만톤 공급 계약을 체결"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강 및 철강원료\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%, 기타 0.1% 를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연가스\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"에너지 사업은 가스전을 탐사하고 개발하는 E&P사업, 가스 저장 및 운송에서 트레이딩에 이르는 LNG사업, LNG를 원료로 활용하는 발전사업을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"구동모터코아\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"트레이딩사업은 철강 및 철강원료, 전기/하이브리드차 부품, 산업소재, 이차전지 소재, 식량 등을 주요 품목으로 하여 전 세계에 분포되어 있는 해외 네트워크를 기반으로 트레이딩 및 구동모터코아 생산/판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"팜오일\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인천발전소 3~9호기가 생산한 전력은 전력시장가격으로 전력량 요금을 정산.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"자회사인 ㈜포스코모빌리티솔루션을 통해 향후 지속적인 성장이 전망되는 전기차 및 하이브리드차용 구동모터코아 사업에 진출하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전소\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"하류부문(Downstream)은 천연가스를 최종 소비자(도시가스, 발전소, 산업용 등)에게 공급 또는 판매하는 분야로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"태양광, 풍력 등 신재생에너지 산업과 미래 모빌리티 시장으로 사업을 본격 확대하고 신규 수요 창출에 주력하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"CNUOC\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미얀마 A-1 광구 및 A-3 광구의 쉐, 쉐퓨, 미야 등 3개 가스전에서 생산되는 가스를 중국 CNPC(China National Petroleum Corporation)의 자회사인 CNUOC(China National United Oil Corporation)에 판매하는 가스 판매 & 구매 계약\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Rivian\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"북미 신생 전기차 스타트업 회사 Rivian와 총 1,450억 규모의 전기차 하프샤프트 공급계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"빈패스트\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"베트남 전기차 회사 빈패스트와 8,500만불 규모의 하프샤프트 공급계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BENZ\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"독일 BENZ와 2,690억원 규모의 영구자석 공급 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"STELLANTIS\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"미국 STELLANTIS와 9,000억원 규모의 영구자석 공급 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"발전사업 | 원재료 | LNG | 발전연료 | 1,386,784 | 1,779,652 |  2,078,511\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해상파이프라인및 육상가스터미널(운송시설) | 미얀마 북서부 해상및 인근 육상\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"3~4호기, 5~6호기,7~9호기, G/T, S/T및 기타 발전시설 등 | 인천광역시 서구 중봉대로405번길 314\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"1~6호 LNG 탱크및 LPG 탱크 등 | 전라남도 광양시 제철로 2148-581\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"호주 동부지역 퀸즈랜드주에 위치한 육상 가스전(Roma North, Atlas 등) 생산 ·개발 사업\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"회사는 종합상사로서 업종 특성상 현금흐름의 대부분이 외화로 발생하기 때문에 환율 변동에 따른 환위험이 항상 존재합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"천연가스의 경우 산업의 특성상 회사의 수익이 원자재 가격에 밀접하게 연동됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"가스판매 가격은 계약 체결시 결정된 기준가격에 판매시점 전 일정 기간의 평균 국제유가 및 물가 등을 반영한 지수와 연동되어 매 분기별로 변동함.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"LNG자산 연계사업 당사는 종합사업회사로서 보유한 국내외 프로젝트 개발 역량과 전문 트레이딩 역량을 기반으로, 포스코그룹의 자체 LNG 수요를 바탕으로 한 LNG 트레이딩\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육상풍력발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 육상풍력발전 사업 신안그린에너지는 전라남도 신안군 자은면 일대에 총 20기의 육상풍력발전기를 운영 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG수소혼소발전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 발전 포트폴리오 다각화를 위해 구역전기 집단에너지 사업 및 LNG수소혼소 발전사업을 추진중에 있고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"상표권\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"회사는 국내외 175개국에 총 3,420 건의 상표권(DAEWOO, 大宇, 도형 등)을 등록ㆍ보유하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Cheniere Energy\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2022년 5월에는 미국 Cheniere Energy와 20년간 LNG 40만톤 공급 계약을 체결, 같은 해 10월에는 판매 계약 체결도 완료하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신안그린에너지는 전라남도 신안군 자은면 일대에 총 20기의 육상풍력발전기를 운영 중입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2022년 5월에는 미국 Cheniere Energy와 20년간 LNG 40만톤 공급 계약을 체결\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/047050_20260318001494.txt"
+}

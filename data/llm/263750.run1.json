@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "검은사막",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "EVE Online",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "붉은사막",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장"
+    },
+    {
+      "axis": "product",
+      "value": "도깨비",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장"
+    },
+    {
+      "axis": "product",
+      "value": "플랜 8",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장"
+    },
+    {
+      "axis": "customer",
+      "value": "텐센트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국 | 2024.10 | 텐센트"
+    },
+    {
+      "axis": "customer",
+      "value": "넷이즈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국 | 2020.04 | 넷이즈"
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Sony",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사의 기능통화인 원화 외의 통화로 표시되는 판매에 대해 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"검은사막\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"EVE Online\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"붉은사막\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장\"}, {\"axis\": \"product\", \"value\": \"도깨비\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장\"}, {\"axis\": \"product\", \"value\": \"플랜 8\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"또한 당사는 현재 개발 중인 신작 3종(붉은사막, 도깨비, 플랜 8)의 개발을 통해 IP의 확장\"}, {\"axis\": \"customer\", \"value\": \"텐센트\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"중국 | 2024.10 | 텐센트\"}, {\"axis\": \"customer\", \"value\": \"넷이즈\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"중국 | 2020.04 | 넷이즈\"}, {\"axis\": \"customer\", \"value\": \"Microsoft\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"Sony\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"연결회사의 기능통화인 원화 외의 통화로 표시되는 판매에 대해 환위험에 노출되어 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/263750_20260319001336.txt"
+}

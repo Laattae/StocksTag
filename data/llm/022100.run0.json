@@ -1,0 +1,150 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "공장 자동화 시스템",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "포스코디엑스와 연결대상 종속회사는 IT서비스 사업과 자동화(엔지니어링) 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT서비스",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "포스코디엑스와 연결대상 종속회사는 IT서비스 사업과 자동화(엔지니어링) 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "물류자동화시스템",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로"
+    },
+    {
+      "axis": "product",
+      "value": "산업용 로봇",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강 및 이차전지소재 산업을 중심으로 중장기적 산업현장의 인력구조 부족 현상 및 산업안전재해를 선제적으로 예방하기 위해 산업용 로봇 자동화 사업도 신성장 사업으로 육성 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스마트홈 솔루션",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "또한 AI기반의 Smart Home 솔루션을 공급하고, 건설현장의 Smart화와 고속도로에 ITS(지능형교통시스템)를 구축하는 등 건설 부문 전략사업에 Smart 기술을 적용하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "철강 자동화 사업은 포스코 제철소의 철강생산을 위한 공정제어 및 전력/자동제어기기 등의 구축/운영, 정비 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이차전지소재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이차전지소재 자동화 사업은 리튬, 양극재, 배터리 리사이클링 등 포스코 그룹 이차전지소재사업 全 밸류체인 內 신·증설되는 공장을 대상으로 Intelligent Factory를 추진하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "공항 물류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이외에도 국내 최대 규모의 인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로"
+    },
+    {
+      "axis": "application",
+      "value": "택배 물류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로 소터, AGV/AMR 등을 활용한 공항/유통 물류사업과"
+    },
+    {
+      "axis": "application",
+      "value": "고속도로",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "건설현장의 Smart화와 고속도로에 ITS(지능형교통시스템)를 구축하는 등 건설 부문 전략사업에 Smart 기술을 적용하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "철강 자동화 사업은 포스코 제철소의 철강생산을 위한 공정제어 및 전력/자동제어기기 등의 구축/운영, 정비 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한진택배",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "모터 및 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 및 상품: 모터 및 Server 외"
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한 국: 1,008,424,462"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "중 국: 7,605,328"
+    },
+    {
+      "axis": "region",
+      "value": "북남미",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "북남미: 19,912,397"
+    },
+    {
+      "axis": "region",
+      "value": "동남아시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "동남아시아: 37,781,909"
+    },
+    {
+      "axis": "exposure",
+      "value": "SW기술자 노임단가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 용역 및 통신, 정비 서비스 매출의 가격은 SW기술자별 노임단가에 의해 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전방 산업 설비투자",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "자동화 산업은 기업의 설비투자와 밀접한 관계가 있어서 전방 산업군의 경기동향에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 정책 변화",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이차전지소재분야 자동화 산업의 경우 글로벌 전동화 확산 속도 및 국가별 전기차 정책 변화와 높은 상관관계가 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"공장 자동화 시스템\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"포스코디엑스와 연결대상 종속회사는 IT서비스 사업과 자동화(엔지니어링) 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT서비스\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"포스코디엑스와 연결대상 종속회사는 IT서비스 사업과 자동화(엔지니어링) 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류자동화시스템\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 로봇\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철강 및 이차전지소재 산업을 중심으로 중장기적 산업현장의 인력구조 부족 현상 및 산업안전재해를 선제적으로 예방하기 위해 산업용 로봇 자동화 사업도 신성장 사업으로 육성 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트홈 솔루션\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"또한 AI기반의 Smart Home 솔루션을 공급하고, 건설현장의 Smart화와 고속도로에 ITS(지능형교통시스템)를 구축하는 등 건설 부문 전략사업에 Smart 기술을 적용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"철강 자동화 사업은 포스코 제철소의 철강생산을 위한 공정제어 및 전력/자동제어기기 등의 구축/운영, 정비 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이차전지소재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이차전지소재 자동화 사업은 리튬, 양극재, 배터리 리사이클링 등 포스코 그룹 이차전지소재사업 全 밸류체인 內 신·증설되는 공장을 대상으로 Intelligent Factory를 추진하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"공항 물류\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"이외에도 국내 최대 규모의 인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"택배 물류\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로 소터, AGV/AMR 등을 활용한 공항/유통 물류사업과\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"고속도로\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"건설현장의 Smart화와 고속도로에 ITS(지능형교통시스템)를 구축하는 등 건설 부문 전략사업에 Smart 기술을 적용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"철강 자동화 사업은 포스코 제철소의 철강생산을 위한 공정제어 및 전력/자동제어기기 등의 구축/운영, 정비 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한진택배\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인천국제공항 BHS(수하물처리시스템), 한진택배 메가허브 물류 시스템 등 물류자동화 구축 노하우와 기술력을 바탕으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"모터 및 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료 및 상품: 모터 및 Server 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한 국: 1,008,424,462\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"중 국: 7,605,328\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"북남미\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"북남미: 19,912,397\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"동남아시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"동남아시아: 37,781,909\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"SW기술자 노임단가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 용역 및 통신, 정비 서비스 매출의 가격은 SW기술자별 노임단가에 의해 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전방 산업 설비투자\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"자동화 산업은 기업의 설비투자와 밀접한 관계가 있어서 전방 산업군의 경기동향에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기차 정책 변화\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"이차전지소재분야 자동화 산업의 경우 글로벌 전동화 확산 속도 및 국가별 전기차 정책 변화와 높은 상관관계가 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/022100_20260417000431.txt"
+}

@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "커버글라스",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "우선 강화유리 사업 부문의 주력 제품은 모바일용 커버글라스로, 중화권 최종 고객사의 미.중 분쟁으로 인한 판매실적 감소로 인해 당사 또한 지난 수년간 실적악화를 경험하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "커넥터",
+      "weight": 0.46,
+      "direction": null,
+      "evidence": "커넥터 사업 부문의 주력 제품은 C-Type 방수형 커넥터 제품으로서2024년에는 매출 789억원, 2025년에는 매출 853억원으로 64억원 증가하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TGV유리기판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "더불어 반도체용 TGV유리기판은 기존 플라스틱(유기) 기판을 유리로 대체해, 유리기판 위에 실장되는 칩과 하부 기판을 연결하는 ‘글래스관통전극(TGV)’을 형성하는 차세대 반도체 패키지 기판을 말하며"
+    },
+    {
+      "axis": "product",
+      "value": "유리플래터",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "HDD용 유리플래터 또한 하드디스크 드라이브(HDD)의 핵심 저장 매체로, 기존 알루미늄 합금 대신 강화 유리(glass) 또는 유리-세라믹 기판을 사용하여 제작한 디스크입니다."
+    },
+    {
+      "axis": "product",
+      "value": "카메라 윈도우",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "커버글라스 수요 확대로 기존 스마트폰 커버글라스 제품군에서 스마트폰 카메라윈도우, 스마트워치, 전기차의 차량용 디스플레이 등 다양한 제품군으로 영역을 확대하여 커버글라스를 제조 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이러한 강화유리의 높은 빛 투과성과 얇고 가벼우나 강한 경도를 가진 특성은 일반적으로 스마트폰, 태블릿 PC, 스마트워치와 같은 휴대용 전자기기 등의 디스플레이 커버에 적합하여 널리 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "특히 전기차 등의 전방시장 성장에 따라 당사의 차량용 3D 커버글라스의 수요도 지속적으로 확대될 것으로 예상합니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이러한 HDD의 시장수요는 2023년 데스크톱급 수요급감에 따라 가장 저점을 기록한 이후 AI·클라우드·데이터센터 수요 폭발에 힘입어2025년까지 가파른V자형 회복세를 보이고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "JNTC→삼성전자1차사→삼성전자"
+    },
+    {
+      "axis": "customer",
+      "value": "Huawei",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "DP076 Project | Huawei 커버글라스 적용"
+    },
+    {
+      "axis": "customer",
+      "value": "Google",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Taimen Project | Google 커버글라스 적용"
+    },
+    {
+      "axis": "raw_material",
+      "value": "GLASS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "강화유리 | GLASS 외 | 25,923 | 84,172 | 154,595"
+    },
+    {
+      "axis": "raw_material",
+      "value": "동합금",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "커넥터 | 동합금(프레스) | 2,195 | 2,193 | 1,506"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레진",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "레진(사출) | 570 | 542 | 532"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 100% 자회사인 JNTC VINA에서 기존 휴대폰 커버글라스 외 웨어러블용차량용, 카메라 윈도우, IT 등 신규 제품을 양산하기 위한 제3공장이 2021년 06월 준공 완료되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연구 개발 활동은 주로 본사에서 수행되므로 별도 매출 기준 개발 비율로 작성됨."
+    },
+    {
+      "axis": "exposure",
+      "value": "미중 분쟁",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "우선 강화유리 사업 부문의 주력 제품은 모바일용 커버글라스로, 중화권 최종 고객사의 미.중 분쟁으로 인한 판매실적 감소로 인해 당사 또한 지난 수년간 실적악화를 경험하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"커버글라스\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"우선 강화유리 사업 부문의 주력 제품은 모바일용 커버글라스로, 중화권 최종 고객사의 미.중 분쟁으로 인한 판매실적 감소로 인해 당사 또한 지난 수년간 실적악화를 경험하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커넥터\",\n      \"weight\": 0.46,\n      \"direction\": null,\n      \"evidence\": \"커넥터 사업 부문의 주력 제품은 C-Type 방수형 커넥터 제품으로서2024년에는 매출 789억원, 2025년에는 매출 853억원으로 64억원 증가하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TGV유리기판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"더불어 반도체용 TGV유리기판은 기존 플라스틱(유기) 기판을 유리로 대체해, 유리기판 위에 실장되는 칩과 하부 기판을 연결하는 ‘글래스관통전극(TGV)’을 형성하는 차세대 반도체 패키지 기판을 말하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리플래터\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"HDD용 유리플래터 또한 하드디스크 드라이브(HDD)의 핵심 저장 매체로, 기존 알루미늄 합금 대신 강화 유리(glass) 또는 유리-세라믹 기판을 사용하여 제작한 디스크입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카메라 윈도우\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"커버글라스 수요 확대로 기존 스마트폰 커버글라스 제품군에서 스마트폰 카메라윈도우, 스마트워치, 전기차의 차량용 디스플레이 등 다양한 제품군으로 영역을 확대하여 커버글라스를 제조 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이러한 강화유리의 높은 빛 투과성과 얇고 가벼우나 강한 경도를 가진 특성은 일반적으로 스마트폰, 태블릿 PC, 스마트워치와 같은 휴대용 전자기기 등의 디스플레이 커버에 적합하여 널리 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"특히 전기차 등의 전방시장 성장에 따라 당사의 차량용 3D 커버글라스의 수요도 지속적으로 확대될 것으로 예상합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이러한 HDD의 시장수요는 2023년 데스크톱급 수요급감에 따라 가장 저점을 기록한 이후 AI·클라우드·데이터센터 수요 폭발에 힘입어2025년까지 가파른V자형 회복세를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"JNTC→삼성전자1차사→삼성전자\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Huawei\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"DP076 Project | Huawei 커버글라스 적용\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Google\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Taimen Project | Google 커버글라스 적용\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"GLASS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"강화유리 | GLASS 외 | 25,923 | 84,172 | 154,595\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동합금\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"커넥터 | 동합금(프레스) | 2,195 | 2,193 | 1,506\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레진\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"레진(사출) | 570 | 542 | 532\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 100% 자회사인 JNTC VINA에서 기존 휴대폰 커버글라스 외 웨어러블용차량용, 카메라 윈도우, IT 등 신규 제품을 양산하기 위한 제3공장이 2021년 06월 준공 완료되었습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연구 개발 활동은 주로 본사에서 수행되므로 별도 매출 기준 개발 비율로 작성됨.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"미중 분쟁\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"우선 강화유리 사업 부문의 주력 제품은 모바일용 커버글라스로, 중화권 최종 고객사의 미.중 분쟁으로 인한 판매실적 감소로 인해 당사 또한 지난 수년간 실적악화를 경험하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/204270_20260323001603.txt"
+}

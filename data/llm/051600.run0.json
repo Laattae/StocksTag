@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "발전설비 정비서비스",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "우수한 전문기술인력과 첨단 장비를 바탕으로 국내외 산업설비의 가동률과 효율성 향상을 위한 고품질의 정비서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화력설비 정비",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "화력 | ○ 국내 화력설비의 경상정비공사, 계획예방정비공사, 개보수공사, 시운전정비공사○ Gas Turbine 고온부품재생 등"
+    },
+    {
+      "axis": "product",
+      "value": "원자력 및 양수설비 정비",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원자력/양수 | ○ 국내 원자력/양수설비의 경상정비공사, 계획예방정비 공사, 개보수공사, 시운전정비공사"
+    },
+    {
+      "axis": "product",
+      "value": "송변전설비 정비",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "송변전 | ○ 송전선로 유지 및 활선정비, HVDC 설비점검 및 정비, 전기공사 종합 책임감리 등"
+    },
+    {
+      "axis": "product",
+      "value": "신재생에너지 O&M",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "신재생에너지 발전설비 및 부대설비(태양광, 풍력, 수소, ESS 등) 건설사업 및 O&M사업"
+    },
+    {
+      "axis": "application",
+      "value": "화력발전소",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "전국에 산재해있는 화력사업장에서 국내발전설비를 대상으로 건설과정에서의 시운전정비, 운전과정에서의 경상정비, 계획예방정비, 개보수공사 등을 충실히 수행하여"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전소",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "상업운전 중인 26기, 영구정지 2기, 시운전 2기를 포함하여 현재 15개 원자력사업소에서 정비업무를 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "양수발전소",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "국내 전력망의 첨두부하를 담당하고 있는 7개 양수발전소 16호기를 대상으로 시운전정비, 경상정비, 계획예방정비, 개보수공사를 수행"
+    },
+    {
+      "axis": "application",
+      "value": "송변전설비",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "전국에 산재해있는 전력지사에서 가공송전설비 대상으로 유지정비를 담당하며 전력의 안정적 공급에 이바지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지 발전설비",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "신재생에너지 발전설비 및 부대설비(태양광, 풍력, 수소, ESS 등) 건설사업 및 O&M사업을 수행하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국전력공사,한국수력원자력(주),국내발전사 등"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "한국전력공사,한국수력원자력(주),국내발전사 등"
+    },
+    {
+      "axis": "customer",
+      "value": "한국지역난방공사",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "한국지역난방공사,민자발전사 등"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전남 나주 외 | 358,772.31㎡"
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "남아프리카공화국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "우루과이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2013.04.01. 필리핀법인을 설립하여 필리핀 민간 발전설비 수주 추진 등 지속성장 기반 확대에 주력하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"발전설비 정비서비스\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"우수한 전문기술인력과 첨단 장비를 바탕으로 국내외 산업설비의 가동률과 효율성 향상을 위한 고품질의 정비서비스를 제공하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"화력설비 정비\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"화력 | ○ 국내 화력설비의 경상정비공사, 계획예방정비공사, 개보수공사, 시운전정비공사○ Gas Turbine 고온부품재생 등\"}, {\"axis\": \"product\", \"value\": \"원자력 및 양수설비 정비\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"원자력/양수 | ○ 국내 원자력/양수설비의 경상정비공사, 계획예방정비 공사, 개보수공사, 시운전정비공사\"}, {\"axis\": \"product\", \"value\": \"송변전설비 정비\", \"weight\": 0.07, \"direction\": null, \"evidence\": \"송변전 | ○ 송전선로 유지 및 활선정비, HVDC 설비점검 및 정비, 전기공사 종합 책임감리 등\"}, {\"axis\": \"product\", \"value\": \"신재생에너지 O&M\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"신재생에너지 발전설비 및 부대설비(태양광, 풍력, 수소, ESS 등) 건설사업 및 O&M사업\"}, {\"axis\": \"application\", \"value\": \"화력발전소\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"전국에 산재해있는 화력사업장에서 국내발전설비를 대상으로 건설과정에서의 시운전정비, 운전과정에서의 경상정비, 계획예방정비, 개보수공사 등을 충실히 수행하여\"}, {\"axis\": \"application\", \"value\": \"원자력발전소\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"상업운전 중인 26기, 영구정지 2기, 시운전 2기를 포함하여 현재 15개 원자력사업소에서 정비업무를 수행하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"양수발전소\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"국내 전력망의 첨두부하를 담당하고 있는 7개 양수발전소 16호기를 대상으로 시운전정비, 경상정비, 계획예방정비, 개보수공사를 수행\"}, {\"axis\": \"application\", \"value\": \"송변전설비\", \"weight\": 0.07, \"direction\": null, \"evidence\": \"전국에 산재해있는 전력지사에서 가공송전설비 대상으로 유지정비를 담당하며 전력의 안정적 공급에 이바지하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"신재생에너지 발전설비\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"신재생에너지 발전설비 및 부대설비(태양광, 풍력, 수소, ESS 등) 건설사업 및 O&M사업을 수행하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"한국전력공사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"한국전력공사,한국수력원자력(주),국내발전사 등\"}, {\"axis\": \"customer\", \"value\": \"한국수력원자력\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"한국전력공사,한국수력원자력(주),국내발전사 등\"}, {\"axis\": \"customer\", \"value\": \"한국지역난방공사\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"한국지역난방공사,민자발전사 등\"}, {\"axis\": \"region\", \"value\": \"전남\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전남 나주 외 | 358,772.31㎡\"}, {\"axis\": \"region\", \"value\": \"아랍에미리트\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"남아프리카공화국\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"우루과이\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"필리핀\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"2013.04.01. 필리핀법인을 설립하여 필리핀 민간 발전설비 수주 추진 등 지속성장 기반 확대에 주력하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/051600_20260323000091.txt"
+}

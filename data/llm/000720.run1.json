@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "공동주택",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "건축주택부문은 주거, 의료, 사무, 교육, 체육, 문화시설에서 첨단산업 및 공공기관시설까지 광범위한 종류의 건축물을 담당하고 있으며, 재개발ㆍ재건축, 공동주택, 주상복합 사업 등의 주택사업을 포함합니다."
+    },
+    {
+      "axis": "product",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "건축사업은 고용 유발 효과는 물론 IT, 친환경 등 기타산업과의 연관성이 큰 분야 중의 하나로 최근 친환경 그린빌딩, 초고층 건물, 복합개발사업, 데이터센터 등의 상품이 확대되는 추세입니다."
+    },
+    {
+      "axis": "product",
+      "value": "대형원전",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "뉴에너지부문은 대형원전과 차세대 원전을 비롯한 원자력사업과 송변전, 그리고 신재생에너지 사업 등을 담당하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "수전해 수소플랜트",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "석유화학, 가스처리, 정유, 대형원전, SMR,태양광, 수전해 수소플랜트, ESS, 송·변전 인프라 등"
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "토목부문은 국토개발사업, 항만공사, 철도, 도로 및 교량공사, 해상풍력, 물환경ㆍ수처리사업 등 국가경제 발전의 근간이 되는 인프라 건설을 담당하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "봉강류(철근) | 922,000 | 926,000 | 964,000 | 단위 : 원/톤, 고강 10mm, 기준가격(어음)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "후판",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "강판류(후판) | 924,000 | 896,000 | 1,039,000 | 단위 : 원/톤, 철판BASE가"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "레미콘 | 91,400 | 93,700 | 87,300 | 단위 : 원/루베 (경인, 25-24-15)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "시멘트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "시멘트 | 103,000 | 106,000 | 99,000 | 단위 : 원/톤 (BULK)"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "국제 정세 불안정에 따른 원자재 가격 상승, 고금리 장기화로 인한 부동산 경기 침체"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "국제 정세 불안정에 따른 원자재 가격 상승, 고금리 장기화로 인한 부동산 경기 침체, 프로젝트 파이낸싱(Project Financing) 부실화 등 국내 건설시장 불확실성이 지속되는 환경 속에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "- 유가동향, 국제정세 및 치안상황 주시, 중동국 시장 입지력 안정적 유지"
+    },
+    {
+      "axis": "product",
+      "value": "대형원전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "탄소중립과 에너지 안보 강화에 따라 대형원전, SMR(소형모듈원자로), 송변전, 신재생에너지 산업이 핵심 산업으로 자리 잡으며 빠르게 성장하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SMR",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "원전 확대와 수명 연장이 추진되는 가운데, SMR은 소형·저비용·신속한 건설이 가능하고 유연한 운영이 가능해 신흥국까지 도입이 확산되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 건설사 유일의 해상풍력 준공 실적과 국내 최대 규모의 전용선을 확보하고 있는 해상풍력은 국내외 해상풍력 시장에서 점유율을 높여 나갈 것입니다."
+    },
+    {
+      "axis": "product",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 건설사 중 최다 실적과 유일한 글로벌 빅테크 기업 사업 실적을 보유한 데이터센터 분야에서는 국내는 물론 미국과 동남아를 중심으로 AI 데이터센터 시장참여를 확대해 나갈 것입니다."
+    },
+    {
+      "axis": "product",
+      "value": "수전해 수소",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "신재생에너지 분야에서는, 글로벌 탄소중립 목표에 따라 태양광, 에너지 저장 기술(ESS), 수전해 수소생산 등 주요성장 동력으로 자리 잡고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "송변전 산업은 데이터센터 등 미래 전력수요 확대에 따라 초고압 송전망 및 스마트 그리드구축이 가속화되며, 전력망 현대화와 안정적 전력 공급을 위한 필수 인프라로 더욱 중요해지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "송변전 산업은 데이터센터 등 미래 전력수요 확대에 따라 초고압 송전망 및 스마트 그리드구축이 가속화되며, 전력망 현대화와 안정적 전력 공급을 위한 필수 인프라로 더욱 중요해지고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국에서는 AI 산업 확대로인한 급격한 전력수요를 충족시키기 위해 SMR뿐 아니라 대형원전에 대한 신규 사업 검토가 활발해지고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "러-우전쟁을 거치며 에너지 안보가 중요해진 유럽 각국은 전력공급의 스케일과 안정성이 보장되는 원자력발전에 큰 관심을 갖고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "호주는 풍부한 재생에너지 자원을 보유한 국가로 우선 태양광 발전사업과 전력망 확충사업에 집중하고 나아가 그린수소 부문까지 사업 확대를 추진할 예정입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "플랜트 산업은 국제유가와 석유소비량, 세계 각국의 에너지 정책 및 투자계획, 국제 에너지협약 등이 주요 요인으로 작용하고 있으며, 특히 국제유가의 변동은 플랜트 산업의 시설투자에 직간접적인 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 시장은 환율 변동 및 원자재 가격 변동 등 글로벌 경제에 많은 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"공동주택\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"건축주택부문은 주거, 의료, 사무, 교육, 체육, 문화시설에서 첨단산업 및 공공기관시설까지 광범위한 종류의 건축물을 담당하고 있으며, 재개발ㆍ재건축, 공동주택, 주상복합 사업 등의 주택사업을 포함합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"건축사업은 고용 유발 효과는 물론 IT, 친환경 등 기타산업과의 연관성이 큰 분야 중의 하나로 최근 친환경 그린빌딩, 초고층 건물, 복합개발사업, 데이터센터 등의 상품이 확대되는 추세입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대형원전\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"뉴에너지부문은 대형원전과 차세대 원전을 비롯한 원자력사업과 송변전, 그리고 신재생에너지 사업 등을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수전해 수소플랜트\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"석유화학, 가스처리, 정유, 대형원전, SMR,태양광, 수전해 수소플랜트, ESS, 송·변전 인프라 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"토목부문은 국토개발사업, 항만공사, 철도, 도로 및 교량공사, 해상풍력, 물환경ㆍ수처리사업 등 국가경제 발전의 근간이 되는 인프라 건설을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"봉강류(철근) | 922,000 | 926,000 | 964,000 | 단위 : 원/톤, 고강 10mm, 기준가격(어음)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"후판\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"강판류(후판) | 924,000 | 896,000 | 1,039,000 | 단위 : 원/톤, 철판BASE가\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"레미콘 | 91,400 | 93,700 | 87,300 | 단위 : 원/루베 (경인, 25-24-15)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"시멘트 | 103,000 | 106,000 | 99,000 | 단위 : 원/톤 (BULK)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"국제 정세 불안정에 따른 원자재 가격 상승, 고금리 장기화로 인한 부동산 경기 침체\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"국제 정세 불안정에 따른 원자재 가격 상승, 고금리 장기화로 인한 부동산 경기 침체, 프로젝트 파이낸싱(Project Financing) 부실화 등 국내 건설시장 불확실성이 지속되는 환경 속에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"- 유가동향, 국제정세 및 치안상황 주시, 중동국 시장 입지력 안정적 유지\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대형원전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"탄소중립과 에너지 안보 강화에 따라 대형원전, SMR(소형모듈원자로), 송변전, 신재생에너지 산업이 핵심 산업으로 자리 잡으며 빠르게 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SMR\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"원전 확대와 수명 연장이 추진되는 가운데, SMR은 소형·저비용·신속한 건설이 가능하고 유연한 운영이 가능해 신흥국까지 도입이 확산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 건설사 유일의 해상풍력 준공 실적과 국내 최대 규모의 전용선을 확보하고 있는 해상풍력은 국내외 해상풍력 시장에서 점유율을 높여 나갈 것입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 건설사 중 최다 실적과 유일한 글로벌 빅테크 기업 사업 실적을 보유한 데이터센터 분야에서는 국내는 물론 미국과 동남아를 중심으로 AI 데이터센터 시장참여를 확대해 나갈 것입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수전해 수소\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지 분야에서는, 글로벌 탄소중립 목표에 따라 태양광, 에너지 저장 기술(ESS), 수전해 수소생산 등 주요성장 동력으로 자리 잡고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"송변전 산업은 데이터센터 등 미래 전력수요 확대에 따라 초고압 송전망 및 스마트 그리드구축이 가속화되며, 전력망 현대화와 안정적 전력 공급을 위한 필수 인프라로 더욱 중요해지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"송변전 산업은 데이터센터 등 미래 전력수요 확대에 따라 초고압 송전망 및 스마트 그리드구축이 가속화되며, 전력망 현대화와 안정적 전력 공급을 위한 필수 인프라로 더욱 중요해지고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국에서는 AI 산업 확대로인한 급격한 전력수요를 충족시키기 위해 SMR뿐 아니라 대형원전에 대한 신규 사업 검토가 활발해지고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"러-우전쟁을 거치며 에너지 안보가 중요해진 유럽 각국은 전력공급의 스케일과 안정성이 보장되는 원자력발전에 큰 관심을 갖고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"호주는 풍부한 재생에너지 자원을 보유한 국가로 우선 태양광 발전사업과 전력망 확충사업에 집중하고 나아가 그린수소 부문까지 사업 확대를 추진할 예정입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"플랜트 산업은 국제유가와 석유소비량, 세계 각국의 에너지 정책 및 투자계획, 국제 에너지협약 등이 주요 요인으로 작용하고 있으며, 특히 국제유가의 변동은 플랜트 산업의 시설투자에 직간접적인 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외 시장은 환율 변동 및 원자재 가격 변동 등 글로벌 경제에 많은 영향을 받습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000720_20260318001395.txt"
+}

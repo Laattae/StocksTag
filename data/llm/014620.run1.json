@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "관이음쇠",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "지배회사인 당사와 연결 종속회사인 (주)화진피에프는 당기말 현재 관이음쇠 제조업을 주 업종으로 동일한 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ELBOW",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 제품 및 상품매출으로서 용접용 관이음쇠(elbow외) 매출이 98.68%, 부산물매출 및 기타매출이 1.32%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "TEE",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 및 종속회사의 주요 제품 매출에 대한 내용은 다음과 같습니다. (단위 : 천원) 사업부문 품 목 구체적용도 매출유형 주요상표등 회사명 매출액 비율 관이음쇠제 조 업 ELBOWTEEREDUCER기타"
+    },
+    {
+      "axis": "product",
+      "value": "REDUCER",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업부문 품 목 구체적용도 매출유형 주요상표등 회사명 매출액 비율 관이음쇠제 조 업 ELBOWTEEREDUCER기타"
+    },
+    {
+      "axis": "application",
+      "value": "석유화학 플랜트",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선해양 플랜트",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "발전플랜트",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성E&A",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한화오션",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "HD현대중공업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PIPE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 및 종속회사의 주요 원재료 (단위 : 천원) 사업부문 회사 명 매입유형 품 목 구체적용도 매입액(비율) 비 고 관이음쇠제 조 업 (주)성광벤드 원 재 료 PIPE, PLATE 원 재 료 67,477,155(69.60%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PLATE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 및 종속회사의 주요 원재료 (단위 : 천원) 사업부문 회사 명 매입유형 품 목 구체적용도 매입액(비율) 비 고 관이음쇠제 조 업 (주)성광벤드 원 재 료 PIPE, PLATE 원 재 료 67,477,155(69.60%)"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 부산 강서구 녹산산단에 위치한 본사 및 주요공장에서 주요제품에 대한 제조,개발, 영업 등의 사업활동 및 서울에 위치한 서울사무소에서 영업을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 종속회사인 (주)화진피에프는 부산 강서구 미음동 및 경기도 김포에서 주요제품에 대한 제조, 영업 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "석유ㆍ화학플랜트 부분은 코로나 대유행의 3년여을 거치는 동안 글로벌 인플레이션과 긴축, 금리인상 등으로 예정되었던 프로젝트들이 연기 및 취소등이 있었으나 최근 2년동안 고유가의 장기화 및 환경관련 영향 등으로 국가 재정이 양호해진 산유국들이 석유화학 및 LNG관련 가스프로젝트를 발주함으로써 플랜트 시장의 회복기로 들어서고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그리고, 주요 원재료인 철강 원자재가격과 환율변동 등에 따라 제품 가격 및 영업실적에 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"관이음쇠\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"지배회사인 당사와 연결 종속회사인 (주)화진피에프는 당기말 현재 관이음쇠 제조업을 주 업종으로 동일한 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ELBOW\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품 및 상품매출으로서 용접용 관이음쇠(elbow외) 매출이 98.68%, 부산물매출 및 기타매출이 1.32%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TEE\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 및 종속회사의 주요 제품 매출에 대한 내용은 다음과 같습니다. (단위 : 천원) 사업부문 품 목 구체적용도 매출유형 주요상표등 회사명 매출액 비율 관이음쇠제 조 업 ELBOWTEEREDUCER기타\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"REDUCER\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"사업부문 품 목 구체적용도 매출유형 주요상표등 회사명 매출액 비율 관이음쇠제 조 업 ELBOWTEEREDUCER기타\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유화학 플랜트\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선해양 플랜트\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전플랜트\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사 및 종속회사는 석유화학, 조선해양, 발전플랜트 등에 사용되는 금속관이음쇠를 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성E&A\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화오션\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"HD현대중공업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 오랜 경영경험과 고도의 높은 기술력, 지속적인 연구개발을 통해 특허권을 보유하고 있으며 삼성E&A(주), 한화오션(주), HD현대중공업(주) 등에서 그 기술력과 생산능력을 인정받아 계속적으로 제품 공급을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PIPE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 및 종속회사의 주요 원재료 (단위 : 천원) 사업부문 회사 명 매입유형 품 목 구체적용도 매입액(비율) 비 고 관이음쇠제 조 업 (주)성광벤드 원 재 료 PIPE, PLATE 원 재 료 67,477,155(69.60%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PLATE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 및 종속회사의 주요 원재료 (단위 : 천원) 사업부문 회사 명 매입유형 품 목 구체적용도 매입액(비율) 비 고 관이음쇠제 조 업 (주)성광벤드 원 재 료 PIPE, PLATE 원 재 료 67,477,155(69.60%)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 부산 강서구 녹산산단에 위치한 본사 및 주요공장에서 주요제품에 대한 제조,개발, 영업 등의 사업활동 및 서울에 위치한 서울사무소에서 영업을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 종속회사인 (주)화진피에프는 부산 강서구 미음동 및 경기도 김포에서 주요제품에 대한 제조, 영업 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"석유ㆍ화학플랜트 부분은 코로나 대유행의 3년여을 거치는 동안 글로벌 인플레이션과 긴축, 금리인상 등으로 예정되었던 프로젝트들이 연기 및 취소등이 있었으나 최근 2년동안 고유가의 장기화 및 환경관련 영향 등으로 국가 재정이 양호해진 산유국들이 석유화학 및 LNG관련 가스프로젝트를 발주함으로써 플랜트 시장의 회복기로 들어서고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그리고, 주요 원재료인 철강 원자재가격과 환율변동 등에 따라 제품 가격 및 영업실적에 영향을 받을 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/014620_20260708000008.txt"
+}

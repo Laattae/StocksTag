@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전해액첨가제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이차전지소재 | 제 품 | 전해액첨가제 등 | 67,903 | 50.7%"
+    },
+    {
+      "axis": "product",
+      "value": "LCD식각액첨가제",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "전자소재 | 제 품 | LCD식각액첨가제 등 | 51,410 | 38.4%"
+    },
+    {
+      "axis": "product",
+      "value": "유리강화제",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "정밀화학소재 | 제 품 | 유리강화제 등 | 6,651 | 5.0%"
+    },
+    {
+      "axis": "product",
+      "value": "의약품중간제",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "의약품소재 | 제 품 | 의약품중간제 등 | 2,359 | 1.8%"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "반도체공정소재는 반도체 제조공정에서 초미세 선폭의 패턴을 구현하는데 정확성을 제고하는 역할을 담당"
+    },
+    {
+      "axis": "application",
+      "value": "리튬 2차전지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "주덕사업장 | 충청북도 충주시 주덕읍 중원산업로 312충청북도 충주시 주덕읍 중원산업로 163"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "군산사업장 | 전라북도 군산시 오식도동 1070"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "2025년 12월 31일 현재 각 외화에 대한 원화환율 10% 변동시 환율변동이 세전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "주요 제품의 원재료 가격변동에 따라 판매가격을 조정하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전해액첨가제\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이차전지소재 | 제 품 | 전해액첨가제 등 | 67,903 | 50.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LCD식각액첨가제\",\n      \"weight\": 0.38,\n      \"direction\": null,\n      \"evidence\": \"전자소재 | 제 품 | LCD식각액첨가제 등 | 51,410 | 38.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리강화제\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"정밀화학소재 | 제 품 | 유리강화제 등 | 6,651 | 5.0%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품중간제\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"의약품소재 | 제 품 | 의약품중간제 등 | 2,359 | 1.8%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"반도체공정소재는 반도체 제조공정에서 초미세 선폭의 패턴을 구현하는데 정확성을 제고하는 역할을 담당\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"리튬 2차전지\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"주덕사업장 | 충청북도 충주시 주덕읍 중원산업로 312충청북도 충주시 주덕읍 중원산업로 163\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"군산사업장 | 전라북도 군산시 오식도동 1070\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"2025년 12월 31일 현재 각 외화에 대한 원화환율 10% 변동시 환율변동이 세전순손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"주요 제품의 원재료 가격변동에 따라 판매가격을 조정하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/278280_20260316001138.txt"
+}

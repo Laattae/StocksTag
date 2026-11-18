@@ -1,0 +1,136 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "초대형컨테이너선",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "LNG선",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "원유운반선",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "LNG-FPSO",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "FPU",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다"
+    },
+    {
+      "axis": "application",
+      "value": "해상화물",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "초대형컨테이너선LNG선, 원유운반선 LNG-FPSO, FPU 등 | 해상화물,LNG원유운반 등"
+    },
+    {
+      "axis": "application",
+      "value": "해상유전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해양 시장은 글로벌 원유수요는 늘어나지만 저유가 시기 투자 부족 영향으로 중장기 원유공급 부족 우려가 커져 해상유전 개발에 대한 관심이 확대되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "해외선주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "조선해양부문은 주로 해외 선주를 대상으로 제품 판매가 이루어지고 있고"
+    },
+    {
+      "axis": "customer",
+      "value": "건축업주",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "토건부문은 국내 건축업주로부터 매출이 발생하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "조 선해 양 | 원재료 | 강재,파일,메인엔진형강,프로펠러,내외장 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "후판",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "ㆍ후 판 : 철광석, 유연탄 등 후판 제조 원재료 가격"
+    },
+    {
+      "axis": "raw_material",
+      "value": "형강",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "ㆍ형 강 : 스크랩 가격"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "조 선 | 선박 등 | 거제 | 3,911"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 종속회사는 총 3개사로 중국에 소재한 1개사는 주로 선박 제작에 필요한 블록을 제작하는 회사이며"
+    },
+    {
+      "axis": "region",
+      "value": "나이지리아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "나이지리아에 소재한 2개사는 해양 플랫폼 제작 등을 위한 회사입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "탱커는 미국의 러시아 및 이란에 대한 제재 강화 등으로 노후선 해체 압력 증가와 OPEC+의 감산 완화에 따른 물동량 증가, 미국, 가이아나, 브라질 등의 원유 수출 증가로 수송거리가 늘어나 탱커 수요가 증가한 것으로 파악됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "부동산 대책 변화, 금리인상, 자재가격 불안정 등이 계속되고 있어, 시장 불확실성이 큰 상황입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"초대형컨테이너선\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG선\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원유운반선\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG-FPSO\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FPU\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 초대형컨테이너선, LNG선, 원유운반선 등 선박 및 LNG-FPSO, FPU 등 해양플랫폼을 건조, 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상화물\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"초대형컨테이너선LNG선, 원유운반선 LNG-FPSO, FPU 등 | 해상화물,LNG원유운반 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상유전\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해양 시장은 글로벌 원유수요는 늘어나지만 저유가 시기 투자 부족 영향으로 중장기 원유공급 부족 우려가 커져 해상유전 개발에 대한 관심이 확대되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"해외선주\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"조선해양부문은 주로 해외 선주를 대상으로 제품 판매가 이루어지고 있고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"건축업주\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"토건부문은 국내 건축업주로부터 매출이 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"조 선해 양 | 원재료 | 강재,파일,메인엔진형강,프로펠러,내외장 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"후판\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"ㆍ후 판 : 철광석, 유연탄 등 후판 제조 원재료 가격\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"형강\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"ㆍ형 강 : 스크랩 가격\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"조 선 | 선박 등 | 거제 | 3,911\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 종속회사는 총 3개사로 중국에 소재한 1개사는 주로 선박 제작에 필요한 블록을 제작하는 회사이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"나이지리아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"나이지리아에 소재한 2개사는 해양 플랫폼 제작 등을 위한 회사입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"탱커는 미국의 러시아 및 이란에 대한 제재 강화 등으로 노후선 해체 압력 증가와 OPEC+의 감산 완화에 따른 물동량 증가, 미국, 가이아나, 브라질 등의 원유 수출 증가로 수송거리가 늘어나 탱커 수요가 증가한 것으로 파악됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"부동산 대책 변화, 금리인상, 자재가격 불안정 등이 계속되고 있어, 시장 불확실성이 큰 상황입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/010140_20260312001037.txt"
+}

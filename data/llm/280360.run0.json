@@ -1,0 +1,173 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "껌",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 껌, 캔디, 비스킷, 초콜릿, 빙과, 유지식품, 육가공 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "초콜릿",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "빙과",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "빙과, 기타 | 월드콘,설레임 등 | 784,854 (23.9%)"
+    },
+    {
+      "axis": "product",
+      "value": "유지식품",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "유지식품 등 | 그랜드 마아가린 등 | 717,750(21.9%)"
+    },
+    {
+      "axis": "product",
+      "value": "육가공",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "육가공 등 | 로스팜 등 | 473,065(14.4%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "설탕",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "설탕, 전분당, 대체당 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "가공버터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "가공버터, 전지분유 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아 원두",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "코코아 원두, 분말 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대두유, 팜유, 야자유"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "평택공장 | 경기도 평택시 진위면 경기대로 1952"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대전공장 | 대전광역시 대덕구 문평동로18번길 21"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "양산공장 | 경상남도 양산시 양산대로 1158"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "부산공장 | 부산광역시 기장군 정관읍 산단2로 11"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "유럽, 인도, 중국 등 해외 공장과 사업소에서 과자와 빙과류 제조 및 판매업을"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "당사는 외화사채 발행 및 국제적 영업활동으로 인하여 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "변동이자율로 발행된 단기차입금 등으로 인하여 회사는 현금흐름 이자율 위험에 노출되어 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "초콜릿",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "껌",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "캔디",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아 원두",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이에 당사는 코코아 원두가격 상승 등의 외부 요인에 효율적으로 대응하고자 다양한 전략 방안을 모색하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "한편 식품 산업은 원재료 수입 의존도가 높아 글로벌 경기 및 환율 변동, 국제 원재료 수급 상황에 민감하게 반응하는 특성을 지니고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "코코아 원두가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "이에 당사는 코코아 원두가격 상승 등의 외부 요인에 효율적으로 대응하고자 다양한 전략 방안을 모색하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"껌\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 껌, 캔디, 비스킷, 초콜릿, 빙과, 유지식품, 육가공 등을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초콜릿\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"빙과\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"빙과, 기타 | 월드콘,설레임 등 | 784,854 (23.9%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유지식품\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"유지식품 등 | 그랜드 마아가린 등 | 717,750(21.9%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육가공\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"육가공 등 | 로스팜 등 | 473,065(14.4%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"설탕\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"설탕, 전분당, 대체당 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"가공버터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"가공버터, 전지분유 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코코아 원두\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"코코아 원두, 분말 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대두유, 팜유, 야자유\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"평택공장 | 경기도 평택시 진위면 경기대로 1952\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대전공장 | 대전광역시 대덕구 문평동로18번길 21\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"양산공장 | 경상남도 양산시 양산대로 1158\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"부산공장 | 부산광역시 기장군 정관읍 산단2로 11\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"유럽, 인도, 중국 등 해외 공장과 사업소에서 과자와 빙과류 제조 및 판매업을\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화사채 발행 및 국제적 영업활동으로 인하여 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"변동이자율로 발행된 단기차입금 등으로 인하여 회사는 현금흐름 이자율 위험에 노출되어 있으며\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"초콜릿\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"껌\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"비스킷\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"캔디\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 현재 껌, 캔디, 초콜릿, 비스킷 분야에서 강점을 보유하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"코코아 원두\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"이에 당사는 코코아 원두가격 상승 등의 외부 요인에 효율적으로 대응하고자 다양한 전략 방안을 모색하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"한편 식품 산업은 원재료 수입 의존도가 높아 글로벌 경기 및 환율 변동, 국제 원재료 수급 상황에 민감하게 반응하는 특성을 지니고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"코코아 원두가격\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"이에 당사는 코코아 원두가격 상승 등의 외부 요인에 효율적으로 대응하고자 다양한 전략 방안을 모색하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/280360_20260312000907.txt"
+}

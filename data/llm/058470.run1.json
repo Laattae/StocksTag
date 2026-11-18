@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "IC TEST SOCKET",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "반도체(메모리 및 비메모리) 테스트 PACKAGE용 장비의 소모성 부품인 IC TEST SOCKET 류는 전체 매출대비 65.48%"
+    },
+    {
+      "axis": "product",
+      "value": "LEENO PIN",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "반도체나 인쇄회로기판의 전기적 불량여부를 체크하는 소모성 부품인 LEENO PIN 류는 전체 매출대비 23.38%"
+    },
+    {
+      "axis": "product",
+      "value": "의료기기 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "초음파 프로브 등에 적용되는 의료기기 부품류는 전체 매출대비 10.24%(381억원)를 차지하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "반도체 테스트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체(메모리 및 비메모리) 테스트 PACKAGE용 장비의 소모성 부품인 IC TEST SOCKET 류는 전체 매출대비 65.48%"
+    },
+    {
+      "axis": "application",
+      "value": "초음파 진단기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "LEENO PIN과 IC TEST SOCKET 등의 제조 공정에서 축적한 미세제조공정 노하우를 바탕으로 초음파 진단기 시장에서 차별화된 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "지멘스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전 세계에 자체 개발한 초음파 프로브를 수출하며 의료기기/IT융합 전초기지를 구축중인 지멘스社에 의료기기 부품을 공급하며 안정적인 매출을 이어가고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PIPE",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LEENO PIN &IC TEST SOCKET,의료기기 부품 외 원재료 등 PIPE 등 제품생산 48,778,457,120 68.2"
+    },
+    {
+      "axis": "raw_material",
+      "value": "도금류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "LEENO PIN &IC TEST SOCKET,의료기기 부품 외 원재료 등 PIPE 등 제품생산 48,778,457,120 68.2 도금류 22,736,415,414 31.8"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 부산 강서구에 위치한 본사에서 주요 제품에 대한 제조, 개발, 영업등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국내외 원자재 가격과 유가의 불안정, 경기 변동, 지정학적 위험, 제품가격 변화 등 당사가 영위하는 산업과 경제 전반적인 상황에서 파생되는 위험"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"IC TEST SOCKET\",\n      \"weight\": 0.65,\n      \"direction\": null,\n      \"evidence\": \"반도체(메모리 및 비메모리) 테스트 PACKAGE용 장비의 소모성 부품인 IC TEST SOCKET 류는 전체 매출대비 65.48%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LEENO PIN\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"반도체나 인쇄회로기판의 전기적 불량여부를 체크하는 소모성 부품인 LEENO PIN 류는 전체 매출대비 23.38%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료기기 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"초음파 프로브 등에 적용되는 의료기기 부품류는 전체 매출대비 10.24%(381억원)를 차지하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체 테스트\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체(메모리 및 비메모리) 테스트 PACKAGE용 장비의 소모성 부품인 IC TEST SOCKET 류는 전체 매출대비 65.48%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"초음파 진단기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"LEENO PIN과 IC TEST SOCKET 등의 제조 공정에서 축적한 미세제조공정 노하우를 바탕으로 초음파 진단기 시장에서 차별화된 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"지멘스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전 세계에 자체 개발한 초음파 프로브를 수출하며 의료기기/IT융합 전초기지를 구축중인 지멘스社에 의료기기 부품을 공급하며 안정적인 매출을 이어가고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PIPE\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"LEENO PIN &IC TEST SOCKET,의료기기 부품 외 원재료 등 PIPE 등 제품생산 48,778,457,120 68.2\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"도금류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"LEENO PIN &IC TEST SOCKET,의료기기 부품 외 원재료 등 PIPE 등 제품생산 48,778,457,120 68.2 도금류 22,736,415,414 31.8\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 부산 강서구에 위치한 본사에서 주요 제품에 대한 제조, 개발, 영업등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국내외 원자재 가격과 유가의 불안정, 경기 변동, 지정학적 위험, 제품가격 변화 등 당사가 영위하는 산업과 경제 전반적인 상황에서 파생되는 위험\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/058470_20260318000182.txt"
+}

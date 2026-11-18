@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "풍력타워",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사와 연결종속회사는 풍력타워 생산 및 타워내부 부품, 베어링 등 풍력타워 부품 생산과 해상풍력 하부구조물 생산사업을 운영 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력 하부구조물",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해상풍력을 주력으로 시장경쟁력을 강화하기 위하여 해상풍력 하부구조물 사업에 새롭게 진출하고자 2023년 12월 유럽 해상풍력 하부구조물 생산기업인 'Bladt Industries'를 인수하여 유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Monopile",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Transition Piece",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "풍력발전",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사와 연결종속회사는 풍력타워 생산 및 타워내부 부품, 베어링 등 풍력타워 부품 생산과 해상풍력 하부구조물 생산사업을 운영 중에 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Vestas",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 매출은 풍력타워 부문의 경우, Vestas, SGRE 등 글로벌 유수의 풍력터빈 업체가 주요 고객사로 2025년 연결 매출액의 62.1%를 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SGRE",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 매출은 풍력타워 부문의 경우, Vestas, SGRE 등 글로벌 유수의 풍력터빈 업체가 주요 고객사로 2025년 연결 매출액의 62.1%를 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Orsted",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해상풍력 하부구조물 부문에서는 Orsted, RWE 등 글로벌 신재생에너지 발전기업들이 주요 고객사로, 전략적인 관계 구축을 통한 장기적인 공급계약을 바탕으로 수주활동을 전개하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "RWE",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해상풍력 하부구조물 부문에서는 Orsted, RWE 등 글로벌 신재생에너지 발전기업들이 주요 고객사로, 전략적인 관계 구축을 통한 장기적인 공급계약을 바탕으로 수주활동을 전개하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "후판",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "다만, 원재료 중 큰 비중을 차지하는 후판 가격은 지역마다 상이하긴 하나 2025년에는 중국, 유럽 등 대부분의 국가에선 후판 가격이 하락한 반면, 미국산 후판 가격은 작년 말에 비해 상승하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "인터널 자재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인터널 자재 | Yundom, Barga 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "플랜지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "플랜지 | PSM, Iraeta 외"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "포르투갈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대만",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 해외 영업 과정에서 다양한 통화를 이용한 거래 등으로 인하여 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 KRW, USD, CAD, EUR, TRY, PLN, NOK, SEK, GBP, VND, CNY 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"풍력타워\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사와 연결종속회사는 풍력타워 생산 및 타워내부 부품, 베어링 등 풍력타워 부품 생산과 해상풍력 하부구조물 생산사업을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력 하부구조물\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해상풍력을 주력으로 시장경쟁력을 강화하기 위하여 해상풍력 하부구조물 사업에 새롭게 진출하고자 2023년 12월 유럽 해상풍력 하부구조물 생산기업인 'Bladt Industries'를 인수하여 유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Monopile\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Transition Piece\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유럽, 미국 등 전세계 시장에 Monopile, Transition Piece 등 해상풍력 하부구조물 등을 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"풍력발전\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사와 연결종속회사는 풍력타워 생산 및 타워내부 부품, 베어링 등 풍력타워 부품 생산과 해상풍력 하부구조물 생산사업을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Vestas\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 매출은 풍력타워 부문의 경우, Vestas, SGRE 등 글로벌 유수의 풍력터빈 업체가 주요 고객사로 2025년 연결 매출액의 62.1%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SGRE\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 매출은 풍력타워 부문의 경우, Vestas, SGRE 등 글로벌 유수의 풍력터빈 업체가 주요 고객사로 2025년 연결 매출액의 62.1%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Orsted\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해상풍력 하부구조물 부문에서는 Orsted, RWE 등 글로벌 신재생에너지 발전기업들이 주요 고객사로, 전략적인 관계 구축을 통한 장기적인 공급계약을 바탕으로 수주활동을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"RWE\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해상풍력 하부구조물 부문에서는 Orsted, RWE 등 글로벌 신재생에너지 발전기업들이 주요 고객사로, 전략적인 관계 구축을 통한 장기적인 공급계약을 바탕으로 수주활동을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"후판\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"다만, 원재료 중 큰 비중을 차지하는 후판 가격은 지역마다 상이하긴 하나 2025년에는 중국, 유럽 등 대부분의 국가에선 후판 가격이 하락한 반면, 미국산 후판 가격은 작년 말에 비해 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"인터널 자재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인터널 자재 | Yundom, Barga 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플랜지\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"플랜지 | PSM, Iraeta 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"포르투갈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대만\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사를 기반으로 베트남, 미국, 포르투갈, 중국, 터키, 대만에서 풍력타워 생산법인을 운영하며유럽, 미국, 아시아 등 전세계 시장에 육상 및 해상 풍력타워를 공급, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외 영업 과정에서 다양한 통화를 이용한 거래 등으로 인하여 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 KRW, USD, CAD, EUR, TRY, PLN, NOK, SEK, GBP, VND, CNY 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/112610_20260318001110.txt"
+}

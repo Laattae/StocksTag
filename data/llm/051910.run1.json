@@ -1,0 +1,243 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품으로는 PE, PVC, ABS, SAP, 합성고무 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "프로필렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학사업은 납사 등을 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초유분을 생산하는 공업과"
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지소재 사업은 신규 수주 물량 확대를 통해 실적 개선을 목표하며, 생산 및 SCM 운영 최적화와 함께 중저가 및 차세대 전지용 양극재 등 신제품 개발 가속화를 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "제미글로",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "생명과학사업은 당뇨신약 '제미글로'를 비롯하여, 인간 성장호르몬제 '유트로핀', 관절염주사제 '시노비안', 류머티스 관절염 치료제 '유셉트', 5가혼합백신 '유펜타', 소아마비 백신 '유폴리오', 신장암 치료제 '포티브다' 등의 의약품을 생산 및 판매하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "EV용 배터리",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "ESS용 배터리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "작물보호제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 종속회사 (주)팜한농은 작물보호제, 종자, 비료 등의 제조 및 판매를 주요 사업으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비료",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 종속회사 (주)팜한농은 작물보호제, 종자, 비료 등의 제조 및 판매를 주요 사업으로 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "향후 글로벌 AI용 반도체 및 EV/SUV 시장의 지속적인 수요 성장을 통한 고부가 제품 매출 확대로 점진적인 수익성 개선을 전망하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "다만, 반도체용 IPA, 자동차용 ABS, 고성능 SSBR 등 고부가 Application은 견조한 수익성을 창출하였고, 향후 글로벌 AI용 반도체 및 EV/SUV 시장의 지속적인 수요 성장을 통한 고부가 제품 매출 확대로 점진적인 수익성 개선을 전망하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "IT기기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "LG에너지솔루션의 주요 매출처는 자동차 OEM 업체로서 주요 5대 매출처에 대한 매출 비중은 약 63% 수준입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "석유화학사업은 납사 등을 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초유분을 생산하는 공업과"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전구체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "첨단소재사업부문 | 원재료 | 전구체, 리튬 등 | 양극재 및 전자소재원재료 등 | 1,466,703 | 6.3% | Huayou 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "리튬",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "첨단소재사업부문 | 원재료 | 전구체, 리튬 등 | 양극재 및 전자소재원재료 등 | 1,466,703 | 6.3% | Huayou 등"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내: 1 | 석유화학: 7 | 첨단소재: 2 | 생명과학: 2 | LG에너지솔루션: 2 | 공통 및 기타부문: 4"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "보고기간말 현재 연결회사는 향후 매입할 원재료의 시장가격 변동위험을 회피하기 위하여 현금흐름위험회피회계를 적용하는 스왑계약을 체결하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "첨단소재사업은 양극재(양극활물질), 분리막 등 전지소재, 자동차 내외장재/부품 및 가전제품용 엔지니어링 소재, IT/반도체 제품용 전자소재를 개발하고 생산/판매하는 사업으로"
+    },
+    {
+      "axis": "product",
+      "value": "배터리",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "EV용 배터리는 경쟁사 대비 앞선 개발과 공급 및 높은 에너지 밀도, 장수명 등 제품 경쟁력을 기반으로 다수의 글로벌 완성차 업체를 고객으로 확보하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학 사업의 경우 에틸렌 및 프로필렌 등 기초 제품으로부터 PE, PVC/가소제, ABS, 아크릴/SAP, 합성고무, 특수수지 등 Downstream 제품까지 수직계열화 되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ABS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학 사업의 경우 에틸렌 및 프로필렌 등 기초 제품으로부터 PE, PVC/가소제, ABS, 아크릴/SAP, 합성고무, 특수수지 등 Downstream 제품까지 수직계열화 되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "작물보호제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "팜한농 연구소는 작물보호제, 비료, 종자 등 그린바이오 분야의 고객가치를 높이기 위한 핵심 기술과 신제품 개발에 전력을 다하고 있는 국내 최고 수준의 민간 연구기관입니다."
+    },
+    {
+      "axis": "product",
+      "value": "OLED재료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전자소재 사업은 필름사업 매각을 통해 OLED 재료, 반도체 소재, e-Mobility 소재 등 고부가 제품 중심으로 사업 포트폴리오를 개편하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "첨단소재사업은 전기차 보급화, 차량 경량화 및 전장화, OLED 채용 확대 등 자동차 및 IT 산업의 변화에 부합하여 선제적인 기술 개발이 필요합니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2차전지 산업은 과거 노트북, 스마트폰 등 IT기기용 전지를 중심으로 성장하여왔으나, 세계 각국의 환경규제 및 전기차에 대한 구매 보조금, 세제혜택 등의 정책실시로 전기차 시장이 빠르게 성장하면서 EV용 배터리가 2차전지 산업의 성장을 주도하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학 사업은 납사를 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초원료를 생산하는 공업과 이를 원료로 하여 다양한 합성수지를 생산하는 공업을 포괄하는 사업으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "납사가 주요 원재료이고 수출 비중이 높기 때문에 유가 및 환율 변동과도 관련이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "납사가 주요 원재료이고 수출 비중이 높기 때문에 유가 및 환율 변동과도 관련이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "중국 수요",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "석유화학 사업은 세계 경제 상황 및 각 제품별 수급 상황에 영향을 받으며 성장하는 사업입니다. 특히 중국 수요가 많은 관계로 중국의 경제 성장 상황과 밀접한 관련이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"에틸렌\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품으로는 PE, PVC, ABS, SAP, 합성고무 등이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"프로필렌\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"석유화학사업은 납사 등을 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초유분을 생산하는 공업과\"}, {\"axis\": \"product\", \"value\": \"양극재\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전지소재 사업은 신규 수주 물량 확대를 통해 실적 개선을 목표하며, 생산 및 SCM 운영 최적화와 함께 중저가 및 차세대 전지용 양극재 등 신제품 개발 가속화를 추진하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"제미글로\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"생명과학사업은 당뇨신약 '제미글로'를 비롯하여, 인간 성장호르몬제 '유트로핀', 관절염주사제 '시노비안', 류머티스 관절염 치료제 '유셉트', 5가혼합백신 '유펜타', 소아마비 백신 '유폴리오', 신장암 치료제 '포티브다' 등의 의약품을 생산 및 판매하는 사업입니다.\"}, {\"axis\": \"product\", \"value\": \"EV용 배터리\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"ESS용 배터리\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"작물보호제\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 종속회사 (주)팜한농은 작물보호제, 종자, 비료 등의 제조 및 판매를 주요 사업으로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"비료\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사의 종속회사 (주)팜한농은 작물보호제, 종자, 비료 등의 제조 및 판매를 주요 사업으로 하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"향후 글로벌 AI용 반도체 및 EV/SUV 시장의 지속적인 수요 성장을 통한 고부가 제품 매출 확대로 점진적인 수익성 개선을 전망하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"AI 서버\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"다만, 반도체용 IPA, 자동차용 ABS, 고성능 SSBR 등 고부가 Application은 견조한 수익성을 창출하였고, 향후 글로벌 AI용 반도체 및 EV/SUV 시장의 지속적인 수요 성장을 통한 고부가 제품 매출 확대로 점진적인 수익성 개선을 전망하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"IT기기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"LG에너지솔루션은 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"현대자동차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"LG에너지솔루션의 주요 매출처는 자동차 OEM 업체로서 주요 5대 매출처에 대한 매출 비중은 약 63% 수준입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"납사\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"석유화학사업은 납사 등을 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초유분을 생산하는 공업과\"}, {\"axis\": \"raw_material\", \"value\": \"전구체\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"첨단소재사업부문 | 원재료 | 전구체, 리튬 등 | 양극재 및 전자소재원재료 등 | 1,466,703 | 6.3% | Huayou 등\"}, {\"axis\": \"raw_material\", \"value\": \"리튬\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"첨단소재사업부문 | 원재료 | 전구체, 리튬 등 | 양극재 및 전자소재원재료 등 | 1,466,703 | 6.3% | Huayou 등\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"국내: 1 | 석유화학: 7 | 첨단소재: 2 | 생명과학: 2 | LG에너지솔루션: 2 | 공통 및 기타부문: 4\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"폴란드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"보고기간말 현재 연결회사는 향후 매입할 원재료의 시장가격 변동위험을 회피하기 위하여 현금흐름위험회피회계를 적용하는 스왑계약을 체결하고 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극재\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"첨단소재사업은 양극재(양극활물질), 분리막 등 전지소재, 자동차 내외장재/부품 및 가전제품용 엔지니어링 소재, IT/반도체 제품용 전자소재를 개발하고 생산/판매하는 사업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배터리\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"EV용 배터리는 경쟁사 대비 앞선 개발과 공급 및 높은 에너지 밀도, 장수명 등 제품 경쟁력을 기반으로 다수의 글로벌 완성차 업체를 고객으로 확보하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학 사업의 경우 에틸렌 및 프로필렌 등 기초 제품으로부터 PE, PVC/가소제, ABS, 아크릴/SAP, 합성고무, 특수수지 등 Downstream 제품까지 수직계열화 되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ABS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학 사업의 경우 에틸렌 및 프로필렌 등 기초 제품으로부터 PE, PVC/가소제, ABS, 아크릴/SAP, 합성고무, 특수수지 등 Downstream 제품까지 수직계열화 되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"작물보호제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"팜한농 연구소는 작물보호제, 비료, 종자 등 그린바이오 분야의 고객가치를 높이기 위한 핵심 기술과 신제품 개발에 전력을 다하고 있는 국내 최고 수준의 민간 연구기관입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED재료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전자소재 사업은 필름사업 매각을 통해 OLED 재료, 반도체 소재, e-Mobility 소재 등 고부가 제품 중심으로 사업 포트폴리오를 개편하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"첨단소재사업은 전기차 보급화, 차량 경량화 및 전장화, OLED 채용 확대 등 자동차 및 IT 산업의 변화에 부합하여 선제적인 기술 개발이 필요합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2차전지 산업은 과거 노트북, 스마트폰 등 IT기기용 전지를 중심으로 성장하여왔으나, 세계 각국의 환경규제 및 전기차에 대한 구매 보조금, 세제혜택 등의 정책실시로 전기차 시장이 빠르게 성장하면서 EV용 배터리가 2차전지 산업의 성장을 주도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학 사업은 납사를 원료로 하여 에틸렌, 프로필렌, 부타디엔, 벤젠 등 기초원료를 생산하는 공업과 이를 원료로 하여 다양한 합성수지를 생산하는 공업을 포괄하는 사업으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"납사가 주요 원재료이고 수출 비중이 높기 때문에 유가 및 환율 변동과도 관련이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"납사가 주요 원재료이고 수출 비중이 높기 때문에 유가 및 환율 변동과도 관련이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"중국 수요\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"석유화학 사업은 세계 경제 상황 및 각 제품별 수급 상황에 영향을 받으며 성장하는 사업입니다. 특히 중국 수요가 많은 관계로 중국의 경제 성장 상황과 밀접한 관련이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/051910_20260313001195.txt"
+}

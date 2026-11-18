@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "V3",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "솔루션 분야는 국내 최장수 소프트웨어 브랜드이자 안티바이러스 솔루션의 대명사인 V3 제품군을 비롯해 온라인 보안 서비스, 모바일 보안 솔루션, 네트워크 보안 장비 등 정보 네트워크 환경에 적합한 보안 솔루션을 개발 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보안 솔루션",
+      "weight": 0.94,
+      "direction": null,
+      "evidence": "보안 솔루션 (SW, HW)보안 관제서비스보안 컨설팅 등 | 251,511(94.0)"
+    },
+    {
+      "axis": "product",
+      "value": "보안 관제서비스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "서비스 분야는 보안 컨설팅과 보안 관제 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "AhnLab XDR",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2023년 하반기에는 ‘통합 보안’이라는 흐름에 발맞춰 국내 기업으로는 최초로 확장형 위협 탐지 & 대응(eXtended Detection & Response, XDR) 플랫폼 AhnLab XDR을 출시했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "AhnLab CPP",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "클라우드 보안 부문에서는 최근 증가하는 기업의 클라우드 보안 니즈에 맞춰 2020년 6월 클라우드 워크로드 보안 플랫폼인 ‘AhnLab CPP’를 출시했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트팩토리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "발전소",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "클라우드",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "공격자들은 피해 규모 확대를 위해 소프트웨어, 클라우드, 하드웨어 등 도메인을 가리지 않고 공급망 공격을 감행하며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "지정학적 리스크",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "러시아-우크라이나 전쟁, 이스라엘-이란 전쟁, 태국-캄보디아 전쟁 등 지정학적 리스크가 발생하면서, 적대 세력으로부터 이득을 취하기 위한 사이버 공격이 감행되어 왔고 앞으로도 지속될 전망입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"V3\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"솔루션 분야는 국내 최장수 소프트웨어 브랜드이자 안티바이러스 솔루션의 대명사인 V3 제품군을 비롯해 온라인 보안 서비스, 모바일 보안 솔루션, 네트워크 보안 장비 등 정보 네트워크 환경에 적합한 보안 솔루션을 개발 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안 솔루션\",\n      \"weight\": 0.94,\n      \"direction\": null,\n      \"evidence\": \"보안 솔루션 (SW, HW)보안 관제서비스보안 컨설팅 등 | 251,511(94.0)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안 관제서비스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"서비스 분야는 보안 컨설팅과 보안 관제 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AhnLab XDR\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2023년 하반기에는 ‘통합 보안’이라는 흐름에 발맞춰 국내 기업으로는 최초로 확장형 위협 탐지 & 대응(eXtended Detection & Response, XDR) 플랫폼 AhnLab XDR을 출시했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AhnLab CPP\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"클라우드 보안 부문에서는 최근 증가하는 기업의 클라우드 보안 니즈에 맞춰 2020년 6월 클라우드 워크로드 보안 플랫폼인 ‘AhnLab CPP’를 출시했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트팩토리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전소\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 스마트팩토리, 데이터센터(IDC), 발전소, 수소 충전소 등 다수의 생산 및 기반 시설을 고객으로 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"클라우드\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"공격자들은 피해 규모 확대를 위해 소프트웨어, 클라우드, 하드웨어 등 도메인을 가리지 않고 공급망 공격을 감행하며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"지정학적 리스크\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"러시아-우크라이나 전쟁, 이스라엘-이란 전쟁, 태국-캄보디아 전쟁 등 지정학적 리스크가 발생하면서, 적대 세력으로부터 이득을 취하기 위한 사이버 공격이 감행되어 왔고 앞으로도 지속될 전망입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/053800_20260320000868.txt"
+}

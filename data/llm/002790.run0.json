@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.89,
+      "direction": null,
+      "evidence": "화장품사업부문 | 제품 및 상품 | 기 초 | 세안, 보습 | 설화수, 헤라, 아이오페, 에스트라, 라네즈, 마몽드 등 | 3,794,374 | 89.2%"
+    },
+    {
+      "axis": "product",
+      "value": "개인용생활용품",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "헤어 앤 뷰티(Hair & Beauty)사업부문 | 제품 및 상품 | 개인용생활용품 | 모발, 구강,바디 케어 제품 | 미쟝센, 해피바스, 려, 메디안 등 | 458,446 | 10.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "GLYCERINE",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등 | 스킨, 로션 등 각종 화장품 원료 | 100,279 | 16.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MYRISTIC ACID",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "MYRISTIC ACID, ECOROL 16/98P 등 | 샴푸, 비누, 치약 등의 원료 | 107,048 | 17.1%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "(주)아모레퍼시픽은 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화장품 스킨케어(스킨, 로션, 크림, 에센스 등) 카테고리 및 메이크업(페이스, 립, 아이 메이크업 등) 카테고리에 대한 시장점유율입니다."
+    },
+    {
+      "axis": "product",
+      "value": "색조화장품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화장품 스킨케어(스킨, 로션, 크림, 에센스 등) 카테고리 및 메이크업(페이스, 립, 아이 메이크업 등) 카테고리에 대한 시장점유율입니다."
+    },
+    {
+      "axis": "product",
+      "value": "생활용품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "생활용품 : 헤어부분 5대(샴푸, 린스, 트리트먼트, 정발, 염모) 카테고리 및 바디부분 2대(바디워시, 바디로션) 카테고리에 대한 시장점유율입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미주 지역은 라네즈, 설화수, 이니스프리 브랜드의 지속적인 매출 성장 및 코스알엑스 편입에 더하여, 에스트라 및 한율 브랜드 신규 진출로 매출이 고성장하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중화권 매출은 작년과 유사한 수준을 기록했으나, 사업구조 재정비 성과 가시화 및 비용 효율화로 수익성이 개선되며 흑자 전환하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일본에서는 대표 온라인 플랫폼인 큐텐 프로모션 강화 및 멀티브랜드숍 커버리지 확대로 고객 대응력을 강화하며 라네즈, 에스트라 등 주요 브랜드를 중심으로 매출 성장이 지속되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "에스트라의 베트남, 태국 진출에 이어 일리윤이 인도네시아 및 태국으로 글로벌 거점을 확대하며 전체 매출이 증가하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "에스트라의 베트남, 태국 진출에 이어 일리윤이 인도네시아 및 태국으로 글로벌 거점을 확대하며 전체 매출이 증가하였습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초화장품\",\n      \"weight\": 0.89,\n      \"direction\": null,\n      \"evidence\": \"화장품사업부문 | 제품 및 상품 | 기 초 | 세안, 보습 | 설화수, 헤라, 아이오페, 에스트라, 라네즈, 마몽드 등 | 3,794,374 | 89.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인용생활용품\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"헤어 앤 뷰티(Hair & Beauty)사업부문 | 제품 및 상품 | 개인용생활용품 | 모발, 구강,바디 케어 제품 | 미쟝센, 해피바스, 려, 메디안 등 | 458,446 | 10.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"GLYCERINE\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등 | 스킨, 로션 등 각종 화장품 원료 | 100,279 | 16.0%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MYRISTIC ACID\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"MYRISTIC ACID, ECOROL 16/98P 등 | 샴푸, 비누, 치약 등의 원료 | 107,048 | 17.1%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"(주)아모레퍼시픽은 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초화장품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화장품 스킨케어(스킨, 로션, 크림, 에센스 등) 카테고리 및 메이크업(페이스, 립, 아이 메이크업 등) 카테고리에 대한 시장점유율입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"색조화장품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화장품 스킨케어(스킨, 로션, 크림, 에센스 등) 카테고리 및 메이크업(페이스, 립, 아이 메이크업 등) 카테고리에 대한 시장점유율입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생활용품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"생활용품 : 헤어부분 5대(샴푸, 린스, 트리트먼트, 정발, 염모) 카테고리 및 바디부분 2대(바디워시, 바디로션) 카테고리에 대한 시장점유율입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미주 지역은 라네즈, 설화수, 이니스프리 브랜드의 지속적인 매출 성장 및 코스알엑스 편입에 더하여, 에스트라 및 한율 브랜드 신규 진출로 매출이 고성장하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중화권 매출은 작년과 유사한 수준을 기록했으나, 사업구조 재정비 성과 가시화 및 비용 효율화로 수익성이 개선되며 흑자 전환하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일본에서는 대표 온라인 플랫폼인 큐텐 프로모션 강화 및 멀티브랜드숍 커버리지 확대로 고객 대응력을 강화하며 라네즈, 에스트라 등 주요 브랜드를 중심으로 매출 성장이 지속되었습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"에스트라의 베트남, 태국 진출에 이어 일리윤이 인도네시아 및 태국으로 글로벌 거점을 확대하며 전체 매출이 증가하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"에스트라의 베트남, 태국 진출에 이어 일리윤이 인도네시아 및 태국으로 글로벌 거점을 확대하며 전체 매출이 증가하였습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/002790_20260318000825.txt"
+}

@@ -1,0 +1,349 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "설탕",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 식용유 등 | 11,522,251(42%)"
+    },
+    {
+      "axis": "product",
+      "value": "밀가루",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 식용유 등 | 11,522,251(42%)"
+    },
+    {
+      "axis": "product",
+      "value": "식용유",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 식용유 등 | 11,522,251(42%)"
+    },
+    {
+      "axis": "product",
+      "value": "핵산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "핵산, 아미노산,식물성 단백원 등 | 4,123,004(15%)"
+    },
+    {
+      "axis": "product",
+      "value": "아미노산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "핵산, 아미노산,식물성 단백원 등 | 4,123,004(15%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원당 | 설탕제조 등 | 758,438 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원맥",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원맥 | 밀가루제조 | 328,387 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대두 | 식용유제조 등 | 805,501 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "옥수수 | 사료제조 등 | 368,038 | 수 입"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "택배",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%"
+    },
+    {
+      "axis": "product",
+      "value": "가공식품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "식품 | 제품 및 상품 | 소재식품,가공식품 등 | 11,522,251"
+    },
+    {
+      "axis": "product",
+      "value": "아미노산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "BIO | 제품 및 상품 | 핵산, 아미노산,식물성 단백원 등 | 4,123,004"
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "드라마 | 드라마 편성 | 수출 | - | - | - | 내수 | 115,234"
+    },
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "음악 | CJ ENM 음악사업부문및 종속회사 LAPONE ENTERTAINMENT외 11개사 | 음반, 음원, 콘서트, 매니지먼트 등"
+    },
+    {
+      "axis": "application",
+      "value": "이커머스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%"
+    },
+    {
+      "axis": "customer",
+      "value": "씨제이이엔엠",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "(주)씨제이이엔엠 | 136,237 | 128,852 | 155,153 | 전체 매출 비중 | 25.67%"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개를 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "회사는 주로 변동 이자율로 발행된 차입금으로 인한 현금흐름 이자율 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "설탕",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "설탕 (가정용) |  77 |  77"
+    },
+    {
+      "axis": "product",
+      "value": "밀가루",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "밀 가 루 (가정용) |  58 |  57"
+    },
+    {
+      "axis": "product",
+      "value": "육가공",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "육 가 공 (캔 햄) |  65 |  64"
+    },
+    {
+      "axis": "product",
+      "value": "상품밥",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "상 품 밥 (햇 반) |  66 |  70"
+    },
+    {
+      "axis": "product",
+      "value": "냉동만두",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "냉 동 만 두 (가정용) |  42 |  45"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 지난 60여 년간 축적한 대량 발효 기술과 정제 공법을 바탕으로 현재 인도네시아 공장에서 15천톤의 aPHA와 scPHA를 생산할 수 있는 CAPA를 구축하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "방송광고",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2018년 모바일 중심의 디지털 광고 시장 호조로 총 광고비가 전년 대비 6.4% 성장하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "드라마산업은 과거 지상파 및 유료 방송 중심이었으나, 영상 산업 고도화 및 OTT 등 뉴미디어 플랫폼의 등장으로 소비자에 대한 창구가 다양해지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "영화산업은 하나의 영상 콘텐츠가 극장 상영 뿐 아니라 VOD, TV, OTT 등 다양한 매체에서 재생되는 과정을 통해 반복 판매되며 부가가치가 확대되는 성격을 가지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음악 콘텐츠",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등"
+    },
+    {
+      "axis": "product",
+      "value": "TV홈쇼핑",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고"
+    },
+    {
+      "axis": "application",
+      "value": "OTT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 OTT 시장은 매년 급속하게 성장하고 있고, 특히 팬데믹을 겪으며 대중들의 관심이 급증하면서 티빙, 웨이브, 쿠팡플레이와 같은 토종 OTT뿐만 아니라 글로벌 OTT인 애플TV, 디즈니+가 진입하여 사업자간 경쟁이 심화되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유료방송",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "IPTV가입자는 2009년 서비스 상용화 이후 빠르게 지속적으로 증가하고 있습니다. 2014년에 가입자 수가 전년 대비 11% 증가하였고, 2015년 12월 기준 11백만명을 기록하여, 유료 방송시장의 40%를 차지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한 TV 매체 이용 빈도는 감소하는 반면, 스마트폰 보유율 및 이용률이 증가하는 등 유료방송 채널 및 OTT 등 영화 및 드라마를 수신할 수 있는 채널이 다양화되면서"
+    },
+    {
+      "axis": "customer",
+      "value": "넷플릭스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년 4월, 글로벌 OTT 서비스 넷플릭스가 향후 4년간 한국 콘텐츠 제작에 약 3조 3,000억 원을 투자하겠다고 발표하면서 국내 드라마 산업의 미래 성장 가능성에 대한 기대감을 높였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결실체는 글로벌 시장 개척을 목표로, 첫 미국 드라마인 (Apple TV+ 오리지널) 시즌1을 공동 기획ㆍ제작하여 2023년 3월부터 5월까지 방영하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2025년에는 일본과 공동제작한 Netflix JP 오리지널 시리즈 를 론칭하는 등 글로벌향 작품 제작을 확대하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "CGI HOLDINGS LIMITED(星控股有限公司)는 당사의 자회사(지분율 82%)로 2009년 설립되었으며 주요 업종은 지주회사로서 중국, 베트남, 인도네시아 내 각 자회사들의 자금조달과 재무관리 및 운영을 주목적으로 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "CJ CGV VIETNAM CO.,LTD.는 당사의 자회사인 CGI HOLDINGS LIMITED가 100% 소유하고 있는 CJ CGV Vietnam Holdings CO., LTD.의 자회사(지분율 80%)로 2011년 종속법인으로 편입되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PT GRAHA LAYAR PRIMA TBK는 당사의 자회사인 CGI HOLDINGS LIMITED의 자회사(지분율 51%)로 1개의 자회사가 있으며, 2016년 종속법인으로 편입되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다만, 2023년 이후 국내외 경기 둔화와 TV 광고 시장 위축 등의 영향은 당사뿐 아니라 산업 전반에 영향을 미쳤으며, 제작ㆍ편성 및 투자 환경에 변화를 가져왔습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "코로나 팬데믹",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "2020년 코로나 팬데믹 영향으로 4대 매체 광고시장 -15%로 역성장 하였으나 모바일 광고시장은 +22%로 기존 성장세를 유지하는 모습을 보여주었습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"설탕\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 식용유 등 | 11,522,251(42%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"밀가루\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 식용유 등 | 11,522,251(42%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식용유\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 식용유 등 | 11,522,251(42%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핵산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"핵산, 아미노산,식물성 단백원 등 | 4,123,004(15%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아미노산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"핵산, 아미노산,식물성 단백원 등 | 4,123,004(15%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원당 | 설탕제조 등 | 758,438 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원맥\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원맥 | 밀가루제조 | 328,387 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대두 | 식용유제조 등 | 805,501 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"옥수수 | 사료제조 등 | 368,038 | 수 입\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"택배\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가공식품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"식품 | 제품 및 상품 | 소재식품,가공식품 등 | 11,522,251\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아미노산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"BIO | 제품 및 상품 | 핵산, 아미노산,식물성 단백원 등 | 4,123,004\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"드라마\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"드라마 | 드라마 편성 | 수출 | - | - | - | 내수 | 115,234\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"음악 | CJ ENM 음악사업부문및 종속회사 LAPONE ENTERTAINMENT외 11개사 | 음반, 음원, 콘서트, 매니지먼트 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이커머스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"씨제이이엔엠\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"(주)씨제이이엔엠 | 136,237 | 128,852 | 155,153 | 전체 매출 비중 | 25.67%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"회사는 주로 변동 이자율로 발행된 차입금으로 인한 현금흐름 이자율 위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"설탕\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"설탕 (가정용) |  77 |  77\"}, {\"axis\": \"product\", \"value\": \"밀가루\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"밀 가 루 (가정용) |  58 |  57\"}, {\"axis\": \"product\", \"value\": \"육가공\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"육 가 공 (캔 햄) |  65 |  64\"}, {\"axis\": \"product\", \"value\": \"상품밥\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"상 품 밥 (햇 반) |  66 |  70\"}, {\"axis\": \"product\", \"value\": \"냉동만두\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"냉 동 만 두 (가정용) |  42 |  45\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 지난 60여 년간 축적한 대량 발효 기술과 정제 공법을 바탕으로 현재 인도네시아 공장에서 15천톤의 aPHA와 scPHA를 생산할 수 있는 CAPA를 구축하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제 곡물가\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"방송광고\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2018년 모바일 중심의 디지털 광고 시장 호조로 총 광고비가 전년 대비 6.4% 성장하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"드라마\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"드라마산업은 과거 지상파 및 유료 방송 중심이었으나, 영상 산업 고도화 및 OTT 등 뉴미디어 플랫폼의 등장으로 소비자에 대한 창구가 다양해지고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"영화산업은 하나의 영상 콘텐츠가 극장 상영 뿐 아니라 VOD, TV, OTT 등 다양한 매체에서 재생되는 과정을 통해 반복 판매되며 부가가치가 확대되는 성격을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음악 콘텐츠\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV홈쇼핑\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OTT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 OTT 시장은 매년 급속하게 성장하고 있고, 특히 팬데믹을 겪으며 대중들의 관심이 급증하면서 티빙, 웨이브, 쿠팡플레이와 같은 토종 OTT뿐만 아니라 글로벌 OTT인 애플TV, 디즈니+가 진입하여 사업자간 경쟁이 심화되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유료방송\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"IPTV가입자는 2009년 서비스 상용화 이후 빠르게 지속적으로 증가하고 있습니다. 2014년에 가입자 수가 전년 대비 11% 증가하였고, 2015년 12월 기준 11백만명을 기록하여, 유료 방송시장의 40%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"또한 TV 매체 이용 빈도는 감소하는 반면, 스마트폰 보유율 및 이용률이 증가하는 등 유료방송 채널 및 OTT 등 영화 및 드라마를 수신할 수 있는 채널이 다양화되면서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넷플릭스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년 4월, 글로벌 OTT 서비스 넷플릭스가 향후 4년간 한국 콘텐츠 제작에 약 3조 3,000억 원을 투자하겠다고 발표하면서 국내 드라마 산업의 미래 성장 가능성에 대한 기대감을 높였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 글로벌 시장 개척을 목표로, 첫 미국 드라마인 (Apple TV+ 오리지널) 시즌1을 공동 기획ㆍ제작하여 2023년 3월부터 5월까지 방영하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2025년에는 일본과 공동제작한 Netflix JP 오리지널 시리즈 를 론칭하는 등 글로벌향 작품 제작을 확대하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"CGI HOLDINGS LIMITED(星控股有限公司)는 당사의 자회사(지분율 82%)로 2009년 설립되었으며 주요 업종은 지주회사로서 중국, 베트남, 인도네시아 내 각 자회사들의 자금조달과 재무관리 및 운영을 주목적으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"CJ CGV VIETNAM CO.,LTD.는 당사의 자회사인 CGI HOLDINGS LIMITED가 100% 소유하고 있는 CJ CGV Vietnam Holdings CO., LTD.의 자회사(지분율 80%)로 2011년 종속법인으로 편입되었습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PT GRAHA LAYAR PRIMA TBK는 당사의 자회사인 CGI HOLDINGS LIMITED의 자회사(지분율 51%)로 1개의 자회사가 있으며, 2016년 종속법인으로 편입되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"다만, 2023년 이후 국내외 경기 둔화와 TV 광고 시장 위축 등의 영향은 당사뿐 아니라 산업 전반에 영향을 미쳤으며, 제작ㆍ편성 및 투자 환경에 변화를 가져왔습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"코로나 팬데믹\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"2020년 코로나 팬데믹 영향으로 4대 매체 광고시장 -15%로 역성장 하였으나 모바일 광고시장은 +22%로 기존 성장세를 유지하는 모습을 보여주었습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/001040_20260318001509.txt"
+}

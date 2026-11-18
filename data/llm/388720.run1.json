@@ -1,0 +1,158 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동화시스템",
+      "weight": 0.69,
+      "direction": null,
+      "evidence": "2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "직교로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "다관절로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "오토피딩시스템",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "두번째 자동화시스템의 대표 제품 라인으로는 온조기 등을 활용한 자동원료공급장치인 오토피딩(Auto-Feeding)시스템과 냉각시스템이 있으며 공장 자동화에 필요한 스마트 팩토리 솔루션(Link-Factory 4.0)을 생산 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "물류자동화",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK Battery America",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2024년 06월 28일 SK Battery America, Inc.의 제3자배정 유상증자 참여로USD 26,755,014(한화 기준 37,055,694,459원)의 자금이 조달되었으며, 이로 인해 SK Battery America, Inc.는 당사의 주요주주가 되었습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "MOTOR류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 | MOTOR류 | 국 내 | 1,574,988 | 1,019,482 |  1,279,480 | 수 입 | 456,503 | 468,575 |  849,305"
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속가공류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "금속가공류 | 국 내 | 3,441,942 | 2,533,051 | 2,606,347 | 수 입 | 606,289 | 493,194 | 545,946"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FA자재류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "FA자재류 | 국 내 | 11,917,011 | 9,680,829 | 10,239,427 | 수 입 | 442,102 | 241,668 | 48,726"
+    },
+    {
+      "axis": "raw_material",
+      "value": "컨트롤류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "컨트롤류 | 국 내 | 268,576 | 305,891 | 333,552 | 수 입 | 1,476,491 | 1,103,161 | 1,240,143"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주3) 당사는 청라국제도시 소재 신규 본사로의 이전에 따라 기존 인천남동공단에 소유하고 있는 1공장의 일부 공간을 임대 중이며 2공장은 매각 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "멕시코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "최저임금",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "첫째, 최저임금 상승은 기업의 비용(인건비 등)을 증가시키는 요인이 되며, 이는 기업의 이익률 하락으로 이어집니다. 지속적인 최저임금 인상 기조는 공장자동화에 대한 요구를 더욱 증폭시킬 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주2) 부품(배관류)나 기타 금속류가 포함된 원자재 가격 변동은 주로 국제적인 철광석 가격 변동과 환율 변동에 따라 발생합니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동화시스템\",\n      \"weight\": 0.69,\n      \"direction\": null,\n      \"evidence\": \"2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"직교로봇\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"다관절로봇\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오토피딩시스템\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"두번째 자동화시스템의 대표 제품 라인으로는 온조기 등을 활용한 자동원료공급장치인 오토피딩(Auto-Feeding)시스템과 냉각시스템이 있으며 공장 자동화에 필요한 스마트 팩토리 솔루션(Link-Factory 4.0)을 생산 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류자동화\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사의 전방산업 별 매출 구성을 보면 자동차 32%, 가전 28%, 화장품 15%, 물류 자동화 등 기타 25%로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK Battery America\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2024년 06월 28일 SK Battery America, Inc.의 제3자배정 유상증자 참여로USD 26,755,014(한화 기준 37,055,694,459원)의 자금이 조달되었으며, 이로 인해 SK Battery America, Inc.는 당사의 주요주주가 되었습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MOTOR류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원재료 | MOTOR류 | 국 내 | 1,574,988 | 1,019,482 |  1,279,480 | 수 입 | 456,503 | 468,575 |  849,305\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"금속가공류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"금속가공류 | 국 내 | 3,441,942 | 2,533,051 | 2,606,347 | 수 입 | 606,289 | 493,194 | 545,946\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FA자재류\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"FA자재류 | 국 내 | 11,917,011 | 9,680,829 | 10,239,427 | 수 입 | 442,102 | 241,668 | 48,726\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"컨트롤류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"컨트롤류 | 국 내 | 268,576 | 305,891 | 333,552 | 수 입 | 1,476,491 | 1,103,161 | 1,240,143\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주3) 당사는 청라국제도시 소재 신규 본사로의 이전에 따라 기존 인천남동공단에 소유하고 있는 1공장의 일부 공간을 임대 중이며 2공장은 매각 완료하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"멕시코\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"최저임금\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"첫째, 최저임금 상승은 기업의 비용(인건비 등)을 증가시키는 요인이 되며, 이는 기업의 이익률 하락으로 이어집니다. 지속적인 최저임금 인상 기조는 공장자동화에 대한 요구를 더욱 증폭시킬 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주2) 부품(배관류)나 기타 금속류가 포함된 원자재 가격 변동은 주로 국제적인 철광석 가격 변동과 환율 변동에 따라 발생합니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/388720_20260318000929.txt"
+}

@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "두유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "헬스케어 | 제품 및 상품(내수) | 두유 | 45,278 | 37,993 | 40,027"
+    },
+    {
+      "axis": "product",
+      "value": "의료기기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "헬스케어 | 제품 및 상품(내수) | 의료기기 | 51,103 | 40,598 | 38,339"
+    },
+    {
+      "axis": "product",
+      "value": "자동조제기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "의약품 및 의약외품, 건강기능식품, 자동조제기(JVM), 음료, 화장품 등을 전문 유통하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "로수젯",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "로수젯 | 고지혈증 | 160,369"
+    },
+    {
+      "axis": "product",
+      "value": "아모잘탄",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아모잘탄 | 복합고혈압 | 111,198"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "헬스케어부문 | 원재료 | 대두 외 | 제품제조 | 15,180(97.2%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥배유엔",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "헬스케어 | 옥배유엔(스페인산) | 국내 | 4,170 | 4,170 | 4,392"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 경기도 평택에 토지, 건물, 구축물, 기계장치, 차량운반구, 공기구비품 등의 생산설비를 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제이브이엠은 대구 달서구 호산동에 위치한 본사(1공장) 및 서울 서초구 양재동에 위치한 서울영업소에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "한편, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익은 1,635,638천원(전기: 610,706천원) 증가(감소)합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "당기말 현재 다른 변수가 일정하고 이자율이 현재보다 1%p 상승(하락)할 경우, 당기손익은 437,173천원(전기: 709,771천원) 감소(증가)합니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"두유\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"헬스케어 | 제품 및 상품(내수) | 두유 | 45,278 | 37,993 | 40,027\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"헬스케어 | 제품 및 상품(내수) | 의료기기 | 51,103 | 40,598 | 38,339\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동조제기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"의약품 및 의약외품, 건강기능식품, 자동조제기(JVM), 음료, 화장품 등을 전문 유통하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로수젯\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"로수젯 | 고지혈증 | 160,369\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아모잘탄\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"아모잘탄 | 복합고혈압 | 111,198\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"헬스케어부문 | 원재료 | 대두 외 | 제품제조 | 15,180(97.2%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥배유엔\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"헬스케어 | 옥배유엔(스페인산) | 국내 | 4,170 | 4,170 | 4,392\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 평택에 토지, 건물, 구축물, 기계장치, 차량운반구, 공기구비품 등의 생산설비를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제이브이엠은 대구 달서구 호산동에 위치한 본사(1공장) 및 서울 서초구 양재동에 위치한 서울영업소에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"한편, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익은 1,635,638천원(전기: 610,706천원) 증가(감소)합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"당기말 현재 다른 변수가 일정하고 이자율이 현재보다 1%p 상승(하락)할 경우, 당기손익은 437,173천원(전기: 709,771천원) 감소(증가)합니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/008930_20260320001158.txt"
+}

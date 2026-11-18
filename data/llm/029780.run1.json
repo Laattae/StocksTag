@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "체크카드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "회원이 보유한 제휴 금융기관 계좌의 잔액 한도내에서 일시불로만 사용이 가능한 카드로 거래승인 시점에 회원 계좌에서 결제금액이 자동 출금되는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "단기카드대출",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "회원의 일시적인 단기 자금 수요를 충족시키기 위해 사전에 회원에게 부여된 한도내에서 자금을 대여하고 도래하는 약정 결제일에 상환할 수 있도록 한 금융상품"
+    },
+    {
+      "axis": "product",
+      "value": "장기카드대출",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "회원의 신용도 등을 고려하여 회원에게 신용을 공여하는 것으로, 회원이 선택한 대출기간, 상환방식에 따라 원금과 이자를 상환하는 장기 금융상품"
+    },
+    {
+      "axis": "product",
+      "value": "자동차할부",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "오토리스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "차량유지관련 종합서비스 제공"
+    },
+    {
+      "axis": "product",
+      "value": "장기렌터카",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "차량유지관련 종합서비스 제공"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "테슬라",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "BYD",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "폴스타",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "혼다 코리아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "또한 수입차 업체인 혼다 코리아, BMW 딜러사 중 6사(코오롱/도이치/삼천리/동성/내쇼날/한독)와도 단독 카드결제 제휴를 체결하여 제조사 캡티브가 없는 당사의 약점을 극복하고, 안정적 물량을 확보하고자 노력하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "서울시 1 -"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "부산시 - 1"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "인천시 - 2"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대구시 - 2"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대전시 - 2"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "이와 관련하여 당사는 변동이자율 지급 조건인 외화 사채의 환율 변동위험과 이자율 변동위험을 회피하기 위해 원화기준 3조 5,829억원의 통화스왑계약을 체결하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "한편, 카드금융은 금리 및 물가상승 등 경제 전망의 불확실성이 커지는 상황에서 우량 회원 중심의 안정적 잔고 관리를 강화하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"체크카드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"회원이 보유한 제휴 금융기관 계좌의 잔액 한도내에서 일시불로만 사용이 가능한 카드로 거래승인 시점에 회원 계좌에서 결제금액이 자동 출금되는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"단기카드대출\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"회원의 일시적인 단기 자금 수요를 충족시키기 위해 사전에 회원에게 부여된 한도내에서 자금을 대여하고 도래하는 약정 결제일에 상환할 수 있도록 한 금융상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기카드대출\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"회원의 신용도 등을 고려하여 회원에게 신용을 공여하는 것으로, 회원이 선택한 대출기간, 상환방식에 따라 원금과 이자를 상환하는 장기 금융상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차할부\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오토리스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"차량유지관련 종합서비스 제공\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기렌터카\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"차량유지관련 종합서비스 제공\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"테슬라\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BYD\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"폴스타\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"혼다 코리아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"또한 수입차 업체인 혼다 코리아, BMW 딜러사 중 6사(코오롱/도이치/삼천리/동성/내쇼날/한독)와도 단독 카드결제 제휴를 체결하여 제조사 캡티브가 없는 당사의 약점을 극복하고, 안정적 물량을 확보하고자 노력하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"서울시 1 -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"부산시 - 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"인천시 - 2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대구시 - 2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대전시 - 2\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"이와 관련하여 당사는 변동이자율 지급 조건인 외화 사채의 환율 변동위험과 이자율 변동위험을 회피하기 위해 원화기준 3조 5,829억원의 통화스왑계약을 체결하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"한편, 카드금융은 금리 및 물가상승 등 경제 전망의 불확실성이 커지는 상황에서 우량 회원 중심의 안정적 잔고 관리를 강화하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/029780_20260311004049.txt"
+}

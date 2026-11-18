@@ -1,0 +1,115 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정밀유도무기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "정밀유도무기, 감시정찰, 지휘통제·통신, 항공전자, 전자전에 이르는 다양한 첨단 무기체계를 연구, 개발 및 양산 해 온 대한민국을 대표하는 종합방위산업체입니다"
+    },
+    {
+      "axis": "product",
+      "value": "감시정찰",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "ISR 제품은 탐색레이더, 추적레이더, 영상레이더, 전자광학장비, 수중감시체계 등을 포함하며, 감시 및 정찰 임무를 위한 무기체계를 개발 및 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항공전자",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "AEW 제품은 항공전자, 함정용/항공기용 전자전, 육군용 전자전 등 각종 전자전체계 제품을 포함하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지휘통제",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "C4I 제품은 통신단말, 지상/함정 전투체계, Data Link 망관리, 상호운용성 등의 제품을 포함하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "로봇",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "기타 제품으로는 로봇, 무인화, 미래전 무기체계, Cyber전, M&S 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.46,
+      "direction": null,
+      "evidence": "2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방기술진흥연구소",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "국방기술진흥연구소 | 내수 | 전자장비 등 | 1,581 | 3.7%"
+    },
+    {
+      "axis": "customer",
+      "value": "한국항공우주산업",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "한국항공우주산업 | 내수 | 항공부품 등 | 2,859 | 6.6%"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": null,
+      "direction": null,
+      "evidence": "블랑제리길 주식회사는 제과, 제빵 및 판매업을 주업종으로 하고 있으며, 보고서 작성일 기준 장애인 인력은 전체 임직원 53명의 75.5%인 40명으로 구성되어 있습니다. 본 종속회사는 장애인 고용을 통한 사회적 가치 실현을 위해 설립된 회사로 하기 사업에 대한 구체적인 내용 기재는 생략합니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "방위산업부문 | 대전사업장 | 446 | 391 | 244 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "2023년 12월 미국 필라델피아 소재 로봇개발 및 제조 전문업체인 Ghost Robotics Corporation의 지분 인수를 통해 미래성장 플랫폼 확보 및 미국방산시장에 진출하기 위해 지분투자를 목적으로 설립된 유한책임회사 형태의 해외 법인입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "보고기간말 현재 다른 모든 변수가 일정하고 원화가 미국 달러화에 대해 10% 약세 또는 강세를 가정할 경우, 세전이익은 주로 미국달러화로 표시된 외화예금, 매출채권, 계약자산 및 매입채무의 외화환산 손익의 결과로 인하여 14,382백만원만큼 상승 또는 하락하였을 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "보고기간말 현재 다른 변수가 일정하고 원화 표시 차입금에 대한 이자율이 1% 상승 또는 하락할 경우, 세전이익은 2,600백만원 만큼 감소 또는 증가했을 것입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"정밀유도무기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"정밀유도무기, 감시정찰, 지휘통제·통신, 항공전자, 전자전에 이르는 다양한 첨단 무기체계를 연구, 개발 및 양산 해 온 대한민국을 대표하는 종합방위산업체입니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감시정찰\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"ISR 제품은 탐색레이더, 추적레이더, 영상레이더, 전자광학장비, 수중감시체계 등을 포함하며, 감시 및 정찰 임무를 위한 무기체계를 개발 및 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공전자\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"AEW 제품은 항공전자, 함정용/항공기용 전자전, 육군용 전자전 등 각종 전자전체계 제품을 포함하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지휘통제\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"C4I 제품은 통신단말, 지상/함정 전투체계, Data Link 망관리, 상호운용성 등의 제품을 포함하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로봇\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"기타 제품으로는 로봇, 무인화, 미래전 무기체계, Cyber전, M&S 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.46,\n      \"direction\": null,\n      \"evidence\": \"2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방과학연구소\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방기술진흥연구소\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"국방기술진흥연구소 | 내수 | 전자장비 등 | 1,581 | 3.7%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국항공우주산업\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"한국항공우주산업 | 내수 | 항공부품 등 | 2,859 | 6.6%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"블랑제리길 주식회사는 제과, 제빵 및 판매업을 주업종으로 하고 있으며, 보고서 작성일 기준 장애인 인력은 전체 임직원 53명의 75.5%인 40명으로 구성되어 있습니다. 본 종속회사는 장애인 고용을 통한 사회적 가치 실현을 위해 설립된 회사로 하기 사업에 대한 구체적인 내용 기재는 생략합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"방위산업부문 | 대전사업장 | 446 | 391 | 244 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"2023년 12월 미국 필라델피아 소재 로봇개발 및 제조 전문업체인 Ghost Robotics Corporation의 지분 인수를 통해 미래성장 플랫폼 확보 및 미국방산시장에 진출하기 위해 지분투자를 목적으로 설립된 유한책임회사 형태의 해외 법인입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"보고기간말 현재 다른 모든 변수가 일정하고 원화가 미국 달러화에 대해 10% 약세 또는 강세를 가정할 경우, 세전이익은 주로 미국달러화로 표시된 외화예금, 매출채권, 계약자산 및 매입채무의 외화환산 손익의 결과로 인하여 14,382백만원만큼 상승 또는 하락하였을 것입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"보고기간말 현재 다른 변수가 일정하고 원화 표시 차입금에 대한 이자율이 1% 상승 또는 하락할 경우, 세전이익은 2,600백만원 만큼 감소 또는 증가했을 것입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/079550_20260323001211.txt"
+}

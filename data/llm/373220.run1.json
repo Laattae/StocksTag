@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "EV용 배터리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "ESS용 배터리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "소형 Application용 배터리",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "양극재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "음극재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "분리막",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "생산공장 | 충북 청주 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "LG Energy Solution (Nanjing) Co., Ltd. | 해외법인 | 중국 남경 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "LG Energy Solution Michigan Inc. | 해외법인 | 미국 미시간 |"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "LG Energy Solution Wroclaw sp. z o.o. | 해외법인 | 폴란드 브로츠와프 |"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System)"
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는"
+    },
+    {
+      "axis": "application",
+      "value": "IT기기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"EV용 배터리\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ESS용 배터리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형 Application용 배터리\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"양극재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"음극재\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"분리막\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"생산공장 | 충북 청주 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"LG Energy Solution (Nanjing) Co., Ltd. | 해외법인 | 중국 남경 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"LG Energy Solution Michigan Inc. | 해외법인 | 미국 미시간 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"LG Energy Solution Wroclaw sp. z o.o. | 해외법인 | 폴란드 브로츠와프 |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"IT기기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/373220_20260312000217.txt"
+}

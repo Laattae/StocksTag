@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일게임",
+      "weight": 0.94,
+      "direction": null,
+      "evidence": "이러한 모바일게임 서비스가 전체 매출 비중에서 약 94.25%를 차지하고 있으며, IP나 기타 부문에서 발생하는 매출이 전체 매출액에서 차지하는 비중은 미미한 수준입니다."
+    },
+    {
+      "axis": "product",
+      "value": "쿠키런",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 독자적인 IP인 '쿠키런'을 탄생시킨 이래로 해당 IP와 신규 IP를 활용한 다양한 작품을 제작하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "쿠키런: 오븐브레이크",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한 '쿠키런', '쿠키런: 킹덤' 등 다수의 흥행작을 개발했으며, '쿠키런: 오븐브레이크'의 경우 출시 이후 오랜 기간 동안 안정적으로 서비스를 운영하는 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "쿠키런: 킹덤",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한 '쿠키런', '쿠키런: 킹덤' 등 다수의 흥행작을 개발했으며, '쿠키런: 오븐브레이크'의 경우 출시 이후 오랜 기간 동안 안정적으로 서비스를 운영하는 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "쿠키런 IP 상품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "IP부문의 주된 매출원은 세계적으로 알려진 당사의 자체 IP인 '쿠키런'을 활용한 상품 판매 및 라이센스 활용에 따른 로열티입니다."
+    },
+    {
+      "axis": "application",
+      "value": "모바일게임 시장",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특히 당사가 주력하고 있는 모바일게임 부문은 최근 기술의 발전과 모바일이라는 분야가 가지는 장점으로 전체 게임시장의 절반에 가까운 비중을 차지할 정도로 크게 성장했으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다. (가) 외환위험관리"
+    },
+    {
+      "axis": "exposure",
+      "value": "경쟁 심화",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "그에 따라 갈수록 경쟁이 심화되고 있으며, 다양한 IP, 훌륭한 인적자원 확보 등이 중요한 경쟁력으로 인식되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일게임\",\n      \"weight\": 0.94,\n      \"direction\": null,\n      \"evidence\": \"이러한 모바일게임 서비스가 전체 매출 비중에서 약 94.25%를 차지하고 있으며, IP나 기타 부문에서 발생하는 매출이 전체 매출액에서 차지하는 비중은 미미한 수준입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿠키런\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 독자적인 IP인 '쿠키런'을 탄생시킨 이래로 해당 IP와 신규 IP를 활용한 다양한 작품을 제작하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿠키런: 오븐브레이크\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한 '쿠키런', '쿠키런: 킹덤' 등 다수의 흥행작을 개발했으며, '쿠키런: 오븐브레이크'의 경우 출시 이후 오랜 기간 동안 안정적으로 서비스를 운영하는 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿠키런: 킹덤\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한 '쿠키런', '쿠키런: 킹덤' 등 다수의 흥행작을 개발했으며, '쿠키런: 오븐브레이크'의 경우 출시 이후 오랜 기간 동안 안정적으로 서비스를 운영하는 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿠키런 IP 상품\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"IP부문의 주된 매출원은 세계적으로 알려진 당사의 자체 IP인 '쿠키런'을 활용한 상품 판매 및 라이센스 활용에 따른 로열티입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모바일게임 시장\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특히 당사가 주력하고 있는 모바일게임 부문은 최근 기술의 발전과 모바일이라는 분야가 가지는 장점으로 전체 게임시장의 절반에 가까운 비중을 차지할 정도로 크게 성장했으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다. (가) 외환위험관리\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경쟁 심화\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"그에 따라 갈수록 경쟁이 심화되고 있으며, 다양한 IP, 훌륭한 인적자원 확보 등이 중요한 경쟁력으로 인식되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/194480_20260316001364.txt"
+}

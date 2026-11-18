@@ -1,0 +1,244 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문"
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "발행어음 | 83,173 | 2.65% | 11.42% | 59,675 | 3.38% | 10.34% | 55,540 | 3.75% | 10.06%"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이중 채무보증관련수수료는 3,489억원으로 전년대비 23.5% 증대되었으며, SK스페셜티, 안산 성곡동 데이터센터 PF 등 대형 딜을 수행한 결과입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한화에어로스페이스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코퓨처엠",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "글로벌 금리 인하 기조의 본격화와 주요국 경제 정책의 변화 속에서 국내외 금융시장은 일시적인 변동성을 보였으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 4분기 달러-원 환율은 미국 금리 달러 강세 국면과 위험회피 심리, 내국인의 해외투자 확대 기조로 3분기 대비 31.7원 상승한 1,434.9원을 기록했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "구 분 제59기 제58기 제57기 처분차익(차손) 14,025 154,165 (200,103) 평가차익(차손) 602,420 (38,382) (62,217)"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "구 분 제59기 제58기 제57기 처분ㆍ상환차익(차손) 86,013 89,415 187,901 평가차익(차손) 40,773 158,567 306,832"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "파생상품합계 638,276,929 638,128,925 1,276,405,854 31,548"
+    },
+    {
+      "axis": "product",
+      "value": "수익증권",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "투자신탁 수익증권 33,682 - 33,682"
+    },
+    {
+      "axis": "product",
+      "value": "신용융자",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "신용거래융자금 2,522,992 2,233,150 2,137,666"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "서울 20 1 - 21"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기 10 - - 10"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "부산 3 - - 3"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "뉴욕 1 - - 1"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "하노이 2 - - 2"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "거래상품 | 유가증권/코스닥/코넥스/기타"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "선물 | KOSPI200/코스닥150/미니KOSPI200/유로스톡스50/KRX300/코스닥글로벌"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "옵션 | KOSPI200/KOSPI200 위클리"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(3) 채권매매(영업점, 고객지원센터, 홈페이지, N2 HTS, N2 MTS)"
+    },
+    {
+      "axis": "product",
+      "value": "금 현물",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "금 현물 | 금액 무관 | 0.50% (VAT 10% 별도)"
+    },
+    {
+      "axis": "product",
+      "value": "CFD",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국내CFD(Contract For Difference, 전문투자스왑) 거래"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다."
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "◆ NH Investment & Securities (H.K.) Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "◆ NH Securities Vietnam Co., Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "◆ PT. NH Korindo Sekuritas Indonesia"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "◆ NH Investment & Securities America, Inc."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Trading부문 | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발행어음\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"발행어음 | 83,173 | 2.65% | 11.42% | 59,675 | 3.38% | 10.34% | 55,540 | 3.75% | 10.06%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이중 채무보증관련수수료는 3,489억원으로 전년대비 23.5% 증대되었으며, SK스페셜티, 안산 성곡동 데이터센터 PF 등 대형 딜을 수행한 결과입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화에어로스페이스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코퓨처엠\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인수및주선수수료는 722억원으로 전년대비 1.9% 상승하였으며 이는 한화에어로스페이스, 삼성SDI, 포스코퓨처엠 등 대형 유상증자를 주관한 데에 기인합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 금리 인하 기조의 본격화와 주요국 경제 정책의 변화 속에서 국내외 금융시장은 일시적인 변동성을 보였으나\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 4분기 달러-원 환율은 미국 금리 달러 강세 국면과 위험회피 심리, 내국인의 해외투자 확대 기조로 3분기 대비 31.7원 상승한 1,434.9원을 기록했습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"구 분 제59기 제58기 제57기 처분차익(차손) 14,025 154,165 (200,103) 평가차익(차손) 602,420 (38,382) (62,217)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"구 분 제59기 제58기 제57기 처분ㆍ상환차익(차손) 86,013 89,415 187,901 평가차익(차손) 40,773 158,567 306,832\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"파생상품합계 638,276,929 638,128,925 1,276,405,854 31,548\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수익증권\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"투자신탁 수익증권 33,682 - 33,682\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용융자\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"신용거래융자금 2,522,992 2,233,150 2,137,666\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"서울 20 1 - 21\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기 10 - - 10\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"부산 3 - - 3\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"뉴욕 1 - - 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"하노이 2 - - 2\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"거래상품 | 유가증권/코스닥/코넥스/기타\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"선물 | KOSPI200/코스닥150/미니KOSPI200/유로스톡스50/KRX300/코스닥글로벌\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"옵션\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"옵션 | KOSPI200/KOSPI200 위클리\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(3) 채권매매(영업점, 고객지원센터, 홈페이지, N2 HTS, N2 MTS)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금 현물\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"금 현물 | 금액 무관 | 0.50% (VAT 10% 별도)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CFD\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국내CFD(Contract For Difference, 전문투자스왑) 거래\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"홍콩\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"◆ NH Investment & Securities (H.K.) Ltd.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"◆ NH Securities Vietnam Co., Ltd.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"◆ PT. NH Korindo Sekuritas Indonesia\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"◆ NH Investment & Securities America, Inc.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/005940_20260313000771.txt"
+}

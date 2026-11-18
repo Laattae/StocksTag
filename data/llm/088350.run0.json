@@ -1,0 +1,209 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "보장성보험",
+      "weight": 0.429,
+      "direction": null,
+      "evidence": "생명보험 보장성보험 53,801,180 4.28 42.9"
+    },
+    {
+      "axis": "product",
+      "value": "저축성보험",
+      "weight": 0.334,
+      "direction": null,
+      "evidence": "저축성보험 41,876,845 4.22 33.4"
+    },
+    {
+      "axis": "product",
+      "value": "단체보험",
+      "weight": 0.006,
+      "direction": null,
+      "evidence": "단체보험 806,679 4.36 0.6"
+    },
+    {
+      "axis": "product",
+      "value": "생사혼합보험",
+      "weight": 0.9999,
+      "direction": null,
+      "evidence": "생사혼합보험 8,188 3.68% 99.99%"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "베트남 현지법인은 전국적인 영업망을 바탕으로 생명보험 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "인도네시아 현지법인은 개인채널 중심의 안정적 영업기반 마련을 위해 자와섬, 수마트라섬, 발리섬, 칼리만탄섬의 대도심 지역을 중심으로 보유조직의 양적, 질적 개선을 추진 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지분증권 | 주식 | 유가증권시장 | 5,552,297 | 5,743,758 | 11,296,055 | 471,990 | 35,694"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "채무증권 | 국채,지방채 | 국고채 | 16,761,248 | 19,007,725 | 35,768,972 | 828,165"
+    },
+    {
+      "axis": "product",
+      "value": "집합투자증권",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "집합투자증권 | ETF | 4,574,997 | 4,256,682 | 8,831,680 | 863,829 | 23,156"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "파생결합증권 | ESL | 21,508 | 21,508 | 43,016 |  - | -"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "베트남 현지법인은 하노이에 소재한 소형 온라인 증권사로 WTS/MTS 플랫폼 기반의 브로커리지 및 신용공여 서비스를 주력 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "보장성보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "저축성보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나, 국제회계기준인 IFRS17의 성공적인 안착을 통해 보험산업 전반의 리스크 관리 시스템은 과거 대비 한층 정교화되었으며"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "서울특별시 영등포구 63로 50, 53층(여의도동, 63한화생명빌딩)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기타: 해외주재사무소(도쿄, 샌프란시스코, 아부다비, 뉴욕)"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[Hanwha Life Insurance Company Limited. ( Vietnam ) : 베트남현지법인]"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[PT. Hanwha Life Insurance Indonesia : 인도네시아 현지법인]"
+    },
+    {
+      "axis": "product",
+      "value": "보장성보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한화생명은 보험계약마진(CSM) 확충을 위해 보장성보험 중심의 상품 포트폴리오를 강화하고"
+    },
+    {
+      "axis": "product",
+      "value": "연금보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히 고령화 시대 수요에 부합하는 연금보험 활성화와 사망보험금 유동화 등 고객 맞춤형 솔루션을 선제적으로 제공하여"
+    },
+    {
+      "axis": "product",
+      "value": "사망보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "저축성보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "루피아화(USD/IDR)는 ’25년 중 약세 압력을 지속하였으며, ’25년 말 기준 환율은 USD 1 = IDR 16,700을 기록하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내를 넘어 인도네시아 노부은행과 미국 증권사 벨로시티의 인수를 통해 글로벌 시장에서의 사업 거점을 확대하며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Hanwha Life Insurance Company Limited. ( Vietnam ) : 베트남현지법인"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "PT. Hanwha Life Insurance Indonesia : 인도네시아 현지법인"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"보장성보험\", \"weight\": 0.429, \"direction\": null, \"evidence\": \"생명보험 보장성보험 53,801,180 4.28 42.9\"}, {\"axis\": \"product\", \"value\": \"저축성보험\", \"weight\": 0.334, \"direction\": null, \"evidence\": \"저축성보험 41,876,845 4.22 33.4\"}, {\"axis\": \"product\", \"value\": \"단체보험\", \"weight\": 0.006, \"direction\": null, \"evidence\": \"단체보험 806,679 4.36 0.6\"}, {\"axis\": \"product\", \"value\": \"생사혼합보험\", \"weight\": 0.9999, \"direction\": null, \"evidence\": \"생사혼합보험 8,188 3.68% 99.99%\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"베트남 현지법인은 전국적인 영업망을 바탕으로 생명보험 사업을 영위하고 있으며\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"인도네시아 현지법인은 개인채널 중심의 안정적 영업기반 마련을 위해 자와섬, 수마트라섬, 발리섬, 칼리만탄섬의 대도심 지역을 중심으로 보유조직의 양적, 질적 개선을 추진 중에 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"지분증권 | 주식 | 유가증권시장 | 5,552,297 | 5,743,758 | 11,296,055 | 471,990 | 35,694\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"채무증권 | 국채,지방채 | 국고채 | 16,761,248 | 19,007,725 | 35,768,972 | 828,165\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자증권\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"집합투자증권 | ETF | 4,574,997 | 4,256,682 | 8,831,680 | 863,829 | 23,156\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"파생결합증권 | ESL | 21,508 | 21,508 | 43,016 |  - | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"베트남 현지법인은 하노이에 소재한 소형 온라인 증권사로 WTS/MTS 플랫폼 기반의 브로커리지 및 신용공여 서비스를 주력 사업으로 영위하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보장성보험\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"저축성보험\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나, 국제회계기준인 IFRS17의 성공적인 안착을 통해 보험산업 전반의 리스크 관리 시스템은 과거 대비 한층 정교화되었으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"서울특별시 영등포구 63로 50, 53층(여의도동, 63한화생명빌딩)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"기타: 해외주재사무소(도쿄, 샌프란시스코, 아부다비, 뉴욕)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[Hanwha Life Insurance Company Limited. ( Vietnam ) : 베트남현지법인]\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[PT. Hanwha Life Insurance Indonesia : 인도네시아 현지법인]\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보장성보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한화생명은 보험계약마진(CSM) 확충을 위해 보장성보험 중심의 상품 포트폴리오를 강화하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연금보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특히 고령화 시대 수요에 부합하는 연금보험 활성화와 사망보험금 유동화 등 고객 맞춤형 솔루션을 선제적으로 제공하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"사망보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"생명보험은 보험사고에 따라 생존보험, 사망보험, 생사혼합보험으로, 가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"저축성보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"가입 목적에 따라 보장성보험과 저축성보험으로 구분합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"루피아화(USD/IDR)는 ’25년 중 약세 압력을 지속하였으며, ’25년 말 기준 환율은 USD 1 = IDR 16,700을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내를 넘어 인도네시아 노부은행과 미국 증권사 벨로시티의 인수를 통해 글로벌 시장에서의 사업 거점을 확대하며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Life Insurance Company Limited. ( Vietnam ) : 베트남현지법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"PT. Hanwha Life Insurance Indonesia : 인도네시아 현지법인\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/088350_20260331003585.txt"
+}

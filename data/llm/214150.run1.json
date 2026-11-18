@@ -1,0 +1,74 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "미용 의료기기",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사는 미용목적을 위한 의료기기 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "슈링크 유니버스",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "이러한 역량을 바탕으로 HIFU 장비 슈링크(Ultraformer) 시리즈 및 MRF 볼뉴머(Volnewmer, Everesse) 중심에서"
+    },
+    {
+      "axis": "product",
+      "value": "볼뉴머",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "HIFU 장비 슈링크(Ultraformer) 시리즈 및 MRF 볼뉴머(Volnewmer, Everesse) 중심에서"
+    },
+    {
+      "axis": "product",
+      "value": "쿼드세이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MNRF 쿼드세이(Quadessy)와 레이저 장비 리팟(reepot)을 성공적으로 출시함으로써"
+    },
+    {
+      "axis": "product",
+      "value": "리팟",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MNRF 쿼드세이(Quadessy)와 레이저 장비 리팟(reepot)을 성공적으로 출시함으로써"
+    },
+    {
+      "axis": "product",
+      "value": "화장품 및 개인용 미용기기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화장품 및 개인용 미용기기는 일반 소비자가 직접 구매하는 홈케어 제품으로 슈링크홈 리프투글로우(Shurink Home LIFT2GLOW), 볼리움(개인용 미용기기)과 리프팅 밴드를 주력으로 온ㆍ오프라인에서 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "피부과 및 성형외과",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "피부미용 의료기기는 주로 피부과 및 성형외과 등에서 피부미용을 목적으로 사용하는 장비입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사의 생산시설은 서울시 송파구 및 경기도 안양시 만안구에 위치하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "Aesthetic EBD 시장을 포함한 글로벌 안티에이징 시장은 고령화 가속화에 따른 시술에 대한 관심 확대로 안티에이징 시술이 중장년층 뿐만 아니라 상대적으로 젊은 나이대에서도 노화 예방적 측면에서 수요가 증가하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"미용 의료기기\", \"weight\": 0.95, \"direction\": null, \"evidence\": \"당사는 미용목적을 위한 의료기기 사업을 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"슈링크 유니버스\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"이러한 역량을 바탕으로 HIFU 장비 슈링크(Ultraformer) 시리즈 및 MRF 볼뉴머(Volnewmer, Everesse) 중심에서\"}, {\"axis\": \"product\", \"value\": \"볼뉴머\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"HIFU 장비 슈링크(Ultraformer) 시리즈 및 MRF 볼뉴머(Volnewmer, Everesse) 중심에서\"}, {\"axis\": \"product\", \"value\": \"쿼드세이\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"MNRF 쿼드세이(Quadessy)와 레이저 장비 리팟(reepot)을 성공적으로 출시함으로써\"}, {\"axis\": \"product\", \"value\": \"리팟\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"MNRF 쿼드세이(Quadessy)와 레이저 장비 리팟(reepot)을 성공적으로 출시함으로써\"}, {\"axis\": \"product\", \"value\": \"화장품 및 개인용 미용기기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"화장품 및 개인용 미용기기는 일반 소비자가 직접 구매하는 홈케어 제품으로 슈링크홈 리프투글로우(Shurink Home LIFT2GLOW), 볼리움(개인용 미용기기)과 리프팅 밴드를 주력으로 온ㆍ오프라인에서 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"피부과 및 성형외과\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"피부미용 의료기기는 주로 피부과 및 성형외과 등에서 피부미용을 목적으로 사용하는 장비입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"회사의 생산시설은 서울시 송파구 및 경기도 안양시 만안구에 위치하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"Aesthetic EBD 시장을 포함한 글로벌 안티에이징 시장은 고령화 가속화에 따른 시술에 대한 관심 확대로 안티에이징 시술이 중장년층 뿐만 아니라 상대적으로 젊은 나이대에서도 노화 예방적 측면에서 수요가 증가하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/214150_20260323001541.txt"
+}

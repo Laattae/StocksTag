@@ -1,0 +1,316 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "① 전기판매부문[한국전력공사(주)]에서는 구역전기사업자 판매지역을 제외하고 국내 전역에 소비되는 전력량의 대부분을 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "원전연료",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "④ 기타사업부문으로 발전소설계[한국전력기술(주)], 전력설비정비[한전KPS(주)], 전력ICT서비스[한전KDN(주)], 원자력연료가공[한전원자력연료(주)], 해외전력사업 및 관련 투자사업 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "배전자동화용 단말장치",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "배전자동화용 단말장치 (특고압, 저압, 분산형전원연계)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유연탄",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유연탄(원/톤) | 발전용 | 한국남동발전(주) | 165,461 | 178,677 | 213,607"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LNG(원/톤) | 998,230 | 1,166,004 | 1,536,621"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원전연료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원전연료(경수)(US$/KgU) | 발전용 | 한국수력원자력(주) | 1,958 | 1,932 | 1,975"
+    },
+    {
+      "axis": "raw_material",
+      "value": "우드팰릿",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "우드팰릿(원/톤) | 268,329 | 216,569 | 304,999"
+    },
+    {
+      "axis": "raw_material",
+      "value": "바이오중유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "바이오중유(원/ℓ) | 1,085 | 1,006 | 1,256"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "토지 | 전남 나주시 빛가람동 외 | 20,670,126 ㎡ | 6,252,458"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 | 고리 원자력 발전소 외 | 자가 보유 | 강원 외 | 60,969천㎡"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "토지 | 삼천포화력외 | 자가보유 | 경남고성군외 | 9,173,954㎡"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 | 전국 | 자가보유 | 충남 당진 외 | 4,945,216㎡"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "토지 | 김천본사 외 | 자가보유 | 경북 김천 외 | 131,144㎡"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "당사는 금융상품과 관련하여 신용위험, 시장위험(외환위험, 이자율위험) 등의 다양한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 금융상품과 관련하여 신용위험, 시장위험(외환위험, 이자율위험) 등의 다양한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "제품(전기),용역 | 전 기 | 주 택 용 | 한국전력공사 | 140,642 | 136,499 | 123,320"
+    },
+    {
+      "axis": "product",
+      "value": "배전자동화용 단말장치",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "배전자동화용\n단말장치\n(특고압, 저압, 분산형전원연계)"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제품(전기),용역기타매출 | 원자력발 전 | 전 기 | 한국수력원자력(주) | 150,055 | 131,456 | 105,815"
+    },
+    {
+      "axis": "customer",
+      "value": "한국남동발전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제품(전기),용역기타매출 | 화 력 | 전 기 | 한국남동발전(주) | 62,364 | 62,581 | 74,826"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 | 본사 등 | 자가보유 | 전남 나주시 등 | 96,528㎡ | 57,797 | 7,555"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "외환위험 | 환율변동에 따른 외화자산 및 부채 평가금액 변동위험 | 외화환산손익 및 외환차손익 발생 등"
+    },
+    {
+      "axis": "product",
+      "value": "전력",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "동해안-신가평 HVDC 변환설비 건설사업"
+    },
+    {
+      "axis": "product",
+      "value": "해저케이블",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "완도-제주 #3HVDC 해저케이블 건설사업"
+    },
+    {
+      "axis": "customer",
+      "value": "LS전선",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "완도-제주 #3HVDC 해저케이블 건설사업 | 263,208 | 2020.12.17 ~ 2026.05.20 | LS전선㈜"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기지역 전기공급시설 전력구공사(신가평-동서울 2차)"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인천CC-중산 전력구공사"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "다. 통화선도내역 (기준일 : 2025.12.31) | (단위:백만원, 천USD) | 구 분 | 계약처 | 계약일 | 만기일 | 계약금액 | 계약환율"
+    },
+    {
+      "axis": "product",
+      "value": "전력",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "우리나라 전역 25,434천호의 고객에게 안정적으로 전력을 공급하고 있으며, 2025년 연간 전력판매량(양수동력 제외)은 549,417GWh로 계약종별 구성비를 보면 산업용이 51.0%, 일반용이 25.2%, 주택용이 16.1%, 기타부문이 7.7%를 점유하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "수소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이에 한전은 수소ㆍ암모니아의 안정적 조달과 전력원가 관리를 통한 소비자 편익 증진에 기여하고자 국내 기업 및 발전사와의 협업을 통해 전략적으로 호주와 중동 등 중점 추진 국가 중심으로 청정수소ㆍ암모니아 사업개발을 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "암모니아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이에 한전은 수소ㆍ암모니아의 안정적 조달과 전력원가 관리를 통한 소비자 편익 증진에 기여하고자 국내 기업 및 발전사와의 협업을 통해 전략적으로 호주와 중동 등 중점 추진 국가 중심으로 청정수소ㆍ암모니아 사업개발을 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "발전ㆍ송변전ㆍ배전이 수직적으로 연결되어 있는 네트워크 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신수익 창출 | 신성장동력 창출을 위한 전력계통 참여형 데이터센터 구축"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "산업단지 에너지자급자족형 인프라 구축 및 운영사업』을 수주하였으며('22), 여수, 대구성서 2개소를 '23년, 광양산단을 '25.5월 추가로 수주했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에너지의 대부분을 해외에 의존하고 있어 안정적인 에너지 확보 필요"
+    },
+    {
+      "axis": "exposure",
+      "value": "기온변화",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전력수요 변동요인 : 경제성장률, 기온변화, 유효일수, 제조업 업종별 경기 등"
+    },
+    {
+      "axis": "product",
+      "value": "전력",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "한국남부발전은 국민에게 안정적으로 전력을 공급하는 공공기관으로서 2025년말 기준, 국내 설비의 7.7%에 해당하는 12,135MW의 발전설비를 보유하고 있고"
+    },
+    {
+      "axis": "product",
+      "value": "원자력연료",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "1989년부터 국내 원자력발전소에 소요되는 원자력 연료를 전량 생산·공급하고 있으며, 관련 연구 및 기술개발을 꾸준히 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "태양광 등 재생에너지의 확대로 인한 전력계통 변동성에 대응하기 위해 세계 최초 발전용 F급 대형 가스터빈 기반 관성모드 전환 실증운전에 성공하여 새로운 형태의 관성자원을 확보하는 등 전력계통 안정화를 선도하고있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 국내 정비시장은 크게 한전, 한수원 및 5개 발전회사와 국내 민간발전설비로 나눌 수 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국남부발전(주)는 전원의 구성상 다른 발전사에 비해 깨끗하며 환경친화적인 고가의 연료인 LNG를 원료로 사용하는 발전소의 비중이 높습니다."
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글로벌 차원의 원전 비중 확대 추세에 따라 성공적인 UAE Barakah 원전 설계 및 프로젝트 관리 경험을 바탕으로 체코 원전건설사업의 성공적인 수주와 함께 글로벌 원전사업확대에 총력를 다하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "'25년 동서발전은 미국 관세정책 등에 따른 환율·금리 등 금융시장 변동성 심화, 친환경 에너지 전환 가속화에 따른 대규모 투자 지속"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "'25년 동서발전은 미국 관세정책 등에 따른 환율·금리 등 금융시장 변동성 심화, 친환경 에너지 전환 가속화에 따른 대규모 투자 지속"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"전기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"① 전기판매부문[한국전력공사(주)]에서는 구역전기사업자 판매지역을 제외하고 국내 전역에 소비되는 전력량의 대부분을 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"원전연료\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"④ 기타사업부문으로 발전소설계[한국전력기술(주)], 전력설비정비[한전KPS(주)], 전력ICT서비스[한전KDN(주)], 원자력연료가공[한전원자력연료(주)], 해외전력사업 및 관련 투자사업 등이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"배전자동화용 단말장치\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"배전자동화용 단말장치 (특고압, 저압, 분산형전원연계)\"}, {\"axis\": \"raw_material\", \"value\": \"유연탄\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"유연탄(원/톤) | 발전용 | 한국남동발전(주) | 165,461 | 178,677 | 213,607\"}, {\"axis\": \"raw_material\", \"value\": \"LNG\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LNG(원/톤) | 998,230 | 1,166,004 | 1,536,621\"}, {\"axis\": \"raw_material\", \"value\": \"원전연료\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"원전연료(경수)(US$/KgU) | 발전용 | 한국수력원자력(주) | 1,958 | 1,932 | 1,975\"}, {\"axis\": \"raw_material\", \"value\": \"우드팰릿\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"우드팰릿(원/톤) | 268,329 | 216,569 | 304,999\"}, {\"axis\": \"raw_material\", \"value\": \"바이오중유\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"바이오중유(원/ℓ) | 1,085 | 1,006 | 1,256\"}, {\"axis\": \"region\", \"value\": \"전남\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"토지 | 전남 나주시 빛가람동 외 | 20,670,126 ㎡ | 6,252,458\"}, {\"axis\": \"region\", \"value\": \"강원\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"토지 | 고리 원자력 발전소 외 | 자가 보유 | 강원 외 | 60,969천㎡\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"토지 | 삼천포화력외 | 자가보유 | 경남고성군외 | 9,173,954㎡\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"토지 | 전국 | 자가보유 | 충남 당진 외 | 4,945,216㎡\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"토지 | 김천본사 외 | 자가보유 | 경북 김천 외 | 131,144㎡\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"당사는 금융상품과 관련하여 신용위험, 시장위험(외환위험, 이자율위험) 등의 다양한 금융위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"당사는 금융상품과 관련하여 신용위험, 시장위험(외환위험, 이자율위험) 등의 다양한 금융위험에 노출되어 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"제품(전기),용역 | 전 기 | 주 택 용 | 한국전력공사 | 140,642 | 136,499 | 123,320\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배전자동화용 단말장치\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"배전자동화용\\n단말장치\\n(특고압, 저압, 분산형전원연계)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제품(전기),용역기타매출 | 원자력발 전 | 전 기 | 한국수력원자력(주) | 150,055 | 131,456 | 105,815\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국남동발전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제품(전기),용역기타매출 | 화 력 | 전 기 | 한국남동발전(주) | 62,364 | 62,581 | 74,826\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 | 본사 등 | 자가보유 | 전남 나주시 등 | 96,528㎡ | 57,797 | 7,555\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"외환위험 | 환율변동에 따른 외화자산 및 부채 평가금액 변동위험 | 외화환산손익 및 외환차손익 발생 등\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"동해안-신가평 HVDC 변환설비 건설사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해저케이블\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"완도-제주 #3HVDC 해저케이블 건설사업\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LS전선\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"완도-제주 #3HVDC 해저케이블 건설사업 | 263,208 | 2020.12.17 ~ 2026.05.20 | LS전선㈜\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기지역 전기공급시설 전력구공사(신가평-동서울 2차)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인천CC-중산 전력구공사\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"다. 통화선도내역 (기준일 : 2025.12.31) | (단위:백만원, 천USD) | 구 분 | 계약처 | 계약일 | 만기일 | 계약금액 | 계약환율\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"우리나라 전역 25,434천호의 고객에게 안정적으로 전력을 공급하고 있으며, 2025년 연간 전력판매량(양수동력 제외)은 549,417GWh로 계약종별 구성비를 보면 산업용이 51.0%, 일반용이 25.2%, 주택용이 16.1%, 기타부문이 7.7%를 점유하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이에 한전은 수소ㆍ암모니아의 안정적 조달과 전력원가 관리를 통한 소비자 편익 증진에 기여하고자 국내 기업 및 발전사와의 협업을 통해 전략적으로 호주와 중동 등 중점 추진 국가 중심으로 청정수소ㆍ암모니아 사업개발을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"암모니아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이에 한전은 수소ㆍ암모니아의 안정적 조달과 전력원가 관리를 통한 소비자 편익 증진에 기여하고자 국내 기업 및 발전사와의 협업을 통해 전략적으로 호주와 중동 등 중점 추진 국가 중심으로 청정수소ㆍ암모니아 사업개발을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"발전ㆍ송변전ㆍ배전이 수직적으로 연결되어 있는 네트워크 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신수익 창출 | 신성장동력 창출을 위한 전력계통 참여형 데이터센터 구축\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"산업단지 에너지자급자족형 인프라 구축 및 운영사업』을 수주하였으며('22), 여수, 대구성서 2개소를 '23년, 광양산단을 '25.5월 추가로 수주했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"에너지의 대부분을 해외에 의존하고 있어 안정적인 에너지 확보 필요\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"기온변화\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전력수요 변동요인 : 경제성장률, 기온변화, 유효일수, 제조업 업종별 경기 등\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"한국남부발전은 국민에게 안정적으로 전력을 공급하는 공공기관으로서 2025년말 기준, 국내 설비의 7.7%에 해당하는 12,135MW의 발전설비를 보유하고 있고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자력연료\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"1989년부터 국내 원자력발전소에 소요되는 원자력 연료를 전량 생산·공급하고 있으며, 관련 연구 및 기술개발을 꾸준히 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"태양광 등 재생에너지의 확대로 인한 전력계통 변동성에 대응하기 위해 세계 최초 발전용 F급 대형 가스터빈 기반 관성모드 전환 실증운전에 성공하여 새로운 형태의 관성자원을 확보하는 등 전력계통 안정화를 선도하고있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 국내 정비시장은 크게 한전, 한수원 및 5개 발전회사와 국내 민간발전설비로 나눌 수 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한국남부발전(주)는 전원의 구성상 다른 발전사에 비해 깨끗하며 환경친화적인 고가의 연료인 LNG를 원료로 사용하는 발전소의 비중이 높습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"아랍에미리트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"글로벌 차원의 원전 비중 확대 추세에 따라 성공적인 UAE Barakah 원전 설계 및 프로젝트 관리 경험을 바탕으로 체코 원전건설사업의 성공적인 수주와 함께 글로벌 원전사업확대에 총력를 다하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"'25년 동서발전은 미국 관세정책 등에 따른 환율·금리 등 금융시장 변동성 심화, 친환경 에너지 전환 가속화에 따른 대규모 투자 지속\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"'25년 동서발전은 미국 관세정책 등에 따른 환율·금리 등 금융시장 변동성 심화, 친환경 에너지 전환 가속화에 따른 대규모 투자 지속\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/015760_20260317000686.txt"
+}

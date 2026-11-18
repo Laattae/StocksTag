@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "보툴리눔 톡신",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "Toxin | 보툴렉스 | 230,499 | 54.22%"
+    },
+    {
+      "axis": "product",
+      "value": "HA필러",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Filler | 더채움 | 130,232 | 30.63%"
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "Cosmetics | 웰라쥬 | 56,326 | 13.25%"
+    },
+    {
+      "axis": "product",
+      "value": "흡수성 봉합사",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Medical Device | Blue Rose Forte 등 | 5,383 | 1.27%"
+    },
+    {
+      "axis": "application",
+      "value": "안면미용",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "질병ㆍ질환의 치료보다 성형ㆍ미용 목적으로 사용 빈도가 높기 때문에"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생산 CAPA 확장을 위해 기존 거두공장(거두단지1길 23) 내에 거두 B공장 준공을 2022년 7월 말 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2024년 2월 미국 식품의약국(FDA)의 허가를 획득하며, 보툴리눔 톡신으로 세계 3대 시장인 미국, 유럽, 중국에 진출한"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2024년 2월 미국 식품의약국(FDA)의 허가를 획득하며, 보툴리눔 톡신으로 세계 3대 시장인 미국, 유럽, 중국에 진출한"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험에 노출돼 있으며, 특히 미국 달러화의 환율변동위험에 노출돼 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보툴리눔 톡신",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보툴리눔 독소의 제품화 (보툴렉스) - 눈꺼풀경련 치료, 미간주름의 일시적 개선, 소아 뇌성마비 첨족 기형의 치료, 뇌졸중 후 상지 근육 경직의 치료, 외안각 주름(눈가주름)의 일시적 개선"
+    },
+    {
+      "axis": "product",
+      "value": "히알루론산 필러",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "히알루론산 조직 수복용 필러 제품의 상업화 - 안면부 주름의 일시적 개선"
+    },
+    {
+      "axis": "product",
+      "value": "스킨부스터",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "올인원 토피컬 스킨부스터 (All-in-one Topical Skinbooster, 바이리즌 오플럭스) 개발 및 상업화 - 국내 의료기기 2등급 허가취득"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "연결실체는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보툴리눔 톡신\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"Toxin | 보툴렉스 | 230,499 | 54.22%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HA필러\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Filler | 더채움 | 130,232 | 30.63%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"Cosmetics | 웰라쥬 | 56,326 | 13.25%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"흡수성 봉합사\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Medical Device | Blue Rose Forte 등 | 5,383 | 1.27%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안면미용\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"질병ㆍ질환의 치료보다 성형ㆍ미용 목적으로 사용 빈도가 높기 때문에\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"생산 CAPA 확장을 위해 기존 거두공장(거두단지1길 23) 내에 거두 B공장 준공을 2022년 7월 말 완료하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2024년 2월 미국 식품의약국(FDA)의 허가를 획득하며, 보툴리눔 톡신으로 세계 3대 시장인 미국, 유럽, 중국에 진출한\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2024년 2월 미국 식품의약국(FDA)의 허가를 획득하며, 보툴리눔 톡신으로 세계 3대 시장인 미국, 유럽, 중국에 진출한\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험에 노출돼 있으며, 특히 미국 달러화의 환율변동위험에 노출돼 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보툴리눔 톡신\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보툴리눔 독소의 제품화 (보툴렉스) - 눈꺼풀경련 치료, 미간주름의 일시적 개선, 소아 뇌성마비 첨족 기형의 치료, 뇌졸중 후 상지 근육 경직의 치료, 외안각 주름(눈가주름)의 일시적 개선\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"히알루론산 필러\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"히알루론산 조직 수복용 필러 제품의 상업화 - 안면부 주름의 일시적 개선\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스킨부스터\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"올인원 토피컬 스킨부스터 (All-in-one Topical Skinbooster, 바이리즌 오플럭스) 개발 및 상업화 - 국내 의료기기 2등급 허가취득\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/145020_20260320000349.txt"
+}

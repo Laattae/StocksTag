@@ -1,0 +1,155 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "해운",
+      "synonyms": [
+        "해운업",
+        "해운산업"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "2차전지",
+      "synonyms": [
+        "2차 전지",
+        "리튬 2차전지"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "AI",
+      "synonyms": [
+        "AI 산업",
+        "AI산업"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "IT기기",
+      "synonyms": [
+        "IT 기기"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "가전",
+      "synonyms": [
+        "가전제품"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "건축",
+      "synonyms": [
+        "건축 산업",
+        "건축 시장"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "게임",
+      "synonyms": [
+        "게임 산업"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "공공기관",
+      "synonyms": [
+        "공공 기관"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "공공부문",
+      "synonyms": [
+        "공공"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "관광",
+      "synonyms": [
+        "관광 산업",
+        "관광산업"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "로봇",
+      "synonyms": [
+        "로봇 산업",
+        "로봇산업"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "무선통신",
+      "synonyms": [
+        "무선 통신"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "물류",
+      "synonyms": [
+        "물류산업"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "방위산업",
+      "synonyms": [
+        "방위 산업",
+        "국가방위산업",
+        "방위",
+        "방위사업"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "방위산업",
+      "synonyms": [
+        "방위사업",
+        "방위 산업",
+        "방위"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "석유시추",
+      "synonyms": [
+        "석유 시추"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "식품",
+      "synonyms": [
+        "식품산업"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "안과질환",
+      "synonyms": [
+        "안과 질환"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "안면미용",
+      "synonyms": [
+        "안면 미용"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "양수발전",
+      "synonyms": [
+        "양수발전소"
+      ]
+    }
+  ]
+}

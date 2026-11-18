@@ -1,0 +1,293 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원화 예수금 및 부금 평잔 294.2조원, 원화 대출금 평잔 310.6조원이며, 외화 대출금 평잔 26.3조원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원화 예수금 및 부금 평잔 294.2조원, 원화 대출금 평잔 310.6조원이며, 외화 대출금 평잔 26.3조원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "하나카드는 가맹점으로부터 신용카드회원이 제공받은 물품 및 용역대금을 회사가 매입하여 이를 카드회원으로부터 약정 결제일에 일시불로 회수하거나 일정기간을 정하여 매월 분할하여 회수하는 신용판매 업무"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "하나생명은 생명보험업을 주요 사업으로 하며, 보험업법이 규정하는 보험업무 및 보험업 관계 법령이 허용하는 기타 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "하나손해보험은 화재보험, 자동차보험 등 손해보험업을 영위하는 종합 손해보험사로 2020년 5월 하나금융지주의 자회사로 편입하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2025년 말 금융시장은 미국 연방준비제도의 금리 인하 속도 조절과 통화정책 전환에 따른 시장의 불확실성, 지정학적 갈등의 장기화가 시장의 불안정성을 높이는 주요 요인으로 작동하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 PF 리스크",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼, 이러한 대내외적 변동성 장세는 당분간 지속될 것으로 전망됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "가계부채",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼, 이러한 대내외적 변동성 장세는 당분간 지속될 것으로 전망됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "채권형 펀드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "채권형\n | \n- 채권에 60%이상 투자하는 상품\n- 국채, 지방채, 회사채 등에 투자하는 시가평가 상품"
+    },
+    {
+      "axis": "product",
+      "value": "주식형 펀드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주식형\n | \n- 주식에 60% 이상 투자하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "하나카드는 가맹점으로부터 신용카드 회원이 제공받은 물품 및 용역대금을 회사가 매입하여 이를 카드회원으로부터 약정 결제일에 일시불로 회수하거나 일정기간을 정하여 매월 분할하여 회수하는 신용판매 업무"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "재화 및 용역의 매매계약에 대하여 매도인 및 매수인과 각각 약정을 체결하여 매수인에게 융자한 재화 및 용역의 구매자금을 매도인에게 지급하고 매수인으로부터 그 원리금을 분할하여 상환받는 방식의 금융"
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "기업이 정기적으로 퇴직연금 사업자인 금융기관에 근로자의 퇴직급여를 위해 일정금액을 적립하고, 근로자(또는 기업)가 이 자금을 운용하여 퇴직 이후 연금 또는 일시금의 형태로 수령할 수 있는 상품"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "2026년 주식 시장은 2025년 시장의 급등에도 불구, 반도체/조선/금융 등 주요 업종 실적전망 상황, 미 정부의 공격적인 재정정책&유동성 공급 효과로 우호적인 시장환경이 지속될 것으로 전망합니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "2026년 주식 시장은 2025년 시장의 급등에도 불구, 반도체/조선/금융 등 주요 업종 실적전망 상황, 미 정부의 공격적인 재정정책&유동성 공급 효과로 우호적인 시장환경이 지속될 것으로 전망합니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "글로벌 금융시장은 AI산업 중심의 성장세와 미 연준의 세 차례 연속 금리 인하에 힘입어 강세를 보였으며, 국내 증시 역시 반도체 업황 회복을 기반으로 강세 흐름을 나타냈습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "글로벌 금융시장은 AI산업 중심의 성장세와 미 연준의 세 차례 연속 금리 인하에 힘입어 강세를 보였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2026년에는 미국 高관세 정책 현실화에 따른 글로벌 교역 위축과 공급망 재편 영향으로 환율 변동성이 확대되는 등 대외적 금융환경의 불확실성이 고조되는 가운데"
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "하나손해보험은 자동차보험 전문 손해보험사로 출발하여 일반보험 및 장기보험 영업인가를 연이어 획득하며 종합손해보험사로 성장해 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장기보험",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "특히 2025년에는 중장기 성장 로드맵에 따라 장기보험 중심의 지속가능성장 기반을 마련하기 위하여 상품 개발, 영업망 확충 등 지속 추진 중에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "일반보험",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "하나손해보험은 자동차보험 전문 손해보험사로 출발하여 일반보험 및 장기보험 영업인가를 연이어 획득하며 종합손해보험사로 성장해 왔습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "지정학적 불확실성, 국내외 금리정책 기조 변화 가능성 등 대내외 요인이 증시에 부담으로 작용할 것으로 예상됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "물가상승률(+2.4%, YoY)은 농축수산물 가격(기상여건 악화) 및 석유류 가격(환율 상승과 유류세 인하율 축소) 상승의 영향으로 오름폭이 확대되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "한편, 물가상승률은 유가 상승과 가축 전염병 발생에도 불구 정부의 물가안정 의지 등 감안 시 2%대 초반의 흐름을 예상하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "은행은 고유업무인 여수신 업무를 중심으로 내/외국환 등의 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 등을 주요 업무로 수행하고"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업은 예금, 유가증권 또는 기타 채무증서의 발행 등을 통해 불특정 다수로부터 채무를 부담하여 조달한 자금을 대출하는 금융중개업무"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신용카드업은 한정된 국내 시장에서 차별화가 용이하지 않은 금융서비스 상품을 바탕으로 다수의 회사가 시장에 참여하고 있어"
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "생명보험사는 생명보험업을 주요 사업으로 하며, 보험업법이 규정하는 보험업무 및 보험업무 관계 법령이 허용하는 기타 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 12월 7일 단기금융업 인가를 최종 획득하여 자체 신용을 바탕으로 한 '발행어음' 사업에 진출하게 되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "삼성전자(주) | 22,232 |"
+    },
+    {
+      "axis": "customer",
+      "value": "부영주택",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "(주)부영주택 | 17,358 |"
+    },
+    {
+      "axis": "customer",
+      "value": "엘지디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "엘지디스플레이(주) | 17,166 |"
+    },
+    {
+      "axis": "customer",
+      "value": "한화에어로스페이스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "한화에어로스페이스(주) | 12,490 |"
+    },
+    {
+      "axis": "customer",
+      "value": "에스케이하이닉스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "에스케이하이닉스주식회사 | 10,009 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "채권발행 등 외부 자금조달에 의존할 수 밖에 없는 여신전문금융회사의 특성상 기준금리 인상의 영향을 직접적으로 받고 있고"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "글로벌 경기 변수, 높은 환율 변동성 및 가계부채 위험 등의 불확실이 변수로 작용할 가능성이 높습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 PF",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원화 예수금 및 부금 평잔 294.2조원, 원화 대출금 평잔 310.6조원이며, 외화 대출금 평잔 26.3조원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원화 예수금 및 부금 평잔 294.2조원, 원화 대출금 평잔 310.6조원이며, 외화 대출금 평잔 26.3조원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"하나카드는 가맹점으로부터 신용카드회원이 제공받은 물품 및 용역대금을 회사가 매입하여 이를 카드회원으로부터 약정 결제일에 일시불로 회수하거나 일정기간을 정하여 매월 분할하여 회수하는 신용판매 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"하나생명은 생명보험업을 주요 사업으로 하며, 보험업법이 규정하는 보험업무 및 보험업 관계 법령이 허용하는 기타 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"하나손해보험은 화재보험, 자동차보험 등 손해보험업을 영위하는 종합 손해보험사로 2020년 5월 하나금융지주의 자회사로 편입하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"2025년 말 금융시장은 미국 연방준비제도의 금리 인하 속도 조절과 통화정책 전환에 따른 시장의 불확실성, 지정학적 갈등의 장기화가 시장의 불안정성을 높이는 주요 요인으로 작동하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 PF 리스크\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼, 이러한 대내외적 변동성 장세는 당분간 지속될 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"가계부채\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼, 이러한 대내외적 변동성 장세는 당분간 지속될 것으로 전망됩니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권형 펀드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"채권형\\n | \\n- 채권에 60%이상 투자하는 상품\\n- 국채, 지방채, 회사채 등에 투자하는 시가평가 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식형 펀드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주식형\\n | \\n- 주식에 60% 이상 투자하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"하나카드는 가맹점으로부터 신용카드 회원이 제공받은 물품 및 용역대금을 회사가 매입하여 이를 카드회원으로부터 약정 결제일에 일시불로 회수하거나 일정기간을 정하여 매월 분할하여 회수하는 신용판매 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"재화 및 용역의 매매계약에 대하여 매도인 및 매수인과 각각 약정을 체결하여 매수인에게 융자한 재화 및 용역의 구매자금을 매도인에게 지급하고 매수인으로부터 그 원리금을 분할하여 상환받는 방식의 금융\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"기업이 정기적으로 퇴직연금 사업자인 금융기관에 근로자의 퇴직급여를 위해 일정금액을 적립하고, 근로자(또는 기업)가 이 자금을 운용하여 퇴직 이후 연금 또는 일시금의 형태로 수령할 수 있는 상품\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"2026년 주식 시장은 2025년 시장의 급등에도 불구, 반도체/조선/금융 등 주요 업종 실적전망 상황, 미 정부의 공격적인 재정정책&유동성 공급 효과로 우호적인 시장환경이 지속될 것으로 전망합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"2026년 주식 시장은 2025년 시장의 급등에도 불구, 반도체/조선/금융 등 주요 업종 실적전망 상황, 미 정부의 공격적인 재정정책&유동성 공급 효과로 우호적인 시장환경이 지속될 것으로 전망합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 금융시장은 AI산업 중심의 성장세와 미 연준의 세 차례 연속 금리 인하에 힘입어 강세를 보였으며, 국내 증시 역시 반도체 업황 회복을 기반으로 강세 흐름을 나타냈습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 보고서 작성기준일('25.12.31) 현재 서울, 경기, 인천, 부산, 대구, 대전, 광주 등에 총 17개의 지점 및 해외 사무소 1개를 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 금융시장은 AI산업 중심의 성장세와 미 연준의 세 차례 연속 금리 인하에 힘입어 강세를 보였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"2026년에는 미국 高관세 정책 현실화에 따른 글로벌 교역 위축과 공급망 재편 영향으로 환율 변동성이 확대되는 등 대외적 금융환경의 불확실성이 고조되는 가운데\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"하나손해보험은 자동차보험 전문 손해보험사로 출발하여 일반보험 및 장기보험 영업인가를 연이어 획득하며 종합손해보험사로 성장해 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기보험\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"특히 2025년에는 중장기 성장 로드맵에 따라 장기보험 중심의 지속가능성장 기반을 마련하기 위하여 상품 개발, 영업망 확충 등 지속 추진 중에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반보험\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"하나손해보험은 자동차보험 전문 손해보험사로 출발하여 일반보험 및 장기보험 영업인가를 연이어 획득하며 종합손해보험사로 성장해 왔습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"지정학적 불확실성, 국내외 금리정책 기조 변화 가능성 등 대내외 요인이 증시에 부담으로 작용할 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"물가상승률(+2.4%, YoY)은 농축수산물 가격(기상여건 악화) 및 석유류 가격(환율 상승과 유류세 인하율 축소) 상승의 영향으로 오름폭이 확대되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"한편, 물가상승률은 유가 상승과 가축 전염병 발생에도 불구 정부의 물가안정 의지 등 감안 시 2%대 초반의 흐름을 예상하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"은행은 고유업무인 여수신 업무를 중심으로 내/외국환 등의 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 등을 주요 업무로 수행하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업은 예금, 유가증권 또는 기타 채무증서의 발행 등을 통해 불특정 다수로부터 채무를 부담하여 조달한 자금을 대출하는 금융중개업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신용카드업은 한정된 국내 시장에서 차별화가 용이하지 않은 금융서비스 상품을 바탕으로 다수의 회사가 시장에 참여하고 있어\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"생명보험사는 생명보험업을 주요 사업으로 하며, 보험업법이 규정하는 보험업무 및 보험업무 관계 법령이 허용하는 기타 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발행어음\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 12월 7일 단기금융업 인가를 최종 획득하여 자체 신용을 바탕으로 한 '발행어음' 사업에 진출하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"삼성전자(주) | 22,232 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"부영주택\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"(주)부영주택 | 17,358 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"엘지디스플레이(주) | 17,166 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화에어로스페이스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"한화에어로스페이스(주) | 12,490 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에스케이하이닉스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"에스케이하이닉스주식회사 | 10,009 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"채권발행 등 외부 자금조달에 의존할 수 밖에 없는 여신전문금융회사의 특성상 기준금리 인상의 영향을 직접적으로 받고 있고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 경기 변수, 높은 환율 변동성 및 가계부채 위험 등의 불확실이 변수로 작용할 가능성이 높습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 PF\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 국내 가계부채 부담과 부동산 PF 리스크 관리가 금융시장 건전성에 중요한 변수로 부각된 만큼\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/086790_20260814004019.txt"
+}

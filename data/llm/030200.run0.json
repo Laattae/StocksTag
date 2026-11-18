@@ -1,0 +1,208 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "무선통신서비스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "㈜케이티는 무선통신, 초고속인터넷, 기업회선 등 개인과 기업고객 대상 유무선 통신서비스, IPTV 등 유료방송 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 IPTV 요금제는 채널/VOD/초이스 혜택 등에 따라 다양한 요금제로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "클라우드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜케이티클라우드는 2022년 4월 1일 출범 후 DC와 Cloud 사업에서의 지속적인 고객기반 확대를 통해"
+    },
+    {
+      "axis": "product",
+      "value": "위성방송",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "㈜케이티스카이라이프는 국내 유일의 위성방송사업자로서 무궁화 위성의 광대역성을 통해 전국 동일의 방송서비스를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "음악서비스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "㈜케이티지니뮤직은 디지털 음악 서비스 사업을 중심으로 대한민국 대표 음악 플랫폼 genie(지니)를 운영하며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜케이티클라우드는 2022년 4월 1일 출범 후 DC와 Cloud 사업에서의 지속적인 고객기반 확대를 통해 Cloud, AI Cloud, DC 등"
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인공지능 학습/추론을 위한 유연하고 확장성 높은 AI 가속기를 제공하는 서비스"
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft Corporation",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2024년 9월 27일 ㈜케이티는 AI/클라우드/IT 분야 경쟁력을 강화하고 새로운 도약을 위한 기반을 마련하기 위해 마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "소재지 서울 244,018 456,790 111 (5,203) 451,698 2,940,390"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "소재지 경기 817,221 145,167 35 (1,653) 143,549 1,392,442"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "만기 전 기말 평가 시 환율이 전기 말 평가 환율보다 높을 경우 평가손실 발생 - 만기 상환 시 환율이 전기 말 평가환율보다 높을 경우 상환손실 발생"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "변동금리부 부채의 경우 금리상승시 이자비용이 증가될 위험이 있으며, 이러한 위험은 스왑을 통하여 헤지되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "초고속인터넷",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료(msit.go.kr) 가입자 기준"
+    },
+    {
+      "axis": "product",
+      "value": "이동전화",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이동전화: 기타회선(통신설비관리용)은 미포함, MVNO 포함 ※ 출처 - 초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "IPTV: 통신 3사 홈페이지 가입자 자료"
+    },
+    {
+      "axis": "product",
+      "value": "시내전화",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료(msit.go.kr) 가입자 기준"
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft Corporation",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다.ㅇ 약정 상대방 : Microsoft Corporation (미국)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다.ㅇ 약정 상대방 : Microsoft Corporation (미국)"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 침체",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "국내 경기 침체와 이에 따른 국민들의 가처분 소득 감소, 기업들의 긴축운영에 따른 ICT 수요 감소가 이어질 경우 당사의 영업활동에 부정적인 영향을 미칠 수도 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "OTT",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "온라인동영상서비스(OTT)의 영향력이 증가하면서 유료방송시장의 포화 및 경쟁 심화를 주요 원인으로 분석하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "비씨카드㈜는 신용카드의 발행 및 관리, 신용카드 이용과 관련된 대금의 결제, 신용카드 가맹점의 모집 및 관리를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "클라우드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜케이티클라우드는 국내 사업자 중 클라우드/데이터센터/네트워크 세 가지 역량을 모두 갖춘 유일한 사업자로서 데이터센터부터 클라우드 서비스까지 고객 맞춤 서비스를 E2E로 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜케이티클라우드는 데이터센터 코로케이션 시장 1위 사업자로, 매출 및 M/S의 견실한 성장을 지속하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디지털 광고",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "케이티나스미디어는 현재 Data-tech 기반의 통합 디지털광고를 집행을 통해 주요 광고주와의 파트너십 강화 및 방송광고, 옥외광고 시장의 디지털 전환을 주도하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "미디어콘텐츠",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "케이티스튜디오지니는 제작 스튜디오로서 채널, OTT 등에 미디어콘텐츠(드라마)를 제작하여 판매하는 제작사업과 미디어콘텐츠의 국내외 유통을 대행하는 유통대행사업을 주요 사업군으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "공공기관",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "공공클라우드 전환 활성화에 발맞춰 맞춤형 서비스 강화 및 공공분야 전담 사업 체계를 구축하였으며 하이브리드 클라우드, AI 클라우드 등 시장 수요에 선제적으로 대응하여 맞춤형 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "특히 AI 서비스 확대에 따른 GPU 서버용 고전력랙(10kW 이상) 수요가 급증하면서 데이터센터 선택 시 고집적랙 수용 가능여부가 중요한 사항이 됨에 따라"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "신용카드업은 전형적인 내수기반 산업으로 민간소비 및 전반적인 국내 경제상황의 변화 등 경기변동에 민감한 특성을 가지고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"무선통신서비스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"㈜케이티는 무선통신, 초고속인터넷, 기업회선 등 개인과 기업고객 대상 유무선 통신서비스, IPTV 등 유료방송 서비스\"}, {\"axis\": \"product\", \"value\": \"IPTV\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사의 IPTV 요금제는 채널/VOD/초이스 혜택 등에 따라 다양한 요금제로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"클라우드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"㈜케이티클라우드는 2022년 4월 1일 출범 후 DC와 Cloud 사업에서의 지속적인 고객기반 확대를 통해\"}, {\"axis\": \"product\", \"value\": \"위성방송\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"㈜케이티스카이라이프는 국내 유일의 위성방송사업자로서 무궁화 위성의 광대역성을 통해 전국 동일의 방송서비스를 제공합니다.\"}, {\"axis\": \"product\", \"value\": \"음악서비스\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"㈜케이티지니뮤직은 디지털 음악 서비스 사업을 중심으로 대한민국 대표 음악 플랫폼 genie(지니)를 운영하며\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"㈜케이티클라우드는 2022년 4월 1일 출범 후 DC와 Cloud 사업에서의 지속적인 고객기반 확대를 통해 Cloud, AI Cloud, DC 등\"}, {\"axis\": \"application\", \"value\": \"AI 서버\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"인공지능 학습/추론을 위한 유연하고 확장성 높은 AI 가속기를 제공하는 서비스\"}, {\"axis\": \"customer\", \"value\": \"Microsoft Corporation\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"2024년 9월 27일 ㈜케이티는 AI/클라우드/IT 분야 경쟁력을 강화하고 새로운 도약을 위한 기반을 마련하기 위해 마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"소재지 서울 244,018 456,790 111 (5,203) 451,698 2,940,390\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"소재지 경기 817,221 145,167 35 (1,653) 143,549 1,392,442\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"만기 전 기말 평가 시 환율이 전기 말 평가 환율보다 높을 경우 평가손실 발생 - 만기 상환 시 환율이 전기 말 평가환율보다 높을 경우 상환손실 발생\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"변동금리부 부채의 경우 금리상승시 이자비용이 증가될 위험이 있으며, 이러한 위험은 스왑을 통하여 헤지되었습니다.\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"초고속인터넷\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료(msit.go.kr) 가입자 기준\"}, {\"axis\": \"product\", \"value\": \"이동전화\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"이동전화: 기타회선(통신설비관리용)은 미포함, MVNO 포함 ※ 출처 - 초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료\"}, {\"axis\": \"product\", \"value\": \"IPTV\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"IPTV: 통신 3사 홈페이지 가입자 자료\"}, {\"axis\": \"product\", \"value\": \"시내전화\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"초고속인터넷, 시내전화, 이동전화: '25년 12월말 과학기술정보통신부 통계자료(msit.go.kr) 가입자 기준\"}, {\"axis\": \"customer\", \"value\": \"Microsoft Corporation\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다.ㅇ 약정 상대방 : Microsoft Corporation (미국)\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"마이크로소프트(MS)와 전략적 파트너십을 체결하였습니다.ㅇ 약정 상대방 : Microsoft Corporation (미국)\"}, {\"axis\": \"exposure\", \"value\": \"경기 침체\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"국내 경기 침체와 이에 따른 국민들의 가처분 소득 감소, 기업들의 긴축운영에 따른 ICT 수요 감소가 이어질 경우 당사의 영업활동에 부정적인 영향을 미칠 수도 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"OTT\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"온라인동영상서비스(OTT)의 영향력이 증가하면서 유료방송시장의 포화 및 경쟁 심화를 주요 원인으로 분석하고 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"비씨카드㈜는 신용카드의 발행 및 관리, 신용카드 이용과 관련된 대금의 결제, 신용카드 가맹점의 모집 및 관리를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"클라우드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"㈜케이티클라우드는 국내 사업자 중 클라우드/데이터센터/네트워크 세 가지 역량을 모두 갖춘 유일한 사업자로서 데이터센터부터 클라우드 서비스까지 고객 맞춤 서비스를 E2E로 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"㈜케이티클라우드는 데이터센터 코로케이션 시장 1위 사업자로, 매출 및 M/S의 견실한 성장을 지속하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털 광고\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"케이티나스미디어는 현재 Data-tech 기반의 통합 디지털광고를 집행을 통해 주요 광고주와의 파트너십 강화 및 방송광고, 옥외광고 시장의 디지털 전환을 주도하고 있습니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미디어콘텐츠\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"케이티스튜디오지니는 제작 스튜디오로서 채널, OTT 등에 미디어콘텐츠(드라마)를 제작하여 판매하는 제작사업과 미디어콘텐츠의 국내외 유통을 대행하는 유통대행사업을 주요 사업군으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"공공기관\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"공공클라우드 전환 활성화에 발맞춰 맞춤형 서비스 강화 및 공공분야 전담 사업 체계를 구축하였으며 하이브리드 클라우드, AI 클라우드 등 시장 수요에 선제적으로 대응하여 맞춤형 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"특히 AI 서비스 확대에 따른 GPU 서버용 고전력랙(10kW 이상) 수요가 급증하면서 데이터센터 선택 시 고집적랙 수용 가능여부가 중요한 사항이 됨에 따라\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"신용카드업은 전형적인 내수기반 산업으로 민간소비 및 전반적인 국내 경제상황의 변화 등 경기변동에 민감한 특성을 가지고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/030200_20260323001553.txt"
+}

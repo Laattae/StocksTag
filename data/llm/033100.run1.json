@@ -1,0 +1,74 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 전압을 조정하기 위해 사용하는 변압기 등을 생산, 판매하고 있으며, 각 부문별 매출액 및 총매출액에서 차지하는 비율은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "친환경몰드 변압기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "친환경몰드 변압기 - 제룡전기㈜ 기술연구소 - 몰드 변압기 제작 및 폐기시 유독물질 저감 효과- 친환경 변압기 시장 선도 진입 및 선점"
+    },
+    {
+      "axis": "product",
+      "value": "친환경29kV GIS",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "친환경29kV GIS - 제룡전기㈜ 기술연구소 - 신규 친환경 시장 진입- 친환경 GAS 절연기술 향상- 지구온난화 방지를 위해 SF6 대체품"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코아",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "중 전 기 | 원 재 료 | 코아外 | 70,542 | 94.6 | (주)포스코, 우진전기(주)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "규소강판",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "중 전 기 | 규소강판 | KG | 4,180 | 4,180 | 4,210"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "대전공장 | 자가 | 대전 대덕구 신일서로 21"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "중전기부문의 주요 원재료 구입처인 포스코(POSCO)의 가격 변동과 런던금속거래소(LME)에서 결정되는 동 가격 등의 영향을 직ㆍ간접적으로 받고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 원재료의 가격변동원인은 동 가격이 환율 및 런던금속거래소(LME)에서 결정되는 시세의 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "관세",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근에는 글로벌 경쟁 심화로 인한 성장속도의 둔화 및 관세 등의 영향으로 매출실적 및 영업이익이 감소하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 전압을 조정하기 위해 사용하는 변압기 등을 생산, 판매하고 있으며, 각 부문별 매출액 및 총매출액에서 차지하는 비율은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"친환경몰드 변압기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"친환경몰드 변압기 - 제룡전기㈜ 기술연구소 - 몰드 변압기 제작 및 폐기시 유독물질 저감 효과- 친환경 변압기 시장 선도 진입 및 선점\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"친환경29kV GIS\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"친환경29kV GIS - 제룡전기㈜ 기술연구소 - 신규 친환경 시장 진입- 친환경 GAS 절연기술 향상- 지구온난화 방지를 위해 SF6 대체품\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코아\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"중 전 기 | 원 재 료 | 코아外 | 70,542 | 94.6 | (주)포스코, 우진전기(주)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"규소강판\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"중 전 기 | 규소강판 | KG | 4,180 | 4,180 | 4,210\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"대전공장 | 자가 | 대전 대덕구 신일서로 21\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"중전기부문의 주요 원재료 구입처인 포스코(POSCO)의 가격 변동과 런던금속거래소(LME)에서 결정되는 동 가격 등의 영향을 직ㆍ간접적으로 받고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료의 가격변동원인은 동 가격이 환율 및 런던금속거래소(LME)에서 결정되는 시세의 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"관세\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근에는 글로벌 경쟁 심화로 인한 성장속도의 둔화 및 관세 등의 영향으로 매출실적 및 영업이익이 감소하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/033100_20260602000220.txt"
+}

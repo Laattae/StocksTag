@@ -1,0 +1,194 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "온라인강의",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "유초중사업부문 강의 매출은 온라인강의로 이루어지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "학원강의",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "고등사업부문의 강의 매출은 온오프라인 강의이며 고등사업부문의 매출이 사업부문별 매출 중 가장 큰 비중을 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "교재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고등사업부문의 교재 매출은 온라인강의와 패키지로 판매되는 형태로 온라인강의 매출과 비례하여 매출 추이가 나타나고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "모의고사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "아울러 오메가 모의고사 등 자체 모의고사 콘텐츠 개발 및 운영을 통해 학습 평가 콘텐츠 경쟁력을 강화하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "초등학생",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "중학생",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "고등학생",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "재수생",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "대학생",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "러셀최상위권기숙학원 | 자가 | 용인시 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "러셀센텀 | 자가 | 부산시 |"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "러셀대구 | 자가 | 대구광역시 |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "러셀울산 | 자가 | 울산광역시 |"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "러셀대전 | 자가 | 대전광역시 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "사교육비 규모",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "통계청이 2026년 3월 발표한 '2025년 사교육비 조사 결과'에 의하면 우리나라 초중등학생의 사교육비 규모는 19조8천억원"
+    },
+    {
+      "axis": "exposure",
+      "value": "입시제도의 변화",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 정부의 교육정책과 관련하여 일정한 연관성이 있으며, 입시제도의 변화 및 각지역 교육청의 정책 등에 의해 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "학령인구의 감소",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "국내 교육서비스 시장은 학령인구의 감소에도 불구하고 높은 교육열과 학벌중시 경향, 청년실업 증가세 지속 등으로 교육비 지출은 꾸준히 늘어나고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "미용학 교육",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미용학은 실무 중심의 직업교육을 넘어, 연구, 교육, 실무, 콘텐츠 제작 등 새로운 미래 부가가치를 창출하는 정규 학위과정(석ㆍ박사)으로 비약적인 발전을 이루었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT 직업교육",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 정부의 디지털 신기술 인재 양성 사업과 산업 수요 기반 직무교육 분야에서 경쟁사 대비 높은 전문성과 운영 역량을 확보하며 IT 직업교육 시장에서 경쟁우위를 구축하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "국가기술자격시험 교육",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "미래의 핵심 산업 분야로 떠오르는 신재생 에너지 및 배터리 산업의 성장, 중대재해처벌법 시행으로 안전관리 중요성이 부각됨에 따라, 미래가치가 높은 전기분야와 산업안전분야의 국가기술자격시험 교육 서비스 사업을 운영합니다."
+    },
+    {
+      "axis": "product",
+      "value": "원격평생교육",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "사회복지사와 한국어교원 자격증 취득 및 관련 학위 제공을 주업으로 하는 '아이비원격평생교육원'은 2021년 7월 사업 양수도를 통해 운영을 시작했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "인공지능",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "미용 교육 산업은 AI와 자동화 기술 시대에도 인간의 창의성과 감성 지능이 필수적인 분야이기에, 실습 위주의 오프라인 교육의 가치와 수요는 지속적으로 상승할 것입니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "고용노동부는 'K-디지털 트레이닝을 중심으로 한 디지털 신기술 인재양성 사업을 지속적으로 확대하고 있습니다. 해당 사업은 AI, 빅데이터, 클라우드, 반도체 등 첨단 산업 분야의 실무형 인재를 양성하기 위한 대표적인 국가 직업훈련 프로그램으로 자리잡았으며"
+    },
+    {
+      "axis": "customer",
+      "value": "고용노동부",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "고용노동부는 'K-디지털 트레이닝을 중심으로 한 디지털 신기술 인재양성 사업을 지속적으로 확대하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "디지털 경제 전환",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "국내 일자리 관련 예산은 지속적으로 확대되는 추세이며, 특히 디지털 경제 전환과 첨단 산업 경쟁력 강화를 위해 직업훈련 분야에 대한 정부 투자가 꾸준히 증가하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "실업률",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "직업훈련 시장은 실업률 증가와 구직 수요 증가에 따라 시장 규모가 확대되는 역경기적 안정성을 가지며, 경기변동 속에서도 지속 가능한 구조를 갖춘 산업입니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"온라인강의\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"유초중사업부문 강의 매출은 온라인강의로 이루어지고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"학원강의\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"고등사업부문의 강의 매출은 온오프라인 강의이며 고등사업부문의 매출이 사업부문별 매출 중 가장 큰 비중을 차지합니다.\"}, {\"axis\": \"product\", \"value\": \"교재\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고등사업부문의 교재 매출은 온라인강의와 패키지로 판매되는 형태로 온라인강의 매출과 비례하여 매출 추이가 나타나고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"모의고사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"아울러 오메가 모의고사 등 자체 모의고사 콘텐츠 개발 및 운영을 통해 학습 평가 콘텐츠 경쟁력을 강화하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"초등학생\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다.\"}, {\"axis\": \"customer\", \"value\": \"중학생\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다.\"}, {\"axis\": \"customer\", \"value\": \"고등학생\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다.\"}, {\"axis\": \"customer\", \"value\": \"재수생\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다.\"}, {\"axis\": \"customer\", \"value\": \"대학생\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 본사와 종속회사를 통하여 영유아ㆍ초ㆍ중ㆍ고교생 및 대학생, 일반 성인을 대상으로 교육 컨텐츠를 제공하는 교육 기업입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"러셀최상위권기숙학원 | 자가 | 용인시 |\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"러셀센텀 | 자가 | 부산시 |\"}, {\"axis\": \"region\", \"value\": \"대구\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"러셀대구 | 자가 | 대구광역시 |\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"러셀울산 | 자가 | 울산광역시 |\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"러셀대전 | 자가 | 대전광역시 |\"}, {\"axis\": \"exposure\", \"value\": \"사교육비 규모\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"통계청이 2026년 3월 발표한 '2025년 사교육비 조사 결과'에 의하면 우리나라 초중등학생의 사교육비 규모는 19조8천억원\"}, {\"axis\": \"exposure\", \"value\": \"입시제도의 변화\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 정부의 교육정책과 관련하여 일정한 연관성이 있으며, 입시제도의 변화 및 각지역 교육청의 정책 등에 의해 영향을 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"학령인구의 감소\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"국내 교육서비스 시장은 학령인구의 감소에도 불구하고 높은 교육열과 학벌중시 경향, 청년실업 증가세 지속 등으로 교육비 지출은 꾸준히 늘어나고 있으며\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"미용학 교육\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미용학은 실무 중심의 직업교육을 넘어, 연구, 교육, 실무, 콘텐츠 제작 등 새로운 미래 부가가치를 창출하는 정규 학위과정(석ㆍ박사)으로 비약적인 발전을 이루었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT 직업교육\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 정부의 디지털 신기술 인재 양성 사업과 산업 수요 기반 직무교육 분야에서 경쟁사 대비 높은 전문성과 운영 역량을 확보하며 IT 직업교육 시장에서 경쟁우위를 구축하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"국가기술자격시험 교육\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"미래의 핵심 산업 분야로 떠오르는 신재생 에너지 및 배터리 산업의 성장, 중대재해처벌법 시행으로 안전관리 중요성이 부각됨에 따라, 미래가치가 높은 전기분야와 산업안전분야의 국가기술자격시험 교육 서비스 사업을 운영합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원격평생교육\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"사회복지사와 한국어교원 자격증 취득 및 관련 학위 제공을 주업으로 하는 '아이비원격평생교육원'은 2021년 7월 사업 양수도를 통해 운영을 시작했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"인공지능\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"미용 교육 산업은 AI와 자동화 기술 시대에도 인간의 창의성과 감성 지능이 필수적인 분야이기에, 실습 위주의 오프라인 교육의 가치와 수요는 지속적으로 상승할 것입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"고용노동부는 'K-디지털 트레이닝을 중심으로 한 디지털 신기술 인재양성 사업을 지속적으로 확대하고 있습니다. 해당 사업은 AI, 빅데이터, 클라우드, 반도체 등 첨단 산업 분야의 실무형 인재를 양성하기 위한 대표적인 국가 직업훈련 프로그램으로 자리잡았으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"고용노동부\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"고용노동부는 'K-디지털 트레이닝을 중심으로 한 디지털 신기술 인재양성 사업을 지속적으로 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"디지털 경제 전환\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"국내 일자리 관련 예산은 지속적으로 확대되는 추세이며, 특히 디지털 경제 전환과 첨단 산업 경쟁력 강화를 위해 직업훈련 분야에 대한 정부 투자가 꾸준히 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"실업률\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"직업훈련 시장은 실업률 증가와 구직 수요 증가에 따라 시장 규모가 확대되는 역경기적 안정성을 가지며, 경기변동 속에서도 지속 가능한 구조를 갖춘 산업입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/215200_20260318000849.txt"
+}

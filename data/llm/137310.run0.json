@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "면역화학진단",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "면역화학진단 항원-항체 반응의 원리를이용한 현장진단 제품 STANDARD Q (자가브랜드)"
+    },
+    {
+      "axis": "product",
+      "value": "분자진단",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "분자진단 PCR기술을 이용한 분자진단 제품 STANDARD M (자가브랜드)"
+    },
+    {
+      "axis": "product",
+      "value": "자가혈당측정",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "자가혈당측정 혈액 내 혈당의 농도를 검출하는 제품 SD CodeFree (자가브랜드)"
+    },
+    {
+      "axis": "product",
+      "value": "기타 제품",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "기타 제품 기타 진단 측정제품 및 자회사 제품 등 STANDARD LipidoCare(자가브랜드)"
+    },
+    {
+      "axis": "application",
+      "value": "감염병 진단",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 체외진단(IVD) 의료기기 및 시약을 기반으로 감염병과 만성질환 진단 수요에 대응하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "만성질환 관리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 면역, 분자, 임상화학 등 서로 다른 기술 플랫폼을 결합한 포트폴리오를 구축하여 단기 유행성 질환과 장기 만성질환 시장을 동시에 커버할 수 있는 사업 구조를 보유하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "UncutSheet",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "면역화학진단 UncutSheet, 항원항체,Coated Plate, 캐필러리 튜브 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "항원항체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "면역화학진단 UncutSheet, 항원항체,Coated Plate, 캐필러리 튜브 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "효소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "분자진단 효소, Rubber Pad 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "GOLD",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "자가혈당측정 GOLD, Vial, MCU 등"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 청원공장과 증평공장, 오송2공장, 인도법인 공장(SD Biosensor Healthcare Pvt, Ltd.), 인도네시아법인 공장(PT. SD Biosensor Healthcare)을 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "감염병 상시화",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "만성질환 유병률",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"면역화학진단\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"면역화학진단 항원-항체 반응의 원리를이용한 현장진단 제품 STANDARD Q (자가브랜드)\"}, {\"axis\": \"product\", \"value\": \"분자진단\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"분자진단 PCR기술을 이용한 분자진단 제품 STANDARD M (자가브랜드)\"}, {\"axis\": \"product\", \"value\": \"자가혈당측정\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"자가혈당측정 혈액 내 혈당의 농도를 검출하는 제품 SD CodeFree (자가브랜드)\"}, {\"axis\": \"product\", \"value\": \"기타 제품\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"기타 제품 기타 진단 측정제품 및 자회사 제품 등 STANDARD LipidoCare(자가브랜드)\"}, {\"axis\": \"application\", \"value\": \"감염병 진단\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 체외진단(IVD) 의료기기 및 시약을 기반으로 감염병과 만성질환 진단 수요에 대응하는 사업을 영위하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"만성질환 관리\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 면역, 분자, 임상화학 등 서로 다른 기술 플랫폼을 결합한 포트폴리오를 구축하여 단기 유행성 질환과 장기 만성질환 시장을 동시에 커버할 수 있는 사업 구조를 보유하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"UncutSheet\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"면역화학진단 UncutSheet, 항원항체,Coated Plate, 캐필러리 튜브 등\"}, {\"axis\": \"raw_material\", \"value\": \"항원항체\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"면역화학진단 UncutSheet, 항원항체,Coated Plate, 캐필러리 튜브 등\"}, {\"axis\": \"raw_material\", \"value\": \"효소\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"분자진단 효소, Rubber Pad 등\"}, {\"axis\": \"raw_material\", \"value\": \"GOLD\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"자가혈당측정 GOLD, Vial, MCU 등\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 청원공장과 증평공장, 오송2공장, 인도법인 공장(SD Biosensor Healthcare Pvt, Ltd.), 인도네시아법인 공장(PT. SD Biosensor Healthcare)을 보유하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"감염병 상시화\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"만성질환 유병률\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"체외진단 산업은 의료 필수재 성격으로 경기 변동 민감도가 낮고, 고령화·감염병 상시화·만성질환 유병률 확대 등 구조적 요인으로 중장기적으로 안정적인 수요가 유지되는 특징이 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/137310_20260318001064.txt"
+}

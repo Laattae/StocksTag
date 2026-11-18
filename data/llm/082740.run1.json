@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "선박용 엔진",
+      "weight": 0.88,
+      "direction": null,
+      "evidence": "당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며"
+    },
+    {
+      "axis": "product",
+      "value": "SCR",
+      "weight": 0.88,
+      "direction": null,
+      "evidence": "당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며"
+    },
+    {
+      "axis": "product",
+      "value": "엔진부품",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전용 디젤엔진",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "AM, 디젤발전 및 임대 | 엔진부품, 발전용 디젤엔진 및 부동산 임대 등"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 조선 산업의 핵심 기자재인 대형 선박용 엔진 제작을 중심으로 엔진 부품의 판매와 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전력",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전력시설이 부족한 신흥국가 및 도서지역을 중심으로 친환경 디젤발전시설을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "원자력 발전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한화오션",
+      "weight": 0.368,
+      "direction": null,
+      "evidence": "한화오션㈜ | 505,182 | 36.8"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성중공업",
+      "weight": 0.347,
+      "direction": null,
+      "evidence": "삼성중공업㈜거제조선소 | 476,272 | 34.7"
+    },
+    {
+      "axis": "customer",
+      "value": "Zhoushan Changhong",
+      "weight": 0.068,
+      "direction": null,
+      "evidence": "Zhoushan Changhong | 93,297 | 6.8"
+    },
+    {
+      "axis": "customer",
+      "value": "China Merchants",
+      "weight": 0.036,
+      "direction": null,
+      "evidence": "China Merchants (Jiangsu) | 49,274 | 3.6"
+    },
+    {
+      "axis": "customer",
+      "value": "JIANGSU NEW YANGZI",
+      "weight": 0.032,
+      "direction": null,
+      "evidence": "JIANGSU NEW YANGZI | 43,814 | 3.2"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Crankshaft",
+      "weight": 0.86,
+      "direction": null,
+      "evidence": "Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Turbocharger",
+      "weight": 0.86,
+      "direction": null,
+      "evidence": "Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel Plate",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "선박엔진 | Steel Plate(TON) | 914,000"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "선박엔진 및디젤발전사업 | 선박용/육상용 디젤엔진 | 본사 | 3,360"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"선박용 엔진\", \"weight\": 0.88, \"direction\": null, \"evidence\": \"당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며\"}, {\"axis\": \"product\", \"value\": \"SCR\", \"weight\": 0.88, \"direction\": null, \"evidence\": \"당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며\"}, {\"axis\": \"product\", \"value\": \"엔진부품\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다.\"}, {\"axis\": \"product\", \"value\": \"발전용 디젤엔진\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"AM, 디젤발전 및 임대 | 엔진부품, 발전용 디젤엔진 및 부동산 임대 등\"}, {\"axis\": \"application\", \"value\": \"조선\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 조선 산업의 핵심 기자재인 대형 선박용 엔진 제작을 중심으로 엔진 부품의 판매와 서비스를 제공하고 있으며\"}, {\"axis\": \"application\", \"value\": \"전력\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전력시설이 부족한 신흥국가 및 도서지역을 중심으로 친환경 디젤발전시설을 공급하고 있으며\"}, {\"axis\": \"application\", \"value\": \"원자력 발전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"한화오션\", \"weight\": 0.368, \"direction\": null, \"evidence\": \"한화오션㈜ | 505,182 | 36.8\"}, {\"axis\": \"customer\", \"value\": \"삼성중공업\", \"weight\": 0.347, \"direction\": null, \"evidence\": \"삼성중공업㈜거제조선소 | 476,272 | 34.7\"}, {\"axis\": \"customer\", \"value\": \"Zhoushan Changhong\", \"weight\": 0.068, \"direction\": null, \"evidence\": \"Zhoushan Changhong | 93,297 | 6.8\"}, {\"axis\": \"customer\", \"value\": \"China Merchants\", \"weight\": 0.036, \"direction\": null, \"evidence\": \"China Merchants (Jiangsu) | 49,274 | 3.6\"}, {\"axis\": \"customer\", \"value\": \"JIANGSU NEW YANGZI\", \"weight\": 0.032, \"direction\": null, \"evidence\": \"JIANGSU NEW YANGZI | 43,814 | 3.2\"}, {\"axis\": \"raw_material\", \"value\": \"Crankshaft\", \"weight\": 0.86, \"direction\": null, \"evidence\": \"Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063\"}, {\"axis\": \"raw_material\", \"value\": \"Turbocharger\", \"weight\": 0.86, \"direction\": null, \"evidence\": \"Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063\"}, {\"axis\": \"raw_material\", \"value\": \"Steel Plate\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"선박엔진 | Steel Plate(TON) | 914,000\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"선박엔진 및디젤발전사업 | 선박용/육상용 디젤엔진 | 본사 | 3,360\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/082740_20260318000939.txt"
+}

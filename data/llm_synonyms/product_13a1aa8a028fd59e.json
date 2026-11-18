@@ -1,0 +1,44 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "자동차 부품",
+      "synonyms": ["자동차부품"]
+    },
+    {
+      "group": 6,
+      "canonical": "선박용 엔진",
+      "synonyms": ["선박용엔진"]
+    },
+    {
+      "group": 10,
+      "canonical": "LNG수소혼소 발전",
+      "synonyms": ["LNG수소혼소발전"]
+    },
+    {
+      "group": 13,
+      "canonical": "슈퍼마켓",
+      "synonyms": ["슈퍼"]
+    },
+    {
+      "group": 14,
+      "canonical": "스낵",
+      "synonyms": ["스낵류"]
+    },
+    {
+      "group": 22,
+      "canonical": "선박용 엔진",
+      "synonyms": ["선박용 엔진", "선박용엔진"]
+    },
+    {
+      "group": 26,
+      "canonical": "영화상영업",
+      "synonyms": ["영화상영"]
+    },
+    {
+      "group": 29,
+      "canonical": "여객 운송",
+      "synonyms": ["여객운송"]
+    }
+  ]
+}

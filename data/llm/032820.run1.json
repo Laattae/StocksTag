@@ -1,0 +1,179 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "계측제어설비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원자력발전소의 3대 핵심기술 중 하나이자 두뇌역할을 수행하는 계측제어설비 를 국산화하여"
+    },
+    {
+      "axis": "product",
+      "value": "분산제어시스템",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "OPERASYSTEM™-1400은 산업표준 VME-BUS 기반의 하드웨어를 채택하였으며 고속의 CPU를 탑재하여 최고 10msec의 고속제어 Task 실행과 주요부분의 이중화로 신뢰성이 높은 제어기입니다."
+    },
+    {
+      "axis": "product",
+      "value": "승강장안전문",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "철도용 승강장안전문 및 철도신호열차제어시템을 국제안전등급의 최고 등급인 SIL4를 국내 최초로 개발하여"
+    },
+    {
+      "axis": "product",
+      "value": "열차제어시스템",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "기존의 유선통신방식이 아닌 무선통신기반의 철도신호용 열차제어시스템은 열차속도 및 해당 열차의 위치를 실시간으로 검지, 인식하여 무선으로 데이터를 전송하는 최신 열차제어 시스템입니다."
+    },
+    {
+      "axis": "product",
+      "value": "공조장치시스템",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "공조장치시스템의 지속적인 연구개발 및 품질 확보로 차륜형 장갑차 공조장치를 비롯한 비호복합 냉방장치, 신형화생방정찰차등 수종의 공조장치 또는 냉방장치를 생산하여 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "런플랫",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "순수 독자기술로 차륜형 군용 차량 런플랫을 국산화 개발하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "재배설비",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "완전밀폐형 분무수경 그린바이오 재배시설을 구축하고 이를 기반으로 분무수경인삼 등 고부가가치 특용작물을 재배·판매와 더불어 국내외 스마트팜 산업에 최적화된 재배설비·시스템 공급을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "저온분해유화시스템",
+      "weight": 0.55,
+      "direction": null,
+      "evidence": "우리기술은 2022년부터 독자적인 저온분해 유화기술을 보유한 ㈜도시유전과 국내 생산거점 구축, 해외 기술보급 등 사업을 공동으로 진행하는 한편 저온분해 유화시스템의 글로벌 상용화를 위한 엔지니어링"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전소",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 시스템사업부문은 30년 이상 국내 원자력발전소에 감시제어시스템을 자체 기술로 개발하여 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철도",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "철도시스템을 개발, 설계, 제작, 운송, 설치, 시험 및 시운전, 교육, 예비품 공급을 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "고강도 경합금으로 정밀한 단조 소재를 적용하여 피탄 시 생존 가능성이 높고 방열특성이 우수하며 방위산업 분야뿐만 아니라 상용 차량의 주행 안정장치 개발을 통해 미래 성장 동력 확보를 기대하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트팜",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "독자적인 제어계측기술을 적용한 스마트팜 작물재배 및 재배시스템 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "해상풍력",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2020년 국내유일 상업용 해상풍력단지 시공 전문기업 ㈜씨지오에 대한 지분투자를 통해 해상풍력사업에 진출한 이래"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "내진설계 및 Q등급 기기검증시험을 통과한 설비로서 한국수력원자력에 개발선정품으로 등록된 제품입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | IC | 2,809 | 28.51%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | PCB | 1,122 | 11.39%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PANEL",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | PANEL | 491 | 4.98%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "SENSOR",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SOC사업 | 제어계측시스템 | 원재료 | SENSOR | 1,186 | 12.04%"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 서울시 마포구 월드컵북로 56길9 에 우리기술빌딩을 소유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "전라남도",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2021년 12월 전라남도 신안군 압해도 소재 ㈜압해풍력발전소를 인수하여 발전용량 증설"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2024년 2월 경기도 연천군 은통일반산업단지에 대지 11,188㎡, 연면적 5,774㎡ 완전밀폐형 분무수경 그린바이오 재배시설을 구축"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 ㈜웨이브정읍의 지분 70%를 보유하고 있으며, 전라북도 정읍에 저온분해 유화설비 공장을 구축을 완료하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사는 제품 수출 및 원재료 수입 거래 등으로 인해 USD 등의 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "보고기간 종료일 현재 이자율변동위험에 노출된 변동금리부 금융자산 및 금융부채는 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"계측제어설비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"원자력발전소의 3대 핵심기술 중 하나이자 두뇌역할을 수행하는 계측제어설비 를 국산화하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"분산제어시스템\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"OPERASYSTEM™-1400은 산업표준 VME-BUS 기반의 하드웨어를 채택하였으며 고속의 CPU를 탑재하여 최고 10msec의 고속제어 Task 실행과 주요부분의 이중화로 신뢰성이 높은 제어기입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"승강장안전문\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"철도용 승강장안전문 및 철도신호열차제어시템을 국제안전등급의 최고 등급인 SIL4를 국내 최초로 개발하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열차제어시스템\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"기존의 유선통신방식이 아닌 무선통신기반의 철도신호용 열차제어시스템은 열차속도 및 해당 열차의 위치를 실시간으로 검지, 인식하여 무선으로 데이터를 전송하는 최신 열차제어 시스템입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공조장치시스템\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"공조장치시스템의 지속적인 연구개발 및 품질 확보로 차륜형 장갑차 공조장치를 비롯한 비호복합 냉방장치, 신형화생방정찰차등 수종의 공조장치 또는 냉방장치를 생산하여 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"런플랫\",\n      \"weight\": 0.65,\n      \"direction\": null,\n      \"evidence\": \"순수 독자기술로 차륜형 군용 차량 런플랫을 국산화 개발하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"재배설비\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"완전밀폐형 분무수경 그린바이오 재배시설을 구축하고 이를 기반으로 분무수경인삼 등 고부가가치 특용작물을 재배·판매와 더불어 국내외 스마트팜 산업에 최적화된 재배설비·시스템 공급을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"저온분해유화시스템\",\n      \"weight\": 0.55,\n      \"direction\": null,\n      \"evidence\": \"우리기술은 2022년부터 독자적인 저온분해 유화기술을 보유한 ㈜도시유전과 국내 생산거점 구축, 해외 기술보급 등 사업을 공동으로 진행하는 한편 저온분해 유화시스템의 글로벌 상용화를 위한 엔지니어링\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력발전소\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사 시스템사업부문은 30년 이상 국내 원자력발전소에 감시제어시스템을 자체 기술로 개발하여 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철도\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"철도시스템을 개발, 설계, 제작, 운송, 설치, 시험 및 시운전, 교육, 예비품 공급을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"고강도 경합금으로 정밀한 단조 소재를 적용하여 피탄 시 생존 가능성이 높고 방열특성이 우수하며 방위산업 분야뿐만 아니라 상용 차량의 주행 안정장치 개발을 통해 미래 성장 동력 확보를 기대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트팜\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"독자적인 제어계측기술을 적용한 스마트팜 작물재배 및 재배시스템 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2020년 국내유일 상업용 해상풍력단지 시공 전문기업 ㈜씨지오에 대한 지분투자를 통해 해상풍력사업에 진출한 이래\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"내진설계 및 Q등급 기기검증시험을 통과한 설비로서 한국수력원자력에 개발선정품으로 등록된 제품입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | IC | 2,809 | 28.51%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | PCB | 1,122 | 11.39%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PANEL\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | PANEL | 491 | 4.98%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SENSOR\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SOC사업 | 제어계측시스템 | 원재료 | SENSOR | 1,186 | 12.04%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울시 마포구 월드컵북로 56길9 에 우리기술빌딩을 소유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전라남도\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2021년 12월 전라남도 신안군 압해도 소재 ㈜압해풍력발전소를 인수하여 발전용량 증설\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2024년 2월 경기도 연천군 은통일반산업단지에 대지 11,188㎡, 연면적 5,774㎡ 완전밀폐형 분무수경 그린바이오 재배시설을 구축\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 ㈜웨이브정읍의 지분 70%를 보유하고 있으며, 전라북도 정읍에 저온분해 유화설비 공장을 구축을 완료하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사는 제품 수출 및 원재료 수입 거래 등으로 인해 USD 등의 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"보고기간 종료일 현재 이자율변동위험에 노출된 변동금리부 금융자산 및 금융부채는 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/032820_20260323001668.txt"
+}

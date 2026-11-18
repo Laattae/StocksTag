@@ -1,0 +1,256 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "냉장고",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "HS | 제품/상품/기타 | 냉장고, 세탁기, 청소기 등 | 가정용 전기제품 및 핵심부품 | LG, DIOS, TROMM, LG SIGNATURE, SIGNATURE KITCHEN SUITE, CordZero, 오브제컬렉션, 등 | 261,259 | 29.3 |"
+    },
+    {
+      "axis": "product",
+      "value": "TV",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "MS | 제품/상품/기타 | TV, 모니터, PC, 사이니지, 오디오 등 | 영상기기, 멀티미디어, 정보 전달 등 | LG SIGNATURE, xboom, LG, 그램 등 | 194,263 | 21.8 |"
+    },
+    {
+      "axis": "product",
+      "value": "카메라모듈",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "이노텍 | 제품/상품/기타 | Optics Solution 등 | Camera Module 등 | - | 218,966 | 24.5 |"
+    },
+    {
+      "axis": "product",
+      "value": "에어컨",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "ES | 제품/상품/기타 | 에어컨, HVAC 등 | 냉난방기기 등 | LG SIGNATURE, WHISEN, PuriCare, 에어로타워 등 | 93,230 | 10.5 |"
+    },
+    {
+      "axis": "product",
+      "value": "텔레매틱스",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "VS | 제품/상품/기타 | 텔레매틱스, AV, AVN, 모터, 인버터, 컨버터 등 | 차량용 통신 및 멀티미디어, 전기자동차 부품 등 | - | 111,357 | 12.5 |"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "VS | 제품/상품/기타 | 텔레매틱스, AV, AVN, 모터, 인버터, 컨버터 등 | 차량용 통신 및 멀티미디어, 전기자동차 부품 등 | - | 111,357 | 12.5 |"
+    },
+    {
+      "axis": "customer",
+      "value": "Best Buy",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "HOME DEPOT",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LOWE'S",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "HS | Steel | HS제품 철판물 | 14,602 | 13.1 | ㈜포스코 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "HS | Resin | HS제품 사출물 | 8,077 | 7.3 | ㈜LG화학 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LCD 모듈",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "MS | LCD 모듈 | 영상기기 Display | 41,242 | 38.3 | 엘지디스플레이㈜, BOE 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Image Sensor",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "이노텍 | Image Sensor | 광학 원재료 | 64,363 | 37.0 | Sony, ST Micro 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Actuator",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "이노텍 | Actuator | 광학 원재료 | 37,857 | 21.7 | Alps, Mitsumi 등 |"
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "대한민국 | 365,941 | 356,758 | 342,719 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.26,
+      "direction": null,
+      "evidence": "미주 | 229,352 | 228,959 | 214,949 |"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "유럽 | 137,709 | 136,229 | 121,293 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "아시아 및 아프리카 등 | 159,007 | 155,336 | 143,666 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 전 세계적으로 영업활동을 영위하고 있어 다양한 통화의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동 금리부 조건의 예금과 차입금에서 발생하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인스타뷰 냉장고",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "북미ㆍ유럽 중심의 선진국에서는 Life Style과 소비방식의 변화에 따라 인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "워시타워",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "북미ㆍ유럽 중심의 선진국에서는 Life Style과 소비방식의 변화에 따라 인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "OLED TV",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "당사는 TV사업 분야에서 13년 연속 시장점유율 1위를 유지하고 있는 OLED TV와 초슬림 QNED LCD TV를 중심으로 프리미엄 TV 시장에서의 지위를 강화하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "텔레매틱스",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "VS부문은 차량용 인포테인먼트(헤드유닛, 텔레매틱스, 디스플레이 등) 제품, 전기차용 구동부품(모터ㆍ인버터 등), 자동차 램프 및 보안용 SW를 생산ㆍ판매ㆍ제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "카메라모듈",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "카메라모듈(Camera Module) 산업은 고부가가치의 기술 집약적 산업으로, 이미지 센서, 광학설계, 정밀기구, 반도체 패키징, 소프트웨어 기술이 복합적으로 결합되는 융ㆍ복합 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터 센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "산업용 HVAC분야에서는 AI 데이터 센터용 냉각솔루션의 대규모 잠재수요에 대한 기대가 높아지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아울러 차량용 카메라는 자율주행 및 ADAS(첨단 운전자 지원 시스템) 기술 발전에 따라 고해상도ㆍ고신뢰성 카메라의 채용이 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "스마트폰 시장의 성숙으로 전체 출하량 성장에는 한계가 예상되나, 카메라 기능을 중심으로 한 프리미엄화 전략과 고사양 멀티 카메라 채택 확대에 따라 카메라모듈 산업의 성장세는 유지될 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특히 데이터센터는 AI 서버 확산과 함께 신규 구축 및 증설 수요가 지속되며, 고성능 냉각 설비를 중심으로 중장기적인 성장성이 기대되는 대표적인 신성장 적용 분야로 평가되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "디스플레이 패널",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아울러, 디스플레이 패널을 주요 부품으로 하는 TV, IT및 인포메이션 디스플레이 제품들은 중국, 대만, 한국 중심으로 형성된 패널 공급망 의존도가 높아"
+    },
+    {
+      "axis": "raw_material",
+      "value": "메모리 반도체",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "최근 대두된 메모리 반도체의 수급 이슈는 장기화될 경우 PC등 해당부품 소요량이 많은 제품의 원가상승으로 이어져, 판가 인상 압력으로 작용될 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "글로벌 원자재",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.15,
+      "direction": 1,
+      "evidence": "주요국의 경기선행지수 개선 및 기준금리 인하로 시장 회복세를 기대하였으나 전쟁 등의 지정학적 리스크 해소 지연과 미국의 관세 정책 변화로 인해 지역별 시장 불확실성 지속되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "해상운임",
+      "weight": 0.1,
+      "direction": -1,
+      "evidence": "글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉장고\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"HS | 제품/상품/기타 | 냉장고, 세탁기, 청소기 등 | 가정용 전기제품 및 핵심부품 | LG, DIOS, TROMM, LG SIGNATURE, SIGNATURE KITCHEN SUITE, CordZero, 오브제컬렉션, 등 | 261,259 | 29.3 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"MS | 제품/상품/기타 | TV, 모니터, PC, 사이니지, 오디오 등 | 영상기기, 멀티미디어, 정보 전달 등 | LG SIGNATURE, xboom, LG, 그램 등 | 194,263 | 21.8 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카메라모듈\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"이노텍 | 제품/상품/기타 | Optics Solution 등 | Camera Module 등 | - | 218,966 | 24.5 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에어컨\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"ES | 제품/상품/기타 | 에어컨, HVAC 등 | 냉난방기기 등 | LG SIGNATURE, WHISEN, PuriCare, 에어로타워 등 | 93,230 | 10.5 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"텔레매틱스\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"VS | 제품/상품/기타 | 텔레매틱스, AV, AVN, 모터, 인버터, 컨버터 등 | 차량용 통신 및 멀티미디어, 전기자동차 부품 등 | - | 111,357 | 12.5 |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"VS | 제품/상품/기타 | 텔레매틱스, AV, AVN, 모터, 인버터, 컨버터 등 | 차량용 통신 및 멀티미디어, 전기자동차 부품 등 | - | 111,357 | 12.5 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Best Buy\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"HOME DEPOT\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LOWE'S\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다. 2025년 주요 10대 매출처에 대한 매출 비중은 연결회사 매출액의 31.5% 수준입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Steel\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"HS | Steel | HS제품 철판물 | 14,602 | 13.1 | ㈜포스코 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Resin\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"HS | Resin | HS제품 사출물 | 8,077 | 7.3 | ㈜LG화학 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LCD 모듈\",\n      \"weight\": 0.38,\n      \"direction\": null,\n      \"evidence\": \"MS | LCD 모듈 | 영상기기 Display | 41,242 | 38.3 | 엘지디스플레이㈜, BOE 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Image Sensor\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"이노텍 | Image Sensor | 광학 원재료 | 64,363 | 37.0 | Sony, ST Micro 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Actuator\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"이노텍 | Actuator | 광학 원재료 | 37,857 | 21.7 | Alps, Mitsumi 등 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"대한민국 | 365,941 | 356,758 | 342,719 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.26,\n      \"direction\": null,\n      \"evidence\": \"미주 | 229,352 | 228,959 | 214,949 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"유럽 | 137,709 | 136,229 | 121,293 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"아시아 및 아프리카 등 | 159,007 | 155,336 | 143,666 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 전 세계적으로 영업활동을 영위하고 있어 다양한 통화의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동 금리부 조건의 예금과 차입금에서 발생하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"인스타뷰 냉장고\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"북미ㆍ유럽 중심의 선진국에서는 Life Style과 소비방식의 변화에 따라 인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"워시타워\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"북미ㆍ유럽 중심의 선진국에서는 Life Style과 소비방식의 변화에 따라 인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"OLED TV\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"당사는 TV사업 분야에서 13년 연속 시장점유율 1위를 유지하고 있는 OLED TV와 초슬림 QNED LCD TV를 중심으로 프리미엄 TV 시장에서의 지위를 강화하고 있으며\"}, {\"axis\": \"product\", \"value\": \"텔레매틱스\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"VS부문은 차량용 인포테인먼트(헤드유닛, 텔레매틱스, 디스플레이 등) 제품, 전기차용 구동부품(모터ㆍ인버터 등), 자동차 램프 및 보안용 SW를 생산ㆍ판매ㆍ제공하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"카메라모듈\", \"weight\": 0.24, \"direction\": null, \"evidence\": \"카메라모듈(Camera Module) 산업은 고부가가치의 기술 집약적 산업으로, 이미지 센서, 광학설계, 정밀기구, 반도체 패키징, 소프트웨어 기술이 복합적으로 결합되는 융ㆍ복합 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"AI 데이터 센터\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"산업용 HVAC분야에서는 AI 데이터 센터용 냉각솔루션의 대규모 잠재수요에 대한 기대가 높아지고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"자율주행\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"아울러 차량용 카메라는 자율주행 및 ADAS(첨단 운전자 지원 시스템) 기술 발전에 따라 고해상도ㆍ고신뢰성 카메라의 채용이 확대되고 있으며\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"스마트폰 시장의 성숙으로 전체 출하량 성장에는 한계가 예상되나, 카메라 기능을 중심으로 한 프리미엄화 전략과 고사양 멀티 카메라 채택 확대에 따라 카메라모듈 산업의 성장세는 유지될 것으로 전망됩니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"특히 데이터센터는 AI 서버 확산과 함께 신규 구축 및 증설 수요가 지속되며, 고성능 냉각 설비를 중심으로 중장기적인 성장성이 기대되는 대표적인 신성장 적용 분야로 평가되고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"디스플레이 패널\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"아울러, 디스플레이 패널을 주요 부품으로 하는 TV, IT및 인포메이션 디스플레이 제품들은 중국, 대만, 한국 중심으로 형성된 패널 공급망 의존도가 높아\"}, {\"axis\": \"raw_material\", \"value\": \"메모리 반도체\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"최근 대두된 메모리 반도체의 수급 이슈는 장기화될 경우 PC등 해당부품 소요량이 많은 제품의 원가상승으로 이어져, 판가 인상 압력으로 작용될 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다.\"}, {\"axis\": \"exposure\", \"value\": \"글로벌 원자재\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다.\"}, {\"axis\": \"exposure\", \"value\": \"기준금리\", \"weight\": 0.15, \"direction\": 1, \"evidence\": \"주요국의 경기선행지수 개선 및 기준금리 인하로 시장 회복세를 기대하였으나 전쟁 등의 지정학적 리스크 해소 지연과 미국의 관세 정책 변화로 인해 지역별 시장 불확실성 지속되고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"해상운임\", \"weight\": 0.1, \"direction\": -1, \"evidence\": \"글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/066570_20260706000276.txt"
+}

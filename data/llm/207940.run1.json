@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "항체의약품",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "CDMO | 제품 등 | 항체의약품 | 43,583 | 95.6% | 33,804 | 96.7% | 26,554 | 90.4%"
+    },
+    {
+      "axis": "product",
+      "value": "바이오의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "삼성바이오로직스는 바이오의약품 위탁생산 및 세포주ㆍ공정 개발 서비스를 제공하는 CDMO(Contract Development and Manufacturing Organization) 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "mRNA",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "ADC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "세포/유전자 치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "글락소스미스클라인",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여"
+    },
+    {
+      "axis": "customer",
+      "value": "Sun Pharma Global FZE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "바이오의약품 | Sun Pharma Global FZE | 바이오의약품 위탁생산 | 2017.07.04 | - | 55.5"
+    },
+    {
+      "axis": "customer",
+      "value": "Baxter Healthcare Corporation",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "바이오의약품 | Baxter Healthcare Corporation | 바이오의약품 위탁생산 | 2017.07.20 | 2034.12.31 | 223"
+    },
+    {
+      "axis": "customer",
+      "value": "UCB",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "바이오의약품 | UCB | 바이오의약품 위탁생산 | 2017.12.21 | 2030.12.31 | 394.3"
+    },
+    {
+      "axis": "customer",
+      "value": "TG Therapeutics, Inc.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "바이오의약품 | TG Therapeutics, Inc. | 바이오의약품 위탁생산 | 2018.02.21 | 2026.12.31 | 50.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "CDMO | 원재료 | Resin 등 | 7,464 | - Global Life Sciences Solutions Singapore Pte.Ltd., 써모피셔사이언티픽 솔루션스 유한회사, 씨그마알드리치코리아 유한회사 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Filter",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부재료 | Filter 등 | 4,034 | - 머크 주식회사, 싸토리우스코리아바이오텍 유한회사, 주식회사 아이마켓코리아 등"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 보고서 제출일 기준 인천 송도에 위치한 인천경제자유구역 내에 총 78만 5천리터(1공장 3만, 2공장 15만 5천, 3공장 18만, 4공장 24만, 5공장 18만 리터)의 생산 용량을 보유하고 있습"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 12월에는 미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한 글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여 보고서 제출일현재 인수 절차를 진행 중입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "CDO 사업의 경우에는 중소형 Biotech 중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발 및 임상 지연 등 일부 영향을 받을 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"항체의약품\", \"weight\": 0.95, \"direction\": null, \"evidence\": \"CDMO | 제품 등 | 항체의약품 | 43,583 | 95.6% | 33,804 | 96.7% | 26,554 | 90.4%\"}, {\"axis\": \"product\", \"value\": \"바이오의약품\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"삼성바이오로직스는 바이오의약품 위탁생산 및 세포주ㆍ공정 개발 서비스를 제공하는 CDMO(Contract Development and Manufacturing Organization) 사업을 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"mRNA\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며\"}, {\"axis\": \"product\", \"value\": \"ADC\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며\"}, {\"axis\": \"product\", \"value\": \"세포/유전자 치료제\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"글락소스미스클라인\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여\"}, {\"axis\": \"customer\", \"value\": \"Sun Pharma Global FZE\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"바이오의약품 | Sun Pharma Global FZE | 바이오의약품 위탁생산 | 2017.07.04 | - | 55.5\"}, {\"axis\": \"customer\", \"value\": \"Baxter Healthcare Corporation\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"바이오의약품 | Baxter Healthcare Corporation | 바이오의약품 위탁생산 | 2017.07.20 | 2034.12.31 | 223\"}, {\"axis\": \"customer\", \"value\": \"UCB\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"바이오의약품 | UCB | 바이오의약품 위탁생산 | 2017.12.21 | 2030.12.31 | 394.3\"}, {\"axis\": \"customer\", \"value\": \"TG Therapeutics, Inc.\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"바이오의약품 | TG Therapeutics, Inc. | 바이오의약품 위탁생산 | 2018.02.21 | 2026.12.31 | 50.3\"}, {\"axis\": \"raw_material\", \"value\": \"Resin\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"CDMO | 원재료 | Resin 등 | 7,464 | - Global Life Sciences Solutions Singapore Pte.Ltd., 써모피셔사이언티픽 솔루션스 유한회사, 씨그마알드리치코리아 유한회사 등\"}, {\"axis\": \"raw_material\", \"value\": \"Filter\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"부재료 | Filter 등 | 4,034 | - 머크 주식회사, 싸토리우스코리아바이오텍 유한회사, 주식회사 아이마켓코리아 등\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 보고서 제출일 기준 인천 송도에 위치한 인천경제자유구역 내에 총 78만 5천리터(1공장 3만, 2공장 15만 5천, 3공장 18만, 4공장 24만, 5공장 18만 리터)의 생산 용량을 보유하고 있습\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2025년 12월에는 미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한 글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여 보고서 제출일현재 인수 절차를 진행 중입니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"CDO 사업의 경우에는 중소형 Biotech 중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발 및 임상 지연 등 일부 영향을 받을 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/207940_20260515001658.txt"
+}

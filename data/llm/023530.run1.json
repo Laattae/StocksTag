@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.243,
+      "direction": null,
+      "evidence": "2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%"
+    },
+    {
+      "axis": "product",
+      "value": "할인점",
+      "weight": 0.398,
+      "direction": null,
+      "evidence": "할인점 부문이 5조 4,713억원으로 39.8%이며"
+    },
+    {
+      "axis": "product",
+      "value": "전자제품전문점",
+      "weight": 0.167,
+      "direction": null,
+      "evidence": "전자제품 전문점 부문이 2조 3,001억원으로 16.7%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "슈퍼",
+      "weight": 0.089,
+      "direction": null,
+      "evidence": "슈퍼 부문은 1조 2,261억원으로 전체의 8.9%이며"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.066,
+      "direction": null,
+      "evidence": "홈쇼핑 부문은 9,023억원으로 전체의 6.6%이고"
+    },
+    {
+      "axis": "product",
+      "value": "영화상영업",
+      "weight": 0.032,
+      "direction": null,
+      "evidence": "영화상영업 부문은 4,345억원으로 전체의 3.2%"
+    },
+    {
+      "axis": "product",
+      "value": "이커머스",
+      "weight": 0.008,
+      "direction": null,
+      "evidence": "이커머스 부문은 1,089억원으로 전체의 0.8%"
+    },
+    {
+      "axis": "customer",
+      "value": "일반소비자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개)"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "롯데쇼핑 에비뉴 인도네시아 (롯데몰 자카르타점) | 인도네시아 자카르타"
+    },
+    {
+      "axis": "exposure",
+      "value": "소비지출",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "타임빌라스는 백화점 / 아울렛 / 쇼핑몰의 강점을 결합한 Convergence 모델 기반으로"
+    },
+    {
+      "axis": "product",
+      "value": "할인점",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "할인점은 대량구매, 대량진열, 저마진의 고회전, 셀프서비스 등 생산, 유통, 판매 구조를 합리화시켜"
+    },
+    {
+      "axis": "product",
+      "value": "슈퍼마켓",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "슈퍼마켓은 근거리 지역 상권에서 일상생활에 필요한 식료품과 생필품을 원스톱으로 구매할 수 있도록 지역별 특성을 반영한 유통업태입니다."
+    },
+    {
+      "axis": "product",
+      "value": "이커머스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "e커머스(전자상거래)는 인터넷 웹사이트상에 구축된 가상의 상점을 통해 제품과 서비스를 사고 파는 모든 행위를 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전자제품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전자제품 전문점은 전자제품을 전문적으로 판매하는 유통업태로 롯데하이마트, 전자랜드와 같은 '카테고리킬러(Category Killer)'형 전문점과"
+    },
+    {
+      "axis": "product",
+      "value": "TV홈쇼핑",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "홈쇼핑사는 방송통신위원회의 승인 하에 TV매체를 통해 시청자에게 상품의 특성과 정보를 제공하고"
+    },
+    {
+      "axis": "product",
+      "value": "영화상영",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "영화 시장의 성장에 따라 상영관은 단순한 영화상영에 그치지 않고 쇼핑, 오락, 레져등의 종합 Entertainment Platform의 기능을 갖춘 멀티플렉스로 변화했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "리츠",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당해 회사는 부동산투자회사법에 따라 설립된 명목회사(Paper Company)로서 다수의 법인 및 개인 투자자들로부터 자금을 확보하여 부동산의 취득ㆍ관리ㆍ계량 및 처분"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "롯데백화점은 베트남 3개, 인도네시아 1개로 총 4개의 해외점포를 운영 중입니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2013년 6월 롯데쇼핑 에비뉴(자카르타점)를 인도네시아에 오픈하였고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다만, 정부의 부동산 정책(세금, 대출 등) 및 금리변동에 따라, 부동산 전체 시장(주거용, 상업용)의 변동이 발생할 수 있습니다."
+    },
+    {
+      "axis": " exposure",
+      "value": "부동산 경기",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "부동산 경기가 활성화 되어 소비 심리가 개선되고, 택지 개발 및 신규 아파트 공급이 확대되면 이사 수요가 늘어나 전자제품의 신규 구입이나 교체로 이어질 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.243,\n      \"direction\": null,\n      \"evidence\": \"2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할인점\",\n      \"weight\": 0.398,\n      \"direction\": null,\n      \"evidence\": \"할인점 부문이 5조 4,713억원으로 39.8%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자제품전문점\",\n      \"weight\": 0.167,\n      \"direction\": null,\n      \"evidence\": \"전자제품 전문점 부문이 2조 3,001억원으로 16.7%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"슈퍼\",\n      \"weight\": 0.089,\n      \"direction\": null,\n      \"evidence\": \"슈퍼 부문은 1조 2,261억원으로 전체의 8.9%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홈쇼핑\",\n      \"weight\": 0.066,\n      \"direction\": null,\n      \"evidence\": \"홈쇼핑 부문은 9,023억원으로 전체의 6.6%이고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화상영업\",\n      \"weight\": 0.032,\n      \"direction\": null,\n      \"evidence\": \"영화상영업 부문은 4,345억원으로 전체의 3.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이커머스\",\n      \"weight\": 0.008,\n      \"direction\": null,\n      \"evidence\": \"이커머스 부문은 1,089억원으로 전체의 0.8%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"일반소비자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"롯데쇼핑 에비뉴 인도네시아 (롯데몰 자카르타점) | 인도네시아 자카르타\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"소비지출\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"타임빌라스는 백화점 / 아울렛 / 쇼핑몰의 강점을 결합한 Convergence 모델 기반으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할인점\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"할인점은 대량구매, 대량진열, 저마진의 고회전, 셀프서비스 등 생산, 유통, 판매 구조를 합리화시켜\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"슈퍼마켓\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"슈퍼마켓은 근거리 지역 상권에서 일상생활에 필요한 식료품과 생필품을 원스톱으로 구매할 수 있도록 지역별 특성을 반영한 유통업태입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이커머스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"e커머스(전자상거래)는 인터넷 웹사이트상에 구축된 가상의 상점을 통해 제품과 서비스를 사고 파는 모든 행위를 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자제품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전자제품 전문점은 전자제품을 전문적으로 판매하는 유통업태로 롯데하이마트, 전자랜드와 같은 '카테고리킬러(Category Killer)'형 전문점과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV홈쇼핑\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"홈쇼핑사는 방송통신위원회의 승인 하에 TV매체를 통해 시청자에게 상품의 특성과 정보를 제공하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화상영\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"영화 시장의 성장에 따라 상영관은 단순한 영화상영에 그치지 않고 쇼핑, 오락, 레져등의 종합 Entertainment Platform의 기능을 갖춘 멀티플렉스로 변화했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리츠\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당해 회사는 부동산투자회사법에 따라 설립된 명목회사(Paper Company)로서 다수의 법인 및 개인 투자자들로부터 자금을 확보하여 부동산의 취득ㆍ관리ㆍ계량 및 처분\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"롯데백화점은 베트남 3개, 인도네시아 1개로 총 4개의 해외점포를 운영 중입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2013년 6월 롯데쇼핑 에비뉴(자카르타점)를 인도네시아에 오픈하였고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"다만, 정부의 부동산 정책(세금, 대출 등) 및 금리변동에 따라, 부동산 전체 시장(주거용, 상업용)의 변동이 발생할 수 있습니다.\"\n    },\n    {\n      \"axis\": \" exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"부동산 경기가 활성화 되어 소비 심리가 개선되고, 택지 개발 및 신규 아파트 공급이 확대되면 이사 수요가 늘어나 전자제품의 신규 구입이나 교체로 이어질 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/023530_20260312001405.txt"
+}

@@ -1,0 +1,38 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "소셜카지노",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사와 그 종속기업(이하 '연결회사')은 페이스북, iOS, Google 등 모바일 플랫폼과 웹 플랫폼을 통해 더블유카지노(DoubleU Casino), 더블다운카지노(DoubleDown Casino), 머지스튜디오(Merge Studio: Fashion Makeover) 등 다양한 소셜카지노, 캐주얼 게임을 개발 및 서비스하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "캐주얼 게임",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사와 그 종속기업(이하 '연결회사')은 페이스북, iOS, Google 등 모바일 플랫폼과 웹 플랫폼을 통해 더블유카지노(DoubleU Casino), 더블다운카지노(DoubleDown Casino), 머지스튜디오(Merge Studio: Fashion Makeover) 등 다양한 소셜카지노, 캐주얼 게임을 개발 및 서비스하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "아이게이밍",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "또한 연결회사는 게임 사업 외에도 아이게이밍 사업을 영위하고 있으며, 해당 사업부문의 주요 서비스 플랫폼과 매출비중은 아래와 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결기업은 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화와 관련된 환율 변동 위험에 노출돼 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"소셜카지노\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사와 그 종속기업(이하 '연결회사')은 페이스북, iOS, Google 등 모바일 플랫폼과 웹 플랫폼을 통해 더블유카지노(DoubleU Casino), 더블다운카지노(DoubleDown Casino), 머지스튜디오(Merge Studio: Fashion Makeover) 등 다양한 소셜카지노, 캐주얼 게임을 개발 및 서비스하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캐주얼 게임\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사와 그 종속기업(이하 '연결회사')은 페이스북, iOS, Google 등 모바일 플랫폼과 웹 플랫폼을 통해 더블유카지노(DoubleU Casino), 더블다운카지노(DoubleDown Casino), 머지스튜디오(Merge Studio: Fashion Makeover) 등 다양한 소셜카지노, 캐주얼 게임을 개발 및 서비스하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이게이밍\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"또한 연결회사는 게임 사업 외에도 아이게이밍 사업을 영위하고 있으며, 해당 사업부문의 주요 서비스 플랫폼과 매출비중은 아래와 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"연결기업은 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화와 관련된 환율 변동 위험에 노출돼 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/192080_20260724000595.txt"
+}

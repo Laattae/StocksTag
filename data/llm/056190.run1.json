@@ -1,0 +1,100 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "물류시스템",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "공정장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "조립 및 테스트 제품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체패키징사업은 연결종속회사인 SFA반도체가 반도체 제조 관련 후공정부문에서 조립 및 테스트 제품을 주력으로 공급하는 사업부문으로서"
+    },
+    {
+      "axis": "product",
+      "value": "OHT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "OHT, Lifter, Stocker, Application Tester 등을 성공적으로 품목 포트폴리오에 편입시킴과 동시에 국내의 기존 고객사는 물론 국내외 신규 고객사로부터의 수주 실적을 점차 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Application Tester",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "OHT, Lifter, Stocker, Application Tester 등을 성공적으로 품목 포트폴리오에 편입시킴과 동시에 국내의 기존 고객사는 물론 국내외 신규 고객사로부터의 수주 실적을 점차 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유통",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "국내표준부품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자동화설비 | 원재료(부품) | 국내표준부품 | 설비구성품 | 108,224 | 18.8% | 136,430 | 20.1% | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "해외표준부품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해외표준부품 | 설비구성품 | 28,277 | 4.9% | 20,537 | 3.0% | -"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "direction": null,
+      "evidence": "당사는 외화결제 매출 및 매입 거래와 관련한 환위험을 부담하고 있는 바, 특히 미국 달러화 및 일본 엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "direction": null,
+      "evidence": "이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 차입금과 예금에서 발생하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류시스템\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공정장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"조립 및 테스트 제품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체패키징사업은 연결종속회사인 SFA반도체가 반도체 제조 관련 후공정부문에서 조립 및 테스트 제품을 주력으로 공급하는 사업부문으로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OHT\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"OHT, Lifter, Stocker, Application Tester 등을 성공적으로 품목 포트폴리오에 편입시킴과 동시에 국내의 기존 고객사는 물론 국내외 신규 고객사로부터의 수주 실적을 점차 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Application Tester\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"OHT, Lifter, Stocker, Application Tester 등을 성공적으로 품목 포트폴리오에 편입시킴과 동시에 국내의 기존 고객사는 물론 국내외 신규 고객사로부터의 수주 실적을 점차 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이차전지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유통\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"국내표준부품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자동화설비 | 원재료(부품) | 국내표준부품 | 설비구성품 | 108,224 | 18.8% | 136,430 | 20.1% | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"해외표준부품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"해외표준부품 | 설비구성품 | 28,277 | 4.9% | 20,537 | 3.0% | -\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"direction\": null,\n      \"evidence\": \"당사는 외화결제 매출 및 매입 거래와 관련한 환위험을 부담하고 있는 바, 특히 미국 달러화 및 일본 엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"direction\": null,\n      \"evidence\": \"이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 차입금과 예금에서 발생하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/056190_20260610000400.txt"
+}

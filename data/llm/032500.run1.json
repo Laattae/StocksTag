@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "SYSTEM 류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "RF부문 | SYSTEM 류 | 2,145 | 2.2% | 13,479 | 15.4% | 5,262 | 5.3%"
+    },
+    {
+      "axis": "product",
+      "value": "ANTENNA 류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "ANTENNA 류 | 18,974 | 19.5% | 23,383 | 26.8% | 13,159 | 13.2%"
+    },
+    {
+      "axis": "product",
+      "value": "FILTER 류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "FILTER 류 및 기타 | 57,283 | 58.7% | 35,195 | 40.3% | 63,441 | 63.4%"
+    },
+    {
+      "axis": "product",
+      "value": "LED조명",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "LED부문 | LED조명 | 19,117 | 19.6% | 15,300 | 17.5% | 18,206 | 18.1%"
+    },
+    {
+      "axis": "application",
+      "value": "무선통신 기지국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 및 종속회사는(이하 연결실체) 무선통신 기지국에 장착되는 각종 장비 및 부품류 등을 생산, 판매하는 RF사업"
+    },
+    {
+      "axis": "application",
+      "value": "스포츠 조명",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "스포츠 조명, 실외조명 등을 생산, 판매하는 LED사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Samsung Electronics",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "RF부문 | Samsung Electronics | 47.8%"
+    },
+    {
+      "axis": "customer",
+      "value": "ZTE",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "ZTE | 16.2%"
+    },
+    {
+      "axis": "customer",
+      "value": "Fujitsu",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Fujitsu | 4.2%"
+    },
+    {
+      "axis": "customer",
+      "value": "Rakuten",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Rakuten | 3.1%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "회로품 류",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "RF부문 | 원재료 | 회로품 류 | 무선통신장비 내 기능성, 외장성 자재 | 3.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "cable/connector 류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "cable/connector 류 | 8.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB A`ssy 류",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PCB A`ssy 류 | 4.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "면삭 및 선삭 류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "면삭 및 선삭 류 | 53.7"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LED CHIP",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "LED부문 | 원재료 | LED CHIP | LED조명의 광원 | 1.7"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(주)케이엠더블유 | 한국 경기도 화성, 안성"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Huatian Telecom, Inc. | 중국 XIAN"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "KMW VIETNAM Co., Ltd. | 베트남 HANAM"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결기업은 해외 영업활동과 원재료 매입 및 자금조달과 관련하여 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"SYSTEM 류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"RF부문 | SYSTEM 류 | 2,145 | 2.2% | 13,479 | 15.4% | 5,262 | 5.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ANTENNA 류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"ANTENNA 류 | 18,974 | 19.5% | 23,383 | 26.8% | 13,159 | 13.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FILTER 류\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"FILTER 류 및 기타 | 57,283 | 58.7% | 35,195 | 40.3% | 63,441 | 63.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LED조명\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"LED부문 | LED조명 | 19,117 | 19.6% | 15,300 | 17.5% | 18,206 | 18.1%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"무선통신 기지국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사 및 종속회사는(이하 연결실체) 무선통신 기지국에 장착되는 각종 장비 및 부품류 등을 생산, 판매하는 RF사업\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스포츠 조명\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"스포츠 조명, 실외조명 등을 생산, 판매하는 LED사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Samsung Electronics\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"RF부문 | Samsung Electronics | 47.8%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ZTE\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"ZTE | 16.2%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Fujitsu\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Fujitsu | 4.2%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Rakuten\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Rakuten | 3.1%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"회로품 류\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"RF부문 | 원재료 | 회로품 류 | 무선통신장비 내 기능성, 외장성 자재 | 3.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"cable/connector 류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"cable/connector 류 | 8.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB A`ssy 류\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PCB A`ssy 류 | 4.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"면삭 및 선삭 류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"면삭 및 선삭 류 | 53.7\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LED CHIP\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"LED부문 | 원재료 | LED CHIP | LED조명의 광원 | 1.7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(주)케이엠더블유 | 한국 경기도 화성, 안성\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Huatian Telecom, Inc. | 중국 XIAN\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"KMW VIETNAM Co., Ltd. | 베트남 HANAM\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결기업은 해외 영업활동과 원재료 매입 및 자금조달과 관련하여 환위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/032500_20260319000852.txt"
+}

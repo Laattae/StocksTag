@@ -1,0 +1,64 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "열",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 열, 냉수, 전기입니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.53,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 열, 냉수, 전기입니다."
+    },
+    {
+      "axis": "product",
+      "value": "냉수",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 열, 냉수, 전기입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.83,
+      "evidence": "원재료명 : LNG, 비율 : 82.7"
+    },
+    {
+      "axis": "raw_material",
+      "value": "수열",
+      "weight": 0.15,
+      "evidence": "원재료명 : 수열, 비율 : 15.4"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LSFO",
+      "weight": 0.01,
+      "evidence": "원재료명 : LSFO, 비율 : 0.7"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제품가격은 국제유가, 환율변동 등에 따른 연료비 증감 및 전력수급 여건 변화에 따라 변동되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제품가격은 국제유가, 환율변동 등에 따른 연료비 증감 및 전력수급 여건 변화에 따라 변동되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"열\",\n      \"weight\": 0.44,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 열, 냉수, 전기입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.53,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 열, 냉수, 전기입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉수\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 열, 냉수, 전기입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.83,\n      \"evidence\": \"원재료명 : LNG, 비율 : 82.7\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"수열\",\n      \"weight\": 0.15,\n      \"evidence\": \"원재료명 : 수열, 비율 : 15.4\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LSFO\",\n      \"weight\": 0.01,\n      \"evidence\": \"원재료명 : LSFO, 비율 : 0.7\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"제품가격은 국제유가, 환율변동 등에 따른 연료비 증감 및 전력수급 여건 변화에 따라 변동되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"제품가격은 국제유가, 환율변동 등에 따른 연료비 증감 및 전력수급 여건 변화에 따라 변동되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/071320_20260313000652.txt"
+}

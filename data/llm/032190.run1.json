@@ -1,0 +1,288 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "소프트웨어",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "컴퓨터 하드웨어",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "결제시스템",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화 및 만화 콘텐츠",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "영화 및 만화 콘텐츠의 투자, 제작 및 배급 업무"
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 웹툰 플랫폼 사업과의 시너지 창출 및 안정적 수익 기반 확보, 웹툰 스튜디오 제작IP 확보를 통한 시장 경쟁력 강화"
+    },
+    {
+      "axis": "application",
+      "value": "인터넷쇼핑몰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대금결제사(신용카드사, 은행, 전자화폐 등)와 가맹점(인터넷쇼핑몰, 게임사 등) 사이에서 결제를 중개하고 처리하는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "게임",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대금결제사(신용카드사, 은행, 전자화폐 등)와 가맹점(인터넷쇼핑몰, 게임사 등) 사이에서 결제를 중개하고 처리하는 산업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "결제 산업은 경기 변동에 매우 민감하게 반응하는 특성을 가지고 있습니다. 경기 침체 시 소비자들의 소비 심리가 위축되며 매출이 감소하고, 경기 회복 시 내수 경제가 활성화되면서 수익 개선이 기대됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "환율위험은 시장가격의 변화로 인하여 금융상품의 미래현금흐름에 대한 공정가치가변동될 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다."
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "웹툰(Webtoon)은 인터넷(Web)과 만화(Cartoon)의 합성어로, 모바일 콘텐츠 소비 증가와 함께 탄생한 디지털 만화 콘텐츠 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "웹소설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "웹소설은 인터넷과 모바일 플랫폼을 기반으로 연재 및 소비되는 디지털 소설 콘텐츠입니다."
+    },
+    {
+      "axis": "product",
+      "value": "MD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MD(Merchandising) 산업은 영화, 애니메이션, 만화, 웹툰 등의 IP(Intellectual Property)를 활용하여 상품을 기획·제작하는 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "영상",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "영상 산업은 국내 대중문화를 선도하며, 한류 열풍의 대표적인 콘텐츠로 자리매김하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "키움증권은 국내 최초의 온라인 종합증권사로서 투자매매업, 투자중개업, 투자일임업 및 투자자문업을 영위하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국의 웹툰 플랫폼들은 일본, 유럽, 동남아 등 해외 시장에 적극적으로 진출하며 높은 성과를 기록하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "영상 콘텐츠 산업은 문화 소비재의 특성상 소비자의 선호 변화가 빠르고, 트렌드 의존도가 높으며, 경기 영향을 상대적으로 크게 받는 시장입니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "집합투자증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 선택과 집중으로 고객 자산의 증대를 최우선 목표로 주식, 채권 뿐만 아니라 대체투자까지 균형 잡힌 종합 자산운용사로 계열 보험사나 은행 없이 독립적으로 성장하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "상호저축은행은 인터넷전문은행 등 타 업권과의 경쟁심화, 법정최고금리 인하, 건전성 규제강화(부동산PF관련 대손충당금 적립요율 상승) 등 험난한 경영환경 속에서 경쟁하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 글로벌 금융시장은 인공지능(AI) 산업 성장 기대감과 반도체 업황 회복 기대 등에 힘입어"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인공지능(AI) 산업 성장 기대감과 반도체 업황 회복 기대 등에 힘입어 미국 및 국내 증시가 상승세를 보이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "통화정책 변화",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "다만 주요국 통화정책 변화 가능성, 지정학적 리스크 등 금융시장 불확실성 요인은 여전히 존재하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "지정학적 리스크",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "다만 주요국 통화정책 변화 가능성, 지정학적 리스크 등 금융시장 불확실성 요인은 여전히 존재하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "펀드를 설정하고 다수의 투자자에게 자금을 모은 뒤, 이 자금을 운용하여 수익을 나눠 갖는 업무를 주요 업무로 합니다."
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이용자가 선정한 특정물건을 구입 후 임대(리스)하고 일정기간에 걸쳐 사용료를 받는 임대차형식의 물건을 매개로 한 물적금융"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "매수인에게 융자한 재화 및 용역의 구매자금을 매도인에게 지급하고 매수인으로부터 그 원리금을 분할하여 상환받는 방식의 금융"
+    },
+    {
+      "axis": "product",
+      "value": "부실채권",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부실채권 시장은 경제 위기시 규모가 확대되는 경기후행 및 역행적 성격을 띄고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "부동산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "벤처기업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "벤처캐피탈은 벤처기업의 기술성과 성장가능성을 검토하여 투자를 하고, 벤처기업에 자금과 경영서비스 등을 제공함으로써"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "내수경기",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "상호저축은행의 특성상 내수경기 변동과 관련이 있으며, 부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"소프트웨어\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"컴퓨터 하드웨어\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"결제시스템\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"영화 및 만화 콘텐츠\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"영화 및 만화 콘텐츠의 투자, 제작 및 배급 업무\"}, {\"axis\": \"product\", \"value\": \"웹툰\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 웹툰 플랫폼 사업과의 시너지 창출 및 안정적 수익 기반 확보, 웹툰 스튜디오 제작IP 확보를 통한 시장 경쟁력 강화\"}, {\"axis\": \"application\", \"value\": \"인터넷쇼핑몰\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"대금결제사(신용카드사, 은행, 전자화폐 등)와 가맹점(인터넷쇼핑몰, 게임사 등) 사이에서 결제를 중개하고 처리하는 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"게임\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"대금결제사(신용카드사, 은행, 전자화폐 등)와 가맹점(인터넷쇼핑몰, 게임사 등) 사이에서 결제를 중개하고 처리하는 산업입니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"경기 변동\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"결제 산업은 경기 변동에 매우 민감하게 반응하는 특성을 가지고 있습니다. 경기 침체 시 소비자들의 소비 심리가 위축되며 매출이 감소하고, 경기 회복 시 내수 경제가 활성화되면서 수익 개선이 기대됩니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"환율위험은 시장가격의 변화로 인하여 금융상품의 미래현금흐름에 대한 공정가치가변동될 위험입니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다.\"}]}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"웹툰\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"웹툰(Webtoon)은 인터넷(Web)과 만화(Cartoon)의 합성어로, 모바일 콘텐츠 소비 증가와 함께 탄생한 디지털 만화 콘텐츠 산업입니다.\"}, {\"axis\": \"product\", \"value\": \"웹소설\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"웹소설은 인터넷과 모바일 플랫폼을 기반으로 연재 및 소비되는 디지털 소설 콘텐츠입니다.\"}, {\"axis\": \"product\", \"value\": \"MD\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"MD(Merchandising) 산업은 영화, 애니메이션, 만화, 웹툰 등의 IP(Intellectual Property)를 활용하여 상품을 기획·제작하는 산업입니다.\"}, {\"axis\": \"product\", \"value\": \"영상\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"영상 산업은 국내 대중문화를 선도하며, 한류 열풍의 대표적인 콘텐츠로 자리매김하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"키움증권은 국내 최초의 온라인 종합증권사로서 투자매매업, 투자중개업, 투자일임업 및 투자자문업을 영위하고 있으며\"}, {\"axis\": \"region\", \"value\": \"일본\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"한국의 웹툰 플랫폼들은 일본, 유럽, 동남아 등 해외 시장에 적극적으로 진출하며 높은 성과를 기록하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"경기 변동\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"영상 콘텐츠 산업은 문화 소비재의 특성상 소비자의 선호 변화가 빠르고, 트렌드 의존도가 높으며, 경기 영향을 상대적으로 크게 받는 시장입니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 선택과 집중으로 고객 자산의 증대를 최우선 목표로 주식, 채권 뿐만 아니라 대체투자까지 균형 잡힌 종합 자산운용사로 계열 보험사나 은행 없이 독립적으로 성장하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"상호저축은행은 인터넷전문은행 등 타 업권과의 경쟁심화, 법정최고금리 인하, 건전성 규제강화(부동산PF관련 대손충당금 적립요율 상승) 등 험난한 경영환경 속에서 경쟁하고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"application\", \"value\": \"AI 산업\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"2025년 글로벌 금융시장은 인공지능(AI) 산업 성장 기대감과 반도체 업황 회복 기대 등에 힘입어\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"인공지능(AI) 산업 성장 기대감과 반도체 업황 회복 기대 등에 힘입어 미국 및 국내 증시가 상승세를 보이며\"}, {\"axis\": \"exposure\", \"value\": \"통화정책 변화\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"다만 주요국 통화정책 변화 가능성, 지정학적 리스크 등 금융시장 불확실성 요인은 여전히 존재하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"지정학적 리스크\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"다만 주요국 통화정책 변화 가능성, 지정학적 리스크 등 금융시장 불확실성 요인은 여전히 존재하고 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"펀드를 설정하고 다수의 투자자에게 자금을 모은 뒤, 이 자금을 운용하여 수익을 나눠 갖는 업무를 주요 업무로 합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이용자가 선정한 특정물건을 구입 후 임대(리스)하고 일정기간에 걸쳐 사용료를 받는 임대차형식의 물건을 매개로 한 물적금융\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"매수인에게 융자한 재화 및 용역의 구매자금을 매도인에게 지급하고 매수인으로부터 그 원리금을 분할하여 상환받는 방식의 금융\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부실채권\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"부실채권 시장은 경제 위기시 규모가 확대되는 경기후행 및 역행적 성격을 띄고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"부동산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"벤처기업\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"벤처캐피탈은 벤처기업의 기술성과 성장가능성을 검토하여 투자를 하고, 벤처기업에 자금과 경영서비스 등을 제공함으로써\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"내수경기\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"상호저축은행의 특성상 내수경기 변동과 관련이 있으며, 부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/032190_20260320001289.txt"
+}

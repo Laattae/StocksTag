@@ -1,0 +1,116 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "의약품",
+      "synonyms": [
+        "의약",
+        "의약품"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "전장",
+      "synonyms": [
+        "전장",
+        "자동차 전장",
+        "전장사업"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "제약",
+      "synonyms": [
+        "제약",
+        "제약 시장",
+        "제약시장"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "제철",
+      "synonyms": [
+        "제철",
+        "제철산업"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "조선",
+      "synonyms": [
+        "조선해양",
+        "조선·해양",
+        "조선산업",
+        "조선업"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "철강",
+      "synonyms": [
+        "철강",
+        "철강산업"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "철도",
+      "synonyms": [
+        "철도",
+        "철도산업",
+        "철도시스템"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "패션",
+      "synonyms": [
+        "패션",
+        "패션 산업"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "해운",
+      "synonyms": [
+        "해운",
+        "해운산업",
+        "해운업"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "ESS",
+      "synonyms": [
+        "ESS",
+        "전력저장장치(ESS)"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "OTT",
+      "synonyms": [
+        "OTT",
+        "OTT 서비스",
+        "OTT 플랫폼"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "건설",
+      "synonyms": [
+        "건설업",
+        "건설",
+        "건설 사업"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "국방",
+      "synonyms": [
+        "국방용",
+        "국방"
+      ]
+    }
+  ]
+}

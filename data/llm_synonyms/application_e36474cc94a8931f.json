@@ -1,0 +1,120 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "가전",
+      "synonyms": [
+        "가전제품",
+        "가전기기",
+        "가전제조업"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "간암",
+      "synonyms": [
+        "간암 치료"
+      ]
+    },
+    {
+      "group": 4,
+      "canonical": "건설",
+      "synonyms": [
+        "건설업",
+        "건설 사업"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "건축",
+      "synonyms": [
+        "건축 산업",
+        "건축 시장"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "게임",
+      "synonyms": [
+        "게임 산업"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "골프",
+      "synonyms": [
+        "골프 산업"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "공공기관",
+      "synonyms": [
+        "공공부문",
+        "공공 기관"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "관광",
+      "synonyms": [
+        "관광 산업",
+        "관광산업"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "군수",
+      "synonyms": [
+        "군수장비"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "당뇨병",
+      "synonyms": [
+        "당뇨",
+        "제2형 당뇨병",
+        "제2형당뇨병"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "로봇",
+      "synonyms": [
+        "로봇 산업",
+        "로봇산업"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "물류",
+      "synonyms": [
+        "물류산업"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "방위산업",
+      "synonyms": [
+        "방위 산업",
+        "국가방위산업"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "식품",
+      "synonyms": [
+        "식품산업",
+        "식품업계"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "위암",
+      "synonyms": [
+        "위암 치료"
+      ]
+    }
+  ]
+}

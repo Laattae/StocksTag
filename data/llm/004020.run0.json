@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "철근",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "봉형강사업\n | \n 철근, 일반형강, H형강, 특수강 등"
+    },
+    {
+      "axis": "product",
+      "value": "H형강",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "봉형강사업\n | \n 철근, 일반형강, H형강, 특수강 등"
+    },
+    {
+      "axis": "product",
+      "value": "열연",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "판재사업\n | \n 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "냉연",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "판재사업\n | \n 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "후판",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "판재사업\n | \n 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철광석",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "고로 제선의 주원료는 철광석과 석탄으로, 수요량의 대부분을 수입에 의존하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "석탄",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "고로 제선의 주원료는 철광석과 석탄으로, 수요량의 대부분을 수입에 의존하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "전기로 제강의 주원료는 철 스크랩으로 국내외에서 조달하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "미국 전기로 제철소 투자목적 | 투자내용 | 총 투자금액(당사 투자금액) | 미래 성장동력 확보 및중장기 탄소저감 체제 전환 | 미국 자동차강판 특화 전기로 제철소 건설"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "당사는 기능통화 이외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"철근\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"봉형강사업\\n | \\n 철근, 일반형강, H형강, 특수강 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"H형강\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"봉형강사업\\n | \\n 철근, 일반형강, H형강, 특수강 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열연\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"판재사업\\n | \\n 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉연\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"판재사업\\n | \\n 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"후판\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"판재사업\\n | \\n 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철광석\",\n      \"weight\": 0.38,\n      \"direction\": null,\n      \"evidence\": \"고로 제선의 주원료는 철광석과 석탄으로, 수요량의 대부분을 수입에 의존하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석탄\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"고로 제선의 주원료는 철광석과 석탄으로, 수요량의 대부분을 수입에 의존하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"전기로 제강의 주원료는 철 스크랩으로 국내외에서 조달하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"미국 전기로 제철소 투자목적 | 투자내용 | 총 투자금액(당사 투자금액) | 미래 성장동력 확보 및중장기 탄소저감 체제 전환 | 미국 자동차강판 특화 전기로 제철소 건설\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"당사는 기능통화 이외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/004020_20260318001506.txt"
+}

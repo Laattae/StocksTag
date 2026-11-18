@@ -1,0 +1,215 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 산업용 변압기 제조 업체로서, 전력용 변압기와 배전용 변압기를 주로 제조하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "리액터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 주요 품목인 변압기 및 리액터는 맞춤형 수주제품으로 수주 당시 제품의 성격"
+    },
+    {
+      "axis": "product",
+      "value": "소프트스타터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "발열, 샤프트 및 전원케이블 응력을 감소시켜 전기모터 및 시스템의 수명 연장"
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2023년부터는 미국 전력망 교체 및 신규 투자 수요에 힘입어 전력망 관련 매출 비중 또한 동반 상승하면서"
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 경우 신재생 에너지에 대한 투자 수요 증가로 인해 2022년 이후 신재생 에너지 관련 매출이"
+    },
+    {
+      "axis": "application",
+      "value": "해양플랜트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글로벌 배전 변압기 시장 중에서도 신재생 에너지 시장, 전력계통시장 산업용 선박 건조 해양플랜트 및 석유화학 플랜트 건설, 철도 등의 시장으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철도",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "글로벌 배전 변압기 시장 중에서도 신재생 에너지 시장, 전력계통시장 산업용 선박 건조 해양플랜트 및 석유화학 플랜트 건설, 철도 등의 시장으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기강판, 전기절연유,알루미늄, 구리 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기강판, 전기절연유,알루미늄, 구리 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기강판",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전기강판, 전기절연유,알루미늄, 구리 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 경기도 안산시 단원구에 소재한 생산시설에서 주요 제품에 대한 생산활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특히 미국지역에 대한 매출 비중은 2025년 기준 75% 이상 수준으로 주로 미국을 포함한 글로벌 배전 변압기 시장을 주요 목표시장으로 하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "알루미늄 최근 4개년 시세변동 추이.jpg\n알루미늄 최근 4개년 시세변동 추이\n(출처: KOMIS 한국자원정보서비스)"
+    },
+    {
+      "axis": "exposure",
+      "value": "신재생에너지 투자 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "당사의 경우 신재생 에너지에 대한 투자 수요 증가로 인해 2022년 이후 신재생 에너지 관련 매출이 차지하는 비중이 크게 증가한 바 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Global Market Insight에 따른 전세계의 지역 별 배전 변압기 시장 규모는 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "배전 변압기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "배전 변압기(Distribution Transformer) 시장의 경우 주로 주거 및 상업 부문에서의 수요 급증을 바탕으로 성장해 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용 변압기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 변압기는 선박 건조, 해양 플랜트(Offshore Plant), 석유화학 플랜트(Petrochemical Plant), 건설, 철도/철강 등 매우 다양한 분야에서 활용되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "스마트 변압기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "실시간 모니터링 및 진단이 가능한 스마트 변압기 개발과 같은 변압기 기술의 발전은 산업 내 수요를 더욱 증가시키고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광 발전",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "태양광/풍력발전 등 신재생에너지는 소규모, 분산 발전의 특성을 지니고 있어 기존 전력망 안에서의 발전·소비 간 미스매치가 발생하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "풍력 발전",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "태양광/풍력발전 등 신재생에너지는 소규모, 분산 발전의 특성을 지니고 있어 기존 전력망 안에서의 발전·소비 간 미스매치가 발생하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 변압기 수요 성장은 ① 신재생에너지 전력망 구축을 위한 신규 수요, ② 미국 내 노후 전력망 교체 수요, ③ 리쇼어링 정책 등으로 인한 글로벌 공급충격의 세 가지 축으로 발생하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "석유화학 플랜트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "산업용 변압기는 선박 건조, 해양 플랜트(Offshore Plant), 석유화학 플랜트(Petrochemical Plant), 건설, 철도/철강 등 매우 다양한 분야에서 활용되고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "방향성 전기강판",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "① 변압기 핵심 원자재인 방향성 전기강판 공급 문제, ② 미국 내 변압기 자체 생산 업체 감소 및 ③ 기존 글로벌 변압기 생산업체의 고임금, 반덤핑 등으로 인한 미국 내 생산기지 철수 문제가 발생하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "미국의 경우 지속 가능한 자원 통합 및 전통적인 전력 네트워크의 현대화를 국가적으로 추진하기 위한 정부 정책 및 인센티브 프로그램을 시행하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "아시아 태평양 지역에서는 중국 및 인도와 같은 개발도상국의 전력 수요 증가로 인해 성장이 예상되며"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아시아 태평양 지역에서는 중국 및 인도와 같은 개발도상국의 전력 수요 증가로 인해 성장이 예상되며"
+    },
+    {
+      "axis": "exposure",
+      "value": "신재생에너지 투자",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "신재생에너지는 전통 발전방식과는 달리 소규모, 분산발전 중심이며, 이로 인해 현재 중앙 집중적으로 설계되어 있는 대부분의 글로벌 국가 전력망에 이슈가 발생. 분산전원 방식의 신재생에너지가 발달하며 미국 등 여러 국가에서 송배전망 병목현상이 심화되고 있으며, 송배전망을 신규로 확보해야 하는 수요가 발생하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "노후 전력망 교체",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "또한 미국 내 수명이 25 년 이상 노후화된 변압기와 송전선 비중이 70%를 차지하고 있어 노후화 문제가 심각한 상황으로, 미국 연방의회는 인프라법 및 인플레이션 감축법 등 입법을 통해 노후화된 전력 전송시설 교체를 위한 예산을 편성, 송배전망 투자에 따른 변압기 등 전력기기 수요가 증가될 것으로 예상된다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 산업용 변압기 제조 업체로서, 전력용 변압기와 배전용 변압기를 주로 제조하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리액터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 품목인 변압기 및 리액터는 맞춤형 수주제품으로 수주 당시 제품의 성격\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소프트스타터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"발열, 샤프트 및 전원케이블 응력을 감소시켜 전기모터 및 시스템의 수명 연장\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2023년부터는 미국 전력망 교체 및 신규 투자 수요에 힘입어 전력망 관련 매출 비중 또한 동반 상승하면서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 경우 신재생 에너지에 대한 투자 수요 증가로 인해 2022년 이후 신재생 에너지 관련 매출이\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해양플랜트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"글로벌 배전 변압기 시장 중에서도 신재생 에너지 시장, 전력계통시장 산업용 선박 건조 해양플랜트 및 석유화학 플랜트 건설, 철도 등의 시장으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철도\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"글로벌 배전 변압기 시장 중에서도 신재생 에너지 시장, 전력계통시장 산업용 선박 건조 해양플랜트 및 석유화학 플랜트 건설, 철도 등의 시장으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전기강판, 전기절연유,알루미늄, 구리 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전기강판, 전기절연유,알루미늄, 구리 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기강판\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전기강판, 전기절연유,알루미늄, 구리 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 안산시 단원구에 소재한 생산시설에서 주요 제품에 대한 생산활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특히 미국지역에 대한 매출 비중은 2025년 기준 75% 이상 수준으로 주로 미국을 포함한 글로벌 배전 변압기 시장을 주요 목표시장으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"알루미늄 최근 4개년 시세변동 추이.jpg\\n알루미늄 최근 4개년 시세변동 추이\\n(출처: KOMIS 한국자원정보서비스)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"신재생에너지 투자 수요\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"당사의 경우 신재생 에너지에 대한 투자 수요 증가로 인해 2022년 이후 신재생 에너지 관련 매출이 차지하는 비중이 크게 증가한 바 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Global Market Insight에 따른 전세계의 지역 별 배전 변압기 시장 규모는 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배전 변압기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"배전 변압기(Distribution Transformer) 시장의 경우 주로 주거 및 상업 부문에서의 수요 급증을 바탕으로 성장해 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 변압기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 변압기는 선박 건조, 해양 플랜트(Offshore Plant), 석유화학 플랜트(Petrochemical Plant), 건설, 철도/철강 등 매우 다양한 분야에서 활용되고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트 변압기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"실시간 모니터링 및 진단이 가능한 스마트 변압기 개발과 같은 변압기 기술의 발전은 산업 내 수요를 더욱 증가시키고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광 발전\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"태양광/풍력발전 등 신재생에너지는 소규모, 분산 발전의 특성을 지니고 있어 기존 전력망 안에서의 발전·소비 간 미스매치가 발생하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"풍력 발전\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"태양광/풍력발전 등 신재생에너지는 소규모, 분산 발전의 특성을 지니고 있어 기존 전력망 안에서의 발전·소비 간 미스매치가 발생하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 변압기 수요 성장은 ① 신재생에너지 전력망 구축을 위한 신규 수요, ② 미국 내 노후 전력망 교체 수요, ③ 리쇼어링 정책 등으로 인한 글로벌 공급충격의 세 가지 축으로 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유화학 플랜트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"산업용 변압기는 선박 건조, 해양 플랜트(Offshore Plant), 석유화학 플랜트(Petrochemical Plant), 건설, 철도/철강 등 매우 다양한 분야에서 활용되고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"방향성 전기강판\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"① 변압기 핵심 원자재인 방향성 전기강판 공급 문제, ② 미국 내 변압기 자체 생산 업체 감소 및 ③ 기존 글로벌 변압기 생산업체의 고임금, 반덤핑 등으로 인한 미국 내 생산기지 철수 문제가 발생하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"미국의 경우 지속 가능한 자원 통합 및 전통적인 전력 네트워크의 현대화를 국가적으로 추진하기 위한 정부 정책 및 인센티브 프로그램을 시행하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"아시아 태평양 지역에서는 중국 및 인도와 같은 개발도상국의 전력 수요 증가로 인해 성장이 예상되며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"아시아 태평양 지역에서는 중국 및 인도와 같은 개발도상국의 전력 수요 증가로 인해 성장이 예상되며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"신재생에너지 투자\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"신재생에너지는 전통 발전방식과는 달리 소규모, 분산발전 중심이며, 이로 인해 현재 중앙 집중적으로 설계되어 있는 대부분의 글로벌 국가 전력망에 이슈가 발생. 분산전원 방식의 신재생에너지가 발달하며 미국 등 여러 국가에서 송배전망 병목현상이 심화되고 있으며, 송배전망을 신규로 확보해야 하는 수요가 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"노후 전력망 교체\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"또한 미국 내 수명이 25 년 이상 노후화된 변압기와 송전선 비중이 70%를 차지하고 있어 노후화 문제가 심각한 상황으로, 미국 연방의회는 인프라법 및 인플레이션 감축법 등 입법을 통해 노후화된 전력 전송시설 교체를 위한 예산을 편성, 송배전망 투자에 따른 변압기 등 전력기기 수요가 증가될 것으로 예상된다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/062040_20260403003697.txt"
+}

@@ -1,0 +1,173 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장기손해보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "일반보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "개인연금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "손해보험업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "삼성화재해상보험(주)와 그 종속회사가 영위하는 사업은 국내외 손해보험업(국내보험업은 손해보험사가 영위할 수 있는 모든 사업, 해외 손해보험은 해당 국가 보험업 규제에 따른 허용사업)과 관련 규정에 의해 허용된 기타 국내 보험 관련 사업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "영국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 1, 베트남 1, 중국 0, 영국 1, 미국 1, 싱가포르 1, 아랍에미리트 1, 러시아 0"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국지점은 본사의 지점이며, 기타 지점은 해외법인의 지점임"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 1, 베트남 1, 중국 0, 영국 1, 미국 1, 싱가포르 1, 아랍에미리트 1, 러시아 0"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2009년 온라인 자동차보험 브랜드인 '애니카다이렉트'를 출시 후 온라인 직판채널에서 빠른 속도로 성장하여 채널 내 매출 규모 1위로 성장하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "건강상해보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "택배반송보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "재보험",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "캐노피우스사는 영국 런던을 기반으로 원수/재보험을 인수하는 글로벌 특종 보험사로"
+    },
+    {
+      "axis": "product",
+      "value": "손해사정서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "손해사정은 손해발생사실의 확인, 보험약관 및 관련 법규적용의 적정성 판단, 정확한손해액 산정, 보험금 지급 등의 제반 업무를 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "출동서비스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "출동서비스는 고객의 차량에 문제가 생겼을 경우 현장으로 신속하게 출동하여 해결해 주는 서비스로서 발생사유에 따라 사고출동과 고장출동으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "자연재해",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "현재 글로벌 손해보험시장은 최근 몇 년간의 대형 자연재해, 전염병, 지정학적 리스크 등으로 영향으로"
+    },
+    {
+      "axis": "customer",
+      "value": "텐센트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 중국 최대 IT 기업인 텐센트와 협력하여 중국법인을 합작법인 형태로 전환하는 계약을 체결하고"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현재 당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "영국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 2019년 4월 30일 이사회 결의로 영국 로이즈 손보사 지분투자의 건을 결정하였고"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기손해보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인연금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"판매하는 보험상품은 크게 일반보험, 자동차보험, 장기손해보험, 개인연금, 퇴직연금으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"손해보험업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"삼성화재해상보험(주)와 그 종속회사가 영위하는 사업은 국내외 손해보험업(국내보험업은 손해보험사가 영위할 수 있는 모든 사업, 해외 손해보험은 해당 국가 보험업 규제에 따른 허용사업)과 관련 규정에 의해 허용된 기타 국내 보험 관련 사업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"영국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 1, 베트남 1, 중국 0, 영국 1, 미국 1, 싱가포르 1, 아랍에미리트 1, 러시아 0\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국지점은 본사의 지점이며, 기타 지점은 해외법인의 지점임\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 1, 베트남 1, 중국 0, 영국 1, 미국 1, 싱가포르 1, 아랍에미리트 1, 러시아 0\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2009년 온라인 자동차보험 브랜드인 '애니카다이렉트'를 출시 후 온라인 직판채널에서 빠른 속도로 성장하여 채널 내 매출 규모 1위로 성장하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강상해보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"택배반송보험\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"재보험\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"캐노피우스사는 영국 런던을 기반으로 원수/재보험을 인수하는 글로벌 특종 보험사로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해사정서비스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"손해사정은 손해발생사실의 확인, 보험약관 및 관련 법규적용의 적정성 판단, 정확한손해액 산정, 보험금 지급 등의 제반 업무를 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"출동서비스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"출동서비스는 고객의 차량에 문제가 생겼을 경우 현장으로 신속하게 출동하여 해결해 주는 서비스로서 발생사유에 따라 사고출동과 고장출동으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"자연재해\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"현재 글로벌 손해보험시장은 최근 몇 년간의 대형 자연재해, 전염병, 지정학적 리스크 등으로 영향으로\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"텐센트\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"회사는 중국 최대 IT 기업인 텐센트와 협력하여 중국법인을 합작법인 형태로 전환하는 계약을 체결하고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현재 당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"영국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 2019년 4월 30일 이사회 결의로 영국 로이즈 손보사 지분투자의 건을 결정하였고\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000810_20260312001399.txt"
+}

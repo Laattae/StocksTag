@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "AC Motor",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기어드 모터를 제품 형태별로 분류하면, 3,500여종에 달하는 다품종 소량 생산에 적합한 Standard AC/DC geared motor와 소품종 대량 생산에 적합한 Shaded pole geared motor, Fan BLDC motor가 대표적 주력 품목입니다."
+    },
+    {
+      "axis": "product",
+      "value": "BLDC 모터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기어드 모터를 제품 형태별로 분류하면, 3,500여종에 달하는 다품종 소량 생산에 적합한 Standard AC/DC geared motor와 소품종 대량 생산에 적합한 Shaded pole geared motor, Fan BLDC motor가 대표적 주력 품목입니다."
+    },
+    {
+      "axis": "product",
+      "value": "유성감속기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "정밀감속기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "로봇용 액추에이터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전기기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소형 기어드 모터의 주요 기능은 자동화 시스템 및 가전기기 등에 사용되는 소형 모터에 기어 박스 세트(감속 기어)를 부착하여"
+    },
+    {
+      "axis": "application",
+      "value": "공장자동화",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "제품의 주요 용도를 보면 첫째, FA(공장자동화)용도로 포장용기기, 최첨단 반도체 및 PDP, LCD 등 생산라인의 컨베이어 구동 용도 기기로 투입됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "사무자동화",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "둘째, OA(사무자동화)용도로 복사기, 문서세단기, 자동문, 동전계수기, 지폐계수기 등에 쓰이며"
+    },
+    {
+      "axis": "application",
+      "value": "로봇산업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Diecasting",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Rotor",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동선",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "베어링",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국시장은 현지 에스피지 쑤저우 법인, 에스피지 청도 법인을 통하여 중국 내수시장에서의 판매단가 경쟁력 확보하여 영업활동을 진행하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "연결실체는 제품수출 등과 관련하여 주로 USD 등의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 이자부 부채를 통해 자금을 조달하고 있는 상황이기 때문에 이자율위험에 노출되어 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"AC Motor\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기어드 모터를 제품 형태별로 분류하면, 3,500여종에 달하는 다품종 소량 생산에 적합한 Standard AC/DC geared motor와 소품종 대량 생산에 적합한 Shaded pole geared motor, Fan BLDC motor가 대표적 주력 품목입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BLDC 모터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기어드 모터를 제품 형태별로 분류하면, 3,500여종에 달하는 다품종 소량 생산에 적합한 Standard AC/DC geared motor와 소품종 대량 생산에 적합한 Shaded pole geared motor, Fan BLDC motor가 대표적 주력 품목입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유성감속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정밀감속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로봇용 액추에이터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전기기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소형 기어드 모터의 주요 기능은 자동화 시스템 및 가전기기 등에 사용되는 소형 모터에 기어 박스 세트(감속 기어)를 부착하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"공장자동화\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"제품의 주요 용도를 보면 첫째, FA(공장자동화)용도로 포장용기기, 최첨단 반도체 및 PDP, LCD 등 생산라인의 컨베이어 구동 용도 기기로 투입됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"사무자동화\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"둘째, OA(사무자동화)용도로 복사기, 문서세단기, 자동문, 동전계수기, 지폐계수기 등에 쓰이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"로봇산업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"그 외에 로봇산업용 제품과 반도체 장비, 공작기계 등에 주로 적용되는 유성감속기 외에 특수용도의 정밀감속기와 로봇용 액추에이터(SDD)까지 그 영역을 넓혀 가고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Diecasting\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Rotor\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동선\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"베어링\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 부품으로는 Diecasting, Rotor, 규소강판, 동선, AL, 베어링, 환봉소재 등이 있고 수급상의 어려움은 없습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중국시장은 현지 에스피지 쑤저우 법인, 에스피지 청도 법인을 통하여 중국 내수시장에서의 판매단가 경쟁력 확보하여 영업활동을 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"연결실체는 제품수출 등과 관련하여 주로 USD 등의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 이자부 부채를 통해 자금을 조달하고 있는 상황이기 때문에 이자율위험에 노출되어 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/058610_20260318000411.txt"
+}

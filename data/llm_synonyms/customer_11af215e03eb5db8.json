@@ -1,0 +1,126 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "폭스바겐",
+      "synonyms": [
+        "폭스바겐 그룹"
+      ]
+    },
+    {
+      "group": 2,
+      "canonical": "SK하이닉스",
+      "synonyms": [
+        "하이닉스",
+        "에스케이하이닉스"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "한국전력",
+      "synonyms": [
+        "한국전력공사"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "가던트헬스",
+      "synonyms": [
+        "가던트 헬스"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "르노코리아",
+      "synonyms": [
+        "르노코리아자동차"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "한국바스프",
+      "synonyms": [
+        "한국바스프주식회사"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "한국타이어",
+      "synonyms": [
+        "한국타이어앤테크놀로지"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "현대자동차",
+      "synonyms": [
+        "현대자동차그룹",
+        "현대자동차 그룹"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "Apotex",
+      "synonyms": [
+        "Apotex Inc."
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "Micron",
+      "synonyms": [
+        "MICRON",
+        "Micron Technology"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "Sanofi",
+      "synonyms": [
+        "Sanofi 사"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "사우디전력청",
+      "synonyms": [
+        "사우디 전력청"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "현대트랜시스",
+      "synonyms": [
+        "현대 트랜시스"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "현대글로비스",
+      "synonyms": [
+        "현대글로비스(주)"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "매그나칩반도체",
+      "synonyms": [
+        "매그나칩 반도체"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "메르세데스-벤츠",
+      "synonyms": [
+        "메르세데스 벤츠"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "한국수력원자력",
+      "synonyms": [
+        "한국수력원자력(주)"
+      ]
+    }
+  ]
+}

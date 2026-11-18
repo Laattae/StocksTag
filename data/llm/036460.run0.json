@@ -1,0 +1,186 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "천연가스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고"
+    },
+    {
+      "axis": "product",
+      "value": "원유",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "KOGAS Iraq B.V 등 | 제품 및 상품 | 해외 | 1,996,270 | 1,896,248 | 1,791,309"
+    },
+    {
+      "axis": "product",
+      "value": "수소",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "한국가스공사는 천연가스를 원료로 추출수소를 생산하여 수소 생산 및 충전 인프라 구축 사업을 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "도시가스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고, 각 도시가스사는 권역별 소매배관을 통하여 소비자에게 천연가스를 공급합니다."
+    },
+    {
+      "axis": "application",
+      "value": "발전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력"
+    },
+    {
+      "axis": "customer",
+      "value": "GS파워",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코인터내셔널",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한국가스공사 | 도입 및 판매사업 | 원재료 | LNG | 발전용 및 도시가스용천연가스 | 27,717,098 | 카타르, 호주, 미국 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료인 천연가스 가격은 주로 유가에 연동되어 있으며, 대부분을 해외에서 구매하는 관계로 유가와 환율에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료인 천연가스 가격은 주로 유가에 연동되어 있으며, 대부분을 해외에서 구매하는 관계로 유가와 환율에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "한편, 천연가스 수요는 다른 에너지 사업과 마찬가지로 경기변동에 영향을 받으며, 특히 도시가스용은 난방수요의 비중이 커 동고하저의 패턴을 보이는 것이 특징적입니다."
+    },
+    {
+      "axis": "product",
+      "value": "천연가스",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고"
+    },
+    {
+      "axis": "product",
+      "value": "수소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "평택시를 비롯한 경기도권을 시작으로 일 최대 7톤의 수소를 생산 및 공급 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "도시가스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고"
+    },
+    {
+      "axis": "application",
+      "value": "발전",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "평택시를 비롯한 경기도권을 시작으로 일 최대 7톤의 수소를 생산 및 공급 중입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료인 천연가스를 대부분 수입함에 따라 유가와 환율이 도입가격에 직접적인 영향을 끼치고 있으므로 국내 천연가스 가격도 이에 따라 변동됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료인 천연가스를 대부분 수입함에 따라 유가와 환율이 도입가격에 직접적인 영향을 끼치고 있으므로 국내 천연가스 가격도 이에 따라 변동됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연가스\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원유\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"KOGAS Iraq B.V 등 | 제품 및 상품 | 해외 | 1,996,270 | 1,896,248 | 1,791,309\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"한국가스공사는 천연가스를 원료로 추출수소를 생산하여 수소 생산 및 충전 인프라 구축 사업을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도시가스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고, 각 도시가스사는 권역별 소매배관을 통하여 소비자에게 천연가스를 공급합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"한국가스공사는 전국배관망과 탱크로리 등을 통해 도시가스사와 발전사 등에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GS파워\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코인터내셔널\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"발전용 천연가스는 배관망을 통하여 한국전력공사의 5개 발전자회사와 GS파워, 포스코인터내셔널, GS EPS, CGN 율촌전력\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한국가스공사 | 도입 및 판매사업 | 원재료 | LNG | 발전용 및 도시가스용천연가스 | 27,717,098 | 카타르, 호주, 미국 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"평택, 인천, 통영, 삼척, 제주에 각각 천연가스 도매공급을 위한 생산기지를 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료인 천연가스 가격은 주로 유가에 연동되어 있으며, 대부분을 해외에서 구매하는 관계로 유가와 환율에 큰 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료인 천연가스 가격은 주로 유가에 연동되어 있으며, 대부분을 해외에서 구매하는 관계로 유가와 환율에 큰 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"한편, 천연가스 수요는 다른 에너지 사업과 마찬가지로 경기변동에 영향을 받으며, 특히 도시가스용은 난방수요의 비중이 커 동고하저의 패턴을 보이는 것이 특징적입니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연가스\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"평택시를 비롯한 경기도권을 시작으로 일 최대 7톤의 수소를 생산 및 공급 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도시가스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"도매사업자인 한국가스공사가 운영하는 주배관을 통하여 일반도시가스사와 대량 수요처인 한국전력공사의 발전자회사 및 민자발전사에 천연가스를 공급하고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"평택시를 비롯한 경기도권을 시작으로 일 최대 7톤의 수소를 생산 및 공급 중입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료인 천연가스를 대부분 수입함에 따라 유가와 환율이 도입가격에 직접적인 영향을 끼치고 있으므로 국내 천연가스 가격도 이에 따라 변동됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료인 천연가스를 대부분 수입함에 따라 유가와 환율이 도입가격에 직접적인 영향을 끼치고 있으므로 국내 천연가스 가격도 이에 따라 변동됩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/036460_20260323001058.txt"
+}

@@ -1,0 +1,60 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "필러",
+      "weight": 0.72,
+      "direction": null,
+      "evidence": "전문테라피(필러, 메조) | 소계 | 52,818 | 72.54% | 53,542 | 64.83% | 54,437 | 68.7%"
+    },
+    {
+      "axis": "product",
+      "value": "코스메슈티컬",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "코슈메슈티컬 | 소계 | 10,383 | 14.26% | 12,748 | 15.44% | 10,894 | 13.8%"
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "건강기능식품 | 5,621 | 7.72% | 12,654 | 15.32% | 12,201 | 15.4%"
+    },
+    {
+      "axis": "product",
+      "value": "펩타이드 원료",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "원료_펩타이드, 성장인자 | 3,777 | 5.19% | 3,604 | 4.36% | 3,094 | 3.9%"
+    },
+    {
+      "axis": "customer",
+      "value": "BASF",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 글로벌 화학기업 BASF와 4종의 특허 펩타이드 원료에 대한 독점 공급 계약을 체결하여 2021년부터 공급을 시작하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(주)케어젠 펩타이드 R&D센터 | 경기도 안양시 동안구 엘에스로 91번길 46-38(호계동)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"필러\",\n      \"weight\": 0.72,\n      \"direction\": null,\n      \"evidence\": \"전문테라피(필러, 메조) | 소계 | 52,818 | 72.54% | 53,542 | 64.83% | 54,437 | 68.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"코스메슈티컬\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"코슈메슈티컬 | 소계 | 10,383 | 14.26% | 12,748 | 15.44% | 10,894 | 13.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강기능식품\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"건강기능식품 | 5,621 | 7.72% | 12,654 | 15.32% | 12,201 | 15.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펩타이드 원료\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"원료_펩타이드, 성장인자 | 3,777 | 5.19% | 3,604 | 4.36% | 3,094 | 3.9%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BASF\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 글로벌 화학기업 BASF와 4종의 특허 펩타이드 원료에 대한 독점 공급 계약을 체결하여 2021년부터 공급을 시작하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"(주)케어젠 펩타이드 R&D센터 | 경기도 안양시 동안구 엘에스로 91번길 46-38(호계동)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/214370_20260316001449.txt"
+}

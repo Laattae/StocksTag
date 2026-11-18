@@ -1,0 +1,136 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "QUARTZ WARE",
+      "weight": 0.49,
+      "direction": null,
+      "evidence": "QUARTZ WARE | 반도체용 석영유리 | 466,330 | 49.4%"
+    },
+    {
+      "axis": "product",
+      "value": "반도체소재부품 세정 및 코팅",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "세정 및 코팅 | 반도체용소재/장비부품세정 및 코팅 | 88,929 | 9.4%"
+    },
+    {
+      "axis": "product",
+      "value": "세라믹스",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "세라믹스외 | LCD 등 부품 | 25,406 | 2.7%"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 제조공정 중 산화, 확산, 식각, 이온주입, 화학증착공정에서 Wafer를 불순물로부터 보호하거나 이송하는 용기로 사용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "디스플레이 패널의 대형화 추세에 따른 대형 제품의 공급이 가능합니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "SOLAR 등 석영유리 | 24,569 | 2.6%"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "램리서치",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "도쿄일렉트론",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "TSMC",
+      "weight": null,
+      "direction": null,
+      "evidence": "주 생산품은 반도체석영유리제품을 생산하며 TSMC와 UMC 등 반도체 소자업체에 영업 및 판매를 하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Fused Quartz",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체용 쿼츠 원재료(Fused Quartz) 시장은 미국 Momentive Performance Materials Quartz, Inc를 포함한 미국, 독일 그리고 일본을 중심으로 소수의 업체가 전체 시장을 과점하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "쿼츠 부문은 해외 4개(미국 1, 대만 1, 독일 1, 태국 1)의 종속기업을 포함하고 있으며, 쿼츠원재료 부문은 해외 11개(미국 2, 대만 1, 독일 2, 일본 2, 중국 2, 한국 1, 홍콩 1)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국법인인 W.Q.I.는 1997년 10월 미국 원익쿼츠 합작법인(WONIK QUARTZ GROUP CO.,LTD.)을 설립하여 영업을 개시하였고"
+    },
+    {
+      "axis": "region",
+      "value": "대만",
+      "weight": null,
+      "direction": null,
+      "evidence": "대만법인인 W.Q.T.는 1996년 3월 대만 원익석영 합작법인(WONIK TAIWAN QUARTZ CO.,LTD)을 설립하여 영업을 개시하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": null,
+      "direction": null,
+      "evidence": "독일법인인 W.Q.E.는 독일 원익 유럽법인(WONIK QUARTZ EUROPE GMBH)을 설립하여 영업을 개시하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "원익서안은 2013년 2월 20일 당사의 계열회사인 (주)원익머트리얼즈와 당사가 70:30으로 출자하여 설립하였고"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결기업은 외화차입금 및 기능통화와 다른 수입과 지출에 따른 환율변동위험에 노출되어 있으며 주요 위험은 USD, EUR 및 JPY에 집중되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"QUARTZ WARE\",\n      \"weight\": 0.49,\n      \"direction\": null,\n      \"evidence\": \"QUARTZ WARE | 반도체용 석영유리 | 466,330 | 49.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체소재부품 세정 및 코팅\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"세정 및 코팅 | 반도체용소재/장비부품세정 및 코팅 | 88,929 | 9.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세라믹스\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"세라믹스외 | LCD 등 부품 | 25,406 | 2.7%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조공정 중 산화, 확산, 식각, 이온주입, 화학증착공정에서 Wafer를 불순물로부터 보호하거나 이송하는 용기로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"디스플레이 패널의 대형화 추세에 따른 대형 제품의 공급이 가능합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"SOLAR 등 석영유리 | 24,569 | 2.6%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"램리서치\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"도쿄일렉트론\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사도 삼성전자,SK하이닉스, 램리서치(LAM Research), 도쿄일렉트론(Tokyo Electron Limited) 등과 기본거래계약서만을 체결한 후 수시로 수주물량을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"TSMC\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주 생산품은 반도체석영유리제품을 생산하며 TSMC와 UMC 등 반도체 소자업체에 영업 및 판매를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Fused Quartz\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체용 쿼츠 원재료(Fused Quartz) 시장은 미국 Momentive Performance Materials Quartz, Inc를 포함한 미국, 독일 그리고 일본을 중심으로 소수의 업체가 전체 시장을 과점하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"쿼츠 부문은 해외 4개(미국 1, 대만 1, 독일 1, 태국 1)의 종속기업을 포함하고 있으며, 쿼츠원재료 부문은 해외 11개(미국 2, 대만 1, 독일 2, 일본 2, 중국 2, 한국 1, 홍콩 1)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국법인인 W.Q.I.는 1997년 10월 미국 원익쿼츠 합작법인(WONIK QUARTZ GROUP CO.,LTD.)을 설립하여 영업을 개시하였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대만\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"대만법인인 W.Q.T.는 1996년 3월 대만 원익석영 합작법인(WONIK TAIWAN QUARTZ CO.,LTD)을 설립하여 영업을 개시하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"독일법인인 W.Q.E.는 독일 원익 유럽법인(WONIK QUARTZ EUROPE GMBH)을 설립하여 영업을 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"원익서안은 2013년 2월 20일 당사의 계열회사인 (주)원익머트리얼즈와 당사가 70:30으로 출자하여 설립하였고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결기업은 외화차입금 및 기능통화와 다른 수입과 지출에 따른 환율변동위험에 노출되어 있으며 주요 위험은 USD, EUR 및 JPY에 집중되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/074600_20260323001246.txt"
+}

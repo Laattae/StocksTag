@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "화장품 | 제품 | 닥터자르트리쥬비네이팅뷰티밤,,CN,40,ML,BB 등 | 기초,색조화장품 | D사 등"
+    },
+    {
+      "axis": "product",
+      "value": "색조화장품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화장품 | 제품 | 닥터자르트리쥬비네이팅뷰티밤,,CN,40,ML,BB 등 | 기초,색조화장품 | D사 등"
+    },
+    {
+      "axis": "product",
+      "value": "BB크림",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "코스메카코리아는 국내 최초 3중 기능성 BB크림을 개발하며, 전세계 화장품 시장에 불어 닥친 BB크림 열풍을 선도한 독보적인 '유화 메이크업의 강자'입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "TINOSORB",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | TINOSORB 등 | 자외선차단제 등 | 235,937 | 39.6 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "화장품 용기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부자재 | 닥터자르트 용기 등 | 기본 화장품 용기 등 | 359,677 | 60.4"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "토지 | 자가보유 | 판교 | 15,442,395 | 147,826 | - | - | 15,590,221 | -"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "토지 | 자가보유 | 음성군 | 11,802,402 | - | - | - | 11,802,402 | -"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2018년 미국 뉴저지에 본사를 두고 있는 잉글우드랩을 인수하며, 한국, 중국, 미국에 생산거점을 확보하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2018년 미국 뉴저지에 본사를 두고 있는 잉글우드랩을 인수하며, 한국, 중국, 미국에 생산거점을 확보하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다. 연결회사는 제품 수출 및 원재료 수입 거래 등으로 인해 USD 등의 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초화장품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"화장품 | 제품 | 닥터자르트리쥬비네이팅뷰티밤,,CN,40,ML,BB 등 | 기초,색조화장품 | D사 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"색조화장품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화장품 | 제품 | 닥터자르트리쥬비네이팅뷰티밤,,CN,40,ML,BB 등 | 기초,색조화장품 | D사 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BB크림\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"코스메카코리아는 국내 최초 3중 기능성 BB크림을 개발하며, 전세계 화장품 시장에 불어 닥친 BB크림 열풍을 선도한 독보적인 '유화 메이크업의 강자'입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"TINOSORB\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 | TINOSORB 등 | 자외선차단제 등 | 235,937 | 39.6 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"부자재 | 닥터자르트 용기 등 | 기본 화장품 용기 등 | 359,677 | 60.4\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"토지 | 자가보유 | 판교 | 15,442,395 | 147,826 | - | - | 15,590,221 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"토지 | 자가보유 | 음성군 | 11,802,402 | - | - | - | 11,802,402 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2018년 미국 뉴저지에 본사를 두고 있는 잉글우드랩을 인수하며, 한국, 중국, 미국에 생산거점을 확보하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2018년 미국 뉴저지에 본사를 두고 있는 잉글우드랩을 인수하며, 한국, 중국, 미국에 생산거점을 확보하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동할 위험입니다. 연결회사는 제품 수출 및 원재료 수입 거래 등으로 인해 USD 등의 환위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/241710_20260330001688.txt"
+}

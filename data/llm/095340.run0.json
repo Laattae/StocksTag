@@ -1,0 +1,115 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "실리콘 러버 테스트소켓",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "실리콘 소켓은 ISC 매출의 80%를 차지하며 글로벌 실리콘 소켓 시장에서 ISC의 점유율은 90% 수준으로 평가받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "포고핀 소켓",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 2014년부터 포고핀 사업에 진출, 2018년부터 시장 공급을 시작했으며 대부분 글로벌 스마트폰 고객사들의 AP, SoC 칩 테스트용으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "번인 테스트 소켓",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "ISC는 지난 2019년 세계 최초로 실리콘 소재의 실리콘 번인 소켓을 상업화했으며 2020년부터 메모리 고객사의 양산 시장에 진입하는데 성공했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "모듈 테스터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "① 모듈 테스터 : DRAM 모듈의 CPU /GPU 호환성 및 신뢰성 테스트장비, 메모리 모듈 (LPCAMM, SOCAMM) 테스트 장비"
+    },
+    {
+      "axis": "product",
+      "value": "세정용 케미컬",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "④ 케미컬 : 식각공정을 거친 DRAM, HBM 세정용 케미컬"
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "현재 글로벌 빅테크, 팹리스, OSAT, ASIC 기업들에 다양한 어플리케이션에 적용가능한 AI반도체 테스트 소켓을 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "대부분 글로벌 스마트폰 고객사들의 AP, SoC 칩 테스트용으로 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AI데이터센터와 스마트폰, AI PC 등 AI관련 매출이 실적을 견인하면서 R&D와 양산용 소켓 모두 25년 대비 30% 이상 성장할 것으로 전망하며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 국내외 주요 자동차 제조사들의 자율주행, 전기차 관련 차량용 반도체 R&D용 소켓을 수주하면서 관련 부문의 성장도 기대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사 국내 영업팀을 통한직접 판매 반도체 장비 및 부품사 등 ... 삼성전자, 하이닉스 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "실리콘",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 실리콘,파우더 등 제품생산 62,450 (100%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "파우더",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 실리콘,파우더 등 제품생산 62,450 (100%)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제조부문은 성남시 중원구 소재의 공장과 안산시 단원구 소재의 공장, 베트남 하노이의 공장이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제조부문은 성남시 중원구 소재의 공장과 안산시 단원구 소재의 공장, 베트남 하노이의 공장이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당기말 및 전기말 현재 각 외화에 대한 원화환율이 10% 변동시 환율변동이 자본에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"실리콘 러버 테스트소켓\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"실리콘 소켓은 ISC 매출의 80%를 차지하며 글로벌 실리콘 소켓 시장에서 ISC의 점유율은 90% 수준으로 평가받고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"포고핀 소켓\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사는 2014년부터 포고핀 사업에 진출, 2018년부터 시장 공급을 시작했으며 대부분 글로벌 스마트폰 고객사들의 AP, SoC 칩 테스트용으로 공급하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"번인 테스트 소켓\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"ISC는 지난 2019년 세계 최초로 실리콘 소재의 실리콘 번인 소켓을 상업화했으며 2020년부터 메모리 고객사의 양산 시장에 진입하는데 성공했습니다.\"}, {\"axis\": \"product\", \"value\": \"모듈 테스터\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"① 모듈 테스터 : DRAM 모듈의 CPU /GPU 호환성 및 신뢰성 테스트장비, 메모리 모듈 (LPCAMM, SOCAMM) 테스트 장비\"}, {\"axis\": \"product\", \"value\": \"세정용 케미컬\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"④ 케미컬 : 식각공정을 거친 DRAM, HBM 세정용 케미컬\"}, {\"axis\": \"application\", \"value\": \"AI 서버\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"현재 글로벌 빅테크, 팹리스, OSAT, ASIC 기업들에 다양한 어플리케이션에 적용가능한 AI반도체 테스트 소켓을 공급하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"대부분 글로벌 스마트폰 고객사들의 AP, SoC 칩 테스트용으로 공급하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"AI데이터센터와 스마트폰, AI PC 등 AI관련 매출이 실적을 견인하면서 R&D와 양산용 소켓 모두 25년 대비 30% 이상 성장할 것으로 전망하며\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"또한 국내외 주요 자동차 제조사들의 자율주행, 전기차 관련 차량용 반도체 R&D용 소켓을 수주하면서 관련 부문의 성장도 기대하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"본사 국내 영업팀을 통한직접 판매 반도체 장비 및 부품사 등 ... 삼성전자, 하이닉스 외\"}, {\"axis\": \"raw_material\", \"value\": \"실리콘\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"원재료 실리콘,파우더 등 제품생산 62,450 (100%)\"}, {\"axis\": \"raw_material\", \"value\": \"파우더\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"원재료 실리콘,파우더 등 제품생산 62,450 (100%)\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"제조부문은 성남시 중원구 소재의 공장과 안산시 단원구 소재의 공장, 베트남 하노이의 공장이 있습니다.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"제조부문은 성남시 중원구 소재의 공장과 안산시 단원구 소재의 공장, 베트남 하노이의 공장이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"당기말 및 전기말 현재 각 외화에 대한 원화환율이 10% 변동시 환율변동이 자본에 미치는 영향은 다음과 같습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/095340_20260318000018.txt"
+}

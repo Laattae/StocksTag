@@ -1,0 +1,201 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스카이셀플루",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2015년 성인용으로는 국내 최초, 소아용으로는 세계 최초로 세포배양3가 독감백신 '스카이셀플루'를 출시하였고"
+    },
+    {
+      "axis": "product",
+      "value": "스카이조스터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2017년에는 프리미엄 백신인 대상포진백신 '스카이조스터'를 국내에 상용화하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "스카이바리셀라",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이듬해 2018년 수두백신 '스카이바리셀라'를 국내 출시했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스카이타이포이드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2013년에 GF(게이츠재단), IVI(국제백신연구소)가 참여한 장티푸스 접합백신 '스카이타이포이드' 공동개발 계약을 체결하여 2022년 개발을 완료했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스카이코비원",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "GF, CEPI와 협력하여 개발한 COVID-19 백신 '스카이코비원'은 2022년 6월 대한민국 식품의약품안전처의 품목허가 승인을 받았습니다."
+    },
+    {
+      "axis": "product",
+      "value": "뉴백소비드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SK바이오사이언스는 국가 방역에 기여하기 위해 COVID-19 백신인 '뉴백소비드'의 완제품을 미국 바이오기업 Novavax로부터 수입하여 2023년 2월부터 국내 공급한 바 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Sanofi",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2018년에는 Sanofi와 세포배양 인플루엔자 백신 생산 플랫폼 기술 수출 계약을 체결하는 등 글로벌 협력을 이어 나갔습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "AstraZeneca",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AstraZeneca의 바이러스 전달체 백신 'Vaxzevria(AZD1222)'의 원액 및 완제 위탁생산 계약(CMO) 및 Novavax의 재조합단백질 백신 'Nuvaxovid(NVX-CoV2373)'의 위탁개발생산 계약(CDMO)"
+    },
+    {
+      "axis": "customer",
+      "value": "Novavax",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Novavax의 재조합단백질 백신 'Nuvaxovid(NVX-CoV2373)'의 위탁개발생산 계약(CDMO) 및 기술도입(License-in) 계약을 체결했습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년 6월에는 안동 L HOUSE에 폐렴구균백신 생산 시설 증축 공사 준공을 완료하여, 상업생산에 대한 준비도 순항 중입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화성 | 원자재 및 완제품 보관 | 경기도 화성시 양감면 정문송산로 184번길 17"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "송도 | R&D, 전사관리, 마케팅 및 사업개발 | 인천광역시 연수구 연구단지로 38 (송도동)"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "IDT Biologika GmbH | 의약품 제조 | Am Pharmapark, 06861 Dessau-Roßlau, Germany"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "IDT Biologika Corporation | 의약품 제조 | 1405 Research Blvd, Rockville, MD 20850"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "하지만 환율 및 원료가, 노동임금 등의 인상으로 인해 주요 원자재들의 공급 단가 조정 요청이 공급업체 측으로부터 지속적으로 제기되어"
+    },
+    {
+      "axis": "exposure",
+      "value": "관세",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "아울러, 미국의 보호무역주의 강화로 인한 관세 이슈 역시 주요 리스크로 이는 글로벌 조달 체계 및 대외 수급 전략 전반에 불확실성을 더하고 있는 상황입니다."
+    },
+    {
+      "axis": "product",
+      "value": "독감백신",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "인플루엔자 백신의 경우, 국내외 기업 간 경쟁이 치열하나 당사는 최첨단 무균 배양기 기반 생산방식으로 항생제나 보존제의 투여가 불필요한 고순도 정제 백신 '스카이셀플루'를 생산하여 국내 시장에서 선도적 지위를 유지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대상포진백신",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "당사의 '스카이조스터'는 국내 2번째 수두백신으로, 국내외 19개 임상기관에서 수행한 소아 대상 다국가 임상 3상을 통해 유효성 및 안전성을 입증하고 2018년 국내 허가를 획득했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "수두백신",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이어 2019년 수두백신으로는 세계 2번째로 WHO PQ 인증을 획득하며 국제 입찰(UNICEF, PAHO) 및 해외 시장 진출을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장티푸스백신",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "게이츠 재단으로부터 연구비를 지원 받아 국제백신연구소(IVI)와 공동 개발한 장티푸스백신 '스카이타이포이드'는 2022년 식품의약품안전처 수출용 품목허가 획득에 이어 2024년 WHO PQ 인증을 획득하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "폐렴구균백신",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2014년 Sanofi와 차세대 폐렴구균백신 공동개발 프로젝트를 체결하여, 2018년 12월 미국 FDA 승인 하에 안동 L HOUSE에서 생산된 임상의약품을 사용하여 21가 폐렴구균백신의 글로벌 임상 2상이 성공적으로 마무리되었으며"
+    },
+    {
+      "axis": "application",
+      "value": "국가예방접종",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내에서는 감염병의 예방 및 관리에 관한 법률 제24조에 따라 국가가 권장하는 예방접종을 통해 지역사회 인구집단의 면역 수준을 높여 질병의 전파를 예방하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Sanofi",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2014년 글로벌 백신기업 Sanofi와 협력해 차세대 폐렴구균백신 개발에 나섰습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "FBS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대상포진백신 생산에 사용되는 주요 원료인 FBS(Fetal Bovine Serum, 소혈청)와 같이 외부환경요인 등으로 수급 문제가 발생하기 쉬운 품목은"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한, 당사는 2024년 10월 독일 소재의 IDT Biologika를 인수하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2012년에는 백신공장 안동 L HOUSE 준공으로 국내에서 개발되는 대부분의 백신을 생산할 수 있는 전초기지를 마련했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "의약품은 경기 변동의 영향을 일부 받을 수 있으나, 백신을 포함한 바이오의약품은 고령화로 인한 사회적 관심 확대와 높은 기술 장벽으로 인해 공급 대비 수요가 지속적으로 증가하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스카이셀플루\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2015년 성인용으로는 국내 최초, 소아용으로는 세계 최초로 세포배양3가 독감백신 '스카이셀플루'를 출시하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스카이조스터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2017년에는 프리미엄 백신인 대상포진백신 '스카이조스터'를 국내에 상용화하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스카이바리셀라\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이듬해 2018년 수두백신 '스카이바리셀라'를 국내 출시했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스카이타이포이드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2013년에 GF(게이츠재단), IVI(국제백신연구소)가 참여한 장티푸스 접합백신 '스카이타이포이드' 공동개발 계약을 체결하여 2022년 개발을 완료했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스카이코비원\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"GF, CEPI와 협력하여 개발한 COVID-19 백신 '스카이코비원'은 2022년 6월 대한민국 식품의약품안전처의 품목허가 승인을 받았습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뉴백소비드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"SK바이오사이언스는 국가 방역에 기여하기 위해 COVID-19 백신인 '뉴백소비드'의 완제품을 미국 바이오기업 Novavax로부터 수입하여 2023년 2월부터 국내 공급한 바 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sanofi\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2018년에는 Sanofi와 세포배양 인플루엔자 백신 생산 플랫폼 기술 수출 계약을 체결하는 등 글로벌 협력을 이어 나갔습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AstraZeneca\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AstraZeneca의 바이러스 전달체 백신 'Vaxzevria(AZD1222)'의 원액 및 완제 위탁생산 계약(CMO) 및 Novavax의 재조합단백질 백신 'Nuvaxovid(NVX-CoV2373)'의 위탁개발생산 계약(CDMO)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Novavax\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Novavax의 재조합단백질 백신 'Nuvaxovid(NVX-CoV2373)'의 위탁개발생산 계약(CDMO) 및 기술도입(License-in) 계약을 체결했습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년 6월에는 안동 L HOUSE에 폐렴구균백신 생산 시설 증축 공사 준공을 완료하여, 상업생산에 대한 준비도 순항 중입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화성 | 원자재 및 완제품 보관 | 경기도 화성시 양감면 정문송산로 184번길 17\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"송도 | R&D, 전사관리, 마케팅 및 사업개발 | 인천광역시 연수구 연구단지로 38 (송도동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"IDT Biologika GmbH | 의약품 제조 | Am Pharmapark, 06861 Dessau-Roßlau, Germany\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"IDT Biologika Corporation | 의약품 제조 | 1405 Research Blvd, Rockville, MD 20850\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"하지만 환율 및 원료가, 노동임금 등의 인상으로 인해 주요 원자재들의 공급 단가 조정 요청이 공급업체 측으로부터 지속적으로 제기되어\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"관세\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"아울러, 미국의 보호무역주의 강화로 인한 관세 이슈 역시 주요 리스크로 이는 글로벌 조달 체계 및 대외 수급 전략 전반에 불확실성을 더하고 있는 상황입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"독감백신\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"인플루엔자 백신의 경우, 국내외 기업 간 경쟁이 치열하나 당사는 최첨단 무균 배양기 기반 생산방식으로 항생제나 보존제의 투여가 불필요한 고순도 정제 백신 '스카이셀플루'를 생산하여 국내 시장에서 선도적 지위를 유지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대상포진백신\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"당사의 '스카이조스터'는 국내 2번째 수두백신으로, 국내외 19개 임상기관에서 수행한 소아 대상 다국가 임상 3상을 통해 유효성 및 안전성을 입증하고 2018년 국내 허가를 획득했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수두백신\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이어 2019년 수두백신으로는 세계 2번째로 WHO PQ 인증을 획득하며 국제 입찰(UNICEF, PAHO) 및 해외 시장 진출을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장티푸스백신\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"게이츠 재단으로부터 연구비를 지원 받아 국제백신연구소(IVI)와 공동 개발한 장티푸스백신 '스카이타이포이드'는 2022년 식품의약품안전처 수출용 품목허가 획득에 이어 2024년 WHO PQ 인증을 획득하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폐렴구균백신\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2014년 Sanofi와 차세대 폐렴구균백신 공동개발 프로젝트를 체결하여, 2018년 12월 미국 FDA 승인 하에 안동 L HOUSE에서 생산된 임상의약품을 사용하여 21가 폐렴구균백신의 글로벌 임상 2상이 성공적으로 마무리되었으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국가예방접종\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내에서는 감염병의 예방 및 관리에 관한 법률 제24조에 따라 국가가 권장하는 예방접종을 통해 지역사회 인구집단의 면역 수준을 높여 질병의 전파를 예방하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sanofi\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2014년 글로벌 백신기업 Sanofi와 협력해 차세대 폐렴구균백신 개발에 나섰습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FBS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대상포진백신 생산에 사용되는 주요 원료인 FBS(Fetal Bovine Serum, 소혈청)와 같이 외부환경요인 등으로 수급 문제가 발생하기 쉬운 품목은\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사는 2024년 10월 독일 소재의 IDT Biologika를 인수하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2012년에는 백신공장 안동 L HOUSE 준공으로 국내에서 개발되는 대부분의 백신을 생산할 수 있는 전초기지를 마련했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"의약품은 경기 변동의 영향을 일부 받을 수 있으나, 백신을 포함한 바이오의약품은 고령화로 인한 사회적 관심 확대와 높은 기술 장벽으로 인해 공급 대비 수요가 지속적으로 증가하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/302440_20260313000936.txt"
+}

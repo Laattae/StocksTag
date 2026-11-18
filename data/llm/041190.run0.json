@@ -1,0 +1,52 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "신기술금융",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 영위하는 주요사업부문의 영업실적은 다음과 같습니다. - 신기술투자 부문"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에 거시경제 및 정부정책 등이 영업수익 변동에 큰영향을 끼칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "증시 변화",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에 거시경제 및 정부정책 등이 영업수익 변동에 큰영향을 끼칠 수 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지 역 | 본점 | 지 점 | 출 장 소 | 해외법인 | 합 계 | 서울 | 1 | - | - | - | 1"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "미국 | - | - | - | 1 | 1"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "중국 | - | - | - | 1 | 1"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신기술금융\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 영위하는 주요사업부문의 영업실적은 다음과 같습니다. - 신기술투자 부문\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에 거시경제 및 정부정책 등이 영업수익 변동에 큰영향을 끼칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"증시 변화\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에 거시경제 및 정부정책 등이 영업수익 변동에 큰영향을 끼칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"지 역 | 본점 | 지 점 | 출 장 소 | 해외법인 | 합 계 | 서울 | 1 | - | - | - | 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"미국 | - | - | - | 1 | 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"중국 | - | - | - | 1 | 1\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/041190_20260318001355.txt"
+}

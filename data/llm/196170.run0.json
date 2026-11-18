@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "히알루로니다제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 고유의 원천기술인 정맥주사(Intravenous infusion, IV) 제형을 피하주사(Subcutaneous injection, SC) 제형으로 전환해주는 히알루로니다제 단백질 공학 기술(Hybrozyme™)"
+    },
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오시밀러 사업은 중국 치루제약(Qilu Pharmaceutical)사에 허셉틴 바이오시밀러 기술수출을 하였으며 아일리아 바이오시밀러의 자체 개발 및 상업화를 목표로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항체-약물접합체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "차세대 항체-약물접합체 기반 기술인 NexMab™ (ADC 기술) 등의 플랫폼 기술(Platform Technology) 등을 기반으로 바이오의약품"
+    },
+    {
+      "axis": "product",
+      "value": "지속형 바이오의약품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "지속형 바이오의약품 기반 기술인 NexP™ 융합(Fusion), 차세대 항체-약물접합체 기반 기술인 NexMab™ (ADC 기술) 등의 플랫폼 기술"
+    },
+    {
+      "axis": "product",
+      "value": "테르가제주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2024년 ALT-B4를 활용한 단독 주사제품을 상업화(ALT-BB4, 제품명: 테르가제주) 하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "MSD",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "AstraZeneca",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "GSK",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Daiichi Sankyo",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Sandoz",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "본사 토지 대전 전민동"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연구용기자재 대전 전민동(서울 연구소포함)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사는 글로벌 영업활동을 수행함에 따라 표시통화와 다른 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "아일리아 바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "최근 특허 만료가 임박한 황반변성 치료제 아일리아(Eylea)의 바이오시밀러 개발에 국내 및 해외의 여러 경쟁업체가 아일리아 바이오시밀러 개발에 참여하고 있으며, 당사는 아일리아 바이오시밀러(ALT-L9, Eyluxvi) 제품의 생산에 대한 고유한 제법특허를 보유하고 있어 시장내 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "허셉틴 바이오시밀러",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 2017년 중국의 Qilu Pharmaceutical에 허셉틴 바이오시밀러를 기술이전했고, Qilu사는 2024년 중국 내 허가를 받아 판매 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지속형성장호르몬",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "매일 투여 받아야 하는 Daily제제 주사에서 1주일 단위 투여의 장기 지속형 제제 개발이 시장 성장을 견인할 것으로 예측되며, 현재 Novo Nordisk, Pfizer, Eli Lily 등 5~6개 기업이 시장을 과점하고 있고, 1세대 성장호르몬은 1일 1회 주사하여야 하는 불편함으로 인해 글로벌 제약사들 중심으로 2세대 지속형 제형을 개발하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "안과질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "습성황반변성 등 안과질환에 널리 사용되고 있는 아일리아는 2024년 전 세계 매출 $9.5B(약 13.3조 원)을 기록하며 블록버스터 의약품 대열에 포함되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Qilu Pharmaceutical",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 2017년 중국의 Qilu Pharmaceutical에 허셉틴 바이오시밀러를 기술이전했고, Qilu사는 2024년 중국 내 허가를 받아 판매 중에 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"히알루로니다제\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 고유의 원천기술인 정맥주사(Intravenous infusion, IV) 제형을 피하주사(Subcutaneous injection, SC) 제형으로 전환해주는 히알루로니다제 단백질 공학 기술(Hybrozyme™)\"}, {\"axis\": \"product\", \"value\": \"바이오시밀러\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오시밀러 사업은 중국 치루제약(Qilu Pharmaceutical)사에 허셉틴 바이오시밀러 기술수출을 하였으며 아일리아 바이오시밀러의 자체 개발 및 상업화를 목표로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"항체-약물접합체\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"차세대 항체-약물접합체 기반 기술인 NexMab™ (ADC 기술) 등의 플랫폼 기술(Platform Technology) 등을 기반으로 바이오의약품\"}, {\"axis\": \"product\", \"value\": \"지속형 바이오의약품\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"지속형 바이오의약품 기반 기술인 NexP™ 융합(Fusion), 차세대 항체-약물접합체 기반 기술인 NexMab™ (ADC 기술) 등의 플랫폼 기술\"}, {\"axis\": \"product\", \"value\": \"테르가제주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 2024년 ALT-B4를 활용한 단독 주사제품을 상업화(ALT-BB4, 제품명: 테르가제주) 하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"MSD\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"AstraZeneca\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"GSK\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"Daiichi Sankyo\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"Sandoz\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"사업보고서 제출일 기준으로 MSD(미국/캐나다 내 Merck), AstraZeneca, GSK, Daiichi Sankyo, Sandoz 등 글로벌 제약사들과 플랫폼 기술 개발 및 상업화에 대한 라이선스 계약을 체결하였습니다.\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"본사 토지 대전 전민동\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"연구용기자재 대전 전민동(서울 연구소포함)\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"당사는 글로벌 영업활동을 수행함에 따라 표시통화와 다른 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아일리아 바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"최근 특허 만료가 임박한 황반변성 치료제 아일리아(Eylea)의 바이오시밀러 개발에 국내 및 해외의 여러 경쟁업체가 아일리아 바이오시밀러 개발에 참여하고 있으며, 당사는 아일리아 바이오시밀러(ALT-L9, Eyluxvi) 제품의 생산에 대한 고유한 제법특허를 보유하고 있어 시장내 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"허셉틴 바이오시밀러\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 2017년 중국의 Qilu Pharmaceutical에 허셉틴 바이오시밀러를 기술이전했고, Qilu사는 2024년 중국 내 허가를 받아 판매 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지속형성장호르몬\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"매일 투여 받아야 하는 Daily제제 주사에서 1주일 단위 투여의 장기 지속형 제제 개발이 시장 성장을 견인할 것으로 예측되며, 현재 Novo Nordisk, Pfizer, Eli Lily 등 5~6개 기업이 시장을 과점하고 있고, 1세대 성장호르몬은 1일 1회 주사하여야 하는 불편함으로 인해 글로벌 제약사들 중심으로 2세대 지속형 제형을 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안과질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"습성황반변성 등 안과질환에 널리 사용되고 있는 아일리아는 2024년 전 세계 매출 $9.5B(약 13.3조 원)을 기록하며 블록버스터 의약품 대열에 포함되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Qilu Pharmaceutical\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 2017년 중국의 Qilu Pharmaceutical에 허셉틴 바이오시밀러를 기술이전했고, Qilu사는 2024년 중국 내 허가를 받아 판매 중에 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/196170_20260323001596.txt"
+}

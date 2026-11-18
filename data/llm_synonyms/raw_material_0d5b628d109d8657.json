@@ -1,0 +1,46 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "강재",
+      "synonyms": [
+        "강재류"
+      ]
+    },
+    {
+      "group": 4,
+      "canonical": "곡물",
+      "synonyms": [
+        "국제 곡물"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "생두",
+      "synonyms": [
+        "커피생두"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "에폭시수지",
+      "synonyms": [
+        "에폭시 수지"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "용매",
+      "synonyms": [
+        "용매 류"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "원두",
+      "synonyms": [
+        "커피 원두"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "원자력발전소 감시제어시스템",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "1993년 회사 설립부터 현재까지 원자력발전소의 감시, 경보, 제어시스템을 100% 자체 기술로 개발하여 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "계측제어설비",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원자력발전소의 3대 핵심기술 중 하나이자 두뇌역할을 수행하는 \"계측제어설비(MMIS : Man Machine Interface System)\"를 국산화하여"
+    },
+    {
+      "axis": "product",
+      "value": "승강장안전문",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특히, 철도용 승강장안전문(PSD) 및 철도신호열차제어시템(CBTC)을 국제안전등급(Safety Integrity Level)의 최고 등급인 SIL4를 국내 최초로 개발하여 SIL제품 공급이 가능해졌습니다."
+    },
+    {
+      "axis": "product",
+      "value": "공조장치시스템",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "공조장치시스템의 지속적인 연구개발 및 품질 확보로 차륜형 장갑차 공조장치를 비롯한 비호복합 냉방장치, 신형화생방정찰차등 수종의 공조장치 또는 냉방장치를 생산하여 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전소",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "30년 이상 국내 원자력발전소에 감시제어시스템을 자체 기술로 개발하여 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철도",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "지하철(Subway), 광역철도(Railway), 경전철(LRT), 수도권 광역급행철도(GTX), 버스형 굴절버스(BRT), 노면전차(TRAM) 등 각종 철도의 역사에 설치되어"
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.2,
+      "direction": 1,
+      "evidence": "방위산업 분야의 끊임없는 혁신기술을 확보하여, 최상의 품질과 신뢰로 고객 감동 실현 및 새로운 가치를 제공할 수 있도록 전장 사업 분야를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "내진설계 및 Q등급 기기검증시험을 통과한 설비로서 한국수력원자력(주)에 개발선정품으로 등록된 제품입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "프랑스 SNCF",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "해당 실로는 프랑스 SNCF(철도운영사)의 방브스-말라코프역 및 스페인 TMB(철도운영사)의 바로셀로나 캔쿠이어스(Can Cuias)역에 시범사업을 완료하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IC",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | IC | 2,809 | 28.51%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "컴퓨터 외",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | 컴퓨터 외 | 2,571 | 26.10%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "시스템사업 | 제어계측시스템 | 원재료 | PCB | 1,122 | 11.39%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2024년 2월 경기도 연천군 은통일반산업단지에 대지 11,188㎡, 연면적 5,774㎡ 완전밀폐형 분무수경 그린바이오 재배시설을 구축하고"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전라북도 정읍에 저온분해 유화설비 공장을 구축을 완료하였으며, 26년 상반기 상업운전을 목표로 시험가동중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 서울시 마포구 월드컵북로 56길9 (상암동)에 우리기술빌딩을 소유하고 있으며, 당사가 사용하지 않는 부분에 대해서는 임대를 하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "한편, 보고기간종료일 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 5% 변동할 경우, 동 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "한편, 당기말과 전기말 현재 다른 모든 변수가 일정하고 변동금리부 금융자산 및 부채에 대한 이자율이 1% 변동할 경우, 동 이자율변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"원자력발전소 감시제어시스템\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"1993년 회사 설립부터 현재까지 원자력발전소의 감시, 경보, 제어시스템을 100% 자체 기술로 개발하여 공급하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"계측제어설비\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원자력발전소의 3대 핵심기술 중 하나이자 두뇌역할을 수행하는 \\\"계측제어설비(MMIS : Man Machine Interface System)\\\"를 국산화하여\"}, {\"axis\": \"product\", \"value\": \"승강장안전문\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"특히, 철도용 승강장안전문(PSD) 및 철도신호열차제어시템(CBTC)을 국제안전등급(Safety Integrity Level)의 최고 등급인 SIL4를 국내 최초로 개발하여 SIL제품 공급이 가능해졌습니다.\"}, {\"axis\": \"product\", \"value\": \"공조장치시스템\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"공조장치시스템의 지속적인 연구개발 및 품질 확보로 차륜형 장갑차 공조장치를 비롯한 비호복합 냉방장치, 신형화생방정찰차등 수종의 공조장치 또는 냉방장치를 생산하여 공급하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"원자력발전소\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"30년 이상 국내 원자력발전소에 감시제어시스템을 자체 기술로 개발하여 공급하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"철도\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"지하철(Subway), 광역철도(Railway), 경전철(LRT), 수도권 광역급행철도(GTX), 버스형 굴절버스(BRT), 노면전차(TRAM) 등 각종 철도의 역사에 설치되어\"}, {\"axis\": \"application\", \"value\": \"방위산업\", \"weight\": 0.2, \"direction\": 1, \"evidence\": \"방위산업 분야의 끊임없는 혁신기술을 확보하여, 최상의 품질과 신뢰로 고객 감동 실현 및 새로운 가치를 제공할 수 있도록 전장 사업 분야를 확대하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"한국수력원자력\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"내진설계 및 Q등급 기기검증시험을 통과한 설비로서 한국수력원자력(주)에 개발선정품으로 등록된 제품입니다.\"}, {\"axis\": \"customer\", \"value\": \"프랑스 SNCF\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"해당 실로는 프랑스 SNCF(철도운영사)의 방브스-말라코프역 및 스페인 TMB(철도운영사)의 바로셀로나 캔쿠이어스(Can Cuias)역에 시범사업을 완료하였습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"IC\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | IC | 2,809 | 28.51%\"}, {\"axis\": \"raw_material\", \"value\": \"컴퓨터 외\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | 컴퓨터 외 | 2,571 | 26.10%\"}, {\"axis\": \"raw_material\", \"value\": \"PCB\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"시스템사업 | 제어계측시스템 | 원재료 | PCB | 1,122 | 11.39%\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"2024년 2월 경기도 연천군 은통일반산업단지에 대지 11,188㎡, 연면적 5,774㎡ 완전밀폐형 분무수경 그린바이오 재배시설을 구축하고\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"전라북도 정읍에 저온분해 유화설비 공장을 구축을 완료하였으며, 26년 상반기 상업운전을 목표로 시험가동중에 있습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사는 서울시 마포구 월드컵북로 56길9 (상암동)에 우리기술빌딩을 소유하고 있으며, 당사가 사용하지 않는 부분에 대해서는 임대를 하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"한편, 보고기간종료일 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 5% 변동할 경우, 동 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"한편, 당기말과 전기말 현재 다른 모든 변수가 일정하고 변동금리부 금융자산 및 부채에 대한 이자율이 1% 변동할 경우, 동 이자율변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"}]}"
+  ],
+  "text_path": "data/reports/032820_20260323001668.txt"
+}

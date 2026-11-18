@@ -1,0 +1,165 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Camera Module",
+      "weight": 0.84,
+      "direction": null,
+      "evidence": "Camera Module 등 | 18,318,459 | 83.6% | 17,800,120 | 84.0% | 17,294,789 | 83.9%"
+    },
+    {
+      "axis": "product",
+      "value": "반도체기판",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%"
+    },
+    {
+      "axis": "product",
+      "value": "모터/센서",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "모터/센서, 통신, Lighting Solution, Power Module 등 | 1,858,127 | 8.5% | 1,940,613 | 9.1% | 1,988,366 | 9.7%"
+    },
+    {
+      "axis": "product",
+      "value": "Tape Substrate",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%"
+    },
+    {
+      "axis": "product",
+      "value": "Photomask",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%"
+    },
+    {
+      "axis": "product",
+      "value": "FC-BGA",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "통신용 반도체기판은 차별화 기술 기반의 제품 경쟁력으로 일등 지위를 공고히 하였고, 신규 사업인 FC-BGA는 Global 고객 추가 확보로 양산 확대를 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "스마트폰 시장의 성숙으로 전체 출하량 성장에는 한계가 예상되나, 카메라 기능을 중심으로 한 프리미엄화 전략과 고사양 멀티 카메라 채택 확대에 따라 카메라모듈 산업의 성장세는 유지될 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자율주행차 시장은 자율주행 기술 도입 지연과 전기차 침투율 감소로 인해 단기적으로는 성장 둔화가 예상되지만 장기적으로 기술 발전과 5G/6G 통신, V2X(차량-인프라 통신) 등의 인프라 확충에 따라 시장은 성장할 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "특히, 최근 Chat GPT 등 AI 기술 혁신으로 빅테크 기업들간의 경쟁적 데이터 센터 투자 확대가 전망됨에 따라 서버용 반도체에서의 기판 수요 증가가 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "OLED",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "포토마스크는 시장 주도권 확보를 위해 OLED 등 프리미엄 모델 확대에 집중하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당기 연결실체 총 수익 중 매출액 10% 이상을 차지하는 단일 고객에 대한 매출은 광학/패키지 등의 매출 17,748,770백만원이며 매출액 기준 상위 10개 고객으로의 매출은 전체 매출의 87%를 구성합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Image Sensor",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "광학솔루션 | Image Sensor | 6,436,276 | 41% | 5,705,637 | 39% | 5,430,680 | 40%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Actuator",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "Actuator | 3,785,760 | 24% | 4,205,984 | 29% | 3,769,120 | 28%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Lens",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "Lens | 1,948,453 | 13% | 1,654,985 | 11% | 1,451,602 | 11%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "IC",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "모빌리티솔루션 | IC | 419,219 | 34% | 429,337 | 33% | 432,364 | 30%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "안산 R&D 캠퍼스 | 경기도 안산시 상록구 한양대학로 55"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "구미1공장 | 경상북도 구미시 수출대로7길 50-9"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "광주공장 | 광주광역시 광산구 하남산단5번로 26"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아시아 | 인도네시아 브카시, 베트남 하이퐁"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국 | 연태"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율 변동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 환율 변동"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 국제 원자재가격 변동에 따른 부품가격 변동"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Camera Module\",\n      \"weight\": 0.84,\n      \"direction\": null,\n      \"evidence\": \"Camera Module 등 | 18,318,459 | 83.6% | 17,800,120 | 84.0% | 17,294,789 | 83.9%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체기판\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모터/센서\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"모터/센서, 통신, Lighting Solution, Power Module 등 | 1,858,127 | 8.5% | 1,940,613 | 9.1% | 1,988,366 | 9.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Tape Substrate\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Photomask\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"반도체기판, Tape Substrate, Photomask 등 | 1,720,017 | 7.9% | 1,460,022 | 6.9% | 1,322,135 | 6.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FC-BGA\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"통신용 반도체기판은 차별화 기술 기반의 제품 경쟁력으로 일등 지위를 공고히 하였고, 신규 사업인 FC-BGA는 Global 고객 추가 확보로 양산 확대를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"스마트폰 시장의 성숙으로 전체 출하량 성장에는 한계가 예상되나, 카메라 기능을 중심으로 한 프리미엄화 전략과 고사양 멀티 카메라 채택 확대에 따라 카메라모듈 산업의 성장세는 유지될 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자율주행\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자율주행차 시장은 자율주행 기술 도입 지연과 전기차 침투율 감소로 인해 단기적으로는 성장 둔화가 예상되지만 장기적으로 기술 발전과 5G/6G 통신, V2X(차량-인프라 통신) 등의 인프라 확충에 따라 시장은 성장할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"특히, 최근 Chat GPT 등 AI 기술 혁신으로 빅테크 기업들간의 경쟁적 데이터 센터 투자 확대가 전망됨에 따라 서버용 반도체에서의 기판 수요 증가가 예상됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OLED\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"포토마스크는 시장 주도권 확보를 위해 OLED 등 프리미엄 모델 확대에 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Apple\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당기 연결실체 총 수익 중 매출액 10% 이상을 차지하는 단일 고객에 대한 매출은 광학/패키지 등의 매출 17,748,770백만원이며 매출액 기준 상위 10개 고객으로의 매출은 전체 매출의 87%를 구성합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Image Sensor\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"광학솔루션 | Image Sensor | 6,436,276 | 41% | 5,705,637 | 39% | 5,430,680 | 40%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Actuator\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"Actuator | 3,785,760 | 24% | 4,205,984 | 29% | 3,769,120 | 28%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Lens\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"Lens | 1,948,453 | 13% | 1,654,985 | 11% | 1,451,602 | 11%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IC\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"모빌리티솔루션 | IC | 419,219 | 34% | 429,337 | 33% | 432,364 | 30%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"안산 R&D 캠퍼스 | 경기도 안산시 상록구 한양대학로 55\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"구미1공장 | 경상북도 구미시 수출대로7길 50-9\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"광주공장 | 광주광역시 광산구 하남산단5번로 26\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"아시아 | 인도네시아 브카시, 베트남 하이퐁\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국 | 연태\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율 변동\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"- 환율 변동\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"- 국제 원자재가격 변동에 따른 부품가격 변동\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/011070_20260312001270.txt"
+}

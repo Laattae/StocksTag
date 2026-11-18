@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주요 영위업종은 손해보험업이며 보험상품 판매를 통한 보험료 수입으로보험금, 사업비, 운용자금 등의 필요한 재원을 충당하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "보험수익은 장기 및 자동차 보험에서의 수익이 가장 큰 비중을 차지하고 있으며 각각 다음과 같습니다.: 장기손해보험 중 장기보험 8조 2,644억원 (54.0%), 일반손해보험 중 자동차보험4조 861억원 (26.7%)"
+    },
+    {
+      "axis": "product",
+      "value": "장기보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보험수익은 장기 및 자동차 보험에서의 수익이 가장 큰 비중을 차지하고 있으며 각각 다음과 같습니다.: 장기손해보험 중 장기보험 8조 2,644억원 (54.0%)"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "또한 주요 수익창출원인 자산운용부문의 성과와 수입보험료의 상당부분을 차지하는 장기보험의수익이 금리와 시장 동향에 상당부분 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 환율 및 이자율 변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 계약 등을 체결하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 환율 및 이자율 변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 계약 등을 체결하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자동차보험(62.8%), 인보험(17.6%), 재산/기타보험(19.6%)를 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인보험",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "자동차보험(62.8%), 인보험(17.6%), 재산/기타보험(19.6%)를 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "재산종합보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "재산 종합 | 139,758 | 3.3% | 87,903 | 3.0% | 82,789 | 3.3%"
+    },
+    {
+      "axis": "product",
+      "value": "화재보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "화재 | 355,809 | 8.5% | 242,206 | 8.4% | 187,125 | 7.3%"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "2025년말 기준 베트남 손해보험사의 보험료 수입은 약 88조 1,945억동으로 전년 동기비 10.6%증가했으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"손해보험\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사의 주요 영위업종은 손해보험업이며 보험상품 판매를 통한 보험료 수입으로보험금, 사업비, 운용자금 등의 필요한 재원을 충당하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"자동차보험\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"보험수익은 장기 및 자동차 보험에서의 수익이 가장 큰 비중을 차지하고 있으며 각각 다음과 같습니다.: 장기손해보험 중 장기보험 8조 2,644억원 (54.0%), 일반손해보험 중 자동차보험4조 861억원 (26.7%)\"}, {\"axis\": \"product\", \"value\": \"장기보험\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"보험수익은 장기 및 자동차 보험에서의 수익이 가장 큰 비중을 차지하고 있으며 각각 다음과 같습니다.: 장기손해보험 중 장기보험 8조 2,644억원 (54.0%)\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"또한 주요 수익창출원인 자산운용부문의 성과와 수입보험료의 상당부분을 차지하는 장기보험의수익이 금리와 시장 동향에 상당부분 영향을 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 환율 및 이자율 변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 계약 등을 체결하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 환율 및 이자율 변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 계약 등을 체결하고 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자동차보험(62.8%), 인보험(17.6%), 재산/기타보험(19.6%)를 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인보험\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"자동차보험(62.8%), 인보험(17.6%), 재산/기타보험(19.6%)를 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"재산종합보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"재산 종합 | 139,758 | 3.3% | 87,903 | 3.0% | 82,789 | 3.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화재보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"화재 | 355,809 | 8.5% | 242,206 | 8.4% | 187,125 | 7.3%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"2025년말 기준 베트남 손해보험사의 보험료 수입은 약 88조 1,945억동으로 전년 동기비 10.6%증가했으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/005830_20260331003904.txt"
+}

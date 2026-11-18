@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LPCVD",
+      "weight": 0.81,
+      "direction": null,
+      "evidence": "반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비"
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "반도체용 산업가스반도체 소재 | 제품 | 전구체 | 반도체 전공정 중 박막증착에 사용되는 화학물질"
+    },
+    {
+      "axis": "product",
+      "value": "Plasma",
+      "weight": 0.81,
+      "direction": null,
+      "evidence": "반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비"
+    },
+    {
+      "axis": "product",
+      "value": "ALD",
+      "weight": 0.81,
+      "direction": null,
+      "evidence": "반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 장비 산업은 반도체 회로설계, 실리콘 웨이퍼 제조 등 반도체 제조를 위한 준비단계부터 웨이퍼를 가공, 칩 제조ㆍ조립 및 검사하는 단계까지의 모든 공정에 이용되는 장비와 관련된 산업을 말합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "customer",
+      "value": "MICRON",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "raw_material",
+      "value": "플랫폼",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체장비 | 원재료 | 플랫폼 | Brooks 등 | Wafer 이송장치 | 16,407 | 9.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "히터",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "히터 | Inabata 등 | Chamber 내 부속품(Wafer 고온 유지) | 14,396 | 8.5%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Eugenus Inc. | 미국 | 99.93% | 반도체장비 제조 | 12월 31일"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유진태극무역(무석)유한공사 | 중국 | 100% | 반도체 장비 유지보수, 반도체 장비 수입, 수출 | 12월 31일"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당사의 기능통화인 원화 외의 통화로 표시되는 매출채권 및 매입채무와 관련하여 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LPCVD\",\n      \"weight\": 0.81,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"반도체용 산업가스반도체 소재 | 제품 | 전구체 | 반도체 전공정 중 박막증착에 사용되는 화학물질\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Plasma\",\n      \"weight\": 0.81,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ALD\",\n      \"weight\": 0.81,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비 산업은 반도체 회로설계, 실리콘 웨이퍼 제조 등 반도체 제조를 위한 준비단계부터 웨이퍼를 가공, 칩 제조ㆍ조립 및 검사하는 단계까지의 모든 공정에 이용되는 장비와 관련된 산업을 말합니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"MICRON\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플랫폼\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 원재료 | 플랫폼 | Brooks 등 | Wafer 이송장치 | 16,407 | 9.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"히터\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"히터 | Inabata 등 | Chamber 내 부속품(Wafer 고온 유지) | 14,396 | 8.5%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Eugenus Inc. | 미국 | 99.93% | 반도체장비 제조 | 12월 31일\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유진태극무역(무석)유한공사 | 중국 | 100% | 반도체 장비 유지보수, 반도체 장비 수입, 수출 | 12월 31일\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당사의 기능통화인 원화 외의 통화로 표시되는 매출채권 및 매입채무와 관련하여 환위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/084370_20260319000837.txt"
+}

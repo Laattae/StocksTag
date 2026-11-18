@@ -1,0 +1,166 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "면역항암제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 주력하고 있는 이중항체 기반 면역항암제, ADC 및 퇴행성뇌질환 치료제 등의 글로벌 기술이전 사례는 시장의 unmet needs가 높다는 것을 뒷받침 해주기에 충분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴행성뇌질환 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 주력하고 있는 이중항체 기반 면역항암제, ADC 및 퇴행성뇌질환 치료제 등의 글로벌 기술이전 사례는 시장의 unmet needs가 높다는 것을 뒷받침 해주기에 충분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "항체-약물 접합체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "그 중 항체-약물 접합체(Antibody-drug conjugate, ADC)의 임상개발은 미국 현지 법인 NEOK Bio가 담당하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Grabody",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 기반 기술인 이중항체 플랫폼 'Grabody™'를 바탕으로 연구ㆍ개발하는 다양한 파이프라인의 기술이전(License-out)을 통해 중장기 성장이 가능한 사업모델을 추구하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "암",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "T 세포 관여 이중항체란 암세포 특이 발현 항원과 T 세포 표면에 있는 T 세포를 활성화 시키는 조절물질에 동시에 결합하는 이중항체로서"
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 개발 중인 뇌질환 치료 이중항체 과제 중 파킨슨병(Parkinson's disease) 치료항체는 질환의 근본적인 원인으로 생각되는 alpha-synuclein의 응집체 형태에 선택적으로 결합하여"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유한양행 사에 기술이전"
+    },
+    {
+      "axis": "customer",
+      "value": "Sanofi",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Sanofi 사에 기술이전"
+    },
+    {
+      "axis": "customer",
+      "value": "GSK",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "GSK가 당사의 BBB 셔틀 플랫폼 기술을 적용한 복수의 신규 타깃 후보물질을 개발 및 상업화할 수 있는 독점적 권리 이전"
+    },
+    {
+      "axis": "customer",
+      "value": "Eli Lilly and Company",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "릴리가 다양한 모달리티를 기반으로 당사의 Grabody-B 플랫폼 기술을 적용한 복수의 비공개 타깃 후보물질을 개발 및 상업화할 수 있는 독점적 권리 이전"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 종속회사에 해당하는 NEOK Bio는 미국에 위치한 이점을 살려 현지 CRO, CMO 및 미국 식품의약국 등과 직접 소통함으로써"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "한편, 외화에 대한 원화환율이 10% 상승할 경우 당기 및 전기 중 법인세비용차감전 손익은 각각 9,693,175천원 감소 및 360,359원 감소합니다."
+    },
+    {
+      "axis": "product",
+      "value": "이중항체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 바이오산업 내에서 가장 큰 비중을 차지하는 제약ㆍ바이오 산업에 종사하고 있으며, 바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항체-약물 접합체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ADC는 암세포 특이 발현 항원에 결합하는 항체에 강력한 세포독성을 지닌 약물을 링커(Linker)로 연결-접합시켜 만드는 약물로서"
+    },
+    {
+      "axis": "product",
+      "value": "면역항암제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "면역항암제는 인체의 면역 세포를 활용해 암을 치료하는 항암제입니다. 면역항암제에는 면역관문억제제, 세포 치료제, 항암 백신 등이 포함되며"
+    },
+    {
+      "axis": "product",
+      "value": "BBB 셔틀",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 IGF1R 기반 BBB 셔틀 플랫폼 그랩바디-B(Grabody-B)를 연구 개발하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항암제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성뇌질환 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Compass 사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- Compass 사에 기술이전 / Compass 사에서 임상 2/3상(담도암, 미국), Biomarker-driven basket 임상 2상(고형암, 미국)"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행 사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 유한양행 사에 기술이전 / 유한양행 사에서 임상 1/2상(미국/한국/호주)"
+    },
+    {
+      "axis": "customer",
+      "value": "Sanofi 사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Sanofi 사에서 후속 임상"
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "인구 증가와 고령화 등의 영향으로 암 발생은 지속적으로 증가하고 있으며, 매년 새롭게 암 진단을 받는 환자의 수는 2050년까지 약 3,500만명 이상 증가할 것으로 전망됩니다"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"면역항암제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 주력하고 있는 이중항체 기반 면역항암제, ADC 및 퇴행성뇌질환 치료제 등의 글로벌 기술이전 사례는 시장의 unmet needs가 높다는 것을 뒷받침 해주기에 충분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴행성뇌질환 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 주력하고 있는 이중항체 기반 면역항암제, ADC 및 퇴행성뇌질환 치료제 등의 글로벌 기술이전 사례는 시장의 unmet needs가 높다는 것을 뒷받침 해주기에 충분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체-약물 접합체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"그 중 항체-약물 접합체(Antibody-drug conjugate, ADC)의 임상개발은 미국 현지 법인 NEOK Bio가 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Grabody\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 기반 기술인 이중항체 플랫폼 'Grabody™'를 바탕으로 연구ㆍ개발하는 다양한 파이프라인의 기술이전(License-out)을 통해 중장기 성장이 가능한 사업모델을 추구하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"암\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"T 세포 관여 이중항체란 암세포 특이 발현 항원과 T 세포 표면에 있는 T 세포를 활성화 시키는 조절물질에 동시에 결합하는 이중항체로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"파킨슨병\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 개발 중인 뇌질환 치료 이중항체 과제 중 파킨슨병(Parkinson's disease) 치료항체는 질환의 근본적인 원인으로 생각되는 alpha-synuclein의 응집체 형태에 선택적으로 결합하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유한양행 사에 기술이전\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sanofi\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Sanofi 사에 기술이전\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GSK\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"GSK가 당사의 BBB 셔틀 플랫폼 기술을 적용한 복수의 신규 타깃 후보물질을 개발 및 상업화할 수 있는 독점적 권리 이전\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Eli Lilly and Company\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"릴리가 다양한 모달리티를 기반으로 당사의 Grabody-B 플랫폼 기술을 적용한 복수의 비공개 타깃 후보물질을 개발 및 상업화할 수 있는 독점적 권리 이전\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 종속회사에 해당하는 NEOK Bio는 미국에 위치한 이점을 살려 현지 CRO, CMO 및 미국 식품의약국 등과 직접 소통함으로써\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"한편, 외화에 대한 원화환율이 10% 상승할 경우 당기 및 전기 중 법인세비용차감전 손익은 각각 9,693,175천원 감소 및 360,359원 감소합니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"이중항체\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 바이오산업 내에서 가장 큰 비중을 차지하는 제약ㆍ바이오 산업에 종사하고 있으며, 바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"항체-약물 접합체\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"ADC는 암세포 특이 발현 항원에 결합하는 항체에 강력한 세포독성을 지닌 약물을 링커(Linker)로 연결-접합시켜 만드는 약물로서\"}, {\"axis\": \"product\", \"value\": \"면역항암제\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"면역항암제는 인체의 면역 세포를 활용해 암을 치료하는 항암제입니다. 면역항암제에는 면역관문억제제, 세포 치료제, 항암 백신 등이 포함되며\"}, {\"axis\": \"product\", \"value\": \"BBB 셔틀\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 IGF1R 기반 BBB 셔틀 플랫폼 그랩바디-B(Grabody-B)를 연구 개발하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"항암제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"퇴행성뇌질환 치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 의약품을 기반으로 항암제와 퇴행성뇌질환 치료제를 개발하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Compass 사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"- Compass 사에 기술이전 / Compass 사에서 임상 2/3상(담도암, 미국), Biomarker-driven basket 임상 2상(고형암, 미국)\"}, {\"axis\": \"customer\", \"value\": \"유한양행 사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"- 유한양행 사에 기술이전 / 유한양행 사에서 임상 1/2상(미국/한국/호주)\"}, {\"axis\": \"customer\", \"value\": \"Sanofi 사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"Sanofi 사에서 후속 임상\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"인구 증가와 고령화 등의 영향으로 암 발생은 지속적으로 증가하고 있으며, 매년 새롭게 암 진단을 받는 환자의 수는 2050년까지 약 3,500만명 이상 증가할 것으로 전망됩니다\"}]}"
+  ],
+  "text_path": "data/reports/298380_20260312000744.txt"
+}

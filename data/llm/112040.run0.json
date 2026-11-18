@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "MMORPG",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 창립 초기 정통 MMORPG 장르의 PC 온라인 게임 '미르의 전설2', '미르의 전설3'를 시작으로"
+    },
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "모바일 게임: '레전드 오브 이미르', '레전드 오브 이미르 글로벌' 등- IP 라이선스 사업"
+    },
+    {
+      "axis": "product",
+      "value": "IP 라이선스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "상기 '라이선스' 매출은 당사 게임 '미르의 전설' IP 등 라이선스 계약에 의해 발생되는 매출을 기재하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "블록체인 플랫폼",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "- '위믹스3.0' 기반 블록체인 플랫폼 사업"
+    },
+    {
+      "axis": "product",
+      "value": "캐주얼게임",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "캐주얼게임 | 146,973,134 | 23.94%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매에 대해 환위험에 노출되어있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "RPG/Action 게임",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "모바일 | RPG/Action 게임 | 307,470,574 | 50.07%"
+    },
+    {
+      "axis": "product",
+      "value": "캐주얼게임",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "캐주얼게임 | 146,973,134 | 23.94%"
+    },
+    {
+      "axis": "product",
+      "value": "위믹스 3.0",
+      "weight": 0.014,
+      "direction": null,
+      "evidence": "플랫폼 중심 서비스 지향적인 메인넷 '위믹스 3.0'을 2022년 10월 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "미르의 전설",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "상기 '라이선스' 매출은 당사 게임 '미르의 전설' IP 등 라이선스 계약에 의해 발생되는 매출을 기재하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위믹스 페이",
+      "weight": 0.014,
+      "direction": null,
+      "evidence": "당사의 블록체인 게임 플랫폼 '위믹스 플레이'에서 제공 중인 콘텐츠를 가상화폐로 결제할 수 있는 새로운 결제 서비스 '위믹스 페이(WEMIX PAY)'를 공개한 바 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "'㈜케이원제19호위탁관리부동산투자회사'는 '경기도 성남시 분당구 대왕판교로644번길 49(삼평동 676)'에 소재하고 있는 '위믹스타워'를 취득하여"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"MMORPG\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 창립 초기 정통 MMORPG 장르의 PC 온라인 게임 '미르의 전설2', '미르의 전설3'를 시작으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"모바일 게임: '레전드 오브 이미르', '레전드 오브 이미르 글로벌' 등- IP 라이선스 사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IP 라이선스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"상기 '라이선스' 매출은 당사 게임 '미르의 전설' IP 등 라이선스 계약에 의해 발생되는 매출을 기재하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"블록체인 플랫폼\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"- '위믹스3.0' 기반 블록체인 플랫폼 사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캐주얼게임\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"캐주얼게임 | 146,973,134 | 23.94%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매에 대해 환위험에 노출되어있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"RPG/Action 게임\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"모바일 | RPG/Action 게임 | 307,470,574 | 50.07%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캐주얼게임\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"캐주얼게임 | 146,973,134 | 23.94%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위믹스 3.0\",\n      \"weight\": 0.014,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 중심 서비스 지향적인 메인넷 '위믹스 3.0'을 2022년 10월 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미르의 전설\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"상기 '라이선스' 매출은 당사 게임 '미르의 전설' IP 등 라이선스 계약에 의해 발생되는 매출을 기재하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위믹스 페이\",\n      \"weight\": 0.014,\n      \"direction\": null,\n      \"evidence\": \"당사의 블록체인 게임 플랫폼 '위믹스 플레이'에서 제공 중인 콘텐츠를 가상화폐로 결제할 수 있는 새로운 결제 서비스 '위믹스 페이(WEMIX PAY)'를 공개한 바 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"'㈜케이원제19호위탁관리부동산투자회사'는 '경기도 성남시 분당구 대왕판교로644번길 49(삼평동 676)'에 소재하고 있는 '위믹스타워'를 취득하여\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/112040_20260319000853.txt"
+}

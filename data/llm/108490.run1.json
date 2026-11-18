@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "다이나믹셀",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "로봇 전용 부품 사업에서는 로봇의 관절 역할을 하는 핵심 구동 부품인 '다이나믹셀(DYNAMIXEL)'을 주력 제품으로 생산하며"
+    },
+    {
+      "axis": "product",
+      "value": "액츄에이터",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사는 로봇 전문 기업으로서, 액츄에이터(DYNAMIXEL) 및 감속기(DYD) 등 국산화에 성공한 고유의 원천 기술을 바탕으로"
+    },
+    {
+      "axis": "product",
+      "value": "감속기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 로봇 전문 기업으로서, 액츄에이터(DYNAMIXEL) 및 감속기(DYD) 등 국산화에 성공한 고유의 원천 기술을 바탕으로"
+    },
+    {
+      "axis": "product",
+      "value": "자율주행로봇",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "로봇 완제품 사업에서는 이 원천 부품 기술을 바탕으로 실내·외 배송 등에 활용되는 자율주행 로봇 '개미(GAEMI)'를 개발하고"
+    },
+    {
+      "axis": "product",
+      "value": "AI 워커",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "인간의 동작을 모방하고 강화 학습을 통해 작업을 최적화하는 양팔 로봇 'AI 워커(AI Worker)'를 통해 고부가가치 산업용 로봇 시장으로 사업 영역을 확장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류 배송",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자율주행로봇은 스스로 주변을 살피고 감지하며 목적지까지 최적의 경로를 알아서 찾아간다. 기존 사람이 직접 수행하던 배송, 안내, 방역, 건물관리 등의 작업이"
+    },
+    {
+      "axis": "application",
+      "value": "호텔",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "실내서비스의 첫 번째 타겟 시장을 광역서비스 공간으로서 배송로봇의 필요성이 대두되고 있는 호텔로 선정하고 영업을 추진하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자자재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | 전자자재 | 국 내 | 2,388,040 | 1,571,191 | 2,201,178 | 20.95%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MOTOR",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "MOTOR | 국 내 | 2,377,650 | 1,616,233 | 1,090,735 | 10.38%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FRAME",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "FRAME | 국 내 | 3,484,108 | 3,178,269 | 4,693,495 | 44.67%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "마곡공장 | 금형 | 2,974,717,407 | 58,380,182 | 384,900,929 | 2,648,196,660"
+    },
+    {
+      "axis": "exposure",
+      "value": "인건비 상승",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "전세계적인 저출산 및 고령화로 노동력 부족, 인건비 상승, 노동시장 수급 불균형 등의 사회적 문제가 점차 심각해지고 있습니다. 이에 따라 자율주행로봇은 하나의 대안으로서 큰 관심과 주목을 받고있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "전세계적인 저출산 및 고령화로 노동력 부족, 인건비 상승, 노동시장 수급 불균형 등의 사회적 문제가 점차 심각해지고 있습니다. 이에 따라 자율주행로봇은 하나의 대안으로서 큰 관심과 주목을 받고있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"다이나믹셀\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"로봇 전용 부품 사업에서는 로봇의 관절 역할을 하는 핵심 구동 부품인 '다이나믹셀(DYNAMIXEL)'을 주력 제품으로 생산하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"액츄에이터\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"당사는 로봇 전문 기업으로서, 액츄에이터(DYNAMIXEL) 및 감속기(DYD) 등 국산화에 성공한 고유의 원천 기술을 바탕으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 로봇 전문 기업으로서, 액츄에이터(DYNAMIXEL) 및 감속기(DYD) 등 국산화에 성공한 고유의 원천 기술을 바탕으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자율주행로봇\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"로봇 완제품 사업에서는 이 원천 부품 기술을 바탕으로 실내·외 배송 등에 활용되는 자율주행 로봇 '개미(GAEMI)'를 개발하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 워커\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"인간의 동작을 모방하고 강화 학습을 통해 작업을 최적화하는 양팔 로봇 'AI 워커(AI Worker)'를 통해 고부가가치 산업용 로봇 시장으로 사업 영역을 확장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류 배송\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자율주행로봇은 스스로 주변을 살피고 감지하며 목적지까지 최적의 경로를 알아서 찾아간다. 기존 사람이 직접 수행하던 배송, 안내, 방역, 건물관리 등의 작업이\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"호텔\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"실내서비스의 첫 번째 타겟 시장을 광역서비스 공간으로서 배송로봇의 필요성이 대두되고 있는 호텔로 선정하고 영업을 추진하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자자재\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 전자자재 | 국 내 | 2,388,040 | 1,571,191 | 2,201,178 | 20.95%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MOTOR\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"MOTOR | 국 내 | 2,377,650 | 1,616,233 | 1,090,735 | 10.38%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FRAME\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"FRAME | 국 내 | 3,484,108 | 3,178,269 | 4,693,495 | 44.67%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"마곡공장 | 금형 | 2,974,717,407 | 58,380,182 | 384,900,929 | 2,648,196,660\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인건비 상승\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"전세계적인 저출산 및 고령화로 노동력 부족, 인건비 상승, 노동시장 수급 불균형 등의 사회적 문제가 점차 심각해지고 있습니다. 이에 따라 자율주행로봇은 하나의 대안으로서 큰 관심과 주목을 받고있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"전세계적인 저출산 및 고령화로 노동력 부족, 인건비 상승, 노동시장 수급 불균형 등의 사회적 문제가 점차 심각해지고 있습니다. 이에 따라 자율주행로봇은 하나의 대안으로서 큰 관심과 주목을 받고있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/108490_20260708000478.txt"
+}

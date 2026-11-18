@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "메모리",
+      "weight": 0.81,
+      "direction": null,
+      "evidence": "반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%"
+    },
+    {
+      "axis": "product",
+      "value": "비메모리",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%"
+    },
+    {
+      "axis": "product",
+      "value": "패키지",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 사업분야는 반도체 산업의 후공정 분야인 반도체 조립 및 TEST제품을 주력으로 생산하고 있으며, 최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "시장환경은 휴대형 디지털 기기의 성능향상과 경박단소화가 빠르게 진행되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "서버",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "필리핀 법인의 경우 서버,PC향 메모리 사업의 시장 수요와 기술변화에 선제적인 대응을 통해 사업을 지속확대해 가며"
+    },
+    {
+      "axis": "application",
+      "value": "AI",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기존의 스마트 디바이스시장 외에 AI, IoT, 클라우드컴퓨팅, 무인주행차량 등 여러분야의 신기술과 결합되어 네트워크로 연결하고 사물을 지능화하는 4차 산업혁명으로"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Micron",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 기존 삼성전자, 하이닉스의 메모리 반도체 후공정 외주 물량은 물론 국내 Set업체 및 해외 고객의 High-end급 패키징물량을 수주하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.87,
+      "direction": null,
+      "evidence": "PCB | Chip과 주변회로를 연결하기 위한 PCB기판 | 125,813 | 87.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Gold Wire",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "Gold Wire | Chip의 Pad와 L/F의 Lead간을 연결해주는 순도 99.99의 금선 | 13,002 | 9.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "EMC",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "EMC | Wire bonding된 반제품을 PKG화하는 성형재료 | 2,829 | 2.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Solder Ball",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Solder Ball | 칩과 기판을 연결하여 전기적 신호를 전달하는 구 형태의 납 | 2,042 | 1.4%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "SFA 반도체 | 패키징 | 충청남도 천안시 서북구 백석공단 7로 16 | 반도체 부품 제조 | 본사"
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "SFA Semicon Philippines | 패키징 | Clark Freeport Zone, Pampanga, Philippines | 반도체 부품 제조 | 필리핀법인"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간말 현재 다른 모든 변수가 일정하고 외화에 대한 원화의 환율 10% 변동시 연결회사의 법인세차감전순이익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"메모리\", \"weight\": 0.81, \"direction\": null, \"evidence\": \"반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%\"}, {\"axis\": \"product\", \"value\": \"비메모리\", \"weight\": 0.18, \"direction\": null, \"evidence\": \"비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%\"}, {\"axis\": \"product\", \"value\": \"패키지\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 사업분야는 반도체 산업의 후공정 분야인 반도체 조립 및 TEST제품을 주력으로 생산하고 있으며, 최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"시장환경은 휴대형 디지털 기기의 성능향상과 경박단소화가 빠르게 진행되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"서버\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"필리핀 법인의 경우 서버,PC향 메모리 사업의 시장 수요와 기술변화에 선제적인 대응을 통해 사업을 지속확대해 가며\"}, {\"axis\": \"application\", \"value\": \"AI\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"기존의 스마트 디바이스시장 외에 AI, IoT, 클라우드컴퓨팅, 무인주행차량 등 여러분야의 신기술과 결합되어 네트워크로 연결하고 사물을 지능화하는 4차 산업혁명으로\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Micron\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 기존 삼성전자, 하이닉스의 메모리 반도체 후공정 외주 물량은 물론 국내 Set업체 및 해외 고객의 High-end급 패키징물량을 수주하여\"}, {\"axis\": \"raw_material\", \"value\": \"PCB\", \"weight\": 0.87, \"direction\": null, \"evidence\": \"PCB | Chip과 주변회로를 연결하기 위한 PCB기판 | 125,813 | 87.6%\"}, {\"axis\": \"raw_material\", \"value\": \"Gold Wire\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"Gold Wire | Chip의 Pad와 L/F의 Lead간을 연결해주는 순도 99.99의 금선 | 13,002 | 9.0%\"}, {\"axis\": \"raw_material\", \"value\": \"EMC\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"EMC | Wire bonding된 반제품을 PKG화하는 성형재료 | 2,829 | 2.0%\"}, {\"axis\": \"raw_material\", \"value\": \"Solder Ball\", \"weight\": 0.01, \"direction\": null, \"evidence\": \"Solder Ball | 칩과 기판을 연결하여 전기적 신호를 전달하는 구 형태의 납 | 2,042 | 1.4%\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"SFA 반도체 | 패키징 | 충청남도 천안시 서북구 백석공단 7로 16 | 반도체 부품 제조 | 본사\"}, {\"axis\": \"region\", \"value\": \"필리핀\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"SFA Semicon Philippines | 패키징 | Clark Freeport Zone, Pampanga, Philippines | 반도체 부품 제조 | 필리핀법인\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"보고기간말 현재 다른 모든 변수가 일정하고 외화에 대한 원화의 환율 10% 변동시 연결회사의 법인세차감전순이익에 미치는 영향은 다음과 같습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/036540_20260323000826.txt"
+}

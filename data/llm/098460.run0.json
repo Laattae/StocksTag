@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "3D 납도포 검사장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "3D 자동 광학 검사장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "뇌수술용 의료로봇",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 3D 검사장비 및 솔루션 사업에서 축적된 기술력을 바탕으로 의료 분야로 사업을 확장하였습니다. 뇌수술용 의료 로봇 카이메로(KYMERO)는"
+    },
+    {
+      "axis": "product",
+      "value": "3D 투명체 검사장비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "3D 투명체 검사장비(DPI)는 에폭시, 실리콘 등의 투명 물질이 균일하게 도포되었는지를 정밀 측정 및 검사하여 안정적인 품질 관리를 지원합니다."
+    },
+    {
+      "axis": "product",
+      "value": "AI 스마트 팩토리 플랫폼",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한, AI 기반 스마트 팩토리 플랫폼 'KSMART'는 KPO, SMART REVIEW 등의 핵심 솔루션을 활용하여 AI 기반의 실시간 데이터 분석과 공정 최적화를 구현합니다."
+    },
+    {
+      "axis": "application",
+      "value": "전자제품 산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이러한 핵심 원천 기술을 바탕으로 전자제품 및 반도체 산업 분야에 3D 정밀 측정 검사 장비 및 솔루션을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "반도체 산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이러한 핵심 원천 기술을 바탕으로 전자제품 및 반도체 산업 분야에 3D 정밀 측정 검사 장비 및 솔루션을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차 전장",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "3D SPI 사업부문 또한 서버 및 자동차전장 고객사 매출 확대에 힘입어 전년 대비 15.8% 증가한 86,019백만 원의 매출을 기록했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "3D AOI 사업부문은 서버 및 산업용 고객사 매출 확대에 힘입어 전년 대비 19.8% 증가한 117,955백만원의 매출을 기록했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신경외과 수술",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "특히 신경외과 수술 분야는 고도의 정밀성과 안전성이 요구되는 특성상, 수술로봇의 도입이 가속화되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "아울러 당사 뇌수술용 의료로봇 Geniant Cranial은 2025년 1월 미국 식품의약국(FDA) 510(k) 인허가를 획득하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2026년 1월에는 일본 후생노동성(MHLW) 인허가를 획득하여 글로벌 시장 진출 기반을 마련하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국(USD), 유럽(EUR), 일본(JPY)과 관련된 환율 변동 위험에 노출돼 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 납도포 검사장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 자동 광학 검사장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뇌수술용 의료로봇\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 3D 검사장비 및 솔루션 사업에서 축적된 기술력을 바탕으로 의료 분야로 사업을 확장하였습니다. 뇌수술용 의료 로봇 카이메로(KYMERO)는\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 투명체 검사장비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"3D 투명체 검사장비(DPI)는 에폭시, 실리콘 등의 투명 물질이 균일하게 도포되었는지를 정밀 측정 및 검사하여 안정적인 품질 관리를 지원합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 스마트 팩토리 플랫폼\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"또한, AI 기반 스마트 팩토리 플랫폼 'KSMART'는 KPO, SMART REVIEW 등의 핵심 솔루션을 활용하여 AI 기반의 실시간 데이터 분석과 공정 최적화를 구현합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전자제품 산업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이러한 핵심 원천 기술을 바탕으로 전자제품 및 반도체 산업 분야에 3D 정밀 측정 검사 장비 및 솔루션을 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체 산업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이러한 핵심 원천 기술을 바탕으로 전자제품 및 반도체 산업 분야에 3D 정밀 측정 검사 장비 및 솔루션을 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 전장\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"3D SPI 사업부문 또한 서버 및 자동차전장 고객사 매출 확대에 힘입어 전년 대비 15.8% 증가한 86,019백만 원의 매출을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"3D AOI 사업부문은 서버 및 산업용 고객사 매출 확대에 힘입어 전년 대비 19.8% 증가한 117,955백만원의 매출을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신경외과 수술\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"특히 신경외과 수술 분야는 고도의 정밀성과 안전성이 요구되는 특성상, 수술로봇의 도입이 가속화되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"아울러 당사 뇌수술용 의료로봇 Geniant Cranial은 2025년 1월 미국 식품의약국(FDA) 510(k) 인허가를 획득하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2026년 1월에는 일본 후생노동성(MHLW) 인허가를 획득하여 글로벌 시장 진출 기반을 마련하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국(USD), 유럽(EUR), 일본(JPY)과 관련된 환율 변동 위험에 노출돼 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/098460_20260312000804.txt"
+}

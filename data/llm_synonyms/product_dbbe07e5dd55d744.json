@@ -1,0 +1,65 @@
+{
+  "merges": [
+    {
+      "group": 6,
+      "canonical": "신탁",
+      "synonyms": [
+        "신탁업",
+        "신탁업무"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "압축기",
+      "synonyms": [
+        "압축기(COMP)",
+        "전동 압축기",
+        "전동압축기"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "엔블로",
+      "synonyms": [
+        "엔블로정"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "연포장재",
+      "synonyms": [
+        "연포장"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "소형모듈원자로",
+      "synonyms": [
+        "소형모듈원자로(SMR)",
+        "원자로 계통설계",
+        "원자로계통설계"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "육가공",
+      "synonyms": [
+        "육가공품"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "자동차 부품",
+      "synonyms": [
+        "자동차부품"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "자주포",
+      "synonyms": [
+        "K9 자주포"
+      ]
+    }
+  ]
+}

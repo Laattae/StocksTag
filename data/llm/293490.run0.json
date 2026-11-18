@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "카카오 배틀그라운드",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "PC게임의 주요 서비스 타이틀은 '카카오 배틀그라운드', '패스 오브 엑자일' 등으로 국내 및 글로벌 지역에서 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "오딘",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "주요 타이틀로는 '오딘: 발할라 라이징', '아키에이지 워', '아레스: 라이즈 오브 가디언즈', '롬(R.O.M)'"
+    },
+    {
+      "axis": "product",
+      "value": "아키에이지 워",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "모바일게임 | 오딘,아키에이지 워,롬 외 |"
+    },
+    {
+      "axis": "product",
+      "value": "패스 오브 엑자일",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "PC게임의 주요 서비스 타이틀은 '카카오 배틀그라운드', '패스 오브 엑자일' 등으로 국내 및 글로벌 지역에서 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우마무스메 프리티 더비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "'에버소울' 및 '우마무스메 프리티 더비'를 비롯하여, 프렌즈 IP를 활용한 다양한 캐주얼 게임을 서비스 중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "당기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 원화의 환율이 5.0% 변동 시연결회사의 법인세비용차감전손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "당기말 현재 다른 모든 변수가 일정하고 이자율이 1.0%p 변동할 경우, 연결회사의 세후이익에 미치는 영향은 아래와 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.2,
+      "direction": 1,
+      "evidence": "보고기간 종료일 현재 다른 모든 변수가 일정하고 시장성 있는 주식의 가격이 5% 상승 또는 하락할 경우, 세후기타포괄손익은 7,332백만원(전기: 9,097백만원)만큼 증가 또는 감소하였을 것입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"카카오 배틀그라운드\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"PC게임의 주요 서비스 타이틀은 '카카오 배틀그라운드', '패스 오브 엑자일' 등으로 국내 및 글로벌 지역에서 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오딘\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 '오딘: 발할라 라이징', '아키에이지 워', '아레스: 라이즈 오브 가디언즈', '롬(R.O.M)'\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아키에이지 워\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"모바일게임 | 오딘,아키에이지 워,롬 외 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"패스 오브 엑자일\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"PC게임의 주요 서비스 타이틀은 '카카오 배틀그라운드', '패스 오브 엑자일' 등으로 국내 및 글로벌 지역에서 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"우마무스메 프리티 더비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"'에버소울' 및 '우마무스메 프리티 더비'를 비롯하여, 프렌즈 IP를 활용한 다양한 캐주얼 게임을 서비스 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"당기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 원화의 환율이 5.0% 변동 시연결회사의 법인세비용차감전손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"당기말 현재 다른 모든 변수가 일정하고 이자율이 1.0%p 변동할 경우, 연결회사의 세후이익에 미치는 영향은 아래와 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.2,\n      \"direction\": 1,\n      \"evidence\": \"보고기간 종료일 현재 다른 모든 변수가 일정하고 시장성 있는 주식의 가격이 5% 상승 또는 하락할 경우, 세후기타포괄손익은 7,332백만원(전기: 9,097백만원)만큼 증가 또는 감소하였을 것입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/293490_20260318001659.txt"
+}

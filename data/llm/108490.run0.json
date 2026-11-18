@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "다이나믹셀",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "로봇 전용 부품 사업에서는 로봇의 관절 역할을 하는 핵심 구동 부품인 '다이나믹셀(DYNAMIXEL)'을 주력 제품으로 생산하며"
+    },
+    {
+      "axis": "product",
+      "value": "자율주행로봇",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "로봇 완제품 사업에서는 이 원천 부품 기술을 바탕으로 실내·외 배송 등에 활용되는 자율주행 로봇 '개미(GAEMI)'를 개발하고"
+    },
+    {
+      "axis": "product",
+      "value": "AI 워커",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인간의 동작을 모방하고 강화 학습을 통해 작업을 최적화하는 양팔 로봇 'AI 워커(AI Worker)'를 통해 고부가가치 산업용 로봇 시장으로"
+    },
+    {
+      "axis": "product",
+      "value": "다이나믹셀 드라이브",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "정밀감속기 다이나믹셀 드라이브(DYD)는 높은 내충격성과 소형화된 싸이클로이드 방식의 감속, 토크 컨트롤이 특징입니다."
+    },
+    {
+      "axis": "application",
+      "value": "배송",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기존 사람이 직접 수행하던 배송, 안내, 방역, 건물관리 등의 작업이 이젠 로봇을 통해"
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2021년 미국 현지 글로벌 물류 업체와 협업하여 실외 물류 배송 서비스 실증을 수행하였고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자자재",
+      "weight": 0.21,
+      "direction": null,
+      "evidence": "원재료 | 전자자재 | 국 내 | 2,388,040 | 1,571,191 | 2,201,178 | 20.95%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MOTOR",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "원재료 | MOTOR | 국 내 | 2,377,650 | 1,616,233 | 1,090,735 | 10.38%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FRAME",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "원재료 | FRAME | 국 내 | 3,484,108 | 3,178,269 | 4,693,495 | 44.67%"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "전자자재의 가격변동은 반도체수급 불균형에 따른 원재료 가격 상승이 원인이며, 공급망 다원화 및 판매가격 조정 등을 통해 복원 노력을 기울이고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"다이나믹셀\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"로봇 전용 부품 사업에서는 로봇의 관절 역할을 하는 핵심 구동 부품인 '다이나믹셀(DYNAMIXEL)'을 주력 제품으로 생산하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자율주행로봇\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"로봇 완제품 사업에서는 이 원천 부품 기술을 바탕으로 실내·외 배송 등에 활용되는 자율주행 로봇 '개미(GAEMI)'를 개발하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 워커\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인간의 동작을 모방하고 강화 학습을 통해 작업을 최적화하는 양팔 로봇 'AI 워커(AI Worker)'를 통해 고부가가치 산업용 로봇 시장으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"다이나믹셀 드라이브\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"정밀감속기 다이나믹셀 드라이브(DYD)는 높은 내충격성과 소형화된 싸이클로이드 방식의 감속, 토크 컨트롤이 특징입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"배송\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"기존 사람이 직접 수행하던 배송, 안내, 방역, 건물관리 등의 작업이 이젠 로봇을 통해\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2021년 미국 현지 글로벌 물류 업체와 협업하여 실외 물류 배송 서비스 실증을 수행하였고\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자자재\",\n      \"weight\": 0.21,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 전자자재 | 국 내 | 2,388,040 | 1,571,191 | 2,201,178 | 20.95%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MOTOR\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"원재료 | MOTOR | 국 내 | 2,377,650 | 1,616,233 | 1,090,735 | 10.38%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FRAME\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"원재료 | FRAME | 국 내 | 3,484,108 | 3,178,269 | 4,693,495 | 44.67%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"전자자재의 가격변동은 반도체수급 불균형에 따른 원재료 가격 상승이 원인이며, 공급망 다원화 및 판매가격 조정 등을 통해 복원 노력을 기울이고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/108490_20260708000478.txt"
+}

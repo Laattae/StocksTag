@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정수기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "공기청정기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "비데",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "product",
+      "value": "매트리스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2011년 10월 시작한 매트리스 사업은 시장에 조기안착 하였으며 순항중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "컴프레샤",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "헤파필터",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "헤파필터 | 공기정화 | 8,450 | 1% | (주)씨엔투스"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PBA 아세이",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "PBA 아세이 | 제어장치 | 90,128 | 11% | 주식회사 파워넷 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "내수경기",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "일시불 수요의 창출은 소비자의 소득수준과 내수경기에 밀접한 관련이 있으며 렌탈판매의 경우 경기변화에 큰 영향을 받지 않습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"정수기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공기청정기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비데\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"매트리스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2011년 10월 시작한 매트리스 사업은 시장에 조기안착 하였으며 순항중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 1989년 창립 이래 정수기, 공기청정기, 비데 등 환경가전 제품을 생산, 판매하는 환경가전 전문기업으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"컴프레샤\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"주요 매입 원재료로는 PBA 아세이, 컴프레샤 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"헤파필터\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"헤파필터 | 공기정화 | 8,450 | 1% | (주)씨엔투스\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PBA 아세이\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"PBA 아세이 | 제어장치 | 90,128 | 11% | 주식회사 파워넷 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 당사의 제품은 유구공장, 인천공장, 포천공장 등에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"내수경기\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"일시불 수요의 창출은 소비자의 소득수준과 내수경기에 밀접한 관련이 있으며 렌탈판매의 경우 경기변화에 큰 영향을 받지 않습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/021240_20260323000924.txt"
+}

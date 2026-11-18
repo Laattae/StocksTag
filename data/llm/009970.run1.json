@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아웃도어 의류",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 아웃도어 및 스포츠 의류, 신발, Backpack의 제조, 수출 및 유통사업을 영위하고"
+    },
+    {
+      "axis": "product",
+      "value": "자전거",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "글로벌 자전거 및 스포츠 브랜드 유통 사업에 진출하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신발",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "아웃도어 및 스포츠 의류, 신발, Backpack 등의 제품을 수주 받아"
+    },
+    {
+      "axis": "product",
+      "value": "Backpack",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "아웃도어 및 스포츠 의류, 신발, Backpack 등의 제품을 수주 받아"
+    },
+    {
+      "axis": "product",
+      "value": "기능성 원단",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "메리노울 원단, 폴리에스터 플리스 및 기능성 원단 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "The North Face",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터"
+    },
+    {
+      "axis": "customer",
+      "value": "Lululemon",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터"
+    },
+    {
+      "axis": "customer",
+      "value": "Patagonia",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터"
+    },
+    {
+      "axis": "region",
+      "value": "방글라데시",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와"
+    },
+    {
+      "axis": "region",
+      "value": "엘살바도르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와"
+    },
+    {
+      "axis": "region",
+      "value": "에티오피아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "연결회사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "인플레이션",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "인플레이션으로 인한 화폐가치 하락에 대응하기 위하여 상품선도 거래를 이용하고 있으며 해당 거래는 상품선도 가격 변동 리스크에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아웃도어 의류\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 아웃도어 및 스포츠 의류, 신발, Backpack의 제조, 수출 및 유통사업을 영위하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자전거\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"글로벌 자전거 및 스포츠 브랜드 유통 사업에 진출하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신발\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"아웃도어 및 스포츠 의류, 신발, Backpack 등의 제품을 수주 받아\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Backpack\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"아웃도어 및 스포츠 의류, 신발, Backpack 등의 제품을 수주 받아\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기능성 원단\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"메리노울 원단, 폴리에스터 플리스 및 기능성 원단 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"The North Face\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Lululemon\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Patagonia\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"방글라데시\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"엘살바도르\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"에티오피아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"방글라데시, 베트남, 엘살바도르 및 에티오피아 지역 공장별로 다변화된 생산기지와\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인플레이션\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"인플레이션으로 인한 화폐가치 하락에 대응하기 위하여 상품선도 거래를 이용하고 있으며 해당 거래는 상품선도 가격 변동 리스크에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/009970_20260319001240.txt"
+}

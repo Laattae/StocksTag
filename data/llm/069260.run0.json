@@ -1,0 +1,150 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "DNT",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사 주요제품은 폴리우레탄 중간소재인 DNT, MNB는 NT제품으로 2025년 매출은 7,665억원이며 전체매출의 68%에 해당합니다."
+    },
+    {
+      "axis": "product",
+      "value": "MNB",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사 주요제품은 폴리우레탄 중간소재인 DNT, MNB는 NT제품으로 2025년 매출은 7,665억원이며 전체매출의 68%에 해당합니다."
+    },
+    {
+      "axis": "product",
+      "value": "희질산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "암모니아가 주원료인 희질산, 농질산, 초안을 포함한 NA계열제품의 2025년 매출은 3,069억원이며 전체매출의 27%에 해당합니다."
+    },
+    {
+      "axis": "product",
+      "value": "초안",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "암모니아가 주원료인 희질산, 농질산, 초안을 포함한 NA계열제품의 2025년 매출은 3,069억원이며 전체매출의 27%에 해당합니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄소배출권",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "그 외 전자소재, 요소수 및 온실가스 저감으로 획득하는 탄소배출권을 판매하는2025년 기타 매출은 543억원이며 전체매출의 5%에 해당합니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "전자",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로"
+    },
+    {
+      "axis": "customer",
+      "value": "한국바스프",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "금호미쓰이화학",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한화솔루션",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "OCI",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "암모니아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "벤젠",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "톨루엔",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사 주요 제품의 판매가격은 시장에서 공개적으로 형성되는 국제가격은 없으나판매가격은 원재료 가격과 연동하여 국제 원재료 가격의 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "세계경기",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "석유화학 제품의 가격은 세계경기 및 경제전망, 수급 상황, 국제유가, 회사의 교섭력,수출지역, 정치상황 등 복합적인 요소로 결정되기에 정확한 예측이 어렵습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사가 국내에서 구매하는 벤젠, 톨루엔, 암모니아 등 주요 원재료의 가격은 원유가격과 밀접한 관계를 가지고 있는 관계로 주요 원재료의 가격 변동성에 전망은 다소 어려우나 사업구조상 원가에 주는 영향이 큼으로 주요 시장위험에 해당합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "또한 금융시장의 불확실성으로 인해 환율이나 시장금리의 불안정 상황이 도래하는 경우, 당사 자금 조달이나 자금운용에 어려움을 겪을 수 있으며 아울러 외화부채에 대한 원리금 상환부담 증가 등으로 이어질 수 있으므로 주요 시장위험에 해당합니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"DNT\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"당사 주요제품은 폴리우레탄 중간소재인 DNT, MNB는 NT제품으로 2025년 매출은 7,665억원이며 전체매출의 68%에 해당합니다.\"}, {\"axis\": \"product\", \"value\": \"MNB\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"당사 주요제품은 폴리우레탄 중간소재인 DNT, MNB는 NT제품으로 2025년 매출은 7,665억원이며 전체매출의 68%에 해당합니다.\"}, {\"axis\": \"product\", \"value\": \"희질산\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"암모니아가 주원료인 희질산, 농질산, 초안을 포함한 NA계열제품의 2025년 매출은 3,069억원이며 전체매출의 27%에 해당합니다.\"}, {\"axis\": \"product\", \"value\": \"초안\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"암모니아가 주원료인 희질산, 농질산, 초안을 포함한 NA계열제품의 2025년 매출은 3,069억원이며 전체매출의 27%에 해당합니다.\"}, {\"axis\": \"product\", \"value\": \"탄소배출권\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"그 외 전자소재, 요소수 및 온실가스 저감으로 획득하는 탄소배출권을 판매하는2025년 기타 매출은 543억원이며 전체매출의 5%에 해당합니다.\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로\"}, {\"axis\": \"application\", \"value\": \"조선\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로\"}, {\"axis\": \"application\", \"value\": \"전자\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로\"}, {\"axis\": \"application\", \"value\": \"건설\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"정밀화학 산업은 정유, 석유화학 등 기초 화학 산업으로부터 원료를 공급받아 자동차조선 및 전자, 건설, 화학 등 전방 산업에 원부자재를 공급하는 중간소재형 기간산업으로\"}, {\"axis\": \"customer\", \"value\": \"한국바스프\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"금호미쓰이화학\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"한화솔루션\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"OCI\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 한국바스프, 금호미쓰이화학, 한화솔루션, OCI 등과 장기공급계약을 맺고 제품을 공급하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"암모니아\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며\"}, {\"axis\": \"raw_material\", \"value\": \"벤젠\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며\"}, {\"axis\": \"raw_material\", \"value\": \"톨루엔\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 주요 제품 생산에 사용되는 주요 원재료는 암모니아, 톨루엔, 벤젠 등이며\"}, {\"axis\": \"exposure\", \"value\": \"원재료 가격\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"당사 주요 제품의 판매가격은 시장에서 공개적으로 형성되는 국제가격은 없으나판매가격은 원재료 가격과 연동하여 국제 원재료 가격의 영향을 받고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"세계경기\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"석유화학 제품의 가격은 세계경기 및 경제전망, 수급 상황, 국제유가, 회사의 교섭력,수출지역, 정치상황 등 복합적인 요소로 결정되기에 정확한 예측이 어렵습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"당사가 국내에서 구매하는 벤젠, 톨루엔, 암모니아 등 주요 원재료의 가격은 원유가격과 밀접한 관계를 가지고 있는 관계로 주요 원재료의 가격 변동성에 전망은 다소 어려우나 사업구조상 원가에 주는 영향이 큼으로 주요 시장위험에 해당합니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"또한 금융시장의 불확실성으로 인해 환율이나 시장금리의 불안정 상황이 도래하는 경우, 당사 자금 조달이나 자금운용에 어려움을 겪을 수 있으며 아울러 외화부채에 대한 원리금 상환부담 증가 등으로 이어질 수 있으므로 주요 시장위험에 해당합니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/069260_20260402002347.txt"
+}

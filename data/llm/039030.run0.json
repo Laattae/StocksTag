@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "레이저마커",
+      "weight": 0.745,
+      "direction": null,
+      "evidence": "레이저마커 및 응용기기 | 283,892 | 74.5%"
+    },
+    {
+      "axis": "product",
+      "value": "레이저커터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고"
+    },
+    {
+      "axis": "product",
+      "value": "레이저드릴러",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등"
+    },
+    {
+      "axis": "product",
+      "value": "레이저트리머",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "PCB",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "레이저를 이용한 LCD, OLED 등 디스플레이에 관련된 다양한 장비들을 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "휴대폰",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등"
+    },
+    {
+      "axis": "customer",
+      "value": "ASE",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "해외 | ASE, SPIL, TIMICRON, UTAC 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기계장치",
+      "weight": 0.696,
+      "direction": null,
+      "evidence": "원재료(국내) | 기계장치 등 | 레이저마커 및 응용기기용 | 69.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레이저",
+      "weight": 0.304,
+      "direction": null,
+      "evidence": "원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제어장치",
+      "weight": 0.304,
+      "direction": null,
+      "evidence": "원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 제품 및 상품의 상당부분을 수출하고 있으며, 수출거래로 인한 해외채권의 환율변동위험을 내포하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 산업 경기",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사의 레이저 응용기술은 반도체, PCB, Display, 휴대폰 산업의 경기와 밀접한 연관이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저마커\",\n      \"weight\": 0.745,\n      \"direction\": null,\n      \"evidence\": \"레이저마커 및 응용기기 | 283,892 | 74.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저커터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저드릴러\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저트리머\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"PCB\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용한 LCD, OLED 등 디스플레이에 관련된 다양한 장비들을 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"휴대폰\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ASE\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"해외 | ASE, SPIL, TIMICRON, UTAC 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기계장치\",\n      \"weight\": 0.696,\n      \"direction\": null,\n      \"evidence\": \"원재료(국내) | 기계장치 등 | 레이저마커 및 응용기기용 | 69.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레이저\",\n      \"weight\": 0.304,\n      \"direction\": null,\n      \"evidence\": \"원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제어장치\",\n      \"weight\": 0.304,\n      \"direction\": null,\n      \"evidence\": \"원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 제품 및 상품의 상당부분을 수출하고 있으며, 수출거래로 인한 해외채권의 환율변동위험을 내포하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 산업 경기\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사의 레이저 응용기술은 반도체, PCB, Display, 휴대폰 산업의 경기와 밀접한 연관이 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/039030_20260323001573.txt"
+}

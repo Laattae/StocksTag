@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "OLED 패널",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 OLED 및 TFT-LCD등 디스플레이 기술을 활용한 관련 제품의 연구, 개발, 제조, 판매를 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TFT-LCD 패널",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 OLED 및 TFT-LCD등 디스플레이 기술을 활용한 관련 제품의 연구, 개발, 제조, 판매를 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TV용 패널",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT용 패널",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "스마트폰용 패널",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Mobile 등 | 스마트폰, 워치용 패널 등 | LG Display | 9,372,982 | 36.3%"
+    },
+    {
+      "axis": "product",
+      "value": "자동차용 디스플레이 패널",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Auto | 자동차용 Display 패널 | LG Display | 2,136,277 | 8.3%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Glass",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "편광판",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Backlight",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "파주 | 경기도 파주시 월롱면 엘지로 245"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "구미 | 경상북도 구미시 3공단 2로 174 외"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 및 중국, 베트남에 생산 법인을 갖고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내 및 중국, 베트남에 생산 법인을 갖고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사는 해외 판매 비중이 높아 매출은 주로 미 달러화, 원재료 구매는 미 달러화, 엔화 및 위안화로 이루어지고 있어 환율 변동에 따라 영업 실적이 변동될 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "글로벌 경기",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사가 속한 디스플레이 산업은 글로벌 경기 상황과 긴밀하게 연동되어 있으며, 대규모 투자를 수반하는 특성상 수요와 공급의 불균형 발생 시 패널 가격의 등락과 이로 인한 수익의 변동성이 나타나 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 패널\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 OLED 및 TFT-LCD등 디스플레이 기술을 활용한 관련 제품의 연구, 개발, 제조, 판매를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TFT-LCD 패널\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 OLED 및 TFT-LCD등 디스플레이 기술을 활용한 관련 제품의 연구, 개발, 제조, 판매를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV용 패널\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT용 패널\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트폰용 패널\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Mobile 등 | 스마트폰, 워치용 패널 등 | LG Display | 9,372,982 | 36.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차용 디스플레이 패널\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Auto | 자동차용 Display 패널 | LG Display | 2,136,277 | 8.3%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Glass\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"편광판\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Backlight\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"파주 | 경기도 파주시 월롱면 엘지로 245\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"구미 | 경상북도 구미시 3공단 2로 174 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 및 중국, 베트남에 생산 법인을 갖고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내 및 중국, 베트남에 생산 법인을 갖고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사는 해외 판매 비중이 높아 매출은 주로 미 달러화, 원재료 구매는 미 달러화, 엔화 및 위안화로 이루어지고 있어 환율 변동에 따라 영업 실적이 변동될 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"글로벌 경기\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사가 속한 디스플레이 산업은 글로벌 경기 상황과 긴밀하게 연동되어 있으며, 대규모 투자를 수반하는 특성상 수요와 공급의 불균형 발생 시 패널 가격의 등락과 이로 인한 수익의 변동성이 나타나 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/034220_20260311003822.txt"
+}

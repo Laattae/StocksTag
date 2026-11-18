@@ -1,0 +1,151 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "유기재료",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 OLED의 핵심 구성요소인 유기재료를 생산하는 회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "HTL",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "OLED 발광 소재 중 당사는 HTL과 Red Host, R Prime, G Prime을 주력으로 양산하여 납품 중에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Red Host",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "OLED 발광 소재 중 당사는 HTL과 Red Host, R Prime, G Prime을 주력으로 양산하여 납품 중에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Black PDL",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한 2021년부터는 비발광소재인 Black PDL(Pixel Define Layer)를 세계 최초 개발에 성공하여 양산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CP",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 비발광소재로 CP(Conductive Particle Ball) 또한 양산 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펌프",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터"
+    },
+    {
+      "axis": "product",
+      "value": "압축기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터"
+    },
+    {
+      "axis": "product",
+      "value": "스팀터빈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로"
+    },
+    {
+      "axis": "application",
+      "value": "TV",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로"
+    },
+    {
+      "axis": "application",
+      "value": "노트북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로"
+    },
+    {
+      "axis": "application",
+      "value": "발전소",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "산업용 터보기계 부문에서는 발전소ㆍ플랜트 등에 사용되는 대형 산업용 펌프와 가스/공기 압축기등을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "선박용 터보기계 부문에서는 원유운반선의 원유 하역펌프와 선박의 접안을 보조하는 횡방향추력장치인 사이드 스러스터를 주요 제품으로 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "덕산네오룩스(주)는 디스플레이 소재 재료 매출은 주로 삼성디스플레이와 기타 해외업체 등으로 이루어져 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "사우디 Aramco",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "석유화학플랜트용 API672 공기압축기의 사우디 Aramco 공급자 등록 등 높은 진입장벽을 요구하는 시장에서 차별화된 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국가스공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "최근 한국가스공사와 협력하여 외산에만 100% 의존하고 있었던 국내 LNG터미널용 극저온 펌프의 국산화에 성공하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써 주요 제품에 대한 성능과 신뢰성을 철저히 검증하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써 주요 제품에 대한 성능과 신뢰성을 철저히 검증하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사의 매출은 수출 비중이 높으며, 외화 수금이 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 환리스크 관리의 주요 대상입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"유기재료\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 OLED의 핵심 구성요소인 유기재료를 생산하는 회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HTL\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"OLED 발광 소재 중 당사는 HTL과 Red Host, R Prime, G Prime을 주력으로 양산하여 납품 중에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Red Host\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"OLED 발광 소재 중 당사는 HTL과 Red Host, R Prime, G Prime을 주력으로 양산하여 납품 중에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Black PDL\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한 2021년부터는 비발광소재인 Black PDL(Pixel Define Layer)를 세계 최초 개발에 성공하여 양산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CP\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 비발광소재로 CP(Conductive Particle Ball) 또한 양산 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펌프\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"압축기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스팀터빈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현대중공업터보기계(주)는 40여 년 이상의 회전기계 분야 경험과 기술력을 바탕으로, 펌프/압축기/스팀터빈 등 산업용/선박용 터보기계의 제품 개발부터\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"TV\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"노트북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2021년 이후 기존의 Hand Set 시장에서 게임기, 태블릿, 노트북, TV 등 중소형 OLED 디스플레이에서 중형 및 대형 OLED 디스플레이로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전소\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"산업용 터보기계 부문에서는 발전소ㆍ플랜트 등에 사용되는 대형 산업용 펌프와 가스/공기 압축기등을 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"선박\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"선박용 터보기계 부문에서는 원유운반선의 원유 하역펌프와 선박의 접안을 보조하는 횡방향추력장치인 사이드 스러스터를 주요 제품으로 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"덕산네오룩스(주)는 디스플레이 소재 재료 매출은 주로 삼성디스플레이와 기타 해외업체 등으로 이루어져 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"사우디 Aramco\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"석유화학플랜트용 API672 공기압축기의 사우디 Aramco 공급자 등록 등 높은 진입장벽을 요구하는 시장에서 차별화된 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국가스공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"최근 한국가스공사와 협력하여 외산에만 100% 의존하고 있었던 국내 LNG터미널용 극저온 펌프의 국산화에 성공하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써 주요 제품에 대한 성능과 신뢰성을 철저히 검증하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써 주요 제품에 대한 성능과 신뢰성을 철저히 검증하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사의 매출은 수출 비중이 높으며, 외화 수금이 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 환리스크 관리의 주요 대상입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/213420_20260318001436.txt"
+}

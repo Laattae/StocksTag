@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.73,
+      "direction": null,
+      "evidence": "당사는 인간형 이족보행 로봇 개발을 통해 확보한 핵심 부품 및 요소 기술을 활용하여 협동로봇 사업을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "이족보행로봇",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "인간형 이족보행 로봇은 일본 'H사'의 아시모, 미국 'B사'의 아틀라스 플랫폼 및 당사의 'HUBO'가 전 세계적으로 인정받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "사족보행로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사의 순수 자체 기술로 개발한 사족보행로봇은 험지와 야지를 모두 보행 할 수 있는 로봇 플랫폼으로써"
+    },
+    {
+      "axis": "product",
+      "value": "초정밀지향마운트시스템",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "인간형 이족보행 로봇에 적용되는 핵심 기술을 활용한 또 다른 사업은 초정밀지향마운트시스템입니다."
+    },
+    {
+      "axis": "product",
+      "value": "자율이동로봇",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "자율이동로봇은 최종 고객이 요구하는 시스템의 요소로 활용되며, 제조 및 물류현장 자동화에 활용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "제조업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "협동로봇은 기존의 제조업뿐만 아니라 서비스 분야에서 적극적으로 활용되고있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "서비스업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "협동로봇은 기존의 제조업뿐만 아니라 서비스 분야에서 적극적으로 활용되고있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "천문 관측",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "초정밀지향마운트시스템은 1초각(3,600분의 1도) 수준의 정밀도를 가지고 있어 주로 천문 관측용 마운트 시스템으로 활용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "군사",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "최근에는 정찰 위성 탐색 등 군사 목적으로 활용된 바 있다."
+    },
+    {
+      "axis": "customer",
+      "value": "조달청",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 조달청을 통해 기관과 직접 계약하여 판매가 이루어지고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "모터",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "구동부품 | 모터, 하모닉드라이브"
+    },
+    {
+      "axis": "raw_material",
+      "value": "하모닉드라이브",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "구동부품 | 모터, 하모닉드라이브"
+    },
+    {
+      "axis": "raw_material",
+      "value": "센서",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전자부품 | PCB, Cable Ass'y, 제어장치, Sensor"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "미국 소재의 주립대학 구내식당 내의 납품 등 해외 수주 실적은 물론"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 주로 미국 달러와 엔화, 유로화, 싱가폴 달러와 관련된 환율 변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"협동로봇\", \"weight\": 0.73, \"direction\": null, \"evidence\": \"당사는 인간형 이족보행 로봇 개발을 통해 확보한 핵심 부품 및 요소 기술을 활용하여 협동로봇 사업을 진행하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"이족보행로봇\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"인간형 이족보행 로봇은 일본 'H사'의 아시모, 미국 'B사'의 아틀라스 플랫폼 및 당사의 'HUBO'가 전 세계적으로 인정받고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"사족보행로봇\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사의 순수 자체 기술로 개발한 사족보행로봇은 험지와 야지를 모두 보행 할 수 있는 로봇 플랫폼으로써\"}, {\"axis\": \"product\", \"value\": \"초정밀지향마운트시스템\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"인간형 이족보행 로봇에 적용되는 핵심 기술을 활용한 또 다른 사업은 초정밀지향마운트시스템입니다.\"}, {\"axis\": \"product\", \"value\": \"자율이동로봇\", \"weight\": 0.0, \"direction\": null, \"evidence\": \"자율이동로봇은 최종 고객이 요구하는 시스템의 요소로 활용되며, 제조 및 물류현장 자동화에 활용됩니다.\"}, {\"axis\": \"application\", \"value\": \"제조업\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"협동로봇은 기존의 제조업뿐만 아니라 서비스 분야에서 적극적으로 활용되고있습니다.\"}, {\"axis\": \"application\", \"value\": \"서비스업\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"협동로봇은 기존의 제조업뿐만 아니라 서비스 분야에서 적극적으로 활용되고있습니다.\"}, {\"axis\": \"application\", \"value\": \"천문 관측\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"초정밀지향마운트시스템은 1초각(3,600분의 1도) 수준의 정밀도를 가지고 있어 주로 천문 관측용 마운트 시스템으로 활용되고 있으며\"}, {\"axis\": \"application\", \"value\": \"군사\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"최근에는 정찰 위성 탐색 등 군사 목적으로 활용된 바 있다.\"}, {\"axis\": \"customer\", \"value\": \"조달청\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"또한 조달청을 통해 기관과 직접 계약하여 판매가 이루어지고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"모터\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"구동부품 | 모터, 하모닉드라이브\"}, {\"axis\": \"raw_material\", \"value\": \"하모닉드라이브\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"구동부품 | 모터, 하모닉드라이브\"}, {\"axis\": \"raw_material\", \"value\": \"센서\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"전자부품 | PCB, Cable Ass'y, 제어장치, Sensor\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"미국 소재의 주립대학 구내식당 내의 납품 등 해외 수주 실적은 물론\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"연결회사는 주로 미국 달러와 엔화, 유로화, 싱가폴 달러와 관련된 환율 변동위험에 노출되어 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/277810_20260320000803.txt"
+}

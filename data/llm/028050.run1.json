@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정유, 석유화학, 가스, Upstream 등 건설",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "정유, 석유화학, 가스, Upstream 등 건설"
+    },
+    {
+      "axis": "product",
+      "value": "산업설비, 인프라 등 건설",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "산업설비, 인프라 등 건설"
+    },
+    {
+      "axis": "product",
+      "value": "LNG, 청정에너지, ECO (Water) 등 건설 및 O&M",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "LNG, 청정에너지, ECO (Water) 등 건설 및 O&M"
+    },
+    {
+      "axis": "customer",
+      "value": "SAUDI ARABIAN OIL COMPANY",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "SAUDI ARABIAN OIL COMPANY | 2,838,087 | 31.43%"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "삼성전자(주) | 1,989,943 | 22.04%"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본사 GEC | 서울 강동구 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "기술연구소 | 경기 수원시 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "화공플랜트 산업은 국제유가와 석유 소비량/생산량, 주요 원유 및 가스 자원 보유국들의 투자 계획과 밀접한 관련이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 글로벌 영업활동을 수행함에 따라 보고통화와 다른 외화 수입, 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결회사는 시장금리 변동으로 인한 재무상태표 항목의 가치변동(공정가치) 위험과 투자 및 재무활동으로부터 발생하는 이자수익, 비용의 현금흐름이 변동될 위험으로 정의할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"정유, 석유화학, 가스, Upstream 등 건설\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"정유, 석유화학, 가스, Upstream 등 건설\"}, {\"axis\": \"product\", \"value\": \"산업설비, 인프라 등 건설\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"산업설비, 인프라 등 건설\"}, {\"axis\": \"product\", \"value\": \"LNG, 청정에너지, ECO (Water) 등 건설 및 O&M\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"LNG, 청정에너지, ECO (Water) 등 건설 및 O&M\"}, {\"axis\": \"customer\", \"value\": \"SAUDI ARABIAN OIL COMPANY\", \"weight\": 0.31, \"direction\": null, \"evidence\": \"SAUDI ARABIAN OIL COMPANY | 2,838,087 | 31.43%\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.22, \"direction\": null, \"evidence\": \"삼성전자(주) | 1,989,943 | 22.04%\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"본사 GEC | 서울 강동구 |\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"기술연구소 | 경기 수원시 |\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"화공플랜트 산업은 국제유가와 석유 소비량/생산량, 주요 원유 및 가스 자원 보유국들의 투자 계획과 밀접한 관련이 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결회사는 글로벌 영업활동을 수행함에 따라 보고통화와 다른 외화 수입, 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"연결회사는 시장금리 변동으로 인한 재무상태표 항목의 가치변동(공정가치) 위험과 투자 및 재무활동으로부터 발생하는 이자수익, 비용의 현금흐름이 변동될 위험으로 정의할 수 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/028050_20260311003927.txt"
+}

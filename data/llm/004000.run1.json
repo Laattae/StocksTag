@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "ECH",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "암모니아",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "유록스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "메셀로스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "헤셀로스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "애니코트",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "애니애디",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건축",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의약",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "식품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Methanex",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "메탄올 | Methanex | 해당사항 없음 | 일부업체의 과점형태 | 안정"
+    },
+    {
+      "axis": "raw_material",
+      "value": "메탄올",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "프로필렌",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "펄프",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소금",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "메셀로스, 헤셀로스 등 | 본사, 인천 | 57,919 | 60,486 | 65,179"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "회사는 수입을 통한 외화지출보다 수출을 통한 외화유입이 많으며, 환율변동위험에 노출되는 환포지션의 주요 통화로는 미국달러화(USD), 유로화(EUR) 및 일본엔화(JPY) 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"ECH\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"암모니아\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유록스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 ECH 15%, 가성소다 11%, 암모니아 24%, 유록스 5% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메셀로스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"헤셀로스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"애니코트\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"애니애디\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2025년 연간 매출 총액 기준 매출액 비율은 산업용(메셀로스, 헤셀로스) 20%, 식의약용(애니코트, 애니애디) 10% 등입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건축\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의약\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이들 제품은 건축, 코팅, 의약, 식품 등 광범위한 산업분야에서 널리사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Methanex\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"메탄올 | Methanex | 해당사항 없음 | 일부업체의 과점형태 | 안정\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"메탄올\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"프로필렌\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"펄프\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소금\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원재료 |  프로필렌, 펄프, 소금, 메탄올 등 | 384,975 | 86.5% | 412,339 | 86.7% | 403,524 | 87.3%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"메셀로스, 헤셀로스 등 | 본사, 인천 | 57,919 | 60,486 | 65,179\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"회사는 수입을 통한 외화지출보다 수출을 통한 외화유입이 많으며, 환율변동위험에 노출되는 환포지션의 주요 통화로는 미국달러화(USD), 유로화(EUR) 및 일본엔화(JPY) 등이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/004000_20260814002211.txt"
+}

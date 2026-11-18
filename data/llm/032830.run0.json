@@ -1,0 +1,243 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "사망보험",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "사망보험 수입보험료 규모는 각각 3조 8,542억원(14.42%), 13조 6,144억원(50.92%)"
+    },
+    {
+      "axis": "product",
+      "value": "생존보험",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "생존보험 수입보험료 규모는 각각 3조 8,542억원(14.42%), 13조 6,144억원(50.92%)"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": null,
+      "direction": null,
+      "evidence": "당기말 현재 약 1,352만명의 신용카드회원,약 306만개의 가맹점 및 12개의 영업ㆍ채권사업단을 기반으로 카드사업 부문과할부리스사업 부문 및 기타 부문의 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": null,
+      "direction": null,
+      "evidence": "법인 고객에게 단체생명보험과 퇴직연금을, 개인 고객에게는 생명보험과 연금보험 등 다양한 상품 및 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "연금보험",
+      "weight": null,
+      "direction": null,
+      "evidence": "광범위한 보호를 제공하는 보장성 보험상품과 노후대비를 위한 연금/저축성보험상품 등 개인의 생애 단계별 니즈에 부합하는 상품과 서비스를 제공하는 것을"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": null,
+      "direction": 1,
+      "evidence": "① 운용자산이익률 - 주가 상승으로 인한, 투자이익 증가대비 경과운용자산 증가폭 심화 ② 지급여력비율 - 금리 및 주가 상승등 시장 지표 개선으로 지급여력비율 상승"
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": null,
+      "direction": 1,
+      "evidence": "① 운용자산이익률 - 주가 상승으로 인한, 투자이익 증가대비 경과운용자산 증가폭 심화 ② 지급여력비율 - 금리 및 주가 상승등 시장 지표 개선으로 지급여력비율 상승"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "회사가 보유하는 해외채권에 대한 환율 및 이자율 변동 등에 따른 공정가치와 현금흐름의 변동위험을 회피할 목적으로 이자율 스왑과 통화스왑을 이용한"
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": null,
+      "direction": null,
+      "evidence": "태국 현지에서 태국인을 대상으로 생명보험사업을 영위하고 있으며, 개인채널 중심으로 운영"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "중국 북경 CBD핵심지역 내 토지를 낙찰받아 해당 부지에 오피스빌딩을 준공하였으며, 임대 및 빌딩 운영업무 수행"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 보유중인 유배당계약은 대부분 연금보험으로 해당 유배당 계약자에게 지급하기로 한 평균 7% 금리를 매년 복리로 계산하여 연금 지급기간 동안 보장하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "기업 또는 개인이 필요로 하는 기계 등 설비를 삼성카드가 직접 구입하여 리스이용자에게 리스기간동안 대여하고"
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "증권투자집합기구 주식형, 채권형, 혼합주식, 혼합채권, 재간접형, 파생형"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "2000년대 초반 이후 저금리 고착화로 인하여 자산운용수익률이 하락하였고, 이에 따라 발생한 이자율차 역마진(계약자에게 보장한 수익률 > 자산운용수익률) 현상은 보험회사의 경영상 상당한 리스크 요인으로 작용하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼성카드는 변동이자율 지급 조건인 외화 사채의 환율 변동위험 및 이자율 변동위험을 회피하기 위하여 금융기관과 통화스왑계약을 체결하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "사망보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "사망보험, 건강보험 등의 보장성보험과 연금보험, 저축보험 등의 저축성보험으로구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "건강보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "사망보험, 건강보험 등의 보장성보험과 연금보험, 저축보험 등의 저축성보험으로구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "우리 사회에서 가장 보편적이고 중요한 지급결제 서비스로 자리매김하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "리스금융",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "리스금융 산업은 도입 초기 정부의 지원과 제조업 중심의 경제 호황으로 급성장하면서, 기업의 중요한 설비 자금 조달 창구로서의 역할을 담당했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "테슬라",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "BYD",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "폴스타",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "서울특별시 강남구 일원로 81 (일원동)"
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "홍콩 | 1 | - | - | 1 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "뉴욕 | 1 | - | - | 1 |"
+    },
+    {
+      "axis": "region",
+      "value": "영국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "런던 | 1 | - | - | 1 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "금리 인하와 성장률 둔화로 과거와 같은 고성장세 회복 어려울 전망이나, 코로나 종료와 북경시 오피스 시장은"
+    },
+    {
+      "axis": "exposure",
+      "value": "물가상승률",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "실업률",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대출 부문은 개인의 가처분 소득, 실업률 등 경제환경과 밀접하게 관련되어 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"사망보험\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"사망보험 수입보험료 규모는 각각 3조 8,542억원(14.42%), 13조 6,144억원(50.92%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생존보험\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"생존보험 수입보험료 규모는 각각 3조 8,542억원(14.42%), 13조 6,144억원(50.92%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당기말 현재 약 1,352만명의 신용카드회원,약 306만개의 가맹점 및 12개의 영업ㆍ채권사업단을 기반으로 카드사업 부문과할부리스사업 부문 및 기타 부문의 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"법인 고객에게 단체생명보험과 퇴직연금을, 개인 고객에게는 생명보험과 연금보험 등 다양한 상품 및 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연금보험\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"광범위한 보호를 제공하는 보장성 보험상품과 노후대비를 위한 연금/저축성보험상품 등 개인의 생애 단계별 니즈에 부합하는 상품과 서비스를 제공하는 것을\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"① 운용자산이익률 - 주가 상승으로 인한, 투자이익 증가대비 경과운용자산 증가폭 심화 ② 지급여력비율 - 금리 및 주가 상승등 시장 지표 개선으로 지급여력비율 상승\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"① 운용자산이익률 - 주가 상승으로 인한, 투자이익 증가대비 경과운용자산 증가폭 심화 ② 지급여력비율 - 금리 및 주가 상승등 시장 지표 개선으로 지급여력비율 상승\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"회사가 보유하는 해외채권에 대한 환율 및 이자율 변동 등에 따른 공정가치와 현금흐름의 변동위험을 회피할 목적으로 이자율 스왑과 통화스왑을 이용한\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"태국 현지에서 태국인을 대상으로 생명보험사업을 영위하고 있으며, 개인채널 중심으로 운영\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"중국 북경 CBD핵심지역 내 토지를 낙찰받아 해당 부지에 오피스빌딩을 준공하였으며, 임대 및 빌딩 운영업무 수행\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 보유중인 유배당계약은 대부분 연금보험으로 해당 유배당 계약자에게 지급하기로 한 평균 7% 금리를 매년 복리로 계산하여 연금 지급기간 동안 보장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"기업 또는 개인이 필요로 하는 기계 등 설비를 삼성카드가 직접 구입하여 리스이용자에게 리스기간동안 대여하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"증권투자집합기구 주식형, 채권형, 혼합주식, 혼합채권, 재간접형, 파생형\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"2000년대 초반 이후 저금리 고착화로 인하여 자산운용수익률이 하락하였고, 이에 따라 발생한 이자율차 역마진(계약자에게 보장한 수익률 > 자산운용수익률) 현상은 보험회사의 경영상 상당한 리스크 요인으로 작용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼성카드는 변동이자율 지급 조건인 외화 사채의 환율 변동위험 및 이자율 변동위험을 회피하기 위하여 금융기관과 통화스왑계약을 체결하고 있으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"사망보험\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"사망보험, 건강보험 등의 보장성보험과 연금보험, 저축보험 등의 저축성보험으로구분됩니다.\"}, {\"axis\": \"product\", \"value\": \"건강보험\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"사망보험, 건강보험 등의 보장성보험과 연금보험, 저축보험 등의 저축성보험으로구분됩니다.\"}, {\"axis\": \"product\", \"value\": \"신용카드\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"우리 사회에서 가장 보편적이고 중요한 지급결제 서비스로 자리매김하였습니다.\"}, {\"axis\": \"product\", \"value\": \"할부금융\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"리스금융\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"리스금융 산업은 도입 초기 정부의 지원과 제조업 중심의 경제 호황으로 급성장하면서, 기업의 중요한 설비 자금 조달 창구로서의 역할을 담당했습니다.\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"테슬라\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"BYD\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"폴스타\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"삼성카드는 세계 전기차 시장을 주도하는 테슬라와 BYD, 그리고 볼보 계열의 전기차 브랜드인 폴스타 등 국내 진출한 전기차 메이커들과의 단독 카드결제 제휴를 체결하였습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"서울특별시 강남구 일원로 81 (일원동)\"}, {\"axis\": \"region\", \"value\": \"홍콩\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"홍콩 | 1 | - | - | 1 |\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"뉴욕 | 1 | - | - | 1 |\"}, {\"axis\": \"region\", \"value\": \"영국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"런던 | 1 | - | - | 1 |\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"금리 인하와 성장률 둔화로 과거와 같은 고성장세 회복 어려울 전망이나, 코로나 종료와 북경시 오피스 시장은\"}, {\"axis\": \"exposure\", \"value\": \"물가상승률\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다.\"}, {\"axis\": \"exposure\", \"value\": \"실업률\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"대출 부문은 개인의 가처분 소득, 실업률 등 경제환경과 밀접하게 관련되어 있으며\"}]}\n```"
+  ],
+  "text_path": "data/reports/032830_20260331004244.txt"
+}

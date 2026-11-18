@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PSU",
+      "weight": 0.66,
+      "direction": null,
+      "evidence": "구분 | 2025년 | 2024년 | 2023년 | PSU | 66.3% | 72.5% | 73.6%"
+    },
+    {
+      "axis": "product",
+      "value": "필름콘덴서",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "필름콘덴서 | 31.2% | 26.4% | 25.7%"
+    },
+    {
+      "axis": "product",
+      "value": "증착필름",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "증착필름 | 2.5% | 1.1% | 0.7%"
+    },
+    {
+      "axis": "product",
+      "value": "SMPS",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2007년부터 미래 주요 성장산업 중 하나인 프린터사업에 뛰어들어 현재는 HP, 신도리코와 대만 및 중국 로컬 프린터 제조 메이커에 당사 제품을 납품하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "프린터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터 센터",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "콘덴서 사업은 디지털 TV, PC, 노트북, 가전제품, 게임 콘솔뿐 아니라 데이터 센터, ESS(에너지저장장치), 전기차 및 충전소 등 부가가치가 높은 시장을 잇따라 개척하며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "콘덴서 사업부는 42년간 지속해 온 제조기술 및 콘덴서 제조설비 직접제작 능력을 바탕으로 2005년부터 D-TV용 Film Capacitor를 삼성전자에 독점 공급하는 등"
+    },
+    {
+      "axis": "customer",
+      "value": "애플",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "도시바, 산요, 파나소닉, 애플, 필립스 등에 당사 제품을 공급하기 시작했으며, 매출량 확대를 위한 노력을 지속적으로 펼쳐나가고 있다."
+    },
+    {
+      "axis": "customer",
+      "value": "경동나비엔",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "내수 | 직접판매 | 당사 BRAND | 경동나비엔 | 30일 현금"
+    },
+    {
+      "axis": "customer",
+      "value": "위닉스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "내수 | 직접판매 | 당사 BRAND | 위닉스 | 60일 현금"
+    },
+    {
+      "axis": "raw_material",
+      "value": "DIODE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품 목 | 2025년 | 2024년 | 2023년 | DIODE | 25.86 | 24.16 | 27.63"
+    },
+    {
+      "axis": "raw_material",
+      "value": "WAFER",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품 목 | 2025년 | 2024년 | 2023년 | WAFER | 52.16 | 52.69 | 52.67"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2) 국내 및 중국 2개 생산지(중국 북부 산동성,남부 광동성)를 통한 Global 공급망"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "일일 및 주간, 월간, 분기별 환율동향에 대해 지속적으로 체크 및 분석을 공유하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"PSU\", \"weight\": 0.66, \"direction\": null, \"evidence\": \"구분 | 2025년 | 2024년 | 2023년 | PSU | 66.3% | 72.5% | 73.6%\"}, {\"axis\": \"product\", \"value\": \"필름콘덴서\", \"weight\": 0.31, \"direction\": null, \"evidence\": \"필름콘덴서 | 31.2% | 26.4% | 25.7%\"}, {\"axis\": \"product\", \"value\": \"증착필름\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"증착필름 | 2.5% | 1.1% | 0.7%\"}, {\"axis\": \"product\", \"value\": \"SMPS\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"2007년부터 미래 주요 성장산업 중 하나인 프린터사업에 뛰어들어 현재는 HP, 신도리코와 대만 및 중국 로컬 프린터 제조 메이커에 당사 제품을 납품하고 있으며\"}, {\"axis\": \"application\", \"value\": \"프린터\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"태양광\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"파워(전원공급장치) 사업은 프린터, 복합기, 보일러, 생활가전, LED 조명은 물론 태양광과 수소차·전기차, 전기오토바이 및 충전장치용으로 적용처를 넓혀 나가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"데이터 센터\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"콘덴서 사업은 디지털 TV, PC, 노트북, 가전제품, 게임 콘솔뿐 아니라 데이터 센터, ESS(에너지저장장치), 전기차 및 충전소 등 부가가치가 높은 시장을 잇따라 개척하며\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"콘덴서 사업부는 42년간 지속해 온 제조기술 및 콘덴서 제조설비 직접제작 능력을 바탕으로 2005년부터 D-TV용 Film Capacitor를 삼성전자에 독점 공급하는 등\"}, {\"axis\": \"customer\", \"value\": \"애플\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"도시바, 산요, 파나소닉, 애플, 필립스 등에 당사 제품을 공급하기 시작했으며, 매출량 확대를 위한 노력을 지속적으로 펼쳐나가고 있다.\"}, {\"axis\": \"customer\", \"value\": \"경동나비엔\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"내수 | 직접판매 | 당사 BRAND | 경동나비엔 | 30일 현금\"}, {\"axis\": \"customer\", \"value\": \"위닉스\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"내수 | 직접판매 | 당사 BRAND | 위닉스 | 60일 현금\"}, {\"axis\": \"raw_material\", \"value\": \"DIODE\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"품 목 | 2025년 | 2024년 | 2023년 | DIODE | 25.86 | 24.16 | 27.63\"}, {\"axis\": \"raw_material\", \"value\": \"WAFER\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"품 목 | 2025년 | 2024년 | 2023년 | WAFER | 52.16 | 52.69 | 52.67\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2) 국내 및 중국 2개 생산지(중국 북부 산동성,남부 광동성)를 통한 Global 공급망\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"일일 및 주간, 월간, 분기별 환율동향에 대해 지속적으로 체크 및 분석을 공유하고 있습니다.\", \"direction\": null}]}"
+  ],
+  "text_path": "data/reports/043260_20260320001361.txt"
+}

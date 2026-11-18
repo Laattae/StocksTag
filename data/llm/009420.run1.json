@@ -1,0 +1,173 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "바이오탑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "의약품 매출은 프로바이오틱스 의약품 '바이오탑', 전립선암 및 중추성 성조숙증 치료제 '엘리가드', 비흡수성 항생제 '노르믹스' 및 탈모치료제 등 주력 품목의 약진으로 안정적인 성장세를 이어갔다."
+    },
+    {
+      "axis": "product",
+      "value": "헤어그로",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주력 제품인 '헤어그로'는 역대 최대 판매량을 기록하며 피나스테리드 1mg 제네릭 처방ㆍ조제약 시장에서 점유율 1위를 확보했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "엘리가드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한 전립선암 및 성조숙증 치료제 '엘리가드'는 전립선암 치료제 시장 내 선도적 위치를 유지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "바토클리맙",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 연구과제 중 하나인 자가면역질환 치료 신약 바토클리맙 (HL161BKN) 및 아이메로프루바트 (HL161ANS)는 FcRn을 타깃하는 완전인간 단일클론항체로 자가면역질환을 유발하는 체내 IgG 항체 감소를 통해 질환을 치료하는 기전입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아이메로프루바트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이뮤노반트는 지난 2023년 차세대 FcRn 항체 (next generation anti-FcRn) 아이메로프루바트의 임상 1상 시험에서 바토클리맙과 유사한 항체 감소 효과와 함께 알부민 및 LDL-콜레스테롤 수치에 거의 영향을 주지 않는 우수한 결과를 확보하고"
+    },
+    {
+      "axis": "product",
+      "value": "탄파너셉트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증 치료 신약 'HL036 (물질명: 탄파너셉트)'도 임상 3상 단계에서 개발되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "노르믹스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "의약품 매출은 프로바이오틱스 의약품 '바이오탑', 전립선암 및 중추성 성조숙증 치료제 '엘리가드', 비흡수성 항생제 '노르믹스' 및 탈모치료제 등 주력 품목의 약진으로 안정적인 성장세를 이어갔다."
+    },
+    {
+      "axis": "customer",
+      "value": "이뮤노반트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 파트너사인 이뮤노반트 (Immunovant)와의 협력을 통해 다양한 적응증을 대상으로 글로벌 임상을 진행 중에 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "하버바이오메드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하버바이오메드 (Harbour BioMed)는 중화권 지역에서 바토클리맙을 개발하고 있으며 2024년 6월 바토클리맙의 중증근무력증 적응증에 대한 중국 내 품목허가 신청서 재제출을 완료한 바 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "대웅제약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 뉴론 파마슈티컬스 (NurrOn Pharmaceuticals), 대웅제약과는 2023년 5월 HL192를 파킨슨병을 포함한 다양한 신경퇴행성 질환을 대상으로 개발하기 위한 공동연구에 돌입하며 오픈 콜라보레이션을 확대한 바 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "로이반트 사이언스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "로이반트 사이언스 (Roivant Sciences, 스위스) 및 이뮤노반트*"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Saccharomyces Boulardii",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Saccharomyces Boulardii | 정장제 | 2,080 | 15.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Metformin Hydrochloride",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Metformin Hydrochloride | 당뇨병치료제 | 1,348 | 10.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Finasteride",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Finasteride | 탈모치료제 | 940 | 7.0%"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "공장 | 자가보유 | 대전 | 14,645 | 1,373,677"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 자회사인 HPI, Inc. (HanAll Pharmaceutical International, Inc.)는 미국 현지법인으로 당사가 개발하는 신약의 해외임상 진행 및 라이선스 업무 등을 담당하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제약산업이 타 산업에 비하여 경기변동에 둔감한 편이라고 할 수 있지만 환율 등 원료수급에 영향을 미치는 요인, 일괄 약가인하 등과 같은 정부의 정책변화 등에 따라 회사별로 매출 및 수익구조가 변동될 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "정부 정책",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제약산업이 타 산업에 비하여 경기변동에 둔감한 편이라고 할 수 있지만 환율 등 원료수급에 영향을 미치는 요인, 일괄 약가인하 등과 같은 정부의 정책변화 등에 따라 회사별로 매출 및 수익구조가 변동될 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "안구건조증 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2024년 기준 전세계 안구건조증 치료제 시장은 74.9억 달러 (약 10.9조원)로 추정되고"
+    },
+    {
+      "axis": "product",
+      "value": "파킨슨병 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "HL192는 파킨슨 병의 원인인 도파민생성세포에 작용하여 병의 진행을 근원적으로 억제하면서도 증상을 완화시킬 수 있는 치료제로 개발 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "인공눈물",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "그 외 OTC (일반의약품) 시장에서는 인공눈물, 연고 등 여러 제품들이 경쟁을 벌이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환경변화",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "스마트폰 과다 사용, 미세먼지 등 환경변화에 따라 환자가 증가하고 있는 추세에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "지금까지 FDA (미국 식품의약국)로부터 허가 받은 ETC (전문의약품) 안구건조증 치료제로는"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오탑\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"의약품 매출은 프로바이오틱스 의약품 '바이오탑', 전립선암 및 중추성 성조숙증 치료제 '엘리가드', 비흡수성 항생제 '노르믹스' 및 탈모치료제 등 주력 품목의 약진으로 안정적인 성장세를 이어갔다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"헤어그로\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주력 제품인 '헤어그로'는 역대 최대 판매량을 기록하며 피나스테리드 1mg 제네릭 처방ㆍ조제약 시장에서 점유율 1위를 확보했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엘리가드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한 전립선암 및 성조숙증 치료제 '엘리가드'는 전립선암 치료제 시장 내 선도적 위치를 유지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바토클리맙\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 연구과제 중 하나인 자가면역질환 치료 신약 바토클리맙 (HL161BKN) 및 아이메로프루바트 (HL161ANS)는 FcRn을 타깃하는 완전인간 단일클론항체로 자가면역질환을 유발하는 체내 IgG 항체 감소를 통해 질환을 치료하는 기전입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이메로프루바트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이뮤노반트는 지난 2023년 차세대 FcRn 항체 (next generation anti-FcRn) 아이메로프루바트의 임상 1상 시험에서 바토클리맙과 유사한 항체 감소 효과와 함께 알부민 및 LDL-콜레스테롤 수치에 거의 영향을 주지 않는 우수한 결과를 확보하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄파너셉트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증 치료 신약 'HL036 (물질명: 탄파너셉트)'도 임상 3상 단계에서 개발되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"노르믹스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"의약품 매출은 프로바이오틱스 의약품 '바이오탑', 전립선암 및 중추성 성조숙증 치료제 '엘리가드', 비흡수성 항생제 '노르믹스' 및 탈모치료제 등 주력 품목의 약진으로 안정적인 성장세를 이어갔다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"이뮤노반트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 파트너사인 이뮤노반트 (Immunovant)와의 협력을 통해 다양한 적응증을 대상으로 글로벌 임상을 진행 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"하버바이오메드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하버바이오메드 (Harbour BioMed)는 중화권 지역에서 바토클리맙을 개발하고 있으며 2024년 6월 바토클리맙의 중증근무력증 적응증에 대한 중국 내 품목허가 신청서 재제출을 완료한 바 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대웅제약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 뉴론 파마슈티컬스 (NurrOn Pharmaceuticals), 대웅제약과는 2023년 5월 HL192를 파킨슨병을 포함한 다양한 신경퇴행성 질환을 대상으로 개발하기 위한 공동연구에 돌입하며 오픈 콜라보레이션을 확대한 바 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"로이반트 사이언스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"로이반트 사이언스 (Roivant Sciences, 스위스) 및 이뮤노반트*\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Saccharomyces Boulardii\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Saccharomyces Boulardii | 정장제 | 2,080 | 15.4%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Metformin Hydrochloride\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"Metformin Hydrochloride | 당뇨병치료제 | 1,348 | 10.0%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Finasteride\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Finasteride | 탈모치료제 | 940 | 7.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"공장 | 자가보유 | 대전 | 14,645 | 1,373,677\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 자회사인 HPI, Inc. (HanAll Pharmaceutical International, Inc.)는 미국 현지법인으로 당사가 개발하는 신약의 해외임상 진행 및 라이선스 업무 등을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"제약산업이 타 산업에 비하여 경기변동에 둔감한 편이라고 할 수 있지만 환율 등 원료수급에 영향을 미치는 요인, 일괄 약가인하 등과 같은 정부의 정책변화 등에 따라 회사별로 매출 및 수익구조가 변동될 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"정부 정책\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"제약산업이 타 산업에 비하여 경기변동에 둔감한 편이라고 할 수 있지만 환율 등 원료수급에 영향을 미치는 요인, 일괄 약가인하 등과 같은 정부의 정책변화 등에 따라 회사별로 매출 및 수익구조가 변동될 수 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"안구건조증 치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2024년 기준 전세계 안구건조증 치료제 시장은 74.9억 달러 (약 10.9조원)로 추정되고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파킨슨병 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"HL192는 파킨슨 병의 원인인 도파민생성세포에 작용하여 병의 진행을 근원적으로 억제하면서도 증상을 완화시킬 수 있는 치료제로 개발 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인공눈물\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"그 외 OTC (일반의약품) 시장에서는 인공눈물, 연고 등 여러 제품들이 경쟁을 벌이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경변화\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"스마트폰 과다 사용, 미세먼지 등 환경변화에 따라 환자가 증가하고 있는 추세에 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"지금까지 FDA (미국 식품의약국)로부터 허가 받은 ETC (전문의약품) 안구건조증 치료제로는\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/009420_20260318001637.txt"
+}

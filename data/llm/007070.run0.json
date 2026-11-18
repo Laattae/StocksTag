@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가"
+    },
+    {
+      "axis": "product",
+      "value": "수퍼마켓",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가, 홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소, 개발사업 부문은 343억원으로 4.78% 감소"
+    },
+    {
+      "axis": "product",
+      "value": "가정간편식품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 식품의 안정성을 확보하고 차별화된 F/F(Fresh Food) 상품을 제공하기 위해 2007년 F/F 상품을 제조/공급하는 자회사인 (주)후레쉬서브를 설립하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "최저임금",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "유통업은 경기변동 및 소비심리에 매우 민감하게 반응하는 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "부동산 산업은 고금리 및 원자재 가격 상승에 따른 공사비 부담, 대출 심사 강화 등의 영향으로 신중한 투자 환경이 이어지고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "PT. GS Retail Indonesia는 수퍼 사업의 해외 진출을 위해 인도네시아 현지에 설립된 법인으로"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "GSLL, Inc는 2016년 미국 현지에 설립된 법인으로, 기존 사업 및 신사업에 대한 인사이트 제공"
+    },
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "수퍼마켓",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 및 인건비",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"편의점\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"편의점 사업 부문은 8조 9,397억원으로 3.16% 증가, 수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수퍼마켓\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"수퍼 사업 부문은 1조 7,425억원으로 8.36% 증가, 홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홈쇼핑\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"홈쇼핑 사업 부문은 1조 491억원으로 0.28% 감소, 개발사업 부문은 343억원으로 4.78% 감소\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가정간편식품\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사는 식품의 안정성을 확보하고 차별화된 F/F(Fresh Food) 상품을 제공하기 위해 2007년 F/F 상품을 제조/공급하는 자회사인 (주)후레쉬서브를 설립하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"최저임금\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"유통업은 경기변동 및 소비심리에 매우 민감하게 반응하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"부동산 산업은 고금리 및 원자재 가격 상승에 따른 공사비 부담, 대출 심사 강화 등의 영향으로 신중한 투자 환경이 이어지고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"PT. GS Retail Indonesia는 수퍼 사업의 해외 진출을 위해 인도네시아 현지에 설립된 법인으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"GSLL, Inc는 2016년 미국 현지에 설립된 법인으로, 기존 사업 및 신사업에 대한 인사이트 제공\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"편의점\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"수퍼마켓\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"홈쇼핑\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"원자재 및 인건비\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"최근 부동산 산업은 금융비용 증가, 인플레이션으로 인한 원자재 및 인건비 등의 공사비 증가, 대출 심사기준 강화에 따른 자금 조달의 어려움이 상존하며 변동성이 커지고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/007070_20260311004487.txt"
+}

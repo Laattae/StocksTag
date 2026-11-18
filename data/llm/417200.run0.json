@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "울트라캐패시터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신재생에너지, 스마트팩토리 내 AGV용 및 전기차 분야에 활용되는 에너지 저장장치인 중,대형 울트라캐패시터(UltraCapacitor) 생산 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄 부품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자동차부품 관련 소재, 산업용소재, 전기전자부품소재 등 각종 사업의 필수재를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "경관재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경관재사업부문은 시설물 제품과 구조물 제품이 있으며, 시설물분야에서 교량외장재, 캐노피, 조형물 등을 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "풍력발전",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "중,대형 울트라캐패시터는 풍력발전기 내 피치컨트롤 전원, 산업용 AGV전원, 트램내 전력장치, 스마트그리드 전력산업, 전기자동차 내 보조 전력 등으로 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "신재생에너지, 스마트팩토리 내 AGV용 및 전기차 분야에 활용되는 에너지 저장장치인 중,대형 울트라캐패시터(UltraCapacitor) 생산 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "생성형 AI를 중심으로 급격한 성장이 예상되는 AI 산업에 따라 전 세계적으로 대규모 투자가 예상되는 AI 데이터센터의 전력 안정화용 설비 시장에 진입할 계획입니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지 전력망",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 전 세계적으로 점차 증가하고 있는 신재생에너지 발전에 따라 급격한 수요 증가가 기대되는 신재생에너지 전력망 안정화 사업에 진출할 계획입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "카본",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "카본 | 울트라캐패시터(UC) 생산 | 2,730 | 24% | P사 | 미해당"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전해액",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "전해액 | 1,808 | 16% | N사 | 미해당"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 인고트",
+      "weight": 0.56,
+      "direction": null,
+      "evidence": "알루미늄 인고트 | 알루미늄 제품 생산 | 53,004 | 56% | L사 外 | 해당"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "LS머트리얼즈 본사 및 안양공장 | 경기도 안양시 동안구 호계동 엘에스로 116번길 39"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "LS알스코 본사 및 구미공장 | 경상북도 구미시 3공단3로 257"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결기업은 해외영업활동 등으로 인하여 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "LME 알루미늄 시세",
+      "weight": null,
+      "direction": 1,
+      "evidence": "알루미늄사업부문의 가격 산출은 고객과 합의된 단가표를 기준으로 진행되며, 단가표는 크게 LME 알루미늄 시세 변동에 따라 적용됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"울트라캐패시터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지, 스마트팩토리 내 AGV용 및 전기차 분야에 활용되는 에너지 저장장치인 중,대형 울트라캐패시터(UltraCapacitor) 생산 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄 부품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"자동차부품 관련 소재, 산업용소재, 전기전자부품소재 등 각종 사업의 필수재를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"경관재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"경관재사업부문은 시설물 제품과 구조물 제품이 있으며, 시설물분야에서 교량외장재, 캐노피, 조형물 등을 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"풍력발전\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"중,대형 울트라캐패시터는 풍력발전기 내 피치컨트롤 전원, 산업용 AGV전원, 트램내 전력장치, 스마트그리드 전력산업, 전기자동차 내 보조 전력 등으로 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지, 스마트팩토리 내 AGV용 및 전기차 분야에 활용되는 에너지 저장장치인 중,대형 울트라캐패시터(UltraCapacitor) 생산 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 데이터센터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"생성형 AI를 중심으로 급격한 성장이 예상되는 AI 산업에 따라 전 세계적으로 대규모 투자가 예상되는 AI 데이터센터의 전력 안정화용 설비 시장에 진입할 계획입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지 전력망\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 전 세계적으로 점차 증가하고 있는 신재생에너지 발전에 따라 급격한 수요 증가가 기대되는 신재생에너지 전력망 안정화 사업에 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"카본\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"카본 | 울트라캐패시터(UC) 생산 | 2,730 | 24% | P사 | 미해당\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전해액\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"전해액 | 1,808 | 16% | N사 | 미해당\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 인고트\",\n      \"weight\": 0.56,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 인고트 | 알루미늄 제품 생산 | 53,004 | 56% | L사 外 | 해당\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"LS머트리얼즈 본사 및 안양공장 | 경기도 안양시 동안구 호계동 엘에스로 116번길 39\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"LS알스코 본사 및 구미공장 | 경상북도 구미시 3공단3로 257\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결기업은 해외영업활동 등으로 인하여 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"LME 알루미늄 시세\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"알루미늄사업부문의 가격 산출은 고객과 합의된 단가표를 기준으로 진행되며, 단가표는 크게 LME 알루미늄 시세 변동에 따라 적용됩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/417200_20260604000337.txt"
+}

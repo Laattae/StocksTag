@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "해저케이블 시공",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체는 해저케이블과 지중케이블의 시공 및 유지보수 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "지중케이블 시공",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체는 해저케이블과 지중케이블의 시공 및 유지보수 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "해상풍력",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "해상그리드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국내 HVDC, 신재생에너지 전력망 구축 필요성 증대로 해당분야의 수요 또한 지속적으로 증가될 것으로 예상하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전력케이블 시공 사업은 한국전력공사(KEPCO), 국내외 신재생에너지 개발사 또는 대형 건설사(EPC 사업자)가 주로 발주하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "지중케이블",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지중케이블 | 건설 | 258 | LS전선㈜ | 최대주주 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "거제 하청면실전리 1068-2외 6필지"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 영업활동, 재무활동, 투자활동의 수행 중에 환율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전력 수요",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "유럽 및 북미 시장을 중심으로 해외시장 네트워크 구축에 공격적으로 나서고 있으며, 최근 Energy Market의 급증하는 전력 수요를 담당하는 HVDC"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"해저케이블 시공\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 해저케이블과 지중케이블의 시공 및 유지보수 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지중케이블 시공\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 해저케이블과 지중케이블의 시공 및 유지보수 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상그리드\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국내 HVDC, 신재생에너지 전력망 구축 필요성 증대로 해당분야의 수요 또한 지속적으로 증가될 것으로 예상하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전력케이블 시공 사업은 한국전력공사(KEPCO), 국내외 신재생에너지 개발사 또는 대형 건설사(EPC 사업자)가 주로 발주하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"지중케이블\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"지중케이블 | 건설 | 258 | LS전선㈜ | 최대주주 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"거제 하청면실전리 1068-2외 6필지\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 영업활동, 재무활동, 투자활동의 수행 중에 환율위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전력 수요\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"유럽 및 북미 시장을 중심으로 해외시장 네트워크 구축에 공격적으로 나서고 있으며, 최근 Energy Market의 급증하는 전력 수요를 담당하는 HVDC\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/060370_20260316000800.txt"
+}

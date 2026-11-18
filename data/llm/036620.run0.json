@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "의류",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스노우피크 어패럴 (의류, 신발, 용품 등) | 241,530 | 96.5"
+    },
+    {
+      "axis": "product",
+      "value": "보조배터리",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "엑티몬 (보조배터리, 충전기 등) | 8,665 | 3.5"
+    },
+    {
+      "axis": "product",
+      "value": "충전기",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "엑티몬 (보조배터리, 충전기 등) | 8,665 | 3.5"
+    },
+    {
+      "axis": "product",
+      "value": "신발",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "스노우피크 어패럴 (의류, 신발, 용품 등) | 241,530 | 96.5"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "아웃도어",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "인간의 건강과 웰빙에 대한 관심이 높아지면서 아웃도어 활동이 더욱 인기를 끌고 있습니다. 또한 코로나19 엔데믹 이후 사람들이 실내보다는 야외 활동을 선호하는 경향이 뚜렷해지면서 아웃도어 관련 제품과 서비스에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사는 상품 수입거래와 관련하여 미국 달러화 등의 환율변동위험에 노출되어 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "가격에 영향을 미치는 요인으로는 주요 원재료 가격의 상승이나, 물류비 상승 및 환율 변동 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "물류비",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "가격에 영향을 미치는 요인으로는 주요 원재료 가격의 상승이나, 물류비 상승 및 환율 변동 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"의류\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"스노우피크 어패럴 (의류, 신발, 용품 등) | 241,530 | 96.5\"}, {\"axis\": \"product\", \"value\": \"보조배터리\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"엑티몬 (보조배터리, 충전기 등) | 8,665 | 3.5\"}, {\"axis\": \"product\", \"value\": \"충전기\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"엑티몬 (보조배터리, 충전기 등) | 8,665 | 3.5\"}, {\"axis\": \"product\", \"value\": \"신발\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"스노우피크 어패럴 (의류, 신발, 용품 등) | 241,530 | 96.5\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"아웃도어\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"인간의 건강과 웰빙에 대한 관심이 높아지면서 아웃도어 활동이 더욱 인기를 끌고 있습니다. 또한 코로나19 엔데믹 이후 사람들이 실내보다는 야외 활동을 선호하는 경향이 뚜렷해지면서 아웃도어 관련 제품과 서비스에 대한 수요가 증가하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"당사는 상품 수입거래와 관련하여 미국 달러화 등의 환율변동위험에 노출되어 있으며\"}, {\"axis\": \"exposure\", \"value\": \"원재료 가격\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"가격에 영향을 미치는 요인으로는 주요 원재료 가격의 상승이나, 물류비 상승 및 환율 변동 등이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"물류비\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"가격에 영향을 미치는 요인으로는 주요 원재료 가격의 상승이나, 물류비 상승 및 환율 변동 등이 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/036620_20260318001572.txt"
+}

@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "CMP 필터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "웨이퍼 표면을 평탄화하는 CMP(화학적 기계적 연마) 공정에서 균질한 슬러리 공급을 위한 필수 소모품인 CMP 필터를 국내 주요 반도체 기업과 슬러리 소재 기업에 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "케미컬 필터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전량 수입에 의존하던 불소계(All Fluoropolymer, ePTFE) 나노케미컬 필터를 △소재 개발부터 △생산 설비, △완제품 제조까지 전 과정을자체 기술로 확보하여 국산화에 성공했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "FPCB 모듈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 FPCB 분야의 신성장 비즈니스로 전기차(EV)용 배터리에 사용되는 FPCB 모듈 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "혈액여과기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 연간 230만 개 생산이 가능한 스마트 팩토리를 구축하여 전량 수입되던 혈액여과기의 국산화를 실현했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CRRT",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "감염병 팬데믹 상황에서 수입 의존도가 높았던 중환자용 투석 제품의 안정적 수급을 위해 서울대병원과 협력하여 국산화에 성공, 식약처 품목 허가를 획득하고 양산 준비 중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 생산 공정용 초정밀 여과(Filtration)용 필터 제품을 개발 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 SE(SmartLife Electronics) 사업 부문은 스마트폰 중심의 모바일 분야에서 지속적인 경쟁력을 유지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 FPCB 기반 반도체 실장 기술이라는 핵심 역량을 바탕으로, 전기차라는 거대한 미래 산업의 중심부로 영역을 확장하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현재 국내 반도체용 CMP 필터 시장 점유율 1위를 유지하며 리딩 기업으로서의 입지를 공고히 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이를 위해 2024년 베트남에 공장을 준공하였으며, 현재는 글로벌 완성차 기업의 협력회사로 등록되어 2027년 출시되는 전기차(EV)신모델용 배터리 FPCB 모듈 샘플을 공급하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMP 필터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"웨이퍼 표면을 평탄화하는 CMP(화학적 기계적 연마) 공정에서 균질한 슬러리 공급을 위한 필수 소모품인 CMP 필터를 국내 주요 반도체 기업과 슬러리 소재 기업에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"케미컬 필터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전량 수입에 의존하던 불소계(All Fluoropolymer, ePTFE) 나노케미컬 필터를 △소재 개발부터 △생산 설비, △완제품 제조까지 전 과정을자체 기술로 확보하여 국산화에 성공했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FPCB 모듈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 FPCB 분야의 신성장 비즈니스로 전기차(EV)용 배터리에 사용되는 FPCB 모듈 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"혈액여과기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 연간 230만 개 생산이 가능한 스마트 팩토리를 구축하여 전량 수입되던 혈액여과기의 국산화를 실현했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CRRT\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"감염병 팬데믹 상황에서 수입 의존도가 높았던 중환자용 투석 제품의 안정적 수급을 위해 서울대병원과 협력하여 국산화에 성공, 식약처 품목 허가를 획득하고 양산 준비 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 생산 공정용 초정밀 여과(Filtration)용 필터 제품을 개발 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 SE(SmartLife Electronics) 사업 부문은 스마트폰 중심의 모바일 분야에서 지속적인 경쟁력을 유지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 FPCB 기반 반도체 실장 기술이라는 핵심 역량을 바탕으로, 전기차라는 거대한 미래 산업의 중심부로 영역을 확장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현재 국내 반도체용 CMP 필터 시장 점유율 1위를 유지하며 리딩 기업으로서의 입지를 공고히 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이를 위해 2024년 베트남에 공장을 준공하였으며, 현재는 글로벌 완성차 기업의 협력회사로 등록되어 2027년 출시되는 전기차(EV)신모델용 배터리 FPCB 모듈 샘플을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/025320_20260318001595.txt"
+}

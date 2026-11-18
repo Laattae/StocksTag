@@ -1,0 +1,178 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "초고압케이블",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "통신케이블",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Copper Rod",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해저케이블",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해저케이블 분야의 경쟁력 확보를 위한 투자도 지속하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "HVDC케이블",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "640kV HVDC 해저케이블 생산을 위한 VCV(Vertical Continuous Vulcanization) 설비를 갖춘 해저2공장은 2025년 9월 착공하여 건설하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전선산업은 국가 전력망 구축 및 안정적 전력공급과 직결되는 기간산업으로, 산업활동 전반의 기반을 형성하는 핵심 인프라 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히, AI 및 데이터센터 산업의 성장에 따라 전력수요가 증가하고 있으며, 이에 따른 송·배전망 확충 및 변전설비 투자가 확대되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "재생에너지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해상풍력 등 대규모 해양 재생에너지 개발 확대에 따라 해저케이블 수요가 증가하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "반면, 건축·주택·일반 산업용 전선 등 민간 부문의 수요는 금리, 부동산 경기, 제조업 설비투자 등 거시경제 여건 변화에 따라 영향을 받는 특성이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "(주)대원전선",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "(주)삼동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "(주)경신전선",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "본사 | 안양 | 경기도 안양시 동안구 시민대로 317 대한스마트타워"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "서울사무소 | 서울 | 서울시 서초구 양재대로2길 18 호반파크 2관"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "케이블 공장 | 당진 | 충청남도 당진시 고대면 대호만로 870"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내영업소 | 광주 | 광주광역시 서구 상무대로 943 5층"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부산 | 부산광역시 해운대구 센텀6로 21 인텔리움센텀 304호"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "동(Copper), 알루미늄 등 주요 원자재 가격 변동이 제품 가격 및 수익성에 영향을 미치는 구조를 가지고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 가격변동원인 : 국제고시 전기동 가격의 변동 및 환율변동"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "반면, 건축·주택·일반 산업용 전선 등 민간 부문의 수요는 금리, 부동산 경기, 제조업 설비투자 등 거시경제 여건 변화에 따라 영향을 받는 특성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전력 인프라 투자",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "전력망 관련 수요는 국가 전력수급 및 계통 운영과 연계된 중장기 계획에 따라 추진되는 경향이 있어 일반적인 경기 사이클에 비해 변동성이 상대적으로 제한적인 특성이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"초고압케이블\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"통신케이블\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"Copper Rod\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"해저케이블\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"해저케이블 분야의 경쟁력 확보를 위한 투자도 지속하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"HVDC케이블\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"640kV HVDC 해저케이블 생산을 위한 VCV(Vertical Continuous Vulcanization) 설비를 갖춘 해저2공장은 2025년 9월 착공하여 건설하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전력망\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전선산업은 국가 전력망 구축 및 안정적 전력공급과 직결되는 기간산업으로, 산업활동 전반의 기반을 형성하는 핵심 인프라 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"특히, AI 및 데이터센터 산업의 성장에 따라 전력수요가 증가하고 있으며, 이에 따른 송·배전망 확충 및 변전설비 투자가 확대되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"재생에너지\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"해상풍력 등 대규모 해양 재생에너지 개발 확대에 따라 해저케이블 수요가 증가하고 있으며\"}, {\"axis\": \"application\", \"value\": \"건설\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"반면, 건축·주택·일반 산업용 전선 등 민간 부문의 수요는 금리, 부동산 경기, 제조업 설비투자 등 거시경제 여건 변화에 따라 영향을 받는 특성이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"한국전력공사\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다.\"}, {\"axis\": \"customer\", \"value\": \"(주)대원전선\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다.\"}, {\"axis\": \"customer\", \"value\": \"(주)삼동\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다.\"}, {\"axis\": \"customer\", \"value\": \"(주)경신전선\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"전기동\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"알루미늄\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"본사 | 안양 | 경기도 안양시 동안구 시민대로 317 대한스마트타워\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"서울사무소 | 서울 | 서울시 서초구 양재대로2길 18 호반파크 2관\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"케이블 공장 | 당진 | 충청남도 당진시 고대면 대호만로 870\"}, {\"axis\": \"region\", \"value\": \"광주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"국내영업소 | 광주 | 광주광역시 서구 상무대로 943 5층\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"부산 | 부산광역시 해운대구 센텀6로 21 인텔리움센텀 304호\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.9, \"direction\": -1, \"evidence\": \"동(Copper), 알루미늄 등 주요 원자재 가격 변동이 제품 가격 및 수익성에 영향을 미치는 구조를 가지고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"주요 가격변동원인 : 국제고시 전기동 가격의 변동 및 환율변동\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"반면, 건축·주택·일반 산업용 전선 등 민간 부문의 수요는 금리, 부동산 경기, 제조업 설비투자 등 거시경제 여건 변화에 따라 영향을 받는 특성이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"전력 인프라 투자\", \"weight\": 0.9, \"direction\": 1, \"evidence\": \"전력망 관련 수요는 국가 전력수급 및 계통 운영과 연계된 중장기 계획에 따라 추진되는 경향이 있어 일반적인 경기 사이클에 비해 변동성이 상대적으로 제한적인 특성이 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/001440_20260318001418.txt"
+}

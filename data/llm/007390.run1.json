@@ -1,0 +1,243 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "줄기세포치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 자가지방유래 줄기세포를 이용한 희귀 난치질환 치료제 연구, 개발사업(해외 임상시험 진행) 및 줄기세포 배양배지사업, 줄기세포배양액 화장품 사업 및 비건 건강음료 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포 배양배지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한 당사는 당사의 특허기술을 바탕으로 줄기세포 배양에 필요한 핵심 원료인 배지를 개발하여 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포배양액 화장품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 바이오스타의 줄기세포 연구개발을 통해 축적된 첨단 바이오 기술력을 바탕으로 줄기세포배양 과정에서 발생하는 다양한 성장인자를 추출, 정제하여 엄격한 품질관리를 거친 줄기세포 배양액 원료 화장품 라인을 개발, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "비건음료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 음료사업부문은 당사가 개발한 시골집 귀리 식혜, 발효홍삼K, 그라비올라K 등 건강 친화적인 비건음료와 함께 주문자 상표를 부착하여 완제품을 생산하는 OEM에 따른 제품 매출이 발생하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "조인트스템",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "바스코스템",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "바스코스템은 성체줄기세포를 이용한 버거병 및 페리-롬버그병 치료제로써 자신의 지방 조직으로부터 성체줄기세포를 채취 및 분리/증식 배양하는 자가줄기세포치료제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아스트로스템",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아스트로스템은 자가지방조직으로부터 분리한 줄기세포를 채취 후 증식, 배양하여 1회당 2억셀씩 2~5주 간격으로 5~10회 정맥 내 투여를 통해 치료하는 줄기세포치료제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "닥터쥬크르",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "대표적인 제품으로는 닥터쥬크르(Dr.Jucre)가 있습니다. 닥터쥬크르(Dr.Jucre)는 네이처셀의 고유 특허기술로 완성된 줄기세포배양액을 주원료로 하여 개발한 MSC 앰플을 비롯하여"
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성관절염",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자폐 스펙트럼 장애",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "중증하지허혈성 질환",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머병",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "알츠하이머병(치매 등)의 증상을 단순히 지연시키는 기존 치료제와는 달리, 아스트로스템의 투여를 통해 항염증, 뇌혈관재생, 뇌신경세포 보호, 뇌신경세포 재생작용, 아밀로이드 단백질 침착 감소 등 치매 예방 및 근본적인 치료 효과를 기대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "알바이오",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 관계사인 (주)알바이오, (주)바이오스타줄기세포기술연구원과 협력하여 자가지방유래 성체줄기세포를 이용한 줄기세포치료제의 연구 및 임상 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "바이오스타줄기세포기술연구원",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 관계사인 (주)알바이오, (주)바이오스타줄기세포기술연구원과 협력하여 자가지방유래 성체줄기세포를 이용한 줄기세포치료제의 연구 및 임상 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "WEIHAI HUAZHOU IMP&EXP CO LTD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "WEIHAI HUAZHOU IMP&EXP CO LTD | 3,079,697 | 3,001,222 | 식품 부문"
+    },
+    {
+      "axis": "customer",
+      "value": "롯데칠성음료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "롯데칠성음료(주) | 2,962,401 | 3,739,179 | 식품 부문"
+    },
+    {
+      "axis": "raw_material",
+      "value": "DMEM",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "줄기세포사업부문 | DMEM | 내 수 | - | 12,500 | 15,000 | 13,500"
+    },
+    {
+      "axis": "raw_material",
+      "value": "쌀",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000"
+    },
+    {
+      "axis": "raw_material",
+      "value": "엿기름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 | 수 입 | - | 600 | 571 | 454 | 엿기름 | 내 수 | - | 2,830 | 2,700 | 2,100"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 글로벌 스템셀 캠퍼스 | 연구소 및 제조시설 | 1401 severn st, baltimore, MD 21230"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 일본에서 '재생의료 등의 안전성 확보 등에 관한 법률'(이하 '재생의료법')에 따라 특정세포가공물 제조업체로 승인받았으며, 현재 재생의료 등을 위한 핵심 원료인 배지를 공급하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "환위험: 원재료의 일부를 해외에서 수입하고 있어 환율변동에 따른 수입원가 변동 가능성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "규제",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "줄기세포치료제는 「첨단재생의료 및 첨단바이오의약품의 안전 및 지원에 관한 법률」, 「약사법」등 관련 규제 변화에 직접적인 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "식품사업부문의 주요 원부자재는 해외 의존도가 높아, 원자재 가격 급등 및 물류차질 발생시 원가에 영향을 줄 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포치료제",
+      "weight": 0.58,
+      "direction": null,
+      "evidence": "당사는 줄기세포사업부문을 주력 사업으로 영위하고 있으며, 줄기세포를 이용한 세포치료제 개발(해외 임상시험) 및 판매, 재생의료 관련 연구개발 및 생산판매업"
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포배양액화장품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "줄기세포배양액 원료 화장품은 최근 글로벌 화장품 시장에서 기능성과 프리미엄 기능성화장품의 핵심 성장 카테고리로 급부상하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음료",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "음료류는 다(茶)류, 커피, 과일 채소음료류, 탄산음료류, 두유류, 발효음료류, 홍삼 인삼음료류 등 음용을 목적으로 하는 것을 말한다."
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성관절염 치료",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한편, 당사가 글로벌 상용화를 위해 주력으로 개발하고 있는 퇴행성관절염 치료제의 글로벌 시장은 더욱 급속도로 성장할 것으로 전망되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "재생의료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "재생의료는 인간의 세포와 조직, 장기를 대체하거나 재생시켜 원래의 기능을 할 수 있도록복원시키는 의학 분야로, 줄기세포치료제 등을 포함하는 개념이기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 자가지방유래 줄기세포를 이용한 희귀 난치질환 치료제 연구, 개발사업(해외 임상시험 진행) 및 줄기세포 배양배지사업, 줄기세포배양액 화장품 사업 및 비건 건강음료 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포 배양배지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한 당사는 당사의 특허기술을 바탕으로 줄기세포 배양에 필요한 핵심 원료인 배지를 개발하여 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포배양액 화장품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 바이오스타의 줄기세포 연구개발을 통해 축적된 첨단 바이오 기술력을 바탕으로 줄기세포배양 과정에서 발생하는 다양한 성장인자를 추출, 정제하여 엄격한 품질관리를 거친 줄기세포 배양액 원료 화장품 라인을 개발, 판매하는 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비건음료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 음료사업부문은 당사가 개발한 시골집 귀리 식혜, 발효홍삼K, 그라비올라K 등 건강 친화적인 비건음료와 함께 주문자 상표를 부착하여 완제품을 생산하는 OEM에 따른 제품 매출이 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"조인트스템\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바스코스템\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"바스코스템은 성체줄기세포를 이용한 버거병 및 페리-롬버그병 치료제로써 자신의 지방 조직으로부터 성체줄기세포를 채취 및 분리/증식 배양하는 자가줄기세포치료제입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아스트로스템\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"아스트로스템은 자가지방조직으로부터 분리한 줄기세포를 채취 후 증식, 배양하여 1회당 2억셀씩 2~5주 간격으로 5~10회 정맥 내 투여를 통해 치료하는 줄기세포치료제입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"닥터쥬크르\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"대표적인 제품으로는 닥터쥬크르(Dr.Jucre)가 있습니다. 닥터쥬크르(Dr.Jucre)는 네이처셀의 고유 특허기술로 완성된 줄기세포배양액을 주원료로 하여 개발한 MSC 앰플을 비롯하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"퇴행성관절염\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자폐 스펙트럼 장애\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중증하지허혈성 질환\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알츠하이머병\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머병(치매 등)의 증상을 단순히 지연시키는 기존 치료제와는 달리, 아스트로스템의 투여를 통해 항염증, 뇌혈관재생, 뇌신경세포 보호, 뇌신경세포 재생작용, 아밀로이드 단백질 침착 감소 등 치매 예방 및 근본적인 치료 효과를 기대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"알바이오\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 관계사인 (주)알바이오, (주)바이오스타줄기세포기술연구원과 협력하여 자가지방유래 성체줄기세포를 이용한 줄기세포치료제의 연구 및 임상 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"바이오스타줄기세포기술연구원\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 관계사인 (주)알바이오, (주)바이오스타줄기세포기술연구원과 협력하여 자가지방유래 성체줄기세포를 이용한 줄기세포치료제의 연구 및 임상 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"WEIHAI HUAZHOU IMP&EXP CO LTD\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"WEIHAI HUAZHOU IMP&EXP CO LTD | 3,079,697 | 3,001,222 | 식품 부문\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"롯데칠성음료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"롯데칠성음료(주) | 2,962,401 | 3,739,179 | 식품 부문\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"DMEM\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"줄기세포사업부문 | DMEM | 내 수 | - | 12,500 | 15,000 | 13,500\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"쌀\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"엿기름\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 | 수 입 | - | 600 | 571 | 454 | 엿기름 | 내 수 | - | 2,830 | 2,700 | 2,100\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 글로벌 스템셀 캠퍼스 | 연구소 및 제조시설 | 1401 severn st, baltimore, MD 21230\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 일본에서 '재생의료 등의 안전성 확보 등에 관한 법률'(이하 '재생의료법')에 따라 특정세포가공물 제조업체로 승인받았으며, 현재 재생의료 등을 위한 핵심 원료인 배지를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"환위험: 원재료의 일부를 해외에서 수입하고 있어 환율변동에 따른 수입원가 변동 가능성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"규제\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"줄기세포치료제는 「첨단재생의료 및 첨단바이오의약품의 안전 및 지원에 관한 법률」, 「약사법」등 관련 규제 변화에 직접적인 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"식품사업부문의 주요 원부자재는 해외 의존도가 높아, 원자재 가격 급등 및 물류차질 발생시 원가에 영향을 줄 수 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포치료제\",\n      \"weight\": 0.58,\n      \"direction\": null,\n      \"evidence\": \"당사는 줄기세포사업부문을 주력 사업으로 영위하고 있으며, 줄기세포를 이용한 세포치료제 개발(해외 임상시험) 및 판매, 재생의료 관련 연구개발 및 생산판매업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포배양액화장품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"줄기세포배양액 원료 화장품은 최근 글로벌 화장품 시장에서 기능성과 프리미엄 기능성화장품의 핵심 성장 카테고리로 급부상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음료\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"음료류는 다(茶)류, 커피, 과일 채소음료류, 탄산음료류, 두유류, 발효음료류, 홍삼 인삼음료류 등 음용을 목적으로 하는 것을 말한다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"퇴행성관절염 치료\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사가 글로벌 상용화를 위해 주력으로 개발하고 있는 퇴행성관절염 치료제의 글로벌 시장은 더욱 급속도로 성장할 것으로 전망되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"재생의료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"재생의료는 인간의 세포와 조직, 장기를 대체하거나 재생시켜 원래의 기능을 할 수 있도록복원시키는 의학 분야로, 줄기세포치료제 등을 포함하는 개념이기도 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/007390_20260323001523.txt"
+}

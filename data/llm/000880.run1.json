@@ -1,0 +1,698 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 8,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "화력체계",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "화력체계(자주포, 장갑차), 무인화체계(국방로봇, 원격사격통제체계), 기동체계(자주도하장비, 한국형 상륙돌격장갑차)"
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LDPE, 가성소다, PVC 등"
+    },
+    {
+      "axis": "product",
+      "value": "LNG 운반선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LNG, LPG, 원유 운반선, 컨테이너선 등"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "웨이퍼, 셀ㆍ모듈 생산, 태양광 발전 솔루션"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "생명보험, 자산관리, 담보대출, 개인대출"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "군수",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국가 방위를 위하여 군사적으로 소요되는 물자의 생산과 개발에 기여하는 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해운",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전방 산업인 해양에너지 개발, 해운, 수산, 방위, 해상 및 심해 관광산업의 성장에 단초를 제공하고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철근(HD10mm 기준)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "태양광 제조업을 기반으로 한 미국 내 발전소 EPC 사업에서는"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화약제조업/조선업 | \n㈜한화 | \n산업용 화약 | \n폭약류"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "신재생에너지 | \n한화솔루션㈜큐셀부문 | \n태양광 모듈, 셀 등 | \n내수 |"
+    },
+    {
+      "axis": "product",
+      "value": "감시카메라",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한화비전㈜ | \n감시카메라, 저장장치,주변기기, 액세서리 등 | \n내수 |"
+    },
+    {
+      "axis": "product",
+      "value": "위성시스템",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "㈜쎄트렉아이 | \n위성시스템, 전자광학카메라, 위성지상국,위성영상 판매, 위성영상 데이터 분석 등 | \n내수 |"
+    },
+    {
+      "axis": "product",
+      "value": "콘도",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "레저/서비스업 | \n한화호텔앤드리조트㈜ | \n콘도/골프/호텔 | \n내수 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결회사는 여러 활동으로 인하여 시장위험(외환위험, 이자율위험 등), 신용위험 및유동성 위험과 같은 다양한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 당기말 현재 외화차입금의 환율변동위험을 회피하기 위하여 원화 고정원금을 지급하는 통화스왑계약을 체결하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 화약사업은 각종 건설사업 및 자원개발에 필수적인 산업용 화약류를 제조 판매하는 기간산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "K9 자주포",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "K9 자주포의 경우 세계 최고 수준의 성능과 산악지역부터 평원, 설원, 사막 등 다양한 환경에서 뛰어난 기동성으로 주목받으며"
+    },
+    {
+      "axis": "product",
+      "value": "천무 다연장로켓",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "천무 다연장로켓 역시 여러 국가에서 수출이 성사되며 뛰어난 성능을 인정받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "칩마운터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "칩마운터 해외 14.21% 15.78% 17.56% 13.70%"
+    },
+    {
+      "axis": "product",
+      "value": "영상감시",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "영상감시 국내 30.0% 28.7% 28.7%"
+    },
+    {
+      "axis": "product",
+      "value": "버거",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "버거 시장은 약 5조 4천억 원 규모로 10.2% 성장하였으며, 이는 프리미엄 및 수제버거 수요 확대와 평균 판매 단가 상승의 영향으로 분석됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "와인",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "와인산업은 1세대 중소 수입사 중심으로 소폭의 성장세를 유지해 오다가, 최근 대기업의 와인 수입사들이 시장에 진입하면서 경쟁이 치열해 지고"
+    },
+    {
+      "axis": "product",
+      "value": "아이스크림",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내 아이스크림 전체 시장 규모는 2020년 2조 4천억원에서 2023년 2조 6천억원으로 완만하게 성장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부의SOC투자에 따른 국내 건설경기의 변동과 직접적으로 연관되어 있고"
+    },
+    {
+      "axis": "application",
+      "value": "국방",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "산업기계는 자동차, 전자, 물류 등전방시장과의 연관 효과가 매우 크며"
+    },
+    {
+      "axis": "application",
+      "value": "스마트시티",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이러한 기술 혁신은 스마트 시티, 스마트 팩토리, 교통 인프라 등 도시와 산업 전반의 지능화를 가속화하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "화약 원료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화약의 원료를 제조 판매하는 무기화학사업, 불꽃행사를 연출하는 불꽃프로모션사업등으로 사업영역을 확대하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "생감자",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 엄격하게 선별된 튀김에 적합한 생감자를 주로 대한민국의 지역 농가를 통해 매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알로에",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주 재료인 알로에와 설탕의 원산지 근처에 있는 중남미나 동남아 등에 위치하는 회사들과 원가경쟁에서 매우 불리합니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 트럼프 2기 행정부 출범 이후 동맹 및 방위비 분담을 둘러싼 정책 변화"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인도-태평양 지역에서의 미ㆍ중 전략 경쟁 심화 등으로 글로벌 안보 환경의 불확실성이 확대되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "제조공정의 환경영향 관리를 위해 베트남 제조법인은 국제 환경경영 인증규격인 ISO 14001 인증을 취득하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국방예산",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "시장 규모는 중장기 국방예산 및 군 운용계획에 의해 결정됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사는 지속적인 원가절감 노력과 신제품 개발을 통해 리스크를 최소화하고자 역량을 집중하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "LDPE",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TDI",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 안정적인 공급망 관리를 위해 노력하며 지속적인 기술개발, 효율 향상 및 생산 프로세스 개선을 통해 셀/모듈, 마이크로인버터, 트랙커를 제조하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "인공위성",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "인공위성은 상이한 기능의 다수 부품이 사용되는 복잡한 시스템으로 지구관측위성의 경우 탑재체와 자세제어 성능, 시스템 기술 등이 중요하기 때문에 위성 카메라, 고정밀 자세제어 부품과 소프트웨어 등이 핵심부품입니다."
+    },
+    {
+      "application": "건설",
+      "axis": "application",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 대규모 설비투자가 소요되는 기술집약형 장치산업이자, 일반 생활용품부터 전기, 건설 산업 등에 직접 및 간접적으로 원료를 제공하는 기초 소재 산업입니다."
+    },
+    {
+      "application": "자동차",
+      "axis": "application",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 건설, 자동차 등의 기간 산업뿐만 아니라 포장재, 의류 등 생활용품의 주요 원료로 사용되어"
+    },
+    {
+      "application": "스마트폰",
+      "axis": "application",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회로소재는 스마트폰에 주로 사용되고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나"
+    },
+    {
+      "application": "데이터센터",
+      "axis": "application",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "데이터센터 사업은 특히AI, Disaster Recovery System(재해복구시스템) 등 수요가 급증하고 있어 고부가가치 산업으로 분류되고 있습니다."
+    },
+    {
+      "customer": "방위사업청",
+      "axis": "customer",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한화오션㈜는 성공적으로 인도한 첨단 수상함 및 잠수함 건조 실적과 자체 추진 중인 차세대 해양전력 관련 기술을 바탕으로 방위사업청 및 해군과 신규 연구개발 및 후속 함정 양산에 대한 긴밀한 협조를 진행 중입니다."
+    },
+    {
+      "customer": "해군",
+      "axis": "customer",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 함정 시장은 해군이 추진중인 대양해군ㆍ스마트 네이비(Smart Navy) 건설 목표에 따라 차세대 한국형 구축함, 호위함, 잠수함 등의 전통 무기체계와 4차 산업혁명의 첨단기술이 반영된 무인무기체계 등에 대한 신규 연구개발 및 양산 요구가 이어질 것으로 보입니다."
+    },
+    {
+      "axis": "raw_material",
+      "weight": 0.9,
+      "value": "납사",
+      "evidence": "제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "raw_material",
+      "weight": 0.9,
+      "value": "에틸렌",
+      "evidence": "제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "region",
+      "weight": 0.8,
+      "value": "미국",
+      "evidence": "한화솔루션 큐셀 부문의 자회사로는 태양광 제품을 제조하는 지역별 제조 거점(Hanwha Q CELLS Malaysia Sdn. Bhd., Hanwha Q CELLS USA, INC. 등)과 태양광 관련 제품, 서비스를 제공하는 지역별 판매 거점(Hanwha Q CELLS America Inc., Hanwha Q CELLS USA Corp., Hanwha Q CELLS GmbH., 등)인 종속 회사들이 있습니다."
+    },
+    {
+      "axis": "region",
+      "weight": 0.7,
+      "value": "중국",
+      "evidence": "최근에는 중국 및 아시아 시장의 경제 성장 및 신규 플랜트 증설 등에 의한 시장 상황 변화가 있을 것으로 전망됩니다."
+    },
+    {
+      "axis": "exposure",
+      "direction": -1,
+      "value": "유가",
+      "evidence": "제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며, 세계 경기 및 수급상황에 따라 호황과 불황이 주기적으로 반복되는 경기 순환형 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "direction": -1,
+      "value": "금리",
+      "evidence": "유틸리티 규모의 프로젝트들은 금융 비용 민감도가 높기 때문에, 전세계 금리 변동 영향을 크게 받고 있으며, 주택용 시장에서는 대출을 통한 자금조달로 인하여 금리 변동에 따른 수요 변화가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우주 발사체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며 이러한 독보적인 경쟁력을 평가받아 한국형발사체(누리호) 고도화사업 및 차세대발사체 개발사업 발사체 총괄 주관 제작 사업의 단독 사업자로 선정되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MDS사업은 선박의 추진동력원과 에너지공급원으로 사용되는 ESS 및 수소연료전지시스템 등을 개발하여 선박 운용 관련 가치 창출 및 친환경 솔루션을 제공하고자 하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "리튬이온전지체계",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "극한의 환경에서도 고도의 안정성과 신뢰성, 대폭 향상된 작전능력을 보장하는 차세대 잠수함용 리튬이온전지체계 사업도 성공적으로 진행 중에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "지구관측위성",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜쎄트렉아이는 중소형 지구관측위성 시장에서 지구관측위성 토탈 솔루션 제공 및 국내 국방안보 분야 위성전문 기업을 목표로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지능형 비전 솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기존의 핵심 역량인 '엣지 AI(Edge AI) 및 디바이스 기술'에 클라우드 플랫폼을 결합한 지능형 비전 솔루션 사업을 본격화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다."
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "금융업 부문에서는 생명보험(한화생명보험㈜ 등), 손해보험(한화손해보험㈜ 등),금융투자(한화투자증권㈜ 등), 저축은행(㈜한화저축은행), 자산운용(한화자산운용㈜ 등) 사업 등을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한화손해보험은 대한민국 최초 민족자본 설립 손해보험사로 장기, 자동차, 일반보험분야에서 고객의 니즈에 맞는 다양한 상품 및 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "우주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이에 정부는 민간 중심으로 진화하고 있는 글로벌 우주 Trend에 대응하기 위해 우주 발사체 산업생태계를 장기적인 플랜을 가지고 적극적으로 육성할 계획이기 때문에"
+    },
+    {
+      "axis": "application",
+      "value": "조선해양",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한, 해양솔루션부문은 조선해양 분야의 지속가능한 성장 기반 확보를 위해 신설한 조직으로, 전기추진체계 등 차세대 친환경 추진솔루션을 개발하고"
+    },
+    {
+      "axis": "application",
+      "value": "국방",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 국방사업은 군의 국방우주 경쟁력 확대 정책에 따라 시장 성장 가능성이 높으면서 자회사가 영위하고 있는 위성영상 데이터 분석사업과의 시너지도 큰 시장으로서"
+    },
+    {
+      "axis": "customer",
+      "value": "정부",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 이러한 사업들을 통해 대한민국 대표 발사체 기업의 위치를 견고히 함으로써 정부의 후속 우주사업에서 주도적인 역할을 수행할 것입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2024년 12월 상선/방산 분야 미국 시장 진출의 교두보를 마련하고 현지 생산 거점을 확보하고자, 미국 소재 종속회사인 Hanwha Ocean USA International LLC를 통해"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "베트남 현지법인은 전국적인 영업망을 바탕으로 생명보험 사업을 영위하고 있으며 2025년 말 기준 수입보험료는 1,910억원을 기록하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 현지법인은 개인채널 중심의 안정적 영업기반 마련을 위해 자와섬, 수마트라섬, 발리섬, 칼리만탄섬의 대도심 지역을 중심으로 보유조직의 양적, 질적 개선을 추진 중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "탄소중립 규제",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한 차별화된 탈탄소 기술을 개발하고"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함"
+    },
+    {
+      "axis": "product",
+      "value": "수익증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함"
+    },
+    {
+      "axis": "product",
+      "value": "RP",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "계좌하나로 뱅킹서비스의 편리함과 R P 및 MMW의 수익성을 동시에 추구하는 상품으로"
+    },
+    {
+      "axis": "product",
+      "value": "MMF",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "계좌하나로 뱅킹서비스의 편리함과 R P 및 MMW의 수익성을 동시에 추구하는 상품으로"
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기초자산의 가격, 이자율, 지표, 단위 또는 이를 기초로 하는 지수 등의 변동과 연계하여"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "손해보험업의 보험종목으로는 일반보험(화재, 해상, 특종, 보증보험 등) , 자동차보험, 장기보험이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금융투자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "금융투자업은 투자매매업, 투자중개업, 집합투자업, 투자일임업, 투자자문업, 신탁업을 기본업무로 하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나, 국제회계기준인 IFRS17의 성공적인 안착을 통해 보험산업 전반의 리스크 관리 시스템은 과거 대비 한층 정교화되었으며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": null,
+      "direction": null,
+      "evidence": "법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "사무소 | - | 4개소(샌프란시스크, 도쿄, UAE 아부다비, 뉴욕)"
+    },
+    {
+      "axis": "product",
+      "value": "전략 금융상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "관리영업에 접목하여 다양한 국내외 투자펀드, 랩,RP, 소액채권 등 고객지향적 전략 금융상품을 출시하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장외파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종합자산관리계좌(CMA)시장을 선도하고 있는 한화 스마트 CMA는 업계 선두의 규모와 경쟁력을 갖추고 있으며, 장외파생상품, 신탁, 지급결제업무 등 신규 분야에 진출하여"
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동일 기간 동안 펀드는 1,098.7조원에서 1,376.2조원으로 25.3% 증가했고, 일임은 702.0조원에서 817.9조원으로 약 16.5% 증가하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한 2024년에 인도네시아의 중견 증권사의 지분을 80% 인수, 2025년에 인도네시아 자산운용사 지분을 80%인수하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "상호저축은행은 계절적인 변화에는 큰 영향을 받지는 않지만 부동산 경기 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "① 시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화력체계\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"화력체계(자주포, 장갑차), 무인화체계(국방로봇, 원격사격통제체계), 기동체계(자주도하장비, 한국형 상륙돌격장갑차)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LDPE, 가성소다, PVC 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG 운반선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LNG, LPG, 원유 운반선, 컨테이너선 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"웨이퍼, 셀ㆍ모듈 생산, 태양광 발전 솔루션\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"생명보험, 자산관리, 담보대출, 개인대출\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군수\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국가 방위를 위하여 군사적으로 소요되는 물자의 생산과 개발에 기여하는 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전방 산업인 해양에너지 개발, 해운, 수산, 방위, 해상 및 심해 관광산업의 성장에 단초를 제공하고\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철근(HD10mm 기준)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"태양광 제조업을 기반으로 한 미국 내 발전소 EPC 사업에서는\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화약제조업/조선업 | \\n㈜한화 | \\n산업용 화약 | \\n폭약류\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지 | \\n한화솔루션㈜큐셀부문 | \\n태양광 모듈, 셀 등 | \\n내수 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감시카메라\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한화비전㈜ | \\n감시카메라, 저장장치,주변기기, 액세서리 등 | \\n내수 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성시스템\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"㈜쎄트렉아이 | \\n위성시스템, 전자광학카메라, 위성지상국,위성영상 판매, 위성영상 데이터 분석 등 | \\n내수 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘도\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"레저/서비스업 | \\n한화호텔앤드리조트㈜ | \\n콘도/골프/호텔 | \\n내수 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 여러 활동으로 인하여 시장위험(외환위험, 이자율위험 등), 신용위험 및유동성 위험과 같은 다양한 금융위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 당기말 현재 외화차입금의 환율변동위험을 회피하기 위하여 원화 고정원금을 지급하는 통화스왑계약을 체결하고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 각종 건설사업 및 자원개발에 필수적인 산업용 화약류를 제조 판매하는 기간산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"K9 자주포\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"K9 자주포의 경우 세계 최고 수준의 성능과 산악지역부터 평원, 설원, 사막 등 다양한 환경에서 뛰어난 기동성으로 주목받으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"천무 다연장로켓\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"천무 다연장로켓 역시 여러 국가에서 수출이 성사되며 뛰어난 성능을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"칩마운터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"칩마운터 해외 14.21% 15.78% 17.56% 13.70%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영상감시\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"영상감시 국내 30.0% 28.7% 28.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"버거\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"버거 시장은 약 5조 4천억 원 규모로 10.2% 성장하였으며, 이는 프리미엄 및 수제버거 수요 확대와 평균 판매 단가 상승의 영향으로 분석됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"와인\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"와인산업은 1세대 중소 수입사 중심으로 소폭의 성장세를 유지해 오다가, 최근 대기업의 와인 수입사들이 시장에 진입하면서 경쟁이 치열해 지고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이스크림\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내 아이스크림 전체 시장 규모는 2020년 2조 4천억원에서 2023년 2조 6천억원으로 완만하게 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부의SOC투자에 따른 국내 건설경기의 변동과 직접적으로 연관되어 있고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"산업기계는 자동차, 전자, 물류 등전방시장과의 연관 효과가 매우 크며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트시티\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이러한 기술 혁신은 스마트 시티, 스마트 팩토리, 교통 인프라 등 도시와 산업 전반의 지능화를 가속화하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"화약 원료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화약의 원료를 제조 판매하는 무기화학사업, 불꽃행사를 연출하는 불꽃프로모션사업등으로 사업영역을 확대하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"생감자\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 엄격하게 선별된 튀김에 적합한 생감자를 주로 대한민국의 지역 농가를 통해 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알로에\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주 재료인 알로에와 설탕의 원산지 근처에 있는 중남미나 동남아 등에 위치하는 회사들과 원가경쟁에서 매우 불리합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 트럼프 2기 행정부 출범 이후 동맹 및 방위비 분담을 둘러싼 정책 변화\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"인도-태평양 지역에서의 미ㆍ중 전략 경쟁 심화 등으로 글로벌 안보 환경의 불확실성이 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"제조공정의 환경영향 관리를 위해 베트남 제조법인은 국제 환경경영 인증규격인 ISO 14001 인증을 취득하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방예산\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"시장 규모는 중장기 국방예산 및 군 운용계획에 의해 결정됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사는 지속적인 원가절감 노력과 신제품 개발을 통해 리스크를 최소화하고자 역량을 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LDPE\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TDI\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 안정적인 공급망 관리를 위해 노력하며 지속적인 기술개발, 효율 향상 및 생산 프로세스 개선을 통해 셀/모듈, 마이크로인버터, 트랙커를 제조하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인공위성\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"인공위성은 상이한 기능의 다수 부품이 사용되는 복잡한 시스템으로 지구관측위성의 경우 탑재체와 자세제어 성능, 시스템 기술 등이 중요하기 때문에 위성 카메라, 고정밀 자세제어 부품과 소프트웨어 등이 핵심부품입니다.\"\n    },\n    {\n      \"application\": \"건설\",\n      \"axis\": \"application\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 대규모 설비투자가 소요되는 기술집약형 장치산업이자, 일반 생활용품부터 전기, 건설 산업 등에 직접 및 간접적으로 원료를 제공하는 기초 소재 산업입니다.\"\n    },\n    {\n      \"application\": \"자동차\",\n      \"axis\": \"application\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 건설, 자동차 등의 기간 산업뿐만 아니라 포장재, 의류 등 생활용품의 주요 원료로 사용되어\"\n    },\n    {\n      \"application\": \"스마트폰\",\n      \"axis\": \"application\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회로소재는 스마트폰에 주로 사용되고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나\"\n    },\n    {\n      \"application\": \"데이터센터\",\n      \"axis\": \"application\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"데이터센터 사업은 특히AI, Disaster Recovery System(재해복구시스템) 등 수요가 급증하고 있어 고부가가치 산업으로 분류되고 있습니다.\"\n    },\n    {\n      \"customer\": \"방위사업청\",\n      \"axis\": \"customer\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한화오션㈜는 성공적으로 인도한 첨단 수상함 및 잠수함 건조 실적과 자체 추진 중인 차세대 해양전력 관련 기술을 바탕으로 방위사업청 및 해군과 신규 연구개발 및 후속 함정 양산에 대한 긴밀한 협조를 진행 중입니다.\"\n    },\n    {\n      \"customer\": \"해군\",\n      \"axis\": \"customer\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 함정 시장은 해군이 추진중인 대양해군ㆍ스마트 네이비(Smart Navy) 건설 목표에 따라 차세대 한국형 구축함, 호위함, 잠수함 등의 전통 무기체계와 4차 산업혁명의 첨단기술이 반영된 무인무기체계 등에 대한 신규 연구개발 및 양산 요구가 이어질 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"weight\": 0.9,\n      \"value\": \"납사\",\n      \"evidence\": \"제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"weight\": 0.9,\n      \"value\": \"에틸렌\",\n      \"evidence\": \"제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"weight\": 0.8,\n      \"value\": \"미국\",\n      \"evidence\": \"한화솔루션 큐셀 부문의 자회사로는 태양광 제품을 제조하는 지역별 제조 거점(Hanwha Q CELLS Malaysia Sdn. Bhd., Hanwha Q CELLS USA, INC. 등)과 태양광 관련 제품, 서비스를 제공하는 지역별 판매 거점(Hanwha Q CELLS America Inc., Hanwha Q CELLS USA Corp., Hanwha Q CELLS GmbH., 등)인 종속 회사들이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"weight\": 0.7,\n      \"value\": \"중국\",\n      \"evidence\": \"최근에는 중국 및 아시아 시장의 경제 성장 및 신규 플랜트 증설 등에 의한 시장 상황 변화가 있을 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": -1,\n      \"value\": \"유가\",\n      \"evidence\": \"제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며, 세계 경기 및 수급상황에 따라 호황과 불황이 주기적으로 반복되는 경기 순환형 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": -1,\n      \"value\": \"금리\",\n      \"evidence\": \"유틸리티 규모의 프로젝트들은 금융 비용 민감도가 높기 때문에, 전세계 금리 변동 영향을 크게 받고 있으며, 주택용 시장에서는 대출을 통한 자금조달로 인하여 금리 변동에 따른 수요 변화가 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"우주 발사체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며 이러한 독보적인 경쟁력을 평가받아 한국형발사체(누리호) 고도화사업 및 차세대발사체 개발사업 발사체 총괄 주관 제작 사업의 단독 사업자로 선정되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ESS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MDS사업은 선박의 추진동력원과 에너지공급원으로 사용되는 ESS 및 수소연료전지시스템 등을 개발하여 선박 운용 관련 가치 창출 및 친환경 솔루션을 제공하고자 하는 사업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리튬이온전지체계\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"극한의 환경에서도 고도의 안정성과 신뢰성, 대폭 향상된 작전능력을 보장하는 차세대 잠수함용 리튬이온전지체계 사업도 성공적으로 진행 중에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지구관측위성\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"㈜쎄트렉아이는 중소형 지구관측위성 시장에서 지구관측위성 토탈 솔루션 제공 및 국내 국방안보 분야 위성전문 기업을 목표로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지능형 비전 솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기존의 핵심 역량인 '엣지 AI(Edge AI) 및 디바이스 기술'에 클라우드 플랫폼을 결합한 지능형 비전 솔루션 사업을 본격화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"금융업 부문에서는 생명보험(한화생명보험㈜ 등), 손해보험(한화손해보험㈜ 등),금융투자(한화투자증권㈜ 등), 저축은행(㈜한화저축은행), 자산운용(한화자산운용㈜ 등) 사업 등을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한화손해보험은 대한민국 최초 민족자본 설립 손해보험사로 장기, 자동차, 일반보험분야에서 고객의 니즈에 맞는 다양한 상품 및 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"우주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이에 정부는 민간 중심으로 진화하고 있는 글로벌 우주 Trend에 대응하기 위해 우주 발사체 산업생태계를 장기적인 플랜을 가지고 적극적으로 육성할 계획이기 때문에\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선해양\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한, 해양솔루션부문은 조선해양 분야의 지속가능한 성장 기반 확보를 위해 신설한 조직으로, 전기추진체계 등 차세대 친환경 추진솔루션을 개발하고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 국방사업은 군의 국방우주 경쟁력 확대 정책에 따라 시장 성장 가능성이 높으면서 자회사가 영위하고 있는 위성영상 데이터 분석사업과의 시너지도 큰 시장으로서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"정부\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 이러한 사업들을 통해 대한민국 대표 발사체 기업의 위치를 견고히 함으로써 정부의 후속 우주사업에서 주도적인 역할을 수행할 것입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2024년 12월 상선/방산 분야 미국 시장 진출의 교두보를 마련하고 현지 생산 거점을 확보하고자, 미국 소재 종속회사인 Hanwha Ocean USA International LLC를 통해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"베트남 현지법인은 전국적인 영업망을 바탕으로 생명보험 사업을 영위하고 있으며 2025년 말 기준 수입보험료는 1,910억원을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 현지법인은 개인채널 중심의 안정적 영업기반 마련을 위해 자와섬, 수마트라섬, 발리섬, 칼리만탄섬의 대도심 지역을 중심으로 보유조직의 양적, 질적 개선을 추진 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"탄소중립 규제\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한 차별화된 탈탄소 기술을 개발하고\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수익증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"종합자산관리계좌로서 수익증권, 주식, 채권 등 다양한 금융상품투자가 가능함\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"RP\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"계좌하나로 뱅킹서비스의 편리함과 R P 및 MMW의 수익성을 동시에 추구하는 상품으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MMF\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"계좌하나로 뱅킹서비스의 편리함과 R P 및 MMW의 수익성을 동시에 추구하는 상품으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기초자산의 가격, 이자율, 지표, 단위 또는 이를 기초로 하는 지수 등의 변동과 연계하여\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"손해보험업의 보험종목으로는 일반보험(화재, 해상, 특종, 보증보험 등) , 자동차보험, 장기보험이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금융투자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"금융투자업은 투자매매업, 투자중개업, 집합투자업, 투자일임업, 투자자문업, 신탁업을 기본업무로 하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"글로벌 금리변동성과 지정학적 리스크가 상존하고 있으나, 국제회계기준인 IFRS17의 성공적인 안착을 통해 보험산업 전반의 리스크 관리 시스템은 과거 대비 한층 정교화되었으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"법인 | - | 3개소(베트남, 인도네시아, 중국)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"법인 | - | 3개소(베트남, 인도네시아, 중국)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"법인 | - | 3개소(베트남, 인도네시아, 중국)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"사무소 | - | 4개소(샌프란시스크, 도쿄, UAE 아부다비, 뉴욕)\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"전략 금융상품\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"관리영업에 접목하여 다양한 국내외 투자펀드, 랩,RP, 소액채권 등 고객지향적 전략 금융상품을 출시하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"장외파생상품\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"종합자산관리계좌(CMA)시장을 선도하고 있는 한화 스마트 CMA는 업계 선두의 규모와 경쟁력을 갖추고 있으며, 장외파생상품, 신탁, 지급결제업무 등 신규 분야에 진출하여\"}, {\"axis\": \"product\", \"value\": \"펀드\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"동일 기간 동안 펀드는 1,098.7조원에서 1,376.2조원으로 25.3% 증가했고, 일임은 702.0조원에서 817.9조원으로 약 16.5% 증가하였습니다.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다.\"}, {\"axis\": \"region\", \"value\": \"싱가포르\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다.\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"또한 2024년에 인도네시아의 중견 증권사의 지분을 80% 인수, 2025년에 인도네시아 자산운용사 지분을 80%인수하여\"}, {\"axis\": \"exposure\", \"value\": \"부동산 경기\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"상호저축은행은 계절적인 변화에는 큰 영향을 받지는 않지만 부동산 경기 변동에 영향을 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"① 시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험\"}]}"
+  ],
+  "text_path": "data/reports/000880_20260331003871.txt"
+}

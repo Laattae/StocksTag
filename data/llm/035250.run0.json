@@ -1,0 +1,66 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "카지노",
+      "weight": 0.89,
+      "direction": null,
+      "evidence": "카지노는 핵심 매출원으로 2025년 기준 카지노 매출은 전체 매출의 89%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "호텔",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "호 텔 | 93,112,747,805 | 6.18% |"
+    },
+    {
+      "axis": "product",
+      "value": "콘도",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "콘 도 | 32,368,393,370 | 2.15% |"
+    },
+    {
+      "axis": "product",
+      "value": "스키장",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "스키장 | 21,110,769,358 | 1.40% |"
+    },
+    {
+      "axis": "product",
+      "value": "워터월드",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "워터월드 | 11,960,884,064 | 0.79% |"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "강원특별자치도정선군 사북읍 및 고한읍 | 강원랜드 카지노 |"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "강원특별자치도삼척시 도계읍 | 테마파크, 콘도 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "국내의 외국인 대상 카지노는 외래객의 증감 및 국내ㆍ외 환율 변동에 따라 증감하는경향이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"카지노\",\n      \"weight\": 0.89,\n      \"direction\": null,\n      \"evidence\": \"카지노는 핵심 매출원으로 2025년 기준 카지노 매출은 전체 매출의 89%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"호텔\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"호 텔 | 93,112,747,805 | 6.18% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘도\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"콘 도 | 32,368,393,370 | 2.15% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스키장\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"스키장 | 21,110,769,358 | 1.40% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"워터월드\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"워터월드 | 11,960,884,064 | 0.79% |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"강원특별자치도정선군 사북읍 및 고한읍 | 강원랜드 카지노 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"강원특별자치도삼척시 도계읍 | 테마파크, 콘도 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"국내의 외국인 대상 카지노는 외래객의 증감 및 국내ㆍ외 환율 변동에 따라 증감하는경향이 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/035250_20260323000917.txt"
+}

@@ -1,0 +1,109 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "현대자동차그룹",
+      "synonyms": [
+        "현대자동차 그룹"
+      ]
+    },
+    {
+      "group": 2,
+      "canonical": "Eli Lilly",
+      "synonyms": [
+        "Eli Lilly and Company"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "현대/기아자동차",
+      "synonyms": [
+        "현대/기아 자동차"
+      ]
+    },
+    {
+      "group": 4,
+      "canonical": "Microsoft",
+      "synonyms": [
+        "Microsoft Corporation"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "Pluristem",
+      "synonyms": [
+        "Pluristem Therapeutics"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "콘티넨탈오토모티브",
+      "synonyms": [
+        "콘티넨탈 오토모티브"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "한화에어로스페이스",
+      "synonyms": [
+        "한화 에어로스페이스"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "Stellantis",
+      "synonyms": [
+        "STELLANTIS"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "TOYO Chemical",
+      "synonyms": [
+        "TOYO Chemical CO., LTD."
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "Angelini Pharma",
+      "synonyms": [
+        "Angelini Pharma S.p.A."
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "Chevron Australia",
+      "synonyms": [
+        "Chevron Australia Pty Ltd"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "Anvia Therapeutics",
+      "synonyms": [
+        "Anvia Therapeutics, Inc."
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "Ono Pharmaceutical",
+      "synonyms": [
+        "Ono Pharmaceutical Co., Ltd."
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "ORIC Pharmaceuticals",
+      "synonyms": [
+        "ORIC Pharmaceuticals, Inc."
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "Senju Pharmaceutical Co., Ltd",
+      "synonyms": [
+        "SENJU Pharmaceutical"
+      ]
+    }
+  ]
+}

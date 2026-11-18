@@ -1,0 +1,172 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "줄기세포치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 자가지방유래 줄기세포를 이용한 희귀 난치질환 치료제 연구, 개발사업(해외 임상시험 진행) 및 줄기세포 배양배지사업, 줄기세포배양액 화장품 사업 및 비건 건강음료 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포 배양배지",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "줄기세포사업부문 | 줄기세포배양배지 | 제품 및 상품 | 배지 | 5,229 | 25% |"
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포배양액 화장품",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "줄기세포사업부문 | 줄기세포배양액원료 화장품 | 제품 및 상품 | 화장품 등 | 6,602 | 31% |"
+    },
+    {
+      "axis": "product",
+      "value": "음료",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 당기 사업부문별 매출실적은 연결기준, 매출액 약 207억원 중 줄기세포사업부문이약 57%, 식품사업부문이 약 41%를 차지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성관절염",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자폐 스펙트럼 장애",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "중증하지허혈성 질환",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "알바이오",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)알바이오 | 5,226,379 | 8,537,878 | 줄기세포 부문 |"
+    },
+    {
+      "axis": "customer",
+      "value": "WEIHAI HUAZHOU IMP&EXP CO LTD",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "WEIHAI HUAZHOU IMP&EXP CO LTD | 3,079,697 | 3,001,222 | 식품 부문 |"
+    },
+    {
+      "axis": "customer",
+      "value": "롯데칠성음료",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "롯데칠성음료(주) | 2,962,401 | 3,739,179 | 식품 부문 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "DMEM",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "줄기세포사업부문 | DMEM | 내 수 | - | 12,500 | 15,000 | 13,500 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "쌀",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "엿기름",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 | 수 입 | - | 600 | 571 | 454 | 엿기름 | 내 수 | - | 2,830 | 2,700 | 2,100 |"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미국 글로벌 스템셀 캠퍼스 | 연구소 및 제조시설 | 1401 severn st, baltimore, MD 21230 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "환위험: 원재료의 일부를 해외에서 수입하고 있어 환율변동에 따른 수입원가 변동 가능성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포치료제",
+      "weight": 0.58,
+      "direction": null,
+      "evidence": "당사는 줄기세포사업부문을 주력 사업으로 영위하고 있으며, 줄기세포를 이용한 세포치료제 개발(해외 임상시험) 및 판매, 재생의료 관련 연구개발 및 생산판매업, 의약품 개발"
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포배양액 화장품",
+      "weight": null,
+      "direction": null,
+      "evidence": "줄기세포배양액 원료 화장품은 최근 글로벌 화장품 시장에서 기능성과 프리미엄 기능성화장품의 핵심 성장 카테고리로 급부상하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음료류",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "음료류는 다(茶)류, 커피, 과일 채소음료류, 탄산음료류, 두유류, 발효음료류, 홍삼 인삼음료류 등 음용을 목적으로 하는 것을 말합니다."
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성관절염 치료",
+      "weight": null,
+      "direction": null,
+      "evidence": "한편, 당사가 글로벌 상용화를 위해 주력으로 개발하고 있는 퇴행성관절염 치료제의 글로벌 시장은 더욱 급속도로 성장할 것으로 전망되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포치료제\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 자가지방유래 줄기세포를 이용한 희귀 난치질환 치료제 연구, 개발사업(해외 임상시험 진행) 및 줄기세포 배양배지사업, 줄기세포배양액 화장품 사업 및 비건 건강음료 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포 배양배지\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"줄기세포사업부문 | 줄기세포배양배지 | 제품 및 상품 | 배지 | 5,229 | 25% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포배양액 화장품\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"줄기세포사업부문 | 줄기세포배양액원료 화장품 | 제품 및 상품 | 화장품 등 | 6,602 | 31% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음료\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 당기 사업부문별 매출실적은 연결기준, 매출액 약 207억원 중 줄기세포사업부문이약 57%, 식품사업부문이 약 41%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"퇴행성관절염\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고서 기준일 현재 당사는 퇴행성관절염 줄기세포치료제 조인트스템의 해외(미국) 임상시험을 통한 글로벌 상용화를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자폐 스펙트럼 장애\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중증하지허혈성 질환\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Nature Cell America Inc.를 통해서는 자폐 스펙트럼 장애(AU)를 적응증으로 하는 줄기세포치료제 및 중증하지허혈성 질환(CLI)을 적응증으로 하는 줄기세포치료제의 미국 임상개발을 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"알바이오\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(주)알바이오 | 5,226,379 | 8,537,878 | 줄기세포 부문 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"WEIHAI HUAZHOU IMP&EXP CO LTD\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"WEIHAI HUAZHOU IMP&EXP CO LTD | 3,079,697 | 3,001,222 | 식품 부문 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"롯데칠성음료\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"롯데칠성음료(주) | 2,962,401 | 3,739,179 | 식품 부문 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"DMEM\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"줄기세포사업부문 | DMEM | 내 수 | - | 12,500 | 15,000 | 13,500 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"쌀\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"엿기름\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 황도다이스 | 내 수 | - | - | - | - | 수 입 | - | 245 | - | - | 쌀 | 내 수 | - | 1,000 | 1,000 | 1,000 | 수 입 | - | 600 | 571 | 454 | 엿기름 | 내 수 | - | 2,830 | 2,700 | 2,100 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울시 금천구 가산동 소재 연구소에서 줄기세포 사업부문을, 경북 칠곡군 소재 연구소에서 음료사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미국 글로벌 스템셀 캠퍼스 | 연구소 및 제조시설 | 1401 severn st, baltimore, MD 21230 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"환위험: 원재료의 일부를 해외에서 수입하고 있어 환율변동에 따른 수입원가 변동 가능성이 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포치료제\",\n      \"weight\": 0.58,\n      \"direction\": null,\n      \"evidence\": \"당사는 줄기세포사업부문을 주력 사업으로 영위하고 있으며, 줄기세포를 이용한 세포치료제 개발(해외 임상시험) 및 판매, 재생의료 관련 연구개발 및 생산판매업, 의약품 개발\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"줄기세포배양액 화장품\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"줄기세포배양액 원료 화장품은 최근 글로벌 화장품 시장에서 기능성과 프리미엄 기능성화장품의 핵심 성장 카테고리로 급부상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음료류\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"음료류는 다(茶)류, 커피, 과일 채소음료류, 탄산음료류, 두유류, 발효음료류, 홍삼 인삼음료류 등 음용을 목적으로 하는 것을 말합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"퇴행성관절염 치료\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사가 글로벌 상용화를 위해 주력으로 개발하고 있는 퇴행성관절염 치료제의 글로벌 시장은 더욱 급속도로 성장할 것으로 전망되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"음료산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 적은 산업이나, 원부자재의 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는 특성을 보이고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/007390_20260323001523.txt"
+}

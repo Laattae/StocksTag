@@ -1,0 +1,383 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아연",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 주요 제품인 아연은 일반적으로 철강재의 보호피막으로 사용되며, 강관, 강판, 철선ㆍ철구조물 등의 소재에 도금용으로 사용됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "은",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "은 (사진감광재료, 전기도금, 전기접점, 치과재료 등) 매출액 3,477,640 비중 33.0"
+    },
+    {
+      "axis": "product",
+      "value": "금",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "금 (전기도금, 화폐, 전기접점, 장식품, 치과재료 등) 매출액 1,950,445 비중 18.5"
+    },
+    {
+      "axis": "product",
+      "value": "연",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "연 (축전기전극, 안료, 땜납, 활자합금, 전선피복용, Bearing합금 등) 매출액 1,293,057 비중 12.3"
+    },
+    {
+      "axis": "product",
+      "value": "황산니켈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글로벌 산업 경기침체로 건설, 토목, 전기/전자 실수요 감소로 하락했던 가격이"
+    },
+    {
+      "axis": "customer",
+      "value": "Glencore",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "아연정광 아연제련 원료 1,834,656 Glencore 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연정광",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "연정광",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "제강분진",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 스틸싸이클㈜의 주요 원재료는 제강분진(EAFD)과 동재이며, 국내외 제강사와 폐기물처리업체로부터 공급받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈 파우더",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 원재료는 Class1 니켈(니켈 파우더, 니켈 브리켓)입니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "온산제련소 자가 울산 온산"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종속회사인 Sun Metals Corporation Pty Ltd(이하 \"SMC\")의 주요 제품인 아연은 건설재료나 철구조물의 도금용 소재로 사용됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종속회사인 Zinc Oxide Corporation Vietnam LLC(이하 \"ZOCV\")의 주요 제품인 산화아연(IZO)은 세라믹 소재의 표면 코팅용 소재로 주로 사용됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "LME 가격",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다."
+    },
+    {
+      "axis": "product",
+      "value": "아연괴",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "아연괴 | \n연간 | \n월간 | \n263,220 | \n770,479 | \n260,266 | \n779,307 | \n2,954 | \n- |"
+    },
+    {
+      "axis": "product",
+      "value": "황산",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "황산 | \n연간 | \n월간 | \n432,655 | \n21,417 | \n416,073 | \n30,914 | \n16,582 | \n- |"
+    },
+    {
+      "axis": "product",
+      "value": "조산화아연",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "조산화아연(HZO) 외 | \n연간 | \n월간 | \n79,538 | \n276,583 | \n60,153 | \n248,128 | \n19,385 | \n28,455 |"
+    },
+    {
+      "axis": "product",
+      "value": "산화아연",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "산화아연(IZO) | \n연간 | \n월간 | \n21,916 | \n12,445 | \n9,926 | \n5,799 | \n11,990 | \n6,647 |"
+    },
+    {
+      "axis": "product",
+      "value": "Pb residue",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Pb residue | \n연간 | \n월간 | \n1,540 | \n315 | \n640 | \n170 | \n900 | \n145 |"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "① 미국 테네시주에 핵심광물(안티모니, 갈륨 등) 등의 생산을 위한 통합 비철금속 제련소 구축 프로젝트 관리"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "미국 관세 부과 위협에 따른 달러 강세 기조 및 글로벌 경기 침체 우려, 초과 공급 지속 등이 전반적인 가격 하락 초래"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "미국 금리 인하 기대 구체화 및 달러 약세 흐름으로 귀금속 투자 매력도 제고"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "국제시장(LME)가격은 2025년 평균 USD 1,963.44/MT로 전년 대비 약 5%(USD 109.23/MT) 하락"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설 산업 수요",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "최대 소비국인 중국의 부동산 경기 침체로 건설용 아연 수요 부진이 연말까지 지속되었으나"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제강분진",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "제강분진(EAFD, Electric Arc Furnace Dust)과 유가금속이 함유되어 있는 산업폐기물을 재생기술을 통해 조산화아연(HZO) 및 동소성품을 생산하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산니켈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "황산니켈은 삼원계(NCM/NCA) 배터리 양극재의 전구체 원료로 사용되며, 전기자동차 및 2차전지 산업 성장과 함께 빠르게 확장되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전지박은 동을 원재료로 생산되는 2차전지용 음극 집전체입니다."
+    },
+    {
+      "axis": "product",
+      "value": "E-scrap",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "종속회사인 Pedalpoint는 E-Waste 수거, 파쇄 및 선별을 통해 E-scrap을 생산하는 evTerra와 E-scrap의 소성을 통해 소성품 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "정광",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종속회사인 KZMH(ICM Pachapaqui)사에서 정광을 공급하고 있는 아연, 연 등의 비철금속 산업은 국가 기간산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "반도체용 황산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2029년 시운전을 목표로, 핵심광물 11종을 포함한 비철금속 13종 및 반도체용 황산을 생산할 계획입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "황산니켈 수요의 90%가 전기차 산업에 해당하는 만큼, 해당 시장의 경기 변동에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지박은 전기 자동차, ESS, IT 등 2차전지 적용장치에 전방위적으로 사용되는 핵심 음극 소재입니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강산업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면"
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제강분진",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "하지만 원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상 제강분진을 확보해야 하는"
+    },
+    {
+      "axis": "raw_material",
+      "value": "E-Waste",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "폐기물로 매립되는 E-Waste를 원료로 활용함으로써 고려아연㈜는 종속회사 Pedalpoint를 통해 안정적인 원료를 조달할 수 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈 중간재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "올인원 니켈 제련소에서는 니켈 중간재(MHP, MATTE) 및 블랙매스(Black Mass)를 활용한 황산니켈 생산이 가능하며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "블랙매스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "올인원 니켈 제련소에서는 니켈 중간재(MHP, MATTE) 및 블랙매스(Black Mass)를 활용한 황산니켈 생산이 가능하며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 글로벌 공급망 리스크 분산, 핵심광물 수요 확대 대응, 안정적인 중장기 성장성 확보를 위하여 미국 정부와의 파트너십을 기반으로 한 미국 통합 비철금속 제련소 투자"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "및 베트남 세라믹 업체에 납품하고 있어 안정적인 판로를 확보한 상황입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "인플레이션",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "신재생에너지 사업은 경기변동에 따라 인플레이션이나 설비공급업체의 낮은 수익성, 배터리 등 제조업체의 자금 문제, 건설 비용의 상승과 같은 어려움에 직면할 수 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "광물 가격",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "단, 실제 프로젝트 추진 일정은 공사기간 연장, 광물 가격 변동 등 대내외적 상황 변화에 따라 변동될 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아연\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품인 아연은 일반적으로 철강재의 보호피막으로 사용되며, 강관, 강판, 철선ㆍ철구조물 등의 소재에 도금용으로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"은\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"은 (사진감광재료, 전기도금, 전기접점, 치과재료 등) 매출액 3,477,640 비중 33.0\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"금 (전기도금, 화폐, 전기접점, 장식품, 치과재료 등) 매출액 1,950,445 비중 18.5\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"연 (축전기전극, 안료, 땜납, 활자합금, 전선피복용, Bearing합금 등) 매출액 1,293,057 비중 12.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산니켈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"글로벌 산업 경기침체로 건설, 토목, 전기/전자 실수요 감소로 하락했던 가격이\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Glencore\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"아연정광 아연제련 원료 1,834,656 Glencore 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아연정광\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"연정광\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제강분진\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 스틸싸이클㈜의 주요 원재료는 제강분진(EAFD)과 동재이며, 국내외 제강사와 폐기물처리업체로부터 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈 파우더\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 원재료는 Class1 니켈(니켈 파우더, 니켈 브리켓)입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"온산제련소 자가 울산 온산\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Sun Metals Corporation Pty Ltd(이하 \\\"SMC\\\")의 주요 제품인 아연은 건설재료나 철구조물의 도금용 소재로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Zinc Oxide Corporation Vietnam LLC(이하 \\\"ZOCV\\\")의 주요 제품인 산화아연(IZO)은 세라믹 소재의 표면 코팅용 소재로 주로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"LME 가격\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"아연괴\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"아연괴 | \\n연간 | \\n월간 | \\n263,220 | \\n770,479 | \\n260,266 | \\n779,307 | \\n2,954 | \\n- |\"}, {\"axis\": \"product\", \"value\": \"황산\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"황산 | \\n연간 | \\n월간 | \\n432,655 | \\n21,417 | \\n416,073 | \\n30,914 | \\n16,582 | \\n- |\"}, {\"axis\": \"product\", \"value\": \"조산화아연\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"조산화아연(HZO) 외 | \\n연간 | \\n월간 | \\n79,538 | \\n276,583 | \\n60,153 | \\n248,128 | \\n19,385 | \\n28,455 |\"}, {\"axis\": \"product\", \"value\": \"산화아연\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"산화아연(IZO) | \\n연간 | \\n월간 | \\n21,916 | \\n12,445 | \\n9,926 | \\n5,799 | \\n11,990 | \\n6,647 |\"}, {\"axis\": \"product\", \"value\": \"Pb residue\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"Pb residue | \\n연간 | \\n월간 | \\n1,540 | \\n315 | \\n640 | \\n170 | \\n900 | \\n145 |\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"건설\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며\"}, {\"axis\": \"application\", \"value\": \"가전\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"전기\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"철강\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"① 미국 테네시주에 핵심광물(안티모니, 갈륨 등) 등의 생산을 위한 통합 비철금속 제련소 구축 프로젝트 관리\"}, {\"axis\": \"region\", \"value\": \"호주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"미국 관세 부과 위협에 따른 달러 강세 기조 및 글로벌 경기 침체 우려, 초과 공급 지속 등이 전반적인 가격 하락 초래\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"미국 금리 인하 기대 구체화 및 달러 약세 흐름으로 귀금속 투자 매력도 제고\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"국제시장(LME)가격은 2025년 평균 USD 1,963.44/MT로 전년 대비 약 5%(USD 109.23/MT) 하락\"}, {\"axis\": \"exposure\", \"value\": \"건설 산업 수요\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"최대 소비국인 중국의 부동산 경기 침체로 건설용 아연 수요 부진이 연말까지 지속되었으나\"}, {\"axis\": \"raw_material\", \"value\": \"제강분진\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"제강분진(EAFD, Electric Arc Furnace Dust)과 유가금속이 함유되어 있는 산업폐기물을 재생기술을 통해 조산화아연(HZO) 및 동소성품을 생산하여 판매하고 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산니켈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"황산니켈은 삼원계(NCM/NCA) 배터리 양극재의 전구체 원료로 사용되며, 전기자동차 및 2차전지 산업 성장과 함께 빠르게 확장되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전지박\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전지박은 동을 원재료로 생산되는 2차전지용 음극 집전체입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"E-scrap\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 Pedalpoint는 E-Waste 수거, 파쇄 및 선별을 통해 E-scrap을 생산하는 evTerra와 E-scrap의 소성을 통해 소성품 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정광\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 KZMH(ICM Pachapaqui)사에서 정광을 공급하고 있는 아연, 연 등의 비철금속 산업은 국가 기간산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체용 황산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2029년 시운전을 목표로, 핵심광물 11종을 포함한 비철금속 13종 및 반도체용 황산을 생산할 계획입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"황산니켈 수요의 90%가 전기차 산업에 해당하는 만큼, 해당 시장의 경기 변동에 큰 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차전지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지박은 전기 자동차, ESS, IT 등 2차전지 적용장치에 전방위적으로 사용되는 핵심 음극 소재입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강산업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제강분진\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"하지만 원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상 제강분진을 확보해야 하는\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"E-Waste\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"폐기물로 매립되는 E-Waste를 원료로 활용함으로써 고려아연㈜는 종속회사 Pedalpoint를 통해 안정적인 원료를 조달할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈 중간재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"올인원 니켈 제련소에서는 니켈 중간재(MHP, MATTE) 및 블랙매스(Black Mass)를 활용한 황산니켈 생산이 가능하며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"블랙매스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"올인원 니켈 제련소에서는 니켈 중간재(MHP, MATTE) 및 블랙매스(Black Mass)를 활용한 황산니켈 생산이 가능하며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 글로벌 공급망 리스크 분산, 핵심광물 수요 확대 대응, 안정적인 중장기 성장성 확보를 위하여 미국 정부와의 파트너십을 기반으로 한 미국 통합 비철금속 제련소 투자\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"및 베트남 세라믹 업체에 납품하고 있어 안정적인 판로를 확보한 상황입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인플레이션\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"신재생에너지 사업은 경기변동에 따라 인플레이션이나 설비공급업체의 낮은 수익성, 배터리 등 제조업체의 자금 문제, 건설 비용의 상승과 같은 어려움에 직면할 수 있으나\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"광물 가격\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"단, 실제 프로젝트 추진 일정은 공사기간 연장, 광물 가격 변동 등 대내외적 상황 변화에 따라 변동될 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/010130_20260813001726.txt"
+}

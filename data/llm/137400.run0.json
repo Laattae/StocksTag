@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "2차전지 장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주식회사 피엔티는 Roll-to-Roll(RtoR) 기반의 정밀 공정 기술을 바탕으로, 2차전지 전극 공정 및 전자소재 제조 장비를 공급하는 장비 전문 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "동박 제조장비",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "소재 사업부는 전지박(동박), 광학필름, OCA 필름 등 고기능 전자소재의 생산에 사용되는 특수 장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "LFP 배터리",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2023년 6월 종속회사인 피엔티머티리얼즈(연결)를 설립하였으며, 협업을 통해 0.2Gwh 규모의 ESS용 LFP 배터리와 연간 6,000ton 규모의 활물질을 생산 예정입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이러한 정책적 흐름과 함께 전기차(EV) 수요는 폭발적으로 증가하고 있으며, 글로벌 완성차 업체들은 전동화 전략을 가속화하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "ESS(에너지저장장치) 시장도 재생에너지 확산과 전력망의 유연성 확보를 위한 핵심 인프라로 주목받고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "디스플레이용 필름을 포함해 다양한 산업용 필름의 코팅 및 슬리터링 장비를 생산하며 고속 정밀 코팅 및 UV 경화 기술로 최상의 제품을 생산하며 전자재료 및 전자기기 생산 장비를 제조하고 있습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "SK넥실리스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며, 중국·유럽·동남아 등 해외 고객사로의 수주도 활발히 확대되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "롯데에너지머티리얼즈",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며, 중국·유럽·동남아 등 해외 고객사로의 수주도 활발히 확대되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원재료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나, 수주되는 제품의 사양과 수주금액의 변동에 따른 설계의 변경과 대량구매에 따른 특가구입 등 구매업무의 효율화를 통한 적절한 대응으로 급격한 원가 부담의 변동은 없습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "당사는 국제적인 영업활동으로 인하여 외환위험에 노출되어 있습니다. 당사는 현재 환위험을 헷지하기 위한 계약을 체결하고 있지 아니하며, 향후 필요할 경우 환위험을 헷지하기 위한 계약을 체결할 예정입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나, 수주되는 제품의 사양과 수주금액의 변동에 따른 설계의 변경과 대량구매에 따른 특가구입 등 구매업무의 효율화를 통한 적절한 대응으로 급격한 원가 부담의 변동은 없습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"2차전지 장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주식회사 피엔티는 Roll-to-Roll(RtoR) 기반의 정밀 공정 기술을 바탕으로, 2차전지 전극 공정 및 전자소재 제조 장비를 공급하는 장비 전문 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동박 제조장비\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"소재 사업부는 전지박(동박), 광학필름, OCA 필름 등 고기능 전자소재의 생산에 사용되는 특수 장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LFP 배터리\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2023년 6월 종속회사인 피엔티머티리얼즈(연결)를 설립하였으며, 협업을 통해 0.2Gwh 규모의 ESS용 LFP 배터리와 연간 6,000ton 규모의 활물질을 생산 예정입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이러한 정책적 흐름과 함께 전기차(EV) 수요는 폭발적으로 증가하고 있으며, 글로벌 완성차 업체들은 전동화 전략을 가속화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"ESS(에너지저장장치) 시장도 재생에너지 확산과 전력망의 유연성 확보를 위한 핵심 인프라로 주목받고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"디스플레이용 필름을 포함해 다양한 산업용 필름의 코팅 및 슬리터링 장비를 생산하며 고속 정밀 코팅 및 UV 경화 기술로 최상의 제품을 생산하며 전자재료 및 전자기기 생산 장비를 제조하고 있습니다\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK넥실리스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며, 중국·유럽·동남아 등 해외 고객사로의 수주도 활발히 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"롯데에너지머티리얼즈\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며, 중국·유럽·동남아 등 해외 고객사로의 수주도 활발히 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원재료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나, 수주되는 제품의 사양과 수주금액의 변동에 따른 설계의 변경과 대량구매에 따른 특가구입 등 구매업무의 효율화를 통한 적절한 대응으로 급격한 원가 부담의 변동은 없습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"당사는 국제적인 영업활동으로 인하여 외환위험에 노출되어 있습니다. 당사는 현재 환위험을 헷지하기 위한 계약을 체결하고 있지 아니하며, 향후 필요할 경우 환위험을 헷지하기 위한 계약을 체결할 예정입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나, 수주되는 제품의 사양과 수주금액의 변동에 따른 설계의 변경과 대량구매에 따른 특가구입 등 구매업무의 효율화를 통한 적절한 대응으로 급격한 원가 부담의 변동은 없습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/137400_20260316000390.txt"
+}

@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "필러",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "전문테라피(필러, 메조) | 소계 | 52,818 | 72.54% | 53,542 | 64.83% | 54,437 | 68.7% | 안면 | 33,205 | 45.61%"
+    },
+    {
+      "axis": "product",
+      "value": "코스메슈티컬",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "코슈메슈티컬 | 소계 | 10,383 | 14.26% | 12,748 | 15.44% | 10,894 | 13.8%"
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "건강기능식품 | 5,621 | 7.72% | 12,654 | 15.32% | 12,201 | 15.4%"
+    },
+    {
+      "axis": "product",
+      "value": "펩타이드 원료",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "원료_펩타이드, 성장인자 | 3,777 | 5.19% | 3,604 | 4.36% | 3,094 | 3.9%"
+    },
+    {
+      "axis": "application",
+      "value": "안면 미용",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "안면 미용 제품군에는 콜라겐 및 엘라스틴 합성을 촉진하고 항산화 기능을 통해 피부 노화로 인한 주름 개선을 지원하는 제품"
+    },
+    {
+      "axis": "application",
+      "value": "당뇨병",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 개발한 혈당 조절 기능성 식품원료 펩타이드인 디글루스테롤(Deglusterol)은 경구 섭취 후 체내 전달이 가능하도록 설계된 펩타이드로, 당뇨병 환자뿐 아니라 공복혈당장애"
+    },
+    {
+      "axis": "application",
+      "value": "근감소증",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "MyoKi는 근육량 감소와 운동기능 저하가 동시에 나타나는 근감소증의 특성을 고려하여, 근육량 증대와 기능 개선을 함께 목표로 설계된 제품이다."
+    },
+    {
+      "axis": "application",
+      "value": "황반변성",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 이러한 치료 환경의 한계를 개선하기 위해 비정상적인 신생혈관 형성에 관여하는 VEGF 수용체 경로를 조절하는 펩타이드 기반 황반변성 치료제 후보물질 CG-P5를 개발하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(주)케어젠 펩타이드 R&D센터 | 경기도 안양시 동안구 엘에스로 91번길 46-38(호계동)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"필러\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"전문테라피(필러, 메조) | 소계 | 52,818 | 72.54% | 53,542 | 64.83% | 54,437 | 68.7% | 안면 | 33,205 | 45.61%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"코스메슈티컬\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"코슈메슈티컬 | 소계 | 10,383 | 14.26% | 12,748 | 15.44% | 10,894 | 13.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강기능식품\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"건강기능식품 | 5,621 | 7.72% | 12,654 | 15.32% | 12,201 | 15.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펩타이드 원료\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"원료_펩타이드, 성장인자 | 3,777 | 5.19% | 3,604 | 4.36% | 3,094 | 3.9%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안면 미용\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"안면 미용 제품군에는 콜라겐 및 엘라스틴 합성을 촉진하고 항산화 기능을 통해 피부 노화로 인한 주름 개선을 지원하는 제품\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"당뇨병\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사가 개발한 혈당 조절 기능성 식품원료 펩타이드인 디글루스테롤(Deglusterol)은 경구 섭취 후 체내 전달이 가능하도록 설계된 펩타이드로, 당뇨병 환자뿐 아니라 공복혈당장애\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"근감소증\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"MyoKi는 근육량 감소와 운동기능 저하가 동시에 나타나는 근감소증의 특성을 고려하여, 근육량 증대와 기능 개선을 함께 목표로 설계된 제품이다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"황반변성\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사는 이러한 치료 환경의 한계를 개선하기 위해 비정상적인 신생혈관 형성에 관여하는 VEGF 수용체 경로를 조절하는 펩타이드 기반 황반변성 치료제 후보물질 CG-P5를 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(주)케어젠 펩타이드 R&D센터 | 경기도 안양시 동안구 엘에스로 91번길 46-38(호계동)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/214370_20260316001449.txt"
+}

@@ -1,0 +1,230 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "DD01",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "DD01은 당사의 페길화 기술을 적용한 합성펩타이드 신약으로, GLP-1 및 Glucagon 수용체에 이중으로 작용하는 대사이상 관련 지방간염(MASH) 치료제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "MET-002o",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "MET-002o 및 MET-224o 등의 제품은 당사의 자체개발 경구용 펩타이드 기술 ORALINK를 적용하여 개발된 경구용 비만 치료제로 GLP-1 및 아밀린을 타겟하는 약물로 개발 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "NLY01",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종속회사 Neuraly의 임상 프로그램인 NLY01은 신경염증의 원인이 되는 미세아교세포의 활성화를 억제하여 신경 세포를 보호하는 기전의 퇴행성 뇌질환 (파킨슨병, 알츠하이머성 치매) 치료제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "TLY012",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "종속회사 Neuraly의 임상 프로그램인 TLY012는 섬유화 질환의 원인인 근섬유아세포(Myofibroblasts)를 선택적으로 사멸시켜 섬유화증(만성 췌장염, 피부경화증, 간 경변)을 근본적으로 치료하는 기전의 섬유화증 치료제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PMI07",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "조기 암 또는 섬유화증 진단용 PET 이미징 바이오마커인 PMI07 (Fibroblast Activation Protein 타겟)에 대해 글로벌 방사성 조영제 개발 전문기업인 Blue Earth Diagnostics와 2021년 9월 글로벌 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "비만 치료",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "핵심 파이프라인인 GLP-1 기반 ① 경구용 비만치료제(Pfizer 社 파트너링) ② MASH(대사이상 관련 지방간염) 치료제(DD01)를 비롯하여 파킨슨병 및 알츠하이머병 치료제 NLY01, 섬유화 질환 치료제 TLY012 등 다양한 신약 파이프라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성 뇌질환",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사는 GLP-1 등 펩타이드 관련 기술을 기반으로 비만 및 MASH(대사이상 관련 지방간염)을 포함한 대사성질환, 퇴행성 뇌질환과 같이 미충족 의료수요가 높은 질환군에 대한 혁신신약을 연구 개발하는 회사로서"
+    },
+    {
+      "axis": "customer",
+      "value": "화이자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 비만치료제 파트너사인 멧세라(Metsera) 社는 2025년 11월 미국의 글로벌 제약사 화이자(Pfizer) 社에 인수되어 화이자(Pfizer) 社의 100% 자회사가 되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "선전 살루브리스 제약",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "미국 임상 1상이 진행 중이던 2021년 9월 중국의 대사질환 전문 제약사인 선전 살루브리스 제약(Shenzhen Salubris Pharmaceuticals)과 기술이전 계약을 체결하여 중국내 개발 및 상업화 권리를 이전하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Blue Earth Diagnostics",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "조기 암 또는 섬유화증 진단용 PET 이미징 바이오마커인 PMI07 (Fibroblast Activation Protein 타겟)에 대해 글로벌 방사성 조영제 개발 전문기업인 Blue Earth Diagnostics와 2021년 9월 글로벌 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사 기업부설연구소 | 경기도 성남시 수정구 | 디스커버리팀 | 약효평가팀 | 제품개발팀"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 연구소 | 미국 메릴랜드주Gaithersburg | Neuraly Inc.(임상팀, Center of Excellence 등) | Valted Seq, Inc.(Bioinformatics 등)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외에서 조달하는 원재료의 주요한 가격변동 요인은 환율변동이며, 원재료 등에 대한 개별단가는 연간 총매입수량 등과 연계되어 매년 가격조정이 이루어지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "DD01",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성펩타이드 신약 (PEG가 결합된 펩타이드 주사제)"
+    },
+    {
+      "axis": "product",
+      "value": "MET-002o",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성펩타이드 신약 (리간드 및 지방산 결합을 이용한 경구용 펩타이드 비만 치료제)"
+    },
+    {
+      "axis": "product",
+      "value": "MET-224o",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성펩타이드 신약 (리간드 및 지방산 결합을 이용한 경구용 펩타이드 비만 치료제)"
+    },
+    {
+      "axis": "product",
+      "value": "MET-097o",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "합성펩타이드 신약 (지방산 결합을 이용한 경구용 펩타이드 비만 치료제)"
+    },
+    {
+      "axis": "product",
+      "value": "NLY01",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성펩타이드 신약 (PEG가 결합된 펩타이드 주사제)"
+    },
+    {
+      "axis": "product",
+      "value": "TLY012",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 신약 (PEG가 결합된 단백질 주사제)"
+    },
+    {
+      "axis": "application",
+      "value": "비만",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "MET-002o, MET-224o, MET-097o, MET-GGGo, MET-GGo, MET-AMYo, MET-GGGi의 적응증 비만"
+    },
+    {
+      "axis": "application",
+      "value": "대사이상관련지방간염",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "DD01의 적응증 대사이상관련지방간염 (MASH)"
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "NLY01의 적응증 파킨슨병, 알츠하이머병"
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "NLY01의 적응증 파킨슨병, 알츠하이머병"
+    },
+    {
+      "axis": "application",
+      "value": "섬유화질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "TLY012의 적응증 섬유화질환 (전신경화증, 만성췌장염, 간섬유화증)"
+    },
+    {
+      "axis": "customer",
+      "value": "Pfizer",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Metsera Inc. (現 Pfizer 社) (미국 소재)"
+    },
+    {
+      "axis": "customer",
+      "value": "동구바이오제약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Valted Seq, Inc.는 퇴행성 뇌질환 진단키트의 품목 허가 시 동구바이오제약에게 대한민국에 대한 상업화 권리를 독점적으로 우선 협상할 수 있는 권리를 부여"
+    },
+    {
+      "axis": "customer",
+      "value": "1ST Biotherapeutics",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Neuraly Inc.의 NLY03 (신규타겟)의 퇴행성뇌질환 치료제로의 개발 및 상업화를 위한 공동개발 계약"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "보고서 기준일 현재 당사의 신약 파이프라인 연구개발 조직은 본사 연구개발본부 산하 3개팀, 미국 메릴랜드 소재 종속회사 Neuraly Inc. 산하 2개팀으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "파킨슨병 치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글로벌 데이터베이스인 GlobalData 기준 2026년 2월 현재, 파킨슨병을 적응증으로 개발 중인 파이프라인 중 증상 완화제를 제외한 다수의 질병 조절 치료제들이 글로벌 임상 2~3상 단계에 진입해 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "알츠하이머성 치매 치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지난 40여 년간 알츠하이머성 치매 치료를 위한 다양한 연구와 개발이 지속되어 왔으며, 최근에는 베타아밀로이드를 표적으로 하는 Leqembi®(lecanemab, Eisai·Biogen)와 Kisunla®(donanemab, Eli Lilly) 등의 치료제가 미국 FDA의 허가를 받았습니다."
+    },
+    {
+      "axis": "product",
+      "value": "섬유화 질환 치료제",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "섬유화증의 경우, 전세계적으로 만성췌장염 치료제를 위한 임상연구는 전무합니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"DD01\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"DD01은 당사의 페길화 기술을 적용한 합성펩타이드 신약으로, GLP-1 및 Glucagon 수용체에 이중으로 작용하는 대사이상 관련 지방간염(MASH) 치료제입니다.\"}, {\"axis\": \"product\", \"value\": \"MET-002o\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"MET-002o 및 MET-224o 등의 제품은 당사의 자체개발 경구용 펩타이드 기술 ORALINK를 적용하여 개발된 경구용 비만 치료제로 GLP-1 및 아밀린을 타겟하는 약물로 개발 중입니다.\"}, {\"axis\": \"product\", \"value\": \"NLY01\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"종속회사 Neuraly의 임상 프로그램인 NLY01은 신경염증의 원인이 되는 미세아교세포의 활성화를 억제하여 신경 세포를 보호하는 기전의 퇴행성 뇌질환 (파킨슨병, 알츠하이머성 치매) 치료제입니다.\"}, {\"axis\": \"product\", \"value\": \"TLY012\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"종속회사 Neuraly의 임상 프로그램인 TLY012는 섬유화 질환의 원인인 근섬유아세포(Myofibroblasts)를 선택적으로 사멸시켜 섬유화증(만성 췌장염, 피부경화증, 간 경변)을 근본적으로 치료하는 기전의 섬유화증 치료제입니다.\"}, {\"axis\": \"product\", \"value\": \"PMI07\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"조기 암 또는 섬유화증 진단용 PET 이미징 바이오마커인 PMI07 (Fibroblast Activation Protein 타겟)에 대해 글로벌 방사성 조영제 개발 전문기업인 Blue Earth Diagnostics와 2021년 9월 글로벌 기술이전 계약을 체결하였습니다.\"}, {\"axis\": \"application\", \"value\": \"비만 치료\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"핵심 파이프라인인 GLP-1 기반 ① 경구용 비만치료제(Pfizer 社 파트너링) ② MASH(대사이상 관련 지방간염) 치료제(DD01)를 비롯하여 파킨슨병 및 알츠하이머병 치료제 NLY01, 섬유화 질환 치료제 TLY012 등 다양한 신약 파이프라인을 보유하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"퇴행성 뇌질환\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"당사는 GLP-1 등 펩타이드 관련 기술을 기반으로 비만 및 MASH(대사이상 관련 지방간염)을 포함한 대사성질환, 퇴행성 뇌질환과 같이 미충족 의료수요가 높은 질환군에 대한 혁신신약을 연구 개발하는 회사로서\"}, {\"axis\": \"customer\", \"value\": \"화이자\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사의 비만치료제 파트너사인 멧세라(Metsera) 社는 2025년 11월 미국의 글로벌 제약사 화이자(Pfizer) 社에 인수되어 화이자(Pfizer) 社의 100% 자회사가 되었습니다.\"}, {\"axis\": \"customer\", \"value\": \"선전 살루브리스 제약\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"미국 임상 1상이 진행 중이던 2021년 9월 중국의 대사질환 전문 제약사인 선전 살루브리스 제약(Shenzhen Salubris Pharmaceuticals)과 기술이전 계약을 체결하여 중국내 개발 및 상업화 권리를 이전하였으며\"}, {\"axis\": \"customer\", \"value\": \"Blue Earth Diagnostics\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"조기 암 또는 섬유화증 진단용 PET 이미징 바이오마커인 PMI07 (Fibroblast Activation Protein 타겟)에 대해 글로벌 방사성 조영제 개발 전문기업인 Blue Earth Diagnostics와 2021년 9월 글로벌 기술이전 계약을 체결하였습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"본사 기업부설연구소 | 경기도 성남시 수정구 | 디스커버리팀 | 약효평가팀 | 제품개발팀\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"미국 연구소 | 미국 메릴랜드주Gaithersburg | Neuraly Inc.(임상팀, Center of Excellence 등) | Valted Seq, Inc.(Bioinformatics 등)\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"해외에서 조달하는 원재료의 주요한 가격변동 요인은 환율변동이며, 원재료 등에 대한 개별단가는 연간 총매입수량 등과 연계되어 매년 가격조정이 이루어지고 있습니다.\"}]}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"DD01\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성펩타이드 신약 (PEG가 결합된 펩타이드 주사제)\"}, {\"axis\": \"product\", \"value\": \"MET-002o\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성펩타이드 신약 (리간드 및 지방산 결합을 이용한 경구용 펩타이드 비만 치료제)\"}, {\"axis\": \"product\", \"value\": \"MET-224o\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성펩타이드 신약 (리간드 및 지방산 결합을 이용한 경구용 펩타이드 비만 치료제)\"}, {\"axis\": \"product\", \"value\": \"MET-097o\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"합성펩타이드 신약 (지방산 결합을 이용한 경구용 펩타이드 비만 치료제)\"}, {\"axis\": \"product\", \"value\": \"NLY01\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성펩타이드 신약 (PEG가 결합된 펩타이드 주사제)\"}, {\"axis\": \"product\", \"value\": \"TLY012\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 신약 (PEG가 결합된 단백질 주사제)\"}, {\"axis\": \"application\", \"value\": \"비만\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"MET-002o, MET-224o, MET-097o, MET-GGGo, MET-GGo, MET-AMYo, MET-GGGi의 적응증 비만\"}, {\"axis\": \"application\", \"value\": \"대사이상관련지방간염\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"DD01의 적응증 대사이상관련지방간염 (MASH)\"}, {\"axis\": \"application\", \"value\": \"파킨슨병\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"NLY01의 적응증 파킨슨병, 알츠하이머병\"}, {\"axis\": \"application\", \"value\": \"알츠하이머병\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"NLY01의 적응증 파킨슨병, 알츠하이머병\"}, {\"axis\": \"application\", \"value\": \"섬유화질환\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"TLY012의 적응증 섬유화질환 (전신경화증, 만성췌장염, 간섬유화증)\"}, {\"axis\": \"customer\", \"value\": \"Pfizer\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Metsera Inc. (現 Pfizer 社) (미국 소재)\"}, {\"axis\": \"customer\", \"value\": \"동구바이오제약\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"Valted Seq, Inc.는 퇴행성 뇌질환 진단키트의 품목 허가 시 동구바이오제약에게 대한민국에 대한 상업화 권리를 독점적으로 우선 협상할 수 있는 권리를 부여\"}, {\"axis\": \"customer\", \"value\": \"1ST Biotherapeutics\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"Neuraly Inc.의 NLY03 (신규타겟)의 퇴행성뇌질환 치료제로의 개발 및 상업화를 위한 공동개발 계약\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"보고서 기준일 현재 당사의 신약 파이프라인 연구개발 조직은 본사 연구개발본부 산하 3개팀, 미국 메릴랜드 소재 종속회사 Neuraly Inc. 산하 2개팀으로 구성되어 있습니다.\"}]}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"파킨슨병 치료제\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"글로벌 데이터베이스인 GlobalData 기준 2026년 2월 현재, 파킨슨병을 적응증으로 개발 중인 파이프라인 중 증상 완화제를 제외한 다수의 질병 조절 치료제들이 글로벌 임상 2~3상 단계에 진입해 있습니다.\"}, {\"axis\": \"product\", \"value\": \"알츠하이머성 치매 치료제\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"지난 40여 년간 알츠하이머성 치매 치료를 위한 다양한 연구와 개발이 지속되어 왔으며, 최근에는 베타아밀로이드를 표적으로 하는 Leqembi®(lecanemab, Eisai·Biogen)와 Kisunla®(donanemab, Eli Lilly) 등의 치료제가 미국 FDA의 허가를 받았습니다.\"}, {\"axis\": \"product\", \"value\": \"섬유화 질환 치료제\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"섬유화증의 경우, 전세계적으로 만성췌장염 치료제를 위한 임상연구는 전무합니다.\"}]}"
+  ],
+  "text_path": "data/reports/347850_20260320001088.txt"
+}

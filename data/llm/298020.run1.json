@@ -1,0 +1,172 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스판덱스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "나이론원사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "폴리에스터원사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PTMG",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "NF3가스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "그 외 주요 제품으로는 NF3가스,타이어보강재 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "타이어보강재",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "그 외 주요 제품으로는 NF3가스,타이어보강재 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Koksan PET Ve Plastik Ambalaj Sanay",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "HS Hyosung Vietnam Co., Ltd.",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "Hyosung Japan Co., Ltd.",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "효성네오켐㈜는 삼성전자㈜, LG디스플레이㈜,삼성디스플레이㈜,SK하이닉스㈜ 등"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "효성네오켐㈜는 삼성전자㈜, LG디스플레이㈜,삼성디스플레이㈜,SK하이닉스㈜ 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PTMG",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MDI",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "TPA",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MEG",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "BDO",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "스판덱스, 나이론원사,폴리에스터원사,직물/염색, PTMG 생산 등 | 울산, 구미,Dong Nai Province,Ningxia, Jiaxing,Quzhou,Guangdong,Istanbul,Aurangabad,Santa Catarina"
+    },
+    {
+      "axis": "region",
+      "value": "구미",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "스판덱스, 나이론원사,폴리에스터원사,직물/염색, PTMG 생산 등 | 울산, 구미,Dong Nai Province,Ningxia, Jiaxing,Quzhou,Guangdong,Istanbul,Aurangabad,Santa Catarina"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "글로벌 네트워크와의 긴밀한 공조로 베트남 생산제품의 수출 증대를 추진하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "중국의 TPA Capa. 증설에 따른 공급과잉 심화로 가격 하락 추세 이어짐."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "지배회사 및 주요종속회사인 Hyosung Brasil Industria e Comercio de Fibras Ltda. 및 Hyosung Japan Co., Ltd.는 2025년 12월말 현재 외화매입채무 등의 환율변동위험을 회피하기 위해 선물환 계약을 체결하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "원료인 유가, 에틸렌 가격 하락 추세와 더불어, 美-中 상호관세 이슈로 미국산 MEG의 중국향 수출이 제한됨에 따라 중국외 지역의 경쟁심화로 전반적으로 가격 하락함."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "무역부문은 국제 금리 및 환율의 변동에 매우 민감하며, 당사는 철강과 화학을 주요 사업부문으로 영위하고 있어서 철광석/니켈/석탄/원유 등의 원자재 가격에도 많은 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"스판덱스\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다.\"}, {\"axis\": \"product\", \"value\": \"나이론원사\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다.\"}, {\"axis\": \"product\", \"value\": \"폴리에스터원사\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다.\"}, {\"axis\": \"product\", \"value\": \"PTMG\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"섬유 부문의 주요 제품은 스판덱스, 나이론원사, 폴리에스터원사, PTMG 등 입니다.\"}, {\"axis\": \"product\", \"value\": \"NF3가스\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"그 외 주요 제품으로는 NF3가스,타이어보강재 등이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"타이어보강재\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"그 외 주요 제품으로는 NF3가스,타이어보강재 등이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Koksan PET Ve Plastik Ambalaj Sanay\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며\"}, {\"axis\": \"customer\", \"value\": \"HS Hyosung Vietnam Co., Ltd.\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며\"}, {\"axis\": \"customer\", \"value\": \"Hyosung Japan Co., Ltd.\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"2025년 지배회사의 주요 매출처는 Koksan PET Ve Plastik Ambalaj Sanay(6.5%), HS Hyosung Vietnam Co., Ltd.(6.4%), Hyosung Japan Co., Ltd.(3.5%), Hyosung Dong Nai Co., Ltd.(3.2%), JSC NEO GROUP(2.6%) 등이며\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"효성네오켐㈜는 삼성전자㈜, LG디스플레이㈜,삼성디스플레이㈜,SK하이닉스㈜ 등\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"효성네오켐㈜는 삼성전자㈜, LG디스플레이㈜,삼성디스플레이㈜,SK하이닉스㈜ 등\"}, {\"axis\": \"raw_material\", \"value\": \"PTMG\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"MDI\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"TPA\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"MEG\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"BDO\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사 섬유부문의 주요 원재료는 PTMG, MDI, TPA, MEG, BDO 등이 있으며\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"스판덱스, 나이론원사,폴리에스터원사,직물/염색, PTMG 생산 등 | 울산, 구미,Dong Nai Province,Ningxia, Jiaxing,Quzhou,Guangdong,Istanbul,Aurangabad,Santa Catarina\"}, {\"axis\": \"region\", \"value\": \"구미\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"스판덱스, 나이론원사,폴리에스터원사,직물/염색, PTMG 생산 등 | 울산, 구미,Dong Nai Province,Ningxia, Jiaxing,Quzhou,Guangdong,Istanbul,Aurangabad,Santa Catarina\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"글로벌 네트워크와의 긴밀한 공조로 베트남 생산제품의 수출 증대를 추진하고 있으며\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"중국의 TPA Capa. 증설에 따른 공급과잉 심화로 가격 하락 추세 이어짐.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"지배회사 및 주요종속회사인 Hyosung Brasil Industria e Comercio de Fibras Ltda. 및 Hyosung Japan Co., Ltd.는 2025년 12월말 현재 외화매입채무 등의 환율변동위험을 회피하기 위해 선물환 계약을 체결하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"원료인 유가, 에틸렌 가격 하락 추세와 더불어, 美-中 상호관세 이슈로 미국산 MEG의 중국향 수출이 제한됨에 따라 중국외 지역의 경쟁심화로 전반적으로 가격 하락함.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"무역부문은 국제 금리 및 환율의 변동에 매우 민감하며, 당사는 철강과 화학을 주요 사업부문으로 영위하고 있어서 철광석/니켈/석탄/원유 등의 원자재 가격에도 많은 영향을 받습니다.\"}]}"
+  ],
+  "text_path": "data/reports/298020_20260311004548.txt"
+}

@@ -1,0 +1,188 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "손해보험업",
+      "weight": 0.72,
+      "direction": null,
+      "evidence": "지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금융투자업",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "여신전문금융업",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": null,
+      "direction": null,
+      "evidence": "본사의 주소 : 서울특별시 강남구 강남대로 382(역삼동)"
+    },
+    {
+      "axis": "product",
+      "value": "손해보험업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "메리츠화재의 주요 사업은 보험업법 및 관계법령에 의거하여 영위 가능한 손해보험업과 제3보험업이며"
+    },
+    {
+      "axis": "product",
+      "value": "투자매매업",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "자본시장법에 따라 투자매매업, 투자중개업, 집합투자업, 전문사모집합투자업 등과 이에 부수하는 업무를 영위"
+    },
+    {
+      "axis": "product",
+      "value": "시설대여업",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업, 신용대출 또는 담보대출 외 이에 부수하는 업무를 영위"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "금리 상승으로 채권 운용에서 다소 부진한 실적을 보였지만"
+    },
+    {
+      "axis": "product",
+      "value": "CMA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "수시입출금이 가능하면서 예치된 자금을 자동으로 RP에 투자하는 계좌 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "집합투자상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "단기성 상품을 주로 운용하는 초단기형 집합투자증권, 익일 입출금"
+    },
+    {
+      "axis": "product",
+      "value": "채무증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "채권, CP, 전자단기사채의 투자수익률 지급"
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지수, 개별종목, 기타 자산에 연계되어 수익이 결정되는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "손해보험은 크게 일반손해보험과 자동차보험, 장기손해보험으로 구분되며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "일반적으로는 경기 후행적인 성격이 강한 산업적 특성을 가지고 있는 동시에 투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주식시장 동향",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "금융지주회사와 각 자회사는 글로벌 경제상황, 금융시장의 변동성, 주요 국가들 통화정책 변화 등에서 파생되는 다양한 변수들에 의해 경영성과 및 재무 안정성의 변동성을 내재하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "코스피코스닥코넥스ELWETFETN상장형 수익증권"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "장내채권 0.015% 소액국공채 0.3%"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "KOSPI200선물미니KOSPI200선물 변동성지수선물섹터지수선물코스닥150선물"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "KOSPI200옵션 KOSPI200위클리옵션미니KOSPI200옵션코스닥150옵션코스닥150위클리옵션주식옵션"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "할부금융은 소비자가 일시불로 구입하기 어려운 고가의 내구소비재(자동차, 가전제품 등)나 주택을 구입하고자 할 때"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "시장금리, 주가지수 및 자산가격 등 경제변수의 변동에 따라 금융투자회사의 자산가치 및 수익성이 급격하게 변동 될 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가"
+    },
+    {
+      "axis": "exposure",
+      "value": "주가지수",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "증권시장이 상승기일 때는 투자자들의 투자심리가 개선되어 거래량이 증가하고 거래수수료 수익이 증가하여 금융투자업이 호황을 누리며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"손해보험업\", \"weight\": 0.72, \"direction\": null, \"evidence\": \"지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다.\"}, {\"axis\": \"product\", \"value\": \"금융투자업\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다.\"}, {\"axis\": \"product\", \"value\": \"여신전문금융업\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"지배ㆍ종속관계 및 사업 비중 등을 고려해 주요 사업 부문을 연결실체 전체의 입장에서 손해보험업, 금융투자업, 여신전문금융업으로 아래와 같이 구분하였습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": null, \"direction\": null, \"evidence\": \"본사의 주소 : 서울특별시 강남구 강남대로 382(역삼동)\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"메리츠화재의 주요 사업은 보험업법 및 관계법령에 의거하여 영위 가능한 손해보험업과 제3보험업이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"투자매매업\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"자본시장법에 따라 투자매매업, 투자중개업, 집합투자업, 전문사모집합투자업 등과 이에 부수하는 업무를 영위\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시설대여업\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업, 신용대출 또는 담보대출 외 이에 부수하는 업무를 영위\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"금리 상승으로 채권 운용에서 다소 부진한 실적을 보였지만\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"수시입출금이 가능하면서 예치된 자금을 자동으로 RP에 투자하는 계좌 서비스\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"단기성 상품을 주로 운용하는 초단기형 집합투자증권, 익일 입출금\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채무증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"채권, CP, 전자단기사채의 투자수익률 지급\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지수, 개별종목, 기타 자산에 연계되어 수익이 결정되는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"손해보험은 크게 일반손해보험과 자동차보험, 장기손해보험으로 구분되며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"일반적으로는 경기 후행적인 성격이 강한 산업적 특성을 가지고 있는 동시에 투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주식시장 동향\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"금융지주회사와 각 자회사는 글로벌 경제상황, 금융시장의 변동성, 주요 국가들 통화정책 변화 등에서 파생되는 다양한 변수들에 의해 경영성과 및 재무 안정성의 변동성을 내재하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"코스피코스닥코넥스ELWETFETN상장형 수익증권\"}, {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"장내채권 0.015% 소액국공채 0.3%\"}, {\"axis\": \"product\", \"value\": \"선물\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"KOSPI200선물미니KOSPI200선물 변동성지수선물섹터지수선물코스닥150선물\"}, {\"axis\": \"product\", \"value\": \"옵션\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"KOSPI200옵션 KOSPI200위클리옵션미니KOSPI200옵션코스닥150옵션코스닥150위클리옵션주식옵션\"}, {\"axis\": \"product\", \"value\": \"할부금융\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"할부금융은 소비자가 일시불로 구입하기 어려운 고가의 내구소비재(자동차, 가전제품 등)나 주택을 구입하고자 할 때\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"시장금리, 주가지수 및 자산가격 등 경제변수의 변동에 따라 금융투자회사의 자산가치 및 수익성이 급격하게 변동 될 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가\"}, {\"axis\": \"exposure\", \"value\": \"부동산 경기\", \"weight\": 0.4, \"direction\": 1, \"evidence\": \"과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가\"}, {\"axis\": \"exposure\", \"value\": \"주가지수\", \"weight\": 0.4, \"direction\": 1, \"evidence\": \"증권시장이 상승기일 때는 투자자들의 투자심리가 개선되어 거래량이 증가하고 거래수수료 수익이 증가하여 금융투자업이 호황을 누리며\"}]}\n```"
+  ],
+  "text_path": "data/reports/138040_20260331004202.txt"
+}

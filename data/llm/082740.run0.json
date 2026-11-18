@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "선박용 엔진",
+      "weight": 0.88,
+      "direction": null,
+      "evidence": "당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며, AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SCR",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며, AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "엔진부품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "AM사업은 전 세계 네트워크를 통해 선박엔진 및 발전엔진 등 엔진에 필요한 다양한 주요 순정부품 및 각종 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전용 디젤엔진",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "전력시설이 부족한 신흥국가 및 도서지역을 중심으로 친환경 디젤발전시설을 공급하고 있으며, 또한 원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 조선 산업의 핵심 기자재인 대형 선박용 엔진 제작을 중심으로 엔진 부품의 판매와 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "해운",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "다만, 세계 경제성장에 따른 물동량 증가와 국제해사기구(IMO)의 환경규제 강화, 탄소중립 실현을 위한 LNG, 메탄올, 암모니아 등 친환경 연료추진 선박 발주 증가 및 노후선 교체 수요는 꾸준할 것으로 예상합니다."
+    },
+    {
+      "axis": "application",
+      "value": "원자력 발전",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "또한 원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한화오션",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "한화오션㈜ | 505,182 | 36.8"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성중공업",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "삼성중공업㈜거제조선소 | 476,272 | 34.7"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Crankshaft",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063 | 863,604 | 730,618"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Turbocharger",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063 | 863,604 | 730,618"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel Plate",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "선박엔진 | Steel Plate(TON) | 914,000 | 959,000 | 1,095,000"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "선박엔진 및디젤발전사업 | 선박용/육상용 디젤엔진 | 본사 | 3,360 | 3,468 | 3,400"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주력사업인 선박엔진사업은 전방산업인 조선산업의 경기변동과 밀접한 연관관계가 있으며, 조선산업은 해운산업에 영향을 받는 특성이 있습니다. 조선시장은 세계 경제성장률, 선박해체 사이클 및 국제적 환경규제 등에 따라 주기적으로 시장의 확대와 축소가 반복되는 경향이 있으며, 선박엔진의 매출은 선박 건조 일정에 직접적인 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환경규제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "다만, 세계 경제성장에 따른 물동량 증가와 국제해사기구(IMO)의 환경규제 강화, 탄소중립 실현을 위한 LNG, 메탄올, 암모니아 등 친환경 연료추진 선박 발주 증가 및 노후선 교체 수요는 꾸준할 것으로 예상합니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"선박용 엔진\",\n      \"weight\": 0.88,\n      \"direction\": null,\n      \"evidence\": \"당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며, AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SCR\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당기에 선박엔진 및 SCR 사업은 12,126억원으로 88.4%를 차지하며, AM사업, 디젤발전사업 및 임대 등은 1,585억원, 11.6%로 전체 13,711억원의 매출 실적을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진부품\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"AM사업은 전 세계 네트워크를 통해 선박엔진 및 발전엔진 등 엔진에 필요한 다양한 주요 순정부품 및 각종 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전용 디젤엔진\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"전력시설이 부족한 신흥국가 및 도서지역을 중심으로 친환경 디젤발전시설을 공급하고 있으며, 또한 원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 조선 산업의 핵심 기자재인 대형 선박용 엔진 제작을 중심으로 엔진 부품의 판매와 서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"다만, 세계 경제성장에 따른 물동량 증가와 국제해사기구(IMO)의 환경규제 강화, 탄소중립 실현을 위한 LNG, 메탄올, 암모니아 등 친환경 연료추진 선박 발주 증가 및 노후선 교체 수요는 꾸준할 것으로 예상합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력 발전\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"또한 원자력 발전소에 비상용으로 설치되는 비상발전기를 공급하여 품질의 우수성과 성능을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화오션\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"한화오션㈜ | 505,182 | 36.8\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성중공업\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"삼성중공업㈜거제조선소 | 476,272 | 34.7\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Crankshaft\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063 | 863,604 | 730,618\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Turbocharger\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Crankshaft, Turbocharger 등 | 디젤엔진 제작용 | 922,063 | 863,604 | 730,618\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Steel Plate\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"선박엔진 | Steel Plate(TON) | 914,000 | 959,000 | 1,095,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"선박엔진 및디젤발전사업 | 선박용/육상용 디젤엔진 | 본사 | 3,360 | 3,468 | 3,400\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력사업인 선박엔진사업은 전방산업인 조선산업의 경기변동과 밀접한 연관관계가 있으며, 조선산업은 해운산업에 영향을 받는 특성이 있습니다. 조선시장은 세계 경제성장률, 선박해체 사이클 및 국제적 환경규제 등에 따라 주기적으로 시장의 확대와 축소가 반복되는 경향이 있으며, 선박엔진의 매출은 선박 건조 일정에 직접적인 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"선박엔진사업은 조선산업의 시장환경과 밀접한 관계를 가지며 세계 경기변동, 원자재 가격, 환율 변동 및 국제적인 환경 등 거시경제적 변수에 따라 시황이 변동되는 특성을 지니고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경규제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"다만, 세계 경제성장에 따른 물동량 증가와 국제해사기구(IMO)의 환경규제 강화, 탄소중립 실현을 위한 LNG, 메탄올, 암모니아 등 친환경 연료추진 선박 발주 증가 및 노후선 교체 수요는 꾸준할 것으로 예상합니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/082740_20260318000939.txt"
+}

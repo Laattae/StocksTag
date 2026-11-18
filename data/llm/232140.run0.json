@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "메모리 웨이퍼 테스터",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "반도체 및 전자 | 메모리 웨이퍼 테스터, 반도체 제조장비 부속품, Spare parts 및 수리/용역매출 | 테스터 및 BOARD 외 전기전자/반도체제조장비 부속품, 메모리 웨이퍼 테스터용 Part 및 테스터장비의 유상 A/S, 개조 등 메모리 웨이퍼 테스터 용 Part 판매 | 267,477 | 98.1"
+    },
+    {
+      "axis": "product",
+      "value": "반도체 제조장비 부속품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체 및 전자 | 메모리 웨이퍼 테스터, 반도체 제조장비 부속품, Spare parts 및 수리/용역매출"
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생성형 AI 및 대규모 언어모델 확산으로 GPU, AI가속기, 고대역폭 메모리(HBM) 수요가 증가하였으며, 서버 1대당 반도체 탑재 금액 상승으로 시장 성장의 질적 전환이 진행 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하이퍼 스케일데이터 센터를 중심으로 GPU, AI 가속기, 고대역폭 메모리(HBM) 수요가 지속 확대됨에 따라, 서버 1대당 반도체 탑재 금액증가에 따른 질적 성장이 이어질 전망입니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "최근 반도체 시장 경기변동의 가장 큰 요인이 되고 있는 스마트폰, 태블릿 PC와 같은 신 IT기기나 Mobile 기기의 등장과 발전 외에도"
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "AI서버용 반도체, 자율 주행, 전장용 반도체, 고성능 모바일 AP 등 고신뢰성, 고정밀 검증이 필수적인 제품군의 생산 확대가 테스트 장비 수요를 지속적으로 견인할 것으로 판단됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제공하는 웨이퍼 테스터는 삼성전자와 SK하이닉스에 설비를 제공해 왔으며, 앞으로도 지속적으로 장비를 공급할 예정입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 제공하는 웨이퍼 테스터는 삼성전자와 SK하이닉스에 설비를 제공해 왔으며, 앞으로도 지속적으로 장비를 공급할 예정입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IC",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "원재료 | IC | 제조용 | 40,073 | 42.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FRAME",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "FRAME | 11,916 | 12.7%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "토지 | 자가 | 충남 아산시 | 3,757,416 | - | - | - | 3,757,416"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사의 영업거래상 외환위험에 대한 회피가 필요하다고 판단되는 경우 통화선도계약의 체결 등을 통해 외환위험을 관리하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 전방산업 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "반도체 소자를 생산하기 위하여 사용되는 제반 장비를 제작하는 산업으로 전방산업인 소자산업 성장과 같이 하며 현재는 시장규모나 중요성 면에서 고유의 산업영역을 구축하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"메모리 웨이퍼 테스터\", \"weight\": 0.98, \"direction\": null, \"evidence\": \"반도체 및 전자 | 메모리 웨이퍼 테스터, 반도체 제조장비 부속품, Spare parts 및 수리/용역매출 | 테스터 및 BOARD 외 전기전자/반도체제조장비 부속품, 메모리 웨이퍼 테스터용 Part 및 테스터장비의 유상 A/S, 개조 등 메모리 웨이퍼 테스터 용 Part 판매 | 267,477 | 98.1\"}, {\"axis\": \"product\", \"value\": \"반도체 제조장비 부속품\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"반도체 및 전자 | 메모리 웨이퍼 테스터, 반도체 제조장비 부속품, Spare parts 및 수리/용역매출\"}, {\"axis\": \"application\", \"value\": \"AI 서버\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"생성형 AI 및 대규모 언어모델 확산으로 GPU, AI가속기, 고대역폭 메모리(HBM) 수요가 증가하였으며, 서버 1대당 반도체 탑재 금액 상승으로 시장 성장의 질적 전환이 진행 중입니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"하이퍼 스케일데이터 센터를 중심으로 GPU, AI 가속기, 고대역폭 메모리(HBM) 수요가 지속 확대됨에 따라, 서버 1대당 반도체 탑재 금액증가에 따른 질적 성장이 이어질 전망입니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"최근 반도체 시장 경기변동의 가장 큰 요인이 되고 있는 스마트폰, 태블릿 PC와 같은 신 IT기기나 Mobile 기기의 등장과 발전 외에도\"}, {\"axis\": \"application\", \"value\": \"자율주행\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"AI서버용 반도체, 자율 주행, 전장용 반도체, 고성능 모바일 AP 등 고신뢰성, 고정밀 검증이 필수적인 제품군의 생산 확대가 테스트 장비 수요를 지속적으로 견인할 것으로 판단됩니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사가 제공하는 웨이퍼 테스터는 삼성전자와 SK하이닉스에 설비를 제공해 왔으며, 앞으로도 지속적으로 장비를 공급할 예정입니다.\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사가 제공하는 웨이퍼 테스터는 삼성전자와 SK하이닉스에 설비를 제공해 왔으며, 앞으로도 지속적으로 장비를 공급할 예정입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"IC\", \"weight\": 0.43, \"direction\": null, \"evidence\": \"원재료 | IC | 제조용 | 40,073 | 42.6%\"}, {\"axis\": \"raw_material\", \"value\": \"FRAME\", \"weight\": 0.13, \"direction\": null, \"evidence\": \"FRAME | 11,916 | 12.7%\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"토지 | 자가 | 충남 아산시 | 3,757,416 | - | - | - | 3,757,416\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"연결회사의 영업거래상 외환위험에 대한 회피가 필요하다고 판단되는 경우 통화선도계약의 체결 등을 통해 외환위험을 관리하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"반도체 전방산업 수요\", \"weight\": 0.9, \"direction\": 1, \"evidence\": \"반도체 소자를 생산하기 위하여 사용되는 제반 장비를 제작하는 산업으로 전방산업인 소자산업 성장과 같이 하며 현재는 시장규모나 중요성 면에서 고유의 산업영역을 구축하고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/232140_20260318001246.txt"
+}

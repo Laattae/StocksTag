@@ -1,0 +1,109 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "자율주행로봇",
+      "synonyms": [
+        "자율주행 로봇"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "직각좌표로봇",
+      "synonyms": [
+        "직각좌표 로봇"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "펩타이드소재",
+      "synonyms": [
+        "펩타이드 소재"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "플랫폼서비스",
+      "synonyms": [
+        "플랫폼 서비스"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "EV Relay",
+      "synonyms": [
+        "EV-Relay"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "리튬이온 배터리",
+      "synonyms": [
+        "리튬-이온 배터리"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "보안관제서비스",
+      "synonyms": [
+        "보안 관제서비스"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "소형모듈원자로",
+      "synonyms": [
+        "소형모듈원자로(SMR)"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "수평다관절로봇",
+      "synonyms": [
+        "수평다관절 로봇"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "신기술사업금융",
+      "synonyms": [
+        "신기술사업금융업"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "원자로계통설계",
+      "synonyms": [
+        "원자로 계통설계"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "의약품 위탁생산서비스",
+      "synonyms": [
+        "위탁생산서비스"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "의약품 위탁생산서비스",
+      "synonyms": [
+        "의약품 위탁생산"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "인체조직이식재",
+      "synonyms": [
+        "인체조직 이식재"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "주식매매서비스",
+      "synonyms": [
+        "주식 매매 서비스"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "담관암",
+      "synonyms": [
+        "담관암 치료"
+      ]
+    },
+    {
+      "group": 2,
+      "canonical": "모바일",
+      "synonyms": [
+        "모바일기기"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "자동차",
+      "synonyms": [
+        "자동차 산업",
+        "자동차산업",
+        "자동차용"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "조선",
+      "synonyms": [
+        "조선업",
+        "조선산업"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "태양광",
+      "synonyms": [
+        "태양광 산업",
+        "태양광발전"
+      ]
+    }
+  ]
+}

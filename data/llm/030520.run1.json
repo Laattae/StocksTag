@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "한컴오피스",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "문서기반 서비스 및 SW\n (설치형, 클라우드 SaaS, SDK, 서비스) | 한컴어시스턴트,한컴피디아, 데이터로더,한컴오피스, 한컴독스, 한컴타자, 웹오피스,웹기안기 등"
+    },
+    {
+      "axis": "product",
+      "value": "소방용호흡기",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "소방용호흡기, 보호의방산관련 제품"
+    },
+    {
+      "axis": "product",
+      "value": "한컴독스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이러한 시장의 변화에 맞춰 당사는 2022년 구독형 서비스인 \"한컴독스\"를 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "한컴어시스턴트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며"
+    },
+    {
+      "axis": "product",
+      "value": "한컴피디아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며"
+    },
+    {
+      "axis": "product",
+      "value": "마케팅 대행",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "마케팅 대행, 브랜드 관리검진설계 및 건강관리 서비스"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다."
+    },
+    {
+      "axis": "application",
+      "value": "공공기관",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "이는 보안상의 이유로 퍼블릭 AI 서비스 도입에 신중한 공공기관 및 기업고객의 요구사항을 반영한 제품으로"
+    },
+    {
+      "axis": "application",
+      "value": "국방",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "특히 한컴라이프케어는 기존사업의 범위를 무인자동 화재감시 드론 및 신사업으로 국방분야인 과학화 교전훈련체계(Live Training System)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "패키지",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "패키지 | 포장용 박스등 | 20,870,904 (98.6%)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "조직도_2025.12.31"
+    },
+    {
+      "axis": "exposure",
+      "value": "인공지능",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "특히 인공지능(AI) 기술은 다양한 데이터를 기반으로 한 예측, 분석, 자동화, 생성형AI와 같은 기술발전을 통해 다양한 산업에 혁신을 가져오고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "클라우드",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "조달금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "여신전문금융업은 2008년말 글로벌 금융위기로 큰 폭으로 위축된 이후 지속적으로 성장세를 보이고 있으나, 타업권의 여신전문금융업 진출, 업권 내 경쟁 심화, 2022년 하반기 이후 조달금리의 급격한 상승 등은여신전문금융회사의 수익성 제한 요인이 되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴오피스\",\n      \"weight\": 0.59,\n      \"direction\": null,\n      \"evidence\": \"문서기반 서비스 및 SW\\n (설치형, 클라우드 SaaS, SDK, 서비스) | 한컴어시스턴트,한컴피디아, 데이터로더,한컴오피스, 한컴독스, 한컴타자, 웹오피스,웹기안기 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소방용호흡기\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"소방용호흡기, 보호의방산관련 제품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴독스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이러한 시장의 변화에 맞춰 당사는 2022년 구독형 서비스인 \\\"한컴독스\\\"를 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴어시스턴트\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴피디아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"마케팅 대행\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"마케팅 대행, 브랜드 관리검진설계 및 건강관리 서비스\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"공공기관\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"이는 보안상의 이유로 퍼블릭 AI 서비스 도입에 신중한 공공기관 및 기업고객의 요구사항을 반영한 제품으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"특히 한컴라이프케어는 기존사업의 범위를 무인자동 화재감시 드론 및 신사업으로 국방분야인 과학화 교전훈련체계(Live Training System)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"패키지\",\n      \"weight\": 0.98,\n      \"direction\": null,\n      \"evidence\": \"패키지 | 포장용 박스등 | 20,870,904 (98.6%)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"조직도_2025.12.31\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인공지능\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"특히 인공지능(AI) 기술은 다양한 데이터를 기반으로 한 예측, 분석, 자동화, 생성형AI와 같은 기술발전을 통해 다양한 산업에 혁신을 가져오고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"클라우드\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"조달금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"여신전문금융업은 2008년말 글로벌 금융위기로 큰 폭으로 위축된 이후 지속적으로 성장세를 보이고 있으나, 타업권의 여신전문금융업 진출, 업권 내 경쟁 심화, 2022년 하반기 이후 조달금리의 급격한 상승 등은여신전문금융회사의 수익성 제한 요인이 되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/030520_20260318001305.txt"
+}

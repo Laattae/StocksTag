@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "차량용 배터리",
+      "weight": 0.717,
+      "direction": null,
+      "evidence": "제품,상품 등 | 차량용 배터리 등 | 차량용, 산업용, 기타 | HANKOOK 등 | 1,044,520 | 71.7"
+    },
+    {
+      "axis": "product",
+      "value": "상표권",
+      "weight": 0.035,
+      "direction": null,
+      "evidence": "상표권 | 상표권수익 | 브랜드로열티 수익 | HANKOOK 등 | 50,317 | 3.5"
+    },
+    {
+      "axis": "product",
+      "value": "축전지",
+      "weight": 0.839,
+      "direction": null,
+      "evidence": "사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": null,
+      "direction": null,
+      "evidence": "사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납",
+      "weight": 0.86,
+      "direction": null,
+      "evidence": "축전지 | 원재료 | 鉛(연) | 축전지제조 | 502,221 | 86.0 | 고려아연 외"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내 대전사업장과 전주사업장 그리고 북미 미국사업장에서 제품 제조, 개발, 마케팅 및 영업활동 등을 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": null,
+      "direction": null,
+      "evidence": "전주사업장 | 전라북도 완주군 봉동읍 완주산단2로 40"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "해외(1개 사업장) | 미국사업장 | 1325 International BLVD CLARKSVILLE TN 37040"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "- 2025년 USD환율은 전기평균 대비 4.3% 상승하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며, 수출이 높은 비중을 차지함에 따라 세계경기의 변화에 영향을 받는다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"차량용 배터리\",\n      \"weight\": 0.717,\n      \"direction\": null,\n      \"evidence\": \"제품,상품 등 | 차량용 배터리 등 | 차량용, 산업용, 기타 | HANKOOK 등 | 1,044,520 | 71.7\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"상표권\",\n      \"weight\": 0.035,\n      \"direction\": null,\n      \"evidence\": \"상표권 | 상표권수익 | 브랜드로열티 수익 | HANKOOK 등 | 50,317 | 3.5\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"축전지\",\n      \"weight\": 0.839,\n      \"direction\": null,\n      \"evidence\": \"사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납\",\n      \"weight\": 0.86,\n      \"direction\": null,\n      \"evidence\": \"축전지 | 원재료 | 鉛(연) | 축전지제조 | 502,221 | 86.0 | 고려아연 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내 대전사업장과 전주사업장 그리고 북미 미국사업장에서 제품 제조, 개발, 마케팅 및 영업활동 등을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"전주사업장 | 전라북도 완주군 봉동읍 완주산단2로 40\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"해외(1개 사업장) | 미국사업장 | 1325 International BLVD CLARKSVILLE TN 37040\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"- 2025년 USD환율은 전기평균 대비 4.3% 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며, 수출이 높은 비중을 차지함에 따라 세계경기의 변화에 영향을 받는다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000240_20260318000997.txt"
+}

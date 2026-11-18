@@ -1,0 +1,179 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "OLED 공정장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "이차전지 공정장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체 공정장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 장비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "태양광 사업에서는 태양광 발전 산업에서 사용되는 2세대 박막형 태양광 전지와 차세대 소재인 페로브스카이트(Perovskite) 기반의 3세대 태양광 전지, 텐덤(Tandem)형 태양광 전지를 제조할 수 있는 장비를 개발하여 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Stacking 설비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이차전지 공정장비 | Stacking 설비, Laser Notching 설비, 원통형 배터리 제조설비, 전극 공정 설비 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "Laser Notching 설비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이차전지 공정장비 | Stacking 설비, Laser Notching 설비, 원통형 배터리 제조설비, 전극 공정 설비 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "Laser TGV",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체 공정장비 | Laser TGV, Laser Drilling, Laser Singulation, DI노광기, AOI 장비 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "UTG 가공 장비",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요제품으로는 Laser Cutting, Laser Lift Off, UTG 가공 장비 등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "OLED 디스플레이",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 발표된 자료에 따르면 글로벌 ESS 시장 규모는 2025년 460GWh에서 2035년 1.2TWh(1,200GWh)로 약 2.6배 성장할 것으로 예상됩니다. 용도별로 보면, 그리드(Grid) 시장이 전체 수요의 70% 이상을 차지할 것으로 전망되며, UPS 시장은 AI 데이터센터의 수요 증가에 힘입어 빠르게 성장할 것으로 예상됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "OLED 디스플레이 구조.jpg\noled 디스플레이 구조\n[출처 : 삼성디상플레이 홈페이지]"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK온",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "테슬라",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내외 완성차 업체(현대차, 테슬라, BYD 등)들 또한 자체적으로 생산하고자 배터리 제작 기술 확보 및 생산 체계를 구축해 나가고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "STAGE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기구가공품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LASER",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "광학부품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5 | -"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "외환위험은 환율변동으로 인하여 금융상품의 미래현금흐름에 대한 공정가치가 변동할 위험입니다. 연결회사의 영업활동(수익이나 비용이 연결회사의 기능통화와 다른 통화로 발생할 때)으로 인해 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다. 연결회사는 변동이자부 장기차입금과 관련된 시장이자율 변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 공정장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이차전지 공정장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 공정장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 장비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"태양광 사업에서는 태양광 발전 산업에서 사용되는 2세대 박막형 태양광 전지와 차세대 소재인 페로브스카이트(Perovskite) 기반의 3세대 태양광 전지, 텐덤(Tandem)형 태양광 전지를 제조할 수 있는 장비를 개발하여 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Stacking 설비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이차전지 공정장비 | Stacking 설비, Laser Notching 설비, 원통형 배터리 제조설비, 전극 공정 설비 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Laser Notching 설비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이차전지 공정장비 | Stacking 설비, Laser Notching 설비, 원통형 배터리 제조설비, 전극 공정 설비 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Laser TGV\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정장비 | Laser TGV, Laser Drilling, Laser Singulation, DI노광기, AOI 장비 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"UTG 가공 장비\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요제품으로는 Laser Cutting, Laser Lift Off, UTG 가공 장비 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OLED 디스플레이\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 핵심 고유 기술인 광학기술을 기반으로 OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 발표된 자료에 따르면 글로벌 ESS 시장 규모는 2025년 460GWh에서 2035년 1.2TWh(1,200GWh)로 약 2.6배 성장할 것으로 예상됩니다. 용도별로 보면, 그리드(Grid) 시장이 전체 수요의 70% 이상을 차지할 것으로 전망되며, UPS 시장은 AI 데이터센터의 수요 증가에 힘입어 빠르게 성장할 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 구조.jpg\\noled 디스플레이 구조\\n[출처 : 삼성디상플레이 홈페이지]\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG에너지솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK온\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 배터리 3사인 삼성SDI, LG에너지솔루션, SK온은 미국의 불확실한 정책 방향성에 대비해 기존 투자는 유지하되 신규 투자를 최소화하는 한편, 차세대 기술 개발을 위한 R＆D 투자를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"테슬라\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내외 완성차 업체(현대차, 테슬라, BYD 등)들 또한 자체적으로 생산하고자 배터리 제작 기술 확보 및 생산 체계를 구축해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"STAGE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기구가공품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LASER\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"광학부품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5 | -\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"외환위험은 환율변동으로 인하여 금융상품의 미래현금흐름에 대한 공정가치가 변동할 위험입니다. 연결회사의 영업활동(수익이나 비용이 연결회사의 기능통화와 다른 통화로 발생할 때)으로 인해 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다. 연결회사는 변동이자부 장기차입금과 관련된 시장이자율 변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/161580_20260324000644.txt"
+}

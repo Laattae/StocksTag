@@ -1,0 +1,53 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "미르4",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 제품 | 미르4, 나이트크로우 |"
+    },
+    {
+      "axis": "product",
+      "value": "나이트크로우",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 제품 | 미르4, 나이트크로우 |"
+    },
+    {
+      "axis": "product",
+      "value": "실크로드 온라인",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "- PC온라인 게임: 실크로드 온라인, 프리프 유니버스(웹게임)"
+    },
+    {
+      "axis": "product",
+      "value": "로스트소드",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "- 모바일게임: 로스트소드, 에브리타운 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "에브리타운",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "- 모바일게임: 로스트소드, 에브리타운 등 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"미르4\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"주요 제품 | 미르4, 나이트크로우 |\"}, {\"axis\": \"product\", \"value\": \"나이트크로우\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"주요 제품 | 미르4, 나이트크로우 |\"}, {\"axis\": \"product\", \"value\": \"실크로드 온라인\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"- PC온라인 게임: 실크로드 온라인, 프리프 유니버스(웹게임)\"}, {\"axis\": \"product\", \"value\": \"로스트소드\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"- 모바일게임: 로스트소드, 에브리타운 등 |\"}, {\"axis\": \"product\", \"value\": \"에브리타운\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"- 모바일게임: 로스트소드, 에브리타운 등 |\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/101730_20260316001649.txt"
+}

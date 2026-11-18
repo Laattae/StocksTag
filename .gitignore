@@ -1,0 +1,14 @@
+# 비밀값: API 키, DB 비밀번호
+.env
+
+# 사업보고서 원문 전체 캐시 (313MB, s03이 OpenDART에서 다시 받을 수 있음)
+data/reports/full/
+
+# DB 덤프는 저장소가 아니라 GitHub Releases에 올린다
+*.dump
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/

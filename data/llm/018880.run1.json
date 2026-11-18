@@ -1,0 +1,194 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "에이치백",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)"
+    },
+    {
+      "axis": "product",
+      "value": "파워트레인쿨링",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)"
+    },
+    {
+      "axis": "product",
+      "value": "압축기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)"
+    },
+    {
+      "axis": "product",
+      "value": "플루이트 트랜스포트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)"
+    },
+    {
+      "axis": "product",
+      "value": "유압제어장치",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 OEM(주문자생산방식) 납품을 주로 하는 자동차 열 관리 시스템 단일품목 제조회사로서 한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Ford",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 자동차용 A/C 시스템을 제조하기 위해 매입하는 주요 품목은 다음과 같으며,계산 방식은 구매금액을 수량으로 나누어 산출한 단순평균가격을 적용하였습니다.알루미늄"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "2022년은 러-우 전쟁, 중국의 코로나 봉쇄로 인한 공급망 붕괴등 각종 글로벌 악재로 반도체 및 부품 수급난이 지속되어 내수는 높은 대기 수요에도 불구하고 판매 감소, 수출은 친환경차, SUV등의 판매 호조세 및 환율효과로 판매 증가하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "히트펌프 열관리 시스템",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전기자동차용 단방향 히트펌프 열관리 시스템"
+    },
+    {
+      "axis": "product",
+      "value": "공조시스템",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 보유 특허의 대부분은 응축기, 압축기, 증발기 및 HVAC 등 자동차용 공조 시스템 관련 기술에 관한 것으로서"
+    },
+    {
+      "axis": "product",
+      "value": "전동압축기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "800V, 45cc 전동압축기 적용을 통해 배터리 내구성 능 확보 및 급속 충전 시 발생 하는 배터리 열을 효과 적으로 제거"
+    },
+    {
+      "axis": "product",
+      "value": "수냉식 컨덴서",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기자동차용 수냉식컨덴서"
+    },
+    {
+      "axis": "product",
+      "value": "쿨링팬",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Wings Cooling Fan"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전기차 주행시 발생할 수 있는 폐열을 난방열원으로 직접 활용하여 전기차의 주행 거리를 증대"
+    },
+    {
+      "axis": "customer",
+      "value": "현대/기아",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 자동차용 공조제품 시장은 자동차 시장이 현대/기아, 한국GM, 르노삼성 그리고 쌍용으로 분류됨에 따라 현대/기아에 공급하는 당사와"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "온실가스 배출권거래제 3차년도 대상기업 지정 및 감축활동(대전/평택/울산공장"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "환경오염피해 보상 책임보험 의무가입(2025.6.30 ~ 2026.6.30) | 대전/평택공장 대상"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "온실가스 배출권거래제 3차년도 대상기업 지정 및 감축활동(대전/평택/울산공장"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"에이치백\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파워트레인쿨링\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"압축기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플루이트 트랜스포트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유압제어장치\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자동차 열 관리 시스템 | 에이치백(HVAC), 파워트레인쿨링(PTC), 압축기(COMP),플루이트 트랜스포트(FT), 유압제어장치(E&FP)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 OEM(주문자생산방식) 납품을 주로 하는 자동차 열 관리 시스템 단일품목 제조회사로서 한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Ford\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 현대모비스, Ford 등이 있으며 각각의 매출액에 대한 비중은 21.4%, 19.3%, 12.5% 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사가 자동차용 A/C 시스템을 제조하기 위해 매입하는 주요 품목은 다음과 같으며,계산 방식은 구매금액을 수량으로 나누어 산출한 단순평균가격을 적용하였습니다.알루미늄\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국내에는 대전공장, 평택공장, 울산공장, 아산공장, 경주공장을 보유하고 있으며 본사 및 해외법인 모두 자동차의 열 관리 시스템을 생산하는 단일 사업부문을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"2022년은 러-우 전쟁, 중국의 코로나 봉쇄로 인한 공급망 붕괴등 각종 글로벌 악재로 반도체 및 부품 수급난이 지속되어 내수는 높은 대기 수요에도 불구하고 판매 감소, 수출은 친환경차, SUV등의 판매 호조세 및 환율효과로 판매 증가하였습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"히트펌프 열관리 시스템\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전기자동차용 단방향 히트펌프 열관리 시스템\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공조시스템\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 보유 특허의 대부분은 응축기, 압축기, 증발기 및 HVAC 등 자동차용 공조 시스템 관련 기술에 관한 것으로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동압축기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"800V, 45cc 전동압축기 적용을 통해 배터리 내구성 능 확보 및 급속 충전 시 발생 하는 배터리 열을 효과 적으로 제거\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수냉식 컨덴서\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전기자동차용 수냉식컨덴서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿨링팬\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Wings Cooling Fan\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전기차 주행시 발생할 수 있는 폐열을 난방열원으로 직접 활용하여 전기차의 주행 거리를 증대\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대/기아\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 자동차용 공조제품 시장은 자동차 시장이 현대/기아, 한국GM, 르노삼성 그리고 쌍용으로 분류됨에 따라 현대/기아에 공급하는 당사와\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"온실가스 배출권거래제 3차년도 대상기업 지정 및 감축활동(대전/평택/울산공장\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"환경오염피해 보상 책임보험 의무가입(2025.6.30 ~ 2026.6.30) | 대전/평택공장 대상\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"온실가스 배출권거래제 3차년도 대상기업 지정 및 감축활동(대전/평택/울산공장\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/018880_20260318000645.txt"
+}

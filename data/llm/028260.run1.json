@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "바이오의약품 위탁생산사업 및 바이오시밀러 사업으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "철강",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "철강, 화학, 에너지, 소재 등 다양한 방면에서 국제무역을 하고 있는 상사부문"
+    },
+    {
+      "axis": "product",
+      "value": "의류",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "의류 수입 및 판매사업을 하는 패션부문"
+    },
+    {
+      "axis": "product",
+      "value": "급식서비스",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "조경사업과 에버랜드(드라이파크),캐리비안베이(워터파크), 골프장 및 전문급식, 식자재유통사업(삼성웰스토리)을영위 운영하는 리조트부문"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": null,
+      "direction": null,
+      "evidence": "건 설 | 레미콘 | 골조공사 | 57,066 | (주)신일씨엠 外"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": null,
+      "direction": null,
+      "evidence": "철근 | 골조공사 | 36,286 | 동국제강(주) 인천공장 外"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원단",
+      "weight": null,
+      "direction": null,
+      "evidence": "패 션 | 원 단 | 제품생산 | 52,475 | 예진에프앤지(주) 外"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "인천송도 경제자유구역에 상업용 생산설비 78만리터 (1공장 3만, 2공장 15만, 3공장18만, 4공장 24만, 5공장 18만)와 임상용 생산설비 5천리터로 총 78.5만 리터의 생산설비를 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "글로벌 영업 역량 강화를 위해 2023년 3월 뉴저지에, 2025년에는 일본 도쿄에 각각 세일즈 오피스를 개소하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 보유중인 외화 채권/채무에 대해 환율과 이자율 변동으로 인해 수취 및 지급해야 할 이자금액 및 원금의 변동 위험이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 보유중인 외화 채권/채무에 대해 환율과 이자율 변동으로 인해 수취 및 지급해야 할 이자금액 및 원금의 변동 위험이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "삼성에피스홀딩스는 현재까지 11종의 바이오시밀러 (엔브렐, 레미케이드, 허셉틴, 휴미라, 아바스틴, 루센티스, 솔리리스, 아일리아, 스텔라라, 프롤리아, 엑스지바의 바이오시밀러) 제품을 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의약품 위탁생산서비스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "삼성바이오로직스(주)는 의약품 위탁생산서비스(CMO) 및 위탁개발서비스(CDO)를 제공하는 회사로서"
+    },
+    {
+      "axis": "product",
+      "value": "항체-독소 접합체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2023년부터 항체-독소 접합체(ADC) 분야 연구개발에 착수하여 현재 총 2종의 신약 후보 물질 (Nectin-4 ADC, EGFR-HER3 ADC)을 확보하여 파이프라인을 운영하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "바이오의약품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 CDMO 시장의 규모는 1) 블록버스터 바이오의약품 지속개발, 2) 글로벌제약사 및 중소형 바이오텍의 생산분야 아웃소싱 확대"
+    },
+    {
+      "axis": "application",
+      "value": "제약시장",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바이오의약품 시장규모는 2025년 약 5,387억불로 전체 제약시장에서 42.7% 비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Biogen",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SB2 | 류마티스성 관절염, 건선, 건선성 관절염, 크론병, 궤양성 대장염 | 2015년 | 한국, 미국, 유럽 등 판매 중 | Biogen,Organon"
+    },
+    {
+      "axis": "customer",
+      "value": "Organon",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SB3 | 유방암 | 2017년 | 한국, 미국, 유럽 등 판매 중 | Organon,보령"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "우수한 환경 관리 능력을 인정받아 2015년부터 2024년까지총 4회 연속 인천시 주관 환경 관리 우수기업으로 선정되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Nectin-4 ADC는 국내 인투셀사와 공동개발 중인 혁신신약으로 2025년 12월 미국 식품 의약국으로부터 임상 1상 승인을 받았습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국 경제는 부동산 시장의 장기침체 및 내수부진에도 4.5~5.0% 수준의 성장을 기록했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "상사부문의 트레이딩 영업은 국내 경기는 물론 선진국 및 신흥국 경제 성장 등의글로벌 경기 변동, 달러ㆍ엔화 등 국제 환율 추이, 국제 원자재 가격 동향에 따라사업 실적에 영향을 받을 수 있어"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "상사부문의 트레이딩 영업은 국내 경기는 물론 선진국 및 신흥국 경제 성장 등의글로벌 경기 변동, 달러ㆍ엔화 등 국제 환율 추이, 국제 원자재 가격 동향에 따라사업 실적에 영향을 받을 수 있어"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "CDO 사업의 경우에는 중소형 Biotech중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발및 임상 지연 등 일부 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"바이오의약품 위탁생산사업 및 바이오시밀러 사업으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"철강, 화학, 에너지, 소재 등 다양한 방면에서 국제무역을 하고 있는 상사부문\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의류\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"의류 수입 및 판매사업을 하는 패션부문\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"급식서비스\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"조경사업과 에버랜드(드라이파크),캐리비안베이(워터파크), 골프장 및 전문급식, 식자재유통사업(삼성웰스토리)을영위 운영하는 리조트부문\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"건 설 | 레미콘 | 골조공사 | 57,066 | (주)신일씨엠 外\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철근 | 골조공사 | 36,286 | 동국제강(주) 인천공장 外\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원단\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"패 션 | 원 단 | 제품생산 | 52,475 | 예진에프앤지(주) 外\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"인천송도 경제자유구역에 상업용 생산설비 78만리터 (1공장 3만, 2공장 15만, 3공장18만, 4공장 24만, 5공장 18만)와 임상용 생산설비 5천리터로 총 78.5만 리터의 생산설비를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"글로벌 영업 역량 강화를 위해 2023년 3월 뉴저지에, 2025년에는 일본 도쿄에 각각 세일즈 오피스를 개소하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 보유중인 외화 채권/채무에 대해 환율과 이자율 변동으로 인해 수취 및 지급해야 할 이자금액 및 원금의 변동 위험이 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 보유중인 외화 채권/채무에 대해 환율과 이자율 변동으로 인해 수취 및 지급해야 할 이자금액 및 원금의 변동 위험이 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"삼성에피스홀딩스는 현재까지 11종의 바이오시밀러 (엔브렐, 레미케이드, 허셉틴, 휴미라, 아바스틴, 루센티스, 솔리리스, 아일리아, 스텔라라, 프롤리아, 엑스지바의 바이오시밀러) 제품을 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품 위탁생산서비스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"삼성바이오로직스(주)는 의약품 위탁생산서비스(CMO) 및 위탁개발서비스(CDO)를 제공하는 회사로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체-독소 접합체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2023년부터 항체-독소 접합체(ADC) 분야 연구개발에 착수하여 현재 총 2종의 신약 후보 물질 (Nectin-4 ADC, EGFR-HER3 ADC)을 확보하여 파이프라인을 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"바이오의약품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"바이오 CDMO 시장의 규모는 1) 블록버스터 바이오의약품 지속개발, 2) 글로벌제약사 및 중소형 바이오텍의 생산분야 아웃소싱 확대\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제약시장\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"바이오의약품 시장규모는 2025년 약 5,387억불로 전체 제약시장에서 42.7% 비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Biogen\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SB2 | 류마티스성 관절염, 건선, 건선성 관절염, 크론병, 궤양성 대장염 | 2015년 | 한국, 미국, 유럽 등 판매 중 | Biogen,Organon\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Organon\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SB3 | 유방암 | 2017년 | 한국, 미국, 유럽 등 판매 중 | Organon,보령\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"우수한 환경 관리 능력을 인정받아 2015년부터 2024년까지총 4회 연속 인천시 주관 환경 관리 우수기업으로 선정되었습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Nectin-4 ADC는 국내 인투셀사와 공동개발 중인 혁신신약으로 2025년 12월 미국 식품 의약국으로부터 임상 1상 승인을 받았습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국 경제는 부동산 시장의 장기침체 및 내수부진에도 4.5~5.0% 수준의 성장을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"상사부문의 트레이딩 영업은 국내 경기는 물론 선진국 및 신흥국 경제 성장 등의글로벌 경기 변동, 달러ㆍ엔화 등 국제 환율 추이, 국제 원자재 가격 동향에 따라사업 실적에 영향을 받을 수 있어\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"상사부문의 트레이딩 영업은 국내 경기는 물론 선진국 및 신흥국 경제 성장 등의글로벌 경기 변동, 달러ㆍ엔화 등 국제 환율 추이, 국제 원자재 가격 동향에 따라사업 실적에 영향을 받을 수 있어\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"CDO 사업의 경우에는 중소형 Biotech중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발및 임상 지연 등 일부 영향을 받을 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/028260_20260312000856.txt"
+}

@@ -1,0 +1,306 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초 화장품",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "기초, 기능성 및 색조 화장품 등"
+    },
+    {
+      "axis": "product",
+      "value": "케이캡",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "전문의약품 | 케이캡 | 위식도역류질환 치료제"
+    },
+    {
+      "axis": "product",
+      "value": "색조 화장품",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "기초, 기능성 및 색조 화장품 등"
+    },
+    {
+      "axis": "product",
+      "value": "화장품 용기",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "화장품 용기 및 디스펜스 제조와 판매"
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "컨디션, 헛개수, 홍삼진 등 건강기능식품"
+    },
+    {
+      "axis": "customer",
+      "value": "애터미",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "아모레퍼시픽",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 고객사는 아모레퍼시픽과 LG생활건강 및 급성장하는 인디브랜드로 구성되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG생활건강",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 고객사는 아모레퍼시픽과 LG생활건강 및 급성장하는 인디브랜드로 구성되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "구다이글로벌",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "씨제이올리브영",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "글리세린",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "화장품 | 원료 | 글리세린 등 | 보습제 외 | 347,929 | 40.83"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레진",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "패키징 | 원료 | 레진 | 펌프,튜브 사출 | 6,368 | 0.75"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구형흡착탄",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "전문의약품 | 원재료 | 구형흡착탄 | 신부전치료제 | 2,852 | 0.33"
+    },
+    {
+      "axis": "raw_material",
+      "value": "딜티아젬염산염",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "딜티아젬염산염 | 고혈압치료제 | 4,154 | 0.49"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 다양한 통화로부터의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "일간/주간/월간 단위의 국내외 금리동향 모니터링 실시 및 대응방안 수립, 변동금리부 조건의 단기차입금과 예금을 적절히 운영함으로써 이자율변동에 따른 위험을 최소화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "케이캡",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성신약 케이캡 위식도역류질환 2010년 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "데노수맙 바이오시밀러",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 데노수맙 바이오시밀러 골다공증 2022년(도입) 품목허가 승인(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "GLP-1RA 주사제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "숙취해소 음료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "숙취해소 음료 시장이란 숙취해소를 타깃하는 니치마켓에 집중한 것으로 음주 전 ·후에 마시는 드링크제 시장을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "화장품 용기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 화장품 용기 제조업체로 후방산업에 속하며, 전방산업과 밀접한 관계를 갖습니다."
+    },
+    {
+      "axis": "application",
+      "value": "위식도역류질환",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "합성신약 케이캡 위식도역류질환 2010년 출시(한국, 중국 등)"
+    },
+    {
+      "axis": "application",
+      "value": "골다공증",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 데노수맙 바이오시밀러 골다공증 2022년(도입) 품목허가 승인(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "비만",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "당뇨",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "화장품 산업은 화장품 완제품 제조 산업을 기준으로 화장품 연구개발, 원료, 용기 등 원재료 공급과 관련한 후방산업과 화장품 유통 및 판매업"
+    },
+    {
+      "axis": "customer",
+      "value": "애터미",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "카버코리아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "씨제이올리브영",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "세종ㆍ전의ㆍ전동ㆍ부천 사업장 기준"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "음료시장은 동절기보다 하절기 매출이 증가하는 계절적 요인에 의해 민감하게 반응하는 특성을 보입니다. 또한 원재료 가격 변화에 민감하게 반응하는 특성을 보이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "화장품 산업은 경기변동에 민감하게 반응합니다. 최근 5개년 화장품 총생산 규모는 국내 총생산 증가율 및 제조업 생산 증가율 대비 큰 폭으로 등락하는 모습을 보이고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화장품 포장재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜연우는 플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Paper Stick",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 ㈜연우의 'Paper Stick'은 세계 3대 디자인 어워드인 'Red Dot'에서 'Best of the Best'를 수상하며 글로벌 시장에 강렬한 인상을 남겼습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "재생재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜연우는 탄소 발자국을 줄이기 위해 재생재(PCR) 사용을 극대화하고, 폐기되는 플라스틱에 새로운 생명을 불어넣고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "플라스틱",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(*) 산정범위 : 본사, 패키징센터, 아노다이징센터, 오산창고, 외부주차장"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초 화장품\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"기초, 기능성 및 색조 화장품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"케이캡\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"전문의약품 | 케이캡 | 위식도역류질환 치료제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"색조 화장품\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"기초, 기능성 및 색조 화장품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 및 디스펜스 제조와 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강기능식품\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"컨디션, 헛개수, 홍삼진 등 건강기능식품\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"애터미\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"아모레퍼시픽\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 고객사는 아모레퍼시픽과 LG생활건강 및 급성장하는 인디브랜드로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG생활건강\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 고객사는 아모레퍼시픽과 LG생활건강 및 급성장하는 인디브랜드로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"구다이글로벌\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"씨제이올리브영\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 애터미, 구다이글로벌, 씨제이올리브영, 달바글로벌, 카버코리아 등이 있으며 상위 5개사가 차지하는 비중은 32.8%입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"글리세린\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"화장품 | 원료 | 글리세린 등 | 보습제 외 | 347,929 | 40.83\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레진\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"패키징 | 원료 | 레진 | 펌프,튜브 사출 | 6,368 | 0.75\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구형흡착탄\",\n      \"weight\": 0.0,\n      \"direction\": null,\n      \"evidence\": \"전문의약품 | 원재료 | 구형흡착탄 | 신부전치료제 | 2,852 | 0.33\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"딜티아젬염산염\",\n      \"weight\": 0.0,\n      \"direction\": null,\n      \"evidence\": \"딜티아젬염산염 | 고혈압치료제 | 4,154 | 0.49\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장 및 중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 다양한 통화로부터의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"일간/주간/월간 단위의 국내외 금리동향 모니터링 실시 및 대응방안 수립, 변동금리부 조건의 단기차입금과 예금을 적절히 운영함으로써 이자율변동에 따른 위험을 최소화하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"케이캡\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성신약 케이캡 위식도역류질환 2010년 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)\"}, {\"axis\": \"product\", \"value\": \"데노수맙 바이오시밀러\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 데노수맙 바이오시밀러 골다공증 2022년(도입) 품목허가 승인(한국)\"}, {\"axis\": \"product\", \"value\": \"GLP-1RA 주사제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)\"}, {\"axis\": \"product\", \"value\": \"숙취해소 음료\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"숙취해소 음료 시장이란 숙취해소를 타깃하는 니치마켓에 집중한 것으로 음주 전 ·후에 마시는 드링크제 시장을 의미합니다.\"}, {\"axis\": \"product\", \"value\": \"화장품 용기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 화장품 용기 제조업체로 후방산업에 속하며, 전방산업과 밀접한 관계를 갖습니다.\"}, {\"axis\": \"application\", \"value\": \"위식도역류질환\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"합성신약 케이캡 위식도역류질환 2010년 출시(한국, 중국 등)\"}, {\"axis\": \"application\", \"value\": \"골다공증\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 데노수맙 바이오시밀러 골다공증 2022년(도입) 품목허가 승인(한국)\"}, {\"axis\": \"application\", \"value\": \"비만\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)\"}, {\"axis\": \"application\", \"value\": \"당뇨\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오 GLP-1RA 주사제 비만, 당뇨 2024년(도입) 비만 및 당뇨 임상3상(한국)\"}, {\"axis\": \"application\", \"value\": \"화장품\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"화장품 산업은 화장품 완제품 제조 산업을 기준으로 화장품 연구개발, 원료, 용기 등 원재료 공급과 관련한 후방산업과 화장품 유통 및 판매업\"}, {\"axis\": \"customer\", \"value\": \"애터미\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"카버코리아\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"씨제이올리브영\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"세종ㆍ전의ㆍ전동ㆍ부천 사업장 기준\"}, {\"axis\": \"exposure\", \"value\": \"원재료 가격\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"음료시장은 동절기보다 하절기 매출이 증가하는 계절적 요인에 의해 민감하게 반응하는 특성을 보입니다. 또한 원재료 가격 변화에 민감하게 반응하는 특성을 보이며\"}, {\"axis\": \"exposure\", \"value\": \"경기변동\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"화장품 산업은 경기변동에 민감하게 반응합니다. 최근 5개년 화장품 총생산 규모는 국내 총생산 증가율 및 제조업 생산 증가율 대비 큰 폭으로 등락하는 모습을 보이고 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품 포장재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"㈜연우는 플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Paper Stick\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 ㈜연우의 'Paper Stick'은 세계 3대 디자인 어워드인 'Red Dot'에서 'Best of the Best'를 수상하며 글로벌 시장에 강렬한 인상을 남겼습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"재생재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"㈜연우는 탄소 발자국을 줄이기 위해 재생재(PCR) 사용을 극대화하고, 폐기되는 플라스틱에 새로운 생명을 불어넣고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플라스틱\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"(*) 산정범위 : 본사, 패키징센터, 아노다이징센터, 오산창고, 외부주차장\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/161890_20260318001196.txt"
+}

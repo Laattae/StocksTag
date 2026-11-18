@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "불확실한 대내ㆍ외 상황에도 불구하고, 중기ㆍ소상공인에 대한 적극적인 금융지원을 바탕으로 한 안정적인 대출자산 성장을 통해 견조한 수익을 시현하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "금융통계정보시스템의 원화예수금 말잔 기준으로, 당행은 중금채 실적을 포함함"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "신용카드업, 시설대여업, 할부금융업, 신기술사업금융업)이 통합된 것으로, 수신기능이 없이 채권 어음의 발행을 통해 자금을 조달, 여신행위를 주 업무로 영위합니다."
+    },
+    {
+      "axis": "product",
+      "value": "신탁",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "은행법 등 관련 법률에 근거하여 은행의 고유업무, 부수업무, 겸영업무를 영위하며, 이에는 예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업, 파생상품 및 파생결합증권의 매매업무, 국채, 지방채 및 특수채의 인수ㆍ매출ㆍ매매업무, 투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "보험산업은 보험사가 계약자로부터 보험료를 받아 피보험자의 생사 등에 관하여 우연한 사고가 생길 경우에 계약에서 정한 바에 따라 보험금 또는 기타 일정한 급여를 지급하는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "중소기업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년말 기준 중소기업대출 잔액은 261.9조원으로, 시장점유율 24.41%를 기록하며 중소기업금융시장을 선도하는 리딩뱅크로서의 지위를 공고히 하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "소상공인",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "앞으로도 중소기업은행은 안정적인 이익창출력을 기반으로 중소기업과 소상공인에 대한 지원 등 시장 안전판 역할을 수행하는 동시에"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "금리 인하기 진입에 따른 NIM 악화에도 불구하고, 적극적인 중기금융 지원을 통한 대출자산의 성장과 우호적인 시장 환경 속 모험자본 활성화 전략을 바탕으로 안정적인 실적을 시현하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "美 관세정책 및 고환율 등 대외 불확실성 지속으로 금융시장 변동성이 확대되고 있으며, 국내 경제는 저성장 기조의 고착화와 양극화 심화라는 과제에 직면해 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "국내경제는 반도체 수출 호조가 지속되고 민간소비도 회복되는 추세이지만, 중동發 지정학적 리스크 확대로 국제유가 급등 등 부정적 영향을 받을 것으로 예상됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "완전경쟁시장 하에서 다수 증권사들은 위탁매매시장의 낮은 거래수수료로 인한 온라인 채널활성화와 퇴직연금사업의 경쟁 고도화 등으로"
+    },
+    {
+      "axis": "product",
+      "value": "개인연금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2010년 9월부터 영업을 개시한 IBK연금보험을 포함해 22개 생명보험사*가 개인연금시장에서경쟁하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년에는 금리 등 시장 불확실성 증가, 경제성장률 둔화에 따른 보험수요 감소 및 보험업 관련 규제 강화 등으로"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국에 법인 형태로 진출한 국내은행은 당행을 포함하여 하나은행(중국)유한공사, 우리은행(중국)유한공사"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아에 법인형태로 진출한 한국계은행은 국민, 하나, 신한, 우리은행이 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "총 20개의 외국계은행이 미얀마에 진출해 은행업을 영위 중이며 이중 국내은행이 총 4개로"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "폴란드 은행업은 중앙은행에서 가장 발달된 금융시스템 중 하나로 다양한 금융상품과 서비스를 제공하며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"불확실한 대내ㆍ외 상황에도 불구하고, 중기ㆍ소상공인에 대한 적극적인 금융지원을 바탕으로 한 안정적인 대출자산 성장을 통해 견조한 수익을 시현하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"금융통계정보시스템의 원화예수금 말잔 기준으로, 당행은 중금채 실적을 포함함\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"신용카드업, 시설대여업, 할부금융업, 신기술사업금융업)이 통합된 것으로, 수신기능이 없이 채권 어음의 발행을 통해 자금을 조달, 여신행위를 주 업무로 영위합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"은행법 등 관련 법률에 근거하여 은행의 고유업무, 부수업무, 겸영업무를 영위하며, 이에는 예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업, 파생상품 및 파생결합증권의 매매업무, 국채, 지방채 및 특수채의 인수ㆍ매출ㆍ매매업무, 투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"보험산업은 보험사가 계약자로부터 보험료를 받아 피보험자의 생사 등에 관하여 우연한 사고가 생길 경우에 계약에서 정한 바에 따라 보험금 또는 기타 일정한 급여를 지급하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중소기업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년말 기준 중소기업대출 잔액은 261.9조원으로, 시장점유율 24.41%를 기록하며 중소기업금융시장을 선도하는 리딩뱅크로서의 지위를 공고히 하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"소상공인\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"앞으로도 중소기업은행은 안정적인 이익창출력을 기반으로 중소기업과 소상공인에 대한 지원 등 시장 안전판 역할을 수행하는 동시에\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인과 9개의 해외지점, 2개의 사무소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"금리 인하기 진입에 따른 NIM 악화에도 불구하고, 적극적인 중기금융 지원을 통한 대출자산의 성장과 우호적인 시장 환경 속 모험자본 활성화 전략을 바탕으로 안정적인 실적을 시현하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"美 관세정책 및 고환율 등 대외 불확실성 지속으로 금융시장 변동성이 확대되고 있으며, 국내 경제는 저성장 기조의 고착화와 양극화 심화라는 과제에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"국내경제는 반도체 수출 호조가 지속되고 민간소비도 회복되는 추세이지만, 중동發 지정학적 리스크 확대로 국제유가 급등 등 부정적 영향을 받을 것으로 예상됩니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"완전경쟁시장 하에서 다수 증권사들은 위탁매매시장의 낮은 거래수수료로 인한 온라인 채널활성화와 퇴직연금사업의 경쟁 고도화 등으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인연금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2010년 9월부터 영업을 개시한 IBK연금보험을 포함해 22개 생명보험사*가 개인연금시장에서경쟁하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2025년에는 금리 등 시장 불확실성 증가, 경제성장률 둔화에 따른 보험수요 감소 및 보험업 관련 규제 강화 등으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국에 법인 형태로 진출한 국내은행은 당행을 포함하여 하나은행(중국)유한공사, 우리은행(중국)유한공사\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아에 법인형태로 진출한 한국계은행은 국민, 하나, 신한, 우리은행이 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"총 20개의 외국계은행이 미얀마에 진출해 은행업을 영위 중이며 이중 국내은행이 총 4개로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"폴란드 은행업은 중앙은행에서 가장 발달된 금융시스템 중 하나로 다양한 금융상품과 서비스를 제공하며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/024110_20260318000761.txt"
+}

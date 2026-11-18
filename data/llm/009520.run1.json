@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "펠레트",
+      "weight": 0.26,
+      "direction": null,
+      "evidence": "펠레트 | 제강탈산용 부원료 | 펠레트 | 93,170,321,794 | 26.1"
+    },
+    {
+      "axis": "product",
+      "value": "미니펠레트",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "미니펠레트 | 제강탈산용 부원료 | 미니펠레트 | 39,318,735,460 | 11.0"
+    },
+    {
+      "axis": "product",
+      "value": "철강제품포장 용역",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "철강제품포장 | 용역 | 철강제품포장 | 열연, 냉연 등 철강제품포장 | 금속포장 등 | 178,812,927,465 | 50.0"
+    },
+    {
+      "axis": "product",
+      "value": "페로망간",
+      "weight": 0.095,
+      "direction": null,
+      "evidence": "위탁운영 | 용역 | 페로망간공장 | 위탁운영 | - | 33,821,608,941 | 9.5"
+    },
+    {
+      "axis": "product",
+      "value": "인고트",
+      "weight": 0.001,
+      "direction": null,
+      "evidence": "인고트 | 제강탈산용 부원료 | 인고트 | 561,035,510 | 0.1"
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철강의 전방 산업인 건설 경기의 부진한 흐름까지 지속되면서 당분간 저성장 기조가 이어질 것으로 예상되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "1973년 12월 삼정강업주식회사로 시작하여 포스코에서 생산되는 철강제품의 포장을 수행하였으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "스크랩",
+      "weight": 0.62,
+      "direction": null,
+      "evidence": "원재료 | 철강부원료 | 알루미늄제품제조 | 스크랩 | 119,701,336,776 | 62.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "포장지",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "철강제품포장 | 철강제품포장 | 포장지 | 11,749,766,011 | 6.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "판지",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "판지 | 9,957,914,551 | 5.2"
+    },
+    {
+      "axis": "raw_material",
+      "value": "단면측판",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "단면측판 | 14,958,970,909 | 7.8"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사 | 경영전반관리 | 경북 포항시 남구 형산강북로 131"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "광양사업소 | 광양사업소 행정전반 | 전남 광양시 희망길 12-14 제철협력회관"
+    },
+    {
+      "axis": "exposure",
+      "value": "철강 산업 업황",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "알루미늄 가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"펠레트\",\n      \"weight\": 0.26,\n      \"direction\": null,\n      \"evidence\": \"펠레트 | 제강탈산용 부원료 | 펠레트 | 93,170,321,794 | 26.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미니펠레트\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"미니펠레트 | 제강탈산용 부원료 | 미니펠레트 | 39,318,735,460 | 11.0\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강제품포장 용역\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 용역 | 철강제품포장 | 열연, 냉연 등 철강제품포장 | 금속포장 등 | 178,812,927,465 | 50.0\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"페로망간\",\n      \"weight\": 0.095,\n      \"direction\": null,\n      \"evidence\": \"위탁운영 | 용역 | 페로망간공장 | 위탁운영 | - | 33,821,608,941 | 9.5\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인고트\",\n      \"weight\": 0.001,\n      \"direction\": null,\n      \"evidence\": \"인고트 | 제강탈산용 부원료 | 인고트 | 561,035,510 | 0.1\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철강의 전방 산업인 건설 경기의 부진한 흐름까지 지속되면서 당분간 저성장 기조가 이어질 것으로 예상되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"1973년 12월 삼정강업주식회사로 시작하여 포스코에서 생산되는 철강제품의 포장을 수행하였으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"스크랩\",\n      \"weight\": 0.62,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 철강부원료 | 알루미늄제품제조 | 스크랩 | 119,701,336,776 | 62.3\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"포장지\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 철강제품포장 | 포장지 | 11,749,766,011 | 6.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"판지\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"판지 | 9,957,914,551 | 5.2\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"단면측판\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"단면측판 | 14,958,970,909 | 7.8\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"본사 | 경영전반관리 | 경북 포항시 남구 형산강북로 131\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"광양사업소 | 광양사업소 행정전반 | 전남 광양시 희망길 12-14 제철협력회관\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"철강 산업 업황\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"알루미늄 가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/009520_20260318000807.txt"
+}

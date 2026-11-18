@@ -1,0 +1,124 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "양극활물질",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사와 연결대상 종속회사는 2차전지 양극활물질을 제조, 판매하고 있으며, 매출액 및 총매출액에서 차지하는 비율은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "하이니켈 양극재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "하이니켈 양극재 | 2024.03.22 | 2024.03.22 ~ 2030.12.31 | 13,191,047,267,527 | 495,650,177,844 | 12,695,397,088,683"
+    },
+    {
+      "axis": "product",
+      "value": "LFP 양극활물질",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 당사는 LFP 양극활물질에 대한 전용 생산체계 구축을 추진하며 제품 포트폴리오를 다변화하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "최근 EV(전기차) 및 ESS(에너지저장장치)를 중심으로 중대형 전지 적용이 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "에너지저장장치",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 EV(전기차) 및 ESS(에너지저장장치)를 중심으로 중대형 전지 적용이 확대되고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Tesla",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Tesla | 하이니켈 양극재 공급계약체결 | 2023.02.28 | 2년 | 9,730 | 하이니켈 양극재 공급계약체결"
+    },
+    {
+      "axis": "customer",
+      "value": "SK온",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SK온 | 하이니켈 양극재 공급계약체결 | 2024.03.25 | 6년 7개월 | 13,191,047,267 | 하이니켈 양극재 공급계약체결"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "이들 원재료는 국제 원자재 가격, 환율 변동, 글로벌 수급 상황 및 주요 생산국의 정책 변화 등에 영향을 받을 수 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코발트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "망간",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "리튬",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다."
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "엘앤에프 | 자가 | 대구 | 토지 | 95,038,529,979 | 25,397,988,621"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이들 원재료는 국제 원자재 가격, 환율 변동, 글로벌 수급 상황 및 주요 생산국의 정책 변화 등에 영향을 받을 수 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "양극 활물질",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "리튬 이차 전지용 양극 활물질, 이의 제조방법 및 이를 포함하는 리튬 이차 전지"
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "양극 활물질 제조용 전구체"
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "리튬 이차 전지용 양극 활물질, 이의 제조방법 및 이를 포함하는 리튬 이차 전지"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극활물질\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사와 연결대상 종속회사는 2차전지 양극활물질을 제조, 판매하고 있으며, 매출액 및 총매출액에서 차지하는 비율은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"하이니켈 양극재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"하이니켈 양극재 | 2024.03.22 | 2024.03.22 ~ 2030.12.31 | 13,191,047,267,527 | 495,650,177,844 | 12,695,397,088,683\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LFP 양극활물질\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 당사는 LFP 양극활물질에 대한 전용 생산체계 구축을 추진하며 제품 포트폴리오를 다변화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"최근 EV(전기차) 및 ESS(에너지저장장치)를 중심으로 중대형 전지 적용이 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"에너지저장장치\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 EV(전기차) 및 ESS(에너지저장장치)를 중심으로 중대형 전지 적용이 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Tesla\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Tesla | 하이니켈 양극재 공급계약체결 | 2023.02.28 | 2년 | 9,730 | 하이니켈 양극재 공급계약체결\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK온\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"SK온 | 하이니켈 양극재 공급계약체결 | 2024.03.25 | 6년 7개월 | 13,191,047,267 | 하이니켈 양극재 공급계약체결\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"이들 원재료는 국제 원자재 가격, 환율 변동, 글로벌 수급 상황 및 주요 생산국의 정책 변화 등에 영향을 받을 수 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코발트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"망간\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"리튬\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트, 망간 등 금속 자원으로 구성된 전구체이며, 여기에 리튬 원료를 투입하여 최종 제품을 제조합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"엘앤에프 | 자가 | 대구 | 토지 | 95,038,529,979 | 25,397,988,621\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이들 원재료는 국제 원자재 가격, 환율 변동, 글로벌 수급 상황 및 주요 생산국의 정책 변화 등에 영향을 받을 수 있으며\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"양극 활물질\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"리튬 이차 전지용 양극 활물질, 이의 제조방법 및 이를 포함하는 리튬 이차 전지\"}, {\"axis\": \"product\", \"value\": \"전구체\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"양극 활물질 제조용 전구체\"}, {\"axis\": \"application\", \"value\": \"이차전지\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"리튬 이차 전지용 양극 활물질, 이의 제조방법 및 이를 포함하는 리튬 이차 전지\"}]}"
+  ],
+  "text_path": "data/reports/066970_20260814000818.txt"
+}

@@ -1,0 +1,136 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PTA",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대"
+    },
+    {
+      "axis": "product",
+      "value": "AN",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대"
+    },
+    {
+      "axis": "product",
+      "value": "스판덱스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대"
+    },
+    {
+      "axis": "product",
+      "value": "아라미드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "아라미드는 고강도, 고내열성 등의 우수한 물리화학적 성질을 바탕으로 방탄, 광케이블, 산업용 로프 등 다양한 분야로 활용되는 슈퍼섬유입니다."
+    },
+    {
+      "axis": "product",
+      "value": "인터넷전화",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인터넷전화의 경우 전화 상담, 현장판촉 및 광고 프로모션과 이벤트를 통해 가입자를유치하고 있습니다."
+    },
+    {
+      "application": "폴리에스테르 섬유",
+      "axis": "application",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "PTA는 폴리에스테르 섬유, PET Bottle 및 PET Film의 기초 원료로 사용되고 있으며"
+    },
+    {
+      "application": "광케이블",
+      "axis": "application",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아라미드는 고강도, 고내열성 등의 우수한 물리화학적 성질을 바탕으로 방탄, 광케이블, 산업용 로프 등 다양한 분야로 활용되는 슈퍼섬유입니다."
+    },
+    {
+      "application": "반도체",
+      "axis": "application",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "과산화수소는 전기ㆍ전자 산업 수요(반도체용 PCB, 2차전지 등)와 전통적 수요(제지, 섬유, 염색 등)로 나눌 수 있습니다."
+    },
+    {
+      "customer": "효성티앤씨",
+      "axis": "customer",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 매출처로는 SOHO COMMODITIED UK LTD, 효성티앤씨, 도레이첨단소재 주식회사가 있습니다."
+    },
+    {
+      "customer": "도레이첨단소재",
+      "axis": "customer",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 매출처로는 SOHO COMMODITIED UK LTD, 효성티앤씨, 도레이첨단소재 주식회사가 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "P-X",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "P-XPROPYLENE석유화학제품 제조〃754,956280,178SK지오센트릭SK지오센트릭--"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PROPYLENE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "P-XPROPYLENE석유화학제품 제조〃754,956280,178SK지오센트릭SK지오센트릭--"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유1공장울산광역시 남구 신여천로 154 (여천동)"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대구공장대구광역시 서구 염색공단중앙로 95 (비산동)"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "산막공장경상남도 양산시 산막공단북1길 74"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "상숙공장중국 강소성 상숙시 동강공업지구 D구역"
+    },
+    {
+      "axis": "exposure",
+      "direction": 1,
+      "value": "유가",
+      "weight": 0.4,
+      "evidence": "PTA | 유가 및 PX-납사 Spread 하락으로 인한 가격 하락"
+    },
+    {
+      "axis": "exposure",
+      "direction": null,
+      "value": "금리",
+      "weight": 0.3,
+      "evidence": "향후 점진적 금리 인하(미국, 유럽, 중국 등)에 따른 수요 회복이 예상되나"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"PTA\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AN\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스판덱스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PTA, AN, PROPYLENE, ACR, NYLON, SPANDEX 등의 제조 및토지, 건물 등의 임대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아라미드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"아라미드는 고강도, 고내열성 등의 우수한 물리화학적 성질을 바탕으로 방탄, 광케이블, 산업용 로프 등 다양한 분야로 활용되는 슈퍼섬유입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인터넷전화\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인터넷전화의 경우 전화 상담, 현장판촉 및 광고 프로모션과 이벤트를 통해 가입자를유치하고 있습니다.\"\n    },\n    {\n      \"application\": \"폴리에스테르 섬유\",\n      \"axis\": \"application\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"PTA는 폴리에스테르 섬유, PET Bottle 및 PET Film의 기초 원료로 사용되고 있으며\"\n    },\n    {\n      \"application\": \"광케이블\",\n      \"axis\": \"application\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"아라미드는 고강도, 고내열성 등의 우수한 물리화학적 성질을 바탕으로 방탄, 광케이블, 산업용 로프 등 다양한 분야로 활용되는 슈퍼섬유입니다.\"\n    },\n    {\n      \"application\": \"반도체\",\n      \"axis\": \"application\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"과산화수소는 전기ㆍ전자 산업 수요(반도체용 PCB, 2차전지 등)와 전통적 수요(제지, 섬유, 염색 등)로 나눌 수 있습니다.\"\n    },\n    {\n      \"customer\": \"효성티앤씨\",\n      \"axis\": \"customer\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 SOHO COMMODITIED UK LTD, 효성티앤씨, 도레이첨단소재 주식회사가 있습니다.\"\n    },\n    {\n      \"customer\": \"도레이첨단소재\",\n      \"axis\": \"customer\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 SOHO COMMODITIED UK LTD, 효성티앤씨, 도레이첨단소재 주식회사가 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"P-X\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"P-XPROPYLENE석유화학제품 제조〃754,956280,178SK지오센트릭SK지오센트릭--\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PROPYLENE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"P-XPROPYLENE석유화학제품 제조〃754,956280,178SK지오센트릭SK지오센트릭--\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유1공장울산광역시 남구 신여천로 154 (여천동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대구공장대구광역시 서구 염색공단중앙로 95 (비산동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"산막공장경상남도 양산시 산막공단북1길 74\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"상숙공장중국 강소성 상숙시 동강공업지구 D구역\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": 1,\n      \"value\": \"유가\",\n      \"weight\": 0.4,\n      \"evidence\": \"PTA | 유가 및 PX-납사 Spread 하락으로 인한 가격 하락\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": 1,\n      \"value\": \"금리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"향후 점진적 금리 인하(미국, 유럽, 중국 등)에 따른 수요 회복이 예상되나\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/003240_20260323001584.txt"
+}

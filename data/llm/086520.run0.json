@@ -1,0 +1,221 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "양극활물질",
+      "weight": 0.74,
+      "direction": null,
+      "evidence": "전지재료사업 | 에코프로비엠(연결) | 양극활물질 등 | 이차전지용 양극 소재 | 2,531,577 | 74.2%"
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.115,
+      "direction": null,
+      "evidence": "에코프로머티리얼즈 | 양극활물질용 전구체 등 | 이차전지용 양극활물질 소재 | 392,506 | 11.5%"
+    },
+    {
+      "axis": "product",
+      "value": "수산화리튬",
+      "weight": 0.062,
+      "direction": null,
+      "evidence": "에코프로이노베이션(연결) | 양극활물질용 수산화리튬 | 이차전지용 양극활물질 소재 | 210,404 | 6.2%"
+    },
+    {
+      "axis": "product",
+      "value": "클린룸 케미컬 필터",
+      "weight": 0.039,
+      "direction": null,
+      "evidence": "에코프로에이치엔(연결) | 클린룸 케미컬 필터 | 물리·화학적 흡착 및 분해를 통해유해가스를 선택적으로 제거 | 54,801 | 38.9%"
+    },
+    {
+      "axis": "product",
+      "value": "온실가스 감축 솔루션",
+      "weight": 0.026,
+      "direction": null,
+      "evidence": "온실가스감축 솔루션 | 반도체 및 Display 제조공정에서 발생하는PFCs(과불화화합물) Gas 제거 | 36,827 | 26.1%"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2022년 (1) EV 시장의 성장과 (2) COVID-19 및 러시아-우크라이나 전쟁에 따른 글로벌 공급망의 위축으로 니켈 가격은 상승세를 보였으나"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "클린룸 케미컬 필터사업은 반도체 및 디스플레이 공정 Clean Room 내부의 유해가스를 제공하여 공정 수율 향상에 기여하는 솔루션을 제공하며"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "클린룸 케미컬 필터사업은 반도체 및 디스플레이 공정 Clean Room 내부의 유해가스를 제공하여 공정 수율 향상에 기여하는 솔루션을 제공하며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종속기업인 ㈜에코프로이엠과 관련하여 합작투자자인 삼성SDI㈜와의 합작투자계약을 통해 연결회사의 귀책으로 인해 본 계약이 해지될 경우"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한국자원정보서비스(KOMIS) 에 따르면 전구체의 주요 원재료인 니켈의 국제 시세는 최근 3년간 약 30% 하락하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코발트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에코프로머티리얼즈 | 코발트 | 양극재용 전구체 제조에 사용되는 주요 소재 | 43,101 | 1.9%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "탄산리튬",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에코프로이노베이션(연결) | 탄산리튬 등 | 리튬이온전지의 핵심소재인 양극활물질제조에 사용되는 주요 소재 | 109,544 | 4.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐배터리",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "에코프로씨엔지 | 폐배터리 등 | 리사이클을 통한 유가금속 회수 | 16,348 | 0.7%"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에코프로비엠 오창캠퍼스 | CAM1 ~ CAM3 | 충북 청주시 청원구 오창읍 양청송대길 116"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "에코프로비엠 포항캠퍼스 | CAM5 | 경상북도 포항시 북구 흥해읍 영일만산단남로75번길 10"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "미국 달러/원 | 10% 상승시 | 47,558,065"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "1% 상승 시 | (19,461,829) | (10,978,977)"
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 하이니켈 NCA와 NCM 양극재로 니켈 함량을 최대화하여 에너지 밀도를 높이는 동시에 원가가 높은 코발트는 적게 사용하며 안정성을 확대한 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주요 제품인 전구체는 4대 구성요소 중 양극재의 핵심 원재료에 해당하며 동시에 양극재의 성능을 결정 짓는 주요한 기능을 담당 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특히 EV 시장은 전세계적 전기차 보급 확대 정책에 힘입어 2030년 2차전지의 시장 수요의 약 90%가 전기차향 수요로 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이외에도 전력저장시스템(ESS)와 전동공구, E-bike 및 모바일, E-모바일 등 소형분야에서도 2차전지 시장 규모가 커지면서 수요는 함께 증가할 것으로 전망하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전동공구",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "고출력의 장점을 바탕으로, NCA 양극재는 주로 전동공구 시장에서 사용 되고 있으나 최근 전기차용 배터리에 적용이 확대 되면서 전기차 시장으로의 수요 역시 빠르게 확대 되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK이노베이션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "계약 상대방 | 항목 | 내용 | SK이노베이션 | 계약 목적 및 내용 | EV용 하이니켈 양극재(NCM) 판매계약"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "계약 상대방 | 항목 | 내용 | 삼성SDI | 계약 목적 및 내용 | 하이니켈계 NCA 양극소재 공급계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전기차의 주행거리 향상은 이차전지의 핵심 소재인 양극활물질의 니켈 함량 고도화와 밀접한 관계를 갖기 때문에 NCA, NCM과 같은 에너지 밀도가 높은 타입의 이차전지 시장 수요는 빠르게 확대 되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코발트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LCO 시장은 소형 시장, 그 중 스마트폰 의존 현상이 두드러지고 있으며 코발트 시세변동과 매우 밀접한 특성을 지니고 있기 때문에 전기차 시장내에서의 수요 증가는 어려울 것으로 예상 됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "충북 청주시 청원구 오창읍 과학산업2로 587-40 (송대리 311-1)"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경북 포항시 북구 흥해읍 곡강리 1669"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "다른 모든 변수가 일정하다고 가정할 때, 당기와 전기의 화폐성 외화금융자산 및 부채에 대한 원화 환율의 5% 변동시 당사의 세후 손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간말 현재 다른 모든 변수가 일정하고 이자율의 변동시 당사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"양극활물질\", \"weight\": 0.74, \"direction\": null, \"evidence\": \"전지재료사업 | 에코프로비엠(연결) | 양극활물질 등 | 이차전지용 양극 소재 | 2,531,577 | 74.2%\"}, {\"axis\": \"product\", \"value\": \"전구체\", \"weight\": 0.115, \"direction\": null, \"evidence\": \"에코프로머티리얼즈 | 양극활물질용 전구체 등 | 이차전지용 양극활물질 소재 | 392,506 | 11.5%\"}, {\"axis\": \"product\", \"value\": \"수산화리튬\", \"weight\": 0.062, \"direction\": null, \"evidence\": \"에코프로이노베이션(연결) | 양극활물질용 수산화리튬 | 이차전지용 양극활물질 소재 | 210,404 | 6.2%\"}, {\"axis\": \"product\", \"value\": \"클린룸 케미컬 필터\", \"weight\": 0.039, \"direction\": null, \"evidence\": \"에코프로에이치엔(연결) | 클린룸 케미컬 필터 | 물리·화학적 흡착 및 분해를 통해유해가스를 선택적으로 제거 | 54,801 | 38.9%\"}, {\"axis\": \"product\", \"value\": \"온실가스 감축 솔루션\", \"weight\": 0.026, \"direction\": null, \"evidence\": \"온실가스감축 솔루션 | 반도체 및 Display 제조공정에서 발생하는PFCs(과불화화합물) Gas 제거 | 36,827 | 26.1%\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"2022년 (1) EV 시장의 성장과 (2) COVID-19 및 러시아-우크라이나 전쟁에 따른 글로벌 공급망의 위축으로 니켈 가격은 상승세를 보였으나\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"클린룸 케미컬 필터사업은 반도체 및 디스플레이 공정 Clean Room 내부의 유해가스를 제공하여 공정 수율 향상에 기여하는 솔루션을 제공하며\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"클린룸 케미컬 필터사업은 반도체 및 디스플레이 공정 Clean Room 내부의 유해가스를 제공하여 공정 수율 향상에 기여하는 솔루션을 제공하며\"}, {\"axis\": \"customer\", \"value\": \"삼성SDI\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"종속기업인 ㈜에코프로이엠과 관련하여 합작투자자인 삼성SDI㈜와의 합작투자계약을 통해 연결회사의 귀책으로 인해 본 계약이 해지될 경우\"}, {\"axis\": \"raw_material\", \"value\": \"니켈\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"한국자원정보서비스(KOMIS) 에 따르면 전구체의 주요 원재료인 니켈의 국제 시세는 최근 3년간 약 30% 하락하였습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"코발트\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"에코프로머티리얼즈 | 코발트 | 양극재용 전구체 제조에 사용되는 주요 소재 | 43,101 | 1.9%\"}, {\"axis\": \"raw_material\", \"value\": \"탄산리튬\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"에코프로이노베이션(연결) | 탄산리튬 등 | 리튬이온전지의 핵심소재인 양극활물질제조에 사용되는 주요 소재 | 109,544 | 4.8%\"}, {\"axis\": \"raw_material\", \"value\": \"폐배터리\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"에코프로씨엔지 | 폐배터리 등 | 리사이클을 통한 유가금속 회수 | 16,348 | 0.7%\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"에코프로비엠 오창캠퍼스 | CAM1 ~ CAM3 | 충북 청주시 청원구 오창읍 양청송대길 116\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"에코프로비엠 포항캠퍼스 | CAM5 | 경상북도 포항시 북구 흥해읍 영일만산단남로75번길 10\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"미국 달러/원 | 10% 상승시 | 47,558,065\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"1% 상승 시 | (19,461,829) | (10,978,977)\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극재\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 하이니켈 NCA와 NCM 양극재로 니켈 함량을 최대화하여 에너지 밀도를 높이는 동시에 원가가 높은 코발트는 적게 사용하며 안정성을 확대한 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품인 전구체는 4대 구성요소 중 양극재의 핵심 원재료에 해당하며 동시에 양극재의 성능을 결정 짓는 주요한 기능을 담당 합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특히 EV 시장은 전세계적 전기차 보급 확대 정책에 힘입어 2030년 2차전지의 시장 수요의 약 90%가 전기차향 수요로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이외에도 전력저장시스템(ESS)와 전동공구, E-bike 및 모바일, E-모바일 등 소형분야에서도 2차전지 시장 규모가 커지면서 수요는 함께 증가할 것으로 전망하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전동공구\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"고출력의 장점을 바탕으로, NCA 양극재는 주로 전동공구 시장에서 사용 되고 있으나 최근 전기차용 배터리에 적용이 확대 되면서 전기차 시장으로의 수요 역시 빠르게 확대 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK이노베이션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"계약 상대방 | 항목 | 내용 | SK이노베이션 | 계약 목적 및 내용 | EV용 하이니켈 양극재(NCM) 판매계약\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"계약 상대방 | 항목 | 내용 | 삼성SDI | 계약 목적 및 내용 | 하이니켈계 NCA 양극소재 공급계약\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전기차의 주행거리 향상은 이차전지의 핵심 소재인 양극활물질의 니켈 함량 고도화와 밀접한 관계를 갖기 때문에 NCA, NCM과 같은 에너지 밀도가 높은 타입의 이차전지 시장 수요는 빠르게 확대 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코발트\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"LCO 시장은 소형 시장, 그 중 스마트폰 의존 현상이 두드러지고 있으며 코발트 시세변동과 매우 밀접한 특성을 지니고 있기 때문에 전기차 시장내에서의 수요 증가는 어려울 것으로 예상 됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"충북 청주시 청원구 오창읍 과학산업2로 587-40 (송대리 311-1)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경북 포항시 북구 흥해읍 곡강리 1669\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"다른 모든 변수가 일정하다고 가정할 때, 당기와 전기의 화폐성 외화금융자산 및 부채에 대한 원화 환율의 5% 변동시 당사의 세후 손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간말 현재 다른 모든 변수가 일정하고 이자율의 변동시 당사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/086520_20260318001612.txt"
+}

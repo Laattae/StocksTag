@@ -1,0 +1,294 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "엔진",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "휠로더",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업차량",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "건설기계 | 제품 | 건설기계 | 도로, 건물 건설, 광산, 농업, 산림 등 | HYUNDAI | 2,991,084 (79.20%) | 제품 | 산업차량 | 물류, 유통, 하역 등 | HYUNDAI | 417,187 (11.05%)"
+    },
+    {
+      "axis": "product",
+      "value": "A/S 부품",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "부품은 건설기계의 A/S를 위해 사용되는 부품을 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "도로 건설",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "건물 건설",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "광산 개발",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제품 | 산업차량 | 물류, 유통, 하역 등 | HYUNDAI | 417,187 (11.05%)"
+    },
+    {
+      "axis": "customer",
+      "value": "현대로템",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 2026년 1월 28일 현대로템 주식회사와 상기 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "BMC OTOMOTiV SANAYi VE TiCARET A.s.",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 2023년 2월 1일 BMC OTOMOTiV SANAYi VE TiCARET A.s.와 상기 계약을 체결하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Excavator Bucket Assy",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제품 생산을 위한 주요 원재료는 각종 부품(Excavator Bucket Assy, Wheel Loader Main Valve 등)을 들 수 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.3,
+      "evidence": "엔진 품목은 기존 인천공장 설비능력 52,000대, 생산실적 29,268대를 기록하여"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "evidence": "울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.2,
+      "evidence": "제품의 생산이 일어나는 주요 사업소는 HD건설기계㈜, HD Hyundai Construction Equipment India Private Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.1,
+      "evidence": "HD Hyundai Construction Equipment Brasil - Manufacturing and Trading of Construction Equipment S.A입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.1,
+      "evidence": "제품기획 및 제품설계 조직과 제품시험 조직을 분당과 용인에 각각 설립하여 운영하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 해외 고객등과의 무역거래에서 발생하는 외화 수금이 원자재 수입으로 인한 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 주요 위험이라고 할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "건설경기 둔화, 고금리 기조의 장기화, 일부 신흥시장 수요 위축 등으로 다시 조정 국면에 진입하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "건설기계 시장은 도심지역 공사 증가에 따라 중대형 굴착기 중심에서 후방 선회반경을 최소화한 소형(소선회) 굴착기를 중심으로 재편되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형 굴착기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "건설기계 시장은 도심지역 공사 증가에 따라 중대형 굴착기 중심에서 후방 선회반경을 최소화한 소형(소선회) 굴착기를 중심으로 재편되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디젤엔진",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "추가적으로 국내 중대형 상용차용 엔진의 경우, CNG 엔진은 '14년 1월부터 Euro6 배기 규제가 적용되었으며, 디젤 엔진은 '15년 1월부터 Euro6 배기 규제가 적용되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기 굴착기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "또한 전기 굴착기 등 에너지 고효율 및 저탄소 제품을 개발하고 판매를 확대하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "건설기계와 엔진 산업은 에너지 산업, 건설 경기 및 자동차 경기 등을 비롯한 전방 산업의 수요 변동에 따라 크게 영향을 받는 사업 분야로서"
+    },
+    {
+      "axis": "application",
+      "value": "상용차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주로 상용차량, 건설/산업기계 및 발전기 및 선박에 동력원을 공급하는 부품사업으로서"
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주로 상용차량, 건설/산업기계 및 발전기 및 선박에 동력원을 공급하는 부품사업으로서"
+    },
+    {
+      "axis": "application",
+      "value": "발전기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원유/가스 시장의 변화, 데이터센터의 확대 및 대형화에 따른 전력 소요량 증가, 신흥 국가의 전력 소요량 증감에 따라 발전기용 엔진 수요에 영향을 미치기도 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "농기계",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특히, 최신 배기규제를 만족하는 친환경 소형 엔진에 대하여 기존 고객으로의 안정적 공급 및 국내외 농기계, 지게차 업체로의 공급 확대를 진행하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주철",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "엔진 부분에서 Block/Head의 원재료인 주철과 주요 부품들은 대부분 국산 부품을 사용하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유압부품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "건설중장비의 유압부품 등 일부 핵심부품은 상대적으로 해외 의존도가 높은 수준으로"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "군산공장의 폐수는 적법한 폐수처리시설을 통해 정화한 후 지자체 하수종말처리장으로 유입되어 재처리됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2017년 글로벌 수준의 REACH/RoHS 2 IT 시스템 구축 및 중국 법인 롤아웃(Rollout) 등을 추진하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한 환율 변동에 의하여 국가별 가격 경쟁력이 결정되므로 미국의 달러화, 유럽의 유로화 및 당사의 경쟁업체가 집중된 일본의 엔화 추세에 민감한 반응을 보이는 특성을 띠고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "한편, 원자재 가격 상승 시 관련 투자 증가 및 기계 가동률 상승으로 수요가 증가하는 양(+)의 상관관계를 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "SOC 투자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전반적인 국내 경기상황, 정부의 SOC 투자정책과 해외 경제 동향 등에 따라 수요가 좌우됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"굴착기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"휠로더\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업차량\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"건설기계 | 제품 | 건설기계 | 도로, 건물 건설, 광산, 농업, 산림 등 | HYUNDAI | 2,991,084 (79.20%) | 제품 | 산업차량 | 물류, 유통, 하역 등 | HYUNDAI | 417,187 (11.05%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"A/S 부품\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"부품은 건설기계의 A/S를 위해 사용되는 부품을 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도로 건설\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건물 건설\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"광산 개발\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제품 | 산업차량 | 물류, 유통, 하역 등 | HYUNDAI | 417,187 (11.05%)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대로템\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 2026년 1월 28일 현대로템 주식회사와 상기 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BMC OTOMOTiV SANAYi VE TiCARET A.s.\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 2023년 2월 1일 BMC OTOMOTiV SANAYi VE TiCARET A.s.와 상기 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Excavator Bucket Assy\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제품 생산을 위한 주요 원재료는 각종 부품(Excavator Bucket Assy, Wheel Loader Main Valve 등)을 들 수 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.3,\n      \"evidence\": \"엔진 품목은 기존 인천공장 설비능력 52,000대, 생산실적 29,268대를 기록하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"evidence\": \"울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.2,\n      \"evidence\": \"제품의 생산이 일어나는 주요 사업소는 HD건설기계㈜, HD Hyundai Construction Equipment India Private Ltd.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.1,\n      \"evidence\": \"HD Hyundai Construction Equipment Brasil - Manufacturing and Trading of Construction Equipment S.A입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.1,\n      \"evidence\": \"제품기획 및 제품설계 조직과 제품시험 조직을 분당과 용인에 각각 설립하여 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사는 해외 고객등과의 무역거래에서 발생하는 외화 수금이 원자재 수입으로 인한 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 주요 위험이라고 할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"건설경기 둔화, 고금리 기조의 장기화, 일부 신흥시장 수요 위축 등으로 다시 조정 국면에 진입하였습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"굴착기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"건설기계 시장은 도심지역 공사 증가에 따라 중대형 굴착기 중심에서 후방 선회반경을 최소화한 소형(소선회) 굴착기를 중심으로 재편되고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"소형 굴착기\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"건설기계 시장은 도심지역 공사 증가에 따라 중대형 굴착기 중심에서 후방 선회반경을 최소화한 소형(소선회) 굴착기를 중심으로 재편되고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"디젤엔진\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"추가적으로 국내 중대형 상용차용 엔진의 경우, CNG 엔진은 '14년 1월부터 Euro6 배기 규제가 적용되었으며, 디젤 엔진은 '15년 1월부터 Euro6 배기 규제가 적용되었습니다.\"}, {\"axis\": \"product\", \"value\": \"전기 굴착기\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"또한 전기 굴착기 등 에너지 고효율 및 저탄소 제품을 개발하고 판매를 확대하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"건설\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"건설기계와 엔진 산업은 에너지 산업, 건설 경기 및 자동차 경기 등을 비롯한 전방 산업의 수요 변동에 따라 크게 영향을 받는 사업 분야로서\"}, {\"axis\": \"application\", \"value\": \"상용차\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"주로 상용차량, 건설/산업기계 및 발전기 및 선박에 동력원을 공급하는 부품사업으로서\"}, {\"axis\": \"application\", \"value\": \"선박\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"주로 상용차량, 건설/산업기계 및 발전기 및 선박에 동력원을 공급하는 부품사업으로서\"}, {\"axis\": \"application\", \"value\": \"발전기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원유/가스 시장의 변화, 데이터센터의 확대 및 대형화에 따른 전력 소요량 증가, 신흥 국가의 전력 소요량 증감에 따라 발전기용 엔진 수요에 영향을 미치기도 합니다.\"}, {\"axis\": \"application\", \"value\": \"농기계\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"특히, 최신 배기규제를 만족하는 친환경 소형 엔진에 대하여 기존 고객으로의 안정적 공급 및 국내외 농기계, 지게차 업체로의 공급 확대를 진행하고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"주철\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"엔진 부분에서 Block/Head의 원재료인 주철과 주요 부품들은 대부분 국산 부품을 사용하고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"유압부품\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"건설중장비의 유압부품 등 일부 핵심부품은 상대적으로 해외 의존도가 높은 수준으로\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"군산공장의 폐수는 적법한 폐수처리시설을 통해 정화한 후 지자체 하수종말처리장으로 유입되어 재처리됩니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"제품 생산과정에서 발생되는 대기, 수질, 폐기물 등의 오염물질 저감을 위하여 인천,군산, 안산, 보령 등 모든 사업장에서는 적합한 방지시설을 설치하여 적법하게 운영하고 있으며\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2017년 글로벌 수준의 REACH/RoHS 2 IT 시스템 구축 및 중국 법인 롤아웃(Rollout) 등을 추진하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"또한 환율 변동에 의하여 국가별 가격 경쟁력이 결정되므로 미국의 달러화, 유럽의 유로화 및 당사의 경쟁업체가 집중된 일본의 엔화 추세에 민감한 반응을 보이는 특성을 띠고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"한편, 원자재 가격 상승 시 관련 투자 증가 및 기계 가동률 상승으로 수요가 증가하는 양(+)의 상관관계를 가지고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"SOC 투자\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전반적인 국내 경기상황, 정부의 SOC 투자정책과 해외 경제 동향 등에 따라 수요가 좌우됩니다.\"}]}"
+  ],
+  "text_path": "data/reports/267270_20260602000456.txt"
+}

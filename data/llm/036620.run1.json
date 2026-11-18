@@ -1,0 +1,60 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아웃도어 의류",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스노우피크 어패럴 (snow peak apparel) | 아웃도어 의류ㆍ신발ㆍ용품 제조ㆍ판매"
+    },
+    {
+      "axis": "product",
+      "value": "보조배터리",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "모바일사업부문 | 엑티몬 (ACTIMON) | 보조배터리 등 휴대폰 주변기기 제조ㆍ판매"
+    },
+    {
+      "axis": "product",
+      "value": "충전기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "이들 하도급 업체의 경우 국내 또는 베트남, 인도네시아, 중국 등에서 제작하여 당사에 공급하는 시스템으로 운영하면서 매주 스케쥴을 조율하여 입ㆍ출고관리를 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "이들 하도급 업체의 경우 국내 또는 베트남, 인도네시아, 중국 등에서 제작하여 당사에 공급하는 시스템으로 운영하면서 매주 스케쥴을 조율하여 입ㆍ출고관리를 하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당사는 상품 수입거래와 관련하여 미국 달러화 등의 환율변동위험에 노출되어 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아웃도어 의류\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스노우피크 어패럴 (snow peak apparel) | 아웃도어 의류ㆍ신발ㆍ용품 제조ㆍ판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보조배터리\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"모바일사업부문 | 엑티몬 (ACTIMON) | 보조배터리 등 휴대폰 주변기기 제조ㆍ판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"충전기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"모바일사업부문은 자체 브랜드 엑티몬(ACTIMON)을 개발하여 휴대폰 보조배터리, 충전기, 기타 스마트폰 액세서리 제품등을 제조 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이들 하도급 업체의 경우 국내 또는 베트남, 인도네시아, 중국 등에서 제작하여 당사에 공급하는 시스템으로 운영하면서 매주 스케쥴을 조율하여 입ㆍ출고관리를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이들 하도급 업체의 경우 국내 또는 베트남, 인도네시아, 중국 등에서 제작하여 당사에 공급하는 시스템으로 운영하면서 매주 스케쥴을 조율하여 입ㆍ출고관리를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"당사는 상품 수입거래와 관련하여 미국 달러화 등의 환율변동위험에 노출되어 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/036620_20260318001572.txt"
+}

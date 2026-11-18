@@ -1,0 +1,145 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "대사이상 지방간염/비만 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 OLX702A 프로그램은 대사이상 지방간염(MASH)와 비만(Obesity)를 동시에 치료할 수 있는 치료제 프로그램으로 개발 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "탈모 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 기존 탈모 치료제의 부작용 및 불편을 겪고 있는 환자를 대상으로 한 신개념 치료제를 연구개발 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "건성 및 습성 황반변성 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이에 반해 OLX301A 치료제는 MyD88을 타겟으로 한 치료제로 표적 유전자 억제 효과가 뛰어난 cp-asiRNA를 선정하여 건성 및 습성 AMD 모델 모두에서 우수한 치료 효과를 확인하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비대흉터 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 OLX101A 프로그램이 상용화될 경우 First-in-Class로서의 가치를 가집니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Jiangsu Hansoh Pharmaceuticals",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2021년 10월, 중국 대형 제약사 Jiangsu Hansoh Pharmaceuticals Group Co., Ltd.(이하 \"Hansoh\")와 최대 5,368억 원 규모의 GalNAc-asiRNA 플랫폼 기반 기술이전 계약을 체결했고"
+    },
+    {
+      "axis": "customer",
+      "value": "Eli Lilly and Company",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "또한 2025년 2월 글로벌 빅파마, Eli lilly and Company와 OLX75016(OLX702A)의 독점적 권리에 대해 최대 9,117억 규모 글로벌 라이선스 계약을 체결하여"
+    },
+    {
+      "axis": "customer",
+      "value": "AM Chemicals LLC",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2020년 3월, 미국 AM 케미컬 사로부터 핵산 치료제를 간 조직으로 전달할 수 있는 GalNAc 접합기술의 특허권과 노하우에 대한 전 세계 권리를 독점 도입하는 라이센스 계약을 체결했고"
+    },
+    {
+      "axis": "customer",
+      "value": "L'Oreal",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "siRNA를 활용한피부 모발 공동 연구 계약 | L'Oreal"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2020년 3월, 미국 AM 케미컬 사로부터 핵산 치료제를 간 조직으로 전달할 수 있는 GalNAc 접합기술의 특허권과 노하우에 대한 전 세계 권리를 독점 도입하는 라이센스 계약을 체결했고"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2021년 10월, 중국 대형 제약사 Jiangsu Hansoh Pharmaceuticals Group Co., Ltd.(이하 \"Hansoh\")와 최대 5,368억 원 규모의 GalNAc-asiRNA 플랫폼 기반 기술이전 계약을 체결했고"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "OLX702A 프로그램은 2023년 12월 호주 임상 1상 임상시험 계획이 승인되어 2024년 2월 임상 1상 첫 환자투여가 개시된 바 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "당사는 외화로 표시된 거래를 수행하고 있으므로 USD 및 EUR 등의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비대칭 siRNA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 비대칭형 RNA(asymmetric siRNA, asiRNA)는 현재까지 가장 효율적인 유전자 조절 기술로 알려진 RNA 간섭 (RNA interference, RNA간섭) 기술을 바탕으로 올릭스가 개발한 독자적인 유전자 억제 기술입니다."
+    },
+    {
+      "axis": "product",
+      "value": "자가전달 비대칭 siRNA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자가전달 비대칭 siRNA(cp-asiRNA)는 기존 siRNA 치료제의 세포 내 전달 이슈를 극복하기 위해 당사가 독자적으로 개발한 플랫폼 기술입니다."
+    },
+    {
+      "axis": "product",
+      "value": "GalNAc-asiRNA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 당사는 미국 자회사를 통해 자체 GalNAc 링커인 ‘OliX XXV’ 개발에 성공하였으며, 이에 대한 미국 특허 출원을 완료함으로써 GalNAc-asiRNA 기술에 대한 기술적 독립 여건을 확보하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "안과질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Treatment of Age-related Macular Degeneration Using RNA Complexes that Target MYD88 OR TLR3 (MyD88 또는 TLR3을 타겟팅하는 RNA 복합체를 이용한 연령-관련 황반 변성의 치료)"
+    },
+    {
+      "axis": "application",
+      "value": "아토피 피부염",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Treatment of atopic dermatitis and asthma using RNA complexes that target I L4Rα, TRPA1, OR F2RL1 (IL4Rα, TRPA1, 또는 F2RL1을 표적화하는 RNA 복합체를 사용한 아토피 피부염 및 천식의 치료)"
+    },
+    {
+      "axis": "application",
+      "value": "특발성 폐섬유증",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "TREATMENT OF IDIOPATHIC PULMONARY FIBROSIS USING RNA COMPLEXES THAT TARGET CONNECTIVE TISSUE GROWTH FACTOR (연결 조직 성장 인자를 표적화하는 RNA 복합체를 사용한 특발성 폐 섬유증의 치료 방법)"
+    },
+    {
+      "axis": "application",
+      "value": "대사이상 지방간염",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "동사에서는 GalNAc 기반 기술을 통해 간 전달이 가능한 플랫폼 구축 및 원천 기술을 확보하였고, 대사이상 지방간염 (MASH), 비만(Obesity)이나 간 섬유화 등을 비롯한 간질환 치료제에 대한 연구개발을 적극적으로 추진하고 있습니다"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대사이상 지방간염/비만 치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 OLX702A 프로그램은 대사이상 지방간염(MASH)와 비만(Obesity)를 동시에 치료할 수 있는 치료제 프로그램으로 개발 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탈모 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 기존 탈모 치료제의 부작용 및 불편을 겪고 있는 환자를 대상으로 한 신개념 치료제를 연구개발 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건성 및 습성 황반변성 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이에 반해 OLX301A 치료제는 MyD88을 타겟으로 한 치료제로 표적 유전자 억제 효과가 뛰어난 cp-asiRNA를 선정하여 건성 및 습성 AMD 모델 모두에서 우수한 치료 효과를 확인하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비대흉터 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 OLX101A 프로그램이 상용화될 경우 First-in-Class로서의 가치를 가집니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Jiangsu Hansoh Pharmaceuticals\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2021년 10월, 중국 대형 제약사 Jiangsu Hansoh Pharmaceuticals Group Co., Ltd.(이하 \\\"Hansoh\\\")와 최대 5,368억 원 규모의 GalNAc-asiRNA 플랫폼 기반 기술이전 계약을 체결했고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Eli Lilly and Company\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"또한 2025년 2월 글로벌 빅파마, Eli lilly and Company와 OLX75016(OLX702A)의 독점적 권리에 대해 최대 9,117억 규모 글로벌 라이선스 계약을 체결하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AM Chemicals LLC\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2020년 3월, 미국 AM 케미컬 사로부터 핵산 치료제를 간 조직으로 전달할 수 있는 GalNAc 접합기술의 특허권과 노하우에 대한 전 세계 권리를 독점 도입하는 라이센스 계약을 체결했고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"L'Oreal\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"siRNA를 활용한피부 모발 공동 연구 계약 | L'Oreal\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2020년 3월, 미국 AM 케미컬 사로부터 핵산 치료제를 간 조직으로 전달할 수 있는 GalNAc 접합기술의 특허권과 노하우에 대한 전 세계 권리를 독점 도입하는 라이센스 계약을 체결했고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2021년 10월, 중국 대형 제약사 Jiangsu Hansoh Pharmaceuticals Group Co., Ltd.(이하 \\\"Hansoh\\\")와 최대 5,368억 원 규모의 GalNAc-asiRNA 플랫폼 기반 기술이전 계약을 체결했고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"OLX702A 프로그램은 2023년 12월 호주 임상 1상 임상시험 계획이 승인되어 2024년 2월 임상 1상 첫 환자투여가 개시된 바 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"당사는 외화로 표시된 거래를 수행하고 있으므로 USD 및 EUR 등의 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"비대칭 siRNA\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사의 비대칭형 RNA(asymmetric siRNA, asiRNA)는 현재까지 가장 효율적인 유전자 조절 기술로 알려진 RNA 간섭 (RNA interference, RNA간섭) 기술을 바탕으로 올릭스가 개발한 독자적인 유전자 억제 기술입니다.\"}, {\"axis\": \"product\", \"value\": \"자가전달 비대칭 siRNA\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"자가전달 비대칭 siRNA(cp-asiRNA)는 기존 siRNA 치료제의 세포 내 전달 이슈를 극복하기 위해 당사가 독자적으로 개발한 플랫폼 기술입니다.\"}, {\"axis\": \"product\", \"value\": \"GalNAc-asiRNA\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"현재 당사는 미국 자회사를 통해 자체 GalNAc 링커인 ‘OliX XXV’ 개발에 성공하였으며, 이에 대한 미국 특허 출원을 완료함으로써 GalNAc-asiRNA 기술에 대한 기술적 독립 여건을 확보하였습니다.\"}, {\"axis\": \"application\", \"value\": \"안과질환\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"Treatment of Age-related Macular Degeneration Using RNA Complexes that Target MYD88 OR TLR3 (MyD88 또는 TLR3을 타겟팅하는 RNA 복합체를 이용한 연령-관련 황반 변성의 치료)\"}, {\"axis\": \"application\", \"value\": \"아토피 피부염\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"Treatment of atopic dermatitis and asthma using RNA complexes that target I L4Rα, TRPA1, OR F2RL1 (IL4Rα, TRPA1, 또는 F2RL1을 표적화하는 RNA 복합체를 사용한 아토피 피부염 및 천식의 치료)\"}, {\"axis\": \"application\", \"value\": \"특발성 폐섬유증\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"TREATMENT OF IDIOPATHIC PULMONARY FIBROSIS USING RNA COMPLEXES THAT TARGET CONNECTIVE TISSUE GROWTH FACTOR (연결 조직 성장 인자를 표적화하는 RNA 복합체를 사용한 특발성 폐 섬유증의 치료 방법)\"}, {\"axis\": \"application\", \"value\": \"대사이상 지방간염\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"동사에서는 GalNAc 기반 기술을 통해 간 전달이 가능한 플랫폼 구축 및 원천 기술을 확보하였고, 대사이상 지방간염 (MASH), 비만(Obesity)이나 간 섬유화 등을 비롯한 간질환 치료제에 대한 연구개발을 적극적으로 추진하고 있습니다\"}]}"
+  ],
+  "text_path": "data/reports/226950_20260318000903.txt"
+}

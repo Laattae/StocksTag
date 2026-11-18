@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "항체-약물 결합체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "항체-약물 결합체(ADC)는 암세포에 특이적으로 결합하는 항체에 고도의 치료효능을 가진 약물을 부착함으로써, 기존 항암 치료의 미충족 수요를 충족시키고자 개발된 차세대 바이오의약품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "합성신약",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "약물의 기본 구조에 약물 유사성을 가진 당사 고유의 기능성 화학 구조물을 연결하여 신약후보물질을 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의료기기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "의약사업부문은 의료용품 및 의료기기 사업을 주요 기반으로 사업을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의료소모품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "의약사업의 경우, 사업연도말 현재 수도권 소재 2개 병원의 치료재료 등 의료소모품과 의료기기를 납품하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유방암",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 ADC분야 첫번째 후보물질인 Caxmotabart Entudotin(LCB14, HER2-ADC)은 중국 Fosun Pharma에 중국시장 대상으로 기술이전 하여 현재 유방암 대상 임상1상과 로슈사의 케사일라와 비교 임상3상이 진행중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "결핵",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LCB01-0371은 MRSA, VRE 등의 그람양성균 슈퍼박테리아 및 다제내성 결핵 치료제로서 약물 장기복용에 따른 부작용을 최소화 할 수 있는 새로운 슈퍼항생제"
+    },
+    {
+      "axis": "customer",
+      "value": "Fosun Pharma",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 ADC분야 첫번째 후보물질인 Caxmotabart Entudotin(LCB14, HER2-ADC)은 중국 Fosun Pharma에 중국시장 대상으로 기술이전 하여 현재 유방암 대상 임상1상과 로슈사의 케사일라와 비교 임상3상이 진행중입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "얀센",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 LCB84(TROP2-ADC)는 2023년 12월 글로벌 제약사인 얀센사에 기술이전 하였으며, 현재 임상 1상을 공동으로 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "오노약품공업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지난해 10월 일본 오노약품공업과 LCB97(L1CAM-ADC) 및 ADC플랫폼 대상 2건의 기술이전을 체결하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "CStone",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "CS5001(LCB71, ROR1-ADC)는 중국 CStone으로 기술이전되어 미국, 호주 그리고 중국에서 임상1상 시험이 진행중이며 허가임상 개시를 앞두고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "AMGEN",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "ADC 원천기술 AMGEN (미국) □비공개 타겟□총규모: $1,247.5mn (Upfront+Milestone) + 로열티 □리가켐바이오 기술 활용 ADC 치료제 후보물질 발굴예정"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "2025년 4월 환율변동에 따른 단가 변동 및 주요 매출 상품 재산정으로 인해 변동되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "건강보험 수가 인하",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "의료기기 산업 역시 경기변동 요인이 적은 분야로서 가장 큰 위험 요소는 건강보험 수가 인하입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체-약물 결합체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"항체-약물 결합체(ADC)는 암세포에 특이적으로 결합하는 항체에 고도의 치료효능을 가진 약물을 부착함으로써, 기존 항암 치료의 미충족 수요를 충족시키고자 개발된 차세대 바이오의약품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성신약\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"약물의 기본 구조에 약물 유사성을 가진 당사 고유의 기능성 화학 구조물을 연결하여 신약후보물질을 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"의약사업부문은 의료용품 및 의료기기 사업을 주요 기반으로 사업을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료소모품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"의약사업의 경우, 사업연도말 현재 수도권 소재 2개 병원의 치료재료 등 의료소모품과 의료기기를 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유방암\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 ADC분야 첫번째 후보물질인 Caxmotabart Entudotin(LCB14, HER2-ADC)은 중국 Fosun Pharma에 중국시장 대상으로 기술이전 하여 현재 유방암 대상 임상1상과 로슈사의 케사일라와 비교 임상3상이 진행중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"결핵\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"LCB01-0371은 MRSA, VRE 등의 그람양성균 슈퍼박테리아 및 다제내성 결핵 치료제로서 약물 장기복용에 따른 부작용을 최소화 할 수 있는 새로운 슈퍼항생제\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Fosun Pharma\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 ADC분야 첫번째 후보물질인 Caxmotabart Entudotin(LCB14, HER2-ADC)은 중국 Fosun Pharma에 중국시장 대상으로 기술이전 하여 현재 유방암 대상 임상1상과 로슈사의 케사일라와 비교 임상3상이 진행중입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"얀센\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 LCB84(TROP2-ADC)는 2023년 12월 글로벌 제약사인 얀센사에 기술이전 하였으며, 현재 임상 1상을 공동으로 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"오노약품공업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지난해 10월 일본 오노약품공업과 LCB97(L1CAM-ADC) 및 ADC플랫폼 대상 2건의 기술이전을 체결하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"CStone\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"CS5001(LCB71, ROR1-ADC)는 중국 CStone으로 기술이전되어 미국, 호주 그리고 중국에서 임상1상 시험이 진행중이며 허가임상 개시를 앞두고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AMGEN\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"ADC 원천기술 AMGEN (미국) □비공개 타겟□총규모: $1,247.5mn (Upfront+Milestone) + 로열티 □리가켐바이오 기술 활용 ADC 치료제 후보물질 발굴예정\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"2025년 4월 환율변동에 따른 단가 변동 및 주요 매출 상품 재산정으로 인해 변동되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건강보험 수가 인하\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"의료기기 산업 역시 경기변동 요인이 적은 분야로서 가장 큰 위험 요소는 건강보험 수가 인하입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/141080_20260323001538.txt"
+}

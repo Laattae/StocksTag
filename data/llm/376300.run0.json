@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "팬 커뮤니케이션 플랫폼",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사의 주요 서비스인 'DearU bubble(디어유 버블)'이라는 '팬 커뮤니케이션 플랫폼'을 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "버블 폰트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년 4분기 중에 아티스트 손글씨 폰트 구독상품인 '버블 폰트(bubble FONT)'가 신규 오픈하였고"
+    },
+    {
+      "axis": "product",
+      "value": "AI펫 버블",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2025년 2월에는 신규사업으로 아티스트가 실제 키우고 있는, 또는 가상의 펫에 AI기술을 접목한 ‘AI펫 버블’을 론칭하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "구글 플레이스토어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "구글 플레이스토어, 애플 앱스토어 등을 사용하여 당사의 앱을 다운 받아 구독권 및 이용권 등을 구매하는 것으로 수익을 창출하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "애플 앱스토어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "구글 플레이스토어, 애플 앱스토어 등을 사용하여 당사의 앱을 다운 받아 구독권 및 이용권 등을 구매하는 것으로 수익을 창출하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "에스엠엔터테인먼트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 최대주주인 (주)에스엠엔터테인먼트와 당사의 주요주주인 (주)제이와이피엔터테인먼트를 필두로 서비스를 시작하여"
+    },
+    {
+      "axis": "customer",
+      "value": "제이와이피엔터테인먼트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 최대주주인 (주)에스엠엔터테인먼트와 당사의 주요주주인 (주)제이와이피엔터테인먼트를 필두로 서비스를 시작하여"
+    },
+    {
+      "axis": "customer",
+      "value": "텐센트뮤직엔터테인먼트그룹",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2024년 10월 중국 텐센트뮤직엔터테인먼트그룹(TME)과 전략적 협업 및 서비스 계약을 체결하였고"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 원화의 환율 10% 변동 시 회사의 세전 이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2024년 당사는 해외 진출을 목표하여 상반기에 일본향 서비스 'bubble for Japan' 및 하반기에는 북미향 서비스 'the bubble'을 론칭하여"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2024년 당사는 해외 진출을 목표하여 상반기에 일본향 서비스 'bubble for Japan' 및 하반기에는 북미향 서비스 'the bubble'을 론칭하여"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2025년 6월에 중국향 버블 서비스인 QQ Music bubble을 론칭하였으며, 현재 K-POP 아티스트 약 330명 및 C-POP 아티스트 74명이 입점하여"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"팬 커뮤니케이션 플랫폼\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 서비스인 'DearU bubble(디어유 버블)'이라는 '팬 커뮤니케이션 플랫폼'을 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"버블 폰트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년 4분기 중에 아티스트 손글씨 폰트 구독상품인 '버블 폰트(bubble FONT)'가 신규 오픈하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI펫 버블\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2025년 2월에는 신규사업으로 아티스트가 실제 키우고 있는, 또는 가상의 펫에 AI기술을 접목한 ‘AI펫 버블’을 론칭하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"구글 플레이스토어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"구글 플레이스토어, 애플 앱스토어 등을 사용하여 당사의 앱을 다운 받아 구독권 및 이용권 등을 구매하는 것으로 수익을 창출하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"애플 앱스토어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"구글 플레이스토어, 애플 앱스토어 등을 사용하여 당사의 앱을 다운 받아 구독권 및 이용권 등을 구매하는 것으로 수익을 창출하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에스엠엔터테인먼트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 최대주주인 (주)에스엠엔터테인먼트와 당사의 주요주주인 (주)제이와이피엔터테인먼트를 필두로 서비스를 시작하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"제이와이피엔터테인먼트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 최대주주인 (주)에스엠엔터테인먼트와 당사의 주요주주인 (주)제이와이피엔터테인먼트를 필두로 서비스를 시작하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"텐센트뮤직엔터테인먼트그룹\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2024년 10월 중국 텐센트뮤직엔터테인먼트그룹(TME)과 전략적 협업 및 서비스 계약을 체결하였고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 원화의 환율 10% 변동 시 회사의 세전 이익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2024년 당사는 해외 진출을 목표하여 상반기에 일본향 서비스 'bubble for Japan' 및 하반기에는 북미향 서비스 'the bubble'을 론칭하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2024년 당사는 해외 진출을 목표하여 상반기에 일본향 서비스 'bubble for Japan' 및 하반기에는 북미향 서비스 'the bubble'을 론칭하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2025년 6월에 중국향 버블 서비스인 QQ Music bubble을 론칭하였으며, 현재 K-POP 아티스트 약 330명 및 C-POP 아티스트 74명이 입점하여\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/376300_20260316001246.txt"
+}

@@ -1,0 +1,66 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "손해보험업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주요사업은 보험업법 및 관계법령에 의한 손해보험업, 제3보험업, 기타보험업 등의 보험업이며"
+    },
+    {
+      "axis": "product",
+      "value": "장기손해보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 손해보험시장은 장기보험을 주도로 성장을 지속하겠지만"
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다."
+    },
+    {
+      "axis": "product",
+      "value": "건물종합관리업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "건물종합관리업은 건물의 유지·보수, 청소, 보안, 에너지 관리 등을 포괄적으로 제공하는 서비스 산업이며"
+    },
+    {
+      "axis": "product",
+      "value": "손해사정업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "손해사정업은 보험상품 및 사고유형에 따라 4가지 유형으로 분류되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "집중호우",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "폭설",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국내외 금융환경",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한 투자영업의 경우는 국내외 금융환경의 영향을 받는 편입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요사업은 보험업법 및 관계법령에 의한 손해보험업, 제3보험업, 기타보험업 등의 보험업이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기손해보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 손해보험시장은 장기보험을 주도로 성장을 지속하겠지만\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건물종합관리업\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"건물종합관리업은 건물의 유지·보수, 청소, 보안, 에너지 관리 등을 포괄적으로 제공하는 서비스 산업이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해사정업\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"손해사정업은 보험상품 및 사고유형에 따라 4가지 유형으로 분류되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"집중호우\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"폭설\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"자동차보험 등 일부 보험종목의 경우 집중호우, 폭설 등이 일시적으로 보험영업손익에 영향을 주기도 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국내외 금융환경\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"또한 투자영업의 경우는 국내외 금융환경의 영향을 받는 편입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/001450_20260312001448.txt"
+}

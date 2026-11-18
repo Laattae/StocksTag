@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다."
+    },
+    {
+      "axis": "product",
+      "value": "음원",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다."
+    },
+    {
+      "axis": "product",
+      "value": "콘서트",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 콘서트 | 콘서트 | 188,892,466 | 103,581,457 | 63,187,836 |"
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 광고 | 광고 | 45,016,376 | 34,320,486 | 28,354,613 |"
+    },
+    {
+      "axis": "product",
+      "value": "출연료",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 출연료 | 출연료 | 35,357,676 | 27,139,822 | 14,266,555 |"
+    },
+    {
+      "axis": "customer",
+      "value": "Republic Records",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여"
+    },
+    {
+      "axis": "customer",
+      "value": "Sony Music",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여"
+    },
+    {
+      "axis": "customer",
+      "value": "Tencent Music Entertainment",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여"
+    },
+    {
+      "axis": "customer",
+      "value": "Live Nation",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2023년에는 글로벌 최대 공연 프로모터인 Live Nation과 전략적 파트너십을 체결하였고 당사 아티스트의 글로벌 투어를 위한 구조적 협력 체계를 구축하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) 등 국내 광고업체 및 광고에이전시 업체"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "음악 산업은 과거 오락재와 같은 성격에서 현재는 기본적 문화소비욕구를 가장 손쉽게 충족시키는 소비재로서 경기변동의 영향을 비교적 적게 받습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음원\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘서트\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 콘서트 | 콘서트 | 188,892,466 | 103,581,457 | 63,187,836 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 광고 | 광고 | 45,016,376 | 34,320,486 | 28,354,613 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"출연료\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 출연료 | 출연료 | 35,357,676 | 27,139,822 | 14,266,555 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Republic Records\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sony Music\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Tencent Music Entertainment\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 Sony Music, TME (Tencent Music Entertainment), Republic Records 등 글로벌 유수의 음반/음원 유통 전문 회사들과 파트너십을 체결하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Live Nation\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2023년에는 글로벌 최대 공연 프로모터인 Live Nation과 전략적 파트너십을 체결하였고 당사 아티스트의 글로벌 투어를 위한 구조적 협력 체계를 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) 등 국내 광고업체 및 광고에이전시 업체\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"음악 산업은 과거 오락재와 같은 성격에서 현재는 기본적 문화소비욕구를 가장 손쉽게 충족시키는 소비재로서 경기변동의 영향을 비교적 적게 받습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/035900_20260318001519.txt"
+}

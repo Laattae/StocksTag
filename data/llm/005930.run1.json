@@ -1,0 +1,236 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스마트폰",
+      "weight": 0.563,
+      "direction": null,
+      "evidence": "DX 부문이 TV를 비롯하여 모니터, 냉장고, 세탁기, 에어컨, 스마트폰, 네트워크시스템, PC 등을 생산ㆍ판매하며"
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고"
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고"
+    },
+    {
+      "axis": "product",
+      "value": "모바일AP",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고"
+    },
+    {
+      "axis": "product",
+      "value": "OLED 패널",
+      "weight": 0.089,
+      "direction": null,
+      "evidence": "SDC가 스마트폰용 OLED 패널 등을 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디지털 콕핏",
+      "weight": 0.047,
+      "direction": null,
+      "evidence": "Harman에서는 디지털 콕핏(Digital Cockpit), 카오디오 등 전장제품과 포터블/사운드바 스피커 등 컨슈머오디오 제품 등을 개발, 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "카오디오",
+      "weight": 0.047,
+      "direction": null,
+      "evidence": "Harman에서는 디지털 콕핏(Digital Cockpit), 카오디오 등 전장제품과 포터블/사운드바 스피커 등 컨슈머오디오 제품 등을 개발, 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TV",
+      "weight": 0.563,
+      "direction": null,
+      "evidence": "DX 부문이 TV를 비롯하여 모니터, 냉장고, 세탁기, 에어컨, 스마트폰, 네트워크시스템, PC 등을 생산ㆍ판매하며"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "스마트폰 시장은 2007년 이후 큰 폭으로 성장하여 2025년 전체 휴대폰 판매량 중 스마트폰의 비중은 88% 수준"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년 4분기 메모리 시장은 AI 인프라 확보 경쟁에 따른 데이터센터 업체들의 CAPEX 확대 영향으로 서버향 수요가 지속 증가하면서"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 전 세계 자동차 생산량은 전년 대비 3.7% 증가하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Alphabet",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Deutsche Telekom",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Tesla",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "DS부문Foundry 사업부 | Tesla, Inc. | 반도체 위탁생산"
+    },
+    {
+      "axis": "raw_material",
+      "value": "모바일AP 솔루션",
+      "weight": 0.185,
+      "direction": null,
+      "evidence": "DX 부문은 모바일AP 솔루션, Camera Module 등을 Qualcomm, 삼성전기㈜ 등에서 공급받고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "디스플레이 패널",
+      "weight": 0.107,
+      "direction": null,
+      "evidence": "TVㆍ모니터용 디스플레이 패널 등을 CSOT 등으로부터 공급받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Chemical",
+      "weight": 0.171,
+      "direction": null,
+      "evidence": "DS 부문은 Chemical, Wafer 등을 솔브레인㈜, SILTRONIC 등으로부터"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wafer",
+      "weight": 0.124,
+      "direction": null,
+      "evidence": "DS 부문은 Chemical, Wafer 등을 솔브레인㈜, SILTRONIC 등으로부터"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FPCA",
+      "weight": 0.203,
+      "direction": null,
+      "evidence": "SDC는 FPCA, Cover Glass 등을 ㈜비에이치, Apple 등으로부터 공급받고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "천안사업장 | 충청남도 천안시 서북구 번영로 465(성성동)"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "스마트폰 등 생산실적은 214,259천대이며 한국(구미), 베트남, 인도, 브라질 등 지역에서 생산되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사는 글로벌 영업활동을 수행함에 따라 기능통화와 다른 통화로도 거래를 하고 있어 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율변동위험은 시장금리 변동으로 인해 투자 및 재무 활동으로부터 발생하는 이자수익, 비용의 현금흐름이 변동될 위험으로서"
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "당사는 전략적 목적 등으로 기타포괄손익-공정가치금융자산 및 당기손익-공정가치금융자산으로 분류된 지분상품에 투자하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디지털 콕핏",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "디지털 콕핏에 ADAS (Advanced Driver Assistance System, 첨단 운전자 보조 시스템) 기능을 통합한 중앙집중형 컨트롤러 제품에 사업역량을 집중하여"
+    },
+    {
+      "axis": "product",
+      "value": "오디오",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Harman은 독자 보유한 음향 설계능력과 다양한 소비자층을 겨냥한 멀티 브랜드 전략을 구사하여 일반 소비자와 음악 애호가들 사이에서 오디오 전문 업체로서"
+    },
+    {
+      "axis": "application",
+      "value": "전장",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Harman의 전장사업에 당사의 무선통신, 디스플레이 등 IT 기술을 지속 접목시키고, 디지털 콕핏에 ADAS"
+    },
+    {
+      "axis": "application",
+      "value": "오디오 산업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "향후 당사와 협력을 강화하고 새로운 제품을 출시하여 오디오 산업내에서의 위상과 입지를 더욱 강화해 나갈 예정입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.563,\n      \"direction\": null,\n      \"evidence\": \"DX 부문이 TV를 비롯하여 모니터, 냉장고, 세탁기, 에어컨, 스마트폰, 네트워크시스템, PC 등을 생산ㆍ판매하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.39,\n      \"direction\": null,\n      \"evidence\": \"부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.39,\n      \"direction\": null,\n      \"evidence\": \"부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일AP\",\n      \"weight\": 0.39,\n      \"direction\": null,\n      \"evidence\": \"부품 사업은 DS(Device Solutions) 부문에서 DRAM, NAND Flash, 모바일AP 등의 제품을 생산ㆍ판매하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 패널\",\n      \"weight\": 0.089,\n      \"direction\": null,\n      \"evidence\": \"SDC가 스마트폰용 OLED 패널 등을 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털 콕핏\",\n      \"weight\": 0.047,\n      \"direction\": null,\n      \"evidence\": \"Harman에서는 디지털 콕핏(Digital Cockpit), 카오디오 등 전장제품과 포터블/사운드바 스피커 등 컨슈머오디오 제품 등을 개발, 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카오디오\",\n      \"weight\": 0.047,\n      \"direction\": null,\n      \"evidence\": \"Harman에서는 디지털 콕핏(Digital Cockpit), 카오디오 등 전장제품과 포터블/사운드바 스피커 등 컨슈머오디오 제품 등을 개발, 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV\",\n      \"weight\": 0.563,\n      \"direction\": null,\n      \"evidence\": \"DX 부문이 TV를 비롯하여 모니터, 냉장고, 세탁기, 에어컨, 스마트폰, 네트워크시스템, PC 등을 생산ㆍ판매하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"스마트폰 시장은 2007년 이후 큰 폭으로 성장하여 2025년 전체 휴대폰 판매량 중 스마트폰의 비중은 88% 수준\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2025년 4분기 메모리 시장은 AI 인프라 확보 경쟁에 따른 데이터센터 업체들의 CAPEX 확대 영향으로 서버향 수요가 지속 증가하면서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 전 세계 자동차 생산량은 전년 대비 3.7% 증가하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Alphabet\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Apple\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Deutsche Telekom\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순)이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Tesla\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"DS부문Foundry 사업부 | Tesla, Inc. | 반도체 위탁생산\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"모바일AP 솔루션\",\n      \"weight\": 0.185,\n      \"direction\": null,\n      \"evidence\": \"DX 부문은 모바일AP 솔루션, Camera Module 등을 Qualcomm, 삼성전기㈜ 등에서 공급받고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"디스플레이 패널\",\n      \"weight\": 0.107,\n      \"direction\": null,\n      \"evidence\": \"TVㆍ모니터용 디스플레이 패널 등을 CSOT 등으로부터 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Chemical\",\n      \"weight\": 0.171,\n      \"direction\": null,\n      \"evidence\": \"DS 부문은 Chemical, Wafer 등을 솔브레인㈜, SILTRONIC 등으로부터\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.124,\n      \"direction\": null,\n      \"evidence\": \"DS 부문은 Chemical, Wafer 등을 솔브레인㈜, SILTRONIC 등으로부터\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FPCA\",\n      \"weight\": 0.203,\n      \"direction\": null,\n      \"evidence\": \"SDC는 FPCA, Cover Glass 등을 ㈜비에이치, Apple 등으로부터 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"본사는 수원, 구미, 광주, 기흥, 화성, 평택사업장 등으로 구성되어 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"천안사업장 | 충청남도 천안시 서북구 번영로 465(성성동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"스마트폰 등 생산실적은 214,259천대이며 한국(구미), 베트남, 인도, 브라질 등 지역에서 생산되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당사는 글로벌 영업활동을 수행함에 따라 기능통화와 다른 통화로도 거래를 하고 있어 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율변동위험은 시장금리 변동으로 인해 투자 및 재무 활동으로부터 발생하는 이자수익, 비용의 현금흐름이 변동될 위험으로서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"당사는 전략적 목적 등으로 기타포괄손익-공정가치금융자산 및 당기손익-공정가치금융자산으로 분류된 지분상품에 투자하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털 콕핏\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"디지털 콕핏에 ADAS (Advanced Driver Assistance System, 첨단 운전자 보조 시스템) 기능을 통합한 중앙집중형 컨트롤러 제품에 사업역량을 집중하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오디오\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Harman은 독자 보유한 음향 설계능력과 다양한 소비자층을 겨냥한 멀티 브랜드 전략을 구사하여 일반 소비자와 음악 애호가들 사이에서 오디오 전문 업체로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전장\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Harman의 전장사업에 당사의 무선통신, 디스플레이 등 IT 기술을 지속 접목시키고, 디지털 콕핏에 ADAS\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"오디오 산업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"향후 당사와 협력을 강화하고 새로운 제품을 출시하여 오디오 산업내에서의 위상과 입지를 더욱 강화해 나갈 예정입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/005930_20260310002820.txt"
+}

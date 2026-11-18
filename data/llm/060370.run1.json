@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "해저케이블 시공 및 유지보수",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해저케이블 | 해저케이블 시공 및 유지보수 | 72,279 | 29.6"
+    },
+    {
+      "axis": "product",
+      "value": "지중케이블 시공 및 유지보수",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지중케이블 | 지중케이블 시공 및 유지보수 | 171,927 | 70.4"
+    },
+    {
+      "axis": "application",
+      "value": "해상풍력",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "해상그리드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "통신케이블",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "통신케이블 시공 사업은 기본적으로 기간통신사업자(Telecommunication Carrier) 및 OTT사업자"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전력케이블 시공 사업은 한국전력공사(KEPCO), 국내외 신재생에너지 개발사 또는 대형 건설사(EPC 사업자)가 주로 발주하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LS전선",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "지중케이블 | 건설 | 258 | LS전선㈜ | 최대주주"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 영업활동, 재무활동, 투자활동의 수행 중에 환율위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"해저케이블 시공 및 유지보수\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해저케이블 | 해저케이블 시공 및 유지보수 | 72,279 | 29.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지중케이블 시공 및 유지보수\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지중케이블 | 지중케이블 시공 및 유지보수 | 171,927 | 70.4\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상그리드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"최근에는 해상풍력 및 해상그리드 사업을 위한 해저케이블 건설사업으로 사업의 형태가 변화하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"통신케이블\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"통신케이블 시공 사업은 기본적으로 기간통신사업자(Telecommunication Carrier) 및 OTT사업자\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전력케이블 시공 사업은 한국전력공사(KEPCO), 국내외 신재생에너지 개발사 또는 대형 건설사(EPC 사업자)가 주로 발주하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LS전선\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"지중케이블 | 건설 | 258 | LS전선㈜ | 최대주주\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 영업활동, 재무활동, 투자활동의 수행 중에 환율위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/060370_20260316000800.txt"
+}

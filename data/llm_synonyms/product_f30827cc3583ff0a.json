@@ -1,0 +1,53 @@
+{
+  "merges": [
+    {
+      "group": 5,
+      "canonical": "물류",
+      "synonyms": [
+        "물류사업"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "사모펀드",
+      "synonyms": [
+        "사모펀드(PEF)"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "생명보험",
+      "synonyms": [
+        "생명보험사업"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "선물중개",
+      "synonyms": [
+        "선물중개업"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "시설대여",
+      "synonyms": [
+        "시설대여업"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "에이치백(HVAC)",
+      "synonyms": [
+        "에이치백"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "엘리가드",
+      "synonyms": [
+        "엘리가드 주"
+      ]
+    }
+  ]
+}

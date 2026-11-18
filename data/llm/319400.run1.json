@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "물류자동화 솔루션",
+      "weight": 0.79,
+      "direction": null,
+      "evidence": "물류자동화 | 312,776,938 (79.4%) | 236,574,000 (69.3%) | 201,606,204 (75.3%) | 스토리지ㆍ이송ㆍ적재ㆍ전산 시스템 등"
+    },
+    {
+      "axis": "product",
+      "value": "승강장안전문",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "승강장안전문 (PSD) | 57,477,994 (14.6%) | 78,461,498 (23.0%) | 36,386,061 (13.6%) | 완전밀폐형, 반밀폐형, 난간형 등"
+    },
+    {
+      "axis": "product",
+      "value": "IT서비스",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "IT서비스 | 23,685,708 (6.0%) | 26,347,545 (7.7%) | 29,845,797 (11.1%) | IT 시스템 구축 및 운영 등"
+    },
+    {
+      "axis": "product",
+      "value": "AGV",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "물류자동화 사업은 유통/택배, 대형 CDC, 자동차/타이어, 2차전지 및 ESS, 식/음료, 석유화학, 공항터미널 등 다양한 산업의 고객에게 생산 설비, 창고, 터미널 등의 물류프로세스 자동화를 구현 해주는 사업입니다. 그리고 구현에 필요한 제품, 시공, 컨설팅, 유지보수 등의 물류자동화 토탈솔루션 서비스를 제공하며, 이를 위해 AGV 등 로봇과 AI 기술 등을 고도화하여 고객 솔루션의 첨단화를 지속적으로 혁신하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "온라인쇼핑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 전방 산업으로는 온라인쇼핑 시장이 있으며 시장 규모는 2025년 272조원으로 2017년 94조원 대비 2.5배 이상 성장하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "도시철도",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "승강장안전문은 국가 공공시설인 도시철도 승강장에 설치되어 이용객의 안전을 향상시키는 안전시설물입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "아마존",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전세계 클라우드 시장의 약 33%를 점유하고 있는 시장 1위 사업자 아마존과 글로벌 파트너십을 체결하고, AWS(Amazon Web Services) 기반의 클라우드 사업을 전개하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "컨베이어기계",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "물류자동화 | 컨베이어기계, 제어전기, 랙, 기타 | 국내 | 168,541,944"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PSD 샤시",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "승강장 안전문 | PSD 샤시, 토목, 기계설치,기타 | 국내 | 14,135,789"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "인천청라 | 토지 | 인천 | 6,806,012 | - | - | - | 6,806,012 | 청라R&D센터"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "회사의 위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있으며, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익(법인세비용 차감전)의 변화는 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류자동화 솔루션\",\n      \"weight\": 0.79,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 | 312,776,938 (79.4%) | 236,574,000 (69.3%) | 201,606,204 (75.3%) | 스토리지ㆍ이송ㆍ적재ㆍ전산 시스템 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"승강장안전문\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"승강장안전문 (PSD) | 57,477,994 (14.6%) | 78,461,498 (23.0%) | 36,386,061 (13.6%) | 완전밀폐형, 반밀폐형, 난간형 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT서비스\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"IT서비스 | 23,685,708 (6.0%) | 26,347,545 (7.7%) | 29,845,797 (11.1%) | IT 시스템 구축 및 운영 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AGV\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 사업은 유통/택배, 대형 CDC, 자동차/타이어, 2차전지 및 ESS, 식/음료, 석유화학, 공항터미널 등 다양한 산업의 고객에게 생산 설비, 창고, 터미널 등의 물류프로세스 자동화를 구현 해주는 사업입니다. 그리고 구현에 필요한 제품, 시공, 컨설팅, 유지보수 등의 물류자동화 토탈솔루션 서비스를 제공하며, 이를 위해 AGV 등 로봇과 AI 기술 등을 고도화하여 고객 솔루션의 첨단화를 지속적으로 혁신하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"온라인쇼핑\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 전방 산업으로는 온라인쇼핑 시장이 있으며 시장 규모는 2025년 272조원으로 2017년 94조원 대비 2.5배 이상 성장하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도시철도\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"승강장안전문은 국가 공공시설인 도시철도 승강장에 설치되어 이용객의 안전을 향상시키는 안전시설물입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"아마존\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전세계 클라우드 시장의 약 33%를 점유하고 있는 시장 1위 사업자 아마존과 글로벌 파트너십을 체결하고, AWS(Amazon Web Services) 기반의 클라우드 사업을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"컨베이어기계\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 | 컨베이어기계, 제어전기, 랙, 기타 | 국내 | 168,541,944\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PSD 샤시\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"승강장 안전문 | PSD 샤시, 토목, 기계설치,기타 | 국내 | 14,135,789\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"인천청라 | 토지 | 인천 | 6,806,012 | - | - | - | 6,806,012 | 청라R&D센터\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외 물류자동화 시장은 기존 중국, 베트남 및 미국 법인의 확대와 더불어 헝가리법인 신설\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"회사의 위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있으며, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익(법인세비용 차감전)의 변화는 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/319400_20260318001359.txt"
+}

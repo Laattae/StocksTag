@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.52,
+      "direction": null,
+      "evidence": "당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC 게임",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이에 따라 2025년 당사의 매출액은 3조 3,266억원을 기록하였으며, 부문별로는 게임부문 매출 3조 34억원, 광고부문 매출 3,232억원으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "콘솔 게임",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "애니메이션 콘텐츠",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "애니메이션 콘텐츠는 출판사, 제작사, 광고대행사, 방송사, 머천다이즈사 등 다양한 이해관계자가 참여하는 제작위원회 방식을 중심으로 기획, 제작, 유통되는 것이 일반적입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Valve Corporation",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (PC) | Valve Corporation | 전세계"
+    },
+    {
+      "axis": "customer",
+      "value": "Google",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Google | 한국,일본,인도"
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Apple | 한국"
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft Corporation",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Microsoft Corporation | 전세계"
+    },
+    {
+      "axis": "customer",
+      "value": "Sony Interactive Entertainment LLC",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Sony Interactive Entertainment LLC | PLAYERUNKNOWN'SBATTLEGROUNDS (PC)"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2025년 10월에는 일본의 광고ㆍ콘텐츠 기업인 ADK 그룹을 인수하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "㈜넵튠 투자를 통해 인도를 포함한 글로벌 시장에서 새로운 비즈니스 모델 적용을 검토하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "연결회사는 글로벌 영업활동을 수행함에 따라 기능통화와 다른 외화의 수입과 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는 환포지션의 주요 통화로는 USD, CNY, EUR 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.52,\n      \"direction\": null,\n      \"evidence\": \"당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC 게임\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이에 따라 2025년 당사의 매출액은 3조 3,266억원을 기록하였으며, 부문별로는 게임부문 매출 3조 34억원, 광고부문 매출 3,232억원으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘솔 게임\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"당사는 당사 및 종속회사의 스튜디오에서 개발한 게임을 PC 게임 플랫폼, 모바일 앱/게임 플랫폼, 콘솔 게임 플랫폼 등을 통하여 직접 서비스하거나 퍼블리셔를 통하여 최종사용자(End-user)에게 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"애니메이션 콘텐츠\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"애니메이션 콘텐츠는 출판사, 제작사, 광고대행사, 방송사, 머천다이즈사 등 다양한 이해관계자가 참여하는 제작위원회 방식을 중심으로 기획, 제작, 유통되는 것이 일반적입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Valve Corporation\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (PC) | Valve Corporation | 전세계\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Google\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Google | 한국,일본,인도\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Apple\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Apple | 한국\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Microsoft Corporation\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Microsoft Corporation | 전세계\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sony Interactive Entertainment LLC\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Sony Interactive Entertainment LLC | PLAYERUNKNOWN'SBATTLEGROUNDS (PC)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2025년 10월에는 일본의 광고ㆍ콘텐츠 기업인 ADK 그룹을 인수하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"㈜넵튠 투자를 통해 인도를 포함한 글로벌 시장에서 새로운 비즈니스 모델 적용을 검토하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 글로벌 영업활동을 수행함에 따라 기능통화와 다른 외화의 수입과 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는 환포지션의 주요 통화로는 USD, CNY, EUR 등이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/259960_20260515002689.txt"
+}

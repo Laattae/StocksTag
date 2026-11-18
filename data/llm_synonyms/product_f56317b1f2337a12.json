@@ -1,0 +1,33 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "음료",
+      "synonyms": [
+        "음료류"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "음반/음원",
+      "synonyms": [
+        "음반 및 음원",
+        "음반, 음원"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "캔햄",
+      "synonyms": [
+        "캔 햄"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "판·대",
+      "synonyms": [
+        "판ㆍ대"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "설탕",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 식용유 등 | 11,522,251 | 42% |"
+    },
+    {
+      "axis": "product",
+      "value": "운송",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "운송, 하역, 건설 등 | 11,697,334 | 43% |"
+    },
+    {
+      "axis": "product",
+      "value": "핵산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15% |"
+    },
+    {
+      "axis": "product",
+      "value": "밀가루",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "식품 사업은 설탕, 밀가루, 식용유 등의 소재식품과 햇반, 만두, 피자, 가정 간편식, 육가공 제품 등의 가공식품 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "아미노산",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 고생산성 균주를 개량하고 고효율 발효공정기술을 도입하는 등 지속적인 기술역량 개발 및 생산성 향상과 원가경쟁력 강화에 집중해 온 결과, 트립토판, 핵산, 알지닌, 히스티딘 등 주요 품목에서 글로벌 선도기업의 위상을 이어오고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "햇반",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "상 품 밥 (햇 반) | 66 | 70 |"
+    },
+    {
+      "axis": "product",
+      "value": "냉동만두",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "냉 동 만 두 (가정용) | 42 | 45 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원맥",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "옥수수 | 아미노산제조 등 | 368,038 | 수 입 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "경유",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품 사업 | 미국 | 19 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품 사업 | 중국 | 4 |"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서 관련 제품을 제조하여 판매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서 관련 제품을 제조하여 판매하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장 주가지수",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "당사가 보유하고 있는 상장주식은 공개시장에서 거래되고 있으며 KOSPI 주가지수, KOSDAQ 주가지수 등에 속해 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"설탕\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 식용유 등 | 11,522,251 | 42% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"운송\",\n      \"weight\": 0.43,\n      \"direction\": null,\n      \"evidence\": \"운송, 하역, 건설 등 | 11,697,334 | 43% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핵산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"밀가루\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"식품 사업은 설탕, 밀가루, 식용유 등의 소재식품과 햇반, 만두, 피자, 가정 간편식, 육가공 제품 등의 가공식품 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아미노산\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 고생산성 균주를 개량하고 고효율 발효공정기술을 도입하는 등 지속적인 기술역량 개발 및 생산성 향상과 원가경쟁력 강화에 집중해 온 결과, 트립토판, 핵산, 알지닌, 히스티딘 등 주요 품목에서 글로벌 선도기업의 위상을 이어오고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"햇반\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"상 품 밥 (햇 반) | 66 | 70 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉동만두\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"냉 동 만 두 (가정용) | 42 | 45 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원맥\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"옥수수 | 아미노산제조 등 | 368,038 | 수 입 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"경유\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품 사업 | 미국 | 19 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품 사업 | 중국 | 4 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서 관련 제품을 제조하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서 관련 제품을 제조하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장 주가지수\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"당사가 보유하고 있는 상장주식은 공개시장에서 거래되고 있으며 KOSPI 주가지수, KOSDAQ 주가지수 등에 속해 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/097950_20260316001116.txt"
+}

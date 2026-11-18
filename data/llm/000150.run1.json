@@ -1,0 +1,342 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "CCL",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "전자BG는 전자제품의 필수 부품으로 사용되는 PCB(인쇄회로기판)의 핵심 소재인 CCL(동박적층판, Copper Clad Laminate)을 생산 및 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전설비",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "K-IFRS에 따른 당사의 주요 자회사가 영위하는 사업으로는 발전플랜트 EPC (Engineering, Procurement, Construction), 주요 발전 기자재 설계 및 제작과 서비스 사업(두산에너빌리티㈜)"
+    },
+    {
+      "axis": "product",
+      "value": "건설기계",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "소형 건설기계, Portable Power 장비 생산 및 판매(두산밥캣㈜)"
+    },
+    {
+      "axis": "product",
+      "value": "발전용 연료전지",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "발전용 연료전지 기자재 공급 및 장기유지보수 서비스(두산퓨얼셀㈜)"
+    },
+    {
+      "axis": "product",
+      "value": "시스템반도체 테스트",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "시스템반도체 테스트(㈜두산테스나)"
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "협동로봇 제조 및 솔루션 제공(두산로보틱스㈜) 등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "통신장비",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동박",
+      "weight": null,
+      "direction": null,
+      "evidence": "전자BG는 원재료 등 동박, G/F, 에폭시레진,기타 (Film, Chemical 등) 동박 적층판 제조 등 702,278"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에폭시레진",
+      "weight": null,
+      "direction": null,
+      "evidence": "전자BG는 원재료 등 동박, G/F, 에폭시레진,기타 (Film, Chemical 등) 동박 적층판 제조 등 702,278"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철판류",
+      "weight": null,
+      "direction": null,
+      "evidence": "두산에너빌리티㈜ 자재 및 외주비 철판류, 외주비 외 발전설비. 담수설비 제작 등 5,531,632"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "두산로보틱스㈜ 국내 수원"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "㈜두산 전자BG 해외 중국, 베트남"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "㈜두산 전자BG 해외 중국, 베트남"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "두산에너빌리티㈜ 해외 미국, 인도, 체코, 베트남"
+    },
+    {
+      "axis": "region",
+      "value": "체코",
+      "weight": null,
+      "direction": null,
+      "evidence": "두산에너빌리티㈜ 해외 미국, 인도, 체코, 베트남"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "- 발전/담수설비 제품은 단기적인 가격 변동이 크지 않으나, 환율, 유가, 원자재 가격 및 발주처에서 요구하는 발주 사양에 따라 가격이 변동합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": null,
+      "direction": 1,
+      "evidence": "- 주단조품(금형공구강 포함)은 원자재 가격 변동 및 시장의 여건에 따라 다소 변동 폭이 있으며, 당기는 전기 대비 고단가 제품의 매출 비중이 증가하며 가격이 상승하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "동박적층판",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "인쇄회로용 동박적층판(Printed Circuit Board 원판) 산업은 모든 전자제품에 필수적으로 사용되는 전자부품을 생산하는 사업으로써"
+    },
+    {
+      "axis": "product",
+      "value": "원자력설비",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원자력설비 산업은 원자로, 증기발생기 등 원자력발전소 주요 설비를 생산 및 공급하는 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "가스터빈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이 중 핵심은 가스터빈 설계 및 생산이며, 대형 가스터빈은 두산에너빌리티를 포함하여 전 세계적으로 5개 업체만이 공급 가능한 고부가가치 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형 건설기계",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 소형 건설기계로는 Skid-Steer Loader, Compact Track Loader, Mini Excavator, Telescopic Handler, Backhoe Loader 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "산업차량",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 산업차량 시장은 1990년대 중반부터 OEM 수출에서 벗어나, 독자 모델 개발을 통해 생산된 자가상표 수출이 크게 확대되고 있는 추세로"
+    },
+    {
+      "axis": "product",
+      "value": "연료전지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연료전지는 수소와 산소의 전기화학 반응을 이용하여 연소과정 없이 전기를 생산하는 발전 장치로"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "동박적층판 산업은 휴대폰 및 테블릿PC 시장, 컴퓨터 등 디지털 가전 시장, 첨단 네트워크 시장 등의 성장이 지속됨에 따라 향후에도 꾸준한 성장이 예상됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력(주)",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "새울 3,4호기 주설비공사 | 한국수력원자력(주)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Copper Foil",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대표 원재료로는 Copper Foil, Glass Fabric, Epoxy Resin이 있으며, Copper Foil은 LME가격, Glass Fabric은 Yarn가격의 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사가 제품 생산을 위해 사용하고 있는 주요 원재료는 제품의 뼈대를 만드는데 사용되는 철, 알루미늄, 용접부품, 비철금속 등과 석유화학원료, 고무, 플라스틱 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "특히 당사는 해외 매출에 의한 외화 수금이 원재료 수입에 의한 외화 지출보다 많은 현금흐름 구조를 가지고 있으므로 환율하락에 따른 환차손이 환리스크 관리의 주 대상입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고, 해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전용 연료전지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "발전용 연료전지의 원천기술 개발 및 최초 상용화는 미국 기업들에 의해 주도되어 초기에는 관련 원재료 업체들이 북미 및 유럽에 편중되어 있었으나"
+    },
+    {
+      "axis": "product",
+      "value": "동박적층판",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 생산, 판매하고 있는 인쇄회로용 동박적층판(CCL)은 전자제품의 필수적 소재이기 때문에 전자산업의 성장과 궤를 같이 한다고 볼 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가스터빈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "복합발전 분야에서는 자체 개발한 대형 가스터빈을 2023년 7월 김포열병합에서 상업운전하며 기술력을 공식 입증했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형 건설기계",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Skid-Steer Loader, Compact Track Loader, Mini Excavator, Telehandler, Backhoe Loader 등 소형 건설기계, Compact Tractor, Mower등 농업/조경용 소형장비"
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "시스템 반도체 테스트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 웨이퍼 테스트 및 패키징 테스트 사업과 테스트가 완료된 웨이퍼를 재배열하고 분류하는 DP(Die Preparation)사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "발전설비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "두산에너빌리티는 아시아, 미주, 유럽 중심으로 성장한 발전설비 시장에서 국내 주요 발전소(석탄, 복합, 원자력)의 주기기 공급을 주도해 왔으며"
+    },
+    {
+      "axis": "application",
+      "value": "건설기계",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "건설기계산업은 전형적으로 경기상황에 따른 업황 변동성이 높은 산업으로서, 호황기에는 주택·토목·광산 등 전반적인 인프라 개발에 소요되는 고정자산 투자의 증가에 따라 시장규모가 확대되는 반면"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체 산업분야는 반도체 재료 및 반도체 전자회로소자의 제조·제작과 이들의 응용제품을 생산하는 산업이며 넓게는 반도체 소자 응용기기의 제작 및 이와 관련된 산업을 포함하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "팀코리아의 원전 해외수출 시 EPC 역무를 수행하는 한수원과 계약을 체결하는 것이 이러한 사례 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Samsung",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "25년에도 고부가제품 비중 확대 및 삼성 외 Global 업체에 대한 공급 다변화, 신사업에 대한 사업 영역 확장을 통한 성장을 추진하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전자BG는 동박(Copper Foil), 유리섬유(Glass Fabric), 에폭시 수지 등을 원료로 하여 동박적층판을 생산하는 업체로서"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "복합발전 분야에서는 자체 개발한 대형 가스터빈을 2023년 7월 김포열병합에서 상업운전하며 기술력을 공식 입증했습니다. 이후 수주가 본격화되어 국내에서 […] 및 해외에서 △미국 5기를 수주하여 총 12기의 가스터빈 공급 계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "창원공장 전체 유해화학물질 취급허가 품목은 황산, 가성소다, 2-푸란메탄올, 메틸알콜, 암모니아 5종으로 연간 475.4톤 취급 허가를 받고 안전하게 관리하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "반도체 산업은 경기민감도가 높아 업계의 사업변동성이 높은 특성을 지니고 있으며, 당사의 실적도 이와 같은 경기 변동에 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"CCL\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"전자BG는 전자제품의 필수 부품으로 사용되는 PCB(인쇄회로기판)의 핵심 소재인 CCL(동박적층판, Copper Clad Laminate)을 생산 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전설비\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"K-IFRS에 따른 당사의 주요 자회사가 영위하는 사업으로는 발전플랜트 EPC (Engineering, Procurement, Construction), 주요 발전 기자재 설계 및 제작과 서비스 사업(두산에너빌리티㈜)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건설기계\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"소형 건설기계, Portable Power 장비 생산 및 판매(두산밥캣㈜)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전용 연료전지\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"발전용 연료전지 기자재 공급 및 장기유지보수 서비스(두산퓨얼셀㈜)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템반도체 테스트\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"시스템반도체 테스트(㈜두산테스나)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"협동로봇 제조 및 솔루션 제공(두산로보틱스㈜) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"통신장비\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사 CCL은 반도체, 스마트폰, 통신장비 등 첨단 전자기기의 핵심소재로서 전자산업 기술진보의 기반이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동박\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"전자BG는 원재료 등 동박, G/F, 에폭시레진,기타 (Film, Chemical 등) 동박 적층판 제조 등 702,278\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에폭시레진\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"전자BG는 원재료 등 동박, G/F, 에폭시레진,기타 (Film, Chemical 등) 동박 적층판 제조 등 702,278\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철판류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두산에너빌리티㈜ 자재 및 외주비 철판류, 외주비 외 발전설비. 담수설비 제작 등 5,531,632\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두산로보틱스㈜ 국내 수원\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"㈜두산 전자BG 해외 중국, 베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"㈜두산 전자BG 해외 중국, 베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두산에너빌리티㈜ 해외 미국, 인도, 체코, 베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"체코\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두산에너빌리티㈜ 해외 미국, 인도, 체코, 베트남\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"- 발전/담수설비 제품은 단기적인 가격 변동이 크지 않으나, 환율, 유가, 원자재 가격 및 발주처에서 요구하는 발주 사양에 따라 가격이 변동합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"- 주단조품(금형공구강 포함)은 원자재 가격 변동 및 시장의 여건에 따라 다소 변동 폭이 있으며, 당기는 전기 대비 고단가 제품의 매출 비중이 증가하며 가격이 상승하였습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"동박적층판\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"인쇄회로용 동박적층판(Printed Circuit Board 원판) 산업은 모든 전자제품에 필수적으로 사용되는 전자부품을 생산하는 사업으로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자력설비\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원자력설비 산업은 원자로, 증기발생기 등 원자력발전소 주요 설비를 생산 및 공급하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이 중 핵심은 가스터빈 설계 및 생산이며, 대형 가스터빈은 두산에너빌리티를 포함하여 전 세계적으로 5개 업체만이 공급 가능한 고부가가치 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형 건설기계\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 소형 건설기계로는 Skid-Steer Loader, Compact Track Loader, Mini Excavator, Telescopic Handler, Backhoe Loader 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업차량\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 산업차량 시장은 1990년대 중반부터 OEM 수출에서 벗어나, 독자 모델 개발을 통해 생산된 자가상표 수출이 크게 확대되고 있는 추세로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연료전지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연료전지는 수소와 산소의 전기화학 반응을 이용하여 연소과정 없이 전기를 생산하는 발전 장치로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"동박적층판 산업은 휴대폰 및 테블릿PC 시장, 컴퓨터 등 디지털 가전 시장, 첨단 네트워크 시장 등의 성장이 지속됨에 따라 향후에도 꾸준한 성장이 예상됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력(주)\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"새울 3,4호기 주설비공사 | 한국수력원자력(주)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Copper Foil\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대표 원재료로는 Copper Foil, Glass Fabric, Epoxy Resin이 있으며, Copper Foil은 LME가격, Glass Fabric은 Yarn가격의 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사가 제품 생산을 위해 사용하고 있는 주요 원재료는 제품의 뼈대를 만드는데 사용되는 철, 알루미늄, 용접부품, 비철금속 등과 석유화학원료, 고무, 플라스틱 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"특히 당사는 해외 매출에 의한 외화 수금이 원재료 수입에 의한 외화 지출보다 많은 현금흐름 구조를 가지고 있으므로 환율하락에 따른 환차손이 환리스크 관리의 주 대상입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고, 해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전용 연료전지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"발전용 연료전지의 원천기술 개발 및 최초 상용화는 미국 기업들에 의해 주도되어 초기에는 관련 원재료 업체들이 북미 및 유럽에 편중되어 있었으나\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동박적층판\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 생산, 판매하고 있는 인쇄회로용 동박적층판(CCL)은 전자제품의 필수적 소재이기 때문에 전자산업의 성장과 궤를 같이 한다고 볼 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"복합발전 분야에서는 자체 개발한 대형 가스터빈을 2023년 7월 김포열병합에서 상업운전하며 기술력을 공식 입증했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형 건설기계\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Skid-Steer Loader, Compact Track Loader, Mini Excavator, Telehandler, Backhoe Loader 등 소형 건설기계, Compact Tractor, Mower등 농업/조경용 소형장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 반도체 테스트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 웨이퍼 테스트 및 패키징 테스트 사업과 테스트가 완료된 웨이퍼를 재배열하고 분류하는 DP(Die Preparation)사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전설비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"두산에너빌리티는 아시아, 미주, 유럽 중심으로 성장한 발전설비 시장에서 국내 주요 발전소(석탄, 복합, 원자력)의 주기기 공급을 주도해 왔으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설기계\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"건설기계산업은 전형적으로 경기상황에 따른 업황 변동성이 높은 산업으로서, 호황기에는 주택·토목·광산 등 전반적인 인프라 개발에 소요되는 고정자산 투자의 증가에 따라 시장규모가 확대되는 반면\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체 산업분야는 반도체 재료 및 반도체 전자회로소자의 제조·제작과 이들의 응용제품을 생산하는 산업이며 넓게는 반도체 소자 응용기기의 제작 및 이와 관련된 산업을 포함하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"팀코리아의 원전 해외수출 시 EPC 역무를 수행하는 한수원과 계약을 체결하는 것이 이러한 사례 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Samsung\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"25년에도 고부가제품 비중 확대 및 삼성 외 Global 업체에 대한 공급 다변화, 신사업에 대한 사업 영역 확장을 통한 성장을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동박\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전자BG는 동박(Copper Foil), 유리섬유(Glass Fabric), 에폭시 수지 등을 원료로 하여 동박적층판을 생산하는 업체로서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"복합발전 분야에서는 자체 개발한 대형 가스터빈을 2023년 7월 김포열병합에서 상업운전하며 기술력을 공식 입증했습니다. 이후 수주가 본격화되어 국내에서 […] 및 해외에서 △미국 5기를 수주하여 총 12기의 가스터빈 공급 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"창원공장 전체 유해화학물질 취급허가 품목은 황산, 가성소다, 2-푸란메탄올, 메틸알콜, 암모니아 5종으로 연간 475.4톤 취급 허가를 받고 안전하게 관리하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"반도체 산업은 경기민감도가 높아 업계의 사업변동성이 높은 특성을 지니고 있으며, 당사의 실적도 이와 같은 경기 변동에 영향을 받을 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000150_20260323000945.txt"
+}

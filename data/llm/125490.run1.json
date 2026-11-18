@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자율주행차 부품",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사의 매출액은 전장용 디스플레이 부품, 자율주행 부품 및 가전 부품 등 제품 판매가 주요 매출을 차지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "디스플레이 부품",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "당사의 매출액은 전장용 디스플레이 부품, 자율주행 부품 및 가전 부품 등 제품 판매가 주요 매출을 차지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "배터리 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 보유한 핵심기술을 바탕으로 자동차 부품의 주력제품인 디스플레이, 자율주행, 배터리 커버 등의 부품들을 제품화하여 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "로봇 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "최근에는 휴머노이드 AI로봇의 부품도 수주를 하여 로봇 분야로의 진출에도 성공하였고 현재 개발 단계에 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "마그네슘",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG전자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "메이저 완성차 업체인 현대자동차, 기아자동차, 벤츠, BMW, 아우디, 랜드로버, 르노, 볼보, 스텔란티스, 재규어, 폭스바겐, GM"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192 | 650톤 이상 | 1,840,360 | 5,697,711 | 1,816,742 | 5,606,410 | 1,816,742 | 5,170,176"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192 | 650톤 이상 | 1,840,360 | 5,697,711 | 1,816,742 | 5,606,410 | 1,816,742 | 5,170,176"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다이캐스팅 업체와 같이 원자재의 비중이 높은 산업은 원자재 가격 변동이 회사의 경영상 손익에 영향을 줄 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 국내 및 현지에서 원재료를 직접 조달하고 있으며 원재료는 국제 시세의 변동 및 환율 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 매출의 가장 높은 비중을 차지하고 있는 부품의 전방산업은 자동차산업으로서"
+    },
+    {
+      "axis": "application",
+      "value": "로봇",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이러한 제품 생산기술 역량을 바탕으로 모바일, 가전, 자동차, 로봇 등 다양한 산업군으로 사업을 확장해왔습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자율주행차 부품\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"당사의 매출액은 전장용 디스플레이 부품, 자율주행 부품 및 가전 부품 등 제품 판매가 주요 매출을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이 부품\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"당사의 매출액은 전장용 디스플레이 부품, 자율주행 부품 및 가전 부품 등 제품 판매가 주요 매출을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배터리 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사가 보유한 핵심기술을 바탕으로 자동차 부품의 주력제품인 디스플레이, 자율주행, 배터리 커버 등의 부품들을 제품화하여 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로봇 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"최근에는 휴머노이드 AI로봇의 부품도 수주를 하여 로봇 분야로의 진출에도 성공하였고 현재 개발 단계에 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"마그네슘\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아연\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG전자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"특히 LG전자, 현대모비스, 삼성전기 등 국내 대기업을 1차 고객사로 두고 유수의 글로벌 완성차 기업을 최종 고객사로 확보하며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"메이저 완성차 업체인 현대자동차, 기아자동차, 벤츠, BMW, 아우디, 랜드로버, 르노, 볼보, 스텔란티스, 재규어, 폭스바겐, GM\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192 | 650톤 이상 | 1,840,360 | 5,697,711 | 1,816,742 | 5,606,410 | 1,816,742 | 5,170,176\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192 | 650톤 이상 | 1,840,360 | 5,697,711 | 1,816,742 | 5,606,410 | 1,816,742 | 5,170,176\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"다이캐스팅 업체와 같이 원자재의 비중이 높은 산업은 원자재 가격 변동이 회사의 경영상 손익에 영향을 줄 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내 및 현지에서 원재료를 직접 조달하고 있으며 원재료는 국제 시세의 변동 및 환율 변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 매출의 가장 높은 비중을 차지하고 있는 부품의 전방산업은 자동차산업으로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"로봇\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이러한 제품 생산기술 역량을 바탕으로 모바일, 가전, 자동차, 로봇 등 다양한 산업군으로 사업을 확장해왔습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/125490_20260319000665.txt"
+}

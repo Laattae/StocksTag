@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아웃도어/스포츠 의류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기능 원단 등 생산 수출"
+    },
+    {
+      "axis": "product",
+      "value": "신발",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기종 원단 등 생산 수출"
+    },
+    {
+      "axis": "product",
+      "value": "Backpack",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기능 원단 등 생산 수출"
+    },
+    {
+      "axis": "product",
+      "value": "자전거",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "프리미엄 자전거 및 스포츠용품 유통업 등"
+    },
+    {
+      "axis": "application",
+      "value": "아웃도어",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "글로벌 시장의 소비 회복과 더불어 아웃도어 및 스포츠 활동에 대한 제품 수요가 증가하며 회복세를 보였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스포츠",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "글로벌 시장의 소비 회복과 더불어 아웃도어 및 스포츠 활동에 대한 제품 수요가 증가하며 회복세를 보였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "The North Face",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia 등"
+    },
+    {
+      "axis": "customer",
+      "value": "Lululemon",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia 등"
+    },
+    {
+      "axis": "customer",
+      "value": "Patagonia",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia 등"
+    },
+    {
+      "axis": "region",
+      "value": "방글라데시",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 주요 생산기지인 방글라데시 경우, 상대적으로 낮은 인건비와 유럽향 수출의류에 대한 GSP관세 면제 혜택으로"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "엘살바도르",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "에티오피아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 안정성 실현을 목표로"
+    },
+    {
+      "axis": "exposure",
+      "value": "인플레이션",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "2023년부터는 인플레이션 및 금리인상에 따른 경기침체 우려 등 불확실한 사업환경이 지속되었고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "2023년부터는 인플레이션 및 금리인상에 따른 경기침체 우려 등 불확실한 사업환경이 지속되었고"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"아웃도어/스포츠 의류\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기능 원단 등 생산 수출\"}, {\"axis\": \"product\", \"value\": \"신발\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기종 원단 등 생산 수출\"}, {\"axis\": \"product\", \"value\": \"Backpack\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"아웃도어/스포츠 의류, 신발, Backpack 제품 및 특수기능 원단 등 생산 수출\"}, {\"axis\": \"product\", \"value\": \"자전거\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"프리미엄 자전거 및 스포츠용품 유통업 등\"}, {\"axis\": \"application\", \"value\": \"아웃도어\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"글로벌 시장의 소비 회복과 더불어 아웃도어 및 스포츠 활동에 대한 제품 수요가 증가하며 회복세를 보였습니다.\"}, {\"axis\": \"application\", \"value\": \"스포츠\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"글로벌 시장의 소비 회복과 더불어 아웃도어 및 스포츠 활동에 대한 제품 수요가 증가하며 회복세를 보였습니다.\"}, {\"axis\": \"customer\", \"value\": \"The North Face\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"The North Face, Lululemon, Patagonia 등\"}, {\"axis\": \"customer\", \"value\": \"Lululemon\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"The North Face, Lululemon, Patagonia 등\"}, {\"axis\": \"customer\", \"value\": \"Patagonia\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"The North Face, Lululemon, Patagonia 등\"}, {\"axis\": \"region\", \"value\": \"방글라데시\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사 주요 생산기지인 방글라데시 경우, 상대적으로 낮은 인건비와 유럽향 수출의류에 대한 GSP관세 면제 혜택으로\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"엘살바도르\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"에티오피아\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"방글라데시, 베트남, 엘살바도르, 에티오피아 등 공장별로 다변화된 생산기지와 뛰어난 재무구조를 바탕으로 경쟁력을 유지하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"당사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 안정성 실현을 목표로\"}, {\"axis\": \"exposure\", \"value\": \"인플레이션\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"2023년부터는 인플레이션 및 금리인상에 따른 경기침체 우려 등 불확실한 사업환경이 지속되었고\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"2023년부터는 인플레이션 및 금리인상에 따른 경기침체 우려 등 불확실한 사업환경이 지속되었고\"}]}"
+  ],
+  "text_path": "data/reports/111770_20260319001279.txt"
+}

@@ -1,0 +1,1579 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 16,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "시스템 구축 및 운영/유지보수",
+      "weight": 0.77,
+      "direction": null,
+      "evidence": "시스템구축 및 운영/유지보수 | 수출 | 175,213 | 6.4% | 169,081 | 6.5% | 122,702 | 5.1% | - | 내수 | 2,125,490 | 77.4%"
+    },
+    {
+      "axis": "product",
+      "value": "하드웨어",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "하드웨어 | 수출 | 177,116 | 6.4% | 436,295 | 16.7% | 441,426 | 18.3% | - | 내수 | 268,834 | 9.8%"
+    },
+    {
+      "axis": "product",
+      "value": "IT컨설팅",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK주식회사는 국내 Top-Tier IT 서비스 회사로서 국내·외 고객에게 IT컨설팅, 시스템 구축, 아웃소싱 등의 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Cloud",
+      "weight": null,
+      "direction": null,
+      "evidence": "Cloud사업은 AWS, Microsoft Azure, Google Cloud Platform, 네이버클라우드 등 다양한 Cloud 환경을 지원하는 국내 최다 수준의 Multi Cloud 서비스를 제공 중입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전산장비 등",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "IT 서비스 | 재료비 | 전산장비 등 | 438,631 | 29.0% | 550,498 | 38.5% | 553,809 | 40.2%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "외주용역비",
+      "weight": 0.71,
+      "direction": null,
+      "evidence": "외주비 | 외주용역비 | 1,071,993 | 71.0% | 878,649 | 61.5% | 824,948 | 59.8%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "판교데이터센터 | 경기 | - | - | - | - | 임차"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "대덕데이터센터 | 대전 | 5,303 | 5,995 | 1,514 | 12,812 | -"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 유럽, 중국, 일본 법인을 통하여 Global 사업 확장을 위한 노력도 병행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 유럽, 중국, 일본 법인을 통하여 Global 사업 확장을 위한 노력도 병행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 당사는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 미래현금흐름이 변동될 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 둔화",
+      "weight": null,
+      "direction": -1,
+      "evidence": "일반적으로 IT서비스 사업의 경우, 경기 둔화 및 기업고객의 업황 악화 시 IT 투자가 축소됨에 따라 매출 감소 등의 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "중대형 배터리",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "중대형 배터리 | EV용 배터리 등 | \n11,660,255 | \n15.2%"
+    },
+    {
+      "axis": "product",
+      "value": "무연휘발유",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "무연휘발유 | 자동차용 | \n엔크린 | \n8,052,896 | \n20.4%"
+    },
+    {
+      "axis": "product",
+      "value": "경유",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "경유 | 자동차용 | \n파워디젤 | \n13,687,538 | \n34.7%"
+    },
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "에틸렌 | 합성수지,고무원료 | \n409,705 | \n3.16%"
+    },
+    {
+      "axis": "product",
+      "value": "파라자일렌",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "파라자일렌 | 합성원료, 용제 | \n3,180,558 | \n24.54%"
+    },
+    {
+      "axis": "application",
+      "value": "EV용",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "중대형 배터리 | EV용 배터리 등 | \n11,660,255 | \n15.2%"
+    },
+    {
+      "axis": "application",
+      "value": "자동차용",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "무연휘발유 | 자동차용 | \n엔크린 | \n8,052,896 | \n20.4%"
+    },
+    {
+      "axis": "application",
+      "value": "합성수지",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "에틸렌 | 합성수지,고무원료 | \n409,705 | \n3.16%"
+    },
+    {
+      "axis": "customer",
+      "value": "에코프로비엠",
+      "weight": null,
+      "direction": null,
+      "evidence": "전지용 | \n전지용 | \n3,034,180 | \n3,062,038 | \n8,209,725 | \n에코프로비엠, 엘앤에프,인지컨트롤스, 덕양산업 등"
+    },
+    {
+      "axis": "customer",
+      "value": "엘앤에프",
+      "weight": null,
+      "direction": null,
+      "evidence": "전지용 | \n전지용 | \n3,034,180 | \n3,062,038 | \n8,209,725 | \n에코프로비엠, 엘앤에프,인지컨트롤스, 덕양산업 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.64,
+      "direction": null,
+      "evidence": "원유 | 원유정제 | \n23,548,041 | \n64.0% | \nKuwait Petroleum Corporation 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "납사 | 에틸렌제조 등 | \nSK에너지(계열회사) 등 | \n4,097,993 | \n44.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "양극재",
+      "weight": null,
+      "direction": null,
+      "evidence": "양극재 | \n 30,717 | \n 36,624 | \n 54,311"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": null,
+      "direction": null,
+      "evidence": "LNG | \nTangguh PSC 등 | \n없음 | \n경쟁 | \n안정"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": null,
+      "direction": null,
+      "evidence": "생산공장 | \n울산광역시 남구"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "본사 | \n인천광역시 서구"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "기술연구원 | \n대전광역시 유성구"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내생산법인 | \n경기도 파주시"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "도시가스 원료비의 경우 1998년 8월부터 유가 및 환율의 변동폭을 반영하여 3개월 단위로 연동제를 실시하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": null,
+      "direction": -1,
+      "evidence": "글로벌 경제성장 둔화에 따른 수요 부진 우려 등으로 유가는 전기 대비 하락했습니다"
+    },
+    {
+      "axis": "product",
+      "value": "기유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제품 등 | 기유 | 내수 | 833,540 | 1,094,908 | 1,324,555"
+    },
+    {
+      "axis": "product",
+      "value": "윤활유",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "윤활유 | 내수 | 192,289 | 198,621 | 189,751"
+    },
+    {
+      "axis": "product",
+      "value": "무연 휘발유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "석유 | 제품 | 무연 휘발유 | 수 출 | 4,177,262 | 5,014,857 | 4,524,286"
+    },
+    {
+      "axis": "product",
+      "value": "경유",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "경유 | 수 출 | 7,803,884 | 8,159,332 | 8,141,594"
+    },
+    {
+      "axis": "product",
+      "value": "분리막",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "LiBS | 제품 등 | 분리막 | 수출 | 73,646 | 44,575 | 69,754"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기존 주요 고객의 신규 전기자동차 프로그램 수주를 위하여 지속적으로 협업하고 포트폴리오 다변화를 위하여 신규 고객의 Needs 파악 및 맞춤형 Solution 제공"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "데이터센터 액침냉각 사업에 진출하기 위하여, GREEN REVOLUTION COOLING, INC.(\"GRC\")에 대한 지분 투자 계약(주3)"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "IT기기에 채용되는 중소형 배터리 시장은 스마트폰/노트북/태블릿 PC 및 전동공구 외에 가전제품의 무선화, 드론 사용률 증가 등으로 꾸준한 성장이 예상되고 있는 시장입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차그룹",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "폭스바겐",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포드 모터 컴퍼니",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국석유공사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제15기 기준 당사의 주요 매출처는 SK에너지, Tricon Energy Ltd, 에스케이피아이씨글로벌(주), 태광산업(주), MITSUI AND CO., LTD, 등 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 연결실체는 해외영업활동 등으로 인한 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원유 및 석유제품가격",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "원유 및 석유제품가격 변동위험은 주요 원재료인 원유와 생산물인 석유제품의 국제시장 가격변동에 따라 연결실체의 손익 및 현금흐름이 변동할 위험입니다."
+    },
+    {
+      "axis": "product",
+      "value": "석유제품",
+      "weight": 0.76,
+      "direction": null,
+      "evidence": "에너지/화학 사업\n매출액\n61,314,030\n76%"
+    },
+    {
+      "axis": "product",
+      "value": "리튬전지",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "배터리/소재 사업\n매출액\n7,062,217\n9%"
+    },
+    {
+      "axis": "product",
+      "value": "LNG",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "E&S 사업 주1)\n매출액\n11,863,100\n15%"
+    },
+    {
+      "axis": "product",
+      "value": "파라자일렌",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고부가가치 화학 제품인 PX(파라자일렌)의 생산을 위한 1 조 6 천억원 규모의 설비 투자를 통해, 연간 130 만톤의 PX 생산 능력을 갖추었으며"
+    },
+    {
+      "axis": "product",
+      "value": "기유",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 주로 생산하는 Group III 기유는 전 세계적으로 아시아, 중동, 유럽 각지에서 생산되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중대형 배터리사업은 전기자동차 및 ESS(Energy Storage System)에 사용되는 대용량 리튬-이온 배터리를 개발하여 생산ㆍ판매하는 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Energy Saving 분야에서는 전기자동차의 성능 및 안정성을 개선하는 냉매/냉동기유 개발과 배터리 및 데이터센터의 열관리 기술에 집중하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "선박용 윤활유의 주요 수요자는 선박회사이며, 대형 엔진에 주입되는 선박용 엔진오일과 선박 내 기계장치의 유지를 위해 사용되는 윤활유로 구분됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대차ㆍ기아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "메르세데스-벤츠",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "폭스바겐",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "포드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "석유사업은 기본적으로 원유수입→제품생산→수송/저유→제품판매의 Value Chain으로 구성되어 있어 석유제품 원가 중 원유가 차지하는 비중이 가장 높으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "나프타",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 기초유화사업은 울산 석유화학단지 내에 위치하고 있어 주요 원재료인 나프타를 안정적으로 공급받고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "미전환 잔사유",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전세계에 산재한 윤활유 제조공장에 안정적으로 기유를 공급하기 위해 당사는 기유 원료인 미전환 잔사유(UCO)를 외부 확보할 수 있는 모델을 유일하게 구축하고"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "하루 84만배럴 원유 정제능력을 보유한 울산 Complex에서 생산된 다양한 석유 제품을 국내/외에 수출하고 있습니다"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 종속회사인 파주에너지서비스㈜는 경기 파주에 1,820MW 규모의 LNG복합화력발전소를 건설, 관리 및 운영사업을 위해 2011년 6월 설립되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "무형자산을 공동소유함에 따라 당사의 중국 자회사로부터 수취하는 로열티를SK이노베이션과 SK아이이테크놀로지間 공헌도에 따라 배분 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SK Battery America, Inc.는 100% 자회사로 미국 사업 확대를 위한 배터리 생산법인 입니다."
+    },
+    {
+      "axis": "region",
+      "value": "헝가리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SK On Hungary Kft.는 100% 자회사로 유럽 사업 확대를 위한 배터리 생산법인 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2025년 누적 당사는 유가 하락에 따른 석유제품 하락 등의 영향으로 연결 재무제표 기준 39조 2,881억원의 매출과 1,717억원의 영업적자를 기록하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원유를 전량 수입에 의존하고 있는 특성상 중동 산유국 등의 원유수출 정책 및 환율의 영향에 민감합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전방산업 경기",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "기초유화 제품은 다양한 산업의 원료로 사용되어 국내 및 주요 수출시장의 경제 성장에 따라 일반적으로 안정적인 성장세를 보여 왔으며, 전방산업의 신/증설, 세계 경제 상황에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "이동전화",
+      "weight": 0.73,
+      "direction": null,
+      "evidence": "이동전화,무선데이터, 정보통신사업 등"
+    },
+    {
+      "axis": "product",
+      "value": "초고속인터넷",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "전화,초고속인터넷, 데이터,통신망 임대 서비스 등"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유선전화,인터넷방송"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": null,
+      "direction": null,
+      "evidence": "가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK 텔레콤 본사 | 서울특별시 중구 을지로 65"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": null,
+      "direction": null,
+      "evidence": "SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "환율변동위험 | 통화스왑계약"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": null,
+      "evidence": "이자율변동위험 | 이자율스왑계약"
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며"
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 휘발성 메모리인 DRAM과 비휘발성 메모리인 NAND Flash를 주력 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "특히, DRAM은 추론 기능 중심으로 AI 서비스의 고도화가 이루어지며 HBM 수요 뿐만 아니라 일반 DRAM의 수요도 크게 증가하였고, NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 부문 | 원재료 |  WAFER |  Fab |  1,024,285 |  7% |  - |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Substrate",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Substrate | Package | 418,856 | 3% | - |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "PCB | Module | 300,698 | 2% | - |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "해외무보증사채(액면금액 USD300,000) |  환율변동위험 |  통화스왑 |"
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 부문 | 제품 외 | DRAM, NAND Flash 등 | 97,146,675"
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "반도체 부문 | 제품 외 | DRAM, NAND Flash 등 | 97,146,675"
+    },
+    {
+      "axis": "product",
+      "value": "휴대폰 및 ICT 디바이스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "정보통신 | 휴대폰 및 ICT 디바이스 유통 | 68.2% |"
+    },
+    {
+      "axis": "product",
+      "value": "환경가전 렌탈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "SK인텔릭스(구 : SK매직) | 환경가전 렌탈 | 12.5% |"
+    },
+    {
+      "axis": "product",
+      "value": "철강,화학상품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "트레이딩 | 화학, 철강 제품/상품의 국내외 무역(Trading) 등 | 8.9% |"
+    },
+    {
+      "axis": "application",
+      "value": "모바일 및 컴퓨팅",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "DRAM의 경우 세계 유수의 모바일 및 컴퓨팅 관련 전자 업체에 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "IT 컨슈머 제품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "NAND Flash는 IT 컨슈머 제품 전체에 걸쳐 그 수요처가 다양하기 때문에"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR, JPY, CNY 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체의 이자율 위험은 차입금에서 비롯됩니다. 연결실체의 이자부 자산은 대부분 고정이자율로 확정되어 있어"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화성캠퍼스 (주1) | 경기도 화성시 봉담읍 효행로 250 | 자가"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "본사 | 서울특별시 종로구 청계천로 85, 18층 (관철동, 삼일빌딩) | 임차"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "POSK (Pinghu) Steel Processing Center Co., Ltd. | 중국"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외 판매법인은 미국, 중국, 싱가포르, 대만, 홍콩 등의 국가에 소재하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 해외 영업활동을 수행함에 따라 기능통화인 원화와 다른 외화 수입, 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이자율 위험은 미래 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    },
+    {
+      "axis": "product",
+      "value": "정수기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "렌탈산업의 대표 품목인 정수기는 물에 대한 인식이 변화함에 따라 생활 필수품으로 인식되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "공기청정기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "공기청정기 시장은 황사 및 미세먼지, 대기오염, 실내오염 등의 환경 문제로 인해관심이 증가되었으며"
+    },
+    {
+      "axis": "product",
+      "value": "비데",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "비데시장은 위생에 대한 관심이 증가하며 대중화 단계에 접어들면서 지속적으로 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이동통신",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "'25년 12월 말 기준 국내 이동통신 총 가입자 수는 약 9,337만 명으로 현재 보급률은 약 181%이며"
+    },
+    {
+      "axis": "product",
+      "value": "중고폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 중고폰 시장 규모는 거래량 및 거래 금액 측면에서 빠르게 성장하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국투자유한공사 산하에는 상가/오피스를 임대하는 심양오피스법인 및 석유제품을 보관/유통하는 단동자원법인이 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SK NETWORKS AMERICAS LLC는 미국 실리콘밸리에 2020년 5월 설립한 투자 법인입니다."
+    },
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "SKC는 리튬이온 이차전지 소재인 전지박(Copper Foil) 등 제품을 생산, 판매하는 이차전지 소재사업"
+    },
+    {
+      "axis": "product",
+      "value": "프로필렌옥사이드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화학사업부문은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체테스트소켓",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "반도체소재사업부분은 반도체 IC와 IT 디바이스등을 테스트하는 반도체테스트소켓 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "전지박 판가는 주요 원재료인 구리값에 가공비를 더하여 결정되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "프로필렌",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "프로필렌 | PO 원재료 | 191,561 | SK지오센트릭 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "벤젠",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "벤젠 | 389,495"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다. 당사는 내부적으로 원화환율 변동에 대한 환위험을 정기적으로 측정하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체테스트소켓",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사의 주력사업은 반도체 IC와 IT 디바이스 등을 테스트하는 반도체 테스트 소켓이며 반도체 테스트 장비에 사용되는 인터페이스 유닛, 커넥터와 각종 테스트 솔루션을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "글라스기판",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "특히 AI, HBM 반도체 테스트 시장을 겨냥한 테스트 플랫폼 장비 소재 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에스케이하이닉스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "SK하이닉스와 수행 중인 Captive 사업에 대해 설계, 조달, 시공을 포함한 Project Life Cycle전반에 걸친 리스크 분석, 대응으로 고객 가치 제고에 기여하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "레미콘 | 건설용자재 | 184,322 | 20.48% | 한일산업, 삼표산업 | 해당사항 없음 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철 근 | 건설용자재 | 147,832 | 16.42% | 현대제철, 동국제강 | 해당사항 없음 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "특히 당사는 장기간에 걸친 사업에서 현금흐름이 발생하므로 환율변동에 따른 수익잠식위험이크기 때문에 이를 최소화하는 것이 환리스크 관리의 주 목적입니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체 모듈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 모듈 산업은 반도체 Chip 제조업체의 전방산업 영역에 속하며, 관련 기업들은 중견/중소 B2B 채널과 Brand 기반의 B2C 채널을 활용하여 사업을 운영하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SSD",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "AI 기술 확장과 데이터 센터의 증가로 데이터 센터의 주기적인 IT 장비 교체 및 업그레이드로 인해 IT 자산 처분과 재활용 서비스에 대한 수요가 급격히 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전 세계적인 AI 사업 확대는 고성능 컴퓨팅(HPC) 기술 수요를 증가시키며, 이로 인해 HBM(High Bandwidth Memory)과 D-ram 같은 메모리칩의 생산 및 공급 부족 현상이 발생하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "산업플랜트는 전기차 및 반도체 등 주요 산업과 밀접하게 연계되어 있고, 관련 소재, 부품, 장비 등 Value Chain 전 영역으로의 확장성에 따른 성장이 전망됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK에너지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK실트론",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐 PCB",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "대규모 데이터 센터를 운영하거나 IT Assets을 생산/판매하는 글로벌 IT 기업, 정보통신 및 전자제품 제조업체 등으로부터 교체 대상 서버, 노트북, 데스크탑 PC, 태블릿 PC, 폐 전자제품, 폐 PCB 등을 매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐 전자제품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "대규모 데이터 센터를 운영하거나 IT Assets을 생산/판매하는 글로벌 IT 기업, 정보통신 및 전자제품 제조업체 등으로부터 교체 대상 서버, 노트북, 데스크탑 PC, 태블릿 PC, 폐 전자제품, 폐 PCB 등을 매입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "'25년말 현재 22개국에서 47개 사업장을 운영 중으로 미국, 영국, 독일, 일본 등 주요 선진국을 포함한 전세계 글로벌 네트워크를 구축하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여 글로벌 시장에서 본원적 경쟁력을 강화하고 있"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "산업플랜트는 국내 뿐 아니라 북미, 유럽, 동남아에서 배터리와 바이오 관련 프로젝트를 수행 중이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "회사는 원재료 수급 상황, 환율 변동 등의 시장 변수로 인하여 영향을 받을 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "회사는 원재료 수급 상황, 환율 변동 등의 시장 변수로 인하여 영향을 받을 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SSD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업가스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 산업용 가스를 제조 및 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "프리커서",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 반도체 산업, 태양전지 산업을 포함한 정보기술 산업용 고순도 프리커서 및 기타 제품의 개발, 제조, 유통 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "식각가스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 반도체 제조에 사용되는 특수가스(CH3F) 제조 및 그외 특수가스 상품판매 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "포토레지스트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 리소그래피 공정에 필수적인 포토레지스트(EUV, ArF, KrF, i-Line)와 반사방지막(BARC), 하드마스크(SOC)는 공정 성능과 수율을 좌우하는 핵심 소재"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "AI 기술 확장과 데이터 센터의 증가로 데이터 센터의 주기적인 IT 장비 교체 및 업그레이드로 인해 IT 자산 처분과 재활용 서비스에 대한 수요가 급격히 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 시장으로는 삼성전자, SK하이닉스 등 Global Top 2 Memory Maker가 위치 하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK에너지",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK실트론",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Raw CO2",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "액체탄산가스 및 고체탄산가스 등의 제품을 생산하기 위해서 Raw CO2를 매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "TDMAZ",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전구체 생산 원료는 TDMAZ, CpEMA 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Polymer",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제조하는 Photo 소재 및 첨단 패키징 소재의 주요 원재료는 국내/외 Polymer 및 PAG 공급업체를 통해 구매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SK하이닉스 공급을 위해 청주에 Off-Site M15를 완공하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "대만",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 한국 세종에 본사 및 생산, 연구시설을 보유하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사의 주요 원재료는 수입에 의존하고 있으므로 환율에 따라 가격이 수시로 변동하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 전방 산업 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "'25년에는 AI 열풍에 따른 HBM, 범용 DDR-Ram, e-SSD 등 반도체 산업의 호황기에 맞춰 산업가스 수요와 신규 Project 건설이 증가하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "세노바메이트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 자체개발한 주력 제품 뇌전증 치료 신약 ‘세노바메이트’는 2019년 11월 FDA NDA 승인을 받고 미국시장에 2020년 5월 제품명 XCOPRI®로 출시되었으며"
+    },
+    {
+      "axis": "product",
+      "value": "솔리암페톨",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다"
+    },
+    {
+      "axis": "application",
+      "value": "뇌전증",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "중추신경계 분야 중 특히 뇌전증 분야의 혁신 신약 개발에 집중해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "수면장애",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "Angelini Pharma",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "세노바메이트의 유럽 시장 진출을 위해 파트너사인 Arvelle社(현재Angelini社에 인수됨)와 기술수출계약을 하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Ignis Therapeutics",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 11월 중 Ignis Therapeutics社와 세노바메이트 등 6개의 신약에 대해 중국 등 지역(중국,홍콩,마카오,대만)에 상업화 권리를 부여하는 기술수출 계약을 체결하였고"
+    },
+    {
+      "axis": "customer",
+      "value": "Axsome Therapeutics",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2022년 3월 28일, Axsome社가 Jazz社의 권리를 인수함"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 한국 동탄에 본사 및 연구시설과 평택에 생산시설, 일본 이치하라에 연구시설을 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당기 및 전기 중 각 외화에 대한 기능통화의 환율이 10% 변동시 환율변동이 법인세차감전순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세노바메이트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 뇌전증 치료 신약 세노바메이트(제품명 XCOPRI®)는 2020년 5월 미국시장에 판매를 개시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "솔리암페톨",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 개발해 기술수출한 솔리암페톨은 기면증 및 폐쇄성 수면무호흡증(Obstructive Sleep Apnea)으로 인한 주간 과다 졸림증을 개선하는 치료제"
+    },
+    {
+      "axis": "product",
+      "value": "카리스바메이트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "임상개발이 진행중인 카리스바메이트는 전임상 동물 실험을 통해 경쟁 약물 대비 레녹스-가스토 증후군(Lennox-Gastaut Syndrome)에서 보여지는 다양한 뇌전증 타입에서 광범위한 효과의 가능성을 보였으며"
+    },
+    {
+      "axis": "product",
+      "value": "원료/완제 의약품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 한국, 유럽, 미국에 생산 설비를 둔 글로벌 CMO(Contract Manufacturing Organization) 사업자로, 원료/완제 의약품을 위탁 생산 및 제품의 상업 생산을 위한 공정 개발을 병행하여"
+    },
+    {
+      "axis": "application",
+      "value": "뇌전증",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 뇌전증 치료 신약 세노바메이트(제품명 XCOPRI®)는 2020년 5월 미국시장에 판매를 개시하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "수면장애",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 세노바메이트 및 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터, 전임상, 임상, 신약 신청에 이르는 전 주기적 신약개발 경험을 바탕으로 CNS 및 항암분야에서 활발한 초기 연구개발 활동과 임상개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항암",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 세노바메이트 및 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터, 전임상, 임상, 신약 신청에 이르는 전 주기적 신약개발 경험을 바탕으로 CNS 및 항암분야에서 활발한 초기 연구개발 활동과 임상개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Ignis Therapeutics",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Cenobamate, Solriamfetol, Carisbamate, SKL13865, SKL20540, SKL24741의 중국, 홍콩, 마카오, 대만에서의 개발 및 상업화권리를 Ignis Therapeutics에 기술수출하였음."
+    },
+    {
+      "axis": "customer",
+      "value": "Hikma MENA FZE",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Hikma MENA FZE | MENA지역 17개국 | 2023년 08월 17일 | 첫 제품 상업화 후 20년 | 당사 승인 제품에 대한 MENA지역 개발/상업화 권리에 대한 옵션 제공"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주력 시장인 글로벌, 특히 미국 시장으로서 국내 약가정책이나 기타 규제의 당사 영업이나 손익 등에 대한 영향은 제한적일 것으로 예상됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유럽시장은 Arvelle社(현재 Angelini社에 인수)에의 세노바메이트 기술수출을 통해 유럽 판권을 이전하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 해외에서의 영업활동으로 인해, 기능 통화인 원화 외에도 달러, 유로, 파운드 등 다양한 외화 표시 화폐성 자산 및 화폐성부채들을 보유 중이며 이에 따라 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "약가정책",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내 시장의 경우 정부가 약가를 직접적으로 통제하고 있어 정부의 약가정책이 제약산업 내 개별 기업의 매출 및 영업 수익성에 직접적인 영향을 미치고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "의약품 위탁생산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "그 중 의약품 생산 수탁을 통해 매출을 발생시키는 기업이 CMO입니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘 웨이퍼",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 제품으로는 실리콘 웨이퍼(Silicon Wafer; 이하 Si Wafer)와 실리콘카바이드 웨이퍼(Silicon Carbide Wafer; 이하 SiC Wafer)가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기차 충전기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 전기차 충전기 제조/판매를 주요 사업으로 영위하고 있으며 당사의 전기차충전기는 충전속도에 따라 완속충전기와 (초)급속충전기로 구분할 수 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SiC Wafer는 전력반도체, 특히, 에너지 효율이 중요한 전기차 등에 사용되는 차세대 반도체 소재로"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주력 제품인 Si Wafer는 반도체의 핵심 원재료로, PC, 스마트폰, 데이터센터,전력반도체 등 다양한 영역에서 활용되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 메모리 반도체 선두 업체인 삼성전자, SK하이닉스, Micron Technology 등과비메모리 반도체 제조업체인 Intel, TSMC 등 글로벌 Major 반도체 업체들을 주요 고객으로 확보하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 메모리 반도체 선두 업체인 삼성전자, SK하이닉스, Micron Technology 등과비메모리 반도체 제조업체인 Intel, TSMC 등 글로벌 Major 반도체 업체들을 주요 고객으로 확보하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "다결정 실리콘",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 제조하는 반도체 Si Wafer의 원재료는 Polysilicon이며, 안정적인 원재료 확보를 위해 다수의 매입처와 협력 및 거래를 지속하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "탄화규소 파우더",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한편, SiC Wafer의 원재료는 SiC Powder이며, 안정적인 원재료 확보를 위해 매입처와 협력 및 거래를 지속하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 1공장 : 경상북도 구미시 수출대로 435"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 이천공장 : 경기도 이천시 대장로 141"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- SK Siltron CSS, LLC. : 1311 Straits Dr, Bay City, MI 48706, USA"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당기 및 전기 중 각 외화에 대한 원화환율이 10% 변동시 환율변동이 연결당기순이익에 미치는 영향(파생상품으로 인한 효과 고려)은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기차 충전기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전기차 충전기 산업은 전기차(EV) 보급 확대에 필수적인 인프라 구축을 담당하는 핵심 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "조경수",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(조경 사업) 당사가 구입하는 주요 자재는 조경수로서, 주요 거래업체는 대부분 민간 재배업자입니다."
+    },
+    {
+      "axis": "product",
+      "value": "자작나무 수액",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(화장품 사업) 화장품의 원재료는 당사에서 보유하고 있는 자작나무의 수액으로 직접 채취하여 사용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "리조트 서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주식회사 휘찬(이하 \"회사\")은 1996년에 설립되어 콘도 운영업, 미술관운영업, 박물관 관련 소매업 등을 주요 영업으로 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전기차 충전기기는 전력공급설비로부터 전원을 공급받아 전기차 배터리에 공급하여 충전하는 장치로 전방시장은 전기차(EV) 시장입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2011년 국내 최초로 일본 ChAdeMO 인증을 시작으로 닛산, 현대/기아차, BMW, Ford, 폭스바겐 등의 전기차에 각각 국내최초로 매칭테스트를 완료해 충전기 납품을 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국토지주택공사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국토지주택공사경기지역본부 | 화성동탄2지구 경부직선화 상부공원 조경공사"
+    },
+    {
+      "axis": "raw_material",
+      "value": "조경수",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(조경 사업) 당사가 구입하는 주요 자재는 조경수로서, 주요 거래업체는 대부분 민간 재배업자입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "자작나무 수액",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(화장품 사업) 화장품의 원재료는 당사에서 보유하고 있는 자작나무의 수액으로 직접 채취하여 사용하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충청북도 충주시 동량면, 산척면 일대"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충청남도 천안시 동남구 광덕면 일대"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "강원도 횡성군"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 구축 및 운영/유지보수\",\n      \"weight\": 0.77,\n      \"direction\": null,\n      \"evidence\": \"시스템구축 및 운영/유지보수 | 수출 | 175,213 | 6.4% | 169,081 | 6.5% | 122,702 | 5.1% | - | 내수 | 2,125,490 | 77.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"하드웨어\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"하드웨어 | 수출 | 177,116 | 6.4% | 436,295 | 16.7% | 441,426 | 18.3% | - | 내수 | 268,834 | 9.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT컨설팅\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK주식회사는 국내 Top-Tier IT 서비스 회사로서 국내·외 고객에게 IT컨설팅, 시스템 구축, 아웃소싱 등의 서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Cloud\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"Cloud사업은 AWS, Microsoft Azure, Google Cloud Platform, 네이버클라우드 등 다양한 Cloud 환경을 지원하는 국내 최다 수준의 Multi Cloud 서비스를 제공 중입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전산장비 등\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"IT 서비스 | 재료비 | 전산장비 등 | 438,631 | 29.0% | 550,498 | 38.5% | 553,809 | 40.2%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"외주용역비\",\n      \"weight\": 0.71,\n      \"direction\": null,\n      \"evidence\": \"외주비 | 외주용역비 | 1,071,993 | 71.0% | 878,649 | 61.5% | 824,948 | 59.8%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판교데이터센터 | 경기 | - | - | - | - | 임차\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"대덕데이터센터 | 대전 | 5,303 | 5,995 | 1,514 | 12,812 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 유럽, 중국, 일본 법인을 통하여 Global 사업 확장을 위한 노력도 병행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 유럽, 중국, 일본 법인을 통하여 Global 사업 확장을 위한 노력도 병행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 당사는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 미래현금흐름이 변동될 위험입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 둔화\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"일반적으로 IT서비스 사업의 경우, 경기 둔화 및 기업고객의 업황 악화 시 IT 투자가 축소됨에 따라 매출 감소 등의 영향을 받습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"중대형 배터리\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"중대형 배터리 | EV용 배터리 등 | \\n11,660,255 | \\n15.2%\"}, {\"axis\": \"product\", \"value\": \"무연휘발유\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"무연휘발유 | 자동차용 | \\n엔크린 | \\n8,052,896 | \\n20.4%\"}, {\"axis\": \"product\", \"value\": \"경유\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"경유 | 자동차용 | \\n파워디젤 | \\n13,687,538 | \\n34.7%\"}, {\"axis\": \"product\", \"value\": \"에틸렌\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"에틸렌 | 합성수지,고무원료 | \\n409,705 | \\n3.16%\"}, {\"axis\": \"product\", \"value\": \"파라자일렌\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"파라자일렌 | 합성원료, 용제 | \\n3,180,558 | \\n24.54%\"}, {\"axis\": \"application\", \"value\": \"EV용\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"중대형 배터리 | EV용 배터리 등 | \\n11,660,255 | \\n15.2%\"}, {\"axis\": \"application\", \"value\": \"자동차용\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"무연휘발유 | 자동차용 | \\n엔크린 | \\n8,052,896 | \\n20.4%\"}, {\"axis\": \"application\", \"value\": \"합성수지\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"에틸렌 | 합성수지,고무원료 | \\n409,705 | \\n3.16%\"}, {\"axis\": \"customer\", \"value\": \"에코프로비엠\", \"weight\": null, \"direction\": null, \"evidence\": \"전지용 | \\n전지용 | \\n3,034,180 | \\n3,062,038 | \\n8,209,725 | \\n에코프로비엠, 엘앤에프,인지컨트롤스, 덕양산업 등\"}, {\"axis\": \"customer\", \"value\": \"엘앤에프\", \"weight\": null, \"direction\": null, \"evidence\": \"전지용 | \\n전지용 | \\n3,034,180 | \\n3,062,038 | \\n8,209,725 | \\n에코프로비엠, 엘앤에프,인지컨트롤스, 덕양산업 등\"}, {\"axis\": \"raw_material\", \"value\": \"원유\", \"weight\": 0.64, \"direction\": null, \"evidence\": \"원유 | 원유정제 | \\n23,548,041 | \\n64.0% | \\nKuwait Petroleum Corporation 등\"}, {\"axis\": \"raw_material\", \"value\": \"납사\", \"weight\": 0.45, \"direction\": null, \"evidence\": \"납사 | 에틸렌제조 등 | \\nSK에너지(계열회사) 등 | \\n4,097,993 | \\n44.8%\"}, {\"axis\": \"raw_material\", \"value\": \"양극재\", \"weight\": null, \"direction\": null, \"evidence\": \"양극재 | \\n 30,717 | \\n 36,624 | \\n 54,311\"}, {\"axis\": \"raw_material\", \"value\": \"LNG\", \"weight\": null, \"direction\": null, \"evidence\": \"LNG | \\nTangguh PSC 등 | \\n없음 | \\n경쟁 | \\n안정\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": null, \"direction\": null, \"evidence\": \"생산공장 | \\n울산광역시 남구\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": null, \"direction\": null, \"evidence\": \"본사 | \\n인천광역시 서구\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": null, \"direction\": null, \"evidence\": \"기술연구원 | \\n대전광역시 유성구\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"국내생산법인 | \\n경기도 파주시\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": 1, \"evidence\": \"도시가스 원료비의 경우 1998년 8월부터 유가 및 환율의 변동폭을 반영하여 3개월 단위로 연동제를 실시하여\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": null, \"direction\": -1, \"evidence\": \"글로벌 경제성장 둔화에 따른 수요 부진 우려 등으로 유가는 전기 대비 하락했습니다\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제품 등 | 기유 | 내수 | 833,540 | 1,094,908 | 1,324,555\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"윤활유\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"윤활유 | 내수 | 192,289 | 198,621 | 189,751\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무연 휘발유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"석유 | 제품 | 무연 휘발유 | 수 출 | 4,177,262 | 5,014,857 | 4,524,286\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"경유\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"경유 | 수 출 | 7,803,884 | 8,159,332 | 8,141,594\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"분리막\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"LiBS | 제품 등 | 분리막 | 수출 | 73,646 | 44,575 | 69,754\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기존 주요 고객의 신규 전기자동차 프로그램 수주를 위하여 지속적으로 협업하고 포트폴리오 다변화를 위하여 신규 고객의 Needs 파악 및 맞춤형 Solution 제공\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"데이터센터 액침냉각 사업에 진출하기 위하여, GREEN REVOLUTION COOLING, INC.(\\\"GRC\\\")에 대한 지분 투자 계약(주3)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"IT기기에 채용되는 중소형 배터리 시장은 스마트폰/노트북/태블릿 PC 및 전동공구 외에 가전제품의 무선화, 드론 사용률 증가 등으로 꾸준한 성장이 예상되고 있는 시장입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차그룹\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"폭스바겐\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포드 모터 컴퍼니\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사 배터리사업 주요 고객은 현대자동차그룹, 독일 메르세데스-벤츠 그룹, 폭스바겐, 그리고 포드 모터 컴퍼니 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국석유공사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제15기 기준 당사의 주요 매출처는 SK에너지, Tricon Energy Ltd, 에스케이피아이씨글로벌(주), 태광산업(주), MITSUI AND CO., LTD, 등 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다. 연결실체는 해외영업활동 등으로 인한 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원유 및 석유제품가격\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"원유 및 석유제품가격 변동위험은 주요 원재료인 원유와 생산물인 석유제품의 국제시장 가격변동에 따라 연결실체의 손익 및 현금흐름이 변동할 위험입니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"석유제품\", \"weight\": 0.76, \"direction\": null, \"evidence\": \"에너지/화학 사업\\n매출액\\n61,314,030\\n76%\"}, {\"axis\": \"product\", \"value\": \"리튬전지\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"배터리/소재 사업\\n매출액\\n7,062,217\\n9%\"}, {\"axis\": \"product\", \"value\": \"LNG\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"E&S 사업 주1)\\n매출액\\n11,863,100\\n15%\"}, {\"axis\": \"product\", \"value\": \"파라자일렌\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고부가가치 화학 제품인 PX(파라자일렌)의 생산을 위한 1 조 6 천억원 규모의 설비 투자를 통해, 연간 130 만톤의 PX 생산 능력을 갖추었으며\"}, {\"axis\": \"product\", \"value\": \"기유\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사가 주로 생산하는 Group III 기유는 전 세계적으로 아시아, 중동, 유럽 각지에서 생산되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"중대형 배터리사업은 전기자동차 및 ESS(Energy Storage System)에 사용되는 대용량 리튬-이온 배터리를 개발하여 생산ㆍ판매하는 사업입니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"Energy Saving 분야에서는 전기자동차의 성능 및 안정성을 개선하는 냉매/냉동기유 개발과 배터리 및 데이터센터의 열관리 기술에 집중하고 있으며\"}, {\"axis\": \"application\", \"value\": \"선박\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"선박용 윤활유의 주요 수요자는 선박회사이며, 대형 엔진에 주입되는 선박용 엔진오일과 선박 내 기계장치의 유지를 위해 사용되는 윤활유로 구분됩니다.\"}, {\"axis\": \"customer\", \"value\": \"현대차ㆍ기아\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"메르세데스-벤츠\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"폭스바겐\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"포드\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고유의 고 에너지밀도와 고 출력기술을 바탕으로 현대차ㆍ기아 및 메르세데스-벤츠, 폭스바겐, 포드를 포함한 글로벌 자동차사에 배터리를 공급하고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"원유\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"석유사업은 기본적으로 원유수입→제품생산→수송/저유→제품판매의 Value Chain으로 구성되어 있어 석유제품 원가 중 원유가 차지하는 비중이 가장 높으며\"}, {\"axis\": \"raw_material\", \"value\": \"나프타\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 기초유화사업은 울산 석유화학단지 내에 위치하고 있어 주요 원재료인 나프타를 안정적으로 공급받고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"미전환 잔사유\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"전세계에 산재한 윤활유 제조공장에 안정적으로 기유를 공급하기 위해 당사는 기유 원료인 미전환 잔사유(UCO)를 외부 확보할 수 있는 모델을 유일하게 구축하고\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"하루 84만배럴 원유 정제능력을 보유한 울산 Complex에서 생산된 다양한 석유 제품을 국내/외에 수출하고 있습니다\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 종속회사인 파주에너지서비스㈜는 경기 파주에 1,820MW 규모의 LNG복합화력발전소를 건설, 관리 및 운영사업을 위해 2011년 6월 설립되었습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"무형자산을 공동소유함에 따라 당사의 중국 자회사로부터 수취하는 로열티를SK이노베이션과 SK아이이테크놀로지間 공헌도에 따라 배분 |\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"SK Battery America, Inc.는 100% 자회사로 미국 사업 확대를 위한 배터리 생산법인 입니다.\"}, {\"axis\": \"region\", \"value\": \"헝가리\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"SK On Hungary Kft.는 100% 자회사로 유럽 사업 확대를 위한 배터리 생산법인 입니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"2025년 누적 당사는 유가 하락에 따른 석유제품 하락 등의 영향으로 연결 재무제표 기준 39조 2,881억원의 매출과 1,717억원의 영업적자를 기록하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"원유를 전량 수입에 의존하고 있는 특성상 중동 산유국 등의 원유수출 정책 및 환율의 영향에 민감합니다.\"}, {\"axis\": \"exposure\", \"value\": \"전방산업 경기\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"기초유화 제품은 다양한 산업의 원료로 사용되어 국내 및 주요 수출시장의 경제 성장에 따라 일반적으로 안정적인 성장세를 보여 왔으며, 전방산업의 신/증설, 세계 경제 상황에 큰 영향을 받습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"이동전화\",\n      \"weight\": 0.73,\n      \"direction\": null,\n      \"evidence\": \"이동전화,무선데이터, 정보통신사업 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초고속인터넷\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"전화,초고속인터넷, 데이터,통신망 임대 서비스 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IPTV\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유선전화,인터넷방송\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 본사 | 서울특별시 중구 을지로 65\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"환율변동위험 | 통화스왑계약\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이자율변동위험 | 이자율스왑계약\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 휘발성 메모리인 DRAM과 비휘발성 메모리인 NAND Flash를 주력 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"특히, DRAM은 추론 기능 중심으로 AI 서비스의 고도화가 이루어지며 HBM 수요 뿐만 아니라 일반 DRAM의 수요도 크게 증가하였고, NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 부문 | 원재료 |  WAFER |  Fab |  1,024,285 |  7% |  - |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Substrate\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Substrate | Package | 418,856 | 3% | - |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"PCB | Module | 300,698 | 2% | - |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"해외무보증사채(액면금액 USD300,000) |  환율변동위험 |  통화스왑 |\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 부문 | 제품 외 | DRAM, NAND Flash 등 | 97,146,675\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"반도체 부문 | 제품 외 | DRAM, NAND Flash 등 | 97,146,675\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"휴대폰 및 ICT 디바이스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"정보통신 | 휴대폰 및 ICT 디바이스 유통 | 68.2% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"환경가전 렌탈\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"SK인텔릭스(구 : SK매직) | 환경가전 렌탈 | 12.5% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강,화학상품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"트레이딩 | 화학, 철강 제품/상품의 국내외 무역(Trading) 등 | 8.9% |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모바일 및 컴퓨팅\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"DRAM의 경우 세계 유수의 모바일 및 컴퓨팅 관련 전자 업체에 제품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"IT 컨슈머 제품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"NAND Flash는 IT 컨슈머 제품 전체에 걸쳐 그 수요처가 다양하기 때문에\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR, JPY, CNY 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체의 이자율 위험은 차입금에서 비롯됩니다. 연결실체의 이자부 자산은 대부분 고정이자율로 확정되어 있어\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"화성캠퍼스 (주1) | 경기도 화성시 봉담읍 효행로 250 | 자가\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"본사 | 서울특별시 종로구 청계천로 85, 18층 (관철동, 삼일빌딩) | 임차\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"POSK (Pinghu) Steel Processing Center Co., Ltd. | 중국\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외 판매법인은 미국, 중국, 싱가포르, 대만, 홍콩 등의 국가에 소재하고 있으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 해외 영업활동을 수행함에 따라 기능통화인 원화와 다른 외화 수입, 지출이 발생하고 있습니다. 이로 인해 환율변동위험에 노출되는\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"이자율 위험은 미래 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"}, {\"axis\": \"product\", \"value\": \"정수기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"렌탈산업의 대표 품목인 정수기는 물에 대한 인식이 변화함에 따라 생활 필수품으로 인식되고 있으며\"}, {\"axis\": \"product\", \"value\": \"공기청정기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"공기청정기 시장은 황사 및 미세먼지, 대기오염, 실내오염 등의 환경 문제로 인해관심이 증가되었으며\"}, {\"axis\": \"product\", \"value\": \"비데\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"비데시장은 위생에 대한 관심이 증가하며 대중화 단계에 접어들면서 지속적으로 수요가 증가하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"이동통신\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"'25년 12월 말 기준 국내 이동통신 총 가입자 수는 약 9,337만 명으로 현재 보급률은 약 181%이며\"}, {\"axis\": \"product\", \"value\": \"중고폰\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"국내 중고폰 시장 규모는 거래량 및 거래 금액 측면에서 빠르게 성장하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"중국투자유한공사 산하에는 상가/오피스를 임대하는 심양오피스법인 및 석유제품을 보관/유통하는 단동자원법인이 있으며\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"SK NETWORKS AMERICAS LLC는 미국 실리콘밸리에 2020년 5월 설립한 투자 법인입니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전지박\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"SKC는 리튬이온 이차전지 소재인 전지박(Copper Foil) 등 제품을 생산, 판매하는 이차전지 소재사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"프로필렌옥사이드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"화학사업부문은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체테스트소켓\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"반도체소재사업부분은 반도체 IC와 IT 디바이스등을 테스트하는 반도체테스트소켓 등을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"전지박 판가는 주요 원재료인 구리값에 가공비를 더하여 결정되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"프로필렌\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"프로필렌 | PO 원재료 | 191,561 | SK지오센트릭 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"벤젠\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"벤젠 | 389,495\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 판매 및 구매 등에 따른 환위험에 노출되어 있습니다. 당사는 내부적으로 원화환율 변동에 대한 환위험을 정기적으로 측정하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전지박\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지박은 이차전지에서 음극집전체로 작용하는 핵심 소재로서 이차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 기타 중소형 IT기기 산업에 적용되는 제품 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"화학사업은 프로필렌옥사이드(PO), 프로필렌글리콜(PG) 등을 생산하여 국내외 관련산업에 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체테스트소켓\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력사업은 반도체 IC와 IT 디바이스 등을 테스트하는 반도체 테스트 소켓이며 반도체 테스트 장비에 사용되는 인터페이스 유닛, 커넥터와 각종 테스트 솔루션을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글라스기판\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전지박 시장은 크게 사용 용도에 따라 IT기기 및 전동 공구 등에 적용되는 소형 전지 시장과 EV 및 ESS등에 적용되는 중대형 전지 시장으로 분류됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"특히 AI, HBM 반도체 테스트 시장을 겨냥한 테스트 플랫폼 장비 소재 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Absolics Inc.는 세계 최초로 고성능 컴퓨팅용 글라스기판(Glass Substrate) 양산을 목표로 하고 있으며, 차세대 반도체 패키징 시장에서 AI 및 데이터센터용 반도체의 성능을 극대화하는 핵심 소재 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에스케이하이닉스\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"SK하이닉스와 수행 중인 Captive 사업에 대해 설계, 조달, 시공을 포함한 Project Life Cycle전반에 걸친 리스크 분석, 대응으로 고객 가치 제고에 기여하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"레미콘 | 건설용자재 | 184,322 | 20.48% | 한일산업, 삼표산업 | 해당사항 없음 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철 근 | 건설용자재 | 147,832 | 16.42% | 현대제철, 동국제강 | 해당사항 없음 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"특히 당사는 장기간에 걸친 사업에서 현금흐름이 발생하므로 환율변동에 따른 수익잠식위험이크기 때문에 이를 최소화하는 것이 환리스크 관리의 주 목적입니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 모듈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 모듈 산업은 반도체 Chip 제조업체의 전방산업 영역에 속하며, 관련 기업들은 중견/중소 B2B 채널과 Brand 기반의 B2C 채널을 활용하여 사업을 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SSD\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"AI 기술 확장과 데이터 센터의 증가로 데이터 센터의 주기적인 IT 장비 교체 및 업그레이드로 인해 IT 자산 처분과 재활용 서비스에 대한 수요가 급격히 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전 세계적인 AI 사업 확대는 고성능 컴퓨팅(HPC) 기술 수요를 증가시키며, 이로 인해 HBM(High Bandwidth Memory)과 D-ram 같은 메모리칩의 생산 및 공급 부족 현상이 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"산업플랜트는 전기차 및 반도체 등 주요 산업과 밀접하게 연계되어 있고, 관련 소재, 부품, 장비 등 Value Chain 전 영역으로의 확장성에 따른 성장이 전망됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK에너지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK실트론\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며, 장기적인 고정거래 관계를 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"폐 PCB\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"대규모 데이터 센터를 운영하거나 IT Assets을 생산/판매하는 글로벌 IT 기업, 정보통신 및 전자제품 제조업체 등으로부터 교체 대상 서버, 노트북, 데스크탑 PC, 태블릿 PC, 폐 전자제품, 폐 PCB 등을 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"폐 전자제품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"대규모 데이터 센터를 운영하거나 IT Assets을 생산/판매하는 글로벌 IT 기업, 정보통신 및 전자제품 제조업체 등으로부터 교체 대상 서버, 노트북, 데스크탑 PC, 태블릿 PC, 폐 전자제품, 폐 PCB 등을 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"'25년말 현재 22개국에서 47개 사업장을 운영 중으로 미국, 영국, 독일, 일본 등 주요 선진국을 포함한 전세계 글로벌 네트워크를 구축하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여 글로벌 시장에서 본원적 경쟁력을 강화하고 있\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"산업플랜트는 국내 뿐 아니라 북미, 유럽, 동남아에서 배터리와 바이오 관련 프로젝트를 수행 중이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"회사는 원재료 수급 상황, 환율 변동 등의 시장 변수로 인하여 영향을 받을 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"회사는 원재료 수급 상황, 환율 변동 등의 시장 변수로 인하여 영향을 받을 수 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"DRAM\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"NAND Flash\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"SSD\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"회사는 글로벌 반도체 메모리 전문 기업으로, DRAM, NAND Flash, SSD 등 다양한 메모리 및 스토리지 제품을 제조·유통하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"산업가스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 산업용 가스를 제조 및 판매하는 사업을 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"프리커서\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 반도체 산업, 태양전지 산업을 포함한 정보기술 산업용 고순도 프리커서 및 기타 제품의 개발, 제조, 유통 및 판매를 주요 사업으로 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"식각가스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사는 반도체 제조에 사용되는 특수가스(CH3F) 제조 및 그외 특수가스 상품판매 사업을 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"포토레지스트\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"반도체 리소그래피 공정에 필수적인 포토레지스트(EUV, ArF, KrF, i-Line)와 반사방지막(BARC), 하드마스크(SOC)는 공정 성능과 수율을 좌우하는 핵심 소재\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"AI 기술 확장과 데이터 센터의 증가로 데이터 센터의 주기적인 IT 장비 교체 및 업그레이드로 인해 IT 자산 처분과 재활용 서비스에 대한 수요가 급격히 증가하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.9, \"direction\": 1, \"evidence\": \"당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"2차전지\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"당사가 제조판매하는 산업가스는 반도체, 정유, 석유화학, 조선, 디스플레이, 2차전지, 의료산업 등 대부분의 산업에 사용되고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"국내 시장으로는 삼성전자, SK하이닉스 등 Global Top 2 Memory Maker가 위치 하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"SK에너지\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"SK실트론\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 경우 SK하이닉스, SK에너지, SK실트론 등 안정적인 대규모 수요처를 확보하고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"Raw CO2\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"액체탄산가스 및 고체탄산가스 등의 제품을 생산하기 위해서 Raw CO2를 매입하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"TDMAZ\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전구체 생산 원료는 TDMAZ, CpEMA 등이 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Polymer\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사가 제조하는 Photo 소재 및 첨단 패키징 소재의 주요 원재료는 국내/외 Polymer 및 PAG 공급업체를 통해 구매하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"홍콩\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"SK하이닉스 공급을 위해 청주에 Off-Site M15를 완공하였으며\"}, {\"axis\": \"region\", \"value\": \"대만\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"본사는 홍콩에 위치해 있으며, 중국, 한국, 대만, 싱가포르 등 주요 거점을 기반으로 하여\"}, {\"axis\": \"region\", \"value\": \"세종\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 한국 세종에 본사 및 생산, 연구시설을 보유하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"당사의 주요 원재료는 수입에 의존하고 있으므로 환율에 따라 가격이 수시로 변동하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"반도체 전방 산업 수요\", \"weight\": 0.9, \"direction\": 1, \"evidence\": \"'25년에는 AI 열풍에 따른 HBM, 범용 DDR-Ram, e-SSD 등 반도체 산업의 호황기에 맞춰 산업가스 수요와 신규 Project 건설이 증가하였으며\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"세노바메이트\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사가 자체개발한 주력 제품 뇌전증 치료 신약 ‘세노바메이트’는 2019년 11월 FDA NDA 승인을 받고 미국시장에 2020년 5월 제품명 XCOPRI®로 출시되었으며\"}, {\"axis\": \"product\", \"value\": \"솔리암페톨\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다\"}, {\"axis\": \"application\", \"value\": \"뇌전증\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"중추신경계 분야 중 특히 뇌전증 분야의 혁신 신약 개발에 집중해 왔습니다.\"}, {\"axis\": \"application\", \"value\": \"수면장애\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사가 기술 수출한 수면장애 신약인 솔리암페톨은 미국 FDA로부터 승인 받아 출시되었습니다\"}, {\"axis\": \"customer\", \"value\": \"Angelini Pharma\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"세노바메이트의 유럽 시장 진출을 위해 파트너사인 Arvelle社(현재Angelini社에 인수됨)와 기술수출계약을 하였으며\"}, {\"axis\": \"customer\", \"value\": \"Ignis Therapeutics\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 11월 중 Ignis Therapeutics社와 세노바메이트 등 6개의 신약에 대해 중국 등 지역(중국,홍콩,마카오,대만)에 상업화 권리를 부여하는 기술수출 계약을 체결하였고\"}, {\"axis\": \"customer\", \"value\": \"Axsome Therapeutics\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"2022년 3월 28일, Axsome社가 Jazz社의 권리를 인수함\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 한국 동탄에 본사 및 연구시설과 평택에 생산시설, 일본 이치하라에 연구시설을 보유하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당기 및 전기 중 각 외화에 대한 기능통화의 환율이 10% 변동시 환율변동이 법인세차감전순이익에 미치는 영향은 다음과 같습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세노바메이트\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 뇌전증 치료 신약 세노바메이트(제품명 XCOPRI®)는 2020년 5월 미국시장에 판매를 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"솔리암페톨\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사가 개발해 기술수출한 솔리암페톨은 기면증 및 폐쇄성 수면무호흡증(Obstructive Sleep Apnea)으로 인한 주간 과다 졸림증을 개선하는 치료제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카리스바메이트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"임상개발이 진행중인 카리스바메이트는 전임상 동물 실험을 통해 경쟁 약물 대비 레녹스-가스토 증후군(Lennox-Gastaut Syndrome)에서 보여지는 다양한 뇌전증 타입에서 광범위한 효과의 가능성을 보였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원료/완제 의약품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국, 유럽, 미국에 생산 설비를 둔 글로벌 CMO(Contract Manufacturing Organization) 사업자로, 원료/완제 의약품을 위탁 생산 및 제품의 상업 생산을 위한 공정 개발을 병행하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"뇌전증\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 뇌전증 치료 신약 세노바메이트(제품명 XCOPRI®)는 2020년 5월 미국시장에 판매를 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"수면장애\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 세노바메이트 및 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터, 전임상, 임상, 신약 신청에 이르는 전 주기적 신약개발 경험을 바탕으로 CNS 및 항암분야에서 활발한 초기 연구개발 활동과 임상개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항암\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 세노바메이트 및 솔리암페톨을 통하여 신약개발 초기 연구개발 단계부터, 전임상, 임상, 신약 신청에 이르는 전 주기적 신약개발 경험을 바탕으로 CNS 및 항암분야에서 활발한 초기 연구개발 활동과 임상개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Ignis Therapeutics\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Cenobamate, Solriamfetol, Carisbamate, SKL13865, SKL20540, SKL24741의 중국, 홍콩, 마카오, 대만에서의 개발 및 상업화권리를 Ignis Therapeutics에 기술수출하였음.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Hikma MENA FZE\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"Hikma MENA FZE | MENA지역 17개국 | 2023년 08월 17일 | 첫 제품 상업화 후 20년 | 당사 승인 제품에 대한 MENA지역 개발/상업화 권리에 대한 옵션 제공\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력 시장인 글로벌, 특히 미국 시장으로서 국내 약가정책이나 기타 규제의 당사 영업이나 손익 등에 대한 영향은 제한적일 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유럽시장은 Arvelle社(현재 Angelini社에 인수)에의 세노바메이트 기술수출을 통해 유럽 판권을 이전하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 해외에서의 영업활동으로 인해, 기능 통화인 원화 외에도 달러, 유로, 파운드 등 다양한 외화 표시 화폐성 자산 및 화폐성부채들을 보유 중이며 이에 따라 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"약가정책\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내 시장의 경우 정부가 약가를 직접적으로 통제하고 있어 정부의 약가정책이 제약산업 내 개별 기업의 매출 및 영업 수익성에 직접적인 영향을 미치고 있으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"의약품 위탁생산\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"그 중 의약품 생산 수탁을 통해 매출을 발생시키는 기업이 CMO입니다.\"}, {\"axis\": \"product\", \"value\": \"실리콘 웨이퍼\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"주요 제품으로는 실리콘 웨이퍼(Silicon Wafer; 이하 Si Wafer)와 실리콘카바이드 웨이퍼(Silicon Carbide Wafer; 이하 SiC Wafer)가 있습니다.\"}, {\"axis\": \"product\", \"value\": \"전기차 충전기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 전기차 충전기 제조/판매를 주요 사업으로 영위하고 있으며 당사의 전기차충전기는 충전속도에 따라 완속충전기와 (초)급속충전기로 구분할 수 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"SiC Wafer는 전력반도체, 특히, 에너지 효율이 중요한 전기차 등에 사용되는 차세대 반도체 소재로\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 주력 제품인 Si Wafer는 반도체의 핵심 원재료로, PC, 스마트폰, 데이터센터,전력반도체 등 다양한 영역에서 활용되고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 메모리 반도체 선두 업체인 삼성전자, SK하이닉스, Micron Technology 등과비메모리 반도체 제조업체인 Intel, TSMC 등 글로벌 Major 반도체 업체들을 주요 고객으로 확보하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 메모리 반도체 선두 업체인 삼성전자, SK하이닉스, Micron Technology 등과비메모리 반도체 제조업체인 Intel, TSMC 등 글로벌 Major 반도체 업체들을 주요 고객으로 확보하고 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"다결정 실리콘\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사가 제조하는 반도체 Si Wafer의 원재료는 Polysilicon이며, 안정적인 원재료 확보를 위해 다수의 매입처와 협력 및 거래를 지속하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"탄화규소 파우더\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"한편, SiC Wafer의 원재료는 SiC Powder이며, 안정적인 원재료 확보를 위해 매입처와 협력 및 거래를 지속하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"- 1공장 : 경상북도 구미시 수출대로 435\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"- 이천공장 : 경기도 이천시 대장로 141\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"- SK Siltron CSS, LLC. : 1311 Straits Dr, Bay City, MI 48706, USA\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"당기 및 전기 중 각 외화에 대한 원화환율이 10% 변동시 환율변동이 연결당기순이익에 미치는 영향(파생상품으로 인한 효과 고려)은 다음과 같습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기차 충전기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전기차 충전기 산업은 전기차(EV) 보급 확대에 필수적인 인프라 구축을 담당하는 핵심 산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"조경수\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"(조경 사업) 당사가 구입하는 주요 자재는 조경수로서, 주요 거래업체는 대부분 민간 재배업자입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자작나무 수액\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(화장품 사업) 화장품의 원재료는 당사에서 보유하고 있는 자작나무의 수액으로 직접 채취하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리조트 서비스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주식회사 휘찬(이하 \\\"회사\\\")은 1996년에 설립되어 콘도 운영업, 미술관운영업, 박물관 관련 소매업 등을 주요 영업으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전기차 충전기기는 전력공급설비로부터 전원을 공급받아 전기차 배터리에 공급하여 충전하는 장치로 전방시장은 전기차(EV) 시장입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2011년 국내 최초로 일본 ChAdeMO 인증을 시작으로 닛산, 현대/기아차, BMW, Ford, 폭스바겐 등의 전기차에 각각 국내최초로 매칭테스트를 완료해 충전기 납품을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국토지주택공사\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한국토지주택공사경기지역본부 | 화성동탄2지구 경부직선화 상부공원 조경공사\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"조경수\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"(조경 사업) 당사가 구입하는 주요 자재는 조경수로서, 주요 거래업체는 대부분 민간 재배업자입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"자작나무 수액\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(화장품 사업) 화장품의 원재료는 당사에서 보유하고 있는 자작나무의 수액으로 직접 채취하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충청북도 충주시 동량면, 산척면 일대\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충청남도 천안시 동남구 광덕면 일대\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성군\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/034730_20260318001157.txt"
+}

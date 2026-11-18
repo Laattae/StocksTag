@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "블랭크마스크",
+      "weight": 0.96,
+      "direction": null,
+      "evidence": "반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "투자활동",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "신기술사업금융업 | 투자활동 | 7,077,013 | 9.3%"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 임대 및 컨설팅",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "바이오 및 과학기술서비스업 | 부동산 임대 및 컨설팅 | 1,846,021 | 0.8%"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주력 제품인 블랭크 마스크(Blank Mask)의 수요는 전방 산업(반도체, 디스플레이, 포토마스크 등)과 밀접한 상관관계를 가지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Quartz",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "블랭크마스크는 반도체 웨이퍼에 회로를 새기기 위해 사용되는 포토마스크(Photo Mask)의 원재료로, 석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "크롬",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "감광액",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "다만, 수출품의 경우 환율 변동에 따라 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"블랭크마스크\",\n      \"weight\": 0.96,\n      \"direction\": null,\n      \"evidence\": \"반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"투자활동\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"신기술사업금융업 | 투자활동 | 7,077,013 | 9.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 임대 및 컨설팅\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"바이오 및 과학기술서비스업 | 부동산 임대 및 컨설팅 | 1,846,021 | 0.8%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력 제품인 블랭크 마스크(Blank Mask)의 수요는 전방 산업(반도체, 디스플레이, 포토마스크 등)과 밀접한 상관관계를 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Quartz\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"블랭크마스크는 반도체 웨이퍼에 회로를 새기기 위해 사용되는 포토마스크(Photo Mask)의 원재료로, 석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"크롬\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"감광액\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"다만, 수출품의 경우 환율 변동에 따라 영향을 받을 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/101490_20260316000487.txt"
+}

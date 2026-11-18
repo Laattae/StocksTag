@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "식자재",
+      "weight": 0.56,
+      "direction": null,
+      "evidence": "식품사업부문 | 식자재, 수입음료 등 | 299,641,127 | 56.2"
+    },
+    {
+      "axis": "product",
+      "value": "포장재",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6"
+    },
+    {
+      "axis": "product",
+      "value": "다류",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6"
+    },
+    {
+      "axis": "product",
+      "value": "커피제품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6"
+    },
+    {
+      "axis": "product",
+      "value": "크리머",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "구매수출부문 | 크리머 수출, 원부자재 구매대행 | 104,402,677 | 19.6"
+    },
+    {
+      "axis": "raw_material",
+      "value": "야자유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "치즈류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PET필름",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 호일",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LDPE 수지",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "식품 산업은 국민 생활과 직결된 필수소비재 산업으로서 내수 경기변동, 계절 등 환경 변화에 비교적 비탄력적인 수요를 보이지만, 원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "식품 산업은 국민 생활과 직결된 필수소비재 산업으로서 내수 경기변동, 계절 등 환경 변화에 비교적 비탄력적인 수요를 보이지만, 원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"식자재\",\n      \"weight\": 0.56,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 식자재, 수입음료 등 | 299,641,127 | 56.2\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"포장재\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"다류\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피제품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"크리머\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"구매수출부문 | 크리머 수출, 원부자재 구매대행 | 104,402,677 | 19.6\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"야자유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"치즈류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PET필름\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 호일\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LDPE 수지\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"식품 산업은 국민 생활과 직결된 필수소비재 산업으로서 내수 경기변동, 계절 등 환경 변화에 비교적 비탄력적인 수요를 보이지만, 원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"식품 산업은 국민 생활과 직결된 필수소비재 산업으로서 내수 경기변동, 계절 등 환경 변화에 비교적 비탄력적인 수요를 보이지만, 원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/026960_20260312000207.txt"
+}

@@ -1,0 +1,115 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "직각좌표 로봇",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "수평다관절 로봇",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "수직다관절 로봇",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "AGV",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "모빌리티 로봇 | AGV(Automated Guided Vehicle),AMR(Autonomous Mobile Robot) |"
+    },
+    {
+      "axis": "product",
+      "value": "AMR",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "모빌리티 로봇 | AGV(Automated Guided Vehicle),AMR(Autonomous Mobile Robot) |"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함"
+    },
+    {
+      "axis": "application",
+      "value": "2차 전지",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함"
+    },
+    {
+      "axis": "raw_material",
+      "value": "볼스크류",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "볼스크류 | 가공품의 원재료로 사용되는 비철금속(알루미늄 등) 및 철의 국제 원자재 가격 인상으로 제조원가 비중에 영향을 끼침 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LM GUIDE",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "볼스크류 | 가공품의 원재료로 사용되는 비철금속(알루미늄 등) 및 철의 국제 원자재 가격 인상으로 제조원가 비중에 영향을 끼침"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MOTOR",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "MOTOR | 모터 생산에 필요한 원소재(구리, 알루미늄 등) 가격인상 및 반도체 부품 수급이 원활하지 않으나, 자사는 Scale Merit 을 통해 타사 대비 수급 우위에 있음."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "공장 | 토지 | 본사/수원 | 8,214 | - | - | - | - | 8,214 | -"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당기와 전기 중 외화에 대한 원화 환율 10% 변동 시 화폐성 외화자산 및 외화부채가 법인세비용차감전 순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전방산업 설비투자",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "당사의 각 사업부분별 취급하는 제품은 모두 산업경기의 흐름에 영향을 받는 품목입니다. 전방 산업의 설비투자의 증감에 따라 매출에 영향을 받으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"직각좌표 로봇\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수평다관절 로봇\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수직다관절 로봇\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"제조용 로봇 | 직각좌표 로봇, 리니어 로봇,수평다관절 로봇(SCARA),수직다관절 로봇, 컨트롤러 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AGV\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"모빌리티 로봇 | AGV(Automated Guided Vehicle),AMR(Autonomous Mobile Robot) |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AMR\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"모빌리티 로봇 | AGV(Automated Guided Vehicle),AMR(Autonomous Mobile Robot) |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차 전지\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"당사가 영위하는 주 사업은 제조시설의 투자를 대상으로 하는 수주사업으로 전방산업의 투자 환경에 따라 매출액의 영향을 받으나, 디스플레이, 자동차 산업 외 2차 전지 및 반도체 산업용 제품의 매출 비중을 확대함\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"볼스크류\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"볼스크류 | 가공품의 원재료로 사용되는 비철금속(알루미늄 등) 및 철의 국제 원자재 가격 인상으로 제조원가 비중에 영향을 끼침 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LM GUIDE\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"볼스크류 | 가공품의 원재료로 사용되는 비철금속(알루미늄 등) 및 철의 국제 원자재 가격 인상으로 제조원가 비중에 영향을 끼침\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MOTOR\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"MOTOR | 모터 생산에 필요한 원소재(구리, 알루미늄 등) 가격인상 및 반도체 부품 수급이 원활하지 않으나, 자사는 Scale Merit 을 통해 타사 대비 수급 우위에 있음.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"공장 | 토지 | 본사/수원 | 8,214 | - | - | - | - | 8,214 | -\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당기와 전기 중 외화에 대한 원화 환율 10% 변동 시 화폐성 외화자산 및 외화부채가 법인세비용차감전 순이익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전방산업 설비투자\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"당사의 각 사업부분별 취급하는 제품은 모두 산업경기의 흐름에 영향을 받는 품목입니다. 전방 산업의 설비투자의 증감에 따라 매출에 영향을 받으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/090360_20260312000793.txt"
+}

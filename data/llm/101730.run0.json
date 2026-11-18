@@ -1,0 +1,59 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사와 종속회사의 주된 사업은 모바일 및 PC온라인게임의 개발과 공급을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC온라인 게임",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사와 종속회사의 주된 사업은 모바일 및 PC온라인게임의 개발과 공급을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "IP 라이선스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 PC온라인게임, 모바일게임 등의 개발, 퍼블리싱, IP 라이선스 사업을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "플랫폼 수수료 정책",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "게임 산업은 흥행 성과에 따른 수익 변동성이 존재하고, 플랫폼 사업자의 수수료 정책 및 관련 법령 변화 등이 사업 운영에 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "관련 법령 변화",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "게임 산업은 흥행 성과에 따른 수익 변동성이 존재하고, 플랫폼 사업자의 수수료 정책 및 관련 법령 변화 등이 사업 운영에 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "소재지: 성남시"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사와 종속회사의 주된 사업은 모바일 및 PC온라인게임의 개발과 공급을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC온라인 게임\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사와 종속회사의 주된 사업은 모바일 및 PC온라인게임의 개발과 공급을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IP 라이선스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 PC온라인게임, 모바일게임 등의 개발, 퍼블리싱, IP 라이선스 사업을 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"플랫폼 수수료 정책\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"게임 산업은 흥행 성과에 따른 수익 변동성이 존재하고, 플랫폼 사업자의 수수료 정책 및 관련 법령 변화 등이 사업 운영에 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"관련 법령 변화\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"게임 산업은 흥행 성과에 따른 수익 변동성이 존재하고, 플랫폼 사업자의 수수료 정책 및 관련 법령 변화 등이 사업 운영에 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"소재지: 성남시\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/101730_20260316001649.txt"
+}

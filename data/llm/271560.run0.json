@@ -1,0 +1,187 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스낵",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "스 낵 | \" | 포카칩, 오징어땅콩 등 | 401,998 | 31.5% |"
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "비스킷 | 기호식품 | 닥터유 바, 예감 등 | 344,600 | 27.0% |"
+    },
+    {
+      "axis": "product",
+      "value": "파이",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "파 이 | \" | 초코파이, 카스타드 등 | 255,895 | 20.0% |"
+    },
+    {
+      "axis": "product",
+      "value": "젤리",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "기 타 | \" | 마이구미, 자일리톨껌 등 | 108,150 | 8.5% |"
+    },
+    {
+      "axis": "product",
+      "value": "제주용암수",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "기 타 | \" | 오!그래놀라, 제주용암수 등 | 55,801 | 4.4% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유지류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "유 지 류 | 국 내 | 2,388 | 13.9% | 2,163 | 12.0% | 2,401 | 13.3% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "서류",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "서 류 | 국 내 | 969 | 16.75% | 988 | 16.2% | 995 | 14.2% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "코코아류 | 국 내 | 8,895 | 10.2% | 7,065 | 9.5% | 5,905 | 6.3% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유제품류",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "유제품류 | 국 내 | 7,299 | 7.6% | 7,397 | 6.3% | 7,516 | 6.2% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "당류",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당 류 | 국 내 | 1,151 | 7.1% | 1,164 | 7.9% | 1,144 | 7.8% |"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)오리온 | 익산2공장 | 전북 익산시 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "청주4공장 | 충북 청주시 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "안산공장 | 경기 안산시 |"
+    },
+    {
+      "axis": "region",
+      "value": "러시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Orion International Euro Co., Ltd. | 트베르공장 | 러시아 트베르시 |"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Orion Food Vina Co., Ltd | 미폭공장 | 베트남 호치민시 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "다만, 최근 카카오, 유지류 등 관련 주요 원재료 가격이 글로벌 기후 악화 및 공급난으로 인해 급등하고 있는 바 원가상승 요인으로 작용하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물 가격 및 환율 변동에 의하여 가격에 영향을 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "파이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "초콜릿",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "껌",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "스낵",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "스낵류는 하절기에 판매가 증가하는 현상을 보입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "국제 곡물",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 사업은 최근 소비자 기호의 다변화와 해외제과업체 및 P.B 스낵과의 경쟁심화, 국제 곡물가 상승 등이 수익성을 악화시킬 수 있는 요인으로 작용할 수 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 원재료 가격 상승, 내수소비 침체 등 경기침체 상황이 장기될 조짐이 보임에 따라"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "해외사업은 전반적 경제성장률 둔화, 환율 불안정성이 따른 변동성 심화, 다국적 기업간 경쟁심화가 수익성을 악화시킬 수 있는 요인으로 작용할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스낵\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"스 낵 | \\\" | 포카칩, 오징어땅콩 등 | 401,998 | 31.5% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비스킷\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"비스킷 | 기호식품 | 닥터유 바, 예감 등 | 344,600 | 27.0% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파이\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"파 이 | \\\" | 초코파이, 카스타드 등 | 255,895 | 20.0% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"젤리\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"기 타 | \\\" | 마이구미, 자일리톨껌 등 | 108,150 | 8.5% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제주용암수\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"기 타 | \\\" | 오!그래놀라, 제주용암수 등 | 55,801 | 4.4% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유지류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"유 지 류 | 국 내 | 2,388 | 13.9% | 2,163 | 12.0% | 2,401 | 13.3% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"서류\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"서 류 | 국 내 | 969 | 16.75% | 988 | 16.2% | 995 | 14.2% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코코아류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"코코아류 | 국 내 | 8,895 | 10.2% | 7,065 | 9.5% | 5,905 | 6.3% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유제품류\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"유제품류 | 국 내 | 7,299 | 7.6% | 7,397 | 6.3% | 7,516 | 6.2% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"당류\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당 류 | 국 내 | 1,151 | 7.1% | 1,164 | 7.9% | 1,144 | 7.8% |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(주)오리온 | 익산2공장 | 전북 익산시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"청주4공장 | 충북 청주시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"안산공장 | 경기 안산시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"러시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Orion International Euro Co., Ltd. | 트베르공장 | 러시아 트베르시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Orion Food Vina Co., Ltd | 미폭공장 | 베트남 호치민시 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"다만, 최근 카카오, 유지류 등 관련 주요 원재료 가격이 글로벌 기후 악화 및 공급난으로 인해 급등하고 있는 바 원가상승 요인으로 작용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물 가격 및 환율 변동에 의하여 가격에 영향을 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"비스킷\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초콜릿\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"껌\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 제과시장의 경우 비스킷,파이,초콜릿,껌 등의 제과류는 하절기를 제외하고는 꾸준한 실적을 올리고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스낵\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"스낵류는 하절기에 판매가 증가하는 현상을 보입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"국제 곡물\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 사업은 최근 소비자 기호의 다변화와 해외제과업체 및 P.B 스낵과의 경쟁심화, 국제 곡물가 상승 등이 수익성을 악화시킬 수 있는 요인으로 작용할 수 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근 원재료 가격 상승, 내수소비 침체 등 경기침체 상황이 장기될 조짐이 보임에 따라\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"해외사업은 전반적 경제성장률 둔화, 환율 불안정성이 따른 변동성 심화, 다국적 기업간 경쟁심화가 수익성을 악화시킬 수 있는 요인으로 작용할 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/271560_20260318001320.txt"
+}

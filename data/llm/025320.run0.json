@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "FPCB",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SE 부문 | 제품 | FPCB 모듈 외 | 핸드폰부품 외 | 233,948 | 89.45%"
+    },
+    {
+      "axis": "product",
+      "value": "CMP 필터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "AMFS 부문 | 제품, 상품, 기타 | Pleated 필터 외 | 액체여과 및 수처리 시스템 | 27,590 | 10.55%"
+    },
+    {
+      "axis": "product",
+      "value": "혈액여과기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 미래 신성장 사업으로 전량수입에 의존하고 있는 혈액투석 의료기기의 국산화 대체와 글로벌 시장 진출을 목표로 사업을 확장하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "수소연료전지 지지체",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "독자 개발한 ePTFE 소재 기술은 반도체뿐만 아니라 수소연료전지, 바이오, 의료 등 고부가 가치 산업으로 확장되어 당사의 지속 가능한 성장 동력이 되고 있습니다"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 SE(SmartLife Electronics) 사업 부문은 스마트폰 중심의 모바일 분야에서 지속적인 경쟁력을 유지하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 △ 반도체 공정용 필터, △FPCB와 반도체 실장 및 패키지 기술을 융합한 부품 솔루션 사업을 진행하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 FPCB 분야의 신성장 비즈니스로 전기차(EV)용 배터리에 사용되는 FPCB 모듈 사업을 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료기기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 전자기기, 멤브레인, 의료기기를 융합한 기술 기반 Total Solution 기업으로"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": null,
+      "direction": null,
+      "evidence": "CMP 필터를 국내 주요 반도체 기업과 슬러리 소재 기업에 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": null,
+      "direction": null,
+      "evidence": "특히, 고객사인 글로벌 기업의 스마트팩토리 협력회사로 지정되어 품질과 생산의 혁신을 지속하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": null,
+      "direction": null,
+      "evidence": "파주 LGD P9 침지식 분리막 1차 교체작업"
+    },
+    {
+      "axis": "customer",
+      "value": "두산에너빌리티",
+      "weight": null,
+      "direction": null,
+      "evidence": "두산에너빌리티 Yanbu4 PJT 예비품 납품"
+    },
+    {
+      "axis": "raw_material",
+      "value": "ePTFE 멤브레인",
+      "weight": null,
+      "direction": null,
+      "evidence": "전량 수입에 의존하던 불소계(All Fluoropolymer, ePTFE) 나노케미컬 필터를 △소재 개발부터 △생산 설비, △완제품 제조까지 전 과정을자체 기술로 확보하여 국산화했습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "이를 위해 2024년 베트남에 공장을 준공하였으며, 현재는 글로벌 완성차 기업의 협력회사로 등록되어 2027년 출시되는 전기차(EV)신모델용 배터리 FPCB 모듈 샘플을 공급하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "필터 (동탄) : 1일(24시간)×48EA×25일×12개월 = 14,400EA"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": null,
+      "direction": null,
+      "evidence": "필터 (포항) : 1일(24시간)×8,000EA×25일×12개월 = 2,400,000EA"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "멤브레인 (천안) : 1일(24시간)×19,123SQM×25일×12개월 = 5,736,900SQM"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"FPCB\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"SE 부문 | 제품 | FPCB 모듈 외 | 핸드폰부품 외 | 233,948 | 89.45%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMP 필터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"AMFS 부문 | 제품, 상품, 기타 | Pleated 필터 외 | 액체여과 및 수처리 시스템 | 27,590 | 10.55%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"혈액여과기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 미래 신성장 사업으로 전량수입에 의존하고 있는 혈액투석 의료기기의 국산화 대체와 글로벌 시장 진출을 목표로 사업을 확장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소연료전지 지지체\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"독자 개발한 ePTFE 소재 기술은 반도체뿐만 아니라 수소연료전지, 바이오, 의료 등 고부가 가치 산업으로 확장되어 당사의 지속 가능한 성장 동력이 되고 있습니다\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 SE(SmartLife Electronics) 사업 부문은 스마트폰 중심의 모바일 분야에서 지속적인 경쟁력을 유지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 △ 반도체 공정용 필터, △FPCB와 반도체 실장 및 패키지 기술을 융합한 부품 솔루션 사업을 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 FPCB 분야의 신성장 비즈니스로 전기차(EV)용 배터리에 사용되는 FPCB 모듈 사업을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 전자기기, 멤브레인, 의료기기를 융합한 기술 기반 Total Solution 기업으로\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"CMP 필터를 국내 주요 반도체 기업과 슬러리 소재 기업에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Apple\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"특히, 고객사인 글로벌 기업의 스마트팩토리 협력회사로 지정되어 품질과 생산의 혁신을 지속하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"파주 LGD P9 침지식 분리막 1차 교체작업\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"두산에너빌리티\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두산에너빌리티 Yanbu4 PJT 예비품 납품\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"ePTFE 멤브레인\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"전량 수입에 의존하던 불소계(All Fluoropolymer, ePTFE) 나노케미컬 필터를 △소재 개발부터 △생산 설비, △완제품 제조까지 전 과정을자체 기술로 확보하여 국산화했습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이를 위해 2024년 베트남에 공장을 준공하였으며, 현재는 글로벌 완성차 기업의 협력회사로 등록되어 2027년 출시되는 전기차(EV)신모델용 배터리 FPCB 모듈 샘플을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"필터 (동탄) : 1일(24시간)×48EA×25일×12개월 = 14,400EA\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"필터 (포항) : 1일(24시간)×8,000EA×25일×12개월 = 2,400,000EA\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"멤브레인 (천안) : 1일(24시간)×19,123SQM×25일×12개월 = 5,736,900SQM\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"주 수요처가 휴대폰 등 전기 전자제품의 세트 제품과 연결되어 있기 때문에 관련 산업 경기 변동에 민감하며, 우리나라의 경우 수출 비중이 높기 때문에 환율, 원자재 가격 등 수출 시장 환경 등에 영향을 받게 되는 산업이라 할 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/025320_20260318001595.txt"
+}

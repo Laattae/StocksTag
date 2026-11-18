@@ -1,0 +1,251 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "나보타",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우루사",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "먼저 국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "크레젯",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "크레젯 | 이상지질혈증치료제 | 크레젯정 | 36,192 | 2.6"
+    },
+    {
+      "axis": "product",
+      "value": "올메텍",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "올메텍 | 고혈압치료제(ARB) | 올메텍정, 올메텍 PLUS | 32,541 | 2.3"
+    },
+    {
+      "axis": "product",
+      "value": "가스모틴",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "가스모틴 | 기능성소화제 | 가스모틴정, 가스모틴산 | 22,786 | 1.6"
+    },
+    {
+      "axis": "product",
+      "value": "릭시아나",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "릭시아나 | 항응고제 | 릭시아나정 | 108,452 | 7.8"
+    },
+    {
+      "axis": "application",
+      "value": "디지털 헬스케어",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대웅제약은 AI 기술의 급격한 발전과 인구 고령화 추세에 발맞춰 디지털 헬스케어 사업을 새로운 성장동력으로 안착시키며 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전문의약품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전문의약품 시장에서 주요 품목들의 고른 성과와 나보타의 글로벌 매출 증대가 맞물리며, 외형 성장과 수익성 제고를 동시에 달성하여 사상 최대 경영 성과를 시현하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에볼루스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Ursodesoxycholic Acid",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Ursodesoxycholic Acid | 간장질환용제 | 40,739 | 22.7 | 대웅바이오(주)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "펙수프라잔 염산염",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "펙수프라잔 염산염 | 소화성궤양용제 | 34,476 | 19.2 | 대웅바이오(주)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "당기말과 전기말 현재 장부통화인 원화에 대한 환율이 10% 상승하는 경우 법인세비용 차감전 손익에 미치는 효과는 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "당기말과 전기말 현재 연결실체는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루정",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "펙수클루정(Fexuprazan) | 미란성 위식도역류질환 치료급성위염 및 만성위염의 위점막 병변(위염)"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로정",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "엔블로정(Enavogliflozin) | 제2형 당뇨병"
+    },
+    {
+      "axis": "product",
+      "value": "탄파너셉트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권"
+    },
+    {
+      "axis": "product",
+      "value": "바토클리맙",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권"
+    },
+    {
+      "axis": "product",
+      "value": "아이메로프루바트",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "아이메로프루바트(HL161ANS) | 그레이브스병"
+    },
+    {
+      "axis": "product",
+      "value": "올로스타정",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "올로스타정 | 고혈압/고지혈"
+    },
+    {
+      "axis": "application",
+      "value": "위식도역류질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미란성 위식도역류질환 치료급성위염 및 만성위염의 위점막 병변(위염)"
+    },
+    {
+      "axis": "application",
+      "value": "제2형당뇨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Enavogliflozin | 제2형당뇨병"
+    },
+    {
+      "axis": "application",
+      "value": "안구건조증",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권"
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권"
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "HL192 | 파킨슨병"
+    },
+    {
+      "axis": "customer",
+      "value": "녹십자",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대웅제약은 전세계를 대상으로 SGLT-2 inhibitor 에 대한 전용실시권을 확보함"
+    },
+    {
+      "axis": "customer",
+      "value": "하버바이오메드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)"
+    },
+    {
+      "axis": "customer",
+      "value": "로이반트 사이언스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바토클리맙(HL161BKN)아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2018년 10월 미국 임상 1상을 성공적으로 완료하고 다국가 임상2상 진행 중"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하버바이오메드(HarbourBioMed, 중국) | 중국(대만, 홍콩, 마카오 포함)"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2023년 8월: 캐나다 (Health Canada) 임상 1상 승인"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"나보타\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"우루사\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"먼저 국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"크레젯\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"크레젯 | 이상지질혈증치료제 | 크레젯정 | 36,192 | 2.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"올메텍\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"올메텍 | 고혈압치료제(ARB) | 올메텍정, 올메텍 PLUS | 32,541 | 2.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스모틴\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"가스모틴 | 기능성소화제 | 가스모틴정, 가스모틴산 | 22,786 | 1.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"릭시아나\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"릭시아나 | 항응고제 | 릭시아나정 | 108,452 | 7.8\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디지털 헬스케어\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대웅제약은 AI 기술의 급격한 발전과 인구 고령화 추세에 발맞춰 디지털 헬스케어 사업을 새로운 성장동력으로 안착시키며 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전문의약품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전문의약품 시장에서 주요 품목들의 고른 성과와 나보타의 글로벌 매출 증대가 맞물리며, 외형 성장과 수익성 제고를 동시에 달성하여 사상 최대 경영 성과를 시현하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에볼루스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Ursodesoxycholic Acid\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Ursodesoxycholic Acid | 간장질환용제 | 40,739 | 22.7 | 대웅바이오(주)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"펙수프라잔 염산염\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"펙수프라잔 염산염 | 소화성궤양용제 | 34,476 | 19.2 | 대웅바이오(주)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"당기말과 전기말 현재 장부통화인 원화에 대한 환율이 10% 상승하는 경우 법인세비용 차감전 손익에 미치는 효과는 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"당기말과 전기말 현재 연결실체는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루정\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"펙수클루정(Fexuprazan) | 미란성 위식도역류질환 치료급성위염 및 만성위염의 위점막 병변(위염)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로정\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"엔블로정(Enavogliflozin) | 제2형 당뇨병\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄파너셉트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바토클리맙\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이메로프루바트\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"아이메로프루바트(HL161ANS) | 그레이브스병\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"올로스타정\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"올로스타정 | 고혈압/고지혈\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"위식도역류질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미란성 위식도역류질환 치료급성위염 및 만성위염의 위점막 병변(위염)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제2형당뇨병\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Enavogliflozin | 제2형당뇨병\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안구건조증\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"파킨슨병\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"HL192 | 파킨슨병\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"녹십자\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대웅제약은 전세계를 대상으로 SGLT-2 inhibitor 에 대한 전용실시권을 확보함\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"하버바이오메드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"로이반트 사이언스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"바토클리맙(HL161BKN)아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2018년 10월 미국 임상 1상을 성공적으로 완료하고 다국가 임상2상 진행 중\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하버바이오메드(HarbourBioMed, 중국) | 중국(대만, 홍콩, 마카오 포함)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캐나다\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2023년 8월: 캐나다 (Health Canada) 임상 1상 승인\"\n    }\n  ]\n}",
+    "{\n  \"tags\": []\n}"
+  ],
+  "text_path": "data/reports/069620_20260318001528.txt"
+}

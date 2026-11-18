@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "적외선 영상센서",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "적외선 영상센서 | 118,562 | 95.40% | 114,787 | 95.10%"
+    },
+    {
+      "axis": "product",
+      "value": "엑스레이 영상센서",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "엑스레이 영상센서 | 2,524 | 2.03% | 3,120 | 2.58%"
+    },
+    {
+      "axis": "product",
+      "value": "적외선 영상 시뮬레이터",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "주력 제품으로는 1) 적외선 영상센서, 2) 엑스레이 영상센서, 3) 적외선 영상 시뮬레이터, 4) 가시광 영상센서 모듈 등으로"
+    },
+    {
+      "axis": "product",
+      "value": "가시광 영상센서 모듈",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "주력 제품으로는 1) 적외선 영상센서, 2) 엑스레이 영상센서, 3) 적외선 영상 시뮬레이터, 4) 가시광 영상센서 모듈 등으로"
+    },
+    {
+      "axis": "application",
+      "value": "국방용",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료용",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "우주용",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "일반 산업용",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LIG넥스원",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며"
+    },
+    {
+      "axis": "customer",
+      "value": "한화시스템",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며"
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며"
+    },
+    {
+      "axis": "customer",
+      "value": "레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "엑스레이 영상센서의 경우에는 국내 치과용 방사선 촬영장치 제조업체인 레이 등으로 판매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Wafer는 반도체 소자 제조를 위한 기판으로 적외선 영상센서와 엑스레이 영상센서 제조의 기본 원재료이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "냉각기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "냉각기는 냉각형 적외선 영상센서 부품 중 영상센서의 작동을 위해 중요한 역할을 하는 부품으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "당사는 환위험, 특히 주로 미국달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국방 예산",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "방위산업은 정부가 유일한 수요자로 시장경쟁 원리보다는 한정된 국방예산과 예산을 활용하는 국방정책에 직접적인 영향을 받게 됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"적외선 영상센서\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"적외선 영상센서 | 118,562 | 95.40% | 114,787 | 95.10%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엑스레이 영상센서\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"엑스레이 영상센서 | 2,524 | 2.03% | 3,120 | 2.58%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"적외선 영상 시뮬레이터\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"주력 제품으로는 1) 적외선 영상센서, 2) 엑스레이 영상센서, 3) 적외선 영상 시뮬레이터, 4) 가시광 영상센서 모듈 등으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가시광 영상센서 모듈\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"주력 제품으로는 1) 적외선 영상센서, 2) 엑스레이 영상센서, 3) 적외선 영상 시뮬레이터, 4) 가시광 영상센서 모듈 등으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방용\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료용\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"우주용\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"일반 산업용\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"다양한 영상센서 제품 및 영상 관련 시스템 등을 국방용, 의료용, 우주용, 일반 산업용 등으로 개발, 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LIG넥스원\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화시스템\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방과학연구소\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"방위산업 체계업체(완성품 업체로서 LIG넥스원, 한화시스템 등) 또는 국방과학연구소와의 계약 조건에 따라 해당 업체 및 기관으로 공급되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"엑스레이 영상센서의 경우에는 국내 치과용 방사선 촬영장치 제조업체인 레이 등으로 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Wafer는 반도체 소자 제조를 위한 기판으로 적외선 영상센서와 엑스레이 영상센서 제조의 기본 원재료이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"냉각기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"냉각기는 냉각형 적외선 영상센서 부품 중 영상센서의 작동을 위해 중요한 역할을 하는 부품으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"당사는 환위험, 특히 주로 미국달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방 예산\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"방위산업은 정부가 유일한 수요자로 시장경쟁 원리보다는 한정된 국방예산과 예산을 활용하는 국방정책에 직접적인 영향을 받게 됩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/214430_20260313000025.txt"
+}

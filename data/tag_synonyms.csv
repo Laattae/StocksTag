@@ -1,0 +1,255 @@
+axis,canonical,synonym
+product,MLCC,적층세라믹콘덴서
+product,MLCC,적층세라믹커패시터
+product,MLCC,Multi-Layer Ceramic Capacitor
+product,MLCC,적층형 세라믹 콘덴서
+product,HBM,고대역폭메모리
+product,HBM,High Bandwidth Memory
+product,DRAM,디램
+product,NAND,낸드
+product,NAND,낸드플래시
+product,양극재,양극활물질
+product,LED,발광다이오드
+exposure,환율,원/달러 환율
+exposure,환율,원달러 환율
+exposure,환율,외환
+exposure,유가,국제유가
+exposure,유가,원유가격
+product,FC-BGA,플립칩 볼그리드어레이
+product,PCB,인쇄회로기판
+product,OLED,유기발광다이오드
+product,파운드리,반도체 위탁생산
+product,전력반도체,파워반도체
+product,SiC,실리콘카바이드
+product,SiC,탄화규소
+product,초전도 선재,고온초전도 선재
+product,ESS,에너지저장장치
+product,ESS,에너지저장시스템
+product,음극재,음극활물질
+product,이차전지,2차전지
+product,이차전지,배터리
+product,CDMO,위탁개발생산
+product,CMO,위탁생산
+product,변압기,변압기류
+application,데이터센터,IDC
+application,전기차,전기자동차
+application,전기차,EV
+application,AI 서버,인공지능 서버
+application,ESS,에너지저장장치
+application,전력망,전력계통
+application,2차전지,리튬 2차전지
+application,AI,AI 산업
+application,ESS,전력저장장치(ESS)
+application,OTT,OTT 서비스
+application,OTT,OTT 플랫폼
+application,가전,가전기기
+application,가전,가전제조업
+application,가전,가전제품
+application,간암,간암 치료
+application,건설,건설 사업
+application,건설,건설업
+application,건축,건축 산업
+application,건축,건축 시장
+application,게임,게임 산업
+application,골프,골프 산업
+application,공공,공공기관
+application,공공,공공부문
+application,관광,관광 산업
+application,국가예방접종,국가예방접종 사업
+application,국방,국방용
+application,군수,군수장비
+application,담관암,담관암 치료
+application,당뇨병,당뇨
+application,당뇨병,제2형 당뇨병
+application,데이터센터,AI 데이터센터
+application,로봇,로봇 산업
+application,모바일,모바일기기
+application,물류,물류산업
+application,반도체,반도체 산업
+application,방위산업,국가방위산업
+application,방위산업,방위
+application,방위산업,방위사업
+application,부동산,부동산 시장
+application,스마트미터,스마트미터기
+application,식품,식품산업
+application,식품,식품업계
+application,알츠하이머,알츠하이머병
+application,양수발전,양수발전소
+application,원자력발전,원자력발전소
+application,위암,위암 치료
+application,의료기기,의료기기 산업
+application,의료기기,휴대용 의료기기
+application,의약품,의약
+application,자동차,자동차 산업
+application,자동차,자동차용
+application,전장,자동차 전장
+application,전장,전장사업
+application,제약,제약 시장
+application,제철,제철산업
+application,조선,조선해양
+application,조선,조선산업
+application,조선,조선업
+application,해양플랜트,조선해양 플랜트
+application,종양,종양질환
+application,철강,철강산업
+application,철도,철도산업
+application,철도,철도시스템
+application,태양광,태양광 산업
+application,태양광,태양광 발전
+application,패션,패션 산업
+application,항암,항암 치료
+application,해운,해운산업
+application,해운,해운업
+application,화장품,화장품 산업
+application,황반변성,나이관련황반변성증
+application,황반변성,노인성 황반변성
+customer,Angelini Pharma,Angelini Pharma S.p.A.
+customer,Anvia Therapeutics,"Anvia Therapeutics, Inc."
+customer,Apotex,Apotex Inc.
+customer,Chevron Australia,Chevron Australia Pty Ltd
+customer,Eli Lilly,Eli Lilly and Company
+customer,Micron,Micron Technology
+customer,Microsoft,Microsoft Corporation
+customer,ORIC Pharmaceuticals,"ORIC Pharmaceuticals, Inc."
+customer,Ono Pharmaceutical,"Ono Pharmaceutical Co., Ltd."
+customer,Pluristem,Pluristem Therapeutics
+customer,SK하이닉스,에스케이하이닉스
+customer,SK하이닉스,하이닉스
+customer,Sanofi,Sanofi 사
+customer,"Senju Pharmaceutical Co., Ltd",SENJU Pharmaceutical
+customer,TOYO Chemical,"TOYO Chemical CO., LTD."
+customer,르노코리아,르노코리아자동차
+customer,삼성SDI,삼성에스디아이
+customer,얀센,얀센 바이오테크
+customer,얀센,얀센바이오텍
+customer,올리브영,씨제이올리브영
+customer,유한양행,유한양행 사
+customer,육군,대한민국 육군
+customer,포드,포드 모터 컴퍼니
+customer,포스코,(주)포스코
+customer,폭스바겐,폭스바겐 그룹
+customer,한국바스프,한국바스프주식회사
+customer,한국수력원자력,한국수력원자력(주)
+customer,한국전력,한국전력공사
+customer,한국타이어,한국타이어앤테크놀로지
+customer,해군,대한민국 해군
+customer,현대글로비스,현대글로비스(주)
+customer,현대자동차,현대자동차그룹
+exposure,고령화,인구 고령화
+exposure,국제 곡물가,곡물가격
+exposure,국제 곡물가,국제 곡물가격
+exposure,금리,기준금리
+exposure,금리,시장금리
+exposure,금리변동,금리변동성
+exposure,물가상승률,물가상승
+exposure,물가상승률,소비자 물가상승률
+exposure,약가정책,약가규제 정책
+exposure,약가정책,정부의 약가정책
+exposure,원자재 가격,배터리 원자재 가격
+exposure,원재료 가격,국제 원재료 가격
+exposure,유가,국제 원유가격
+exposure,유가,원유가
+exposure,이자율,시장이자율
+exposure,전기차 화재,전기차 화재 위험
+exposure,전기차 화재,전기차 화재 위험성
+product,ADC,ADC 신약
+product,BOPP,BOPP 필름
+product,Copolyester,Copolyester 수지
+product,ESS,ESS용 배터리
+product,HVAC,에이치백(HVAC)
+product,IP 라이선스,IP 라이선스 상품
+product,IT서비스,금융IT서비스
+product,IT서비스,의료 IT 서비스
+product,LNG선,LNG 운반선
+product,LNG선,LNGC
+product,LPCVD,LPCVD장비
+product,MBX,MBX 코인
+product,NCA,NCA 양극재
+product,NCM,NCM 양극재
+product,OLED 소재,디스플레이 OLED 소재
+product,SMR,소형모듈원자로(SMR)
+product,가정간편식,가정간편식품
+product,가정간편식,간편식
+product,가정간편식,간편식사
+product,가정간편식,간편식품
+product,건물종합관리,건물종합관리업
+product,고체산화물연료전지,고체산화물연료전지(SOFC)
+product,군용탄,군용탄약
+product,금융투자,금융투자업
+product,기능성필름,고기능성 필름
+product,기업인프라,기업인프라 서비스
+product,물류,물류사업
+product,방산,방산물자
+product,보험,보험업
+product,부동산 개발,부동산 개발사업
+product,뷰티 디바이스,홈 뷰티 디바이스
+product,사모펀드,사모펀드(PEF)
+product,생명보험,생명보험사업
+product,선물중개,선물중개업
+product,SMR,소형모듈원자로
+product,SMR,원자로 계통설계
+product,손해보험,손해보험업
+product,수소 운반선,액화수소운반선
+product,슈퍼마켓,슈퍼
+product,스낵,스낵류
+product,스테인리스,스테인리스강
+product,시설대여,시설대여업
+product,시스템 통합,시스템 통합(SI)
+product,신기술사업금융,신기술사업금융업
+product,신탁,신탁업
+product,신탁,신탁업무
+product,압축기,압축기(COMP)
+product,압축기,전동 압축기
+product,HVAC,에이치백
+product,엔블로,엔블로정
+product,엘리가드,엘리가드 주
+product,연포장재,연포장
+product,영상감시,영상감시장비
+product,영화상영,영화상영업
+product,육가공,육가공품
+product,음료,음료류
+product,음반/음원,음반 및 음원
+product,음반/음원,"음반, 음원"
+product,음악서비스,디지털 음악 서비스
+product,의약품 위탁생산서비스,위탁생산서비스
+product,의약품 위탁생산서비스,의약품 위탁생산
+product,이차전지용 음극재,이차전지용 음극재료
+product,자동차할부,자동차 할부금융
+product,자주포,K9 자주포
+product,케미컬 필터,클린룸 케미컬 필터
+product,케이블TV,케이블TV 서비스
+product,택배,택배사업
+product,특수가스,반도체 특수가스
+product,파워트레인 쿨링,파워트레인쿨링(PTC)
+product,펙수클루,펙수클루정
+product,펩타이드,면역조절 펩타이드
+product,펩타이드,발모 증진용 펩타이드
+product,펩타이드,펩타이드 소재
+product,펩타이드,펩타이드 원료
+product,폴리에틸렌,고밀도폴리에틸렌
+product,필러,HA필러
+product,필러,히알루론산 필러
+product,하이브리드,하이브리드 시스템
+product,할부금융,할부금융업
+product,합성수지,고기능성 합성수지
+product,합성신약,화학합성신약
+product,항공우주,항공우주체계
+product,항공운송,항공운송 서비스
+product,항체-약물 접합체,항체-독소 접합체
+product,항체-약물 접합체,항체-약물 결합체
+product,헤어그로,헤어그로정
+product,호텔,호텔 숙박
+product,홈쇼핑,TV홈쇼핑
+product,화물 운송,벌크화물 운송 서비스
+product,화물 운송,컨테이너화물 운송 서비스
+product,황반변성 치료제,건성 및 습성 황반변성 치료제
+raw_material,PET칩,PET Chip
+raw_material,STEEL PLATE,PLATE
+raw_material,강재,강재류
+raw_material,곡물,국제 곡물
+raw_material,생두,커피생두
+raw_material,용매,용매 류
+raw_material,원두,커피 원두
+raw_material,철근,이형철근
+raw_material,코코아 원두,코코아류
+raw_material,포장재,포장재료

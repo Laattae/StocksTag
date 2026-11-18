@@ -1,0 +1,55 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "세계경기",
+      "synonyms": [
+        "세계 경기"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "소비심리",
+      "synonyms": [
+        "소비 심리"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "환경규제",
+      "synonyms": [
+        "환경 규제"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "환율변동",
+      "synonyms": [
+        "환율 변동"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "국제곡물가격",
+      "synonyms": [
+        "국제 곡물가",
+        "국제 곡물가격",
+        "국제 곡물 가격"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "부동산정책",
+      "synonyms": [
+        "부동산 정책"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "연료유가격",
+      "synonyms": [
+        "연료유 가격"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "제조업용로봇",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 산업용로봇(제조업용로봇) 뿐만아니라 지능형로봇(서비스로봇)을 기반으로 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "직각좌표로봇",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사가 생산하는 제조업용 로봇은 직각좌표로봇, 수평다관절로봇, 데스크탑로봇, 반도체용로봇, 리니어스테이지 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "2차 전지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2차전지사업부문 | 제품 | 2차 전지 | 내 수 | 68,284 | 43,020 | -"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "Display 또는 반도체 등 높은클린도가 요구되는 제조공정에 적용되는 로봇을 조립하기 위한 클린룸을 별도로 갖추고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "Display 또는 반도체 등 높은클린도가 요구되는 제조공정에 적용되는 로봇을 조립하기 위한 클린룸을 별도로 갖추고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "전통적인 자동차 시장 또한, 현대자동차 및 기아자동차의 해외 신규 공장 증설로 인한 신규 로봇수요가 급격히 증가하고 있어"
+    },
+    {
+      "axis": "raw_material",
+      "value": "BALL SCREW",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "BALL SCREW | 내 수 | - | - | - | 수 입 | 162,000 | 162,000 | 162,000"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LM GUIDE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "LM GUIDE | 내 수 | - | - | - | 수 입 | 178,000 | 178,000 | 178,000"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 생산capa 확대를 위하여 2011년 1월 천안지방 제4산업단지에 3,450평 규모의공장을 준공하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "연결실체는 매출거래 등과 관련하여 USD 등의 환율변동위험에 노출되어 있으며, 내부적으로 환율변동에 따른 환위험을 정기적으로 측정하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"제조업용로봇\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 산업용로봇(제조업용로봇) 뿐만아니라 지능형로봇(서비스로봇)을 기반으로 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"직각좌표로봇\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사가 생산하는 제조업용 로봇은 직각좌표로봇, 수평다관절로봇, 데스크탑로봇, 반도체용로봇, 리니어스테이지 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"2차 전지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2차전지사업부문 | 제품 | 2차 전지 | 내 수 | 68,284 | 43,020 | -\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"Display 또는 반도체 등 높은클린도가 요구되는 제조공정에 적용되는 로봇을 조립하기 위한 클린룸을 별도로 갖추고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"Display 또는 반도체 등 높은클린도가 요구되는 제조공정에 적용되는 로봇을 조립하기 위한 클린룸을 별도로 갖추고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"전통적인 자동차 시장 또한, 현대자동차 및 기아자동차의 해외 신규 공장 증설로 인한 신규 로봇수요가 급격히 증가하고 있어\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"BALL SCREW\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"BALL SCREW | 내 수 | - | - | - | 수 입 | 162,000 | 162,000 | 162,000\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LM GUIDE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"LM GUIDE | 내 수 | - | - | - | 수 입 | 178,000 | 178,000 | 178,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 생산capa 확대를 위하여 2011년 1월 천안지방 제4산업단지에 3,450평 규모의공장을 준공하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 매출거래 등과 관련하여 USD 등의 환율변동위험에 노출되어 있으며, 내부적으로 환율변동에 따른 환위험을 정기적으로 측정하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/090710_20260323001558.txt"
+}

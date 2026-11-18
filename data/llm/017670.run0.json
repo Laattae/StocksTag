@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "이동전화",
+      "weight": 0.73,
+      "direction": null,
+      "evidence": "이동전화,무선데이터, 정보통신사업 등 | 이동전화 | T, 5GX, T플랜 등 | 12,552,543 | 73"
+    },
+    {
+      "axis": "product",
+      "value": "초고속인터넷",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25"
+    },
+    {
+      "axis": "product",
+      "value": "데이터방송",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "상품판매형데이터방송채널사용사업 등 | 플랫폼 | 스토아ON | 355,557 | 2"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SK 텔레콤 본사 | 서울특별시 중구 을지로 65"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "연결실체의 이자율위험은 사채, 차입금 및 장기미지급금에서 비롯됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"이동전화\", \"weight\": 0.73, \"direction\": null, \"evidence\": \"이동전화,무선데이터, 정보통신사업 등 | 이동전화 | T, 5GX, T플랜 등 | 12,552,543 | 73\"}, {\"axis\": \"product\", \"value\": \"초고속인터넷\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25\"}, {\"axis\": \"product\", \"value\": \"IPTV\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25\"}, {\"axis\": \"product\", \"value\": \"데이터방송\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"상품판매형데이터방송채널사용사업 등 | 플랫폼 | 스토아ON | 355,557 | 2\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"SK 텔레콤 본사 | 서울특별시 중구 을지로 65\"}, {\"axis\": \"region\", \"value\": \"대구\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41\"}, {\"axis\": \"region\", \"value\": \"광주\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR 등이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"연결실체의 이자율위험은 사채, 차입금 및 장기미지급금에서 비롯됩니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/017670_20260318000532.txt"
+}

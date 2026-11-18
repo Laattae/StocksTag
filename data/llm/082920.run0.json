@@ -1,0 +1,214 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "BOBBIN전지",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "BOBBIN전지 |  124,551 | 51.2% | 주2)"
+    },
+    {
+      "axis": "product",
+      "value": "고온전지",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "고온전지 |  42,563 | 17.5% |"
+    },
+    {
+      "axis": "product",
+      "value": "앰플전지",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "앰플전지 |  23,139 | 9.5% |"
+    },
+    {
+      "axis": "product",
+      "value": "WOUND전지",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "WOUND전지 |  17,593 | 7.2% |"
+    },
+    {
+      "axis": "product",
+      "value": "열전지",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "열전지 |  13,925 | 5.7% |"
+    },
+    {
+      "axis": "application",
+      "value": "Utility Meter",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전 세계적으로 기존에 기계식으로 사용하던 전기, 수도, 가스 Meter가 Digital화 되고, 정보를 주고 받을 수 있도록 송,수신 기능이 추가된 Smart Meter로 변경되고 있는 추세이며"
+    },
+    {
+      "axis": "application",
+      "value": "군수",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가"
+    },
+    {
+      "axis": "application",
+      "value": "석유 시추",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "석유 및 가스 시추시 Drilling 작업의 Monitoring을 위해 극한 환경 (고온, 진동 등)에서 사용가능한 전원이 필요합니다."
+    },
+    {
+      "axis": "application",
+      "value": "Asset Tracking",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "자동차, 컨테이너, 야생동물, 가축 등의 위치추적을 하고 관리하는 산업분야가 최근 급성장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "휴대용 의료기기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "생활수준의 향상과 의료기기의 휴대화로 인해 일부 의료기기 장비에 전지가 적용되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Lithium",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Nickel",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Header",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Case",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 충남 당진에 위치한 본사 공장에 Li-SOCl2전지 자동화라인 및 드라이룸 등 생산설비를 갖추고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "캐나다 소재 Innova Power Solutions Inc.에 Downhole tool용 battery pack 및 모니터링칩 솔루션 제조 생산설비를 갖추고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "주요 손익 증감사유로는 군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "리튬 등 주요 원자재 가격 안정화에 따른 재료비 절감, 원가 절감 및 매출 증가에 따른 고정비 감소 효과로 인한 영업이익 증가"
+    },
+    {
+      "axis": "product",
+      "value": "리튬일차전지",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사의 주력제품인 Li/SOCl₂시장의 경우, 세계 1위 업체인 SAFT(프랑스)가 2000년 2위 업체인 Tadiran(이스라엘)을 자회사로 인수함으로써 약 50%의 시장점유율을 보이며 독보적인 시장점유율 1위를 보이고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "비축전지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "첨단무기체계의(미사일, 폭탄 등) 핵심부품인 비축전지(리저브전지, 열전지, 앰플전지) 분야에서도 향후 두각을 보일 수 있을 것으로 예상되며"
+    },
+    {
+      "axis": "application",
+      "value": "휴대용 의료기기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "스마트미터기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전기, 수도, 가스 미터기기에서의 전지 불량은 고객업체에서의 수선출장 비용, 미터교체 비용, 그리고 전기세, 수도세, 가스비 등에 관련한 민원을 발생시킬 수 있음"
+    },
+    {
+      "axis": "application",
+      "value": "메모리백업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전자제품의 경우, 점차 다양한 기능이 요구됨에 따라, 메모리백업 기능이 필요하게 되며, 이 메모리 백업을 위한 장기간 사용할 수 있는 리튬일차 전지의 수요는 점차적으로 성장할 것으로 예상됨."
+    },
+    {
+      "axis": "application",
+      "value": "군수",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로 첨단무기체계의(미사일, 폭탄 등) 핵심부품인 비축전지"
+    },
+    {
+      "axis": "customer",
+      "value": "한국군",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로"
+    },
+    {
+      "axis": "customer",
+      "value": "SAFT",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주력제품인 Li/SOCl₂시장의 경우, 세계 1위 업체인 SAFT(프랑스)가 2000년 2위 업체인 Tadiran(이스라엘)을 자회사로 인수함으로써"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Li foil",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "핵심부품인 Li foil과 Ni Exmet 등을 당사 내부에서 생산하는 시스템을 갖추었으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Ni Exmet",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "핵심부품인 Li foil과 Ni Exmet 등을 당사 내부에서 생산하는 시스템을 갖추었으며"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2018년 통합신축공장인 당진 스마트캠퍼스를 준공하면서, 자동화 설비 및 공정을 대폭 향상시켜 약 90% 이상의 공정자동화를 이루었습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"BOBBIN전지\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"BOBBIN전지 |  124,551 | 51.2% | 주2)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고온전지\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"고온전지 |  42,563 | 17.5% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"앰플전지\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"앰플전지 |  23,139 | 9.5% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"WOUND전지\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"WOUND전지 |  17,593 | 7.2% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열전지\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"열전지 |  13,925 | 5.7% |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"Utility Meter\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"전 세계적으로 기존에 기계식으로 사용하던 전기, 수도, 가스 Meter가 Digital화 되고, 정보를 주고 받을 수 있도록 송,수신 기능이 추가된 Smart Meter로 변경되고 있는 추세이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군수\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유 시추\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"석유 및 가스 시추시 Drilling 작업의 Monitoring을 위해 극한 환경 (고온, 진동 등)에서 사용가능한 전원이 필요합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"Asset Tracking\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"자동차, 컨테이너, 야생동물, 가축 등의 위치추적을 하고 관리하는 산업분야가 최근 급성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"휴대용 의료기기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"생활수준의 향상과 의료기기의 휴대화로 인해 일부 의료기기 장비에 전지가 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Lithium\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Nickel\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Header\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Case\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등 | 73,624 (31.2%) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 충남 당진에 위치한 본사 공장에 Li-SOCl2전지 자동화라인 및 드라이룸 등 생산설비를 갖추고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캐나다\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"캐나다 소재 Innova Power Solutions Inc.에 Downhole tool용 battery pack 및 모니터링칩 솔루션 제조 생산설비를 갖추고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"주요 손익 증감사유로는 군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"리튬 등 주요 원자재 가격 안정화에 따른 재료비 절감, 원가 절감 및 매출 증가에 따른 고정비 감소 효과로 인한 영업이익 증가\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"리튬일차전지\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력제품인 Li/SOCl₂시장의 경우, 세계 1위 업체인 SAFT(프랑스)가 2000년 2위 업체인 Tadiran(이스라엘)을 자회사로 인수함으로써 약 50%의 시장점유율을 보이며 독보적인 시장점유율 1위를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비축전지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"첨단무기체계의(미사일, 폭탄 등) 핵심부품인 비축전지(리저브전지, 열전지, 앰플전지) 분야에서도 향후 두각을 보일 수 있을 것으로 예상되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"휴대용 의료기기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트미터기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전기, 수도, 가스 미터기기에서의 전지 불량은 고객업체에서의 수선출장 비용, 미터교체 비용, 그리고 전기세, 수도세, 가스비 등에 관련한 민원을 발생시킬 수 있음\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"메모리백업\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전자제품의 경우, 점차 다양한 기능이 요구됨에 따라, 메모리백업 기능이 필요하게 되며, 이 메모리 백업을 위한 장기간 사용할 수 있는 리튬일차 전지의 수요는 점차적으로 성장할 것으로 예상됨.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군수\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로 첨단무기체계의(미사일, 폭탄 등) 핵심부품인 비축전지\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국군\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SAFT\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력제품인 Li/SOCl₂시장의 경우, 세계 1위 업체인 SAFT(프랑스)가 2000년 2위 업체인 Tadiran(이스라엘)을 자회사로 인수함으로써\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Li foil\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"핵심부품인 Li foil과 Ni Exmet 등을 당사 내부에서 생산하는 시스템을 갖추었으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Ni Exmet\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"핵심부품인 Li foil과 Ni Exmet 등을 당사 내부에서 생산하는 시스템을 갖추었으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2018년 통합신축공장인 당진 스마트캠퍼스를 준공하면서, 자동화 설비 및 공정을 대폭 향상시켜 약 90% 이상의 공정자동화를 이루었습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/082920_20260317000858.txt"
+}

@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "공작기계",
+      "weight": 0.53,
+      "direction": null,
+      "evidence": "공작기계 | 제품 및 상품 | 공작기계 | PUMA 외 | 2,206,617 | 53.1%"
+    },
+    {
+      "axis": "product",
+      "value": "자동차용 부품",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "자동차용 부품 | 제품 및 상품 | 부품 | - | 1,368,520 | 33.0%"
+    },
+    {
+      "axis": "product",
+      "value": "자동차용 축전지",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "자동차용 축전지 | 제품 및 상품 | 배터리 | X-PRO | 385,564 | 9.3%"
+    },
+    {
+      "axis": "product",
+      "value": "자동차용 튜브",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "자동차용 튜브 | 제품 및 상품 | 튜브 | DONGAH | 191,693 | 4.6%"
+    },
+    {
+      "axis": "application",
+      "value": "자동차 산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동차용 방진제품은 합성고무 등을 활용하는 소재 제조 및 가공 기술의 발달로 인해다양한 기능을 가진 제품이 생산되고 있으며, 자동차 산업을 비롯하여 여타 제조업에미치는 영향이 적지 않고"
+    },
+    {
+      "axis": "application",
+      "value": "우주항공",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "공작기계는 자동차, 우주항공, 의료, 반도체, 철도, 에너지 등과 같은 산업 부문에서 항상 수요가 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "공작기계는 자동차, 우주항공, 의료, 반도체, 철도, 에너지 등과 같은 산업 부문에서 항상 수요가 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "합성고무",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고무제품의 주원료는 생고무, 합성고무 등인데, 국내의 경우 생고무를 동남아 등지에서 전량 수입에 의존하며, 기타 합성고무 및 부재료 등은 국내에서 생산되며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "납",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "울산시와 당사는 '고성능 차량 시동용 배터리 생산공장 증설'을 위한 투자 협약을 체결했습니다.협약에 따라 당사는 약 600억원을 투자해 울주군 신일반산업단지 내 울산1공장 여유 공간에 배터리 생산공장을 증설중이고"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 당사는 배터리 생산 Capa 확보를 위해 부산시 오리에 신공장 설립을 진행중 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동차산업은 신차의 출시시기, 에너지 세제정책 및 에너지 자원(유가, LPG 등)의 국제적 수급상황, 환율, 경제성장률 등에 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동차산업은 신차의 출시시기, 에너지 세제정책 및 에너지 자원(유가, LPG 등)의 국제적 수급상황, 환율, 경제성장률 등에 영향을 받고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"공작기계\", \"weight\": 0.53, \"direction\": null, \"evidence\": \"공작기계 | 제품 및 상품 | 공작기계 | PUMA 외 | 2,206,617 | 53.1%\"}, {\"axis\": \"product\", \"value\": \"자동차용 부품\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"자동차용 부품 | 제품 및 상품 | 부품 | - | 1,368,520 | 33.0%\"}, {\"axis\": \"product\", \"value\": \"자동차용 축전지\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"자동차용 축전지 | 제품 및 상품 | 배터리 | X-PRO | 385,564 | 9.3%\"}, {\"axis\": \"product\", \"value\": \"자동차용 튜브\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"자동차용 튜브 | 제품 및 상품 | 튜브 | DONGAH | 191,693 | 4.6%\"}, {\"axis\": \"application\", \"value\": \"자동차 산업\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"자동차용 방진제품은 합성고무 등을 활용하는 소재 제조 및 가공 기술의 발달로 인해다양한 기능을 가진 제품이 생산되고 있으며, 자동차 산업을 비롯하여 여타 제조업에미치는 영향이 적지 않고\"}, {\"axis\": \"application\", \"value\": \"우주항공\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"공작기계는 자동차, 우주항공, 의료, 반도체, 철도, 에너지 등과 같은 산업 부문에서 항상 수요가 있으며\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"공작기계는 자동차, 우주항공, 의료, 반도체, 철도, 에너지 등과 같은 산업 부문에서 항상 수요가 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"합성고무\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고무제품의 주원료는 생고무, 합성고무 등인데, 국내의 경우 생고무를 동남아 등지에서 전량 수입에 의존하며, 기타 합성고무 및 부재료 등은 국내에서 생산되며\"}, {\"axis\": \"raw_material\", \"value\": \"납\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"울산시와 당사는 '고성능 차량 시동용 배터리 생산공장 증설'을 위한 투자 협약을 체결했습니다.협약에 따라 당사는 약 600억원을 투자해 울주군 신일반산업단지 내 울산1공장 여유 공간에 배터리 생산공장을 증설중이고\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"또한, 당사는 배터리 생산 Capa 확보를 위해 부산시 오리에 신공장 설립을 진행중 입니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"자동차산업은 신차의 출시시기, 에너지 세제정책 및 에너지 자원(유가, LPG 등)의 국제적 수급상황, 환율, 경제성장률 등에 영향을 받고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"자동차산업은 신차의 출시시기, 에너지 세제정책 및 에너지 자원(유가, LPG 등)의 국제적 수급상황, 환율, 경제성장률 등에 영향을 받고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/007340_20260312001285.txt"
+}

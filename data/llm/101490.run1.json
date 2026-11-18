@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "블랭크마스크",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "EUV용 블랭크마스크",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 이러한 산업 트렌드에 발맞추어 지속적인 기술 개발, 투자 및 품질 향상 노력을 기울여 왔습니다. 그 결실로 2025년 10월, 차세대 반도체 노광 기술인 EUV(Extreme Ultraviolet) 공정 대응을 위한 'EUV 센터'를 준공하였으며, 현재 관련 제품의 양산 준비를 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "EUV 펠리클",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "EUV용 블랭크마스크 및 펠리클 기술개발과 양산을 위한 신규장비투자"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며, 반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며, 반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "포토마스크",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "블랭크마스크는 반도체 웨이퍼에 회로를 새기기 위해 사용되는 포토마스크(Photo Mask)의 원재료로, 석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Quartz",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "블랭크마스크 | 원재료 | Quartz 등 | 블랭크 마스크의 주요 원재료 등 | 120,131,612 | 100.0%"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "다만, 수출품의 경우 환율 변동에 따라 영향을 받을 수 있습니다. 한편, 원재료는 환율 변동성을 고려하여 매년 매입 단가를 환율 상황에 맞게 조정함으로써 가격 변동 위험에 대응하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"블랭크마스크\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EUV용 블랭크마스크\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 이러한 산업 트렌드에 발맞추어 지속적인 기술 개발, 투자 및 품질 향상 노력을 기울여 왔습니다. 그 결실로 2025년 10월, 차세대 반도체 노광 기술인 EUV(Extreme Ultraviolet) 공정 대응을 위한 'EUV 센터'를 준공하였으며, 현재 관련 제품의 양산 준비를 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EUV 펠리클\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"EUV용 블랭크마스크 및 펠리클 기술개발과 양산을 위한 신규장비투자\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며, 반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며, 반도체(IC, Integrated Circuit) 및 디스플레이(FPD, Flat Panel Display)용 블랭크마스크(Blank Mask)를 생산ㆍ판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"포토마스크\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"블랭크마스크는 반도체 웨이퍼에 회로를 새기기 위해 사용되는 포토마스크(Photo Mask)의 원재료로, 석영(쿼츠, Quartz) 기판 위에 금속막(크롬, Cr)과 감광액(Photo Resist, PR)을 도포하여 제조됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Quartz\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"블랭크마스크 | 원재료 | Quartz 등 | 블랭크 마스크의 주요 원재료 등 | 120,131,612 | 100.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 대구광역시 및 경기도 용인시에 위치한 반도체ㆍ디스플레이 소재 전문 기업이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"다만, 수출품의 경우 환율 변동에 따라 영향을 받을 수 있습니다. 한편, 원재료는 환율 변동성을 고려하여 매년 매입 단가를 환율 상황에 맞게 조정함으로써 가격 변동 위험에 대응하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/101490_20260316000487.txt"
+}

@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "OLED 공정장비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "OLED 디스플레이 | Rigid 및 Flexible OLED 공정장비 등 | 54,426 | 52.6"
+    },
+    {
+      "axis": "product",
+      "value": "이차전지 공정장비",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이차전지 공정장비 | Stacking 장비 및 Laser Notching 장비 등 | 33,194 | 32.1"
+    },
+    {
+      "axis": "product",
+      "value": "반도체 공정장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체 공정장비 | TGV 장비 및 Singulation 장비 등 | 12,151 | 11.7"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 장비",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "태양광 등 기타 | Laser Doping, Laser Scribing, Edge Isolation 등"
+    },
+    {
+      "axis": "application",
+      "value": "OLED 디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당시 국내 유일의 자체 기술력으로 라인 빔 광학계 개발에 성공하여 고객의 양산 라인에서 높은 품질을 평가 받았습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "STAGE",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LASER",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당기말과 전기말 현재 모든 다른 변수가 일정하고 각 외화에 대한 원화의 환율 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 공정장비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 | Rigid 및 Flexible OLED 공정장비 등 | 54,426 | 52.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이차전지 공정장비\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이차전지 공정장비 | Stacking 장비 및 Laser Notching 장비 등 | 33,194 | 32.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 공정장비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정장비 | TGV 장비 및 Singulation 장비 등 | 12,151 | 11.7\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 장비\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"태양광 등 기타 | Laser Doping, Laser Scribing, Edge Isolation 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OLED 디스플레이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이 제조공정과 반도체, 태양광 그리고 전기차용 2차전지 제조공정에 사용되는 첨단 자동화장비를 제작 및 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당시 국내 유일의 자체 기술력으로 라인 빔 광학계 개발에 성공하여 고객의 양산 라인에서 높은 품질을 평가 받았습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"STAGE\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"OLED 디스플레이, 반도체 등 | 원재료 | STAGE, 기구가공품 등 | 레이저응용장비 등 | 48.5\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LASER\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | LASER, 광학부품 등 | 레이저응용장비 등 | 51.5\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당기말과 전기말 현재 모든 다른 변수가 일정하고 각 외화에 대한 원화의 환율 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/161580_20260324000644.txt"
+}

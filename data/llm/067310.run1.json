@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PKG",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "반도체제조 | 제품외 | PKG | 반도체칩부품화 | - | 1,157,316,215 | 75.4"
+    },
+    {
+      "axis": "product",
+      "value": "실리콘부품",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "반도체재료 | 제품외 | 실리콘부품 | 반도체 공정소모품 | - | 239,818,300 | 15.6"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2004.06.01 | 자동연장 | SK하이닉스 | 거래기본계약서(반도체패키징) | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | PCB | BGA계열 제품용 인쇄회로기판 | 345,200"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wafer",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | Wafer | 반도체 소자의 재료 | 135,586"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소자",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | 소자 | 반도체 물질로 전자회로를 구성 | 407,148"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "브라질현지법인 | Av. Unisions, 950 Ssa LeopoldoRS 93022-000 Brasil | 반도체 제품 제조 | HTMICRON"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "베트남현지법인 | CNSG-02-01, Van Trung Industrial Zone,Van Trung Commune, Viet Yen ward, Bac Giang Province, Viet Nam"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"PKG\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 제품외 | PKG | 반도체칩부품화 | - | 1,157,316,215 | 75.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘부품\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"반도체재료 | 제품외 | 실리콘부품 | 반도체 공정소모품 | - | 239,818,300 | 15.6\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2004.06.01 | 자동연장 | SK하이닉스 | 거래기본계약서(반도체패키징) | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | PCB | BGA계열 제품용 인쇄회로기판 | 345,200\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | Wafer | 반도체 소자의 재료 | 135,586\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소자\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | 소자 | 반도체 물질로 전자회로를 구성 | 407,148\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"브라질현지법인 | Av. Unisions, 950 Ssa LeopoldoRS 93022-000 Brasil | 반도체 제품 제조 | HTMICRON\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"베트남현지법인 | CNSG-02-01, Van Trung Industrial Zone,Van Trung Commune, Viet Yen ward, Bac Giang Province, Viet Nam\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/067310_20260319000032.txt"
+}

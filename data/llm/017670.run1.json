@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "이동전화",
+      "weight": 0.73,
+      "direction": null,
+      "evidence": "이동전화,무선데이터, 정보통신사업 등 | 이동전화 | T, 5GX, T플랜 등 | 12,552,543 | 73"
+    },
+    {
+      "axis": "product",
+      "value": "초고속인터넷",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미디어 사업 부문의 2025년 매출액은 전년 대비 0.8% 감소한 1조 9,053억원을 달성하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "데이터센터",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한국의 이동통신 시장은 네트워크의 기술과 고사양의 스마트폰 기기의 확산을 바탕으로 첨단 멀티미디어 서비스"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "초고속인터넷, 전화, 전용회선, 데이터센터(DC) 서비스 등을 제공하는 유선통신 사업 부문으로 구분됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SK 텔레콤 본사 | 서울특별시 중구 을지로 65"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"이동전화\",\n      \"weight\": 0.73,\n      \"direction\": null,\n      \"evidence\": \"이동전화,무선데이터, 정보통신사업 등 | 이동전화 | T, 5GX, T플랜 등 | 12,552,543 | 73\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초고속인터넷\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"전화,초고속인터넷, 데이터,통신망 임대 서비스 등 | 유선전화,인터넷방송 | B tv,00700 국제전화,7mobile 등 | 4,191,113 | 25\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IPTV\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미디어 사업 부문의 2025년 매출액은 전년 대비 0.8% 감소한 1조 9,053억원을 달성하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"가입자 증가에 따른 초고속 인터넷 사업 성장과 신규 데이터센터(DC) 중심의 B2B 사업 성장에 기인합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한국의 이동통신 시장은 네트워크의 기술과 고사양의 스마트폰 기기의 확산을 바탕으로 첨단 멀티미디어 서비스\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"초고속인터넷, 전화, 전용회선, 데이터센터(DC) 서비스 등을 제공하는 유선통신 사업 부문으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 본사 | 서울특별시 중구 을지로 65\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 부산담당/동부Infra본부 | 부산광역시 부산진구 신천대로 258\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 대구담당 | 대구광역시 서구 원대로 73\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 중부담당/중부Infra본부 | 대전광역시 서구 문정로 41\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"SK 텔레콤 서부담당/서부Infra본부 | 광주광역시 광산구 무진대로 269\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 글로벌 영업으로 인한 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, EUR 등이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/017670_20260318000532.txt"
+}

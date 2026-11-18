@@ -1,0 +1,230 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초 화장품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "기초, 기능성 및 색조 화장품 등"
+    },
+    {
+      "axis": "product",
+      "value": "색조 화장품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "기초, 기능성 및 색조 화장품 등"
+    },
+    {
+      "axis": "product",
+      "value": "화장품 용기",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "화장품 용기 및 디스펜스 제조와 판매"
+    },
+    {
+      "axis": "product",
+      "value": "케이캡",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "치료제(위식도역류질환, 고지혈증, 고혈압 등)혈액 및 체액대용제, 혈중 영양분 공급제 등"
+    },
+    {
+      "axis": "product",
+      "value": "컨디션",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "컨디션, 헛개수, 홍삼진 등 건강기능식품"
+    },
+    {
+      "axis": "raw_material",
+      "value": "글리세린",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "글리세린 등 | 보습제 외 | 347,929 | 40.83"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구형흡착탄",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "구형흡착탄 | 신부전치료제 | 2,852 | 0.33"
+    },
+    {
+      "axis": "raw_material",
+      "value": "딜티아젬염산염",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "딜티아젬염산염 | 고혈압치료제 | 4,154 | 0.49"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "기초 화장품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 소비자가 기준 중고가 위주의 일반 화장품과 기능성 화장품 전반에 걸쳐서 매출을 창출하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "색조 화장품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 소비자가 기준 중고가 위주의 일반 화장품과 기능성 화장품 전반에 걸쳐서 매출을 창출하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "케이캡",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "합성신약 | 케이캡 | 위식도역류질환 | 2010년 | 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "데노수맙 바이오시밀러",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "바이오 | 데노수맙 바이오시밀러 | 골다공증 | 2022년(도입) | 품목허가 승인(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "GLP-1RA 주사제",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "바이오 | GLP-1RA 주사제 | 비만, 당뇨 | 2024년(도입) | 비만 및 당뇨 임상3상(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "두창예방백신",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "바이오 | 두창예방백신 | 3세대두창 | 2013년 | 임상1상 IND준비(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "위식도역류질환",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "합성신약 | 케이캡 | 위식도역류질환 | 2010년 | 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "골다공증",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "바이오 | 데노수맙 바이오시밀러 | 골다공증 | 2022년(도입) | 품목허가 승인(한국)"
+    },
+    {
+      "axis": "customer",
+      "value": "애터미",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "카버코리아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "씨제이올리브영",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "세종ㆍ전의ㆍ전동ㆍ부천 사업장 기준"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Kolmar USA 3,350억원"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "무석콜마 5,500억원"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Kolmar Canada 1,150억원"
+    },
+    {
+      "axis": "product",
+      "value": "화장품 포장재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜연우는 플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Paper Stick",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 ㈜연우의 'Paper Stick'은 세계 3대 디자인 어워드인 'Red Dot'에서 'Best of the Best'를 수상하며 글로벌 시장에 강렬한 인상을 남겼습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "재활용 플라스틱",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜연우는 탄소 발자국을 줄이기 위해 재생재(PCR) 사용을 극대화하고, 폐기되는 플라스틱에 새로운 생명을 불어넣고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"기초 화장품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"기초, 기능성 및 색조 화장품 등\"}, {\"axis\": \"product\", \"value\": \"색조 화장품\", \"weight\": 0.13, \"direction\": null, \"evidence\": \"기초, 기능성 및 색조 화장품 등\"}, {\"axis\": \"product\", \"value\": \"화장품 용기\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"화장품 용기 및 디스펜스 제조와 판매\"}, {\"axis\": \"product\", \"value\": \"케이캡\", \"weight\": 0.36, \"direction\": null, \"evidence\": \"치료제(위식도역류질환, 고지혈증, 고혈압 등)혈액 및 체액대용제, 혈중 영양분 공급제 등\"}, {\"axis\": \"product\", \"value\": \"컨디션\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"컨디션, 헛개수, 홍삼진 등 건강기능식품\"}, {\"axis\": \"raw_material\", \"value\": \"글리세린\", \"weight\": 0.41, \"direction\": null, \"evidence\": \"글리세린 등 | 보습제 외 | 347,929 | 40.83\"}, {\"axis\": \"raw_material\", \"value\": \"구형흡착탄\", \"weight\": 0.0, \"direction\": null, \"evidence\": \"구형흡착탄 | 신부전치료제 | 2,852 | 0.33\"}, {\"axis\": \"raw_material\", \"value\": \"딜티아젬염산염\", \"weight\": 0.0, \"direction\": null, \"evidence\": \"딜티아젬염산염 | 고혈압치료제 | 4,154 | 0.49\"}, {\"axis\": \"region\", \"value\": \"세종\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 세종특별자치시(세종,전의,전동), 경기도 부천시, 서울시 서초구(종합기술원), 에이치케이이노엔㈜ (오송,이천,대소공장), ㈜연우(인천) 등 국내 12개 사업장\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"중국(북경, 무석, 후저우), 미국, 캐나다 등 해외 5개 법인에서 생산, 영업, 관리 및 연구개발활동을 수행하고 있습니다.\"}]}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"기초 화장품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사는 소비자가 기준 중고가 위주의 일반 화장품과 기능성 화장품 전반에 걸쳐서 매출을 창출하고 있으며\"}, {\"axis\": \"product\", \"value\": \"색조 화장품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 소비자가 기준 중고가 위주의 일반 화장품과 기능성 화장품 전반에 걸쳐서 매출을 창출하고 있으며\"}, {\"axis\": \"product\", \"value\": \"케이캡\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"합성신약 | 케이캡 | 위식도역류질환 | 2010년 | 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)\"}, {\"axis\": \"product\", \"value\": \"데노수맙 바이오시밀러\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"바이오 | 데노수맙 바이오시밀러 | 골다공증 | 2022년(도입) | 품목허가 승인(한국)\"}, {\"axis\": \"product\", \"value\": \"GLP-1RA 주사제\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"바이오 | GLP-1RA 주사제 | 비만, 당뇨 | 2024년(도입) | 비만 및 당뇨 임상3상(한국)\"}, {\"axis\": \"product\", \"value\": \"두창예방백신\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"바이오 | 두창예방백신 | 3세대두창 | 2013년 | 임상1상 IND준비(한국)\"}, {\"axis\": \"application\", \"value\": \"위식도역류질환\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"합성신약 | 케이캡 | 위식도역류질환 | 2010년 | 출시(한국, 중국 등), 허가 심사 중(미국),적응증 추가 임상3상(한국)\"}, {\"axis\": \"application\", \"value\": \"골다공증\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"바이오 | 데노수맙 바이오시밀러 | 골다공증 | 2022년(도입) | 품목허가 승인(한국)\"}, {\"axis\": \"customer\", \"value\": \"애터미\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"카버코리아\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"씨제이올리브영\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"애터미, 카버코리아, 씨제이올리브영 및 글로벌 고객사를 포함하여 약 900여개 이상의 고객사와 거래하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"세종ㆍ전의ㆍ전동ㆍ부천 사업장 기준\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"Kolmar USA 3,350억원\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"무석콜마 5,500억원\"}, {\"axis\": \"region\", \"value\": \"캐나다\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"Kolmar Canada 1,150억원\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품 포장재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"㈜연우는 플라스틱 포장재 제조 전문 기업으로서, 플라스틱 순환경제 실현을 최우선 과제로 삼고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Paper Stick\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 ㈜연우의 'Paper Stick'은 세계 3대 디자인 어워드인 'Red Dot'에서 'Best of the Best'를 수상하며 글로벌 시장에 강렬한 인상을 남겼습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"재활용 플라스틱\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"㈜연우는 탄소 발자국을 줄이기 위해 재생재(PCR) 사용을 극대화하고, 폐기되는 플라스틱에 새로운 생명을 불어넣고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/161890_20260318001196.txt"
+}

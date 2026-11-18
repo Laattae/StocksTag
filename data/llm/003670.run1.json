@@ -1,0 +1,151 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에너지소재사업 | 양극재, 음극재 | 배터리 소재 | 1,574,083 | 53.6 |"
+    },
+    {
+      "axis": "product",
+      "value": "음극재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "에너지소재사업 | 양극재, 음극재 | 배터리 소재 | 1,574,083 | 53.6 |"
+    },
+    {
+      "axis": "product",
+      "value": "생석회",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "라임화성사업 | 생석회, 화성품 가공 및 판매,화성공장 위탁 운영 | 생석회, 화성품 가공 및 판매,화성공장 위탁 운영 | 859,306 | 29.2 |"
+    },
+    {
+      "axis": "product",
+      "value": "내화물",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "기초소재사업 | 내화물사업 | 내화물 제조 및산업용노재 정비 | 내화물 제조 및산업용노재 정비 | 505,309 | 17.2 |"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "최근 기후 변화에 대응하기 위해 온실가스 감축을 위한 전기차 보급, 신재생에너지의 효율적 저장이 가능한 에너지 저장장치(Energy Storage System, ESS) 등이 각국 정부의 정책 및 규제에 힘입어 뚜렷한 성장세를 보이고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신재생에너지의 효율적 저장이 가능한 에너지 저장장치(Energy Storage System, ESS) 등이 각국 정부의 정책 및 규제에 힘입어 뚜렷한 성장세를 보이고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "제철",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "내화물 산업의 매출비중은 제철, 제강산업이 약 70%, 시멘트, 요업산업이 약 10%로 2개 주요산업의 비중이 약 80%를 차지하고 있어"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "내화물사업부문은 ㈜포스코 등 17.2%, 라임화성사업부문은 ㈜포스코, (주)OCI 등 29.2%, 에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Ultium Cells",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK온",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전구체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "양극재 | 원재료 | 전구체 外 | 제품제조 | 946,053,408 | 78.7 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석회석",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "생석회 | 원재료 | 석회석 | 제품제조 | 114,440,953 | 9.5 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "흑연",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "음극재 | 원재료 | 흑연 外 | 제품제조 | 50,649,907 | 4.2 |"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "내화물 | 정형, 부정형 등 | 포항 | 116,560 | 116,560 | 116,560 |"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "광양 1,2단계(30,000톤), 광양 3,4단계(60,000톤) 및 포항 1단계(29,000톤) 준공을 통해 하이니켈계 NCMA 등을 양산하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국 사업의 경우, 현지 소재사인 화유코발트社와의 합작법인이 2019년 말부터 5,000 톤 규모의 생산시설을 운영 중에 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "북미 사업의 경우, GM과의 양극재 합작법인(지분율: 당사 85%, GM 15%)을 기반으로 캐나다 퀘백 지역에 양극재 생산능력을 확보할 예정입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업 | 양극재, 음극재 | 배터리 소재 | 1,574,083 | 53.6 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음극재\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업 | 양극재, 음극재 | 배터리 소재 | 1,574,083 | 53.6 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생석회\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"라임화성사업 | 생석회, 화성품 가공 및 판매,화성공장 위탁 운영 | 생석회, 화성품 가공 및 판매,화성공장 위탁 운영 | 859,306 | 29.2 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"내화물\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"기초소재사업 | 내화물사업 | 내화물 제조 및산업용노재 정비 | 내화물 제조 및산업용노재 정비 | 505,309 | 17.2 |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"최근 기후 변화에 대응하기 위해 온실가스 감축을 위한 전기차 보급, 신재생에너지의 효율적 저장이 가능한 에너지 저장장치(Energy Storage System, ESS) 등이 각국 정부의 정책 및 규제에 힘입어 뚜렷한 성장세를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지의 효율적 저장이 가능한 에너지 저장장치(Energy Storage System, ESS) 등이 각국 정부의 정책 및 규제에 힘입어 뚜렷한 성장세를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제철\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"내화물 산업의 매출비중은 제철, 제강산업이 약 70%, 시멘트, 요업산업이 약 10%로 2개 주요산업의 비중이 약 80%를 차지하고 있어\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"내화물사업부문은 ㈜포스코 등 17.2%, 라임화성사업부문은 ㈜포스코, (주)OCI 등 29.2%, 에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Ultium Cells\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG에너지솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK온\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전구체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"양극재 | 원재료 | 전구체 外 | 제품제조 | 946,053,408 | 78.7 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석회석\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"생석회 | 원재료 | 석회석 | 제품제조 | 114,440,953 | 9.5 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"흑연\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"음극재 | 원재료 | 흑연 外 | 제품제조 | 50,649,907 | 4.2 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"내화물 | 정형, 부정형 등 | 포항 | 116,560 | 116,560 | 116,560 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"광양 1,2단계(30,000톤), 광양 3,4단계(60,000톤) 및 포항 1단계(29,000톤) 준공을 통해 하이니켈계 NCMA 등을 양산하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국 사업의 경우, 현지 소재사인 화유코발트社와의 합작법인이 2019년 말부터 5,000 톤 규모의 생산시설을 운영 중에 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캐나다\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"북미 사업의 경우, GM과의 양극재 합작법인(지분율: 당사 85%, GM 15%)을 기반으로 캐나다 퀘백 지역에 양극재 생산능력을 확보할 예정입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/003670_20260312000826.txt"
+}

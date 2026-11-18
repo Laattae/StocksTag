@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "에너지경화수지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "연결기업의 주력 사업은 에너지경화수지(UV/EB curable resin)를 생산하는 것입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아크릴계 모노머",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "올리고머",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "광개시제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "코팅",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "잉크",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "접착제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "응용 분야에 있어서도 전통적인 사업영역인 코팅... 넘어서 휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "응용 분야에 있어서도 전통적인 사업영역인 코팅... 넘어서 휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "조광페인트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "지에스칼텍스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다"
+    },
+    {
+      "axis": "customer",
+      "value": "TOYO Chemical CO., LTD.",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "RAHN AG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "AA",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(단위 : 원/KG) | 구 분 | 제 9 기 | 제 8 기 | 제 7 기 | AA 등 | 1,700 | 1,713 | 1,818 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경기도 광교에 위치한 광교사무소 및 연구소를 비롯하여 국내는 전주, 충주, 해외는 미국에 위치한 사업장에서"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전주공장(미원스페셜티케미칼주식회사) | 전북 완주군 봉동읍 완주산단1로 167 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충주공장(미원스페셜티케미칼주식회사) | 충북 충주시 대소원면 기업도시1로 21 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해외(1개 사업장) | Miwon Specialty Chemical USA, Inc. | 1700 Longwood Road, Richland County,SC 29209, USA |"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"에너지경화수지\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"연결기업의 주력 사업은 에너지경화수지(UV/EB curable resin)를 생산하는 것입니다.\"}, {\"axis\": \"product\", \"value\": \"아크릴계 모노머\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"올리고머\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"광개시제\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결기업은 UV경화에 사용되는 핵심 원료인 아크릴계 모노머, 올리고머, 고분자, 광개시제 및 파우더 코팅 첨가제를 생산, 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"코팅\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"잉크\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"접착제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"현재는 주로 코팅, 잉크, 접착제 등에 널리 쓰이며, 점차 그 응용 분야를 넓혀 가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"응용 분야에 있어서도 전통적인 사업영역인 코팅... 넘어서 휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"응용 분야에 있어서도 전통적인 사업영역인 코팅... 넘어서 휴대폰이나 태블릿, LCD/OLED TV 등의 디스플레이나 반도체까지 확대해 나가고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"조광페인트\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다\"}, {\"axis\": \"customer\", \"value\": \"지에스칼텍스\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결기업의 제 9기(2025.01.01-2025.12.31) 동안 주요 내수매출처는 조광페인트(주), 지에스칼텍스(주) 등이 있습니다\"}, {\"axis\": \"customer\", \"value\": \"TOYO Chemical CO., LTD.\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"RAHN AG\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"해외매출처의 경우는 TOYO Chemical CO., LTD., RAHN AG 등이 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"AA\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"(단위 : 원/KG) | 구 분 | 제 9 기 | 제 8 기 | 제 7 기 | AA 등 | 1,700 | 1,713 | 1,818 |\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"경기도 광교에 위치한 광교사무소 및 연구소를 비롯하여 국내는 전주, 충주, 해외는 미국에 위치한 사업장에서\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전주공장(미원스페셜티케미칼주식회사) | 전북 완주군 봉동읍 완주산단1로 167 |\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"충주공장(미원스페셜티케미칼주식회사) | 충북 충주시 대소원면 기업도시1로 21 |\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"해외(1개 사업장) | Miwon Specialty Chemical USA, Inc. | 1700 Longwood Road, Richland County,SC 29209, USA |\"}]}"
+  ],
+  "text_path": "data/reports/268280_20260311003661.txt"
+}

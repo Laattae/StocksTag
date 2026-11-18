@@ -1,0 +1,235 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "골이식재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 수익사업인 골이식재, 기능성 소재 및 관련제품 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "기능성 소재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기능성 소재 및 관련제품은 주로 건강기능식품의 소재로 판매되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "멤브레인",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 생물 신소재 및 조직공학 전문기업인 (주)현대바이오랜드와 공동개발한 흡수성 콜라겐 차폐막 \"CollaGuide\"를 지난 2009년 출시하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "폐암 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내제약사에 기술이전한 표적항암제 폐암 치료 물질은 한국 식약처 및 미국 FDA에서 단독 또는 병용 1차 치료제로 승인을 받았습니다."
+    },
+    {
+      "axis": "product",
+      "value": "알츠하이머 치료제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "타우 단백질 타깃 알츠하이머 치료제 후보물질 기술이전"
+    },
+    {
+      "axis": "application",
+      "value": "치과",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "골이식재 사업 및 차폐막 사업은 주로 치과를 대상으로 한 제품으로, 우수한 가격경쟁력을 확보하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "류마티스관절염",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "창사 이래 관절염, 항암제 등과 관련된 질병의 합성신약개발에 주력해 왔으며"
+    },
+    {
+      "axis": "application",
+      "value": "급성골수성백혈병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "급성골수성 백혈병(AML)은 면역세포의 일종인 미성숙백혈구가 비정상적으로 증식하는 혈액암입니다."
+    },
+    {
+      "axis": "application",
+      "value": "난치성 고형암",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "진행성 암 중에서 대표적인 난치성 질병으로 비소세포성 폐암 (NSCLC), 삼중음성 유방암 (Triple negative breast cancer, TNBC), 그리고 비뇨기암 (Kidney and bladder cancer) 등이 알려져 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머병",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "알츠하이머병은 뇌세포의 퇴화로 기억력을 비롯한 여러 인지기능이 점진적으로 저하되며 일상생활의 장애가 초래되는 만성뇌질환입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내제약사에 기술이전한 표적항암제 폐암 치료 물질은 한국 식약처 및 미국 FDA에서 단독 또는 병용 1차 치료제로 승인을 받았습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "사노피",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "타우 단백질 타깃 알츠하이머 치료제 후보물질 기술이전"
+    },
+    {
+      "axis": "customer",
+      "value": "아델",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "퇴행성뇌질환 치료제 개발을 위한 기술도입 및 공동연구 계약"
+    },
+    {
+      "axis": "customer",
+      "value": "카나프테라퓨틱스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신규면역항암제치료제 개발을 위한 기술도입 및 공동연구 계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소뼈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 주요매입처 - 소뼈: 호주 수입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "돼지심막",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 주요매입처 - 돼지심막: 호주 수입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전칠삼 분말",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국외 | 전칠삼 분말"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "사업소 : 동탄 지점 외, 소재지 : 경기도화성시동탄대로 외"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사의 외환위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "치과용 골이식재",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사의 주력제품인 InduCera의 경우 칼슘포스페이트 크리스탈 이중코팅과 새로운 제조 공정으로 신생골 형성 능력을 보다 향상시킴으로써 품질 비교우위에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "치과용 차폐막",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "당사에서 2015년 2분기 출시한 LYSOGIDE 제품은 추출 정제된 콜라겐이 아닌 돼지 심장막 자체의 천연 콜라겐을 이용하며 가교제 처리 없이 탈세포화 처리만을 시행한 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 자체 개발한 개별인정형 소재인 가시오가피숙지황복합물[OPB]을 함유하여 임플란트 고정에 중요한 역할을 하는 『포스트플랜트OPB』제품을 치과병의원에 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항암제",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사가 개발 중인 후보물질 OCT-598은 EP2/EP4 이중 저해 저분자 화합물로, EP4 단일 수용체를 타겟으로 하는 대부분의 경쟁약물에 비해 PGE2-EP 수용체 신호 경로에 대한 억제력이 우수합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동물뼈",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이종골 제조 방법 | - 동물뼈를 이용한 골이식재 대체재 및 그 제조방법 (2002년)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "돼지 심장막",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사에서 2015년 2분기 출시한 LYSOGIDE 제품은 추출 정제된 콜라겐이 아닌 돼지 심장막 자체의 천연 콜라겐을 이용하며 가교제 처리 없이 탈세포화 처리만을 시행한 제품입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "가시오가피숙지황복합추출물",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사의 기능성 소재는 뼈질환과 관련된 영양성분만 공급하는 수동적인 기능성에서 탈피하고 파골세포의 억제와 동시에 조골세포를 활성화하는 효능을 지닌 천연물소재로 개발되었습니다. 기존의 일반적인 소재들에 비해 개발과정과 효능면에서 차별화된 당사의 가시오가피숙지황복합추출물[OPB]소재는"
+    },
+    {
+      "axis": "customer",
+      "value": "셀로맥스사이언스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사 개별인정원료인 전칠삼추출물등복합물[AIF]은 ㈜셀로맥스사이언스의『셀로맥스조인트케어』관절건강제품에 사용되고, 뼈건강관련 특허원료 [OCT11&40]는 비락의『우유2U 뼈를 위한 고칼슘우유』제품에 함유되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "비락",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사 개별인정원료인 전칠삼추출물등복합물[AIF]은 ㈜셀로맥스사이언스의『셀로맥스조인트케어』관절건강제품에 사용되고, 뼈건강관련 특허원료 [OCT11&40]는 비락의『우유2U 뼈를 위한 고칼슘우유』제품에 함유되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG생활건강",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "어린이제품에 특성화된 가시오갈피숙지황추출물분말[SGA]은 LG생활건강의 『태자록』, 해태제과의 『키즈톨』등의 제품에 적용되어 건강기능식품 뿐만이 아닌 캔디와 껌 등의 다양한 일반식품 유형으로 적용영역을 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "해태제과",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "어린이제품에 특성화된 가시오갈피숙지황추출물분말[SGA]은 LG생활건강의 『태자록』, 해태제과의 『키즈톨』등의 제품에 적용되어 건강기능식품 뿐만이 아닌 캔디와 껌 등의 다양한 일반식품 유형으로 적용영역을 확대하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "치과",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "골이식재는 의료기기로 주로 치과와 정형외과에서 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "정형외과",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "골이식재는 의료기기로 주로 치과와 정형외과에서 사용되고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"골이식재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 수익사업인 골이식재, 기능성 소재 및 관련제품 등을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기능성 소재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"기능성 소재 및 관련제품은 주로 건강기능식품의 소재로 판매되고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"멤브레인\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 생물 신소재 및 조직공학 전문기업인 (주)현대바이오랜드와 공동개발한 흡수성 콜라겐 차폐막 \\\"CollaGuide\\\"를 지난 2009년 출시하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폐암 치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내제약사에 기술이전한 표적항암제 폐암 치료 물질은 한국 식약처 및 미국 FDA에서 단독 또는 병용 1차 치료제로 승인을 받았습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알츠하이머 치료제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"타우 단백질 타깃 알츠하이머 치료제 후보물질 기술이전\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"치과\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"골이식재 사업 및 차폐막 사업은 주로 치과를 대상으로 한 제품으로, 우수한 가격경쟁력을 확보하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"류마티스관절염\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"창사 이래 관절염, 항암제 등과 관련된 질병의 합성신약개발에 주력해 왔으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"급성골수성백혈병\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"급성골수성 백혈병(AML)은 면역세포의 일종인 미성숙백혈구가 비정상적으로 증식하는 혈액암입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"난치성 고형암\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"진행성 암 중에서 대표적인 난치성 질병으로 비소세포성 폐암 (NSCLC), 삼중음성 유방암 (Triple negative breast cancer, TNBC), 그리고 비뇨기암 (Kidney and bladder cancer) 등이 알려져 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알츠하이머병\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머병은 뇌세포의 퇴화로 기억력을 비롯한 여러 인지기능이 점진적으로 저하되며 일상생활의 장애가 초래되는 만성뇌질환입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내제약사에 기술이전한 표적항암제 폐암 치료 물질은 한국 식약처 및 미국 FDA에서 단독 또는 병용 1차 치료제로 승인을 받았습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"사노피\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"타우 단백질 타깃 알츠하이머 치료제 후보물질 기술이전\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"아델\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"퇴행성뇌질환 치료제 개발을 위한 기술도입 및 공동연구 계약\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"카나프테라퓨틱스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신규면역항암제치료제 개발을 위한 기술도입 및 공동연구 계약\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소뼈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 주요매입처 - 소뼈: 호주 수입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"돼지심막\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 주요매입처 - 돼지심막: 호주 수입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전칠삼 분말\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국외 | 전칠삼 분말\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"사업소 : 동탄 지점 외, 소재지 : 경기도화성시동탄대로 외\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율변동\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사의 외환위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"치과용 골이식재\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"당사의 주력제품인 InduCera의 경우 칼슘포스페이트 크리스탈 이중코팅과 새로운 제조 공정으로 신생골 형성 능력을 보다 향상시킴으로써 품질 비교우위에 있습니다.\"}, {\"axis\": \"product\", \"value\": \"치과용 차폐막\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"당사에서 2015년 2분기 출시한 LYSOGIDE 제품은 추출 정제된 콜라겐이 아닌 돼지 심장막 자체의 천연 콜라겐을 이용하며 가교제 처리 없이 탈세포화 처리만을 시행한 제품입니다.\"}, {\"axis\": \"product\", \"value\": \"건강기능식품\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사는 자체 개발한 개별인정형 소재인 가시오가피숙지황복합물[OPB]을 함유하여 임플란트 고정에 중요한 역할을 하는 『포스트플랜트OPB』제품을 치과병의원에 공급하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"항암제\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사가 개발 중인 후보물질 OCT-598은 EP2/EP4 이중 저해 저분자 화합물로, EP4 단일 수용체를 타겟으로 하는 대부분의 경쟁약물에 비해 PGE2-EP 수용체 신호 경로에 대한 억제력이 우수합니다.\"}, {\"axis\": \"raw_material\", \"value\": \"동물뼈\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"이종골 제조 방법 | - 동물뼈를 이용한 골이식재 대체재 및 그 제조방법 (2002년)\"}, {\"axis\": \"raw_material\", \"value\": \"돼지 심장막\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사에서 2015년 2분기 출시한 LYSOGIDE 제품은 추출 정제된 콜라겐이 아닌 돼지 심장막 자체의 천연 콜라겐을 이용하며 가교제 처리 없이 탈세포화 처리만을 시행한 제품입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"가시오가피숙지황복합추출물\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사의 기능성 소재는 뼈질환과 관련된 영양성분만 공급하는 수동적인 기능성에서 탈피하고 파골세포의 억제와 동시에 조골세포를 활성화하는 효능을 지닌 천연물소재로 개발되었습니다. 기존의 일반적인 소재들에 비해 개발과정과 효능면에서 차별화된 당사의 가시오가피숙지황복합추출물[OPB]소재는\"}, {\"axis\": \"customer\", \"value\": \"셀로맥스사이언스\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사 개별인정원료인 전칠삼추출물등복합물[AIF]은 ㈜셀로맥스사이언스의『셀로맥스조인트케어』관절건강제품에 사용되고, 뼈건강관련 특허원료 [OCT11&40]는 비락의『우유2U 뼈를 위한 고칼슘우유』제품에 함유되어 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"비락\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사 개별인정원료인 전칠삼추출물등복합물[AIF]은 ㈜셀로맥스사이언스의『셀로맥스조인트케어』관절건강제품에 사용되고, 뼈건강관련 특허원료 [OCT11&40]는 비락의『우유2U 뼈를 위한 고칼슘우유』제품에 함유되어 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"LG생활건강\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"어린이제품에 특성화된 가시오갈피숙지황추출물분말[SGA]은 LG생활건강의 『태자록』, 해태제과의 『키즈톨』등의 제품에 적용되어 건강기능식품 뿐만이 아닌 캔디와 껌 등의 다양한 일반식품 유형으로 적용영역을 확대하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"해태제과\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"어린이제품에 특성화된 가시오갈피숙지황추출물분말[SGA]은 LG생활건강의 『태자록』, 해태제과의 『키즈톨』등의 제품에 적용되어 건강기능식품 뿐만이 아닌 캔디와 껌 등의 다양한 일반식품 유형으로 적용영역을 확대하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"치과\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"골이식재는 의료기기로 주로 치과와 정형외과에서 사용되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"정형외과\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"골이식재는 의료기기로 주로 치과와 정형외과에서 사용되고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/039200_20260319001005.txt"
+}

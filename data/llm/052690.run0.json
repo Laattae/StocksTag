@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "원자력발전소 설계",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M"
+    },
+    {
+      "axis": "product",
+      "value": "원자로 계통설계",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "회사는 원자력발전소 종합설계와 원자로계통설계 기술을 함께 보유한 기업으로, 1,2차 계통을 동시에 설계할 수 있는 세계 최고수준의 발전소 설계전문회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "화력발전소 설계",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신재생에너지 발전설비 설계",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SMR",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "기존 대형원전 대비 소규모 설비용량의 SMR(소형모듈형원자로) 기술개발에서 계통설계와 BOP(Balance Of Plant) 종합설계와 같은 핵심과제를 주관하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사의 사업부문은 사업영역에 따라 원자력, 원자로, 에너지신사업으로 분류하고 있습니다. 원자력은 원전 종합설계(Architect Engineering), 원자로는 원자로계통설계(Nuclear Steam Supply System)"
+    },
+    {
+      "axis": "application",
+      "value": "화력발전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원자력 부문에서는 원자로계통설계기술을 기반으로 국내 신규원전 건설사업의 원자로계통설계 용역을 무결점으로 수행하고 있으며, 국내 가동원전의 안전성 증진 및 효율성 개선을 위한 설계개선 용역들의 수행을 통해 발전소 운영사인 한국수력원자력의 안전한 원전 운영의 임무를 지원하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "한국전력공사 | UAE 원전 종합설계용역 | 2010.03.25 | 2026.12.31 | 8,493 | 8,493 | -"
+    },
+    {
+      "axis": "customer",
+      "value": "Nawah Energy Company",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Nawah EnergyCompany | Barakah 가동원전 LTEA(장기엔지니어링지원)용역 | 2018.01.23 | 2031.01.22 | 3,400 | 399 | 3,001"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "토지 | 김천본사 외 | 자가보유 | 경북 김천 외 | 131,144㎡ | 55,609 | - | - | - | 55,609"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 1.0,
+      "direction": -1,
+      "evidence": "회사는 외화로 체결된 용역 및 건설계약 등과 관련하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자력발전소 설계\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자로 계통설계\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"회사는 원자력발전소 종합설계와 원자로계통설계 기술을 함께 보유한 기업으로, 1,2차 계통을 동시에 설계할 수 있는 세계 최고수준의 발전소 설계전문회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화력발전소 설계\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신재생에너지 발전설비 설계\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SMR\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"기존 대형원전 대비 소규모 설비용량의 SMR(소형모듈형원자로) 기술개발에서 계통설계와 BOP(Balance Of Plant) 종합설계와 같은 핵심과제를 주관하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사의 사업부문은 사업영역에 따라 원자력, 원자로, 에너지신사업으로 분류하고 있습니다. 원자력은 원전 종합설계(Architect Engineering), 원자로는 원자로계통설계(Nuclear Steam Supply System)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화력발전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원자력 부문에서는 원자로계통설계기술을 기반으로 국내 신규원전 건설사업의 원자로계통설계 용역을 무결점으로 수행하고 있으며, 국내 가동원전의 안전성 증진 및 효율성 개선을 위한 설계개선 용역들의 수행을 통해 발전소 운영사인 한국수력원자력의 안전한 원전 운영의 임무를 지원하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"한국전력공사 | UAE 원전 종합설계용역 | 2010.03.25 | 2026.12.31 | 8,493 | 8,493 | -\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Nawah Energy Company\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Nawah EnergyCompany | Barakah 가동원전 LTEA(장기엔지니어링지원)용역 | 2018.01.23 | 2031.01.22 | 3,400 | 399 | 3,001\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"토지 | 김천본사 외 | 자가보유 | 경북 김천 외 | 131,144㎡ | 55,609 | - | - | - | 55,609\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 1.0,\n      \"direction\": -1,\n      \"evidence\": \"회사는 외화로 체결된 용역 및 건설계약 등과 관련하여 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/052690_20260326001003.txt"
+}

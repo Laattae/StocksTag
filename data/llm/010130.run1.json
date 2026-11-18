@@ -1,0 +1,335 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아연",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "지배회사인 고려아연㈜는 비철금속제련회사로서 아연과 연의 생산 및 판매를 주업종으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "연",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "지배회사인 고려아연㈜는 비철금속제련회사로서 아연과 연의 생산 및 판매를 주업종으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "은",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산니켈",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주요 제품인 아연은 일반적으로 철강재의 보호피막으로 사용되며, 강관, 강판, 철선ㆍ철구조물 등의 소재에 도금용으로 사용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "배터리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한 연 수요의 대부분이 배터리 제조용이며 이외에는 Litharge, 전선피복, 땜납, 방사선차폐, 안료, 방수재, 방음재, 총탄, 솔더 등 그 용도는 다양합니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연정광",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "연정광",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈 파우더",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "종속회사인 켐코㈜의 주요 원재료는 Class1 니켈(니켈 파우더, 니켈 브리켓)입니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "온산제련소 | 자가 | 울산 온산"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업부문별로 지배회사와 동일한 비철금속제조 및 판매업(Sun Metals Corporation Pty Ltd)"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자원순환 사업 (스틸싸이클㈜, Zinc Oxide Corporation Vietnam LLC)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다."
+    },
+    {
+      "axis": "product",
+      "value": "아연",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "연",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "은",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "동",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": ""
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "종속회사인 SMC는 세계에서 가장 친환경적인 제련소로 설계되었습니다. 호주정부 산하 기관인 Environmental Protection Agency는 Department Approval(DA) IPDE01512809에 근거하여 일반조업환경에서부터 대기, 소음 및 수질관리까지 철저히 감독하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "① 미국 테네시주에 핵심광물(안티모니, 갈륨 등) 등의 생산을 위한 통합 비철금속 제련소 구축 프로젝트 관리"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "미국 관세 부과 위협에 따른 달러 강세 기조 및 글로벌 경기 침체 우려, 초과 공급 지속 등이 전반적인 가격 하락 초래"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "또한, 비철금속 가격은 글로벌 시장 상황과 연동되기 때문에 투기적 수요 등 수급 상황(Fundamental) 이외의 세계 금융 시장 환경 변화에도 제한적으로 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산니켈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "황산니켈은 삼원계(NCM/NCA) 배터리 양극재의 전구체 원료로 사용되며, 전기자동차 및 2차전지 산업 성장과 함께 빠르게 확장되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전지박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전지박은 전기 자동차, ESS, IT 등 2차전지 적용장치에 전방위적으로 사용되는 핵심 음극 소재입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아연",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며"
+    },
+    {
+      "axis": "product",
+      "value": "연",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며"
+    },
+    {
+      "axis": "product",
+      "value": "반도체용 황산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2029년 시운전을 목표로, 핵심광물 11종을 포함한 비철금속 13종 및 반도체용 황산을 생산할 계획입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "황산니켈 수요의 90%가 전기차 산업에 해당하는 만큼, 해당 시장의 경기 변동에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전지박 산업은 전기 자동차와 2차전지 산업이 성장함에 따라 연쇄적으로 빠르게 확장될 것으로 기대되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제강분진",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하지만 원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상 제강분진을 확보해야 하는 경쟁적인 시장입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "E-scrap",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "종속회사인 Pedalpoint는 E-Waste 수거, 파쇄 및 선별을 통해 E-scrap을 생산하는 evTerra와 E-scrap의 소성을 통해 소성품 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "정광",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "종속회사인 KZMH(ICM Pachapaqui)사에서 정광을 공급하고 있는 아연, 연 등의 비철금속 산업은 국가 기간산업으로 이 산업들을 지탱해주는 원자재 확보의 중요성이 날로 커져가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 글로벌 공급망 리스크 분산, 핵심광물 수요 확대 대응, 안정적인 중장기 성장성 확보를 위하여 미국 정부와의 파트너십을 기반으로 한 미국 통합 비철금속 제련소 투자(이하 \"본 프로젝트\")를 결정하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해외 시장의 경우 중국 기업의 생산량이 많으나 주로 내수로 소비되며, 그 외 주요 생산 업체로는 Norilsk, Terrafame, Coremax, Jenith, Mechema 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아연\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"지배회사인 고려아연㈜는 비철금속제련회사로서 아연과 연의 생산 및 판매를 주업종으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"지배회사인 고려아연㈜는 비철금속제련회사로서 아연과 연의 생산 및 판매를 주업종으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"은\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"기타 금, 은, 동, 황산 등은 아연과 연의 제련과정에서 회수하는 유가금속을 부산물의 일종으로 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산니켈\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품인 아연은 일반적으로 철강재의 보호피막으로 사용되며, 강관, 강판, 철선ㆍ철구조물 등의 소재에 도금용으로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"배터리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한 연 수요의 대부분이 배터리 제조용이며 이외에는 Litharge, 전선피복, 땜납, 방사선차폐, 안료, 방수재, 방음재, 총탄, 솔더 등 그 용도는 다양합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차전지\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 제품인 황산니켈(NiSO4)은 2차전지의 원료로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아연정광\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"연정광\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 아연제련 원료인 아연정광과 연제련 원료인 연정광이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈 파우더\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 켐코㈜의 주요 원재료는 Class1 니켈(니켈 파우더, 니켈 브리켓)입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"온산제련소 | 자가 | 울산 온산\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"사업부문별로 지배회사와 동일한 비철금속제조 및 판매업(Sun Metals Corporation Pty Ltd)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자원순환 사업 (스틸싸이클㈜, Zinc Oxide Corporation Vietnam LLC)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"SMC에서 판매되는 아연 제품의 가격은 국제시장가격(LME) 및 환율에 연동되어 책정되므로 세계상품시장 변동에 민감합니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아연\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"은\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다. 특히 당사의 대표적인 제품인 아연은 자동차 및 가전제품의 외장재와 건설용 철판재에 쓰이는 철강재의 부식 방지용 도금원료로 쓰이고 있으며, 연은 자동차의 주요 부품인 배터리의 원료와 건설자재, 전선피복, 방음재의 기초재료로 사용되고 있습니다. 이렇듯 비철금속 산업은 철강업과 함께 대표적인 국가 기간산업이며, 최근에는 원자재로서 중요성이 더욱 커지고 있는 산업으로 지속적으로 발전해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"비철금속 산업은 철강, 자동차, 가전, 전기, 건설산업 등의 중요한 기초 소재 산업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"종속회사인 SMC는 세계에서 가장 친환경적인 제련소로 설계되었습니다. 호주정부 산하 기관인 Environmental Protection Agency는 Department Approval(DA) IPDE01512809에 근거하여 일반조업환경에서부터 대기, 소음 및 수질관리까지 철저히 감독하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"① 미국 테네시주에 핵심광물(안티모니, 갈륨 등) 등의 생산을 위한 통합 비철금속 제련소 구축 프로젝트 관리\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"미국 관세 부과 위협에 따른 달러 강세 기조 및 글로벌 경기 침체 우려, 초과 공급 지속 등이 전반적인 가격 하락 초래\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"또한, 비철금속 가격은 글로벌 시장 상황과 연동되기 때문에 투기적 수요 등 수급 상황(Fundamental) 이외의 세계 금융 시장 환경 변화에도 제한적으로 영향을 받습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"황산니켈\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"황산니켈은 삼원계(NCM/NCA) 배터리 양극재의 전구체 원료로 사용되며, 전기자동차 및 2차전지 산업 성장과 함께 빠르게 확장되고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"전지박\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전지박은 전기 자동차, ESS, IT 등 2차전지 적용장치에 전방위적으로 사용되는 핵심 음극 소재입니다.\"}, {\"axis\": \"product\", \"value\": \"아연\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며\"}, {\"axis\": \"product\", \"value\": \"연\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며\"}, {\"axis\": \"product\", \"value\": \"반도체용 황산\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"2029년 시운전을 목표로, 핵심광물 11종을 포함한 비철금속 13종 및 반도체용 황산을 생산할 계획입니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"황산니켈 수요의 90%가 전기차 산업에 해당하는 만큼, 해당 시장의 경기 변동에 큰 영향을 받습니다.\"}, {\"axis\": \"application\", \"value\": \"2차전지\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전지박 산업은 전기 자동차와 2차전지 산업이 성장함에 따라 연쇄적으로 빠르게 확장될 것으로 기대되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"철강\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"철 도금의 원료인 아연, 자동차 배터리의 주원료인 연은 KZMH(ICM Pachapaqui)사 제품의 공급처인 고려아연에서 생산하고 있는 핵심 제품들이며\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"AI, 반도체, 이차전지, 신재생에너지, 방위산업 등 전략산업의 성장으로 핵심광물 수요는 지속적으로 증가하는 반면\"}, {\"axis\": \"raw_material\", \"value\": \"제강분진\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"하지만 원료인 제강분진은 전기로를 사용하는 제강사들의 철강산업 경기에 민감한 산업 특성상 제강분진을 확보해야 하는 경쟁적인 시장입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"E-scrap\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"종속회사인 Pedalpoint는 E-Waste 수거, 파쇄 및 선별을 통해 E-scrap을 생산하는 evTerra와 E-scrap의 소성을 통해 소성품 등을 생산하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"정광\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"종속회사인 KZMH(ICM Pachapaqui)사에서 정광을 공급하고 있는 아연, 연 등의 비철금속 산업은 국가 기간산업으로 이 산업들을 지탱해주는 원자재 확보의 중요성이 날로 커져가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 글로벌 공급망 리스크 분산, 핵심광물 수요 확대 대응, 안정적인 중장기 성장성 확보를 위하여 미국 정부와의 파트너십을 기반으로 한 미국 통합 비철금속 제련소 투자(이하 \\\"본 프로젝트\\\")를 결정하였습니다.\"}, {\"axis\": \"region\", \"value\": \"호주\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"호주의 재생에너지 시장은 풍부한 재생 가능 자원과 연방 및 주정부의 전반적으로 우호적인 목표 및 정책에 힘입어 지속적인 성장 가능성을 보이고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"해외 시장의 경우 중국 기업의 생산량이 많으나 주로 내수로 소비되며, 그 외 주요 생산 업체로는 Norilsk, Terrafame, Coremax, Jenith, Mechema 등이 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/010130_20260813001726.txt"
+}

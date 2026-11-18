@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "GaN 트랜지스터",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "GaN 전력증폭기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Microwave Generator",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "무선 통신",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨"
+    },
+    {
+      "axis": "application",
+      "value": "방위 산업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨"
+    },
+    {
+      "axis": "application",
+      "value": "RF 에너지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "통신사업본부는 삼성전자 및 국내 중계기 업체를 포함하는 국내/외 무선 통신 사업부문을 담당하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼 및 패키지",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "원재료 | 웨이퍼 및 패키지 | A사 등 | 63,746 | 25,543 | 20,914 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "경기도 과천시 과천대로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 1.0,
+      "direction": 1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화 및 유럽연합 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GaN 트랜지스터\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GaN 전력증폭기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Microwave Generator\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 GaN 트랜지스터, GaN 전력증폭기 그리고 Microwave Generator 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"무선 통신\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위 산업\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"RF 에너지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"화합물 반도체 전문기업인 알에프에이치아이씨 주식회사는 무선 통신, 방위 산업 및 RF 에너지 분야에서 활용되는 질화갈륨\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"통신사업본부는 삼성전자 및 국내 중계기 업체를 포함하는 국내/외 무선 통신 사업부문을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼 및 패키지\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 웨이퍼 및 패키지 | A사 등 | 63,746 | 25,543 | 20,914 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"경기도 과천시 과천대로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 1.0,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화 및 유럽연합 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/218410_20260331004907.txt"
+}

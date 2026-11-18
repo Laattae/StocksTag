@@ -1,0 +1,235 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "특수강봉강",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특수강봉강 | 특수강은 탄소량이 많은 특수 용도의 고탄소강과 탄소 이외에 Ni, Mn, Cr, Mo, V, Al 등 합금원소를 첨가하여 강의 특성을 개량한 합금강을 합친 것이며 이것을 봉의 형태로 성형한 제품"
+    },
+    {
+      "axis": "product",
+      "value": "STS선재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "STS선재 | STS선재는 내식성을 향상시키기 위해 만든 특수강 선재로 철강의 선 및 선제품을 생산하기 위한소재로서 직경이 5.0 ~ 34.0mm, 단면이 원형인 코일형상으로 감긴 강재"
+    },
+    {
+      "axis": "product",
+      "value": "STS강관",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "STS강관(무계목강관) | 단면 형상이 원형 또는 각형으로서 내부가 비어있는, 길고 좁은 형체의 강재로 용접을 하지 않아이음매가 없는 특징을 지닌 강관"
+    },
+    {
+      "axis": "product",
+      "value": "고강도 알루미늄 합금",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "회사는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문적으로 생산 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항공 및 방위 산업",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고강도 알루미늄 합금 소재는 항공 및 방위 산업에서 필수적이며, 자동차, 석유화학, 반도체, 발전 등 다양한 산업군에서 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "석유화학",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "강관 | 석유화학,발전,열교환기용 | 167,711(12%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "철스크랩 | 특수강,주조제품 | 766,892 | 81%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "합금철",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "합금철 | 〃 | 176,084 | 19%"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "특수강(천톤) | 군산/창녕 | 1,880 | 1,880 | 1,880"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "(주)세아창원특수강 | 1997.02 | 경남 창원시 | 특수강 제조 및 판매"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "자동차 및 건설중장비 수요",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "국내 특수강 수요는 자동차 및 건설중장비 생산량과 밀접한 연관성이 있으며, 그 밖에 기계, 조선 산업에도 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스테인리스강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "용도에 따라 구조용강, 스테인리스강, 공구용강, 기타 특수용도용 특수강 등으로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "공구강",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "용도에 따라 구조용강, 스테인리스강, 공구용강, 기타 특수용도용 특수강 등으로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄 합금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "특수합금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은 급격한 온도 변화 및 지속적인 고온 노출 환경에서도 일정한 기계적 성질을 유지하는 특성을 지녔으며"
+    },
+    {
+      "axis": "product",
+      "value": "무계목강관",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "무계목강관 | \n30~34% | \n31~35% | \n33~37%"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "기계",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "항공우주",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "항공기 구조물용 고강도 알루미늄 압출재, 방산용 소재, 고정밀 산업용 합금 소재 등을 제조하여 국내외 주요 고객사에 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "합금철",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 인고트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "알루미늄 합금 | 알루미늄 인고트 | 23,072 | 20,232 | 18,904"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "진행중인 투자 : 창원공장 균질 1호기 신규 설비 및 50인치 절단기 구축, 창녕 신공장 구축 진행"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "외환 위험은 환율 변동으로 인해 외화 표시 자산 및 부채의 가치가 변동할 위험입니다. 주로 수출입 거래에서 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기요금",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "여전히 높은 산업용 전기요금과 탄소배출권(K-ETS) 규제 강화로 제조 원가 부담이 현실화되었으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"특수강봉강\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특수강봉강 | 특수강은 탄소량이 많은 특수 용도의 고탄소강과 탄소 이외에 Ni, Mn, Cr, Mo, V, Al 등 합금원소를 첨가하여 강의 특성을 개량한 합금강을 합친 것이며 이것을 봉의 형태로 성형한 제품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS선재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"STS선재 | STS선재는 내식성을 향상시키기 위해 만든 특수강 선재로 철강의 선 및 선제품을 생산하기 위한소재로서 직경이 5.0 ~ 34.0mm, 단면이 원형인 코일형상으로 감긴 강재\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS강관\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"STS강관(무계목강관) | 단면 형상이 원형 또는 각형으로서 내부가 비어있는, 길고 좁은 형체의 강재로 용접을 하지 않아이음매가 없는 특징을 지닌 강관\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고강도 알루미늄 합금\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"회사는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문적으로 생산 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공 및 방위 산업\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고강도 알루미늄 합금 소재는 항공 및 방위 산업에서 필수적이며, 자동차, 석유화학, 반도체, 발전 등 다양한 산업군에서 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유화학\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"강관 | 석유화학,발전,열교환기용 | 167,711(12%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 | 특수강,주조제품 | 766,892 | 81%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"합금철\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"합금철 | 〃 | 176,084 | 19%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"특수강(천톤) | 군산/창녕 | 1,880 | 1,880 | 1,880\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"(주)세아창원특수강 | 1997.02 | 경남 창원시 | 특수강 제조 및 판매\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"자동차 및 건설중장비 수요\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"국내 특수강 수요는 자동차 및 건설중장비 생산량과 밀접한 연관성이 있으며, 그 밖에 기계, 조선 산업에도 영향을 받습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스테인리스강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"용도에 따라 구조용강, 스테인리스강, 공구용강, 기타 특수용도용 특수강 등으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공구강\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"용도에 따라 구조용강, 스테인리스강, 공구용강, 기타 특수용도용 특수강 등으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄 합금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"특수합금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은 급격한 온도 변화 및 지속적인 고온 노출 환경에서도 일정한 기계적 성질을 유지하는 특성을 지녔으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무계목강관\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"무계목강관 | \\n30~34% | \\n31~35% | \\n33~37%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"기계\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공우주\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"항공기 구조물용 고강도 알루미늄 압출재, 방산용 소재, 고정밀 산업용 합금 소재 등을 제조하여 국내외 주요 고객사에 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"합금철\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 인고트\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 합금 | 알루미늄 인고트 | 23,072 | 20,232 | 18,904\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"진행중인 투자 : 창원공장 균질 1호기 신규 설비 및 50인치 절단기 구축, 창녕 신공장 구축 진행\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"외환 위험은 환율 변동으로 인해 외화 표시 자산 및 부채의 가치가 변동할 위험입니다. 주로 수출입 거래에서 발생합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기요금\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"여전히 높은 산업용 전기요금과 탄소배출권(K-ETS) 규제 강화로 제조 원가 부담이 현실화되었으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/001430_20260316001503.txt"
+}

@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "해상용 위성통신 안테나",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "당사는 이미 GEO VSAT 제품 시장에서 세계 1위의 위상을 확보하고 있습니다. 현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지상용 위성통신 안테나",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사는 원웹(OneWeb)의 파라볼릭 안테나 및 전자식 평판 안테나(ESA) 공급 업체로서 2022년 말부터 양산 공급을 시작했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "게이트웨이 안테나",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "게이트웨이 안테나는 지상 통신망과 저궤도 위성 네트워크를 연결하는 중추적인 인프라입니다. 당사는 글로벌 주요 사업자인 'Company A'의 개발업체로 선정되어 2023년 파일럿 공급을 마쳤으며, 2024년부터 대규모 양산 공급을 진행 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해운",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이 제품은 크루즈선, 여객선, 상선 등에 탑재되어 승객과 승무원에게 인터넷, 멀티미디어, SNS 서비스를 가능하게 하는 핵심 장치입니다."
+    },
+    {
+      "axis": "application",
+      "value": "항공",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "항공기 내 초고속 Wi-Fi 서비스와 무인 항공기(UAV)용 소형 안테나 시장을 타겟으로 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "방산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "방산 분야에서는 이미 한국군과 미군(WGS 인증)에 안테나를 공급하고 있으며, 각국 정부의 저궤도 서비스 도입 추진에 따라 향후 방산 분야 매출 역시 크게 성장할 것으로 전망됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "원웹",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SES",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "텔레샛",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "이외에도 Telesat, SES 등과 신규 계약을 체결하며 인프라 시장에서의 입지를 굳히고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "파나소닉 아비오닉스",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사는 당기에 Panasonic Avionics 갤발 및 공급 계약을 체결하였고, 그동안 축적한 경량화 및 RF 설계 기술을 바탕으로 ESA 안테나를 개발하여 항공 시장 진출을 본격화하고 있다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Machining",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 위성통신 안테나의 주요 원재료인 Machining류와 Radome은 국내의 해당업체와 부품 개발 초기부터 상호협력을 통하여 축적된 기술로 매년 향상 된 성능의 제품을 국내에서 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Radome",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 위성통신 안테나의 주요 원재료인 Machining류와 Radome은 국내의 해당업체와 부품 개발 초기부터 상호협력을 통하여 축적된 기술로 매년 향상 된 성능의 제품을 국내에서 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "BUC",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "BUC은 Comtech EF Data, Nisshinbo Micro Devices 업체에서 주로 수입하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기도 평택시 진위산단로 18-7"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사는 미국 캘리포니아 얼바인(Irvine) 지역에 게이트웨이 안테나 및 군용 안테나 생산을 위한 생산라인을 구축하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "네덜란드",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "Hoog 16 Hoven, Rotterdam (주1)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결기업의 외환위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장이자율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당기말 및 전기말 현재 다른 변수가 일정하고 시장이자율이 1% 변동할 경우 이자수취 자산 및 이자지급 부채로부터 발생하는 이자수익 및 이자비용의 변동은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상용 위성통신 안테나\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"당사는 이미 GEO VSAT 제품 시장에서 세계 1위의 위상을 확보하고 있습니다. 현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지상용 위성통신 안테나\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"당사는 원웹(OneWeb)의 파라볼릭 안테나 및 전자식 평판 안테나(ESA) 공급 업체로서 2022년 말부터 양산 공급을 시작했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"게이트웨이 안테나\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"게이트웨이 안테나는 지상 통신망과 저궤도 위성 네트워크를 연결하는 중추적인 인프라입니다. 당사는 글로벌 주요 사업자인 'Company A'의 개발업체로 선정되어 2023년 파일럿 공급을 마쳤으며, 2024년부터 대규모 양산 공급을 진행 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이 제품은 크루즈선, 여객선, 상선 등에 탑재되어 승객과 승무원에게 인터넷, 멀티미디어, SNS 서비스를 가능하게 하는 핵심 장치입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"항공기 내 초고속 Wi-Fi 서비스와 무인 항공기(UAV)용 소형 안테나 시장을 타겟으로 합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"방산 분야에서는 이미 한국군과 미군(WGS 인증)에 안테나를 공급하고 있으며, 각국 정부의 저궤도 서비스 도입 추진에 따라 향후 방산 분야 매출 역시 크게 성장할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"원웹\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SES\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"현재는 저궤도 서비스 등장에 발맞추어 원웹(OneWeb) 및 SES향 LEO/MEO 전용 안테나와 GEO를 동시에 수용하는 하이브리드 제품을 시장에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"텔레샛\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"이외에도 Telesat, SES 등과 신규 계약을 체결하며 인프라 시장에서의 입지를 굳히고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"파나소닉 아비오닉스\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사는 당기에 Panasonic Avionics 갤발 및 공급 계약을 체결하였고, 그동안 축적한 경량화 및 RF 설계 기술을 바탕으로 ESA 안테나를 개발하여 항공 시장 진출을 본격화하고 있다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Machining\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 위성통신 안테나의 주요 원재료인 Machining류와 Radome은 국내의 해당업체와 부품 개발 초기부터 상호협력을 통하여 축적된 기술로 매년 향상 된 성능의 제품을 국내에서 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Radome\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 위성통신 안테나의 주요 원재료인 Machining류와 Radome은 국내의 해당업체와 부품 개발 초기부터 상호협력을 통하여 축적된 기술로 매년 향상 된 성능의 제품을 국내에서 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"BUC\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"BUC은 Comtech EF Data, Nisshinbo Micro Devices 업체에서 주로 수입하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경기도 평택시 진위산단로 18-7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국 캘리포니아 얼바인(Irvine) 지역에 게이트웨이 안테나 및 군용 안테나 생산을 위한 생산라인을 구축하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"네덜란드\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"Hoog 16 Hoven, Rotterdam (주1)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"연결기업의 외환위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장이자율\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당기말 및 전기말 현재 다른 변수가 일정하고 시장이자율이 1% 변동할 경우 이자수취 자산 및 이자지급 부채로부터 발생하는 이자수익 및 이자비용의 변동은 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/189300_20260320001337.txt"
+}

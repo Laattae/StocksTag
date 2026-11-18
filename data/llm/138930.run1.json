@@ -1,0 +1,344 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "고유업무인 여수신 업무를 중심으로 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 증을 주요 업무로 담당하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "고유업무인 여수신 업무를 중심으로 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 증을 주요 업무로 담당하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "신탁업무",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수 업무와 신탁업무, 카드업무 등을 수행"
+    },
+    {
+      "axis": "product",
+      "value": "카드업무",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수 업무와 신탁업무, 카드업무 등을 수행"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "1967년 10월 10일 지역경제 활성화를 위하여 창립된 부산은행은 IMF 외환위기와 글로벌 금융위기를 슬기롭게 극복하고 지난 50여년에 걸쳐 지역과 함께 걸어온 지역 대표 금융기관 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "대출기간 최장 40년까지 장기대출로 일정기간 고정금리 적용 후 남은 기간은 변동금리로 전환되어 중ㆍ단기 금리 상승에 대한 위험을 회피할 수 있는 금리 혼합형"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "예금계좌의 입,출금 거래내역 및 각종 금융거래정보 내용을 고객이 지정한 휴대폰으로 간단한 메시지를 통지하는 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부산시 선정 전략산업 선도기업 중 부산신용보증재단 특례보증서 발급 받은 중소기업"
+    },
+    {
+      "axis": "product",
+      "value": "신탁",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "자본시장과 금융투자업에 관한 법률에 의한 신탁업무 및 외국환업무 등을 영위하고 있습니다"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "신용카드회원이 미리 정해진 한도 내에서 신용카드사로부터 현금을 대여하는 것을 말합니다"
+    },
+    {
+      "axis": "product",
+      "value": "방카슈랑스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당행이 보험회사의 대리점으로서 제휴 보험회사를 대행하여 보험상품을 판매하는 것"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부산광역시의 역점사업인 선도기업육성을 위해 부산신용보증재단에 부산광역시와 당행이 보증재원 연계 출연"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "울산광역시 내에 소재하는 기업으로 다음의 요건을 모두 충족하는 중소기업가"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주식회사 경남은행(이하 은행은 주식의 소유를 통해 금융업을 영위하는 종속기업에 대한 지배ㆍ경영관리"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대전형 소상공인 초저금리 혁신자금가. 신규 : 대전시 관내에 본사 또는 사업장이 소재하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "3高 위기로 자금융통에 어려움을 겪는 중신용 소기업·소상공인에게 금융비용완화를 통한 경영안정자금 지원"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(다) 주요 상품 및 서비스내용\n1) 예금업무"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "3) 대출업무\n구 분 | \n상품명 | \n주요상품내용"
+    },
+    {
+      "axis": "product",
+      "value": "신탁",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2) 신탁업무\n구 분 | \n상품명 | \n주요상품내용"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "5) 신용카드 업무\n구 분 | \n상품명 | \n주요상품내용"
+    },
+    {
+      "axis": "product",
+      "value": "방카슈랑스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "7) 방카슈랑스 업무\n구 분 | \n상품명 | \n주요상품내용"
+    },
+    {
+      "axis": "product",
+      "value": "리스 및 렌탈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "최근 비대면 금융의 확산과 빅블러 현상이 가속화되며 금융시장의 경쟁이 심화되는 가운데 상품의 수익성과 경쟁력 확보에 집중하고 있으며, 리스 및 할부금융, 일반대출, 신기술사업금융, 투자금융, 팩토링, 할인어음, 렌탈 등을 취급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "상품구분 | \n특징 | \n주식 | \n주로 거래소를 통해 매매가 이루어지며 가격, 시간, 수량 우선의 원칙등의 순서로 거래되는 것으로 실물거래와 신용거래로 나뉘어짐"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "채권 | \n안정성이 높고, 이율에 따른 이자소득과 시세차익에 따른 자본소득을 얻는 수익성이 있으며, 현금화 할 수 있는 유동성이 큰 상품"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "장기회전정기예금 | \n장기성 거치식예금으로 시장의 금리를 반영할 수 있도록 일정주기로 금리가 변동 적용되어 이자지급방식에 따라 복리 또는 단리로 이자를 지급하는 회전형 상품"
+    },
+    {
+      "axis": "product",
+      "value": "보통예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "보통예금 : 가입대상, 예치금액, 예치기간, 입출금 횟수 등에 아무런 제한 없이 자유롭게 거래할 수 있는 요구불예금"
+    },
+    {
+      "axis": "product",
+      "value": "정기예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "정기예금 : 가입시점에 약정한 금리를 만기까지 확정금리로 주는 고수익상품으로 매월 이자를 받는 단리식과 만기시 원금과 이자를 한번에 받는 복리식이 있음"
+    },
+    {
+      "axis": "product",
+      "value": "부동산담보대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산담보대출 : 소유하고 있는 부동산을 담보로 자금 지원"
+    },
+    {
+      "axis": "product",
+      "value": "햇살론",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "햇살론 : 저소득, 저신용자를 위한 정부지원 대출"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼성카드, 대한민국"
+    },
+    {
+      "axis": "customer",
+      "value": "신한카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신한카드, 대한민국"
+    },
+    {
+      "axis": "customer",
+      "value": "현대카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현대카드, 대한민국"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "부산광역시 | 93 | 68 | - | 161 |"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "서울특별시 | 5 | - | - | 5 |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "울산광역시 | 7 | - | - | 7 |"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증 업무, 유가증권 발행 및 투자 등을 주요 업무로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증 업무, 유가증권 발행 및 투자 등을 주요 업무로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "신탁",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드 업무를 겸하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드 업무를 겸하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2025년 3분기말 국내 펀드의 총 수탁고 규모는 전년말 대비 277조원 증가하며 18년 만에 최대 성장률을 기록한 상황이며"
+    },
+    {
+      "axis": "application",
+      "value": "중소기업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지방은행들은 설립 이후 해당지역의 경제발전을 위해 지역자금을 조성하고 또한 조성된 자금을 지역 내 가계 및 중소기업에 공급하는 등"
+    },
+    {
+      "axis": "application",
+      "value": "가계",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지방은행들은 설립 이후 해당지역의 경제발전을 위해 지역자금을 조성하고 또한 조성된 자금을 지역 내 가계 및 중소기업에 공급하는 등"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": " 부산광역시 | \n93 | \n68 | \n- | \n161 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": " 경상남도 | \n13 | \n3 | \n- | \n16 |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": " 울산광역시 | \n7 | \n- | \n- | \n7 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "채권금리는 금리인하 기대 약화, 주식시장으로의 자금이동 인한 수급 부담 등으로 상승했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "원/달러 환율은 주변국 통화와의 동조화, 기업들의 달러선호, 거주자 해외증권투자 등의 영향으로 약세를 보였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"고유업무인 여수신 업무를 중심으로 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 증을 주요 업무로 담당하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"고유업무인 여수신 업무를 중심으로 환 업무와 지급보증 업무, 유가증권의 발행 및 투자 증을 주요 업무로 담당하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁업무\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수 업무와 신탁업무, 카드업무 등을 수행\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카드업무\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수 업무와 신탁업무, 카드업무 등을 수행\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"1967년 10월 10일 지역경제 활성화를 위하여 창립된 부산은행은 IMF 외환위기와 글로벌 금융위기를 슬기롭게 극복하고 지난 50여년에 걸쳐 지역과 함께 걸어온 지역 대표 금융기관 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"대출기간 최장 40년까지 장기대출로 일정기간 고정금리 적용 후 남은 기간은 변동금리로 전환되어 중ㆍ단기 금리 상승에 대한 위험을 회피할 수 있는 금리 혼합형\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"예금\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"예금계좌의 입,출금 거래내역 및 각종 금융거래정보 내용을 고객이 지정한 휴대폰으로 간단한 메시지를 통지하는 서비스\"}, {\"axis\": \"product\", \"value\": \"대출\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"부산시 선정 전략산업 선도기업 중 부산신용보증재단 특례보증서 발급 받은 중소기업\"}, {\"axis\": \"product\", \"value\": \"신탁\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"자본시장과 금융투자업에 관한 법률에 의한 신탁업무 및 외국환업무 등을 영위하고 있습니다\"}, {\"axis\": \"product\", \"value\": \"신용카드\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"신용카드회원이 미리 정해진 한도 내에서 신용카드사로부터 현금을 대여하는 것을 말합니다\"}, {\"axis\": \"product\", \"value\": \"방카슈랑스\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당행이 보험회사의 대리점으로서 제휴 보험회사를 대행하여 보험상품을 판매하는 것\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"부산광역시의 역점사업인 선도기업육성을 위해 부산신용보증재단에 부산광역시와 당행이 보증재원 연계 출연\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"울산광역시 내에 소재하는 기업으로 다음의 요건을 모두 충족하는 중소기업가\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"주식회사 경남은행(이하 은행은 주식의 소유를 통해 금융업을 영위하는 종속기업에 대한 지배ㆍ경영관리\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"대전형 소상공인 초저금리 혁신자금가. 신규 : 대전시 관내에 본사 또는 사업장이 소재하고\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"3高 위기로 자금융통에 어려움을 겪는 중신용 소기업·소상공인에게 금융비용완화를 통한 경영안정자금 지원\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(다) 주요 상품 및 서비스내용\\n1) 예금업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"3) 대출업무\\n구 분 | \\n상품명 | \\n주요상품내용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2) 신탁업무\\n구 분 | \\n상품명 | \\n주요상품내용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"5) 신용카드 업무\\n구 분 | \\n상품명 | \\n주요상품내용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"방카슈랑스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"7) 방카슈랑스 업무\\n구 분 | \\n상품명 | \\n주요상품내용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스 및 렌탈\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"최근 비대면 금융의 확산과 빅블러 현상이 가속화되며 금융시장의 경쟁이 심화되는 가운데 상품의 수익성과 경쟁력 확보에 집중하고 있으며, 리스 및 할부금융, 일반대출, 신기술사업금융, 투자금융, 팩토링, 할인어음, 렌탈 등을 취급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"상품구분 | \\n특징 | \\n주식 | \\n주로 거래소를 통해 매매가 이루어지며 가격, 시간, 수량 우선의 원칙등의 순서로 거래되는 것으로 실물거래와 신용거래로 나뉘어짐\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"채권 | \\n안정성이 높고, 이율에 따른 이자소득과 시세차익에 따른 자본소득을 얻는 수익성이 있으며, 현금화 할 수 있는 유동성이 큰 상품\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"장기회전정기예금 | \\n장기성 거치식예금으로 시장의 금리를 반영할 수 있도록 일정주기로 금리가 변동 적용되어 이자지급방식에 따라 복리 또는 단리로 이자를 지급하는 회전형 상품\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보통예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"보통예금 : 가입대상, 예치금액, 예치기간, 입출금 횟수 등에 아무런 제한 없이 자유롭게 거래할 수 있는 요구불예금\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정기예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"정기예금 : 가입시점에 약정한 금리를 만기까지 확정금리로 주는 고수익상품으로 매월 이자를 받는 단리식과 만기시 원금과 이자를 한번에 받는 복리식이 있음\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산담보대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"부동산담보대출 : 소유하고 있는 부동산을 담보로 자금 지원\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"햇살론\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"햇살론 : 저소득, 저신용자를 위한 정부지원 대출\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼성카드, 대한민국\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"신한카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신한카드, 대한민국\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현대카드, 대한민국\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"부산광역시 | 93 | 68 | - | 161 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"서울특별시 | 5 | - | - | 5 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"울산광역시 | 7 | - | - | 7 |\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증 업무, 유가증권 발행 및 투자 등을 주요 업무로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증 업무, 유가증권 발행 및 투자 등을 주요 업무로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드 업무를 겸하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이외에도 국고 수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드 업무를 겸하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2025년 3분기말 국내 펀드의 총 수탁고 규모는 전년말 대비 277조원 증가하며 18년 만에 최대 성장률을 기록한 상황이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중소기업\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"지방은행들은 설립 이후 해당지역의 경제발전을 위해 지역자금을 조성하고 또한 조성된 자금을 지역 내 가계 및 중소기업에 공급하는 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가계\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"지방은행들은 설립 이후 해당지역의 경제발전을 위해 지역자금을 조성하고 또한 조성된 자금을 지역 내 가계 및 중소기업에 공급하는 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \" 부산광역시 | \\n93 | \\n68 | \\n- | \\n161 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \" 경상남도 | \\n13 | \\n3 | \\n- | \\n16 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \" 울산광역시 | \\n7 | \\n- | \\n- | \\n7 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"채권금리는 금리인하 기대 약화, 주식시장으로의 자금이동 인한 수급 부담 등으로 상승했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"원/달러 환율은 주변국 통화와의 동조화, 기업들의 달러선호, 거주자 해외증권투자 등의 영향으로 약세를 보였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/138930_20260318001147.txt"
+}

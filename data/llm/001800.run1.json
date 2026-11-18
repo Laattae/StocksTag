@@ -1,0 +1,194 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "초코파이",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "초코파이, 포카칩, 고래밥, 예감 등"
+    },
+    {
+      "axis": "product",
+      "value": "포카칩",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "초코파이, 포카칩, 고래밥, 예감 등"
+    },
+    {
+      "axis": "product",
+      "value": "닥터유 제주용암수",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등"
+    },
+    {
+      "axis": "product",
+      "value": "영화매출",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "영화매출(극장상영), 콘텐츠 제작 매출"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유지류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "당류",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유제품류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아류",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "익산2공장 | 전북 익산시"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "청주4공장 | 충북 청주시"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "안산공장 | 경기 안산시"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제주공장 | 제주특별자치도 제주시"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "랑팡공장 | 중국 랑팡"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "미폭공장 | 베트남 호치민"
+    },
+    {
+      "axis": "region",
+      "value": "러시아",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "트베르공장 | 러시아 트베르"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "파이",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "Orion International EuroLLC \n음식료품 \n제품 \n파 이 \n내 수"
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비스킷 \n내 수 \n49,454"
+    },
+    {
+      "axis": "product",
+      "value": "혼합음료",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "(주)오리온제주용암수 \n음식료품제조 \n제품 \n혼합음료"
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "수 출 \n영화 \n4,053"
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "드라마 \n265"
+    },
+    {
+      "axis": "raw_material",
+      "value": "감자그래뉼",
+      "weight": null,
+      "direction": null,
+      "evidence": "오감자 원가 절감을 위한 감자그래뉼 대체 소제 개발"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "일반영업부 - 직조직 : 32개 영업소 (경인 7개소, 동부 7개소, 중부 9개소, 남부 9개소)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "해외사업은 중국을 중심으로 다국적 업체 및 현지 로컬 업체간에 전반적인 경쟁강도가 높아지고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "해외사업은 전반적 경제성장률 둔화, 환율 불안정성이 따른 변동성 심화, 다국적 기업간 경쟁심화가 수익성을 악화시킬 수 있는 요인으로 작용할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": null,
+      "direction": -1,
+      "evidence": "그러나 국내 사업은 최근 소비자 기호의 다변화와 해외제과업체 및 P.B 스낵과의 경쟁심화, 국제 곡물가 상승 등이 수익성을 악화시킬 수 있는 요인으로 작용할 수 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"초코파이\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"초코파이, 포카칩, 고래밥, 예감 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"포카칩\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"초코파이, 포카칩, 고래밥, 예감 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"닥터유 제주용암수\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"닥터유 제주용암수, 치과질환 치료제, 대장암 체외 진단키트 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화매출\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"영화매출(극장상영), 콘텐츠 제작 매출\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유지류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"당류\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유제품류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코코아류\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"제과업에 사용되는 주요 원재료의 경우, 농산물 등을 직수입 또는 국내에서 조달하여 가공을 거친 후 공급되는 것을 주로 사용합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"익산2공장 | 전북 익산시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"청주4공장 | 충북 청주시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"안산공장 | 경기 안산시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제주공장 | 제주특별자치도 제주시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"랑팡공장 | 중국 랑팡\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"미폭공장 | 베트남 호치민\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"러시아\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"트베르공장 | 러시아 트베르\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"또한 국내에서 소비되는 농산물의 대부분을 수입하는 관계로 국제 곡물가격 및 환율변동에 의하여 가격에 영향을 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"파이\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"Orion International EuroLLC \\n음식료품 \\n제품 \\n파 이 \\n내 수\"}, {\"axis\": \"product\", \"value\": \"비스킷\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"비스킷 \\n내 수 \\n49,454\"}, {\"axis\": \"product\", \"value\": \"혼합음료\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"(주)오리온제주용암수 \\n음식료품제조 \\n제품 \\n혼합음료\"}, {\"axis\": \"product\", \"value\": \"영화\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"수 출 \\n영화 \\n4,053\"}, {\"axis\": \"product\", \"value\": \"드라마\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"드라마 \\n265\"}, {\"axis\": \"raw_material\", \"value\": \"감자그래뉼\", \"weight\": null, \"direction\": null, \"evidence\": \"오감자 원가 절감을 위한 감자그래뉼 대체 소제 개발\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"일반영업부 - 직조직 : 32개 영업소 (경인 7개소, 동부 7개소, 중부 9개소, 남부 9개소)\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": null, \"direction\": null, \"evidence\": \"해외사업은 중국을 중심으로 다국적 업체 및 현지 로컬 업체간에 전반적인 경쟁강도가 높아지고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": -1, \"evidence\": \"해외사업은 전반적 경제성장률 둔화, 환율 불안정성이 따른 변동성 심화, 다국적 기업간 경쟁심화가 수익성을 악화시킬 수 있는 요인으로 작용할 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제 곡물가\", \"weight\": null, \"direction\": -1, \"evidence\": \"그러나 국내 사업은 최근 소비자 기호의 다변화와 해외제과업체 및 P.B 스낵과의 경쟁심화, 국제 곡물가 상승 등이 수익성을 악화시킬 수 있는 요인으로 작용할 수 있으며\"}]}"
+  ],
+  "text_path": "data/reports/001800_20260318000838.txt"
+}

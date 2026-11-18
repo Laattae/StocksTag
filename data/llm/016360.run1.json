@@ -1,0 +1,152 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "증권회사가 기본적으로 제공하는 주식의 중개서비스로부터 창출되는 성과를 보고하는 단위"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주식, 채권, 파생상품 등 상품을 운용하여 얻는 성과를 측정하여 보고하는 단위"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주식, 채권, 파생상품 등 상품을 운용하여 얻는 성과를 측정하여 보고하는 단위"
+    },
+    {
+      "axis": "product",
+      "value": "기업금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "IPO, M&A, PF 등 기업금융과 관계된 종합금융서비스를 제공하면서 창출되는 성과를 보고하는 단위"
+    },
+    {
+      "axis": "product",
+      "value": "선물중개",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "선물업에 따른 금융상품의 매매를 수탁하는 영업활동으로부터의 성과를 보고하는 단위"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "상품운용손익 및 금융수지는 금리 인하에 따른 운용환경 개선으로 직전 회계연도 대비 8.2% 증가한 1조 1,403억원을 기록하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "금융투자업은 경기 상승시 주식시장 호황에 따른 수익 증대를 이룰 수 있는 반면, 경기 하강시에는 시장 침체에 따라 수익이 감소할 가능성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "금융투자업은 국가의 경제상황은 물론 정치, 사회, 문화 등 경제 외적 변수에 많은 영향을 받을 뿐 아니라 국제금융시장의 동향에도 민감하게 반응하는"
+    },
+    {
+      "axis": "product",
+      "value": "금전신탁",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(4) 자금조달 및 운용현황① 금전신탁 자금조달현황"
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "퇴직연금 |  확정급여형 |  3,639,672 |  - |  - |  - |  484,067 |  4,123,739 |"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "3. 파생상품거래 현황\n가. 파생상품 거래현황"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "④ 투자운용손익- 채권"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 장내선물거래"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "옵션 |  해외 |  주가지수 |  - |  - |  - |  - |  - |  - |  - |"
+    },
+    {
+      "axis": "exposure",
+      "value": "시장상황",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "향후 시장상황 및 지역특성 등의 변화를 지속모니터링하여 신설 및 시설확충 여부 검토 예정입니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "서울특별시 |  12 |  - |  - |  12 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부산광역시 |  2 |  - |  - |  2 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "경기도 |  3 |  - |  - |  3 |"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "일본(동경) |  - |  - |  1 |  1 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "중국(북경) |  - |  - |  1 |  1 |"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"증권회사가 기본적으로 제공하는 주식의 중개서비스로부터 창출되는 성과를 보고하는 단위\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주식, 채권, 파생상품 등 상품을 운용하여 얻는 성과를 측정하여 보고하는 단위\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주식, 채권, 파생상품 등 상품을 운용하여 얻는 성과를 측정하여 보고하는 단위\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기업금융\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"IPO, M&A, PF 등 기업금융과 관계된 종합금융서비스를 제공하면서 창출되는 성과를 보고하는 단위\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물중개\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"선물업에 따른 금융상품의 매매를 수탁하는 영업활동으로부터의 성과를 보고하는 단위\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"상품운용손익 및 금융수지는 금리 인하에 따른 운용환경 개선으로 직전 회계연도 대비 8.2% 증가한 1조 1,403억원을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"금융투자업은 경기 상승시 주식시장 호황에 따른 수익 증대를 이룰 수 있는 반면, 경기 하강시에는 시장 침체에 따라 수익이 감소할 가능성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"금융투자업은 국가의 경제상황은 물론 정치, 사회, 문화 등 경제 외적 변수에 많은 영향을 받을 뿐 아니라 국제금융시장의 동향에도 민감하게 반응하는\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"금전신탁\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(4) 자금조달 및 운용현황① 금전신탁 자금조달현황\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"퇴직연금 |  확정급여형 |  3,639,672 |  - |  - |  - |  484,067 |  4,123,739 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"3. 파생상품거래 현황\\n가. 파생상품 거래현황\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"④ 투자운용손익- 채권\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"- 장내선물거래\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"옵션\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"옵션 |  해외 |  주가지수 |  - |  - |  - |  - |  - |  - |  - |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장상황\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"향후 시장상황 및 지역특성 등의 변화를 지속모니터링하여 신설 및 시설확충 여부 검토 예정입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"서울특별시 |  12 |  - |  - |  12 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"부산광역시 |  2 |  - |  - |  2 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"경기도 |  3 |  - |  - |  3 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"일본(동경) |  - |  - |  1 |  1 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"중국(북경) |  - |  - |  1 |  1 |\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/016360_20260312001379.txt"
+}

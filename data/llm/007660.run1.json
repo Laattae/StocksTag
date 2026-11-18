@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PCB",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사는 전자제품의 핵심부품인 인쇄회로기판(PCB)을 전문으로 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "MLB",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고다층PCB(MLB:Multi Layer Board)의 양산과 판매"
+    },
+    {
+      "axis": "product",
+      "value": "AI 가속기 PCB",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AI Accelerator용 PCB 개발 (고밀도 직접 회로)"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고객사는 대부분 데이터센터 관련 기업, AI 관련 기업 또는 통신장비제조 기업들입니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 PCB산업은 AI 서버 및 네트워킹 인프라 투자에 힘입어 강력한 성장세를 보이며"
+    },
+    {
+      "axis": "application",
+      "value": "AI 가속기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 PCB제품의 주요 전방시장으로는 서버(하이퍼스케일 데이터센터) 시장, AI가속기 시장, 네트워크 인프라 시장 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "THIN CORE",
+      "weight": 0.47,
+      "direction": null,
+      "evidence": "PCB사업 원재료 THIN CORE 회로형성 기본원자재"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PREPREG",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "PREPREG 층간절연 및 접착 133,289 35.33%"
+    },
+    {
+      "axis": "customer",
+      "value": "G사",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 현재 AI가속기 시장에서 글로벌 빅테크 기업인 G사와 N사를 주요 고객으로 두고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "N사",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 현재 AI가속기 시장에서 글로벌 빅테크 기업인 G사와 N사를 주요 고객으로 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한국 (주)이수페타시스(본사)에는 4개의 공장 및 연구소를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며"
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "환율이 5% 상승하는 경우 예상되는 구체적인 자본 및 손익의 법인세 반영 전 변동금액은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"PCB\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"당사는 전자제품의 핵심부품인 인쇄회로기판(PCB)을 전문으로 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MLB\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고다층PCB(MLB:Multi Layer Board)의 양산과 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 가속기 PCB\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AI Accelerator용 PCB 개발 (고밀도 직접 회로)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고객사는 대부분 데이터센터 관련 기업, AI 관련 기업 또는 통신장비제조 기업들입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 PCB산업은 AI 서버 및 네트워킹 인프라 투자에 힘입어 강력한 성장세를 보이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 가속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 PCB제품의 주요 전방시장으로는 서버(하이퍼스케일 데이터센터) 시장, AI가속기 시장, 네트워크 인프라 시장 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"THIN CORE\",\n      \"weight\": 0.47,\n      \"direction\": null,\n      \"evidence\": \"PCB사업 원재료 THIN CORE 회로형성 기본원자재\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PREPREG\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"PREPREG 층간절연 및 접착 133,289 35.33%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"G사\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 AI가속기 시장에서 글로벌 빅테크 기업인 G사와 N사를 주요 고객으로 두고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"N사\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 AI가속기 시장에서 글로벌 빅테크 기업인 G사와 N사를 주요 고객으로 두고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한국 (주)이수페타시스(본사)에는 4개의 공장 및 연구소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외에는 생산공장(중국) 및 판매법인(미국,태국),영업사무소(대만, 상해)을 보유하고있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"환율이 5% 상승하는 경우 예상되는 구체적인 자본 및 손익의 법인세 반영 전 변동금액은 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/007660_20260323000847.txt"
+}

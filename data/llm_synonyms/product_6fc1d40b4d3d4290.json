@@ -1,0 +1,39 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "여객운송",
+      "synonyms": [
+        "여객 운송"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "영상감시",
+      "synonyms": [
+        "영상감시장비"
+      ]
+    },
+    {
+      "group": 4,
+      "canonical": "영화상영",
+      "synonyms": [
+        "영화상영업"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "청소로봇",
+      "synonyms": [
+        "청소 로봇"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "택배",
+      "synonyms": [
+        "택배사업"
+      ]
+    }
+  ]
+}

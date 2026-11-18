@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Fe계 금속",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "Fe계 금속 | 고강도, 고인성 등 특수한 물성을 요구하는 합금 | 29,776 | 44.8%"
+    },
+    {
+      "axis": "product",
+      "value": "Ni계 금속",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "Ni계 금속 | 고온 등의 환경의 내열성 및 부식환경의 내식성이 우수한 합금 | 23,846 | 35.8%"
+    },
+    {
+      "axis": "product",
+      "value": "Cu계 금속",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "Cu계 금속 | 염수 등에서 부식이 안되고, 열전도가 우수한 고강도 합금 | 9,253 | 13.9%"
+    },
+    {
+      "axis": "product",
+      "value": "스퍼터링타겟",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "스퍼터링타겟 | 박막증착 기술에 사용되는 합금재료 | 3,283 | 4.9%"
+    },
+    {
+      "axis": "application",
+      "value": "우주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "우주항공 시장은 상업항공 수요 회복과 함께 민간 우주산업의 확대로 향후 급격한 성장세를 보일 것으로 기대하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항공ㆍ방위",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "석유ㆍ화학ㆍ플랜트",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Ni",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Ni | 14,329 | 40.4% | 글렌코아 코리아(주) 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Cu",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "Cu | 1,894 | 5.3% | 조달청 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Cr",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "Cr | 1,786 | 5.0% | HUASHENGGUI INTERNATIONAL TRADE LIMITED"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Fe",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "Fe | 1,674 | 4.7% | SUZHOU QIYA MACHINERY CO., LTD 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Ag",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "Ag |  1,144 | 3.2% | 성일하이메탈㈜ 외"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "’25.6월에는 우주항공용 첨단 용해시설인 서산 제2공장을 준공하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제원자재 가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "개별 합금의 가격은 국제원자재 가격에 영향을 받고 있습니다. 최근 비철금속 주요 생산국의 자원 정책 변화에 따른 공급 불확실성, 전기차 및 첨단산업 성장에 따른 수요 증가, 지정학적 리스크 및 에너지 비용 상승 등의 요인으로 시세가 상승하고 있으나, 당사는 원소재 매입단가는 제품 판매 가격에 반영되는 구조입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Fe계 금속\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"Fe계 금속 | 고강도, 고인성 등 특수한 물성을 요구하는 합금 | 29,776 | 44.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Ni계 금속\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"Ni계 금속 | 고온 등의 환경의 내열성 및 부식환경의 내식성이 우수한 합금 | 23,846 | 35.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Cu계 금속\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"Cu계 금속 | 염수 등에서 부식이 안되고, 열전도가 우수한 고강도 합금 | 9,253 | 13.9%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스퍼터링타겟\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"스퍼터링타겟 | 박막증착 기술에 사용되는 합금재료 | 3,283 | 4.9%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"우주\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"우주항공 시장은 상업항공 수요 회복과 함께 민간 우주산업의 확대로 향후 급격한 성장세를 보일 것으로 기대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공ㆍ방위\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유ㆍ화학ㆍ플랜트\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사는 Fe계, Ni계, Cu계 금속 등 다양한 합금 성분을 기반으로 우주, 항공ㆍ방위, 반도체(전기ㆍ전자), 석유ㆍ화학ㆍ플랜트 등 여러 산업군에 적용되는 제품을 개발, 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Ni\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"Ni | 14,329 | 40.4% | 글렌코아 코리아(주) 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Cu\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"Cu | 1,894 | 5.3% | 조달청 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Cr\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"Cr | 1,786 | 5.0% | HUASHENGGUI INTERNATIONAL TRADE LIMITED\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Fe\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"Fe | 1,674 | 4.7% | SUZHOU QIYA MACHINERY CO., LTD 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Ag\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"Ag |  1,144 | 3.2% | 성일하이메탈㈜ 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"’25.6월에는 우주항공용 첨단 용해시설인 서산 제2공장을 준공하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"개별 합금의 가격은 국제원자재 가격에 영향을 받고 있습니다. 최근 비철금속 주요 생산국의 자원 정책 변화에 따른 공급 불확실성, 전기차 및 첨단산업 성장에 따른 수요 증가, 지정학적 리스크 및 에너지 비용 상승 등의 요인으로 시세가 상승하고 있으나, 당사는 원소재 매입단가는 제품 판매 가격에 반영되는 구조입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/295310_20260320001188.txt"
+}

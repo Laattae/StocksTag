@@ -1,0 +1,306 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "판·대",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "신동부문 | 판ㆍ대(반도체소재 포함) | 산업용소재 | POONGSAN | 2,098,208 | 54.5%"
+    },
+    {
+      "axis": "product",
+      "value": "군용탄",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "방산부문 | 제품 등 | 군용탄, 스포츠탄 | 국가방위산업,레저용 | POONGSAN,PMC | 1,186,848 | 30.8%"
+    },
+    {
+      "axis": "product",
+      "value": "봉·선",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "신동부문 | 봉ㆍ선 | \" | \" | 219,565 | 5.7%"
+    },
+    {
+      "axis": "product",
+      "value": "소전",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "신동부문 | 소전 | 주화 | \" | 168,601 | 4.4%"
+    },
+    {
+      "axis": "product",
+      "value": "신관",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "방산부문 | 제품 | 신관 | 국가방위산업 | POONGSANFNS | 71,350 | 74.6%"
+    },
+    {
+      "axis": "product",
+      "value": "센서",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "방산부문 | 제품 | 센서 | \" | 11,688 | 12.2%"
+    },
+    {
+      "axis": "product",
+      "value": "정밀부품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "방산부문 | 제품 | 정밀부품 | \" | 12,610 | 13.2%"
+    },
+    {
+      "axis": "product",
+      "value": "소구경탄",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "방산부문 | 제품 등 | 소구경탄 | 레져용 | PMC Ammunition | 133,644 | 100.0%"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 녹색성장과 미래의 디지털 시대를 위한 필수 소재로 전기자동차와 관련 인프라, 신재생 에너지, 반도체, IT/전기전자 등의 핵심 소재로서"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 녹색성장과 미래의 디지털 시대를 위한 필수 소재로 전기자동차와 관련 인프라, 신재생 에너지, 반도체, IT/전기전자 등의 핵심 소재로서"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자동차 및 선박, 항공기 분야에서는 우수한 내식성과 열전도성으로 인해 라디에이터 등 주요부품에 많은 수요를 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신동산업은 전기, 전자, 반도체, 통신, 자동차, 플랜트, 건설, 주화, 식품, 예술, 방위산업 등 각 분야에 걸쳐 많은 수요를 가지고 있는 산업으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,"
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,"
+    },
+    {
+      "axis": "raw_material",
+      "value": "동 Scrap",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "㈜풍산 | 압연재 | 울산 | 134,303"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "PMX Industries, Inc. | 압연재 등 | 미국 | 54,301"
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Siam Poongsan Metal Co., Ltd. | 압연재 | 태국 | 21,193"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Poongsan (Lianyungang) Co., Ltd. | 압연재 | 중국 | 6,542"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Poongsan Japan Corporation | 압연재 | 일본 | 1,684"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "비철금속이 거래되는 금속거래소의 가격변동에 따라 손익에 영향을 받을수 있으나,"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 USD 및 JPY와 관련된 환율변동위험에 노출되어 있으므로"
+    },
+    {
+      "axis": "product",
+      "value": "판/대",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 주력제품인 판/대 제품은 전년 동기대비 판매량이 1.6% 증가한 134,190M/T의 판매실적을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "봉/선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "봉/선 제품은 판매량이 전년 동기대비 4.6% 증가하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "군용탄약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스포츠탄약",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신관",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "㈜풍산FNS | 신관 | 41% | 16% | 12% | 국내 |"
+    },
+    {
+      "axis": "application",
+      "value": "전기전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기, 전자분야에서는 전기전도성과 열전도성이 뛰어나기 때문에 각종 전선, 배선, 계기 및 첨단 전자제품의 부품 등에 필수적으로 사용되며"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체, 정보통신 분야에서도 리드프레임, 커넥터 등 주요부품에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자동차 및 선박, 항공기 분야에서는 우수한 내식성과 열전도성으로 인해 라디에이터 등 주요부품에 많은 수요를 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신동산업은 전기, 전자, 자동차, 건설, 조선 등에 쓰이는 기초소재산업 분야의 경기변동과 직접 관련되어 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Copper",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료인 Copper, Nickel, Tin, Zinc, Aluminium 등은 국내 및 해외에서 조달하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Nickel",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 원재료인 Copper, Nickel, Tin, Zinc, Aluminium 등은 국내 및 해외에서 조달하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PMX Industries, Inc. | 압연제품 | 20% | 20% | 20% | 내수(미국) |"
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Siam Poongsan MetalCo., Ltd. | 판, 대 | 40% | 40% | 40% | 내수(태국) |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Poongsan (Lianyungang) Co., Ltd. | 압연제품 | 0.2% | 0.2% | 0.2% | 내수(중국) |"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Poongsan Japan Corporation | 압연제품 | 3% | 3% | 3% | 내수(일본) |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결기업은 일자리 창출 및 지역경제 활성화를 위해 부산광역시, 부산도시공사와 함께 지배기업의 부산사업장 부지를 포함하는"
+    },
+    {
+      "axis": "exposure",
+      "value": "전기동 가격",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "또한 신동제품 가격은 원자재인 전기동 가격과 매우 밀접한 관련이 있기 때문에 당사와 종속회사는 판매계약에 대한 원재료 구매가격 변동위험"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "국내외 정세에 따른 각국의 방위정책, 민간탄약 수요 및 환율에 따라 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"판·대\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"신동부문 | 판ㆍ대(반도체소재 포함) | 산업용소재 | POONGSAN | 2,098,208 | 54.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"군용탄\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"방산부문 | 제품 등 | 군용탄, 스포츠탄 | 국가방위산업,레저용 | POONGSAN,PMC | 1,186,848 | 30.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"봉·선\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"신동부문 | 봉ㆍ선 | \\\" | \\\" | 219,565 | 5.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소전\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"신동부문 | 소전 | 주화 | \\\" | 168,601 | 4.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신관\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"방산부문 | 제품 | 신관 | 국가방위산업 | POONGSANFNS | 71,350 | 74.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"센서\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"방산부문 | 제품 | 센서 | \\\" | 11,688 | 12.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정밀부품\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"방산부문 | 제품 | 정밀부품 | \\\" | 12,610 | 13.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소구경탄\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"방산부문 | 제품 등 | 소구경탄 | 레져용 | PMC Ammunition | 133,644 | 100.0%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 녹색성장과 미래의 디지털 시대를 위한 필수 소재로 전기자동차와 관련 인프라, 신재생 에너지, 반도체, IT/전기전자 등의 핵심 소재로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 녹색성장과 미래의 디지털 시대를 위한 필수 소재로 전기자동차와 관련 인프라, 신재생 에너지, 반도체, IT/전기전자 등의 핵심 소재로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"자동차 및 선박, 항공기 분야에서는 우수한 내식성과 열전도성으로 인해 라디에이터 등 주요부품에 많은 수요를 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신동산업은 전기, 전자, 반도체, 통신, 자동차, 플랜트, 건설, 주화, 식품, 예술, 방위산업 등 각 분야에 걸쳐 많은 수요를 가지고 있는 산업으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기동\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아연\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동 Scrap\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사 및 주요 종속회사는 전기동, 아연, 니켈지금 및 동 Scrap 등을 주요 원재료로 사용하고 있으며,\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"㈜풍산 | 압연재 | 울산 | 134,303\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"PMX Industries, Inc. | 압연재 등 | 미국 | 54,301\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Siam Poongsan Metal Co., Ltd. | 압연재 | 태국 | 21,193\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Poongsan (Lianyungang) Co., Ltd. | 압연재 | 중국 | 6,542\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Poongsan Japan Corporation | 압연재 | 일본 | 1,684\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"비철금속이 거래되는 금속거래소의 가격변동에 따라 손익에 영향을 받을수 있으나,\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 USD 및 JPY와 관련된 환율변동위험에 노출되어 있으므로\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"판/대\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사 주력제품인 판/대 제품은 전년 동기대비 판매량이 1.6% 증가한 134,190M/T의 판매실적을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"봉/선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"봉/선 제품은 판매량이 전년 동기대비 4.6% 증가하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"군용탄약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스포츠탄약\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 사업은 크게 신동사업부문(동 및 동합금 판/대, 봉/선, 소전 등의 제조 및 판매)과 방위산업부문(군용탄약 및 스포츠탄약 제조 및 판매)으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신관\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"㈜풍산FNS | 신관 | 41% | 16% | 12% | 국내 |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전기, 전자분야에서는 전기전도성과 열전도성이 뛰어나기 때문에 각종 전선, 배선, 계기 및 첨단 전자제품의 부품 등에 필수적으로 사용되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체, 정보통신 분야에서도 리드프레임, 커넥터 등 주요부품에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자동차 및 선박, 항공기 분야에서는 우수한 내식성과 열전도성으로 인해 라디에이터 등 주요부품에 많은 수요를 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신동산업은 전기, 전자, 자동차, 건설, 조선 등에 쓰이는 기초소재산업 분야의 경기변동과 직접 관련되어 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Copper\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 Copper, Nickel, Tin, Zinc, Aluminium 등은 국내 및 해외에서 조달하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Nickel\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 Copper, Nickel, Tin, Zinc, Aluminium 등은 국내 및 해외에서 조달하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"PMX Industries, Inc. | 압연제품 | 20% | 20% | 20% | 내수(미국) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Siam Poongsan MetalCo., Ltd. | 판, 대 | 40% | 40% | 40% | 내수(태국) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Poongsan (Lianyungang) Co., Ltd. | 압연제품 | 0.2% | 0.2% | 0.2% | 내수(중국) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Poongsan Japan Corporation | 압연제품 | 3% | 3% | 3% | 내수(일본) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 일자리 창출 및 지역경제 활성화를 위해 부산광역시, 부산도시공사와 함께 지배기업의 부산사업장 부지를 포함하는\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기동 가격\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"또한 신동제품 가격은 원자재인 전기동 가격과 매우 밀접한 관련이 있기 때문에 당사와 종속회사는 판매계약에 대한 원재료 구매가격 변동위험\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"국내외 정세에 따른 각국의 방위정책, 민간탄약 수요 및 환율에 따라 영향을 받습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/103140_20260312001327.txt"
+}

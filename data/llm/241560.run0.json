@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Compact Equipment",
+      "weight": 0.772,
+      "direction": null,
+      "evidence": "당사는 2025년 Compact Equipment 제품 판매를 통해 USD 4,771,049천불의 매출액을(매출 비중 77.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "Material Handling",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "Material Handling 제품 판매를 통해 USD 929,074천불의 매출액을(매출 비중 15.0%)"
+    },
+    {
+      "axis": "product",
+      "value": "Portable Power",
+      "weight": 0.054,
+      "direction": null,
+      "evidence": "Portable Power 제품 판매를 통해 USD 334,489천불의 매출액을(매출 비중 5.4%)"
+    },
+    {
+      "axis": "product",
+      "value": "유압기기",
+      "weight": 0.024,
+      "direction": null,
+      "evidence": "유압기기 제품 판매를 통해 USD 147,194천불의 매출액을(매출 비중 2.4%) 달성했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형 건설기계",
+      "weight": 0.77,
+      "direction": null,
+      "evidence": "Compact Equipment | 제품 | 소형 건설기계,농업/조경용 소형 장비"
+    },
+    {
+      "axis": "application",
+      "value": "건설업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "건설기계 산업은 전방산업인 건설업에 민감한 반응을 보이는 산업으로 건설경기의 기복이 있을 경우"
+    },
+    {
+      "axis": "application",
+      "value": "농업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주력 제품인 Compact Equipment는 주택 건설, 농업, 조경 시장을 주요 매출 타겟으로 삼고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "조경",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Compact Equipment는 주택 건설, 농업, 조경 시장을 주요 매출 타겟으로 삼고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Kubota",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Kubota | 해당사항없음 | 해당사항없음 | 안정적 공급"
+    },
+    {
+      "axis": "customer",
+      "value": "Bosch",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Bosch | 해당사항없음 | 해당사항없음 | 안정적 공급"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Hydraulics & Powertrain",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel & Weldment",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Petrochemical",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "당사가 판매하는 제품 가격은 원자재 가격, 인건비, 임대료 등에 따라 변동되며"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Compact Equipment\",\n      \"weight\": 0.772,\n      \"direction\": null,\n      \"evidence\": \"당사는 2025년 Compact Equipment 제품 판매를 통해 USD 4,771,049천불의 매출액을(매출 비중 77.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Material Handling\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"Material Handling 제품 판매를 통해 USD 929,074천불의 매출액을(매출 비중 15.0%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Portable Power\",\n      \"weight\": 0.054,\n      \"direction\": null,\n      \"evidence\": \"Portable Power 제품 판매를 통해 USD 334,489천불의 매출액을(매출 비중 5.4%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유압기기\",\n      \"weight\": 0.024,\n      \"direction\": null,\n      \"evidence\": \"유압기기 제품 판매를 통해 USD 147,194천불의 매출액을(매출 비중 2.4%) 달성했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형 건설기계\",\n      \"weight\": 0.77,\n      \"direction\": null,\n      \"evidence\": \"Compact Equipment | 제품 | 소형 건설기계,농업/조경용 소형 장비\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"건설기계 산업은 전방산업인 건설업에 민감한 반응을 보이는 산업으로 건설경기의 기복이 있을 경우\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"농업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력 제품인 Compact Equipment는 주택 건설, 농업, 조경 시장을 주요 매출 타겟으로 삼고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조경\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Compact Equipment는 주택 건설, 농업, 조경 시장을 주요 매출 타겟으로 삼고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Kubota\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Kubota | 해당사항없음 | 해당사항없음 | 안정적 공급\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Bosch\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Bosch | 해당사항없음 | 해당사항없음 | 안정적 공급\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Hydraulics & Powertrain\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Steel & Weldment\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Petrochemical\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 제품의 주요 원재료는 Hydraulics & Powertrain, Steel & Weldment, Petrochemical 등으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 종속회사는 국내 인천 및 미국, 유럽, 인도, 중국 등 해외 공장과 사업소에서 사업활동을 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"당사가 판매하는 제품 가격은 원자재 가격, 인건비, 임대료 등에 따라 변동되며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/241560_20260319001265.txt"
+}

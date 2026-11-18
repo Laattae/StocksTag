@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.89,
+      "direction": null,
+      "evidence": "화장품사업부문 | 제품 및 상품 | 기 초 | 세안,보습 | 설화수, 헤라, 아이오페,에스트라, 라네즈, 마몽드 등 | 3,794,374 | 89.2%"
+    },
+    {
+      "axis": "product",
+      "value": "개인용생활용품",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "헤어 앤 뷰티(Hair & Beauty)사업부문 | 제품 및 상품 | 개인용생활용품 | 모발, 구강,바디 케어 제품 | 미쟝센, 해피바스, 려, 메디안 등 | 458,446 | 10.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "GLYCERINE",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등 | 스킨, 로션 등 각종 화장품 원료 | 100,279 | 16.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MYRISTIC ACID",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "헤어 앤 뷰티(Hair & Beauty)사업부문 | 원재료 | MYRISTIC ACID, ECOROL 16/98P 등 | 샴푸, 비누, 치약 등의 원료 | 107,048 | 17.1%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801 | AMORE Cosmetics (Shanghai) Co.,Ltd."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사의 파생 거래는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초화장품\",\n      \"weight\": 0.89,\n      \"direction\": null,\n      \"evidence\": \"화장품사업부문 | 제품 및 상품 | 기 초 | 세안,보습 | 설화수, 헤라, 아이오페,에스트라, 라네즈, 마몽드 등 | 3,794,374 | 89.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인용생활용품\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"헤어 앤 뷰티(Hair & Beauty)사업부문 | 제품 및 상품 | 개인용생활용품 | 모발, 구강,바디 케어 제품 | 미쟝센, 해피바스, 려, 메디안 등 | 458,446 | 10.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"GLYCERINE\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등 | 스킨, 로션 등 각종 화장품 원료 | 100,279 | 16.0%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MYRISTIC ACID\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"헤어 앤 뷰티(Hair & Beauty)사업부문 | 원재료 | MYRISTIC ACID, ECOROL 16/98P 등 | 샴푸, 비누, 치약 등의 원료 | 107,048 | 17.1%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801 | AMORE Cosmetics (Shanghai) Co.,Ltd.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사의 파생 거래는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/090430_20260318000785.txt"
+}

@@ -1,0 +1,801 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 8,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "화력체계",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "화력체계(자주포, 장갑차), 무인화체계(국방로봇, 원격사격통제체계), 기동체계(자주도하장비, 한국형 상륙돌격장갑차)"
+    },
+    {
+      "axis": "product",
+      "value": "항공기용 엔진",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "가스터빈엔진 및 엔진부품, 항공기 구성품 등을 생산하는 항공사업은 2025년말 기준으로 내수매출 1조 1,126억원(49%), 수출매출 1조 1,707억원(51%)이며"
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "석유화학산업에서 국내 최초로 PVC(폴리염화비닐)를 생산한 데 이어, LDPE(저밀도폴리에틸렌), LLDPE(선형 저밀도 폴리에틸렌), CA(염소 및 가성소다), TDI 등"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "태양광 잉곳 및 웨이퍼부터 셀, 모듈에 이르기까지 전 공정을 아우르는 수직계열화된생산 역량을 보유하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설 사업",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차 부품",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "가공소재 부문은 주요 제품은 자동차부품소재, 산업용소재 등의 경량복합소재와 태양광소재입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해상 운송",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "LNG, LPG, 원유 운반선, 컨테이너선 등 | 해상 운송 등 | 10,523,343 | 14.07%"
+    },
+    {
+      "axis": "application",
+      "value": "태양광발전",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "웨이퍼, 셀ㆍ모듈 생산, 태양광 발전 솔루션 | 태양광발전 설비 | 5,948,550 | 7.95%"
+    },
+    {
+      "axis": "application",
+      "value": "생명보험",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "생명보험, 자산관리, 담보대출, 개인대출 | 생명보험 | 15,156,227 | 20.27%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여 PE에서 PVC 및 CA, TDI에 이르기까지"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "철근(HD10mm 기준) | \\922,000/ton | \\914,000/ton | \\940,000/ton | 동국제강㈜, 대한제강㈜"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등 | 6,519,885 | POSCO, 현대제철, 동국제강, HD현대중공업, 한화엔진, 두산에너빌리티 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "M10 N 웨 이 퍼 (USD/장) | 0.148 | 0.170 | - | LONGi 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "렌즈",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Lens, Sensor, IC, HDD, Memory 등 | 177,538 | 레스타일렉트로닉스 코리아㈜WT Microelectronics Co., Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "서울 압구정에 위치한 갤러리아 명품관을 포함하여 광교, 천안, 진주 지역 등에서 총 4개의 백화점을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "정부청사 및 시청 등 공공기관과 모든 금융기관, 대규모 아파트가 밀집한 대전 둔산 신도시의 중심에 위치하여"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "Hanwha Chemical (Ningbo) Co., Ltd. | LDPE, 가성소다, PVC 등"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "태양광 제조업을 기반으로 한 미국 내 발전소 EPC 사업에서는 대규모 턴키계약 성공을 통하여"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "Hanwha Life Insurance Company Limited. ( Vietnam ), PT. Hanwha Life Insurance Indonesia"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.02,
+      "direction": -1,
+      "evidence": "종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며, 글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.02,
+      "direction": -1,
+      "evidence": "종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.02,
+      "direction": -1,
+      "evidence": "글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 화약 | 폭약류 화공품류"
+    },
+    {
+      "axis": "product",
+      "value": "가스터빈 엔진",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "항공기용 가스터빈 엔진 및 부품"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "태양광 모듈, 셀 등"
+    },
+    {
+      "axis": "product",
+      "value": "감시카메라",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "감시카메라, 저장장치,주변기기, 액세서리 등"
+    },
+    {
+      "axis": "product",
+      "value": "LDPE",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "LDPE, LLDPE,EVA, VCM, EDC,"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 거래처(12.42%),방위사업청(12.30%)"
+    },
+    {
+      "axis": "customer",
+      "value": "한국바스프주식회사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국바스프주식회사(4%) 등"
+    },
+    {
+      "axis": "customer",
+      "value": "SI FLEX",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SI FLEX, 비에이치 등"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "케미칼 부문은 대전광역시 유성구에 중앙연구소 설립하여 운영"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "성남시 분당구에 위치한 판교 미래기술연구소와 함께 차세대 태양광 셀 기술"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Hanwha Advanced Materials America LLC(17%)"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "독일 작센안할트주 비터펠트볼펜시에 탈하임 R&D센터를 운영 중이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사는 환율 변동에 따른 위험을 회피할 목적으로 통화선도거래 계약을 체결하고있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사는 2025년말 현재 이자율이나 환율 변동위험을 회피하기 위한 파생상품스왑계약을 아래와 같이 체결하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용 화약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 화약사업은 각종 건설사업 및 자원개발에 필수적인 산업용 화약류를 제조 판매하는 기간산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "유도무기",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "해외 방산시장은 유럽 지역의 재무장 기조가 구조적으로 정착되는 가운데, 중동 지역의 분쟁 상시화, 인도-태평양 지역의 군사적 긴장 지속 등으로 지상ㆍ대공ㆍ유도무기 및 탄약류에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항공기 엔진",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "항공사업은 안전에 직결되는 항공기 엔진을 개발, 생산, 정비하는 첨단기계산업의 선두에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "영상감시장비",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사는 영상감시장비 및 소프트웨어 제조, IT서비스업을 영위하는 회사로서"
+    },
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "백화점 산업은 높은 전문성을 바탕으로 고품질 상품을 현대화된 편리한 쇼핑시설에서 차별화된 최고의 서비스와 함께 제공하며"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업용 화약사업은 정부의SOC투자에 따른 국내 건설경기의 변동과 직접적으로 연관되어 있고"
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "방산사업은 정부가 주 수요자로서 정부와의 조달계약만을 통해 사업이 추진되는 특성이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트시티",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이러한 기술 혁신은 스마트 시티, 스마트 팩토리, 교통 인프라 등 도시와 산업 전반의 지능화를 가속화하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "정부",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "방산사업은 정부가 주 수요자로서 정부와의 조달계약만을 통해 사업이 추진되는 특성이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "화학물질",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 화학물질로 인한 국민건강 및 환경상의 위해를 예방하고 화학물질을 적절하게 관리하는 한편"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제조공정의 환경영향 관리를 위해 베트남 제조법인은 국제 환경경영 인증규격인 ISO 14001 인증을 취득하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국방예산",
+      "weight": 0.85,
+      "direction": 1,
+      "evidence": "국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "수출시장은 중국, 미국, 일본, 유럽 등 주요 수출국의 경기 변동 및 금리에 민감한 영향을 받습니다. 또한, 원유, 철광석 등 국제 원자재 가격 및 주요 통화의 환율 변화 등의 거시 경제 변수도 수출 시장에 큰 영향을 주는 요소입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "아이스크림",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "프리미엄 아이스크림 사업 전개를 위해 25년 3월 경기도 포천에 생산센터를 구축 완료하였고, 25년 4월부터 본생산을 개시하여 자체적으로 프리미엄아이스크림을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "LDPE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TDI",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 대규모 설비투자가 소요되는 기술집약형 장치산업이자, 일반 생활용품부터 전기, 건설 산업 등에 직접 및 간접적으로 원료를 제공하는 기초 소재 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 건설, 자동차 등의 기간 산업뿐만 아니라 포장재, 의류 등 생활용품의 주요 원료로 사용되고 있어 경기 상황과 밀접한 관계가 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회로소재는 스마트폰에 주로 사용되고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "데이터센터 사업은 특히AI, Disaster Recovery System(재해복구시스템) 등 수요가 급증하고 있어 고부가가치 산업으로 분류되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방위(특수선)산업은 국가방위를 위한 방위력 개선과 직접적 연관이 있기에, 국가의 국방예산과 업계의 실적이 직결되는 특수한 성격을 띄고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원유 가격의 경우 2025년 브렌트유 월평균 가격이 1월 고점(약 79달러/bbl)에서 12월 저점(약 63달러/bbl)으로 하락했으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "프리미엄 아이스크림 사업 전개를 위해 25년 3월 경기도 포천에 생산센터를 구축 완료하였고"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한, 에틸렌을 원재료로 사용하기 때문에 유가와 밀접한 관계가 있으며, 수출에 따른 환율 변동 영향도 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우주 발사체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MDS사업은 선박의 추진동력원과 에너지공급원으로 사용되는 ESS 및 수소연료전지시스템 등을 개발하여"
+    },
+    {
+      "axis": "product",
+      "value": "지구관측위성",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜쎄트렉아이는 중소형 지구관측위성 시장에서 지구관측위성 토탈 솔루션 제공 및 국내 국방안보 분야 위성전문 기업을 목표로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지능형 비전 솔루션",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기존의 핵심 역량인 '엣지 AI(Edge AI) 및 디바이스 기술'에 클라우드 플랫폼을 결합한 지능형 비전 솔루션 사업을 본격화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다."
+    },
+    {
+      "axis": "application",
+      "value": "우주·위성",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선·해양",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "정부는 '그린쉽(Green Ship)-K' 정책을 통해 2030년까지 선박에서 배출되는 온실가스의 70%를 감축하고 전체 선박의 15%를 친환경 선박으로 전환하는 계획을 수립하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "국방·안보",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 국방사업은 군의 국방우주 경쟁력 확대 정책에 따라 시장 성장 가능성이 높으면서 자회사가 영위하고 있는 위성영상 데이터 분석사업과의 시너지도 큰 시장으로서"
+    },
+    {
+      "axis": "application",
+      "value": "스마트시티",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "엣지 디바이스에서 직접 데이터를 처리하는 엣지 AI 기술의 고도화와 클라우드의 대규모 데이터 처리 능력을 결합하여, 향후 스마트 시티, 제조, 물류 등 다양한 산업군으로 솔루션의 적용 범위를 넓혀갈 계획입니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 수소산업과 관련하여 자체 R&D를 통해 AEM(Anion Exchange Membrane) 수전해 핵심요소 기술을 확보해 나가고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해당 회사의 사업장은 경남 함양군에 위치하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환경규제",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "국제해사기구(IMO) 및 유럽연합(EU) 등 국제사회는 2050 탄소중립(Net-Zero)을 목표로 환경규제를 강화하고 있습니다. 한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한"
+    },
+    {
+      "axis": "exposure",
+      "value": "위성데이터 수요",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "지분증권 | 주식 | 유가증권시장 | 55,997,500 | 58,649,241 | 114,646,740 | 78,712"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "채무증권 | 국채,지방채 | 국고채 | 16,761,248 | 19,007,725 | 35,768,972"
+    },
+    {
+      "axis": "product",
+      "value": "수익증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "집합투자증권 | ETF | 4,574,997 | 4,256,682 | 8,831,680"
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "파생결합증권 | ELS | 21,508 | 21,508 | 43,016"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "선물 | 국내 | 상품선물 | 금 | - | - | - | - | -"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "손해보험업의 보험종목으로는 일반보험(화재, 해상, 특종, 보증보험 등) , 자동차보험, 장기보험이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금융투자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "금융투자업은 투자매매업, 투자중개업, 집합투자업, 투자일임업, 투자자문업, 신탁업을 기본업무로 하여 자금 공급부문인 투자자로부터 자금 수요부문인 기업에 자금을 연결해줌으로써"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 미래 금리 하락에 따른 국채 가격 상승 위험을 회피할 목적으로 채권선도 계약을 체결하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사는 외화금융상품의 환율변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 등의 계약을 체결하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)"
+    },
+    {
+      "axis": "product",
+      "value": "전략 금융상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "관리영업에 접목하여 다양한 국내외 투자펀드, 랩,RP, 소액채권 등 고객지향적 전략 금융상품을 출시하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CMA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "종합자산관리계좌(CMA)시장을 선도하고 있는 한화 스마트 CMA는 업계 선두의 규모와 경쟁력을 갖추고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "장외파생상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "장외파생상품, 신탁, 지급결제업무 등 신규 분야에 진출하여 고객에게 더욱 확대된 금융서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출자산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "투자펀드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자산운용은 투자 대행기관으로 판매 및 투자 일임계약을 통해 모아진 투자자금을 다양한 자산에 투자하고"
+    },
+    {
+      "axis": "application",
+      "value": "부동산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "중소기업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "상호저축은행은 중소기업과 영세상공인 및 서민들을 대상으로 사업을 영위하는 서민금융기관으로서"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한 2024년에 인도네시아의 중견 증권사의 지분을 80% 인수, 2025년에 인도네시아 자산운용사 지분을 80%인수하여"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2017년에는 한화생명 소속 뉴욕법인 인수를 통해 자산운용 미주법인을 설립하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년에는 아랍에미리트(UAE)에 현지 법인을 설립하였고, 자산운용업 라이선스 신청을 진행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "상호저축은행은 계절적인 변화에는 큰 영향을 받지는 않지만 부동산 경기 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험"
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화력체계\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"화력체계(자주포, 장갑차), 무인화체계(국방로봇, 원격사격통제체계), 기동체계(자주도하장비, 한국형 상륙돌격장갑차)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공기용 엔진\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"가스터빈엔진 및 엔진부품, 항공기 구성품 등을 생산하는 항공사업은 2025년말 기준으로 내수매출 1조 1,126억원(49%), 수출매출 1조 1,707억원(51%)이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업에서 국내 최초로 PVC(폴리염화비닐)를 생산한 데 이어, LDPE(저밀도폴리에틸렌), LLDPE(선형 저밀도 폴리에틸렌), CA(염소 및 가성소다), TDI 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"태양광 잉곳 및 웨이퍼부터 셀, 모듈에 이르기까지 전 공정을 아우르는 수직계열화된생산 역량을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설 사업\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부 SOC 투자 및 민간 건설 사업 현장을 주요 수요처로 하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 부품\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"가공소재 부문은 주요 제품은 자동차부품소재, 산업용소재 등의 경량복합소재와 태양광소재입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상 운송\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"LNG, LPG, 원유 운반선, 컨테이너선 등 | 해상 운송 등 | 10,523,343 | 14.07%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광발전\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"웨이퍼, 셀ㆍ모듈 생산, 태양광 발전 솔루션 | 태양광발전 설비 | 5,948,550 | 7.95%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"생명보험, 자산관리, 담보대출, 개인대출 | 생명보험 | 15,156,227 | 20.27%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여 PE에서 PVC 및 CA, TDI에 이르기까지\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"철근(HD10mm 기준) | \\\\922,000/ton | \\\\914,000/ton | \\\\940,000/ton | 동국제강㈜, 대한제강㈜\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등 | 6,519,885 | POSCO, 현대제철, 동국제강, HD현대중공업, 한화엔진, 두산에너빌리티 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"M10 N 웨 이 퍼 (USD/장) | 0.148 | 0.170 | - | LONGi 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"렌즈\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Lens, Sensor, IC, HDD, Memory 등 | 177,538 | 레스타일렉트로닉스 코리아㈜WT Microelectronics Co., Ltd.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"서울 압구정에 위치한 갤러리아 명품관을 포함하여 광교, 천안, 진주 지역 등에서 총 4개의 백화점을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"정부청사 및 시청 등 공공기관과 모든 금융기관, 대규모 아파트가 밀집한 대전 둔산 신도시의 중심에 위치하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Chemical (Ningbo) Co., Ltd. | LDPE, 가성소다, PVC 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"태양광 제조업을 기반으로 한 미국 내 발전소 EPC 사업에서는 대규모 턴키계약 성공을 통하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Life Insurance Company Limited. ( Vietnam ), PT. Hanwha Life Insurance Indonesia\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.02,\n      \"direction\": -1,\n      \"evidence\": \"종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며, 글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.02,\n      \"direction\": -1,\n      \"evidence\": \"종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.02,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 경제 성장률, 원자재 가격 및 환율 변동 등의 경기 변동의 요소를 종합적으로 고려해야 하는 특성이 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약 | 폭약류 화공품류\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈 엔진\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"항공기용 가스터빈 엔진 및 부품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"태양광 모듈, 셀 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감시카메라\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"감시카메라, 저장장치,주변기기, 액세서리 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LDPE\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"LDPE, LLDPE,EVA, VCM, EDC,\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외 거래처(12.42%),방위사업청(12.30%)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국바스프주식회사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국바스프주식회사(4%) 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SI FLEX\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SI FLEX, 비에이치 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"케미칼 부문은 대전광역시 유성구에 중앙연구소 설립하여 운영\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"성남시 분당구에 위치한 판교 미래기술연구소와 함께 차세대 태양광 셀 기술\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Advanced Materials America LLC(17%)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"독일 작센안할트주 비터펠트볼펜시에 탈하임 R&D센터를 운영 중이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사는 환율 변동에 따른 위험을 회피할 목적으로 통화선도거래 계약을 체결하고있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"당사는 2025년말 현재 이자율이나 환율 변동위험을 회피하기 위한 파생상품스왑계약을 아래와 같이 체결하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 화약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 각종 건설사업 및 자원개발에 필수적인 산업용 화약류를 제조 판매하는 기간산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유도무기\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"해외 방산시장은 유럽 지역의 재무장 기조가 구조적으로 정착되는 가운데, 중동 지역의 분쟁 상시화, 인도-태평양 지역의 군사적 긴장 지속 등으로 지상ㆍ대공ㆍ유도무기 및 탄약류에 대한 수요가 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공기 엔진\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"항공사업은 안전에 직결되는 항공기 엔진을 개발, 생산, 정비하는 첨단기계산업의 선두에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영상감시장비\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"당사는 영상감시장비 및 소프트웨어 제조, IT서비스업을 영위하는 회사로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"백화점 산업은 높은 전문성을 바탕으로 고품질 상품을 현대화된 편리한 쇼핑시설에서 차별화된 최고의 서비스와 함께 제공하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업용 화약사업은 정부의SOC투자에 따른 국내 건설경기의 변동과 직접적으로 연관되어 있고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"방산사업은 정부가 주 수요자로서 정부와의 조달계약만을 통해 사업이 추진되는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트시티\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이러한 기술 혁신은 스마트 시티, 스마트 팩토리, 교통 인프라 등 도시와 산업 전반의 지능화를 가속화하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"정부\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"방산사업은 정부가 주 수요자로서 정부와의 조달계약만을 통해 사업이 추진되는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"화학물질\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 화학물질로 인한 국민건강 및 환경상의 위해를 예방하고 화학물질을 적절하게 관리하는 한편\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제조공정의 환경영향 관리를 위해 베트남 제조법인은 국제 환경경영 인증규격인 ISO 14001 인증을 취득하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방예산\",\n      \"weight\": 0.85,\n      \"direction\": 1,\n      \"evidence\": \"국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"수출시장은 중국, 미국, 일본, 유럽 등 주요 수출국의 경기 변동 및 금리에 민감한 영향을 받습니다. 또한, 원유, 철광석 등 국제 원자재 가격 및 주요 통화의 환율 변화 등의 거시 경제 변수도 수출 시장에 큰 영향을 주는 요소입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"종합상사가 주로 영위하는 유화 및 철강등 산업재 무역업의 경우 글로벌 경제 상황과이에 밀접한 국제유가에 크게 영향을 받고 있으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"아이스크림\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"프리미엄 아이스크림 사업 전개를 위해 25년 3월 경기도 포천에 생산센터를 구축 완료하였고, 25년 4월부터 본생산을 개시하여 자체적으로 프리미엄아이스크림을 생산하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"LDPE\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다.\"}, {\"axis\": \"product\", \"value\": \"PVC\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다.\"}, {\"axis\": \"product\", \"value\": \"가성소다\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다.\"}, {\"axis\": \"product\", \"value\": \"TDI\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다.\"}, {\"axis\": \"application\", \"value\": \"건설\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"석유화학산업은 대규모 설비투자가 소요되는 기술집약형 장치산업이자, 일반 생활용품부터 전기, 건설 산업 등에 직접 및 간접적으로 원료를 제공하는 기초 소재 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"석유화학산업은 건설, 자동차 등의 기간 산업뿐만 아니라 포장재, 의류 등 생활용품의 주요 원료로 사용되고 있어 경기 상황과 밀접한 관계가 있습니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"회로소재는 스마트폰에 주로 사용되고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"데이터센터 사업은 특히AI, Disaster Recovery System(재해복구시스템) 등 수요가 급증하고 있어 고부가가치 산업으로 분류되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"방위산업\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"방위(특수선)산업은 국가방위를 위한 방위력 개선과 직접적 연관이 있기에, 국가의 국방예산과 업계의 실적이 직결되는 특수한 성격을 띄고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"납사\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"}, {\"axis\": \"raw_material\", \"value\": \"에틸렌\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"}, {\"axis\": \"raw_material\", \"value\": \"원유\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"원유 가격의 경우 2025년 브렌트유 월평균 가격이 1월 고점(약 79달러/bbl)에서 12월 저점(약 63달러/bbl)으로 하락했으며\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"프리미엄 아이스크림 사업 전개를 위해 25년 3월 경기도 포천에 생산센터를 구축 완료하였고\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"또한, 에틸렌을 원재료로 사용하기 때문에 유가와 밀접한 관계가 있으며, 수출에 따른 환율 변동 영향도 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"우주 발사체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ESS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MDS사업은 선박의 추진동력원과 에너지공급원으로 사용되는 ESS 및 수소연료전지시스템 등을 개발하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지구관측위성\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"㈜쎄트렉아이는 중소형 지구관측위성 시장에서 지구관측위성 토탈 솔루션 제공 및 국내 국방안보 분야 위성전문 기업을 목표로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지능형 비전 솔루션\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기존의 핵심 역량인 '엣지 AI(Edge AI) 및 디바이스 기술'에 클라우드 플랫폼을 결합한 지능형 비전 솔루션 사업을 본격화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"우주·위성\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선·해양\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"정부는 '그린쉽(Green Ship)-K' 정책을 통해 2030년까지 선박에서 배출되는 온실가스의 70%를 감축하고 전체 선박의 15%를 친환경 선박으로 전환하는 계획을 수립하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방·안보\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 국방사업은 군의 국방우주 경쟁력 확대 정책에 따라 시장 성장 가능성이 높으면서 자회사가 영위하고 있는 위성영상 데이터 분석사업과의 시너지도 큰 시장으로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트시티\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"엣지 디바이스에서 직접 데이터를 처리하는 엣지 AI 기술의 고도화와 클라우드의 대규모 데이터 처리 능력을 결합하여, 향후 스마트 시티, 제조, 물류 등 다양한 산업군으로 솔루션의 적용 범위를 넓혀갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 수소산업과 관련하여 자체 R&D를 통해 AEM(Anion Exchange Membrane) 수전해 핵심요소 기술을 확보해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해당 회사의 사업장은 경남 함양군에 위치하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경규제\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"국제해사기구(IMO) 및 유럽연합(EU) 등 국제사회는 2050 탄소중립(Net-Zero)을 목표로 환경규제를 강화하고 있습니다. 한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"위성데이터 수요\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"지분증권 | 주식 | 유가증권시장 | 55,997,500 | 58,649,241 | 114,646,740 | 78,712\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"채무증권 | 국채,지방채 | 국고채 | 16,761,248 | 19,007,725 | 35,768,972\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수익증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"집합투자증권 | ETF | 4,574,997 | 4,256,682 | 8,831,680\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"파생결합증권 | ELS | 21,508 | 21,508 | 43,016\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"선물 | 국내 | 상품선물 | 금 | - | - | - | - | -\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"생명보험\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"생명보험은 보험회사가 보험계약자로부터 약정한 보험료를 받고 피보험자의 생사(生死)에 관하여 우연한 사고가 생길 경우에 일정한 금액을 지급하기로 약정함으로써 효력이 생기는 인(人)보험계약을 말합니다.\"}, {\"axis\": \"product\", \"value\": \"손해보험\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"손해보험업의 보험종목으로는 일반보험(화재, 해상, 특종, 보증보험 등) , 자동차보험, 장기보험이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"금융투자\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"금융투자업은 투자매매업, 투자중개업, 집합투자업, 투자일임업, 투자자문업, 신탁업을 기본업무로 하여 자금 공급부문인 투자자로부터 자금 수요부문인 기업에 자금을 연결해줌으로써\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"또한 미래 금리 하락에 따른 국채 가격 상승 위험을 회피할 목적으로 채권선도 계약을 체결하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"당사는 외화금융상품의 환율변동에 따른 위험을 회피할 목적으로 통화선도, 통화스왑 등의 계약을 체결하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"지점 | - | - | 해외 | 법인 | - | 3개소(베트남, 인도네시아, 중국)\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전략 금융상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"관리영업에 접목하여 다양한 국내외 투자펀드, 랩,RP, 소액채권 등 고객지향적 전략 금융상품을 출시하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"종합자산관리계좌(CMA)시장을 선도하고 있는 한화 스마트 CMA는 업계 선두의 규모와 경쟁력을 갖추고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장외파생상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"장외파생상품, 신탁, 지급결제업무 등 신규 분야에 진출하여 고객에게 더욱 확대된 금융서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출자산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"투자펀드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자산운용은 투자 대행기관으로 판매 및 투자 일임계약을 통해 모아진 투자자금을 다양한 자산에 투자하고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"부동산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"부동산 경기 변동은 건설업, PF, 임대업 등 부동산 관련 대출자산의 규모 및 건전성 변동 등 손익에 영향이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중소기업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"상호저축은행은 중소기업과 영세상공인 및 서민들을 대상으로 사업을 영위하는 서민금융기관으로서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 2019년에 베트남 증권사를 인수하고 2020년에 싱가포르에 법인에 출자함으로써 성장성 높은 동남아 금융시장 진출의 교두보를 확보하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한 2024년에 인도네시아의 중견 증권사의 지분을 80% 인수, 2025년에 인도네시아 자산운용사 지분을 80%인수하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2017년에는 한화생명 소속 뉴욕법인 인수를 통해 자산운용 미주법인을 설립하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"아랍에미리트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년에는 아랍에미리트(UAE)에 현지 법인을 설립하였고, 자산운용업 라이선스 신청을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"상호저축은행은 계절적인 변화에는 큰 영향을 받지는 않지만 부동산 경기 변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장위험 : 주가, 금리, 환율 등 시장가격의 변동으로 인한 위험\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/000880_20260331003871.txt"
+}

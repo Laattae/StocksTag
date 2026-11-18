@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정유 플랜트",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "화 공 | 경영관리목적 | 정유, 석유화학, 가스, Upstream 등 건설 | Saudi Aramco, ADNOC, QE, PEMEX 등 | 57.05%"
+    },
+    {
+      "axis": "product",
+      "value": "산업설비",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "첨단산업 | 경영관리목적 | 산업설비, 인프라 등 건설 | 삼성전자㈜, 삼성디스플레이㈜, 삼성전기㈜, 삼성SDI㈜ 등 | 28.03%"
+    },
+    {
+      "axis": "product",
+      "value": "LNG 플랜트",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "New Energy | 경영관리목적 | LNG, 청정에너지, ECO (Water) 등 건설 및 O&M | INPEX, Wabash Valley Resources, Almar Water Solutions 등 | 14.91%"
+    },
+    {
+      "axis": "customer",
+      "value": "Saudi Aramco",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "SAUDI ARABIAN OIL COMPANY | 2,838,087 | 31.43% | 화공, New Energy"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "삼성전자(주) | 1,989,943 | 22.04% | New Energy, 첨단산업"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "본사 GEC | 서울 강동구 | 27,604 | 138,959,375"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "기술연구소 | 경기 수원시 | 3,906 | 8,593,200"
+    },
+    {
+      "axis": "region",
+      "value": "사우디아라비아",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "해외 도급공사 | 플랜트 | 62,714 | 69% | 56,851 | 57% | 64,025 | 60% | 사우디 등 | -"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "환위험에 노출되어 있는 자산에 대한 환율변동위험은 해당 통화의 5% 절상 및 절하인 경우를 가정하여 계산하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "보고기간종료일 현재 이자율이 1% 변동함에 따라 연결회사의 이자수익, 비용의 현금흐름이 변동에 따른 법인세비용차감전손익에 미치는 효과는 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "화공플랜트 산업은 국제유가와 석유 소비량/생산량, 주요 원유 및 가스 자원 보유국들의 투자 계획과 밀접한 관련이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "STANDARD CHARTEREDBANK KOREA LIMITED | USD | 26,100,867.48 | 전기동 | 2,408.03 | 9,219~11,675"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"정유 플랜트\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"화 공 | 경영관리목적 | 정유, 석유화학, 가스, Upstream 등 건설 | Saudi Aramco, ADNOC, QE, PEMEX 등 | 57.05%\"}, {\"axis\": \"product\", \"value\": \"산업설비\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"첨단산업 | 경영관리목적 | 산업설비, 인프라 등 건설 | 삼성전자㈜, 삼성디스플레이㈜, 삼성전기㈜, 삼성SDI㈜ 등 | 28.03%\"}, {\"axis\": \"product\", \"value\": \"LNG 플랜트\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"New Energy | 경영관리목적 | LNG, 청정에너지, ECO (Water) 등 건설 및 O&M | INPEX, Wabash Valley Resources, Almar Water Solutions 등 | 14.91%\"}, {\"axis\": \"customer\", \"value\": \"Saudi Aramco\", \"weight\": 0.31, \"direction\": null, \"evidence\": \"SAUDI ARABIAN OIL COMPANY | 2,838,087 | 31.43% | 화공, New Energy\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.22, \"direction\": null, \"evidence\": \"삼성전자(주) | 1,989,943 | 22.04% | New Energy, 첨단산업\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"본사 GEC | 서울 강동구 | 27,604 | 138,959,375\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"기술연구소 | 경기 수원시 | 3,906 | 8,593,200\"}, {\"axis\": \"region\", \"value\": \"사우디아라비아\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"해외 도급공사 | 플랜트 | 62,714 | 69% | 56,851 | 57% | 64,025 | 60% | 사우디 등 | -\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"환위험에 노출되어 있는 자산에 대한 환율변동위험은 해당 통화의 5% 절상 및 절하인 경우를 가정하여 계산하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"보고기간종료일 현재 이자율이 1% 변동함에 따라 연결회사의 이자수익, 비용의 현금흐름이 변동에 따른 법인세비용차감전손익에 미치는 효과는 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"화공플랜트 산업은 국제유가와 석유 소비량/생산량, 주요 원유 및 가스 자원 보유국들의 투자 계획과 밀접한 관련이 있으며\"}, {\"axis\": \"raw_material\", \"value\": \"전기동\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"STANDARD CHARTEREDBANK KOREA LIMITED | USD | 26,100,867.48 | 전기동 | 2,408.03 | 9,219~11,675\"}]}\n```"
+  ],
+  "text_path": "data/reports/028050_20260311003927.txt"
+}

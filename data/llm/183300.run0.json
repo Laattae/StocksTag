@@ -1,0 +1,150 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "세정",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 주요 사업으로 고가의 반도체 공정 장비 부품을 재생하는 세정ㆍ코팅 사업 부문과 반도체 장비용 부품을 제작하는 세라믹 소재 부품 사업 부문이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "코팅",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "품목별 매출액은 세정 1,316억원(21.8%), 코팅 1,698억원(28.1%), 부품 3,027억원(50.1%)으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세라믹 소재 부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "반도체 장비용 부품을 제작하는 세라믹 소재 부품 사업 부문이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세라믹 히터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미코세라믹스의 주력 제품인 세라믹 히터는 CVD, ALD 등 반도체 증착 공정 장비에 장착되어 웨이퍼에 온도를 균일하게 가해주는 기능성 부품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "정전척",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "정전척(ESC)은 반도체 식각 공정 장비에 장착되어 웨이퍼를 정전력으로 고정시키고 온도를 제어하는 기능성 부품입니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 매출처로는 Samsung, SK hynix, Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체 및 디스플레이 제조 공정 중에 발생하는 미세오염(Micro Contamination)을 제어하고 최적의 공정 수율을 유지하여"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대한민국 Major 반도체 칩 생산업체인 삼성전자, SK하이닉스와 거래하는 회사"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대한민국 Major 반도체 칩 생산업체인 삼성전자, SK하이닉스와 거래하는 회사"
+    },
+    {
+      "axis": "customer",
+      "value": "Intel",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화"
+    },
+    {
+      "axis": "customer",
+      "value": "TSMC",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화"
+    },
+    {
+      "axis": "customer",
+      "value": "Micron",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코팅파우더",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "품목 코팅파우더 외 15,492 11,464 9,739"
+    },
+    {
+      "axis": "raw_material",
+      "value": "AlN Powder",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "MiCo Ceramics | AlN Powder 외 | (주)미코 외"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내 (2개 법인) : 본사인 코미코와 미코세라믹스가 모두 안성시에 위치해 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "미국 (3개 법인) : Austin, Hillsboro, Phoenix"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "중국 (5개 법인) : Wuxi, Shenzhen, Dalian, Huanggang, Huizhou(법인 설립)"
+    },
+    {
+      "axis": "region",
+      "value": "대만",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대만 (1개 법인) : Hsinchu_Tainan 제2공장(건설 중)"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "싱가포르 (1개 법인) : Sinagpore (Woodland)"
+    },
+    {
+      "axis": "exposure",
+      "value": "고객사 가동률",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "세정ㆍ코팅 산업은 고객사의 반도체 생산량 및 가동률 변동에 연동하여 관계성을 가지고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세정\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 사업으로 고가의 반도체 공정 장비 부품을 재생하는 세정ㆍ코팅 사업 부문과 반도체 장비용 부품을 제작하는 세라믹 소재 부품 사업 부문이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"코팅\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"품목별 매출액은 세정 1,316억원(21.8%), 코팅 1,698억원(28.1%), 부품 3,027억원(50.1%)으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세라믹 소재 부품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비용 부품을 제작하는 세라믹 소재 부품 사업 부문이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세라믹 히터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미코세라믹스의 주력 제품인 세라믹 히터는 CVD, ALD 등 반도체 증착 공정 장비에 장착되어 웨이퍼에 온도를 균일하게 가해주는 기능성 부품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정전척\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"정전척(ESC)은 반도체 식각 공정 장비에 장착되어 웨이퍼를 정전력으로 고정시키고 온도를 제어하는 기능성 부품입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 Samsung, SK hynix, Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체 및 디스플레이 제조 공정 중에 발생하는 미세오염(Micro Contamination)을 제어하고 최적의 공정 수율을 유지하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대한민국 Major 반도체 칩 생산업체인 삼성전자, SK하이닉스와 거래하는 회사\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대한민국 Major 반도체 칩 생산업체인 삼성전자, SK하이닉스와 거래하는 회사\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Intel\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"TSMC\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Micron\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Intel, Micron, TSMC, UMC, GlobalFoundries 등 전세계 Major 고객사와 거래를 통한 Risk 최소화\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코팅파우더\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"품목 코팅파우더 외 15,492 11,464 9,739\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"AlN Powder\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"MiCo Ceramics | AlN Powder 외 | (주)미코 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"국내 (2개 법인) : 본사인 코미코와 미코세라믹스가 모두 안성시에 위치해 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"미국 (3개 법인) : Austin, Hillsboro, Phoenix\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"중국 (5개 법인) : Wuxi, Shenzhen, Dalian, Huanggang, Huizhou(법인 설립)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대만\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대만 (1개 법인) : Hsinchu_Tainan 제2공장(건설 중)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"싱가포르 (1개 법인) : Sinagpore (Woodland)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고객사 가동률\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"세정ㆍ코팅 산업은 고객사의 반도체 생산량 및 가동률 변동에 연동하여 관계성을 가지고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/183300_20260323001516.txt"
+}

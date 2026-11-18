@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 제조 장비",
+      "weight": 0.86,
+      "direction": null,
+      "evidence": "반도체 제조 장비Display 제조 장비Solar Cell 제조 장비"
+    },
+    {
+      "axis": "product",
+      "value": "Display 제조 장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체 제조 장비Display 제조 장비Solar Cell 제조 장비"
+    },
+    {
+      "axis": "product",
+      "value": "Solar Cell 제조 장비",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "반도체 제조 장비Display 제조 장비Solar Cell 제조 장비"
+    },
+    {
+      "axis": "product",
+      "value": "PECVD",
+      "weight": null,
+      "direction": null,
+      "evidence": "반도체 제조용 장비 | PECVD, ALD, Diffusion Thermal System 등"
+    },
+    {
+      "axis": "product",
+      "value": "ALD",
+      "weight": null,
+      "direction": null,
+      "evidence": "반도체 제조용 장비 | PECVD, ALD, Diffusion Thermal System 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "HEATER",
+      "weight": 0.0978,
+      "direction": null,
+      "evidence": "원재료 | HEATER | 43,219 | 9.78%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "POWER SUPPLIES",
+      "weight": 0.0397,
+      "direction": null,
+      "evidence": "원재료 | POWER SUPPLIES | 17,522 | 3.97%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "TM MODULE",
+      "weight": 0.0377,
+      "direction": null,
+      "evidence": "원재료 | TM MODULE | 16,668 | 3.77%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "경기도 평택시 진위면 진위산단로 75"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "충청남도 아산시 둔포면 아산밸리중앙로 123"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "각 외화에 대한 원화의 환율 5% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 제조 장비\",\n      \"weight\": 0.86,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 장비Display 제조 장비Solar Cell 제조 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Display 제조 장비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 장비Display 제조 장비Solar Cell 제조 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Solar Cell 제조 장비\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 장비Display 제조 장비Solar Cell 제조 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PECVD\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조용 장비 | PECVD, ALD, Diffusion Thermal System 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ALD\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조용 장비 | PECVD, ALD, Diffusion Thermal System 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"HEATER\",\n      \"weight\": 0.0978,\n      \"direction\": null,\n      \"evidence\": \"원재료 | HEATER | 43,219 | 9.78%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"POWER SUPPLIES\",\n      \"weight\": 0.0397,\n      \"direction\": null,\n      \"evidence\": \"원재료 | POWER SUPPLIES | 17,522 | 3.97%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"TM MODULE\",\n      \"weight\": 0.0377,\n      \"direction\": null,\n      \"evidence\": \"원재료 | TM MODULE | 16,668 | 3.77%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"경기도 평택시 진위면 진위산단로 75\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"충청남도 아산시 둔포면 아산밸리중앙로 123\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"각 외화에 대한 원화의 환율 5% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/240810_20260316001453.txt"
+}

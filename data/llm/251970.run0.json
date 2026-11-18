@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "화장품 용기",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "펌프",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "튜브",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "콤팩트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "스포이드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "스틱",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "2021년 1월 잘론네츄럴 지분 60%를 취득함으로써 건강기능식품 유통판매업을 추가적으로 영위하게 되었으며"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 전방산업인 화장품 산업의 경기 변동에 직접적인 영향을 받고 있기 때문에"
+    },
+    {
+      "axis": "application",
+      "value": "생활용품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "화장품 외 생활용품 등의 용기로 제품 포트폴리오를 확장해나가고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "시세이도",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일본의 경우 시세이도와 직접 거래를 하고있으며 현지 로컬브랜드들과의 직접 거래도 늘려갈 계획입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "사출품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "플라스틱 용기의 가장 기본이 되는 사출품을 종속회사를 포함한 협력업체로부터 전량 구매하여 용기를 제조하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재지: 인천광역시 부평구 청천동 427-7"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소재지 : 경기도 용인시 처인구 이동읍 화산리 384-7"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2024년 09월 17일 미국 뉴욕에 북미 영업사무소(지점)을 개소하며 현지에서의 직접거래도 늘려갈 계획입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "2025년은 관세 이슈, 고환율 등 정치적, 거시적 요인으로 인하여 시장 변동성이 극심하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "글로벌 공급망 차질과 원자재 가격 상승, 그리고 대외 경제의 불확실성이 겹치며 시장의 변동성은 한동안 지속되었습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펌프\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"튜브\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콤팩트\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스포이드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스틱\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현재 화장품 용기를 전문으로 펌프 및 용기류, 튜브류, 콤팩트류, 스포이드류, 스틱류 등의 용기를 제조판매하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강기능식품\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"2021년 1월 잘론네츄럴 지분 60%를 취득함으로써 건강기능식품 유통판매업을 추가적으로 영위하게 되었으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 전방산업인 화장품 산업의 경기 변동에 직접적인 영향을 받고 있기 때문에\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"생활용품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"화장품 외 생활용품 등의 용기로 제품 포트폴리오를 확장해나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"시세이도\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일본의 경우 시세이도와 직접 거래를 하고있으며 현지 로컬브랜드들과의 직접 거래도 늘려갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"사출품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 용기의 가장 기본이 되는 사출품을 종속회사를 포함한 협력업체로부터 전량 구매하여 용기를 제조하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"소재지: 인천광역시 부평구 청천동 427-7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소재지 : 경기도 용인시 처인구 이동읍 화산리 384-7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2024년 09월 17일 미국 뉴욕에 북미 영업사무소(지점)을 개소하며 현지에서의 직접거래도 늘려갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"2025년은 관세 이슈, 고환율 등 정치적, 거시적 요인으로 인하여 시장 변동성이 극심하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 공급망 차질과 원자재 가격 상승, 그리고 대외 경제의 불확실성이 겹치며 시장의 변동성은 한동안 지속되었습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/251970_20260319001221.txt"
+}

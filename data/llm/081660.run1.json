@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "FILA 브랜드 의류 및 신발",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "Misto 부문 | FILA 브랜드 | 667,077 | 14.9% | 826,806 | 19.4%"
+    },
+    {
+      "axis": "product",
+      "value": "Titleist 골프 용품",
+      "weight": 0.61,
+      "direction": null,
+      "evidence": "Acushnet 부문 | Titleist 부문 | 2,735,023 | 61.2% | 2,486,735 | 58.3%"
+    },
+    {
+      "axis": "product",
+      "value": "FootJoy 골프 의류 및 용품",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "FootJoy 부문 | 810,534 | 18.1% | 783,688 | 18.4%"
+    },
+    {
+      "axis": "application",
+      "value": "골프 산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이후에도 참여 인구 증가와 장비 수요 회복에 힘입어 글로벌 골프 산업은 지속적인 성장세를 이어가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "패션 산업",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "패션 산업은 섬유 산업의 최전방에 위치한 고부가가치 산업으로, 제품의 물리적 가치뿐만 아니라 브랜드, 디자인, 감성적 요소에 의해 시장 경쟁력이 좌우되는 특성을 가지고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Acushnet 부문의 경우 주요 원재료인 원유가격의 국제시장가격 등락에 따른 변동요인 및 생산처의 원재료별 수급상황이라는 변동요인으로 인하여 각각의 가격변동을 파악하기 어렵습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "미국 | 1,523 | 59.5% | 1,447 | 58.9%"
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "한국 | 276 | 10.8% | 291 | 11.8%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "환율의 변동은 외화환산손익을 통해 연결회사의 세전 손익에 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "글로벌 경기",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "패션 산업은 대표적인 경기 민감 소비재 산업으로, 글로벌 경기 사이클, 소비자 심리,금리 및 물가 등 거시경제 변수에 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"FILA 브랜드 의류 및 신발\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"Misto 부문 | FILA 브랜드 | 667,077 | 14.9% | 826,806 | 19.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Titleist 골프 용품\",\n      \"weight\": 0.61,\n      \"direction\": null,\n      \"evidence\": \"Acushnet 부문 | Titleist 부문 | 2,735,023 | 61.2% | 2,486,735 | 58.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FootJoy 골프 의류 및 용품\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"FootJoy 부문 | 810,534 | 18.1% | 783,688 | 18.4%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"골프 산업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이후에도 참여 인구 증가와 장비 수요 회복에 힘입어 글로벌 골프 산업은 지속적인 성장세를 이어가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"패션 산업\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"패션 산업은 섬유 산업의 최전방에 위치한 고부가가치 산업으로, 제품의 물리적 가치뿐만 아니라 브랜드, 디자인, 감성적 요소에 의해 시장 경쟁력이 좌우되는 특성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Acushnet 부문의 경우 주요 원재료인 원유가격의 국제시장가격 등락에 따른 변동요인 및 생산처의 원재료별 수급상황이라는 변동요인으로 인하여 각각의 가격변동을 파악하기 어렵습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"미국 | 1,523 | 59.5% | 1,447 | 58.9%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"한국 | 276 | 10.8% | 291 | 11.8%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"환율의 변동은 외화환산손익을 통해 연결회사의 세전 손익에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"글로벌 경기\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"패션 산업은 대표적인 경기 민감 소비재 산업으로, 글로벌 경기 사이클, 소비자 심리,금리 및 물가 등 거시경제 변수에 영향을 받습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/081660_20260318000916.txt"
+}

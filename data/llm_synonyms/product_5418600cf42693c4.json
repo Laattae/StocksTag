@@ -1,0 +1,112 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "특수가스",
+      "synonyms": [
+        "반도체 특수가스"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "펙수클루",
+      "synonyms": [
+        "펙수클루정"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "펩타이드",
+      "synonyms": [
+        "면역조절 펩타이드",
+        "발모 증진용 펩타이드",
+        "펩타이드 소재",
+        "펩타이드 원료",
+        "펩타이드소재"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "합성수지",
+      "synonyms": [
+        "합성 수지",
+        "고기능성 합성수지"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "합성신약",
+      "synonyms": [
+        "화학합성신약"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "항공우주",
+      "synonyms": [
+        "항공우주체계"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "항공운송",
+      "synonyms": [
+        "항공운송 서비스"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "헤어그로",
+      "synonyms": [
+        "헤어그로정"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "화물운송",
+      "synonyms": [
+        "화물 운송",
+        "벌크화물 운송 서비스",
+        "컨테이너화물 운송 서비스"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "IT서비스",
+      "synonyms": [
+        "IT 서비스",
+        "금융IT서비스",
+        "의료 IT 서비스"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "OLED 소재",
+      "synonyms": [
+        "OLED소재",
+        "디스플레이 OLED 소재"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "LPCVD",
+      "synonyms": [
+        "LPCVD장비"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "STS선재",
+      "synonyms": [
+        "STS 선재"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "가정간편식",
+      "synonyms": [
+        "가정간편식품"
+      ]
+    }
+  ]
+}

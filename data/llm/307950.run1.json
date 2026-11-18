@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "차량 SW 플랫폼",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "차량 SW 플랫폼 사업은 자율주행 및 커넥티비티 등 미래 자동차분야에 적용되는 차세대 고성능 SW 플랫폼과 통신 제어 기능 관련 SW를 개발 및 판매하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "내비게이션 SW",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "또한, 위치 기반 내비게이션 솔루션을 바탕으로 차량용 인포테인먼트, 차량용 커넥티비티, 자율주행용 정밀 지도 등의 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT시스템 운영 및 관리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ITO 부문 | IT시스템 운영 및 관리 등 | 1,767,173,268 | 41.56%"
+    },
+    {
+      "axis": "product",
+      "value": "IT컨설팅 및 시스템 설계",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "SI 부문 | IT컨설팅, 시스템 설계 및 개발 등 | 1,657,192,189 | 38.97%"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당기와 전기 중 중대한 영향력을 행사하는 기업인 현대자동차(주)를 포함한 계열회사에 대한 매출액은 당기 4,091,752,013천원"
+    },
+    {
+      "axis": "customer",
+      "value": "기아",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "차량용 SW는 현대차, 기아 연구개발 부문 등의 고객사에서 필요로 하는 기술 개발 결과물을 기술용역 혹은 구독 형태의 기술판매 방식으로 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "그룹사인 현대모비스, 현대케피코, 현대트랜시스 등에도 유사한 형태로 제품과 기술을 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전산장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 사업특성상 소프트웨어 및 서버 등의 전산장비 구매가 원재료 계정에 포함됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "외주용역비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "외주용역비 | 외주용역비 | 1,919,401,200 | 76.99%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기도 파주시 조리읍에 위치한 파주 데이터센터는 2012년 1월 준공완료 되어 연면적 10,035.42㎡에 지하 2층 ~ 지상 2층의 규모로 되어 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "광주시 광산구 진곡산단 중앙로에 위치한 광주 데이터센터는 2016년 12월 준공완료 되어 연면적 6,841.92㎡에 지하 1층 ~ 지상 2층의 규모로 되어 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미주 | 806,786,916 | 654,872,325 | 460,955,015"
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "유럽 | 390,300,756 | 256,164,281 | 170,706,128"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 여러 활동으로 인하여 시장위험(외환위험), 신용위험 및 유동성 위험과 같은 다양한 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"차량 SW 플랫폼\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"차량 SW 플랫폼 사업은 자율주행 및 커넥티비티 등 미래 자동차분야에 적용되는 차세대 고성능 SW 플랫폼과 통신 제어 기능 관련 SW를 개발 및 판매하는 사업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"내비게이션 SW\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"또한, 위치 기반 내비게이션 솔루션을 바탕으로 차량용 인포테인먼트, 차량용 커넥티비티, 자율주행용 정밀 지도 등의 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT시스템 운영 및 관리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ITO 부문 | IT시스템 운영 및 관리 등 | 1,767,173,268 | 41.56%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT컨설팅 및 시스템 설계\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"SI 부문 | IT컨설팅, 시스템 설계 및 개발 등 | 1,657,192,189 | 38.97%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당기와 전기 중 중대한 영향력을 행사하는 기업인 현대자동차(주)를 포함한 계열회사에 대한 매출액은 당기 4,091,752,013천원\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기아\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"차량용 SW는 현대차, 기아 연구개발 부문 등의 고객사에서 필요로 하는 기술 개발 결과물을 기술용역 혹은 구독 형태의 기술판매 방식으로 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"그룹사인 현대모비스, 현대케피코, 현대트랜시스 등에도 유사한 형태로 제품과 기술을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전산장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 사업특성상 소프트웨어 및 서버 등의 전산장비 구매가 원재료 계정에 포함됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"외주용역비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"외주용역비 | 외주용역비 | 1,919,401,200 | 76.99%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경기도 파주시 조리읍에 위치한 파주 데이터센터는 2012년 1월 준공완료 되어 연면적 10,035.42㎡에 지하 2층 ~ 지상 2층의 규모로 되어 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"광주시 광산구 진곡산단 중앙로에 위치한 광주 데이터센터는 2016년 12월 준공완료 되어 연면적 6,841.92㎡에 지하 1층 ~ 지상 2층의 규모로 되어 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미주 | 806,786,916 | 654,872,325 | 460,955,015\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"유럽 | 390,300,756 | 256,164,281 | 170,706,128\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사는 여러 활동으로 인하여 시장위험(외환위험), 신용위험 및 유동성 위험과 같은 다양한 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/307950_20260318001324.txt"
+}

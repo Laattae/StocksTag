@@ -1,0 +1,222 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "BOBBIN전지",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "BOBBIN전지 | 124,551 | 51.2%"
+    },
+    {
+      "axis": "product",
+      "value": "고온전지",
+      "weight": 0.175,
+      "direction": null,
+      "evidence": "고온전지 | 42,563 | 17.5%"
+    },
+    {
+      "axis": "product",
+      "value": "앰플전지",
+      "weight": 0.095,
+      "direction": null,
+      "evidence": "앰플전지 | 23,139 | 9.5%"
+    },
+    {
+      "axis": "product",
+      "value": "WOUND전지",
+      "weight": 0.072,
+      "direction": null,
+      "evidence": "WOUND전지 | 17,593 | 7.2%"
+    },
+    {
+      "axis": "product",
+      "value": "열전지",
+      "weight": 0.057,
+      "direction": null,
+      "evidence": "열전지 | 13,925 | 5.7%"
+    },
+    {
+      "axis": "product",
+      "value": "EDLC",
+      "weight": 0.023,
+      "direction": null,
+      "evidence": "EDLC | 5,555 | 2.3%"
+    },
+    {
+      "axis": "product",
+      "value": "CR전지",
+      "weight": 0.012,
+      "direction": null,
+      "evidence": "CR전지 | 2,975 | 1.2%"
+    },
+    {
+      "axis": "product",
+      "value": "리튬이온전지",
+      "weight": 0.011,
+      "direction": null,
+      "evidence": "리튬이온전지 | 2,774 | 1.1%"
+    },
+    {
+      "axis": "application",
+      "value": "스마트미터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기존 기계식 또는 아날로그식 Utility Meter (전기미터, 가스미터, 워터미터 등)의 전자식 장비로의 전환으로 전자식 Meter 시장은 급속히 성장할 것으로 예상된다."
+    },
+    {
+      "axis": "application",
+      "value": "석유시추",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유 및 가스 시추시 Drilling 작업의 Monitoring을 위해 극한 환경 (고온, 진동 등)에서 사용가능한 전원이 필요합니다."
+    },
+    {
+      "axis": "application",
+      "value": "군수",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "군 무기체계 운용을 위한 필수 전투지원 물자중의 하나가 리튬전지로서 특수한 상황에서 지속적이고 안정적인 전원공급을 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "위치추적",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자동차, 컨테이너, 야생동물, 가축 등의 위치추적을 하고 관리하는 산업분야가 최근 급성장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료기기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Header",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Case",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Lithium",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Nickel",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Header , Case Lithium, Nickel 등"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 충남 당진에 위치한 본사 공장에 Li-SOCl2전지 자동화라인 및 드라이룸 등 생산설비를 갖추고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "캐나다 소재 Innova Power Solutions Inc.에 Downhole tool용 battery pack 및 모니터링칩 솔루션 제조 생산설비를 갖추고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "리튬 등 주요 원자재 가격 안정화에 따른 재료비 절감, 원가 절감 및 매출 증가에 따른 고정비 감소 효과"
+    },
+    {
+      "axis": "exposure",
+      "value": "전쟁",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "군수용 전지는 경기와 상관없이 수요가 일정하지만 전쟁이나 국지적인 긴장이 고조되면 수요가 급속히 증가하는 특성을 가지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "리튬일차전지",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 당사업보고서 작성기준일 현재 Li-SOCl2 일차전지의 제조 및 판매를 주업으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동심장충격기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "인슐린주입기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "메모리백업전원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전자제품의 메모리 Back-up 용 전원으로 장기간 (5년~10년 이상) 사용되므로 전지의 장기사용 신뢰성 문제로 리튬일차전지진이 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료기기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "스마트그리드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "다만, 주력 전방산업인 Smart Grid 분야에서는 글로벌 1위 점유율을 차지하고 있는 것으로 보입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국군",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한, 15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "2018년 통합신축공장인 당진 스마트캠퍼스를 준공하면서, 자동화 설비 및 공정을 대폭 향상시켜 약 90% 이상의 공정자동화를 이루었습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"BOBBIN전지\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"BOBBIN전지 | 124,551 | 51.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고온전지\",\n      \"weight\": 0.175,\n      \"direction\": null,\n      \"evidence\": \"고온전지 | 42,563 | 17.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"앰플전지\",\n      \"weight\": 0.095,\n      \"direction\": null,\n      \"evidence\": \"앰플전지 | 23,139 | 9.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"WOUND전지\",\n      \"weight\": 0.072,\n      \"direction\": null,\n      \"evidence\": \"WOUND전지 | 17,593 | 7.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열전지\",\n      \"weight\": 0.057,\n      \"direction\": null,\n      \"evidence\": \"열전지 | 13,925 | 5.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EDLC\",\n      \"weight\": 0.023,\n      \"direction\": null,\n      \"evidence\": \"EDLC | 5,555 | 2.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CR전지\",\n      \"weight\": 0.012,\n      \"direction\": null,\n      \"evidence\": \"CR전지 | 2,975 | 1.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리튬이온전지\",\n      \"weight\": 0.011,\n      \"direction\": null,\n      \"evidence\": \"리튬이온전지 | 2,774 | 1.1%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트미터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기존 기계식 또는 아날로그식 Utility Meter (전기미터, 가스미터, 워터미터 등)의 전자식 장비로의 전환으로 전자식 Meter 시장은 급속히 성장할 것으로 예상된다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유시추\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유 및 가스 시추시 Drilling 작업의 Monitoring을 위해 극한 환경 (고온, 진동 등)에서 사용가능한 전원이 필요합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군수\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"군 무기체계 운용을 위한 필수 전투지원 물자중의 하나가 리튬전지로서 특수한 상황에서 지속적이고 안정적인 전원공급을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"위치추적\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자동차, 컨테이너, 야생동물, 가축 등의 위치추적을 하고 관리하는 산업분야가 최근 급성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Header\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Case\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Lithium\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Nickel\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Header , Case Lithium, Nickel 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 충남 당진에 위치한 본사 공장에 Li-SOCl2전지 자동화라인 및 드라이룸 등 생산설비를 갖추고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캐나다\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"캐나다 소재 Innova Power Solutions Inc.에 Downhole tool용 battery pack 및 모니터링칩 솔루션 제조 생산설비를 갖추고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"군수용 전지와 석유·가스 시추용 고온전지 수요 확대 및 달러 환율 강세에 따른 매출 증가\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"리튬 등 주요 원자재 가격 안정화에 따른 재료비 절감, 원가 절감 및 매출 증가에 따른 고정비 감소 효과\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전쟁\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"군수용 전지는 경기와 상관없이 수요가 일정하지만 전쟁이나 국지적인 긴장이 고조되면 수요가 급속히 증가하는 특성을 가지고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"리튬일차전지\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 당사업보고서 작성기준일 현재 Li-SOCl2 일차전지의 제조 및 판매를 주업으로 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"자동심장충격기\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며\"}, {\"axis\": \"product\", \"value\": \"인슐린주입기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며\"}, {\"axis\": \"product\", \"value\": \"메모리백업전원\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"전자제품의 메모리 Back-up 용 전원으로 장기간 (5년~10년 이상) 사용되므로 전지의 장기사용 신뢰성 문제로 리튬일차전지진이 적용되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"의료기기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 장비로는 자동심장충격기(AED, Automatic External Defibrillator)와 인슐린 주입기 (Insulin Pump) 등에 리튬일차전지가 적용되고 있으며\"}, {\"axis\": \"application\", \"value\": \"스마트그리드\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"다만, 주력 전방산업인 Smart Grid 분야에서는 글로벌 1위 점유율을 차지하고 있는 것으로 보입니다.\"}, {\"axis\": \"customer\", \"value\": \"한국군\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"또한, 15년 이상 한국군의 독점 공급업체로서, 성공적인 군수 부품으로 검증된 실적을 바탕으로\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"2018년 통합신축공장인 당진 스마트캠퍼스를 준공하면서, 자동화 설비 및 공정을 대폭 향상시켜 약 90% 이상의 공정자동화를 이루었습니다.\"}]}"
+  ],
+  "text_path": "data/reports/082920_20260317000858.txt"
+}

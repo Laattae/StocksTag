@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며, Foundry 사업도 병행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며, Foundry 사업도 병행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "특히, DRAM은 추론 기능 중심으로 AI 서비스의 고도화가 이루어지며 HBM 수요 뿐만 아니라 일반 DRAM의 수요도 크게 증가하였고, NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "DRAM의 경우 세계 유수의 모바일 및 컴퓨팅 관련 전자 업체에 제품을 공급하고 있습니다. NAND Flash는 IT 컨슈머 제품 전체에 걸쳐 그 수요처가 다양하기 때문에 세계적인 모바일 디바이스 및 IT 제품 제조업체"
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Substrate",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화, 유로화, 위안화 및 엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "DRAM",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 매년 DRAM 및 NAND Flash 메모리의 주요 제품에 대하여 전과정평가를 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "NAND Flash",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 매년 DRAM 및 NAND Flash 메모리의 주요 제품에 대하여 전과정평가를 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SSD",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2025년 DRAM과 NAND, SSD 총 15개 제품에 대해 해외 카본트러스트 저탄소 제품 및 탄소발자국 인증을 획득하는 등"
+    },
+    {
+      "axis": "product",
+      "value": "HBM",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "탄소감축인증센터 감축인증 표준 절차에 따라 HBM 제품과 eSSD 제품에 대해 탄소감축성과 크레디트를 인증 받아"
+    },
+    {
+      "axis": "exposure",
+      "value": "온실가스 배출권 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "온실가스 배출권거래제는 정부가 각 기업에게 온실가스를 배출할 수 있는 배출권을 부여하고 기업들은 시장원리에 의해 형성된 배출권 가격을 토대로 각 기업별 한계저감비용에 따라 배출권을 매입하거나 매도하는 제도입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며, Foundry 사업도 병행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 당사의 종속기업의 주력 제품은 DRAM 및 NAND를 중심으로 하는 메모리 반도체이며, Foundry 사업도 병행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"특히, DRAM은 추론 기능 중심으로 AI 서비스의 고도화가 이루어지며 HBM 수요 뿐만 아니라 일반 DRAM의 수요도 크게 증가하였고, NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"NAND 또한 AI향 데이터센터에 필요한 고용량 기업용 SSD가 수요 증가를 주도하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"DRAM의 경우 세계 유수의 모바일 및 컴퓨팅 관련 전자 업체에 제품을 공급하고 있습니다. NAND Flash는 IT 컨슈머 제품 전체에 걸쳐 그 수요처가 다양하기 때문에 세계적인 모바일 디바이스 및 IT 제품 제조업체\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Substrate\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 메모리 반도체 부문 생산공정에 투입되는 원재료는 크게 웨이퍼(Wafer), Substrate, PCB(Printed Circuit Board) 그리고 기타 재료 등으로 구성됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 경기도 이천시에 위치한 본사를 거점으로 4개의 생산기지와 3개의 연구개발법인 및 미국, 중국, 싱가포르, 대만, 홍콩 등 판매법인과 사무소를 운영하고 있는 글로벌 반도체 기업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화, 유로화, 위안화 및 엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"DRAM\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 매년 DRAM 및 NAND Flash 메모리의 주요 제품에 대하여 전과정평가를 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NAND Flash\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 매년 DRAM 및 NAND Flash 메모리의 주요 제품에 대하여 전과정평가를 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SSD\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2025년 DRAM과 NAND, SSD 총 15개 제품에 대해 해외 카본트러스트 저탄소 제품 및 탄소발자국 인증을 획득하는 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HBM\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"탄소감축인증센터 감축인증 표준 절차에 따라 HBM 제품과 eSSD 제품에 대해 탄소감축성과 크레디트를 인증 받아\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"온실가스 배출권 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"온실가스 배출권거래제는 정부가 각 기업에게 온실가스를 배출할 수 있는 배출권을 부여하고 기업들은 시장원리에 의해 형성된 배출권 가격을 토대로 각 기업별 한계저감비용에 따라 배출권을 매입하거나 매도하는 제도입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/000660_20260317000635.txt"
+}

@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 소재",
+      "weight": 0.61,
+      "direction": null,
+      "evidence": "반도체 소재 | 84,790 | 61.12%"
+    },
+    {
+      "axis": "product",
+      "value": "Solar 소재",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "Solar 소재 | 32,835 | 23.67%"
+    },
+    {
+      "axis": "product",
+      "value": "석유화학촉매",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "석유화학촉매 | 12,648 | 9.12%"
+    },
+    {
+      "axis": "product",
+      "value": "LED 소재",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "LED 소재 | 7,745 | 5.58%"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": null,
+      "direction": null,
+      "evidence": "전의사업장 | 세종특별자치시 전의면 산단길 22-144 | 유기금속화합물제조 | 본사"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "천안사업장 | 충남 천안시 성남면 5산단4로 41 | 유기금속화합물제조 | 지점"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "당기말과 전기말 현재 외화에 대한 원화 환율 10% 변동 시 환율변동이 당기 및 전기 손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "상승시 | (104,686) | (116,519) | (104,686) | (116,519)"
+    },
+    {
+      "axis": "product",
+      "value": "TMA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 공정용 전구체(Precursor)는, 1) 원하는 물성의 박막 형성, 2) 높은 증착 속도, 3) 우수한 경제성"
+    },
+    {
+      "axis": "product",
+      "value": "MAO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LED 원료로 사용하고 남는 TMA의 수요처를 검토하면서 메탈로센 조촉매인 MAO 개발을 시작하였고 석유화학 업체의 어려운 평가 과정을 통과 후 MAO 양산에 성공하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "LED 전구체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 2010년 LED TV가 출시되어 전세계적으로 LED 전구체가 부족하던 시점에 LED 전구체를 제조하기 위해 설립되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "메탈로센 컴파운드",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "더불어 관련 아이템인 메탈로센 컴파운드와 담지촉매 개발까지 성공하여 촉매사업에도 안정적으로 진입하게 되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전고체 전해질",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 현재 추진 중인 신규사업은 (주)레이크테크놀로지에서 이차전지 전고체 전해질 원료 분야 소재를 개발 및 공급하기 위해 생산시설 증설을 완료하여"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 핵심 인력 대부분이 반도체 소재 연구개발과 마케팅 경력을 보유하고 있어, 반도체 소재 사업에 대한 전망, 시장과 기술개발 현황 등을 명확히 인지하고있었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "마지막으로 사업화된 부분은 Solar용 소재이며, Solar 소재 분야의 진입은 고효율 쏠라셀을 제조하기 위하여 PERC 공정에서 Passivation Layer로 Al2O3 박막이 적용되면서"
+    },
+    {
+      "axis": "application",
+      "value": "LED",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사업 초기에는 기존 TMA 제조업체들이 당사의 LED 전구체 사업 진출을 막기 위해 TMA 판매를 거절하여 TMA를 수급할 수 없던 애로사항 때문에 당사는 전세계 3개 회사만이 생산하던 TMA 제조기술을 자체 개발하게 되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "석유화학",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Double Patterning, DPT용 전구체는 메모리 최대 생산국이자 실리콘 웨이퍼 투입량은 많은 국내에서 사용량이 가장 많은 것으로 확인되었으며, 특히 삼성전자는 DPT용 전구체 재료의 최대 수요처임을 알 수 있다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "아울러 제조원가의 65~85%를 원료비가 차지하여 국제유가 변화에 민감한 사업입니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"반도체 소재\", \"weight\": 0.61, \"direction\": null, \"evidence\": \"반도체 소재 | 84,790 | 61.12%\"}, {\"axis\": \"product\", \"value\": \"Solar 소재\", \"weight\": 0.24, \"direction\": null, \"evidence\": \"Solar 소재 | 32,835 | 23.67%\"}, {\"axis\": \"product\", \"value\": \"석유화학촉매\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"석유화학촉매 | 12,648 | 9.12%\"}, {\"axis\": \"product\", \"value\": \"LED 소재\", \"weight\": 0.06, \"direction\": null, \"evidence\": \"LED 소재 | 7,745 | 5.58%\"}, {\"axis\": \"region\", \"value\": \"세종\", \"weight\": null, \"direction\": null, \"evidence\": \"전의사업장 | 세종특별자치시 전의면 산단길 22-144 | 유기금속화합물제조 | 본사\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": null, \"direction\": null, \"evidence\": \"천안사업장 | 충남 천안시 성남면 5산단4로 41 | 유기금속화합물제조 | 지점\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": 1, \"evidence\": \"당기말과 전기말 현재 외화에 대한 원화 환율 10% 변동 시 환율변동이 당기 및 전기 손익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": null, \"direction\": -1, \"evidence\": \"상승시 | (104,686) | (116,519) | (104,686) | (116,519)\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"TMA\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정용 전구체(Precursor)는, 1) 원하는 물성의 박막 형성, 2) 높은 증착 속도, 3) 우수한 경제성\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MAO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LED 원료로 사용하고 남는 TMA의 수요처를 검토하면서 메탈로센 조촉매인 MAO 개발을 시작하였고 석유화학 업체의 어려운 평가 과정을 통과 후 MAO 양산에 성공하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LED 전구체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 2010년 LED TV가 출시되어 전세계적으로 LED 전구체가 부족하던 시점에 LED 전구체를 제조하기 위해 설립되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메탈로센 컴파운드\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"더불어 관련 아이템인 메탈로센 컴파운드와 담지촉매 개발까지 성공하여 촉매사업에도 안정적으로 진입하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전고체 전해질\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 추진 중인 신규사업은 (주)레이크테크놀로지에서 이차전지 전고체 전해질 원료 분야 소재를 개발 및 공급하기 위해 생산시설 증설을 완료하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 핵심 인력 대부분이 반도체 소재 연구개발과 마케팅 경력을 보유하고 있어, 반도체 소재 사업에 대한 전망, 시장과 기술개발 현황 등을 명확히 인지하고있었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"마지막으로 사업화된 부분은 Solar용 소재이며, Solar 소재 분야의 진입은 고효율 쏠라셀을 제조하기 위하여 PERC 공정에서 Passivation Layer로 Al2O3 박막이 적용되면서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"LED\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"사업 초기에는 기존 TMA 제조업체들이 당사의 LED 전구체 사업 진출을 막기 위해 TMA 판매를 거절하여 TMA를 수급할 수 없던 애로사항 때문에 당사는 전세계 3개 회사만이 생산하던 TMA 제조기술을 자체 개발하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유화학\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Double Patterning, DPT용 전구체는 메모리 최대 생산국이자 실리콘 웨이퍼 투입량은 많은 국내에서 사용량이 가장 많은 것으로 확인되었으며, 특히 삼성전자는 DPT용 전구체 재료의 최대 수요처임을 알 수 있다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"아울러 제조원가의 65~85%를 원료비가 차지하여 국제유가 변화에 민감한 사업입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/281740_20260318001193.txt"
+}

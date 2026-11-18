@@ -1,0 +1,208 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며"
+    },
+    {
+      "axis": "product",
+      "value": "기업공개",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기업공개(IPO), 비상장주식(Pre-IPO), 메자닌, 유상증자, 회사채, 인수금융, 프로젝트파이낸싱(PF) 등 기업들의 다양한 니즈에 맞는 최적의 금융솔루션"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며"
+    },
+    {
+      "axis": "product",
+      "value": "프로젝트파이낸싱",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "기업공개(IPO), 비상장주식(Pre-IPO), 메자닌, 유상증자, 회사채, 인수금융, 프로젝트파이낸싱(PF) 등 기업들의 다양한 니즈에 맞는 최적의 금융솔루션"
+    },
+    {
+      "axis": "customer",
+      "value": "LG CNS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년에는 LG CNS, 서울보증보험, 더핑크퐁컴퍼니, 인투셀 등 총 21건의 IPO와 삼성 SDI 유상증자"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년에는 LG CNS, 서울보증보험, 더핑크퐁컴퍼니, 인투셀 등 총 21건의 IPO와 삼성 SDI 유상증자"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "미래에셋증권은 글로벌 투자전문기업으로서 고객의 니즈에 맞는 전문화된 금융서비스를 제공하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "토큰증권",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토큰증권이란, 분산원장 기술을 활용해 자본시장법상 증권(신탁수익증권, 투자계약증권 등)을 디지털화한 것을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "종합투자계좌",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 금융위원회로부터 종합투자계좌(IMA: Investment Management Account) 사업자 지정을 받았습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "서 울 | 25 | 0 | 0 | 25 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부 산 | 4 | 0 | 0 | 4 |"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "대 구 | 3 | 0 | 0 | 3 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경 기 | 9 | 0 | 0 | 9 |"
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "세계 금융 중심지 중 하나인 홍콩*은 중국의 대외 투자 전진기지이자 아시아의 금융 허브로서"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "AI 인프라 확대와 기업 설비투자가 경제를 지탱하는 핵심 동력이 될 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "이러한 상승세는 중국 본토 자금 유입 증가, AI및 기술 산업 기대감, IPO 활성화, 금리 및 통화정책 완화에 대한 기대감으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "환율시장은 9월 말까지 이어진 헤알화 강세 이후, 4분기에는 대외 변수와 달러 흐름에 따라 등락이 있었으나"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "해외주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매"
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "- 퇴직연금제도는 근로자가 퇴직후 안정된 생활을 누리도록 하기 위해 도입된 제도로서 기업 또는 근로자가 사외 금융기관에 월 또는 년 단위 일정액을 적립하고"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며\"}, {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며\"}, {\"axis\": \"product\", \"value\": \"기업공개\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"기업공개(IPO), 비상장주식(Pre-IPO), 메자닌, 유상증자, 회사채, 인수금융, 프로젝트파이낸싱(PF) 등 기업들의 다양한 니즈에 맞는 최적의 금융솔루션\"}, {\"axis\": \"product\", \"value\": \"파생상품\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고객들의 다양한 투자 니즈에 대응하여 국내외 주식, 채권, 선물, 외환, 파생상품 및 장외상품 등 여러 금융상품을 연계 운용하며\"}, {\"axis\": \"product\", \"value\": \"프로젝트파이낸싱\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"기업공개(IPO), 비상장주식(Pre-IPO), 메자닌, 유상증자, 회사채, 인수금융, 프로젝트파이낸싱(PF) 등 기업들의 다양한 니즈에 맞는 최적의 금융솔루션\"}, {\"axis\": \"customer\", \"value\": \"LG CNS\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025년에는 LG CNS, 서울보증보험, 더핑크퐁컴퍼니, 인투셀 등 총 21건의 IPO와 삼성 SDI 유상증자\"}, {\"axis\": \"customer\", \"value\": \"삼성SDI\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025년에는 LG CNS, 서울보증보험, 더핑크퐁컴퍼니, 인투셀 등 총 21건의 IPO와 삼성 SDI 유상증자\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"미래에셋증권은 글로벌 투자전문기업으로서 고객의 니즈에 맞는 전문화된 금융서비스를 제공하여\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"금리 ·환율 변동성 확대 등으로 운용환경의 불확실성이 지속되고 있으나, 비즈니스 및 투자 포트폴리오의 다각화를 추구하며\"}]}",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"투자자가 주식, 채권, 파생결합 증권 등 다양한 금융상품에 투자하여 재산을 증식할 수 있는 기회를 제공합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"토큰증권\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토큰증권이란, 분산원장 기술을 활용해 자본시장법상 증권(신탁수익증권, 투자계약증권 등)을 디지털화한 것을 의미합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"종합투자계좌\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 금융위원회로부터 종합투자계좌(IMA: Investment Management Account) 사업자 지정을 받았습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"서 울 | 25 | 0 | 0 | 25 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"부 산 | 4 | 0 | 0 | 4 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"대 구 | 3 | 0 | 0 | 3 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경 기 | 9 | 0 | 0 | 9 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"홍콩\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"세계 금융 중심지 중 하나인 홍콩*은 중국의 대외 투자 전진기지이자 아시아의 금융 허브로서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"AI 인프라 확대와 기업 설비투자가 경제를 지탱하는 핵심 동력이 될 것입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"이러한 상승세는 중국 본토 자금 유입 증가, AI및 기술 산업 기대감, IPO 활성화, 금리 및 통화정책 완화에 대한 기대감으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"환율시장은 9월 말까지 이어진 헤알화 강세 이후, 4분기에는 대외 변수와 달러 흐름에 따라 등락이 있었으나\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해외주식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발행어음\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"- 위탁매매 : 집합투자증권, 주식, 해외주식, 장내파생상품, 해외파생상품, 금현물, 코넥스, ELW, 채권, CD, CP, 전자단기사채, ELS, RP, 발행어음 등의 위탁매매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"- 퇴직연금제도는 근로자가 퇴직후 안정된 생활을 누리도록 하기 위해 도입된 제도로서 기업 또는 근로자가 사외 금융기관에 월 또는 년 단위 일정액을 적립하고\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/006800_20260515002972.txt"
+}

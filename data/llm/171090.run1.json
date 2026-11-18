@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "증착장비",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사는 소형(R&D용) OLED 증착기 시장에서 독보적인 전 세계 M/S 1위 지위를 확고하게 유지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "OLEDoS",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "스마트 글라스와 XR(확장현실) 기기의 핵심 동력인 OLEDoS(OLED on Silicon) 시장의 개화가 자리하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "페로브스카이트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기존 실리콘 태양전지의 효율 한계를 극복할 수 있는 페로브스카이트 패널은 유기물 증착 공정의 정밀도에 따라 상용화 여부가 결정되는바"
+    },
+    {
+      "axis": "application",
+      "value": "OLED 디스플레이",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "OLED 증착장비는 OLED 디스플레이 패널 제조 산업의 후방산업으로서, 각 패널업체의 OLED 패널 투자계획에 따라 장비 수요는 변동합니다."
+    },
+    {
+      "axis": "application",
+      "value": "XR 기기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "초고해상도와 경량화를 동시에 만족해야 하는 차세대 웨어러블 디바이스 산업이 가속화됨에 따라, 실리콘 웨이퍼를 기판으로 활용하는 OLEDoS 기술 수요는 폭발적으로 증가하는 추세입니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "OLED에서 검증된 초정밀 증착 기술은 차세대 에너지 산업인 페로브스카이트(Perovskite) 태양광 분야로 외연을 넓히며 새로운 시장 가치를 창출하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기도 파주시 돈유2로 8(선유리 1380번지)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 외화자산ㆍ부채와 관련하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"증착장비\", \"weight\": 0.95, \"direction\": null, \"evidence\": \"당사는 소형(R&D용) OLED 증착기 시장에서 독보적인 전 세계 M/S 1위 지위를 확고하게 유지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"OLEDoS\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"스마트 글라스와 XR(확장현실) 기기의 핵심 동력인 OLEDoS(OLED on Silicon) 시장의 개화가 자리하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"페로브스카이트\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"기존 실리콘 태양전지의 효율 한계를 극복할 수 있는 페로브스카이트 패널은 유기물 증착 공정의 정밀도에 따라 상용화 여부가 결정되는바\"}, {\"axis\": \"application\", \"value\": \"OLED 디스플레이\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"OLED 증착장비는 OLED 디스플레이 패널 제조 산업의 후방산업으로서, 각 패널업체의 OLED 패널 투자계획에 따라 장비 수요는 변동합니다.\"}, {\"axis\": \"application\", \"value\": \"XR 기기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"초고해상도와 경량화를 동시에 만족해야 하는 차세대 웨어러블 디바이스 산업이 가속화됨에 따라, 실리콘 웨이퍼를 기판으로 활용하는 OLEDoS 기술 수요는 폭발적으로 증가하는 추세입니다.\"}, {\"axis\": \"application\", \"value\": \"태양광\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"OLED에서 검증된 초정밀 증착 기술은 차세대 에너지 산업인 페로브스카이트(Perovskite) 태양광 분야로 외연을 넓히며 새로운 시장 가치를 창출하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"경기도 파주시 돈유2로 8(선유리 1380번지)\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결실체는 외화자산ㆍ부채와 관련하여 환율변동위험에 노출되어 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/171090_20260320001146.txt"
+}

@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "K-Beauty",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 K-Beauty 브랜드 제품을 중심으로, 글로벌 B2BㆍB2C 유통을 아우르는 종합 K-Beauty 유통 플랫폼 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "먼저 글로벌 각 지역에서 선호되는 화장품 카테고리 및 제품 유형을 분석하여 브랜드를 분류하고"
+    },
+    {
+      "axis": "product",
+      "value": "스킨케어",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2026년부터는 스킨케어를 비롯하여 헤어&바디 및 기타 카테고리 영역을 확장하여 K-Beauty를 넘어 K-Culture 전반을 아우르는"
+    },
+    {
+      "axis": "product",
+      "value": "헤어&바디",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2026년부터는 스킨케어를 비롯하여 헤어&바디 및 기타 카테고리 영역을 확장하여 K-Beauty를 넘어 K-Culture 전반을 아우르는"
+    },
+    {
+      "axis": "product",
+      "value": "향수",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "한국 발 메이크업, 스킨케어, 헤어케어, 바디케어, 향수 등 모든 한국 Beauty 영역"
+    },
+    {
+      "axis": "application",
+      "value": "E-Commerce",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "글로벌 B2BㆍB2C 유통을 아우르는 종합 K-Beauty 유통 플랫폼 기업입니다. 자사 플랫폼인 StyleKorean.com을 통해 전 세계 약 175개국을 대상으로 E-Commerce 기반의 역직구(B2C Retail) 판매를 진행하는"
+    },
+    {
+      "axis": "application",
+      "value": "소셜 커머스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 자사몰(US D2C), Shopee 등 글로벌 오픈마켓, TikTok Shop과 같은 소셜 커머스 채널의 입점 및 운영을 대항하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "오픈마켓",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 자사몰(US D2C), Shopee 등 글로벌 오픈마켓, TikTok Shop과 같은 소셜 커머스 채널의 입점 및 운영을 대항하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "iHerb, Inc",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "iHerb, Inc | 68,442 | 6.13%"
+    },
+    {
+      "axis": "customer",
+      "value": "SHOPEE",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SHOPEE | 15,386 | 1.38%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경기도 성남시 분당구 판교역로 231,에이치스퀘어 에스동 905,906,907,908,909,910,911호"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기도 광주시 오포읍 오포로 650-23오포CS물류창고"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "10928 Bloomfield Ave, Santa Fe Springs, CA 90670"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Wyscigowa 56 E, 53-012 Wrocław,"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "VIETTEL TOWER (A2 BUILDING) 12TH FLOOR,285CACH MANG THANG 8 STREET,WARD 12,DISTRICT 10, HCMC, Viet Nam"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "보고기간종료일 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율 10% 변동시 환율변동이 법인세차감전순이익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"K-Beauty\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 K-Beauty 브랜드 제품을 중심으로, 글로벌 B2BㆍB2C 유통을 아우르는 종합 K-Beauty 유통 플랫폼 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"먼저 글로벌 각 지역에서 선호되는 화장품 카테고리 및 제품 유형을 분석하여 브랜드를 분류하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스킨케어\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2026년부터는 스킨케어를 비롯하여 헤어&바디 및 기타 카테고리 영역을 확장하여 K-Beauty를 넘어 K-Culture 전반을 아우르는\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"헤어&바디\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2026년부터는 스킨케어를 비롯하여 헤어&바디 및 기타 카테고리 영역을 확장하여 K-Beauty를 넘어 K-Culture 전반을 아우르는\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"향수\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"한국 발 메이크업, 스킨케어, 헤어케어, 바디케어, 향수 등 모든 한국 Beauty 영역\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"E-Commerce\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"글로벌 B2BㆍB2C 유통을 아우르는 종합 K-Beauty 유통 플랫폼 기업입니다. 자사 플랫폼인 StyleKorean.com을 통해 전 세계 약 175개국을 대상으로 E-Commerce 기반의 역직구(B2C Retail) 판매를 진행하는\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"소셜 커머스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 자사몰(US D2C), Shopee 등 글로벌 오픈마켓, TikTok Shop과 같은 소셜 커머스 채널의 입점 및 운영을 대항하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"오픈마켓\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 자사몰(US D2C), Shopee 등 글로벌 오픈마켓, TikTok Shop과 같은 소셜 커머스 채널의 입점 및 운영을 대항하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"iHerb, Inc\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"iHerb, Inc | 68,442 | 6.13%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SHOPEE\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SHOPEE | 15,386 | 1.38%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경기도 성남시 분당구 판교역로 231,에이치스퀘어 에스동 905,906,907,908,909,910,911호\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경기도 광주시 오포읍 오포로 650-23오포CS물류창고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"10928 Bloomfield Ave, Santa Fe Springs, CA 90670\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Wyscigowa 56 E, 53-012 Wrocław,\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"VIETTEL TOWER (A2 BUILDING) 12TH FLOOR,285CACH MANG THANG 8 STREET,WARD 12,DISTRICT 10, HCMC, Viet Nam\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"보고기간종료일 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율 10% 변동시 환율변동이 법인세차감전순이익에 미치는 영향은 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/257720_20260320001024.txt"
+}

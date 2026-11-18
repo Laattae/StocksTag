@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "설탕",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%"
+    },
+    {
+      "axis": "product",
+      "value": "밀가루",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%"
+    },
+    {
+      "axis": "product",
+      "value": "식용유",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%"
+    },
+    {
+      "axis": "product",
+      "value": "핵산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "BIO | 핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15%"
+    },
+    {
+      "axis": "product",
+      "value": "아미노산",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "BIO | 핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원 당 | 설탕제조 등 | 758,438 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원맥",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원 맥 | 밀가루제조 | 328,387 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대 두 | 식용유제조 등 | 805,501 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "옥수수 | 아미노산제조 등 | 368,038 | 수 입"
+    },
+    {
+      "axis": "raw_material",
+      "value": "경유",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품 사업 | 미국 | 19"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품 사업 | 중국 | 4"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"설탕\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"밀가루\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식용유\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"식품 | 설탕, 밀가루, 식용유 등 | 11,522,251 | 42%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핵산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"BIO | 핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아미노산\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"BIO | 핵산, 아미노산,식물성 단백원 등 | 4,123,004 | 15%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원 당 | 설탕제조 등 | 758,438 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원맥\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원 맥 | 밀가루제조 | 328,387 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대 두 | 식용유제조 등 | 805,501 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"옥수수 | 아미노산제조 등 | 368,038 | 수 입\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"경유\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품 사업 | 미국 | 19\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품 사업 | 중국 | 4\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"식품, BIO 및 F&C 사업은 국내 26개 생산 사업장과 중국, 인도네시아, 베트남 등 해외 78개 생산 사업장에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/097950_20260316001116.txt"
+}

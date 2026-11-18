@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "디스플레이 OLED 소재",
+      "weight": 0.66,
+      "direction": null,
+      "evidence": "OLED 소재 사업 매출액은 2,915억원으로 전년 대비 20.1% 증가했으며, 전체 매출액의 66.3%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "회로기판 소재",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "회로기판 소재 사업 매출액은 1,116억원으로 전년 대비 22.1% 감소했으며, 전체 매출액의 25.4%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체 패키지 소재",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "반도체 패키지 소재 사업 매출액은 365억원으로 전년 대비 0.9% 감소했으며, 전체 매출액의 8.3%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "리튬",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "(주)이녹스리튬은 2차전지용 리튬을 제조하여 판매하는 것을 주된 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "스마트폰, 태블릿, 노트북, 자동차 전장, 배터리등에 사용되는 OLED, 배터리 모듈용 회로기판 소재를 글로벌 고객사에 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "이녹스리튬은 전기차, ESS, 로보틱스 배터리용 리튬을 동시에 생산하며, 모든 배터리 타입에 대응이 가능합니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "최근 AI, 데이터센터, 온디바이스 AI 등 수요 확대에 따라 당사 고객사들의 첨단 반도체 패키지 생산량이 확대되고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "마찬가지로 삼성전자, Amkor 등 글로벌 반도체 회사를 직접 공략하여 당사 소재의 채용 승인을 획득하는데 주력하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PI필름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PET",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "충청북도 청주시 오창테크노폴리스 산업단지에 제조 공장을 2025년 11월 준공했으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 여러 활동으로 인하여 시장위험(환위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이 OLED 소재\",\n      \"weight\": 0.66,\n      \"direction\": null,\n      \"evidence\": \"OLED 소재 사업 매출액은 2,915억원으로 전년 대비 20.1% 증가했으며, 전체 매출액의 66.3%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"회로기판 소재\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"회로기판 소재 사업 매출액은 1,116억원으로 전년 대비 22.1% 감소했으며, 전체 매출액의 25.4%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 패키지 소재\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"반도체 패키지 소재 사업 매출액은 365억원으로 전년 대비 0.9% 감소했으며, 전체 매출액의 8.3%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리튬\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"(주)이녹스리튬은 2차전지용 리튬을 제조하여 판매하는 것을 주된 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"스마트폰, 태블릿, 노트북, 자동차 전장, 배터리등에 사용되는 OLED, 배터리 모듈용 회로기판 소재를 글로벌 고객사에 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"이녹스리튬은 전기차, ESS, 로보틱스 배터리용 리튬을 동시에 생산하며, 모든 배터리 타입에 대응이 가능합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"최근 AI, 데이터센터, 온디바이스 AI 등 수요 확대에 따라 당사 고객사들의 첨단 반도체 패키지 생산량이 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"마찬가지로 삼성전자, Amkor 등 글로벌 반도체 회사를 직접 공략하여 당사 소재의 채용 승인을 획득하는데 주력하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PI필름\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PET\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"충청북도 청주시 오창테크노폴리스 산업단지에 제조 공장을 2025년 11월 준공했으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 여러 활동으로 인하여 시장위험(환위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/272290_20260318001197.txt"
+}

@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "ORM-6151",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "ORM-6151(BMS-986497): 재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)"
+    },
+    {
+      "axis": "product",
+      "value": "ORM-1153",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ORM-1153: AML 및 기타 CD123 양성 혈액암(hematologic malignancies) 적응증"
+    },
+    {
+      "axis": "product",
+      "value": "ORM-1023",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ORM-1023: 소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET). 전임상 개발 진행 과제"
+    },
+    {
+      "axis": "product",
+      "value": "TPD²-GSPT1",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "TPD²-GSPT1 플랫폼은 분자접착제(molecular glue) 기반의 표적 단백질 분해 기술과 ADC의 조직 특이적전달능력을 융합한 형태로"
+    },
+    {
+      "axis": "application",
+      "value": "급성골수성백혈병",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "가장 높은 민감도 중앙값을 보인 종양 유형은 급성골수성백혈병(acute myeloid leukemia, AML)"
+    },
+    {
+      "axis": "application",
+      "value": "소세포폐암",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등으로 스크린 되었으며"
+    },
+    {
+      "axis": "application",
+      "value": "신경내분비종양",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등으로 스크린 되었으며"
+    },
+    {
+      "axis": "application",
+      "value": "골수이형성증후군",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)"
+    },
+    {
+      "axis": "customer",
+      "value": "Bristol Myers Squibb",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "ORM-6151 | Bristol Myers Squibb | 전세계 | 2023.10.30"
+    },
+    {
+      "axis": "customer",
+      "value": "Vertex Pharmaceuticals",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 TPD²기술 | Vertex Pharmaceuticals | 전세계 | 2024.07.03"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "보고기간별 외화자산 및 부채에 대한 원화 환율변동이 법인세차감전손익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"ORM-6151\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"ORM-6151(BMS-986497): 재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)\"}, {\"axis\": \"product\", \"value\": \"ORM-1153\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"ORM-1153: AML 및 기타 CD123 양성 혈액암(hematologic malignancies) 적응증\"}, {\"axis\": \"product\", \"value\": \"ORM-1023\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"ORM-1023: 소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET). 전임상 개발 진행 과제\"}, {\"axis\": \"product\", \"value\": \"TPD²-GSPT1\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"TPD²-GSPT1 플랫폼은 분자접착제(molecular glue) 기반의 표적 단백질 분해 기술과 ADC의 조직 특이적전달능력을 융합한 형태로\"}, {\"axis\": \"application\", \"value\": \"급성골수성백혈병\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"가장 높은 민감도 중앙값을 보인 종양 유형은 급성골수성백혈병(acute myeloid leukemia, AML)\"}, {\"axis\": \"application\", \"value\": \"소세포폐암\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등으로 스크린 되었으며\"}, {\"axis\": \"application\", \"value\": \"신경내분비종양\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등으로 스크린 되었으며\"}, {\"axis\": \"application\", \"value\": \"골수이형성증후군\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)\"}, {\"axis\": \"customer\", \"value\": \"Bristol Myers Squibb\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"ORM-6151 | Bristol Myers Squibb | 전세계 | 2023.10.30\"}, {\"axis\": \"customer\", \"value\": \"Vertex Pharmaceuticals\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사 TPD²기술 | Vertex Pharmaceuticals | 전세계 | 2024.07.03\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"보고기간별 외화자산 및 부채에 대한 원화 환율변동이 법인세차감전손익에 미치는 영향은 다음과 같습니다.\"}]}"
+  ],
+  "text_path": "data/reports/475830_20260319001320.txt"
+}

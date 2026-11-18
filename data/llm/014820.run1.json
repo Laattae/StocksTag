@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "연포장재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "지배기업은 1980년 5월 10일자로 설립되어 각종 포장재와 알미늄을 제조, 가공 및 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄박",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 40년 이상 축적된 알루미늄 박 (foil) 제조 노하우를 바탕으로 전개 중인 알루미늄 양극박 사업은 지속적인 R&D 투자를 통해 업계 최고 수준의 기계적 성질을 구현하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "제관",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "CAN 사업부문은 3개의 대형 제관업체가 경쟁하고 있는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "유리병",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유리병 사업은 초기투자비가 많이 요구되는 장치산업으로 신규업체의 진입장벽이 높은 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PET",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PET 사업부문은 다양한 품종과 디자인을 위한 생산기술과 설비를 확보하고 있으며, 철저한 품질 관리를 통해 제품 경쟁력을 높이는 노력을 지속적으로 추진하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "식품산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포장재 산업은 완성품이 아니라 부분품으로서 식품산업의 성장과 더불어 발전하였으며 최근에는 건강기능식품, 생활용품, 뷰티용품, 의약품, 산업용품 포장재까지 그 용도가 확대되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "음료",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "유리병, CAN, PET, Aseptic시장은 음료 및 주류 제조업체와 밀접한 연관이 있으며 전방산업의 경기에 큰 영향을 받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "동원에프앤비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체의 주요매출처는 (주)동원에프앤비 등이 있으며, (주)동원에프앤비 및 그 종속기업이 전체 매출에서 차지하는 비율은 12.0%입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며, PET의 주 원재료인 Resin은 대부분 국내에서 조달하여 사용하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "규사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며, 석회석 등은 국내에서 조달하여 사용하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며, PET의 주 원재료인 Resin은 대부분 국내에서 조달하여 사용하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Tan Tien Packaging JointStock Company | 연포장재 제조 판매업 | 9,725,057 | 17,811,460 | 16,035,980 | 90.03% | 베트남"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "[AL양극박 개발팀] ① 소재지 : 충남 아산시 둥포면 아산밸리동로 100"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며, 제품의 열노화를 최소화하여 내용물의 열 노출를 최소화하여 내용물의 맛과 향, 영양소 보존, 맛의 균질성이 우수한 장점을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당기말과 전기말 현재 각 외화에 대한 원화환율 10% 변동시 환율변동이 당기 및 전기의 세전손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "원자재가 제조원가에서 차지하는 비중이 높은 포장재 사업의 특성 상 원자재가격의 변동리스크를 판가 조정 및 경비절감과 기술혁신을 통해 적극 대응하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"연포장재\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"지배기업은 1980년 5월 10일자로 설립되어 각종 포장재와 알미늄을 제조, 가공 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄박\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 40년 이상 축적된 알루미늄 박 (foil) 제조 노하우를 바탕으로 전개 중인 알루미늄 양극박 사업은 지속적인 R&D 투자를 통해 업계 최고 수준의 기계적 성질을 구현하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제관\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"CAN 사업부문은 3개의 대형 제관업체가 경쟁하고 있는 사업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리병\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유리병 사업은 초기투자비가 많이 요구되는 장치산업으로 신규업체의 진입장벽이 높은 산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PET\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PET 사업부문은 다양한 품종과 디자인을 위한 생산기술과 설비를 확보하고 있으며, 철저한 품질 관리를 통해 제품 경쟁력을 높이는 노력을 지속적으로 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품산업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포장재 산업은 완성품이 아니라 부분품으로서 식품산업의 성장과 더불어 발전하였으며 최근에는 건강기능식품, 생활용품, 뷰티용품, 의약품, 산업용품 포장재까지 그 용도가 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"음료\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"유리병, CAN, PET, Aseptic시장은 음료 및 주류 제조업체와 밀접한 연관이 있으며 전방산업의 경기에 큰 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"동원에프앤비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체의 주요매출처는 (주)동원에프앤비 등이 있으며, (주)동원에프앤비 및 그 종속기업이 전체 매출에서 차지하는 비율은 12.0%입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며, PET의 주 원재료인 Resin은 대부분 국내에서 조달하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"규사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며, 석회석 등은 국내에서 조달하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Resin\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며, PET의 주 원재료인 Resin은 대부분 국내에서 조달하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Tan Tien Packaging JointStock Company | 연포장재 제조 판매업 | 9,725,057 | 17,811,460 | 16,035,980 | 90.03% | 베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"[AL양극박 개발팀] ① 소재지 : 충남 아산시 둥포면 아산밸리동로 100\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며, 제품의 열노화를 최소화하여 내용물의 열 노출를 최소화하여 내용물의 맛과 향, 영양소 보존, 맛의 균질성이 우수한 장점을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당기말과 전기말 현재 각 외화에 대한 원화환율 10% 변동시 환율변동이 당기 및 전기의 세전손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"원자재가 제조원가에서 차지하는 비중이 높은 포장재 사업의 특성 상 원자재가격의 변동리스크를 판가 조정 및 경비절감과 기술혁신을 통해 적극 대응하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/014820_20260514000698.txt"
+}

@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초제품류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "기초제품류 | 기초화장 | 에이피알 메디큐브 콜라겐 나이트 랩핑마스크 외 | 795,839,398 | 52.1"
+    },
+    {
+      "axis": "product",
+      "value": "색조제품류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "색조제품류 | 메이크업 | 롬앤 쥬시 래스팅 틴트 외 | 621,812,061 | 40.7"
+    },
+    {
+      "axis": "product",
+      "value": "아이라이너",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "그 중 가장 대표적인 제품이 바로 젤 타입의 아이라이너와 쿠션 파운데이션입니다."
+    },
+    {
+      "axis": "product",
+      "value": "쿠션 파운데이션",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "또한 쿠션 파운데이션은 전 세계 시장에 6억개 이상을 공급한 차세대 히트 제품으로 국내 및 글로벌 프리미엄 브랜드를 포함한 여러 고객사에 공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "로레알",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 해외 고객으로는 세계 최대의 화장품 그룹인 L 그룹을 비롯하여 글로벌 E 그룹, S 그룹 등에 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "메리케이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "또한 로레알 및 메리케이 등의 글로벌 기업의 AUDIT을 통과하고, 자체 개발 생산한 화장품을 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "1,2-Hexanediol",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "1,2-Hexanediol | 방부제 | 4,436,600 | 1.6"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Sodium Hyaluronate",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "Sodium Hyaluronate | 보습제 | 4,361,285 | 1.5"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Sodium Cocoyl Isethionate",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Sodium Cocoyl Isethionate | 세정제 | 2,487,909 | 0.9"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Gold",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Gold | 착색제 | 2,480,427 | 0.9"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기도 화성시 만세구 향남읍 제약공단 1길 27, 제약공단 2길 46"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "먼저 2004년, 중국 상해에 코스맥스차이나를 설립하며 중국 사업을 시작하였고"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2013년에 진출한 미국 사업은 현재 기초 및 색조 모든 카테고리의 제품을 공급할 수 있는 종합 화장품 ODM 회사로 자리잡았습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "우선 인도네시아 법인은 할랄 인증 기반으로 현지 소비자들의 요구에 맞는 맞춤형 제품 및 서비스 공급 전략과 온라인 채널 고객사 집중 전략이 성공하며 견고한 성장세를 이어가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "태국",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "2018년부터 본격 가동을 시작한 태국 법인은 할랄 인증을 획득, 태국 및 인근 국가에도 제품을 수출 공급 중으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초제품류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"기초제품류 | 기초화장 | 에이피알 메디큐브 콜라겐 나이트 랩핑마스크 외 | 795,839,398 | 52.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"색조제품류\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"색조제품류 | 메이크업 | 롬앤 쥬시 래스팅 틴트 외 | 621,812,061 | 40.7\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이라이너\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"그 중 가장 대표적인 제품이 바로 젤 타입의 아이라이너와 쿠션 파운데이션입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쿠션 파운데이션\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"또한 쿠션 파운데이션은 전 세계 시장에 6억개 이상을 공급한 차세대 히트 제품으로 국내 및 글로벌 프리미엄 브랜드를 포함한 여러 고객사에 공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"로레알\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 해외 고객으로는 세계 최대의 화장품 그룹인 L 그룹을 비롯하여 글로벌 E 그룹, S 그룹 등에 제품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"메리케이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"또한 로레알 및 메리케이 등의 글로벌 기업의 AUDIT을 통과하고, 자체 개발 생산한 화장품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"1,2-Hexanediol\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"1,2-Hexanediol | 방부제 | 4,436,600 | 1.6\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Sodium Hyaluronate\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"Sodium Hyaluronate | 보습제 | 4,361,285 | 1.5\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Sodium Cocoyl Isethionate\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Sodium Cocoyl Isethionate | 세정제 | 2,487,909 | 0.9\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Gold\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Gold | 착색제 | 2,480,427 | 0.9\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기도 화성시 만세구 향남읍 제약공단 1길 27, 제약공단 2길 46\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"먼저 2004년, 중국 상해에 코스맥스차이나를 설립하며 중국 사업을 시작하였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2013년에 진출한 미국 사업은 현재 기초 및 색조 모든 카테고리의 제품을 공급할 수 있는 종합 화장품 ODM 회사로 자리잡았습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"우선 인도네시아 법인은 할랄 인증 기반으로 현지 소비자들의 요구에 맞는 맞춤형 제품 및 서비스 공급 전략과 온라인 채널 고객사 집중 전략이 성공하며 견고한 성장세를 이어가고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"태국\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"2018년부터 본격 가동을 시작한 태국 법인은 할랄 인증을 획득, 태국 및 인근 국가에도 제품을 수출 공급 중으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 환율과 이자율의 변동으로 인한 시장위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/192820_20260318000694.txt"
+}

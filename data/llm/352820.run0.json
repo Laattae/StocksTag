@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "음반/음원 | 음반, 음원 등 | 772,960 | 29.17%"
+    },
+    {
+      "axis": "product",
+      "value": "콘서트",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "공연 | 콘서트, 팬미팅 등 | 763,949 | 28.83%"
+    },
+    {
+      "axis": "product",
+      "value": "공식 상품",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "MD 및 라이선싱 | 공식 상품(MD), IP 라이선싱 등 | 570,571 | 21.53%"
+    },
+    {
+      "axis": "product",
+      "value": "영상콘텐츠",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "콘텐츠 | 영상콘텐츠, 영상출판물 등 | 258,846 | 9.77%"
+    },
+    {
+      "axis": "product",
+      "value": "광고 수익",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "광고, 출연료 (주2) | 광고 수익, 출연료 수익 등 | 147,155 | 5.55%"
+    },
+    {
+      "axis": "product",
+      "value": "팬클럽",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "팬클럽 등 기타 | 팬클럽 등 | 136,389 | 5.15%"
+    },
+    {
+      "axis": "application",
+      "value": "음악 산업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 속한 음악 산업은 음악의 창작, 음반 및 음원의 제작, 유통 및 판매 뿐만 아니라 공연, 출판, 매니지먼트, 공식 상품(MD) 등 아티스트와 음원을 활용하여 가치를 창출하는 모든 산업을 포괄하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "북미 | 632,891 | 23.88%"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "아시아 | 1,076,445 | 40.62%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 기업의 영업활동(수익이나 비용이 연결회사의 기능통화와 다른 통화로 발생할 때)과 해외 종속기업에 대한 순투자로 인하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"음반/음원 | 음반, 음원 등 | 772,960 | 29.17%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘서트\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"공연 | 콘서트, 팬미팅 등 | 763,949 | 28.83%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공식 상품\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"MD 및 라이선싱 | 공식 상품(MD), IP 라이선싱 등 | 570,571 | 21.53%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영상콘텐츠\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"콘텐츠 | 영상콘텐츠, 영상출판물 등 | 258,846 | 9.77%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고 수익\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"광고, 출연료 (주2) | 광고 수익, 출연료 수익 등 | 147,155 | 5.55%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"팬클럽\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"팬클럽 등 기타 | 팬클럽 등 | 136,389 | 5.15%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"음악 산업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 속한 음악 산업은 음악의 창작, 음반 및 음원의 제작, 유통 및 판매 뿐만 아니라 공연, 출판, 매니지먼트, 공식 상품(MD) 등 아티스트와 음원을 활용하여 가치를 창출하는 모든 산업을 포괄하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"북미 | 632,891 | 23.88%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"아시아 | 1,076,445 | 40.62%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 기업의 영업활동(수익이나 비용이 연결회사의 기능통화와 다른 통화로 발생할 때)과 해외 종속기업에 대한 순투자로 인하여 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/352820_20260320000802.txt"
+}

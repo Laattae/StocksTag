@@ -1,0 +1,138 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "휠로더",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업차량",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당해 연결실체는 건설기계 29,911억원, 산업차량 4,172억원 및 기타 3,682억원 등 총 37,765억원의 매출 실적을 기록하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "엔진",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 2023년 3월 사명을 HD현대인프라코어 주식회사로 변경하였고, 건설중장비,엔진 등을 생산 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 제품 품목은 건설기계, 부품 등으로 구성되어있고 건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "광산 개발",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 제품 품목은 건설기계, 부품 등으로 구성되어있고 건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "산업차량 | 물류, 유통, 하역 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Excavator Bucket Assy",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "제품 생산을 위한 주요 원재료는 각종 부품(Excavator Bucket Assy, Wheel Loader Main Valve 등)을 들 수 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "조립부품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 | 조립부품 등 | 1,107,130"
+    },
+    {
+      "axis": "customer",
+      "value": "티시테크",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 원재료 매입처는 티시테크, ZF Fridrichshafen AG가 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "ZF Friedrichshafen AG",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 원재료 매입처는 티시테크, ZF Fridrichshafen AG가 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대로템",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 2026년 1월 28일 현대로템 주식회사와 상기 계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "전체 매출액에서 수출비중이 높은 만큼 외환리스크에 대비하여 당사는 시장위험과 환위험을 관리하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"굴착기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"휠로더\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업차량\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당해 연결실체는 건설기계 29,911억원, 산업차량 4,172억원 및 기타 3,682억원 등 총 37,765억원의 매출 실적을 기록하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 2023년 3월 사명을 HD현대인프라코어 주식회사로 변경하였고, 건설중장비,엔진 등을 생산 판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"엔진 사업부문에서 엔진, 발전기, A/S 부품 등의 상품, 제품 등을 판매하여 매출액 1,163,432백만원을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 제품 품목은 건설기계, 부품 등으로 구성되어있고 건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"광산 개발\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 제품 품목은 건설기계, 부품 등으로 구성되어있고 건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"산업차량 | 물류, 유통, 하역 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"각 부품의 가격을 결정하는 주요 요인으로는 강재 등 원재료 가격 변동입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Excavator Bucket Assy\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"제품 생산을 위한 주요 원재료는 각종 부품(Excavator Bucket Assy, Wheel Loader Main Valve 등)을 들 수 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"조립부품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 조립부품 등 | 1,107,130\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"티시테크\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료 매입처는 티시테크, ZF Fridrichshafen AG가 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ZF Friedrichshafen AG\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료 매입처는 티시테크, ZF Fridrichshafen AG가 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대로템\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 2026년 1월 28일 현대로템 주식회사와 상기 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"전체 매출액에서 수출비중이 높은 만큼 외환리스크에 대비하여 당사는 시장위험과 환위험을 관리하고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"\\uad74\\ucc29\\uae30\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"\\uad74\\ucc29\\uae30, \\uad74\\ucc29\\uae30\\ubd80\\ud488 \\ub4f1\"}, {\"axis\": \"product\", \"value\": \"\\uc5d4\\uc9c4\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\uc0c1\\uc6a9\\ucc28, \\ubc84\\uc2a4 \\ub4f1 \\uc721\\uc0c1\\uc6a9 \\uc5d4\\uc9c4, \\uc5d4\\uc9c4\\ubd80\\ud488 \\ub4f1\"}, {\"axis\": \"application\", \"value\": \"\\uac74\\uc124\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"\\uac74\\uc124\\uae30\\uacc4\\uc640 \\uc5d4\\uc9c4 \\uc0b0\\uc5c5\\uc740 \\uc5d0\\ub108\\uc9c0 \\uc0b0\\uc5c5, \\uac74\\uc124 \\uacbd\\uae30 \\ubc0f \\uc790\\ub3d9\\ucc28 \\uacbd\\uae30 \\ub4f1\\uc744 \\ube44\\ub8d\\ud55c \\uc804\\ubc29 \\uc0b0\\uc5c5\\uc758 \\uc218\\uc694 \\ubcc0\\ub3d9\\uc5d0 \\ub530\\ub775 \\ud06c\\uac8c \\uc601\\ud5a5\\uc744 \\ubc1b\\ub294 \\uc0ac\\uc5c5 \\ubdPues\"}, {\"axis\": \"application\", \"value\": \"\\uc5d0\\ub108\\uc9c0\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"\\uac74\\uc124\\uae30\\uacc4\\uc640 \\uc5d4\\uc9c4 \\uc0b0\\uc5c5\\uc740 \\uc5d0\\ub108\\uc9c0 \\uc0b0\\uc5c5, \\uac74\\uc124 \\uacbd\\uae30 \\ubc0f \\uc790\\ub3d9\\ucc28 \\uacbd\\uae30 \\ub4f1\\uc744 \\ube44\\ub8d\\ud55c \\uc804\\ubc29 \\uc0b0\\uc5c5\\uc758 \\uc218\\uc694 \\ubcc0\\ub3d9\\uc5d0 \\ub530\\ub775 \\ud06c\\uac8c \\uc601\\ud5a5\\uc744 \\ubc1b\\ub294 \\uc0ac\\uc5c5 \\ubdPues\"}, {\"axis\": \"application\", \"value\": \"\\uc790\\ub3d9\\ucc28\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"\\uac74\\uc124\\uae30\\uacc4\\uc640 \\uc5d4\\uc9c4 \\uc0b0\\uc5c5\\uc740 \\uc5d0\\ub108\\uc9c0 \\uc0b0\\uc5c5, \\uac74\\uc124 \\uacbd\\uae30 \\ubc0f \\uc790\\ub3d9\\ucc28 \\uacbd\\uae30 \\ub4f1\\uc744 \\ube44\\ub8d\\ud55c \\uc804\\ubc29 \\uc0b0\\uc5c5\\uc758 \\uc218\\uc694 \\ubcc0\\ub3d9\\uc5d0 \\ub530\\ub775 \\ud06c\\uac8c \\uc601\\ud5a5\\uc744 \\ubc1b\\ub294 \\uc0ac\\uc5c5 \\ubdPues\"}, {\"axis\": \"raw_material\", \"value\": \"\\uc8fc\\ucca0\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"\\uc5d4\\uc9c4 \\ubd80\\ubd84\\uc5d0\\uc11c Block/Head\\uc758 \\uc6d5\\uc7ac\\ub8cc\\uc778 \\uc8fc\\ucca0\\uacfc \\uc8fc\\uc694 \\ubd80\\ud488\\ub4e4\\uc740 \\ub300\\ubd80\\ubd84 \\uad6d\\uc0b0 \\ubd80\\ud488\\uc744 \\uc0ac\\uc6a9\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"region\", \"value\": \"\\uc778\\ucc9c\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\uc81c\\ud4 \\uc0dd\\uc0b0\\uacfc\\uc815\\uc5d0\\uc11c \\ubc1c\\uc0dd\\ub418\\ub294 \\ub300\\uae30, \\uc218\\uc9c8, \\ud3d0\\uae30\\ubb3c \\ub4f1\\uc758 \\uc624\\uc5fc\\ubb3c\\uc9c8 \\uc800\\uac10\\uc744 \\uc704\\ud558\\uc5ec \\uc778\\ucc9c,\\uad70\\uc0b0, \\uc548\\uc0b0, \\ubcf4\\ub8령 \\ub4f1 \\ubaaㄜ\\ub4e0 \\uc0ac\\uc5c5\\uc7a5\\uc5d0\\uc11c\\ub294 \\uc801\\ud569\\ud55c \\ubc29\\uc9c0\\uc2dc\\uc124\\uc744 \\uc124\\uce58\\ud558\\uc5ec \\uc801\\ubc95\\ud558\\uac8c \\uc6b4\\uc601\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"region\", \"value\": \"\\uc804\\ubd81\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\uc81c\\ud4 \\uc0dd\\uc0b0\\uacfc\\uc815\\uc5d0\\uc11c \\ubc1c\\uc0dd\\ub418\\ub294 \\ub300\\uae30, \\uc218\\uc9c8, \\ud3d0\\uae30\\ubb3c \\ub4f1\\uc758 \\uc624\\uc5fc\\ubb3c\\uc9c8 \\uc800\\uac10\\uc744 \\uc704\\ud558\\uc5ec \\uc778\\ucc9c,\\uad70\\uc0b0, \\uc548\\uc0b0, \\ubcf4\\ub8령 \\ub4f1 \\ubaaㄜ\\ub4e0 \\uc0ac\\uc5c5\\uc7a5\\uc5d0\\uc11c\\ub294 \\uc801\\ud569\\ud55c \\ubc29\\uc9c0\\uc2dc\\uc124\\uc744 \\uc124\\uce58\\ud558\\uc5ec \\uc801\\ubc95\\ud558\\uac8c \\uc6b4\\uc601\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"region\", \"value\": \"\\uacbd\\uae30\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\uc81c\\ud4 \\uc0dd\\uc0b0\\uacfc\\uc815\\uc5d0\\uc11c \\ubc1c\\uc0dd\\ub418\\ub294 \\ub300\\uae30, \\uc218\\uc9c8, \\ud3d0\\uae30\\ubb3c \\ub4f1\\uc758 \\uc624\\uc5fc\\ubb3c\\uc9c8 \\uc800\\uac10\\uc744 \\uc704\\ud558\\uc5ec \\uc778\\ucc9c,\\uad70\\uc0b0, \\uc548\\uc0b0, \\ubcf4\\ub8령 \\ub4f1 \\ubaaㄜ\\ub4e0 \\uc0ac\\uc5c5\\uc7a5\\uc5d0\\uc11c\\ub294 \\uc801\\ud569\\ud55c \\ubc29\\uc9c0\\uc2dc\\uc124\\uc744 \\uc124\\uce58\\ud558\\uc5ec \\uc801\\ubc95\\ud558\\uac8c \\uc6b4\\uc601\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"region\", \"value\": \"\\ucda9\\ubcbd\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\uc81c\\ud4 \\uc0dd\\uc0b0\\uacfc\\uc815\\uc5d0\\uc11c \\ubc1c\\uc0dd\\ub418\\ub294 \\ub300\\uae30, \\uc218\\uc9c8, \\ud3d0\\uae30\\ubb3c \\ub4f1\\uc758 \\uc624\\uc5fc\\ubb3c\\uc9c8 \\uc800\\uac10\\uc744 \\uc704\\ud558\\uc5ec \\uc778\\ucc9c,\\uad70\\uc0b0, \\uc548\\uc0b0, \\ubcf4\\ub8령 \\ub4f1 \\ubaaㄜ\\ub4e0 \\uc0ac\\uc5c5\\uc7a5\\uc5d0\\uc11c\\ub294 \\uc801\\ud569\\ud55c \\ubc29\\uc9c0\\uc2dc\\uc124\\uc744 \\uc124\\uce58\\ud558\\uc5ec \\uc801\\ubc95\\ud558\\uac8c \\uc6b4\\uc601\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"exposure\", \"value\": \"\\ud658\\uc728\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"\\ub6f0\\ud55c \\ud658\\uc728 \\ubcc0\\ub3d9\\uc5d0 \\uc758\\ud558\\uc5ec \\uad6d\\uac00\\ubcc4 \\uac00\\uaca9 \\uacbd\\uc7c1\\ub825\\uc774 \\uacb0\\uc815\\ub418\\ubbc0\\ub85c \\ubbf8\\uad6d\\uc758 \\ub2ec\\ub7ec\\ud654, \\uc720\\ub7fd\\uc758 \\uc720\\ub85c\\ud654 \\ubc0f \\ub2f9\\uc0ac\\uc758 \\uacbd\\uc7c1\\uc5c5\\uccb4\\uac0 \\uc9d1\\uc911\\ub41c \\uc77c\\ubcf8\\uc758 \\uc5d4\\ud654 \\ucdc\\uc138\\uc5d0 \\ubbfc\\uac10\\ud55c \\ubc18\\uc751\\uc744 \\ubcf4\\uc774\\ub294 \\ud2b9\\uc131\\uc744 \\ub78\\ub294\\ub2e4.\"}, {\"axis\": \"exposure\", \"value\": \"\\uc6d0\\uc790\\uc7ac \\uac00\\uaca9\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"\\ud55c\\ud3b8, \\uc6d0\\uc790\\uc7ac \\uac00\\uaca9 \\uc0c1\\uc2b9 \\uc2dc \\uad00\\ub828 \\ud22c\\uc790 \\uc99d\\uac00 \\ubc0f \\uae30\\uacc4 \\uac00\\ub3d9\\ub960 \\uc0c1\\uc2b9\\uc73c\\ub85c \\uc218\\uc694\\uac0 \\uc99d\\uac00\\ud558\\ub294 \\uc591(+)\\uc758 \\uc0c1\\uad00\\uad00\\uacc4\\ub97c \\uac00\\uc9c0\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}"
+  ],
+  "text_path": "data/reports/267270_20260602000456.txt"
+}

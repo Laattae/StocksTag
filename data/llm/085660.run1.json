@@ -1,0 +1,280 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "의료서비스",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "구분 | 주요 제품 및 서비스 내용 | 2025년매출 비중(%) | 의료서비스 |  해외 의료 네트워크 확장 및 관련 서비스 사업 등 | 58.65%"
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제품매출 |  의약품/화장품/화장품원료 등 | 9.61%"
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제품매출 |  의약품/화장품/화장품원료 등 | 9.61%"
+    },
+    {
+      "axis": "product",
+      "value": "의료기기",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "상품매출 | 의료기기 및 의료용품 등 | 47,980 | 3.78% | -"
+    },
+    {
+      "axis": "product",
+      "value": "제대혈 보관",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "서비스매출 | 제대혈 채취 및 보관 매출 | 15,940 | 1.26% | -"
+    },
+    {
+      "axis": "product",
+      "value": "면역세포 보관",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Bio-Insurance 서비스매출 | 6,432 | 0.51% | -"
+    },
+    {
+      "axis": "application",
+      "value": "의료",
+      "weight": null,
+      "direction": null,
+      "evidence": "고도의 보건의료 지식과 전문적인 의료기술을 바탕으로, 일반 환자 및 의료기관, 정부 등 고객에게 종합 의료서비스 및 IVF(난임) 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "난임",
+      "weight": null,
+      "direction": null,
+      "evidence": "고도의 보건의료 지식과 전문적인 의료기술을 바탕으로, 일반 환자 및 의료기관, 정부 등 고객에게 종합 의료서비스 및 IVF(난임) 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "판교 제2테크노밸리 CDMO GMP 신규시설 투자 관련당사는 글로벌 세포유전자 치료제 CDMO 생산시설 및 바이오뱅크 구축을 위하여, 판교 제2테크노밸리(경기도 성남시 수정구 금토동 724번지)내 토지(산업시설용지)에 CDMO GMP 신규시설의 신축에 대한 공사 도급계약을 '신동아건설 주식회사'와 체결하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세포ㆍ유전자 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업"
+    },
+    {
+      "axis": "product",
+      "value": "바이럴 벡터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc."
+    },
+    {
+      "axis": "product",
+      "value": "망막색소상피세포",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태반유래세포치료제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "차바이오텍(2013년 계약체결 당시, 차바이오앤디오스텍)은 Pluristem사로부터 태반유래 간엽유사줄기세포(PLacental eXpanded Cells, PLX) 관련 기술에 대한 독점 실시권을 획득함."
+    },
+    {
+      "axis": "product",
+      "value": "의료 IT 서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스"
+    },
+    {
+      "axis": "customer",
+      "value": "Astellas Institute of Regenerative Medicine",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국에 소재한 Astellas Institute of Regenerative Medicine (이하 'AIRM') 사와 망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc.는 고객사와의 수주계약에 대한 비밀유지 의무로 인해"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 투자부동산인 역삼동 토지 및 성남 상대원동 아파트형공장 17호실을 담보로 제공하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "당기말과 전기말 현재 연결실체의 금융자산과 부채를 구성하는 주요 외화에 대하여 원화가 변동을 보인다면 연결실체의 자본(포괄손익)과 손익(당기손익)은 증가 또는 감소하였을 것입니다."
+    },
+    {
+      "axis": "product",
+      "value": "황반변성증 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "바이오신약 | 황반변성증 치료제\n(망막색소상피세포:RPE)"
+    },
+    {
+      "axis": "product",
+      "value": "뇌졸중 치료제",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "뇌졸중 치료제\n(CordSTEM-ST)"
+    },
+    {
+      "axis": "product",
+      "value": "무릎관절연골결손 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "무릎관절연골결손 치료제(CordSTEM-CD)"
+    },
+    {
+      "axis": "product",
+      "value": "알츠하이머병 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알츠하이머병 치료제(PlaSTEM-AD)"
+    },
+    {
+      "axis": "product",
+      "value": "면역세포치료제",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "고형암 면역세포치료제\n(CBT101)"
+    },
+    {
+      "axis": "product",
+      "value": "제대혈 보관",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "3) 제대혈 보관사업(가족 제대혈은행)"
+    },
+    {
+      "axis": "product",
+      "value": "CDMO",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2) 글로벌 세포치료제 CDMO(Contract Development and Manufacturing Organization, 의약품 위탁개발ㆍ생산)사업"
+    },
+    {
+      "axis": "customer",
+      "value": "Pluristem",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Pluristem(이스라엘)사와 공동개발"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미국 텍사스주 칼리지스테이션에 위치한 Matica Biotechnology, Inc.를 통해 CGT 전용 CDMO 생산시설을 구축하였고"
+    },
+    {
+      "axis": "product",
+      "value": "바이오인슈어런스",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "당사의 바이오인슈어런스 사업 역시 이러한 시장 성장 흐름과 맞물려 장기적으로 안정적인 성장 기반을 확보할 수 있을 것으로 판단됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "세포보관 서비스",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "세포보관 서비스는 보관 기술과 전문인력의 확보가 경쟁의 중요한 요소로 작용하기 때문에 시장 진입이 어려운 특성을 지니고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의료 IT 시스템 통합",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "의료 IT 시스템 통합(System Integration, SI)은 의료기관, 제약사, 바이오기업, 연구기관 등의 환경과 요구에 최적화된 정보 시스템을 설계ㆍ구축ㆍ운영하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "유전체 검사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Nova One Advisor에 따르면, 전 세계 유전검사(Genetic Testing) 시장은 정밀의료 수요 확대, 맞춤형 치료기술 발전, 조기 질병 진단의 중요성 부각 등에 힘입어 빠른 성장세를 보이고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "줄기세포 화장품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "과거 치료 목적으로 연구되던 줄기세포가 화장품 원료로 각광을 받게 된 이유는, 줄기세포가 배양되는 과정에서 EGF(상피세포성장인자)와 bFGF(섬유아세포성장인자) 등 피부재생, 노화방지, 미백효과에 도움을 주는 피부에 좋은 다양한 성장인자를 분비하기 때문입니다."
+    },
+    {
+      "axis": "application",
+      "value": "만성질환",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원격진료, 환자 모니터링, 전자의무기록(EMR) 관리, 헬스케어 앱ㆍ웨어러블 기기 연동, 데이터 분석 기반 맞춤형 치료 등 다양한 분야에서 활용되며, 고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "난임",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내 최초로는 호주 유전체분석시장에 진출하여, 호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Matica Holdings Inc.는 미국 텍사스주 칼리지스테이션에 위치한 세포ㆍ유전자치료제 바이럴 벡터 전문 CDMO 기업으로"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내 최초로는 호주 유전체분석시장에 진출하여, 호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "싱가포르는 영리 의료법인을 허용하는 자유로운 규제 환경과 안정적인 정치ㆍ경제 시스템을 기반으로, 내국인뿐 아니라 외국인 환자 유치가 활발히 이루어지고 있는 의료 허브 국가입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료서비스\",\n      \"weight\": 0.59,\n      \"direction\": null,\n      \"evidence\": \"구분 | 주요 제품 및 서비스 내용 | 2025년매출 비중(%) | 의료서비스 |  해외 의료 네트워크 확장 및 관련 서비스 사업 등 | 58.65%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제품매출 |  의약품/화장품/화장품원료 등 | 9.61%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제품매출 |  의약품/화장품/화장품원료 등 | 9.61%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"상품매출 | 의료기기 및 의료용품 등 | 47,980 | 3.78% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제대혈 보관\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"서비스매출 | 제대혈 채취 및 보관 매출 | 15,940 | 1.26% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"면역세포 보관\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Bio-Insurance 서비스매출 | 6,432 | 0.51% | -\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"고도의 보건의료 지식과 전문적인 의료기술을 바탕으로, 일반 환자 및 의료기관, 정부 등 고객에게 종합 의료서비스 및 IVF(난임) 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"난임\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"고도의 보건의료 지식과 전문적인 의료기술을 바탕으로, 일반 환자 및 의료기관, 정부 등 고객에게 종합 의료서비스 및 IVF(난임) 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판교 제2테크노밸리 CDMO GMP 신규시설 투자 관련당사는 글로벌 세포유전자 치료제 CDMO 생산시설 및 바이오뱅크 구축을 위하여, 판교 제2테크노밸리(경기도 성남시 수정구 금토동 724번지)내 토지(산업시설용지)에 CDMO GMP 신규시설의 신축에 대한 공사 도급계약을 '신동아건설 주식회사'와 체결하였습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포ㆍ유전자 치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이럴 벡터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"망막색소상피세포\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태반유래세포치료제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"차바이오텍(2013년 계약체결 당시, 차바이오앤디오스텍)은 Pluristem사로부터 태반유래 간엽유사줄기세포(PLacental eXpanded Cells, PLX) 관련 기술에 대한 독점 실시권을 획득함.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료 IT 서비스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Astellas Institute of Regenerative Medicine\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국에 소재한 Astellas Institute of Regenerative Medicine (이하 'AIRM') 사와 망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc.는 고객사와의 수주계약에 대한 비밀유지 의무로 인해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 투자부동산인 역삼동 토지 및 성남 상대원동 아파트형공장 17호실을 담보로 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"당기말과 전기말 현재 연결실체의 금융자산과 부채를 구성하는 주요 외화에 대하여 원화가 변동을 보인다면 연결실체의 자본(포괄손익)과 손익(당기손익)은 증가 또는 감소하였을 것입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"황반변성증 치료제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"바이오신약 | 황반변성증 치료제\\n(망막색소상피세포:RPE)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뇌졸중 치료제\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"뇌졸중 치료제\\n(CordSTEM-ST)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무릎관절연골결손 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"무릎관절연골결손 치료제(CordSTEM-CD)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알츠하이머병 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머병 치료제(PlaSTEM-AD)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"면역세포치료제\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"고형암 면역세포치료제\\n(CBT101)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제대혈 보관\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"3) 제대혈 보관사업(가족 제대혈은행)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CDMO\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2) 글로벌 세포치료제 CDMO(Contract Development and Manufacturing Organization, 의약품 위탁개발ㆍ생산)사업\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Pluristem\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Pluristem(이스라엘)사와 공동개발\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"미국 텍사스주 칼리지스테이션에 위치한 Matica Biotechnology, Inc.를 통해 CGT 전용 CDMO 생산시설을 구축하였고\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"바이오인슈어런스\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"당사의 바이오인슈어런스 사업 역시 이러한 시장 성장 흐름과 맞물려 장기적으로 안정적인 성장 기반을 확보할 수 있을 것으로 판단됩니다.\"}, {\"axis\": \"product\", \"value\": \"세포보관 서비스\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"세포보관 서비스는 보관 기술과 전문인력의 확보가 경쟁의 중요한 요소로 작용하기 때문에 시장 진입이 어려운 특성을 지니고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"의료 IT 시스템 통합\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"의료 IT 시스템 통합(System Integration, SI)은 의료기관, 제약사, 바이오기업, 연구기관 등의 환경과 요구에 최적화된 정보 시스템을 설계ㆍ구축ㆍ운영하는 사업입니다.\"}, {\"axis\": \"product\", \"value\": \"유전체 검사\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"Nova One Advisor에 따르면, 전 세계 유전검사(Genetic Testing) 시장은 정밀의료 수요 확대, 맞춤형 치료기술 발전, 조기 질병 진단의 중요성 부각 등에 힘입어 빠른 성장세를 보이고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"줄기세포 화장품\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"과거 치료 목적으로 연구되던 줄기세포가 화장품 원료로 각광을 받게 된 이유는, 줄기세포가 배양되는 과정에서 EGF(상피세포성장인자)와 bFGF(섬유아세포성장인자) 등 피부재생, 노화방지, 미백효과에 도움을 주는 피부에 좋은 다양한 성장인자를 분비하기 때문입니다.\"}, {\"axis\": \"application\", \"value\": \"만성질환\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원격진료, 환자 모니터링, 전자의무기록(EMR) 관리, 헬스케어 앱ㆍ웨어러블 기기 연동, 데이터 분석 기반 맞춤형 치료 등 다양한 분야에서 활용되며, 고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"난임\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"국내 최초로는 호주 유전체분석시장에 진출하여, 호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Matica Holdings Inc.는 미국 텍사스주 칼리지스테이션에 위치한 세포ㆍ유전자치료제 바이럴 벡터 전문 CDMO 기업으로\"}, {\"axis\": \"region\", \"value\": \"호주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"국내 최초로는 호주 유전체분석시장에 진출하여, 호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"싱가포르\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"싱가포르는 영리 의료법인을 허용하는 자유로운 규제 환경과 안정적인 정치ㆍ경제 시스템을 기반으로, 내국인뿐 아니라 외국인 환자 유치가 활발히 이루어지고 있는 의료 허브 국가입니다.\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/085660_20260609000370.txt"
+}

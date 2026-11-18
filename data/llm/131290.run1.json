@@ -1,0 +1,201 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Probe Card",
+      "weight": 0.46,
+      "direction": null,
+      "evidence": "제품매출 Probe Card 143,423,103,771 46.1"
+    },
+    {
+      "axis": "product",
+      "value": "Interface Board",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Interface Board 94,580,831,075 30.4"
+    },
+    {
+      "axis": "product",
+      "value": "Test Socket",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "Test Socket 42,392,743,159 13.6"
+    },
+    {
+      "axis": "product",
+      "value": "OLED 검사장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "OLED 검사장비 30,405,151,613 9.8"
+    },
+    {
+      "axis": "application",
+      "value": "메모리 반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체는 정보를 저장하고 기억하는 메모리 반도체와 데이터처리, 연산, 추론 등 논리적인 정보처리 기능을 하는 비메모리 반도체로 구분됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "비메모리 반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "비메모리 반도체 제품은 PC, 서버 등의 중앙처리장치인 CPU, 스마트폰과 같은 모바일 기기의 중앙처리장치인 AP, 그래픽 카드용 GPU 그리고 가전, 게임, 네트워크, 웨어러블, 자율주행 전기자동차 등 다양한 분야의 제품이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "디스플레이 산업은 패널, 소재, 부품, 설비와 같이 대규모 투자가 요구되는 자본집약적 산업으로 TV, 스마트폰, 태블릿, 노트북 등 응용 산업의 성장과 기술의 발전 속도가 연계되는 특징이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Probe Card 기구물,PCB, 전자부품 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자부품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Probe Card 기구물,PCB, 전자부품 외"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 인천 3,019,478"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "공장 토지 천안 12,392,092"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "※ 당사가 매입하는 원재료의 경우 해외 매입처로부터 공급 받는 경우 발생하는 환변동에 따라 영향을 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Test Interface Board",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Test Interface Board 상에서 구현되는 기술로써, 고기능 디바이스의 검사를 위해서 저기능 검사장비의 부족한 기능을 Interface Board 상에 탑재하는 신기술 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Test Socket",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 검사용 TEST SOCKET은 패키지의 종류와 크기, application에 따라 Spring pin 소켓 또는 elastomer 소켓이 사용되는 것이 일반적입니다."
+    },
+    {
+      "axis": "product",
+      "value": "OLED 검사장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기존 광학적 검사에 기반을 둔 OLED 검사 장비의 한계를 보완한 전기적 특성 검사 기술 기반의 OLED 검사장비를 개발하였고"
+    },
+    {
+      "axis": "product",
+      "value": "Probe Card",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Wafer Test에서 검증된 Probe Card의 기술과 MEMS 기술, 그리고 Test Socket과의 기술적 융합이"
+    },
+    {
+      "axis": "product",
+      "value": "STO",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기존MLB뿐 아니라 신규사업인STO(Space Transformer Organic) 개발을 통해 해외에서만 구매하던STO를 국산화 시킴으로써"
+    },
+    {
+      "axis": "product",
+      "value": "Probe pin",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 Probe pin제작에 필요한 모든 제조공정을 자체 보유하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "패널 업체들의 프리미엄 스마트폰과 폴더블 스마트폰에도 채택되면서 전기식 검사 시장이 성장하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "대형 TV",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히 LG 디스플레이의 경우 대형 TV 시장에서 확고한 경쟁력을 바탕으로 시장 점유률을 높여가고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "모바일용 디스플레이 시장에서 삼성전자 외에 애플에서도 OLED를 채택 함에 따라 글로벌 중소형 패널 시장의 주도권은 LCD에서 OLED로 전환 되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "모바일용 디스플레이 시장에서 삼성전자 외에 애플에서도 OLED를 채택 함에 따라 글로벌 중소형 패널 시장의 주도권은 LCD에서 OLED로 전환 되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내의 경우 삼성 디스플레이 외에 LG 디스플레이 에서도 파주 및 중국 광저우에 대규모 투자를 진행 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "20년에는 베트남 공장(메가일렉)설립하여 기존MLB뿐 아니라 신규사업인STO(Space Transformer Organic) 개발을 통해"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Probe Card\",\n      \"weight\": 0.46,\n      \"direction\": null,\n      \"evidence\": \"제품매출 Probe Card 143,423,103,771 46.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Interface Board\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Interface Board 94,580,831,075 30.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Test Socket\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"Test Socket 42,392,743,159 13.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 검사장비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"OLED 검사장비 30,405,151,613 9.8\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"메모리 반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체는 정보를 저장하고 기억하는 메모리 반도체와 데이터처리, 연산, 추론 등 논리적인 정보처리 기능을 하는 비메모리 반도체로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"비메모리 반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"비메모리 반도체 제품은 PC, 서버 등의 중앙처리장치인 CPU, 스마트폰과 같은 모바일 기기의 중앙처리장치인 AP, 그래픽 카드용 GPU 그리고 가전, 게임, 네트워크, 웨어러블, 자율주행 전기자동차 등 다양한 분야의 제품이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"디스플레이 산업은 패널, 소재, 부품, 설비와 같이 대규모 투자가 요구되는 자본집약적 산업으로 TV, 스마트폰, 태블릿, 노트북 등 응용 산업의 성장과 기술의 발전 속도가 연계되는 특징이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Probe Card 국내 삼성전자, SK하이닉스, 삼성디스플레이\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Probe Card 기구물,PCB, 전자부품 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자부품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Probe Card 기구물,PCB, 전자부품 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 인천 3,019,478\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"공장 토지 천안 12,392,092\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"※ 당사가 매입하는 원재료의 경우 해외 매입처로부터 공급 받는 경우 발생하는 환변동에 따라 영향을 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Test Interface Board\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Test Interface Board 상에서 구현되는 기술로써, 고기능 디바이스의 검사를 위해서 저기능 검사장비의 부족한 기능을 Interface Board 상에 탑재하는 신기술 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Test Socket\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 검사용 TEST SOCKET은 패키지의 종류와 크기, application에 따라 Spring pin 소켓 또는 elastomer 소켓이 사용되는 것이 일반적입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 검사장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기존 광학적 검사에 기반을 둔 OLED 검사 장비의 한계를 보완한 전기적 특성 검사 기술 기반의 OLED 검사장비를 개발하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Probe Card\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Wafer Test에서 검증된 Probe Card의 기술과 MEMS 기술, 그리고 Test Socket과의 기술적 융합이\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STO\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기존MLB뿐 아니라 신규사업인STO(Space Transformer Organic) 개발을 통해 해외에서만 구매하던STO를 국산화 시킴으로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Probe pin\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 Probe pin제작에 필요한 모든 제조공정을 자체 보유하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"패널 업체들의 프리미엄 스마트폰과 폴더블 스마트폰에도 채택되면서 전기식 검사 시장이 성장하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"대형 TV\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특히 LG 디스플레이의 경우 대형 TV 시장에서 확고한 경쟁력을 바탕으로 시장 점유률을 높여가고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"모바일용 디스플레이 시장에서 삼성전자 외에 애플에서도 OLED를 채택 함에 따라 글로벌 중소형 패널 시장의 주도권은 LCD에서 OLED로 전환 되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Apple\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"모바일용 디스플레이 시장에서 삼성전자 외에 애플에서도 OLED를 채택 함에 따라 글로벌 중소형 패널 시장의 주도권은 LCD에서 OLED로 전환 되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내의 경우 삼성 디스플레이 외에 LG 디스플레이 에서도 파주 및 중국 광저우에 대규모 투자를 진행 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"20년에는 베트남 공장(메가일렉)설립하여 기존MLB뿐 아니라 신규사업인STO(Space Transformer Organic) 개발을 통해\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/131290_20260318000738.txt"
+}

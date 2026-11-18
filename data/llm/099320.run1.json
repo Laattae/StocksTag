@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "위성시스템",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "위성시스템,전자광학카메라,위성지상국"
+    },
+    {
+      "axis": "product",
+      "value": "전자광학카메라",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "위성시스템,전자광학카메라,위성지상국"
+    },
+    {
+      "axis": "product",
+      "value": "위성지상국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "위성시스템,전자광학카메라,위성지상국"
+    },
+    {
+      "axis": "product",
+      "value": "위성영상직수신소",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "위성영상직수신소"
+    },
+    {
+      "axis": "product",
+      "value": "위성영상 데이터 분석",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인공지능 기반 위성/항공영상 데이터 분석사업"
+    },
+    {
+      "axis": "application",
+      "value": "방위사업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "군사 목적으로 활용할 수 있는 군사위성과 이동형 지상체 개발을 주요사업으로 하는 방위사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "지구관측",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자부품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "자세제어부품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "센서류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "대전시 유성구 엑스포로 441 외 1개소"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "원재료의 수급 상황과 대외 환율의 변동에 따라 조달에 일부 영향을 받고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성시스템\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"위성시스템,전자광학카메라,위성지상국\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자광학카메라\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"위성시스템,전자광학카메라,위성지상국\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성지상국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"위성시스템,전자광학카메라,위성지상국\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성영상직수신소\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"위성영상직수신소\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성영상 데이터 분석\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인공지능 기반 위성/항공영상 데이터 분석사업\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위사업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"군사 목적으로 활용할 수 있는 군사위성과 이동형 지상체 개발을 주요사업으로 하는 방위사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"지구관측\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자부품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"자세제어부품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"센서류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"대전시 유성구 엑스포로 441 외 1개소\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 수급 상황과 대외 환율의 변동에 따라 조달에 일부 영향을 받고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/099320_20260406004277.txt"
+}

@@ -1,0 +1,179 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "올리고뉴클레오타이드",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "당사의 주요 제품은 신약 원료의약품이며 세부적으로 RNA 치료제의 주원료인 올리고(Oligonucleotide)와 저분자 신약 CDMO 그리고 제네릭 CMO 사업, 자체신약 개발로 사업 영역을 나눌 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "저분자 신약 원료의약품",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "회사는 저분자 신약 원료의약품 CDMO 사업 분야를 확장하여, 신규사업 영역으로서 새로운 치료제 분야인 핵산치료제(Nucleic Acid-based Therapeutics) 원료의약품 시장으로 진출하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "제네릭 원료의약품",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "제네릭 API 사업은 국가별 규정 등에 의한 진입장벽이 높고, 중국 및 인도 등 인건비가 저렴한 국가들의 가격 도전이 매우 극심합니다."
+    },
+    {
+      "axis": "product",
+      "value": "SmartCap",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "에스티팜은 mRNA 분자를 안정화하는 핵심기술인 5'Capping 기술의 독자화에 성공하였습니다. 2020년 10월 SmartCap®으로 국내특허 출원 후"
+    },
+    {
+      "axis": "application",
+      "value": "유전자치료제",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "에스티팜의 주력 CDMO 제품으로는 RNA 기반 약물에 사용되는 올리고뉴클레오타이드 (Oligonucleotide) 이며, 이는 최근 유전자치료제 약물전달 기술 발달에 따라 만성질환 영역으로 확장되면서 수요가 증가하고 있는 상황입니다."
+    },
+    {
+      "axis": "application",
+      "value": "RNA 치료제",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "회사는 RNA 치료제/백신 시장의 급성장에 따라 선제적인 설비 투자를 진행하여 2025년 제2올리고동을 완공하여 1단계 증설 계획을 이행하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "HIV-1 치료제",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "계열 내 약물로는 처음으로 인체 대상 임상이 진행 중인 First-in-class 에이즈치료제 STP0404(Pirmitegravir, 피르미테그라비르)는 프랑스에서 임상1상을 마치고 미국에서 임상 2a상이 진행 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "항암제",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "대장암, 비소세포성폐암, 간암 등 진행성고형암을 대상으로 하는 First-in-class 항암제 STP1002(Basroparib, 바스로파립)의 임상1상 결과는 2024년 9월에 공개되어 안정성이 입증되었고"
+    },
+    {
+      "axis": "application",
+      "value": "COVID-19 백신",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "에스티팜은 새로운 팬데믹 상황이 도래할 때 선제적으로 대응할 수 있는 mRNA 백신 플랫폼을 구축하여 국민의 생명을 지키는 백신 자주권 확보를 위해 정부와 협력하여 LNP를 적용한 국내 유일의 COVID-19 mRNA 백신을 개발 중입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "글로벌 A사",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% |"
+    },
+    {
+      "axis": "customer",
+      "value": "글로벌 B사",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% |"
+    },
+    {
+      "axis": "customer",
+      "value": "글로벌 C사",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% |"
+    },
+    {
+      "axis": "customer",
+      "value": "글로벌 D사",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% | 7.31% |"
+    },
+    {
+      "axis": "customer",
+      "value": "동아에스티",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% | 7.31% | 6.36% |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "시화캠퍼스 | 소계 | 생산능력 | 64.7 | 103.5 | 103.5 | 생산실적 | 55.3 | 45.8 | 40.3 | 반월캠퍼스 | 소계 | 생산능력 | 74.7 | 63.8 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "시장위험(환율) | 미래예상거래, 인식된 자산과 부채 등 | 1) 투기적 외환거래 금지2) 개별 통화별 환위험을 주기적으로 모니터링, 평가 및 관리 | 기능통화 외의 환율이 10% 변동 시 세후이익에 대한 영향을 분석 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "시장위험(이자율) | 변동금리차입금 | 1) 내부자금 공유 확대를 통한 외부차입 최소화2) 고금리 차입금 감축, 장/단기 차입구조 개선, 고정 대 변동이자 차입조건의 적정비율 유지"
+    },
+    {
+      "axis": "product",
+      "value": "Oligonucleotide CDMO",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "에스티팜은 RNA 기반 치료제, 저분자 신약 원료의약품 CDMO 사업을 영위하고 있으며, RNA 기반 치료제의 핵심 원료인 Oligonucleotide CDMO의 글로벌 주요 경쟁업체는 미국의 Agilent와 Nitto Denko Avecia 가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화학합성신약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화학합성신약 | STP0404 | HIV-1 치료제"
+    },
+    {
+      "axis": "product",
+      "value": "mRNA 예방 백신",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "mRNA 예방 백신 | STP2104 | COVID-19"
+    },
+    {
+      "axis": "product",
+      "value": "SmartCap",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 오랜기간 쌓아온 합성 역량을 바탕으로 mRNA의 5' Capping 기술 (SmartCap®)을 독자적으로 특허 출원하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 바이오의약품 CDMO 기업들은 대부분 미국에 사업장을 보유하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "인구고령화",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "세계 의약품 시장은 인구고령화와 만성 질환자의 증가, 소득의 증대 및 생활양식의 변화로인한 삶의 질 향상이라는 트렌드 속에서 건강증진 및 유지를 위한 의료분야의지출확대 등을 원인으로 지속적인 성장세를 보이고 있습니다."
+    },
+    {
+      "axis": " exposure",
+      "value": "만성 질환자 증가",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "세계 의약품 시장은 인구고령화와 만성 질환자의 증가, 소득의 증대 및 생활양식의 변화로인한 삶의 질 향상이라는 트렌드 속에서 건강증진 및 유지를 위한 의료분야의지출확대 등을 원인으로 지속적인 성장세를 보이고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"올리고뉴클레오타이드\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 제품은 신약 원료의약품이며 세부적으로 RNA 치료제의 주원료인 올리고(Oligonucleotide)와 저분자 신약 CDMO 그리고 제네릭 CMO 사업, 자체신약 개발로 사업 영역을 나눌 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"저분자 신약 원료의약품\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"회사는 저분자 신약 원료의약품 CDMO 사업 분야를 확장하여, 신규사업 영역으로서 새로운 치료제 분야인 핵산치료제(Nucleic Acid-based Therapeutics) 원료의약품 시장으로 진출하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제네릭 원료의약품\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"제네릭 API 사업은 국가별 규정 등에 의한 진입장벽이 높고, 중국 및 인도 등 인건비가 저렴한 국가들의 가격 도전이 매우 극심합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SmartCap\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"에스티팜은 mRNA 분자를 안정화하는 핵심기술인 5'Capping 기술의 독자화에 성공하였습니다. 2020년 10월 SmartCap®으로 국내특허 출원 후\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유전자치료제\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"에스티팜의 주력 CDMO 제품으로는 RNA 기반 약물에 사용되는 올리고뉴클레오타이드 (Oligonucleotide) 이며, 이는 최근 유전자치료제 약물전달 기술 발달에 따라 만성질환 영역으로 확장되면서 수요가 증가하고 있는 상황입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"RNA 치료제\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"회사는 RNA 치료제/백신 시장의 급성장에 따라 선제적인 설비 투자를 진행하여 2025년 제2올리고동을 완공하여 1단계 증설 계획을 이행하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"HIV-1 치료제\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"계열 내 약물로는 처음으로 인체 대상 임상이 진행 중인 First-in-class 에이즈치료제 STP0404(Pirmitegravir, 피르미테그라비르)는 프랑스에서 임상1상을 마치고 미국에서 임상 2a상이 진행 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항암제\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"대장암, 비소세포성폐암, 간암 등 진행성고형암을 대상으로 하는 First-in-class 항암제 STP1002(Basroparib, 바스로파립)의 임상1상 결과는 2024년 9월에 공개되어 안정성이 입증되었고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"COVID-19 백신\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"에스티팜은 새로운 팬데믹 상황이 도래할 때 선제적으로 대응할 수 있는 mRNA 백신 플랫폼을 구축하여 국민의 생명을 지키는 백신 자주권 확보를 위해 정부와 협력하여 LNP를 적용한 국내 유일의 COVID-19 mRNA 백신을 개발 중입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"글로벌 A사\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"글로벌 B사\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"글로벌 C사\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"글로벌 D사\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% | 7.31% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"동아에스티\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"매출처 | 글로벌 A사 | 글로벌 B사 | 글로벌 C사 | 글로벌 D사 | 동아에스티 | 매출비중 | 24.27% | 17.34% | 13.19% | 7.31% | 6.36% |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"시화캠퍼스 | 소계 | 생산능력 | 64.7 | 103.5 | 103.5 | 생산실적 | 55.3 | 45.8 | 40.3 | 반월캠퍼스 | 소계 | 생산능력 | 74.7 | 63.8 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"시장위험(환율) | 미래예상거래, 인식된 자산과 부채 등 | 1) 투기적 외환거래 금지2) 개별 통화별 환위험을 주기적으로 모니터링, 평가 및 관리 | 기능통화 외의 환율이 10% 변동 시 세후이익에 대한 영향을 분석 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"시장위험(이자율) | 변동금리차입금 | 1) 내부자금 공유 확대를 통한 외부차입 최소화2) 고금리 차입금 감축, 장/단기 차입구조 개선, 고정 대 변동이자 차입조건의 적정비율 유지\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Oligonucleotide CDMO\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"에스티팜은 RNA 기반 치료제, 저분자 신약 원료의약품 CDMO 사업을 영위하고 있으며, RNA 기반 치료제의 핵심 원료인 Oligonucleotide CDMO의 글로벌 주요 경쟁업체는 미국의 Agilent와 Nitto Denko Avecia 가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화학합성신약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화학합성신약 | STP0404 | HIV-1 치료제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"mRNA 예방 백신\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"mRNA 예방 백신 | STP2104 | COVID-19\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SmartCap\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 오랜기간 쌓아온 합성 역량을 바탕으로 mRNA의 5' Capping 기술 (SmartCap®)을 독자적으로 특허 출원하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 바이오의약품 CDMO 기업들은 대부분 미국에 사업장을 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인구고령화\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"세계 의약품 시장은 인구고령화와 만성 질환자의 증가, 소득의 증대 및 생활양식의 변화로인한 삶의 질 향상이라는 트렌드 속에서 건강증진 및 유지를 위한 의료분야의지출확대 등을 원인으로 지속적인 성장세를 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \" exposure\",\n      \"value\": \"만성 질환자 증가\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"세계 의약품 시장은 인구고령화와 만성 질환자의 증가, 소득의 증대 및 생활양식의 변화로인한 삶의 질 향상이라는 트렌드 속에서 건강증진 및 유지를 위한 의료분야의지출확대 등을 원인으로 지속적인 성장세를 보이고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/237690_20260602000343.txt"
+}

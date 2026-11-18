@@ -1,0 +1,89 @@
+{
+  "merges": [
+    {
+      "group": 9,
+      "canonical": "르노코리아",
+      "synonyms": [
+        "르노코리아자동차"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "삼성SDI",
+      "synonyms": [
+        "삼성에스디아이"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "얀센",
+      "synonyms": [
+        "얀센 바이오테크",
+        "얀센바이오텍"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "육군",
+      "synonyms": [
+        "대한민국 육군"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "포드",
+      "synonyms": [
+        "포드 모터 컴퍼니"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "해군",
+      "synonyms": [
+        "대한민국 해군"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "Angelini Pharma",
+      "synonyms": [
+        "Angelini Pharma S.p.A."
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "Stellantis",
+      "synonyms": [
+        "STELLANTIS"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "포스코",
+      "synonyms": [
+        "(주)포스코"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "Ford",
+      "synonyms": [
+        "FORD"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "올리브영",
+      "synonyms": [
+        "씨제이올리브영"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "유한양행",
+      "synonyms": [
+        "유한양행 사"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자율주행 물류로봇",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주식회사 유진로봇은 자율주행 물류로봇 및 스마트 자동화 장비 등 완제품 로봇 개발 및 판매를 통해 경쟁력 있는 제품을 시장에 출시해 왔으며"
+    },
+    {
+      "axis": "product",
+      "value": "스마트 자동화 장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주식회사 유진로봇은 자율주행 물류로봇 및 스마트 자동화 장비 등 완제품 로봇 개발 및 판매를 통해 경쟁력 있는 제품을 시장에 출시해 왔으며"
+    },
+    {
+      "axis": "product",
+      "value": "라이다 센서",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "물류로봇 시장의 핵심요소인 고카트 자율이동로봇 사업에 전력을 다할 뿐만 아니라 자율주행 기술의 구성요소인 라이다 센서, SLAM콘트롤러 같은 다양한 제품도 성공적으로 상용화를 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SLAM콘트롤러",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "물류로봇 시장의 핵심요소인 고카트 자율이동로봇 사업에 전력을 다할 뿐만 아니라 자율주행 기술의 구성요소인 라이다 센서, SLAM콘트롤러 같은 다양한 제품도 성공적으로 상용화를 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "청소로봇",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 대표적 상품인 청소로봇의 경쟁 해외기업으로는 아이로봇사가 청소로봇 룸바 등을 국내에 판매하고 있습니다"
+    },
+    {
+      "axis": "application",
+      "value": "스마트 물류",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "4차 산업혁명을 이끄는 혁신적인 방안으로 스마트팩토리가 떠오르고 있는 가운데 유진로봇의 통합 물류 솔루션을 통해 전세계 스마트 물류 자동화 산업에 기여할 수 있도록 노력하겠습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트팩토리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "4차 산업혁명을 이끄는 혁신적인 방안으로 스마트팩토리가 떠오르고 있는 가운데 유진로봇의 통합 물류 솔루션을 통해 전세계 스마트 물류 자동화 산업에 기여할 수 있도록 노력하겠습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지능형 로봇 시장은 건강관리, 교육 여가지원, 생활지원, 가사등의 개인서비스 영역과 농림업 국방,우주,해양 의료복지 공공작업, 빌딩서비스 등의 전문서비스영역과 바이오, 반도체, 디스플레이, 전자제품 자동차의 산업용 영역을 아우르는 시장산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지능형 로봇 시장은 건강관리, 교육 여가지원, 생활지원, 가사등의 개인서비스 영역과 농림업 국방,우주,해양 의료복지 공공작업, 빌딩서비스 등의 전문서비스영역과 바이오, 반도체, 디스플레이, 전자제품 자동차의 산업용 영역을 아우르는 시장산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "수출 외 | 밀레, 현대모비스(주), 콘티넨탈 오토모티브, 캄텍 외 | -"
+    },
+    {
+      "axis": "customer",
+      "value": "밀레",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "청소로봇 분야에서의 밀레와 공동개발한 청소로봇 신제품이 시장의 호평을 받고, 꾸준한 품질과 성능을 보유하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "콘티넨탈오토모티브",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "로봇사업부 | 자율주행 로봇 솔루션, 스마트 자동화 장비,산업용로봇 등 | 현대모비스(주), Miele & Cie. KG, 콘티넨탈오토모티브시스템(주),비테스코테크놀로지스 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Side brush motor",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원재료 | Side brush motor | 청소로봇 | 7,105원 | 7,105원 | 7,105원 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wheel motor",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Wheel motor | 청소로봇 | 7,859원 | 7,859원 | 7,859원 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Battery Pack",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Battery Pack | 청소로봇 | 47,020원 | 47,020원 | 37,220원 | -"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "지능형 서비스로봇은 송도에 소재한 공장에서 직접 제조,생산을 하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "회사는 제품 수출 및 상품ㆍ원재료 수입과 관련하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자율주행 물류로봇\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주식회사 유진로봇은 자율주행 물류로봇 및 스마트 자동화 장비 등 완제품 로봇 개발 및 판매를 통해 경쟁력 있는 제품을 시장에 출시해 왔으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트 자동화 장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주식회사 유진로봇은 자율주행 물류로봇 및 스마트 자동화 장비 등 완제품 로봇 개발 및 판매를 통해 경쟁력 있는 제품을 시장에 출시해 왔으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라이다 센서\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"물류로봇 시장의 핵심요소인 고카트 자율이동로봇 사업에 전력을 다할 뿐만 아니라 자율주행 기술의 구성요소인 라이다 센서, SLAM콘트롤러 같은 다양한 제품도 성공적으로 상용화를 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SLAM콘트롤러\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"물류로봇 시장의 핵심요소인 고카트 자율이동로봇 사업에 전력을 다할 뿐만 아니라 자율주행 기술의 구성요소인 라이다 센서, SLAM콘트롤러 같은 다양한 제품도 성공적으로 상용화를 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"청소로봇\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 대표적 상품인 청소로봇의 경쟁 해외기업으로는 아이로봇사가 청소로봇 룸바 등을 국내에 판매하고 있습니다\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트 물류\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"4차 산업혁명을 이끄는 혁신적인 방안으로 스마트팩토리가 떠오르고 있는 가운데 유진로봇의 통합 물류 솔루션을 통해 전세계 스마트 물류 자동화 산업에 기여할 수 있도록 노력하겠습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트팩토리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"4차 산업혁명을 이끄는 혁신적인 방안으로 스마트팩토리가 떠오르고 있는 가운데 유진로봇의 통합 물류 솔루션을 통해 전세계 스마트 물류 자동화 산업에 기여할 수 있도록 노력하겠습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지능형 로봇 시장은 건강관리, 교육 여가지원, 생활지원, 가사등의 개인서비스 영역과 농림업 국방,우주,해양 의료복지 공공작업, 빌딩서비스 등의 전문서비스영역과 바이오, 반도체, 디스플레이, 전자제품 자동차의 산업용 영역을 아우르는 시장산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지능형 로봇 시장은 건강관리, 교육 여가지원, 생활지원, 가사등의 개인서비스 영역과 농림업 국방,우주,해양 의료복지 공공작업, 빌딩서비스 등의 전문서비스영역과 바이오, 반도체, 디스플레이, 전자제품 자동차의 산업용 영역을 아우르는 시장산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"수출 외 | 밀레, 현대모비스(주), 콘티넨탈 오토모티브, 캄텍 외 | -\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"밀레\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"청소로봇 분야에서의 밀레와 공동개발한 청소로봇 신제품이 시장의 호평을 받고, 꾸준한 품질과 성능을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"콘티넨탈오토모티브\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"로봇사업부 | 자율주행 로봇 솔루션, 스마트 자동화 장비,산업용로봇 등 | 현대모비스(주), Miele & Cie. KG, 콘티넨탈오토모티브시스템(주),비테스코테크놀로지스 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Side brush motor\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원재료 | Side brush motor | 청소로봇 | 7,105원 | 7,105원 | 7,105원 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wheel motor\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Wheel motor | 청소로봇 | 7,859원 | 7,859원 | 7,859원 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Battery Pack\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Battery Pack | 청소로봇 | 47,020원 | 47,020원 | 37,220원 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"지능형 서비스로봇은 송도에 소재한 공장에서 직접 제조,생산을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"회사는 제품 수출 및 상품ㆍ원재료 수입과 관련하여 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/056080_20260319001000.txt"
+}

@@ -1,0 +1,365 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "혈액제제",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "백신제제",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전문의약품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "OTC제제",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Plasma",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "의약품제조(오창공장) | 원재료 | Plasma | 알리글로,알부민 외 | 275,696 | 67.0"
+    },
+    {
+      "axis": "raw_material",
+      "value": "부화란",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "의약품제조(화순공장) | 원재료 | 부화란 | 독감백신 | 13,479 | 3.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "자오가",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "의약품제조(음성공장) | 원재료 | 자오가 | 신바로 | 8,365 | 2.0"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "오창공장 | 혈액제제 생산 | 충청북도 청주시 청원구 오창읍 과학산업2로 586"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화순공장 | 백신제제 생산 | 전라남도 화순군 화순읍 산단길 40"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "음성공장 | 일반의약품 생산 | 충청북도 음성군 금왕읍 무극로 65번길 26"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제약회사에서 사용되는 원료는 수입의존도가 높음에 따라 공급처의 수입단가 조정 및 환율변동에 의한 가격 차이가 발생할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "라이넥주",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 전문의약품 사업의 주요 제품인 라이넥주는 산부인과에서 수거한 태반전체(자하거)를 아세톤 처리로 탈지한 후 불완전 가수분해물이 생성되지 않도록 펩신과 염산처리로 충분한 가수분해조작을 실시하여 제조한 담황갈색의 투명한 액체로 체내 흡수된 영양소들이 간을 거쳐 해독, 대사, 합성의 과정을 거쳐 필요한 영양소 균형을 맞추는데 도움을 주어 인체의 간 기능을 개선하는 역할을 하는 주사제입니다."
+    },
+    {
+      "axis": "product",
+      "value": "영양주사제",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "그 외에 개인별 맞춤영양치료를 위한 다양한 영양주사제 제품군이 있습니다.이와 함께 비타민C, B군등을 보충하는 주사제와 치옥트산, 타치온등 항산화와 관련된 주사제들이 있으며 인체내에 필요한 마그네슘, 셀레늄, 아연, 글루콘산칼슘과 같은 미네랄 주사제가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "HA필러",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "의료기기로는 먼저 안면부 꺼진 부위를 채워주는 4등급 의료기기인 유스필(HA필러)가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스킨부스터",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "또한 피부에 직접 주입하여 강력한 피부 재생효과, 피부 보습 및 잔주름 개선효과 있는 4등급 의료기기 스킨부스터인 필로드를 라인업으로 구축하고 있고"
+    },
+    {
+      "axis": "product",
+      "value": "보툴리눔 톡신",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "또한 스웨덴 청정 균주 보툴리늄 톡신 '이니보'의 국내 판매를 시작하여 전국 1만여개 이상의 거래처를 대상으로 판매하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "안휘거린커약품판매유한공사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "히알루론산 필러 'DIVAVIVA'주 판매 및 유통계약\n안휘거린커약품판매유한공사"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 충북 음성군 맹동면에 위치한 혁신공장에서 태반주사제인 라이넥주와 영양주사제 푸르설타민주 등의 GMP 전문의약품 주사제를 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경기도 성남시 상대원동에 위치한 건강기능식품 공장도 GMP승인을 받았고,"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전문의약품의 직접거래는 전국 16개 사업장 판매사원을 통해 주문을 받고 KGSP 허가를 받은 충청남도 천안시 입장면에 위치한 의약품 배송 창고에서 전국 10,000여개 거래처로 배송하여 직접 공급하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "국내 의약품 시장은 급속한 고령화 진전에 따라 지속적인 성장이 예상되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "라이넥주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "품목명 | 회사명 | 시장점유율 | 회사명 | 시장점유율 | 회사명 | 시장점유율 | 태반주사제 | 라이넥주 | 녹십자웰빙 | 77.1 | 녹십자웰빙 | 77.8 | 녹십자웰빙 | 80.7"
+    },
+    {
+      "axis": "product",
+      "value": "진단시약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사업부문 | 주요제품 및 서비스 | 매출비중 | 비고 | 진단시약 | 면역진단, 생화학진단, 분자진단 등 질병의 진단과 예후 판단및 치료에 관계되는 다양한 진단시약 제품 및 상품사업 | 54.1%"
+    },
+    {
+      "axis": "product",
+      "value": "혈액투석액",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "의약품 | 제품 | 혈액투석액 | 혈액투석 | HD Sol-BCGA | 33,699 | 31.1%"
+    },
+    {
+      "axis": "product",
+      "value": "혈당측정기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "혈당 | 혈당측정기, HbA1c, Lipid 등 의료기기 사업 | 14.4%"
+    },
+    {
+      "axis": "product",
+      "value": "세포치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "사업구분 | 품 품목 | 주요상표 | 제15기(2025년) | 제품설명 | 매출액 | 매출비중 | 세포치료제 | 이뮨셀엘씨주 | Immuncell-LC 외 | 36,939 | 22.3%"
+    },
+    {
+      "axis": "application",
+      "value": "당뇨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 국제 당뇨병 연맹(IDF-International Diabetes Federation)이 발표한 자료에 의하면, 전 세계 당뇨병 환자의 수는 5억 9천만명에 이르며, 2050년에는 약 8억 5천만명에 이를 것으로 추정하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신장질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이처럼 혈액투석 환자가 증가한 것은 고령화로 신장질환의 주요 원인인 당뇨병, 고혈압 환자가 증가했기 때문으로 풀이됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "밴티브코리아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "세계굴지의 Renal Care회사인 밴티브코리아 주식회사(구, ㈜박스터)와 2028년 12월까지 국내 공급계약을 체결하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "보령",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2017년 5월에는 ㈜보령과 혈액투석액을 10년간 공급하는 장기공급계약을 체결하여 안정적인 매출을 창출하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기도 용인시 기흥구 용구대로2469번길 15"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "충청북도 음성군 맹동면 태정로 148"
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화 인구",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "서구화된 식습관 및 고령화 인구의 증가로 인해 당뇨병 환자 및 당뇨 유병율은 꾸준히 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "검체검사서비스",
+      "weight": 0.49,
+      "direction": null,
+      "evidence": "용역 매출 등 | - | 80,634 | 48.7% |"
+    },
+    {
+      "axis": "product",
+      "value": "세포치료제",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "세포치료제 | 이뮨셀엘씨주 | Immuncell-LC 외 | 36,939 | 22.3% |"
+    },
+    {
+      "axis": "product",
+      "value": "바이오물류",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "바이오물류 | 용역 매출 등 | - | 31,075 | 18.8% |"
+    },
+    {
+      "axis": "product",
+      "value": "제대혈보관",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "기타 | 제대혈보관 외 | 라이프라인 외 | 14,505 | 8.8% |"
+    },
+    {
+      "axis": "product",
+      "value": "이뮨셀엘씨주",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "이뮨셀엘씨주 | 36,939 | 22.32% | 38,101 | 34,938 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Bagpack medium",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "세포치료제 | Bagpack medium | 수입 | 124,575/bag | 121,776/bag |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Split medium",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "세포치료제 | Split medium | 수입 | 105,545/bag | 103,174/bag |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Lymphoact 225",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "세포치료제 | Lymphoact 225 | 수입 | 58,850/ea | 56,178/ea |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소재지 : 경기도 용인시 기흥구 / 작업일 : 주7일"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재지 : 일본 도쿄 / 작업일 : 연중무휴"
+    },
+    {
+      "axis": "product",
+      "value": "이뮨셀엘씨주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "초기 간암의 재발을 낮추고 생존율을 높이는 효과가 입증된 자체 개발 면역세포치료제 품목 ‘이뮨셀엘씨주’를 보유하게 되었습니다"
+    },
+    {
+      "axis": "product",
+      "value": "Plasma",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Plasma(NSP) | 혈액제제 생산 | ABO Plasma | 79,150 | 100.0"
+    },
+    {
+      "axis": "product",
+      "value": "면역글로불린",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "GC BIOPHARMA USA, Inc.는 면역글로불린 10% IVIG(제품명 ALYGLO)의 미국 내 판매, 마케팅 및 비즈니스 운영을 위하여"
+    },
+    {
+      "axis": "customer",
+      "value": "녹십자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년 연간 당사의 주요 매출처는 Biolife, ㈜녹십자입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Biolife",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 연간 당사의 주요 매출처는 Biolife, ㈜녹십자입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "ABO Holdings, INC.는 2020년 10월 미국 캘리포니아주에 혈장 채취 및 판매를 위한 혈액원 운영 목적으로 설립된 법인이며"
+    },
+    {
+      "axis": "region",
+      "value": "캘리포니아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "ABO Holdings, INC.는 2020년 10월 미국 캘리포니아주에 혈장 채취 및 판매를 위한 혈액원 운영 목적으로 설립된 법인이며"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"혈액제제\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"백신제제\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"전문의약품\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"OTC제제\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"당사는 혈액제제와 백신제제를 필두로 전문의약품, OTC제제 등의 의약품을 제조 및 판매하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Plasma\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"의약품제조(오창공장) | 원재료 | Plasma | 알리글로,알부민 외 | 275,696 | 67.0\"}, {\"axis\": \"raw_material\", \"value\": \"부화란\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"의약품제조(화순공장) | 원재료 | 부화란 | 독감백신 | 13,479 | 3.3\"}, {\"axis\": \"raw_material\", \"value\": \"자오가\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"의약품제조(음성공장) | 원재료 | 자오가 | 신바로 | 8,365 | 2.0\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"오창공장 | 혈액제제 생산 | 충청북도 청주시 청원구 오창읍 과학산업2로 586\"}, {\"axis\": \"region\", \"value\": \"전남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"화순공장 | 백신제제 생산 | 전라남도 화순군 화순읍 산단길 40\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"음성공장 | 일반의약품 생산 | 충청북도 음성군 금왕읍 무극로 65번길 26\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"제약회사에서 사용되는 원료는 수입의존도가 높음에 따라 공급처의 수입단가 조정 및 환율변동에 의한 가격 차이가 발생할 수 있습니다.\"}]}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"라이넥주\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 전문의약품 사업의 주요 제품인 라이넥주는 산부인과에서 수거한 태반전체(자하거)를 아세톤 처리로 탈지한 후 불완전 가수분해물이 생성되지 않도록 펩신과 염산처리로 충분한 가수분해조작을 실시하여 제조한 담황갈색의 투명한 액체로 체내 흡수된 영양소들이 간을 거쳐 해독, 대사, 합성의 과정을 거쳐 필요한 영양소 균형을 맞추는데 도움을 주어 인체의 간 기능을 개선하는 역할을 하는 주사제입니다.\"}, {\"axis\": \"product\", \"value\": \"영양주사제\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"그 외에 개인별 맞춤영양치료를 위한 다양한 영양주사제 제품군이 있습니다.이와 함께 비타민C, B군등을 보충하는 주사제와 치옥트산, 타치온등 항산화와 관련된 주사제들이 있으며 인체내에 필요한 마그네슘, 셀레늄, 아연, 글루콘산칼슘과 같은 미네랄 주사제가 있습니다.\"}, {\"axis\": \"product\", \"value\": \"HA필러\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"의료기기로는 먼저 안면부 꺼진 부위를 채워주는 4등급 의료기기인 유스필(HA필러)가 있습니다.\"}, {\"axis\": \"product\", \"value\": \"스킨부스터\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"또한 피부에 직접 주입하여 강력한 피부 재생효과, 피부 보습 및 잔주름 개선효과 있는 4등급 의료기기 스킨부스터인 필로드를 라인업으로 구축하고 있고\"}, {\"axis\": \"product\", \"value\": \"보툴리눔 톡신\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"또한 스웨덴 청정 균주 보툴리늄 톡신 '이니보'의 국내 판매를 시작하여 전국 1만여개 이상의 거래처를 대상으로 판매하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"안휘거린커약품판매유한공사\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"히알루론산 필러 'DIVAVIVA'주 판매 및 유통계약\\n안휘거린커약품판매유한공사\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 충북 음성군 맹동면에 위치한 혁신공장에서 태반주사제인 라이넥주와 영양주사제 푸르설타민주 등의 GMP 전문의약품 주사제를 생산하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"경기도 성남시 상대원동에 위치한 건강기능식품 공장도 GMP승인을 받았고,\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"전문의약품의 직접거래는 전국 16개 사업장 판매사원을 통해 주문을 받고 KGSP 허가를 받은 충청남도 천안시 입장면에 위치한 의약품 배송 창고에서 전국 10,000여개 거래처로 배송하여 직접 공급하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"국내 의약품 시장은 급속한 고령화 진전에 따라 지속적인 성장이 예상되고 있습니다.\"}]}",
+    "{\"tags\": [\n  {\"axis\": \"product\", \"value\": \"라이넥주\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"품목명 | 회사명 | 시장점유율 | 회사명 | 시장점유율 | 회사명 | 시장점유율 | 태반주사제 | 라이넥주 | 녹십자웰빙 | 77.1 | 녹십자웰빙 | 77.8 | 녹십자웰빙 | 80.7\"},\n  {\"axis\": \"product\", \"value\": \"진단시약\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"사업부문 | 주요제품 및 서비스 | 매출비중 | 비고 | 진단시약 | 면역진단, 생화학진단, 분자진단 등 질병의 진단과 예후 판단및 치료에 관계되는 다양한 진단시약 제품 및 상품사업 | 54.1%\"},\n  {\"axis\": \"product\", \"value\": \"혈액투석액\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"의약품 | 제품 | 혈액투석액 | 혈액투석 | HD Sol-BCGA | 33,699 | 31.1%\"},\n  {\"axis\": \"product\", \"value\": \"혈당측정기\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"혈당 | 혈당측정기, HbA1c, Lipid 등 의료기기 사업 | 14.4%\"},\n  {\"axis\": \"product\", \"value\": \"세포치료제\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"사업구분 | 품 품목 | 주요상표 | 제15기(2025년) | 제품설명 | 매출액 | 매출비중 | 세포치료제 | 이뮨셀엘씨주 | Immuncell-LC 외 | 36,939 | 22.3%\"},\n  {\"axis\": \"application\", \"value\": \"당뇨병\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2025년 국제 당뇨병 연맹(IDF-International Diabetes Federation)이 발표한 자료에 의하면, 전 세계 당뇨병 환자의 수는 5억 9천만명에 이르며, 2050년에는 약 8억 5천만명에 이를 것으로 추정하고 있습니다.\"},\n  {\"axis\": \"application\", \"value\": \"신장질환\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"이처럼 혈액투석 환자가 증가한 것은 고령화로 신장질환의 주요 원인인 당뇨병, 고혈압 환자가 증가했기 때문으로 풀이됩니다.\"},\n  {\"axis\": \"customer\", \"value\": \"밴티브코리아\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"세계굴지의 Renal Care회사인 밴티브코리아 주식회사(구, ㈜박스터)와 2028년 12월까지 국내 공급계약을 체결하였으며\"},\n  {\"axis\": \"customer\", \"value\": \"보령\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"2017년 5월에는 ㈜보령과 혈액투석액을 10년간 공급하는 장기공급계약을 체결하여 안정적인 매출을 창출하고 있습니다.\"},\n  {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"경기도 용인시 기흥구 용구대로2469번길 15\"},\n  {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"충청북도 음성군 맹동면 태정로 148\"},\n  {\"axis\": \"exposure\", \"value\": \"고령화 인구\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"서구화된 식습관 및 고령화 인구의 증가로 인해 당뇨병 환자 및 당뇨 유병율은 꾸준히 증가하고 있습니다.\"}\n]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"검체검사서비스\",\n      \"weight\": 0.49,\n      \"direction\": null,\n      \"evidence\": \"용역 매출 등 | - | 80,634 | 48.7% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포치료제\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"세포치료제 | 이뮨셀엘씨주 | Immuncell-LC 외 | 36,939 | 22.3% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오물류\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"바이오물류 | 용역 매출 등 | - | 31,075 | 18.8% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제대혈보관\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"기타 | 제대혈보관 외 | 라이프라인 외 | 14,505 | 8.8% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이뮨셀엘씨주\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"이뮨셀엘씨주 | 36,939 | 22.32% | 38,101 | 34,938 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Bagpack medium\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"세포치료제 | Bagpack medium | 수입 | 124,575/bag | 121,776/bag |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Split medium\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"세포치료제 | Split medium | 수입 | 105,545/bag | 103,174/bag |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Lymphoact 225\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"세포치료제 | Lymphoact 225 | 수입 | 58,850/ea | 56,178/ea |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소재지 : 경기도 용인시 기흥구 / 작업일 : 주7일\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재지 : 일본 도쿄 / 작업일 : 연중무휴\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"이뮨셀엘씨주\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"초기 간암의 재발을 낮추고 생존율을 높이는 효과가 입증된 자체 개발 면역세포치료제 품목 ‘이뮨셀엘씨주’를 보유하게 되었습니다\"}, {\"axis\": \"product\", \"value\": \"Plasma\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Plasma(NSP) | 혈액제제 생산 | ABO Plasma | 79,150 | 100.0\"}, {\"axis\": \"product\", \"value\": \"면역글로불린\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"GC BIOPHARMA USA, Inc.는 면역글로불린 10% IVIG(제품명 ALYGLO)의 미국 내 판매, 마케팅 및 비즈니스 운영을 위하여\"}, {\"axis\": \"customer\", \"value\": \"녹십자\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"2025년 연간 당사의 주요 매출처는 Biolife, ㈜녹십자입니다.\"}, {\"axis\": \"customer\", \"value\": \"Biolife\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2025년 연간 당사의 주요 매출처는 Biolife, ㈜녹십자입니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"ABO Holdings, INC.는 2020년 10월 미국 캘리포니아주에 혈장 채취 및 판매를 위한 혈액원 운영 목적으로 설립된 법인이며\"}, {\"axis\": \"region\", \"value\": \"캘리포니아\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"ABO Holdings, INC.는 2020년 10월 미국 캘리포니아주에 혈장 채취 및 판매를 위한 혈액원 운영 목적으로 설립된 법인이며\"}]}"
+  ],
+  "text_path": "data/reports/006280_20260318001316.txt"
+}

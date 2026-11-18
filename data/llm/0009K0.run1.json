@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "항암제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 항체-약물 접합체(ADC, Antibody-Drug Conjugate) 기반 항암제를 개발하는 글로벌 혁신 신약개발 바이오텍 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "AMB302",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2024년 12월 미국 NYSE 상장사 바이오헤이븐(Biohaven)에 AMB302를 기술이전하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "AMB303",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ODS025",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Biohaven",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2024년 12월 미국 NYSE 상장사 바이오헤이븐(Biohaven)에 AMB302를 기술이전하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK플라즈마",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Boehringer Ingelheim",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 환위험은 USD 환율에 기인하므로 손익의 변동성은 주로 USD 표시금융상품으로부터 발생합니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"항암제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 항체-약물 접합체(ADC, Antibody-Drug Conjugate) 기반 항암제를 개발하는 글로벌 혁신 신약개발 바이오텍 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AMB302\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2024년 12월 미국 NYSE 상장사 바이오헤이븐(Biohaven)에 AMB302를 기술이전하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AMB303\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ODS025\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Biohaven\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2024년 12월 미국 NYSE 상장사 바이오헤이븐(Biohaven)에 AMB302를 기술이전하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK플라즈마\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Boehringer Ingelheim\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 5월 SK플라즈마와 AMB303 공동개발 및 라이선스 계약 체결, 2025년 10월 Boehringer Ingelheim과 ODS025 기술이전 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 환위험은 USD 환율에 기인하므로 손익의 변동성은 주로 USD 표시금융상품으로부터 발생합니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/0009K0_20260319001271.txt"
+}

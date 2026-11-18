@@ -1,0 +1,158 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "타이어",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "2025년 누적 타이어 제품 매출액은 10조 14억원 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "에이치백(HVAC)",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한온시스템㈜는 자동차용 에어컨(HVAC)과 파워트레인 쿨링(PTC), 압축기(COMP), 플루이드 트랜스포트(FT), 유압제어장치(E&FP) 등을 생산하는"
+    },
+    {
+      "axis": "raw_material",
+      "value": "천연고무",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "합성고무",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며, 기타 합성고무 등은 국내에서 생산되나"
+    },
+    {
+      "axis": "raw_material",
+      "value": "카본블랙",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차산업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "신차용 타이어 수요는 자동차 생산대수에, 교환용 타이어 수요는 차량 등록 대수에 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현대자동차 | 2,327,864 | 21.39% | 2,113,254 | 21.14% | 2,246,471 | 23.50%"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현대모비스 | 2,100,945 | 19.30% | 1,953,593 | 19.54% | 1,434,117 | 15.00%"
+    },
+    {
+      "axis": "customer",
+      "value": "FORD",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "FORD | 1,357,845 | 12.48% | 1,262,244 | 12.62% | 1,212,899 | 12.69%"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "합성고무, 카본블랙 등 원부재료의 단가는 최근 유가변동의 영향을 많이 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "수출은 친환경차, SUV등의 판매 호조세 및 환율효과로 판매 증가하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "타이어 | 대 전 | 백만원 | 751,280 | 666,818 | 702,192"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "금 산 | 백만원 | 1,371,075 | 1,273,169 | 1,192,716"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국가흥 | 천CNY | 3,684,396 | 3,657,177 | 3,696,053"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "미 국 | 천USD | 296,862 | 313,177 | 314,607"
+    },
+    {
+      "axis": "product",
+      "value": "타이어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "연결회사는 타이어 제품의 주된 원재료인 생고무의 확보를 위하여 Golden Rubber Pte Ltd 외 여러 업체들과 원재료 구매 계약을 체결하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "자동차 열 관리 시스템",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "[자동차 열 관리 시스템 부문]가. 연구개발활동의 개요는 다음과 같습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "생고무",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 타이어 제품의 주된 원재료인 생고무의 확보를 위하여 Golden Rubber Pte Ltd 외 여러 업체들과 원재료 구매 계약을 체결하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "하이브리드 및 전기자동차 시장 확대에 대응하여 전기구동식 압축기 Line-up 확보"
+    },
+    {
+      "axis": "application",
+      "value": "모빌리티",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 중동부에 포진하고 있는 모빌리티, 메디컬/헬스케어, 항공/우주 분야의 수많은 글로벌기업 고객을 발굴하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "가장 큰 시장인 북미 시장에 효과적으로 대응하기 위하여 미국 서부 실리콘밸리에 현지 영업법인을 운영하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"타이어\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"2025년 누적 타이어 제품 매출액은 10조 14억원 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에이치백(HVAC)\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한온시스템㈜는 자동차용 에어컨(HVAC)과 파워트레인 쿨링(PTC), 압축기(COMP), 플루이드 트랜스포트(FT), 유압제어장치(E&FP) 등을 생산하는\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"천연고무\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"합성고무\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며, 기타 합성고무 등은 국내에서 생산되나\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"카본블랙\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"타이어의 주원료는 천연고무, 합성고무, 카본블랙 등이며, 국내에서는 천연고무를 전량 수입에 의존하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차산업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"신차용 타이어 수요는 자동차 생산대수에, 교환용 타이어 수요는 차량 등록 대수에 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현대자동차 | 2,327,864 | 21.39% | 2,113,254 | 21.14% | 2,246,471 | 23.50%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현대모비스 | 2,100,945 | 19.30% | 1,953,593 | 19.54% | 1,434,117 | 15.00%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"FORD\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"FORD | 1,357,845 | 12.48% | 1,262,244 | 12.62% | 1,212,899 | 12.69%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"합성고무, 카본블랙 등 원부재료의 단가는 최근 유가변동의 영향을 많이 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"수출은 친환경차, SUV등의 판매 호조세 및 환율효과로 판매 증가하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"타이어 | 대 전 | 백만원 | 751,280 | 666,818 | 702,192\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"금 산 | 백만원 | 1,371,075 | 1,273,169 | 1,192,716\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국가흥 | 천CNY | 3,684,396 | 3,657,177 | 3,696,053\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"미 국 | 천USD | 296,862 | 313,177 | 314,607\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"타이어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 타이어 제품의 주된 원재료인 생고무의 확보를 위하여 Golden Rubber Pte Ltd 외 여러 업체들과 원재료 구매 계약을 체결하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차 열 관리 시스템\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"[자동차 열 관리 시스템 부문]가. 연구개발활동의 개요는 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"생고무\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 타이어 제품의 주된 원재료인 생고무의 확보를 위하여 Golden Rubber Pte Ltd 외 여러 업체들과 원재료 구매 계약을 체결하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"하이브리드 및 전기자동차 시장 확대에 대응하여 전기구동식 압축기 Line-up 확보\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모빌리티\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 중동부에 포진하고 있는 모빌리티, 메디컬/헬스케어, 항공/우주 분야의 수많은 글로벌기업 고객을 발굴하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"가장 큰 시장인 북미 시장에 효과적으로 대응하기 위하여 미국 서부 실리콘밸리에 현지 영업법인을 운영하고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/161390_20260318000959.txt"
+}

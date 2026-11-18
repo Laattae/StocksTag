@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "컨테이너 운송",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "컨테이너 | 용역 | 컨테이너 운송 | 9,243,368 | 10,147,727 | 6,964,576 | 84.9%"
+    },
+    {
+      "axis": "product",
+      "value": "벌크화물 운송",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "벌크 | 용역 | 벌크화물 운송 | 1,447,048 | 1,337,434 | 1,243,093 | 13.3%"
+    },
+    {
+      "axis": "product",
+      "value": "터미널운영 등",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "기타(*) | 용역 | 터미널운영 등 | 201,027 | 215,063 | 193,300 | 1.8%"
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": null,
+      "direction": null,
+      "evidence": "해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": null,
+      "direction": null,
+      "evidence": "해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편"
+    },
+    {
+      "axis": "application",
+      "value": "항만",
+      "weight": null,
+      "direction": null,
+      "evidence": "해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편"
+    },
+    {
+      "axis": "customer",
+      "value": "현대글로비스",
+      "weight": null,
+      "direction": null,
+      "evidence": "주요 매출처는 얼라이언스 소속선사, GS 칼텍스, 현대글로비스 등 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "GS 칼텍스",
+      "weight": null,
+      "direction": null,
+      "evidence": "주요 매출처는 얼라이언스 소속선사, GS 칼텍스, 현대글로비스 등 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "연료유",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "컨테이너 및 벌크 | 원 재 료 | 연료유 | 선박연료 | 1,347,759 | 100% | -"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": null,
+      "direction": null,
+      "evidence": "토 지 | 부산 | 1,607 | 대만 | 92,045"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "구 축 물 | 사옥 외 | 2,287 | 미국 | 161,720"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "건 물 | 중국 외 | 12,133 | 서울 외 | 40,544"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": null,
+      "direction": -1,
+      "evidence": "해운 경기는 세계 경제 및 정치 상황, 계절적 요인 및 주요 원재료인 유가 등에 상당한 영향을 받으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사 리스크관리 규정에 따라 재무위험관리조직인 재무팀에서 현금흐름, 환율, 금리, 금전사고/윤리경영 등을 관리하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사 리스크관리 규정에 따라 재무위험관리조직인 재무팀에서 현금흐름, 환율, 금리, 금전사고/윤리경영 등을 관리하고 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"컨테이너 운송\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"컨테이너 | 용역 | 컨테이너 운송 | 9,243,368 | 10,147,727 | 6,964,576 | 84.9%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"벌크화물 운송\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"벌크 | 용역 | 벌크화물 운송 | 1,447,048 | 1,337,434 | 1,243,093 | 13.3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"터미널운영 등\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"기타(*) | 용역 | 터미널운영 등 | 201,027 | 215,063 | 193,300 | 1.8%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항만\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"해운업은 철강, 물류, 조선, 항만 등 전방 산업 발전에 크게 기여하는 한편\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대글로비스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 얼라이언스 소속선사, GS 칼텍스, 현대글로비스 등 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GS 칼텍스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 얼라이언스 소속선사, GS 칼텍스, 현대글로비스 등 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"연료유\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"컨테이너 및 벌크 | 원 재 료 | 연료유 | 선박연료 | 1,347,759 | 100% | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"토 지 | 부산 | 1,607 | 대만 | 92,045\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"구 축 물 | 사옥 외 | 2,287 | 미국 | 161,720\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"건 물 | 중국 외 | 12,133 | 서울 외 | 40,544\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"해운 경기는 세계 경제 및 정치 상황, 계절적 요인 및 주요 원재료인 유가 등에 상당한 영향을 받으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사 리스크관리 규정에 따라 재무위험관리조직인 재무팀에서 현금흐름, 환율, 금리, 금전사고/윤리경영 등을 관리하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사 리스크관리 규정에 따라 재무위험관리조직인 재무팀에서 현금흐름, 환율, 금리, 금전사고/윤리경영 등을 관리하고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/011200_20260318001444.txt"
+}

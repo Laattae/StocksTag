@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PC 게임",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "게임 | PC | , 등 | 1,184,564 | 35.61%"
+    },
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "모바일 | , 등 | 1,740,689 | 52.32%"
+    },
+    {
+      "axis": "product",
+      "value": "콘솔 게임",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "콘솔 | , 등 | 42,806 | 1.29%"
+    },
+    {
+      "axis": "product",
+      "value": "광고 및 콘텐츠",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "광고(주1) | 광고 및 콘텐츠 | 323,179 | 9.72%"
+    },
+    {
+      "axis": "customer",
+      "value": "Valve Corporation",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (PC) | Valve Corporation | 전세계"
+    },
+    {
+      "axis": "customer",
+      "value": "Google",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Google | 한국,일본,인도"
+    },
+    {
+      "axis": "customer",
+      "value": "Apple",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Apple |"
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft Corporation",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Microsoft Corporation | 전세계"
+    },
+    {
+      "axis": "customer",
+      "value": "Sony Interactive Entertainment LLC",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Sony Interactive Entertainment LLC |"
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "게임 | 대한민국 | 274,655 | 195,355 | 105,087"
+    },
+    {
+      "axis": "region",
+      "value": "아시아",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "아시아 | 2,425,245 | 2,294,220 | 1,613,273"
+    },
+    {
+      "axis": "region",
+      "value": "아메리카/유럽",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "아메리카/유럽 | 279,044 | 203,023 | 179,086"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당기말 및 전기말 현재 다른 모든 변수가 일정하고 원화의 환율이 5% 변동할 때 이와 같은 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"PC 게임\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"게임 | PC | , 등 | 1,184,564 | 35.61%\"}, {\"axis\": \"product\", \"value\": \"모바일 게임\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"모바일 | , 등 | 1,740,689 | 52.32%\"}, {\"axis\": \"product\", \"value\": \"콘솔 게임\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"콘솔 | , 등 | 42,806 | 1.29%\"}, {\"axis\": \"product\", \"value\": \"광고 및 콘텐츠\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"광고(주1) | 광고 및 콘텐츠 | 323,179 | 9.72%\"}, {\"axis\": \"customer\", \"value\": \"Valve Corporation\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (PC) | Valve Corporation | 전세계\"}, {\"axis\": \"customer\", \"value\": \"Google\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Google | 한국,일본,인도\"}, {\"axis\": \"customer\", \"value\": \"Apple\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Mobile) | Apple |\"}, {\"axis\": \"customer\", \"value\": \"Microsoft Corporation\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Microsoft Corporation | 전세계\"}, {\"axis\": \"customer\", \"value\": \"Sony Interactive Entertainment LLC\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"PLAYERUNKNOWN'SBATTLEGROUNDS (Console) | Sony Interactive Entertainment LLC |\"}, {\"axis\": \"region\", \"value\": \"한국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"게임 | 대한민국 | 274,655 | 195,355 | 105,087\"}, {\"axis\": \"region\", \"value\": \"아시아\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"아시아 | 2,425,245 | 2,294,220 | 1,613,273\"}, {\"axis\": \"region\", \"value\": \"아메리카/유럽\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"아메리카/유럽 | 279,044 | 203,023 | 179,086\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"당기말 및 전기말 현재 다른 모든 변수가 일정하고 원화의 환율이 5% 변동할 때 이와 같은 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"}]}"
+  ],
+  "text_path": "data/reports/259960_20260515002689.txt"
+}

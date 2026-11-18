@@ -1,0 +1,244 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Copolyester 수지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅, 접착용 Polyester 수지"
+    },
+    {
+      "axis": "product",
+      "value": "백신제제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "백신제제 | 스카이조스터, 스카이셀플루 외"
+    },
+    {
+      "axis": "product",
+      "value": "CDMO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CDMO 사업의 경우 시장상황 및 주요 계약조건 등을 고려하여"
+    },
+    {
+      "axis": "product",
+      "value": "천연물 관절염 치료제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Life Science Biz.에서 천연물 관절염 치료제, 혈액순환 개선제 등 자체 개발한 신약"
+    },
+    {
+      "axis": "product",
+      "value": "스팀",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기타사업(SK멀티유틸리티) : 스팀, 전기 등당사의 2025년 연결기준 매출액은"
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SK멀티유틸리티 사업의 주요 제품은 열(스팀)과 전기이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PTA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Copolyester 수지의 주요 원재료인 PTA(고순도테레프탈산, Purified Terephthalic Acid)는"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MEG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유연탄",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전력, 스팀 등 유틸리티 공급은 유연탄, 우드칩 등을 원재료로 사용하여 스팀 및 전기를 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 원재료인 LNG는 국외 특수관계자인 SK GAS INTERNATIONAL PTE.로부터 전량 매입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과"
+    },
+    {
+      "axis": "region",
+      "value": "청주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과"
+    },
+    {
+      "axis": "region",
+      "value": "안동",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국 연태, 산터우의 2개 생산 공장 그리고 중국, 미국, 독일, 일본, 말레이시아 등에서"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "그리고 중국, 미국, 독일, 일본, 말레이시아 등에서 현지 법인 및 지역 사무소를 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "글로벌 금융시장의 변동성 확대와 지속된 미국 달러 강세로 원·달러 환율이 높은 수준을 유지하며 수입 제품 원가 부담이 이어졌습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다. 해당 원재료들은 유가 및 환율의 영향을 직접적으로 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Copolyester",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "Copolyester | 43% | 43% | 42% |"
+    },
+    {
+      "axis": "product",
+      "value": "DMT",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "SKYDMT | 90% | 90% | 90% |"
+    },
+    {
+      "axis": "product",
+      "value": "Polyester 접착제",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "SKYBON (Solid 판매 기준) | 10% | 10% | 10% |"
+    },
+    {
+      "axis": "product",
+      "value": "독감백신",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "독감백신 | 22% | 23% | 30% |"
+    },
+    {
+      "axis": "product",
+      "value": "대상포진백신",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "대상포진백신 | 42% | 35% | 44% |"
+    },
+    {
+      "axis": "product",
+      "value": "수두백신",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "수두백신 | 34% | 52% | 43% |"
+    },
+    {
+      "axis": "product",
+      "value": "스팀",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SK멀티유틸리티 사업의 주요 제품은 열(스팀)과 전기이며, 집단에너지사업자이자 의제 구역 전기사업자로서 공급구역 내 수요처에 스팀과 전기를 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화학제품은 자동차, 전자, 건설 등의 산업에 소재를 공급하는 기초소재 산업으로 생활용품, 산업용품, 건축자재 등의 소재로 쓰임은 물론"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "고부가 주력 시장인 화장품 시장에서는 재활용된 원료를 일부 함유한 ECOTRIA 시리즈를 중심으로 한 성장기반을 확보하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "의류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "유기용매를 사용하지 않는 무용제 타입의 Hotmelt 제품은 내세탁성이 뛰어나 의류용 열전사 필름의 접착제로 사용되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "울산시 분산에너지 특화지역 지정과 함께 분산에너지 사업자로 선정됨으로써 지역 산업단지에 보다 비용 효율적인 에너지 공급이 가능해졌습니다."
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "독일의 최대 경쟁사가 Cost 상승으로 인해 2023년부터 생산 및 가동을 중단하여, 시장 내 DMT 공급부족이 심화되었고"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Main 시장인 중국 DMT 시장 점유율 추이 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Life ScienceBiz.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Life ScienceBiz."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Copolyester 수지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅, 접착용 Polyester 수지\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"백신제제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"백신제제 | 스카이조스터, 스카이셀플루 외\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CDMO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"CDMO 사업의 경우 시장상황 및 주요 계약조건 등을 고려하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연물 관절염 치료제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Life Science Biz.에서 천연물 관절염 치료제, 혈액순환 개선제 등 자체 개발한 신약\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스팀\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기타사업(SK멀티유틸리티) : 스팀, 전기 등당사의 2025년 연결기준 매출액은\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SK멀티유틸리티 사업의 주요 제품은 열(스팀)과 전기이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PTA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Copolyester 수지의 주요 원재료인 PTA(고순도테레프탈산, Purified Terephthalic Acid)는\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MEG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유연탄\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전력, 스팀 등 유틸리티 공급은 유연탄, 우드칩 등을 원재료로 사용하여 스팀 및 전기를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 LNG는 국외 특수관계자인 SK GAS INTERNATIONAL PTE.로부터 전량 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"청주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"안동\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중국 연태, 산터우의 2개 생산 공장 그리고 중국, 미국, 독일, 일본, 말레이시아 등에서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"그리고 중국, 미국, 독일, 일본, 말레이시아 등에서 현지 법인 및 지역 사무소를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 금융시장의 변동성 확대와 지속된 미국 달러 강세로 원·달러 환율이 높은 수준을 유지하며 수입 제품 원가 부담이 이어졌습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다. 해당 원재료들은 유가 및 환율의 영향을 직접적으로 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"Copolyester\", \"weight\": 0.43, \"direction\": null, \"evidence\": \"Copolyester | 43% | 43% | 42% |\"}, {\"axis\": \"product\", \"value\": \"DMT\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"SKYDMT | 90% | 90% | 90% |\"}, {\"axis\": \"product\", \"value\": \"Polyester 접착제\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"SKYBON (Solid 판매 기준) | 10% | 10% | 10% |\"}, {\"axis\": \"product\", \"value\": \"독감백신\", \"weight\": 0.22, \"direction\": null, \"evidence\": \"독감백신 | 22% | 23% | 30% |\"}, {\"axis\": \"product\", \"value\": \"대상포진백신\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"대상포진백신 | 42% | 35% | 44% |\"}, {\"axis\": \"product\", \"value\": \"수두백신\", \"weight\": 0.34, \"direction\": null, \"evidence\": \"수두백신 | 34% | 52% | 43% |\"}, {\"axis\": \"product\", \"value\": \"스팀\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"SK멀티유틸리티 사업의 주요 제품은 열(스팀)과 전기이며, 집단에너지사업자이자 의제 구역 전기사업자로서 공급구역 내 수요처에 스팀과 전기를 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"화학제품은 자동차, 전자, 건설 등의 산업에 소재를 공급하는 기초소재 산업으로 생활용품, 산업용품, 건축자재 등의 소재로 쓰임은 물론\"}, {\"axis\": \"application\", \"value\": \"화장품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"고부가 주력 시장인 화장품 시장에서는 재활용된 원료를 일부 함유한 ECOTRIA 시리즈를 중심으로 한 성장기반을 확보하고 있으며\"}, {\"axis\": \"application\", \"value\": \"의류\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"유기용매를 사용하지 않는 무용제 타입의 Hotmelt 제품은 내세탁성이 뛰어나 의류용 열전사 필름의 접착제로 사용되고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"울산시 분산에너지 특화지역 지정과 함께 분산에너지 사업자로 선정됨으로써 지역 산업단지에 보다 비용 효율적인 에너지 공급이 가능해졌습니다.\"}, {\"axis\": \"region\", \"value\": \"독일\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"독일의 최대 경쟁사가 Cost 상승으로 인해 2023년부터 생산 및 가동을 중단하여, 시장 내 DMT 공급부족이 심화되었고\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"Main 시장인 중국 DMT 시장 점유율 추이 |\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Life ScienceBiz.\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Life ScienceBiz.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/285130_20260319000495.txt"
+}

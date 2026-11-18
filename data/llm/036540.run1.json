@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "메모리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%"
+    },
+    {
+      "axis": "product",
+      "value": "비메모리",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%"
+    },
+    {
+      "axis": "application",
+      "value": "컴퓨터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%"
+    },
+    {
+      "axis": "application",
+      "value": "산업용",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%"
+    },
+    {
+      "axis": "application",
+      "value": "PC",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Micron",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사의 사업분야는 반도체 산업의 후공정 분야인 반도체 조립 및 TEST제품을 주력으로 생산하고 있으며, 최고의 기술력을 바탕으로 삼성전자, Micron, SK하이닉스 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Solder Ball",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "반도체 | 원재료 | Solder Ball | 칩과 기판을 연결하여 전기적 신호를 전달하는 구 형태의 납 | 2,042 | 1.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "PCB | Chip과 주변회로를 연결하기 위한 PCB기판 | 125,813 | 87.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "EMC",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "EMC | Wire bonding된 반제품을 PKG화하는 성형재료 | 2,829 | 2.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Gold Wire",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Gold Wire | Chip의 Pad와 L/F의 Lead간을 연결해주는 순도 99.99의 금선 | 13,002 | 9.0%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SFA 반도체 | 패키징 | 충청남도 천안시 서북구 백석공단 7로 16 | 반도체 부품 제조 | 본사"
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SFA Semicon Philippines | 패키징 | Clark Freeport Zone, Pampanga, Philippines | 반도체 부품 제조 | 필리핀법인"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "- PCB : 고사양 제품 비중 상승 및 환율 변동에 따른 단가 상승"
+    },
+    {
+      "axis": "exposure",
+      "value": "금가격",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "- Gold Wire : 금가격 상승"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"메모리\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%\"}, {\"axis\": \"product\", \"value\": \"비메모리\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%\"}, {\"axis\": \"application\", \"value\": \"컴퓨터\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"반도체 제조 | 제품 | 메모리 | 컴퓨터관련 주변장치 및 저장장치 | 삼성전자(주) 외 | 298,306 | 81.2%\"}, {\"axis\": \"application\", \"value\": \"산업용\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%\"}, {\"axis\": \"application\", \"value\": \"PC\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"비메모리 | 산업용, PC, VIDEO, AUDIO, 전력용 등 | 삼성전자(주) 외 | 66,621 | 18.1%\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Micron\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"최고의 기술력을 바탕으로 삼성전자, Micron 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사의 사업분야는 반도체 산업의 후공정 분야인 반도체 조립 및 TEST제품을 주력으로 생산하고 있으며, 최고의 기술력을 바탕으로 삼성전자, Micron, SK하이닉스 등 세계 유수의 반도체 업체들에게 최첨단 반도체 패키징 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Solder Ball\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"반도체 | 원재료 | Solder Ball | 칩과 기판을 연결하여 전기적 신호를 전달하는 구 형태의 납 | 2,042 | 1.4%\"}, {\"axis\": \"raw_material\", \"value\": \"PCB\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"PCB | Chip과 주변회로를 연결하기 위한 PCB기판 | 125,813 | 87.6%\"}, {\"axis\": \"raw_material\", \"value\": \"EMC\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"EMC | Wire bonding된 반제품을 PKG화하는 성형재료 | 2,829 | 2.0%\"}, {\"axis\": \"raw_material\", \"value\": \"Gold Wire\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"Gold Wire | Chip의 Pad와 L/F의 Lead간을 연결해주는 순도 99.99의 금선 | 13,002 | 9.0%\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"SFA 반도체 | 패키징 | 충청남도 천안시 서북구 백석공단 7로 16 | 반도체 부품 제조 | 본사\"}, {\"axis\": \"region\", \"value\": \"필리핀\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"SFA Semicon Philippines | 패키징 | Clark Freeport Zone, Pampanga, Philippines | 반도체 부품 제조 | 필리핀법인\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"- PCB : 고사양 제품 비중 상승 및 환율 변동에 따른 단가 상승\"}, {\"axis\": \"exposure\", \"value\": \"금가격\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"- Gold Wire : 금가격 상승\"}]}"
+  ],
+  "text_path": "data/reports/036540_20260323000826.txt"
+}

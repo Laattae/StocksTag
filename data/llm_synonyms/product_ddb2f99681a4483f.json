@@ -1,0 +1,97 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "태양광모듈",
+      "synonyms": [
+        "태양광 모듈"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "폴리에틸렌",
+      "synonyms": [
+        "고밀도폴리에틸렌"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "하이브리드",
+      "synonyms": [
+        "하이브리드 시스템"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "할부금융",
+      "synonyms": [
+        "할부금융업"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "IP 라이선스",
+      "synonyms": [
+        "IP 라이선스 상품"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "OLED소재",
+      "synonyms": [
+        "OLED 소재",
+        "디스플레이 OLED 소재"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "가스터빈엔진",
+      "synonyms": [
+        "가스터빈 엔진"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "건물종합관리",
+      "synonyms": [
+        "건물종합관리업"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "바이오의약품",
+      "synonyms": [
+        "바이오 의약품"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "뷰티 디바이스",
+      "synonyms": [
+        "홈 뷰티 디바이스",
+        "홈뷰티 디바이스"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "생명보험",
+      "synonyms": [
+        "생명보험사업"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "석유·화학제품",
+      "synonyms": [
+        "석유ㆍ화학제품"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "실리콘음극재",
+      "synonyms": [
+        "실리콘 음극재"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "토목공사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주택공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "플랜트공사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "레미콘 | 건설기초자재 | 137,414 | 18.4% | 유진기업㈜, ㈜삼표산업"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철근 | 건설기초자재 | 93,947 | 12.6% | 동국제강㈜, 현대제철㈜"
+    },
+    {
+      "axis": "raw_material",
+      "value": "가구류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "가구류 | 건설마감자재 | 71,217 | 9.6% | 현대리바트㈜"
+    },
+    {
+      "axis": "raw_material",
+      "value": "시멘트",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "시멘트 | 건설기초자재 | 18,245 | 2.4% | ㈜삼표시멘트"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본사 | 자가보유 | 서울, 강원도 외 | 404 | 1,252"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "본점 | 자가보유 | 경기도 안성시 공도읍 마정리 112-69 외 14필지 | 1,570 | 707"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "자가보유 | 세종시 조치원읍 신흥리 189-5 외 6필지 | 1,487 | 406"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "아파트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 최대주주인 DL이앤씨㈜와 \"e편한세상\"이라는 업계 최고수준의 아파트 브랜드를 공유하여 사용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주택재개발정비사업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "'25년 2월, 아크로의 차별화된 가치는 '한남5구역 주택재개발정비사업' 시공사 선정에서도 입증되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인테리어 솔루션",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 1분기, DL이앤씨는 국내 건설사 최초로 공간에 취향을 더한 인테리어 솔루션 '디 셀렉션(D Selection)'을 선보였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "주거시설",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전문적인 기술, 독창적인 디자인, 그리고 차별화된 서비스를 통해 더 나은 주거 문화를 만들어가고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "조합원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "총 1,170명의 조합원 가운데 92.4%인 1,081명이 찬성표를 던지며 압도적인 지지를 보낸 것은 아크로의 견고한 시장 신뢰도를 보여주는 사례입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국가경제에 후행하는 건설경기의 특성상 정부의 경제상황이나 정책목적에 따라 건설관련 각종법령이나 제도 또한 변경되어 건설업체들은 이러한 제도 변화에 따라 많은 영향을 받아 왔습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "온실가스 배출권",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "2026년부터 '온실가스 배출거래제'로 편입되어 할당대상업체로서 제도를 이행하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"토목공사\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주택공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플랜트공사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사가 수행하는 사업은 주요 공사형태 및 용역 제공방식에 따라 사업을 토목, 주택, 플랜트, 발전/환경사업 등으로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"레미콘 | 건설기초자재 | 137,414 | 18.4% | 유진기업㈜, ㈜삼표산업\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철근 | 건설기초자재 | 93,947 | 12.6% | 동국제강㈜, 현대제철㈜\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"가구류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"가구류 | 건설마감자재 | 71,217 | 9.6% | 현대리바트㈜\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"시멘트 | 건설기초자재 | 18,245 | 2.4% | ㈜삼표시멘트\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"본사 | 자가보유 | 서울, 강원도 외 | 404 | 1,252\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"본점 | 자가보유 | 경기도 안성시 공도읍 마정리 112-69 외 14필지 | 1,570 | 707\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"자가보유 | 세종시 조치원읍 신흥리 189-5 외 6필지 | 1,487 | 406\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아파트\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 최대주주인 DL이앤씨㈜와 \\\"e편한세상\\\"이라는 업계 최고수준의 아파트 브랜드를 공유하여 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주택재개발정비사업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"'25년 2월, 아크로의 차별화된 가치는 '한남5구역 주택재개발정비사업' 시공사 선정에서도 입증되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인테리어 솔루션\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 1분기, DL이앤씨는 국내 건설사 최초로 공간에 취향을 더한 인테리어 솔루션 '디 셀렉션(D Selection)'을 선보였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"주거시설\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전문적인 기술, 독창적인 디자인, 그리고 차별화된 서비스를 통해 더 나은 주거 문화를 만들어가고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"조합원\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"총 1,170명의 조합원 가운데 92.4%인 1,081명이 찬성표를 던지며 압도적인 지지를 보낸 것은 아크로의 견고한 시장 신뢰도를 보여주는 사례입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국가경제에 후행하는 건설경기의 특성상 정부의 경제상황이나 정책목적에 따라 건설관련 각종법령이나 제도 또한 변경되어 건설업체들은 이러한 제도 변화에 따라 많은 영향을 받아 왔습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"온실가스 배출권\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"2026년부터 '온실가스 배출거래제'로 편입되어 할당대상업체로서 제도를 이행하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/375500_20260814003447.txt"
+}

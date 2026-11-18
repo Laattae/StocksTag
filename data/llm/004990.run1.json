@@ -1,0 +1,446 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 7,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%, 할인점 부문이 5조 4,713억원으로 39.8%이며"
+    },
+    {
+      "axis": "product",
+      "value": "할인점",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%, 할인점 부문이 5조 4,713억원으로 39.8%이며"
+    },
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "ABS",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "동박",
+      "weight": 0.88,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 주요 제품의 매출액 비중은 Elecfoil 88.4%, 기타 11.6%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄산음료",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "가장 큰 비중을 차지하고 있는 품목은 탄산음료로, 주요 제품은 '칠성사이다'와'펩시콜라'입니다."
+    },
+    {
+      "axis": "product",
+      "value": "소주",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "주요 품목은 소주와 맥주, 청주 등입니다. 2022년 9월에 출시한 제로슈거 소주 '새로'가 지속적인 인기를 끌고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Naphtha",
+      "weight": 0.51,
+      "evidence": "매입액 5,015,052, 비중(%) 50.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "BPA",
+      "weight": 0.4,
+      "evidence": "매입액 632,481, 비중(%) 40.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.91,
+      "evidence": "매입액 340,510, 비중(%) 91.8"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.1,
+      "evidence": "롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "evidence": "롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "2025년 국제 유가는 지정학적 불안에 따른 공급 차질 우려와 미국의 보호무역주의 강화에 따른 경기 둔화 우려가 교차하며 높은 변동성을 기록하였으나, 연간 전체로는 전년 대비 하락세를 나타냈습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "서남아의 통화 가치 하락과 미주의 통상 이슈 등 지역별 악재가 겹치며 시장 회복에 제약이 따랐습니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄산음료",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "음료부문 제 품상 품기 타 탄산음료 수 출 - - - - - - 내 수 120,029 673,819 120,403 645,898"
+    },
+    {
+      "axis": "product",
+      "value": "소주",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주류부문 소주 수 출 - - - - - - 내 수 176 3,252 107 3,536 37 1,405"
+    },
+    {
+      "axis": "customer",
+      "value": "PepsiCo, Inc.",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당기말 현재 연결회사와 PepsiCo, Inc. 및 Quaker Global Investments B.V.간 Cooperation Agreement에 따르면"
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(나) 대리점을 통해 필리핀 전역에서 영업활동 진행"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "이자율위험은 미래에 시장이자율 변동에 따라 예금과 차입금에서 발생하는 이자비용및 이자수익이 변동될 위험으로서"
+    },
+    {
+      "axis": "product",
+      "value": "양갱",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제로 트렌드에 부합하는 당류 제로, 설탕 제로인 양갱 개발 (소비자 니즈 충족 및 매출 증대 기여)"
+    },
+    {
+      "axis": "product",
+      "value": "초콜릿",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "프리미엄 가나 산 카카오를 사용한 초콜릿과 생크림이 블렌딩된 필링이 들어간 프리미엄 파운드 케이크 제품 개발"
+    },
+    {
+      "axis": "product",
+      "value": "단백질바",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당류 50% 다운, 칼로리 25% 다운한 다이어트를 위한 99kcal 단백질 바 개발(단백질 6g)"
+    },
+    {
+      "axis": "product",
+      "value": "만두",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "육즙 및 중국식 향료 활용한 프리미엄급 만두 개발을 통한 신규 브랜드(식사이론) 매출 증대"
+    },
+    {
+      "axis": "product",
+      "value": "햄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기존 제품 손익 개선을 통한 매출 증대 의성마늘 6종(구이햄, 김밥햄, 투툼김밥햄, 쵸핑햄, 햄 골드라벨, 프랑크)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "생두",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "EA와 Water Process 디카페인 호환 사용 통한 생두 수급 효율화 목적"
+    },
+    {
+      "axis": "raw_material",
+      "value": "팜유",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "롯데 GRS 전용 제품을 위한 RSPO 인증 팜유류를 적용한 신제품 개발을 통한 매출 기여"
+    },
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "백화점은 매장면적의 합계가 3천 제곱 미터 이상이며 다양한 상품을 구매할 수 있도록 현대적 판매시설과 소비자 편의시설이 함께 설치된 점포를 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "할인점",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "할인점(대형마트)의 법률적 정의는 용역의 제공장소를 제외한 매장면적의 합계가 3천제곱미터 이상인 점포의 집단으로서 식품, 가전 및 생활용품을 중심으로 점원의 도움 없이 소비자에게 소매하는 점포의 집단입니다."
+    },
+    {
+      "axis": "product",
+      "value": "슈퍼마켓",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "슈퍼마켓은 근거리 지역 상권에서 일상생활에 필요한 식료품과 생필품을 원스톱으로 구매할 수 있도록 지역별 특성을 반영한 유통업태입니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "롯데쇼핑은 국내에서의 확고한 위상과 유통 노하우를 바탕으로 베트남, 인도네시아 국가를 전략적 진출국가로 선정하여 신규점포 오픈 및 활발한 M&A 활동을 통해 빠른 현지화 전략을 실현해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "롯데쇼핑은 국내에서의 확고한 위상과 유통 노하우를 바탕으로 베트남, 인도네시아 국가를 전략적 진출국가로 선정하여 신규점포 오픈 및 활발한 M&A 활동을 통해 빠른 현지화 전략을 실현해 나가고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "소비지출",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "동박",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전지소재산업의 핵심인 동박(Elecfoil)은 얇은 구리박(Copper Foil)으로, 황산구리 전해액에서 전기분해를 통해 구리를 얇게 석출해 만드는 첨단 소재입니다."
+    },
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다."
+    },
+    {
+      "axis": "product",
+      "value": "합성수지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "나아가 이들 기초 유분을 원료로 다양한 합성수지(ABS, PC, PP)에 최종 소비재(가전, IT, 자동차 등)의 요구에 맞춰 고내열, 고강성, 고충격 등의 기능성을 부여함으로써 추가적인 부가가치를 산출하는 산업 전반을 뜻합니다."
+    },
+    {
+      "axis": "product",
+      "value": "요소수",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "EUROX®, 유록스® | SCR용 요소수 | - SCR(자동차 배기가스 중 질소 산화물 환원 촉매)- ADBLUE 상표 라이센스를 취득하여 EUROX와 함께 사용 중"
+    },
+    {
+      "axis": "product",
+      "value": "건축용 첨가제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MECELLOSE®, 메셀로스® | MC, HEMC, HPMC | - 건축용 첨가제, 타일접착제, 수용성 증점제 등으로 사용"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "둘째, 인쇄회로기판(PCB)의 신호 전달 통로인 회로박입니다. 이는 AI 가속기 및 고성능 IT 기기 시장 확대에 따라 그 중요성이 커지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "정밀화학산업은 정유, 석유화학, 석탄, 비료 등 기초 화학산업으로부터 원료를 공급받아 자동차, 전자, 생명공학 등 다양한 산업에 필수 원·부자재를 공급하는 중간 소재형 산업입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "나프타",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "암모니아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인)"
+    },
+    {
+      "axis": "region",
+      "value": "스페인",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인)"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "ECH",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "정밀화학 사업의 ECH는 글로벌 경기침체로 인한 전방산업 시황 악화 속에서 고가지역 판매 확대 등 손익 개선 노력을 지속하였고"
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "가성소다 또한 지속적인 수요처 발굴을 통해 판매량을 확대하며 손익 개선을 위해 최선의 노력을 다하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "유록스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유록스는 고유가 및 경기악화로 인한 화물차 운행량 감소 등 어려운 사업 환경 속에서도 주입장비 확대 및 꾸준한 브랜드 마케팅 활동 등을 통해"
+    },
+    {
+      "axis": "product",
+      "value": "암모니아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "메셀로스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "건축용 첨가제로 사용되는 메셀로스는 신규격 및 신규 용도, 시장 개발로 글로벌 건축 시장의 침체에도 불구하고 안정적인 수익을 확보했으며"
+    },
+    {
+      "axis": "product",
+      "value": "Elecfoil",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "핵심기술을 바탕으로 2차전지 핵심소재인 Elecfoil 제조 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "칠성사이다",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "‘칠성사이다 제로’는 칠성사이다 70년 제조 노하우를 담은 제품으로 기존 제품의 맛과 향을 그대로 유지한 제로 칼로리 제품이며"
+    },
+    {
+      "axis": "product",
+      "value": "처음처럼",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "'처음처럼'은 강원도 '경월' 소주로 출발해서 대한민국 초록색 소주병의 시초인 '그린'과 강원도를 상징하는 '산' 소주를 이은 대한민국 대표 소주 브랜드입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "최근 강력해진 유럽의 배출가스 규제와 글로벌 완성차 업체의 전기차 개발과 경쟁적인 판매계획으로 xEV시장의 확대가 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "건축 시장",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "건축용 첨가제로 사용되는 메셀로스는 신규격 및 신규 용도, 시장 개발로 글로벌 건축 시장의 침체에도 불구하고 안정적인 수익을 확보했으며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "설비 Capacity는 여수/대산/울산 등 국내 사업장 기준입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "세계 최대 수요시장인 중국의 CHINACOAT에 참가하는 등 신규 증설물량의 판로를 개척하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고"
+    },
+    {
+      "axis": "region",
+      "value": "스페인",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "국제유가는 주요 산유국 중심으로 공급이 확대되며 하락세가 지속되고 있고, 원당 및오렌지 농축액의 가격도 전년 대비 안정적인 흐름을 보이고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%, 할인점 부문이 5조 4,713억원으로 39.8%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할인점\",\n      \"weight\": 0.39,\n      \"direction\": null,\n      \"evidence\": \"2025년 매출은 백화점 부문이 3조 3,394억원으로 전체 매출액의 24.3%, 할인점 부문이 5조 4,713억원으로 39.8%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ABS\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동박\",\n      \"weight\": 0.88,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 주요 제품의 매출액 비중은 Elecfoil 88.4%, 기타 11.6%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄산음료\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"가장 큰 비중을 차지하고 있는 품목은 탄산음료로, 주요 제품은 '칠성사이다'와'펩시콜라'입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소주\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"주요 품목은 소주와 맥주, 청주 등입니다. 2022년 9월에 출시한 제로슈거 소주 '새로'가 지속적인 인기를 끌고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Naphtha\",\n      \"weight\": 0.51,\n      \"evidence\": \"매입액 5,015,052, 비중(%) 50.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"BPA\",\n      \"weight\": 0.4,\n      \"evidence\": \"매입액 632,481, 비중(%) 40.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.91,\n      \"evidence\": \"매입액 340,510, 비중(%) 91.8\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.1,\n      \"evidence\": \"롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"evidence\": \"롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"2025년 국제 유가는 지정학적 불안에 따른 공급 차질 우려와 미국의 보호무역주의 강화에 따른 경기 둔화 우려가 교차하며 높은 변동성을 기록하였으나, 연간 전체로는 전년 대비 하락세를 나타냈습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"서남아의 통화 가치 하락과 미주의 통상 이슈 등 지역별 악재가 겹치며 시장 회복에 제약이 따랐습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": []}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄산음료\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"음료부문 제 품상 품기 타 탄산음료 수 출 - - - - - - 내 수 120,029 673,819 120,403 645,898\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소주\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주류부문 소주 수 출 - - - - - - 내 수 176 3,252 107 3,536 37 1,405\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"PepsiCo, Inc.\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당기말 현재 연결회사와 PepsiCo, Inc. 및 Quaker Global Investments B.V.간 Cooperation Agreement에 따르면\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"필리핀\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(나) 대리점을 통해 필리핀 전역에서 영업활동 진행\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래에 시장이자율 변동에 따라 예금과 차입금에서 발생하는 이자비용및 이자수익이 변동될 위험으로서\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"양갱\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제로 트렌드에 부합하는 당류 제로, 설탕 제로인 양갱 개발 (소비자 니즈 충족 및 매출 증대 기여)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초콜릿\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"프리미엄 가나 산 카카오를 사용한 초콜릿과 생크림이 블렌딩된 필링이 들어간 프리미엄 파운드 케이크 제품 개발\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"단백질바\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당류 50% 다운, 칼로리 25% 다운한 다이어트를 위한 99kcal 단백질 바 개발(단백질 6g)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"만두\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"육즙 및 중국식 향료 활용한 프리미엄급 만두 개발을 통한 신규 브랜드(식사이론) 매출 증대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"햄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기존 제품 손익 개선을 통한 매출 증대 의성마늘 6종(구이햄, 김밥햄, 투툼김밥햄, 쵸핑햄, 햄 골드라벨, 프랑크)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"생두\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"EA와 Water Process 디카페인 호환 사용 통한 생두 수급 효율화 목적\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"팜유\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"롯데 GRS 전용 제품을 위한 RSPO 인증 팜유류를 적용한 신제품 개발을 통한 매출 기여\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"백화점\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"백화점은 매장면적의 합계가 3천 제곱 미터 이상이며 다양한 상품을 구매할 수 있도록 현대적 판매시설과 소비자 편의시설이 함께 설치된 점포를 의미합니다.\"}, {\"axis\": \"product\", \"value\": \"할인점\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"할인점(대형마트)의 법률적 정의는 용역의 제공장소를 제외한 매장면적의 합계가 3천제곱미터 이상인 점포의 집단으로서 식품, 가전 및 생활용품을 중심으로 점원의 도움 없이 소비자에게 소매하는 점포의 집단입니다.\"}, {\"axis\": \"product\", \"value\": \"슈퍼마켓\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"슈퍼마켓은 근거리 지역 상권에서 일상생활에 필요한 식료품과 생필품을 원스톱으로 구매할 수 있도록 지역별 특성을 반영한 유통업태입니다.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"롯데쇼핑은 국내에서의 확고한 위상과 유통 노하우를 바탕으로 베트남, 인도네시아 국가를 전략적 진출국가로 선정하여 신규점포 오픈 및 활발한 M&A 활동을 통해 빠른 현지화 전략을 실현해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"롯데쇼핑은 국내에서의 확고한 위상과 유통 노하우를 바탕으로 베트남, 인도네시아 국가를 전략적 진출국가로 선정하여 신규점포 오픈 및 활발한 M&A 활동을 통해 빠른 현지화 전략을 실현해 나가고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"소비지출\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"동박\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전지소재산업의 핵심인 동박(Elecfoil)은 얇은 구리박(Copper Foil)으로, 황산구리 전해액에서 전기분해를 통해 구리를 얇게 석출해 만드는 첨단 소재입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성수지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"나아가 이들 기초 유분을 원료로 다양한 합성수지(ABS, PC, PP)에 최종 소비재(가전, IT, 자동차 등)의 요구에 맞춰 고내열, 고강성, 고충격 등의 기능성을 부여함으로써 추가적인 부가가치를 산출하는 산업 전반을 뜻합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"요소수\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"EUROX®, 유록스® | SCR용 요소수 | - SCR(자동차 배기가스 중 질소 산화물 환원 촉매)- ADBLUE 상표 라이센스를 취득하여 EUROX와 함께 사용 중\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건축용 첨가제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MECELLOSE®, 메셀로스® | MC, HEMC, HPMC | - 건축용 첨가제, 타일접착제, 수용성 증점제 등으로 사용\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"둘째, 인쇄회로기판(PCB)의 신호 전달 통로인 회로박입니다. 이는 AI 가속기 및 고성능 IT 기기 시장 확대에 따라 그 중요성이 커지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"정밀화학산업은 정유, 석유화학, 석탄, 비료 등 기초 화학산업으로부터 원료를 공급받아 자동차, 전자, 생명공학 등 다양한 산업에 필수 원·부자재를 공급하는 중간 소재형 산업입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"나프타\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"암모니아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"스페인\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"ECH\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"정밀화학 사업의 ECH는 글로벌 경기침체로 인한 전방산업 시황 악화 속에서 고가지역 판매 확대 등 손익 개선 노력을 지속하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"가성소다 또한 지속적인 수요처 발굴을 통해 판매량을 확대하며 손익 개선을 위해 최선의 노력을 다하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유록스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유록스는 고유가 및 경기악화로 인한 화물차 운행량 감소 등 어려운 사업 환경 속에서도 주입장비 확대 및 꾸준한 브랜드 마케팅 활동 등을 통해\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"암모니아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메셀로스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"건축용 첨가제로 사용되는 메셀로스는 신규격 및 신규 용도, 시장 개발로 글로벌 건축 시장의 침체에도 불구하고 안정적인 수익을 확보했으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Elecfoil\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"핵심기술을 바탕으로 2차전지 핵심소재인 Elecfoil 제조 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"칠성사이다\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"‘칠성사이다 제로’는 칠성사이다 70년 제조 노하우를 담은 제품으로 기존 제품의 맛과 향을 그대로 유지한 제로 칼로리 제품이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"처음처럼\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"'처음처럼'은 강원도 '경월' 소주로 출발해서 대한민국 초록색 소주병의 시초인 '그린'과 강원도를 상징하는 '산' 소주를 이은 대한민국 대표 소주 브랜드입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"최근 강력해진 유럽의 배출가스 규제와 글로벌 완성차 업체의 전기차 개발과 경쟁적인 판매계획으로 xEV시장의 확대가 예상됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건축 시장\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"건축용 첨가제로 사용되는 메셀로스는 신규격 및 신규 용도, 시장 개발로 글로벌 건축 시장의 침체에도 불구하고 안정적인 수익을 확보했으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"설비 Capacity는 여수/대산/울산 등 국내 사업장 기준입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"세계 최대 수요시장인 중국의 CHINACOAT에 참가하는 등 신규 증설물량의 판로를 개척하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"스페인\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"국제유가는 주요 산유국 중심으로 공급이 확대되며 하락세가 지속되고 있고, 원당 및오렌지 농축액의 가격도 전년 대비 안정적인 흐름을 보이고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/004990_20260316001619.txt"
+}

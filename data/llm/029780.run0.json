@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "단기카드대출",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회원의 일시적인 단기 자금 수요를 충족시키기 위해 사전에 회원에게 부여된 한도내에서 자금을 대여하고 도래하는 약정 결제일에 상환할 수 있도록 한 금융상품"
+    },
+    {
+      "axis": "product",
+      "value": "장기카드대출",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회원의 신용도 등을 고려하여 회원에게 신용을 공여하는 것으로, 회원이 선택한 대출기간, 상환방식에 따라 원금과 이자를 상환하는 장기 금융상품"
+    },
+    {
+      "axis": "product",
+      "value": "자동차할부",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "오토리스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "리스 대상 물건으로는 자동차, 산업용기기, 자동화기기, 사무용기기, 의료기기, 문서기기, 교육용기기, 건설장비 등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "민간소비지출",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 판매",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "카드금융은 금리 및 물가상승 등 경제 전망의 불확실성이 커지는 상황에서 우량 회원 중심의 안정적 잔고 관리를 강화하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "변동이자율 지급 조건인 외화 사채의 환율 변동위험과 이자율 변동위험을 회피하기 위해 원화기준 3조 5,829억원의 통화스왑계약을 체결하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "소비자 물가상승률",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본점 | 1 | - | - | - | - | - | - | 1 | 사업단 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 12 | 합계 | 3 | 1 | 2 | 2 | 2 | 1 | 2 | 13"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "본점 | 1 | - | - | - | - | - | - | 1 | 사업단 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 12 | 합계 | 3 | 1 | 2 | 2 | 2 | 1 | 2 | 13"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"회원의 신용도에 따라 한도를 부여하고, 회원이 가맹점에서 이용한 물품 및 용역 대금을 약정 결제일에 일시불 또는 할부로 납부할 수 있도록 여신기능을 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"단기카드대출\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회원의 일시적인 단기 자금 수요를 충족시키기 위해 사전에 회원에게 부여된 한도내에서 자금을 대여하고 도래하는 약정 결제일에 상환할 수 있도록 한 금융상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기카드대출\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회원의 신용도 등을 고려하여 회원에게 신용을 공여하는 것으로, 회원이 선택한 대출기간, 상환방식에 따라 원금과 이자를 상환하는 장기 금융상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차할부\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신차 및 중고차 구매시 할부거래법에 따라 할부금융 서비스를 제공하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오토리스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"리스 대상 물건으로는 자동차, 산업용기기, 자동화기기, 사무용기기, 의료기기, 문서기기, 교육용기기, 건설장비 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"민간소비지출\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 판매\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"할부금융 산업의 가장 큰 비중을 차지하는 자동차 할부시장은 내수시장에서의 자동차 판매대수와 밀접한 연관이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"카드금융은 금리 및 물가상승 등 경제 전망의 불확실성이 커지는 상황에서 우량 회원 중심의 안정적 잔고 관리를 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"변동이자율 지급 조건인 외화 사채의 환율 변동위험과 이자율 변동위험을 회피하기 위해 원화기준 3조 5,829억원의 통화스왑계약을 체결하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"소비자 물가상승률\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신용카드 산업은 민간소비지출, 소비자 물가상승률 등 거시경제 지표와 높은 상관관계를 보이며 경기 변동에 민감하게 반응합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"본점 | 1 | - | - | - | - | - | - | 1 | 사업단 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 12 | 합계 | 3 | 1 | 2 | 2 | 2 | 1 | 2 | 13\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"본점 | 1 | - | - | - | - | - | - | 1 | 사업단 | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 12 | 합계 | 3 | 1 | 2 | 2 | 2 | 1 | 2 | 13\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/029780_20260311004049.txt"
+}

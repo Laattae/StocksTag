@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Descum 장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(i) 리소그래피 공정 후의 감광액 잔류(scum)을 제거하는 공정으로, 반도체 패키징의 RDL profile과 bump 모양에 중요한 영향을 주는 Descum 장비"
+    },
+    {
+      "axis": "product",
+      "value": "fluxless reflow 장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(ii) 반도체 칩을 기판 위에 탑재하여 전기적 신호를 연결하여 주거나 전기적 연결 돌출부를 만들기 위해 웨이퍼에 형성한 solder bump 또는 solder ball을 용융시키는 bump reflow 공정으로, flux를 사용하지 않고 reflow 하는 fluxless reflow 장비"
+    },
+    {
+      "axis": "product",
+      "value": "Hot DI Water 가열장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(iii) 실리콘 웨이퍼, 액정유리 기판, 하드디스크 기판 등의 세정에 사용되는 초순수(DI Water)를 할로겐 램프로 가열하는 Hot DI Water 가열장비로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체 장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 현재 반도체 장비(패키징 장비)의 제조와 판매(그 부속 부품 및 기술 서비스 포함)라는 1개의 주된 사업부문을 영위하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "플라즈마발생장치",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "플라즈마발생장치외 | Plasma Source 주파수를발생시키는 장치"
+    },
+    {
+      "axis": "raw_material",
+      "value": "ROBOT",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "ROBOT 외 | Wafer 이송용 장치"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 장비 | 화성 동탄 (본사) | 104"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국 지역 법인인 SEMIgear Inc.(Texas Austin 소재) 1개의 종속회사가 운영되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "연결기업의 영업 실적은 환율 변동의 영향을 받습니다. ... 환율상승은 연결기업의 이익을 증가시킵니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 산업 설비투자",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "연결기업이 생산하는 장비의 가격 및 이익률은 연결기업의 주요 거래업체의 생산 설비 증설에 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 산업",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "글로벌 반도체 시장은 인공지능(AI) 산업의 비약적인 성장에 따라 메모리와 비메모리전 영역에서 구조적인 성장세를 나타내고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Descum 장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(i) 리소그래피 공정 후의 감광액 잔류(scum)을 제거하는 공정으로, 반도체 패키징의 RDL profile과 bump 모양에 중요한 영향을 주는 Descum 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"fluxless reflow 장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(ii) 반도체 칩을 기판 위에 탑재하여 전기적 신호를 연결하여 주거나 전기적 연결 돌출부를 만들기 위해 웨이퍼에 형성한 solder bump 또는 solder ball을 용융시키는 bump reflow 공정으로, flux를 사용하지 않고 reflow 하는 fluxless reflow 장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Hot DI Water 가열장비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(iii) 실리콘 웨이퍼, 액정유리 기판, 하드디스크 기판 등의 세정에 사용되는 초순수(DI Water)를 할로겐 램프로 가열하는 Hot DI Water 가열장비로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 반도체 장비(패키징 장비)의 제조와 판매(그 부속 부품 및 기술 서비스 포함)라는 1개의 주된 사업부문을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플라즈마발생장치\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"플라즈마발생장치외 | Plasma Source 주파수를발생시키는 장치\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"ROBOT\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"ROBOT 외 | Wafer 이송용 장치\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비 | 화성 동탄 (본사) | 104\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국 지역 법인인 SEMIgear Inc.(Texas Austin 소재) 1개의 종속회사가 운영되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"연결기업의 영업 실적은 환율 변동의 영향을 받습니다. ... 환율상승은 연결기업의 이익을 증가시킵니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 산업 설비투자\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"연결기업이 생산하는 장비의 가격 및 이익률은 연결기업의 주요 거래업체의 생산 설비 증설에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 산업\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 반도체 시장은 인공지능(AI) 산업의 비약적인 성장에 따라 메모리와 비메모리전 영역에서 구조적인 성장세를 나타내고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/031980_20260320000819.txt"
+}

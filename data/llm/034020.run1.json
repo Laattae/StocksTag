@@ -1,0 +1,229 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "원자로",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "우수한 주조 및 단조 설비와 기술 역량을 바탕으로 원전의 핵심 설비인 원자로, 증기발생기, 냉각펌프를 비롯해"
+    },
+    {
+      "axis": "product",
+      "value": "가스터빈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내외 복합화력발전소에 가스 터빈, 스팀 터빈 등 핵심 주기기를 제작·공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스팀터빈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내외 복합화력발전소에 가스 터빈, 스팀 터빈 등 핵심 주기기를 제작·공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력발전기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해상풍력발전기 등 신재생에너지 관련 기자재를 제작하여 국내외 플랜트 시장에 공급하는 대표적인 발전설비 제작 및 시공 전문 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Compact Equipment",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "두산밥캣은 연결기준으로 'Construction Equipment' 및 '유압기기'의 생산 및 판매 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "발전용 연료전지",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "두산퓨얼셀은 발전용 연료전지 기자재 공급 및 연료전지 발전소에 대한 장기유지보수서비스 제공을 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "이러한 전력수요의 증가는 풍력발전 등 재생에너지 확충과 함께, 수소 연료전환이 가능한 가스복합발전에 대한 단기 수요확대로 연결되고 있고"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "영동 신규양수 #1,2 주기기 | 6월 | 한국수력원자력 | 3,020"
+    },
+    {
+      "axis": "customer",
+      "value": "㈜삼천리이에스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜삼천리이에스 | 110,785 | 24.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철판",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "철판(원/KG당)-SS400/SM400 기준 | 국내 | 900 | 908 | 1,174"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "알루미늄 (원,USD/KG당) | 국내 | 3,813 | 3,193 | 2,630"
+    },
+    {
+      "axis": "raw_material",
+      "value": "NICKEL",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "NICKEL (원/KG당) | 국내 | 21,969 | 21,511 | 30,480"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 국내 창원에 위치한 본사를 포함하여 서울, 성남, 인천, 익산 등에 국내사업장이 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유럽, 미국, 중국 등 해외 공장과 사업소에서 사업활동을수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "체코",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 | 미국, 인도, 체코"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "발전/담수설비 제품은 단기적인 가격 변동이 크지 않으나, 환율, 유가, 원자재 가격 및 발주처에서 요구하는 발주 사양에 따라 가격이 변동합니다."
+    },
+    {
+      "axis": "product",
+      "value": "원자력발전",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "원자력발전은 일반적으로 완공까지 10년 이상 소요되는 장기 프로젝트로, 단기 경기변동 영향은 제한적입니다."
+    },
+    {
+      "axis": "product",
+      "value": "복합발전",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고"
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력발전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다."
+    },
+    {
+      "axis": "product",
+      "value": "발전용 연료전지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "두산퓨얼셀㈜는 PAFC 및 SOFC 연료전지 기술을 기반으로 하여 발전용 연료전지 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "지게차",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "국내 기업들의 물류합리화 추진에 힘입어 지게차 수요가 지속적으로 증가하고 있는 추세입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이러한 전력수요의 증가는 풍력발전 등 재생에너지 확충과 함께, 수소 연료전환이 가능한 가스복합발전에 대한 단기 수요확대로 연결되고 있고"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "팀코리아의 원전 해외수출 시 EPC 역무를 수행하는 한수원과 계약을 체결하는 것이 이러한 사례 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "단조소재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원자력발전은 높은 품질요건을 만족하기 위한 고품질 단조소재 및 증기발생기 튜브 등 특수소재와 부품의 적기 조달이 핵심 요소입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "창원공장 전체 유해화학물질 취급허가 품목은 황산, 가성소다, 2-푸란메탄올, 메틸알콜, 암모니아 5종으로 연간 475.4톤 취급 허가를 받고 안전하게 관리하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자로\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"우수한 주조 및 단조 설비와 기술 역량을 바탕으로 원전의 핵심 설비인 원자로, 증기발생기, 냉각펌프를 비롯해\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내외 복합화력발전소에 가스 터빈, 스팀 터빈 등 핵심 주기기를 제작·공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스팀터빈\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내외 복합화력발전소에 가스 터빈, 스팀 터빈 등 핵심 주기기를 제작·공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력발전기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"해상풍력발전기 등 신재생에너지 관련 기자재를 제작하여 국내외 플랜트 시장에 공급하는 대표적인 발전설비 제작 및 시공 전문 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Compact Equipment\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"두산밥캣은 연결기준으로 'Construction Equipment' 및 '유압기기'의 생산 및 판매 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전용 연료전지\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"두산퓨얼셀은 발전용 연료전지 기자재 공급 및 연료전지 발전소에 대한 장기유지보수서비스 제공을 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"이러한 전력수요의 증가는 풍력발전 등 재생에너지 확충과 함께, 수소 연료전환이 가능한 가스복합발전에 대한 단기 수요확대로 연결되고 있고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"영동 신규양수 #1,2 주기기 | 6월 | 한국수력원자력 | 3,020\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"㈜삼천리이에스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"㈜삼천리이에스 | 110,785 | 24.4%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철판\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"철판(원/KG당)-SS400/SM400 기준 | 국내 | 900 | 908 | 1,174\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 (원,USD/KG당) | 국내 | 3,813 | 3,193 | 2,630\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"NICKEL\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"NICKEL (원/KG당) | 국내 | 21,969 | 21,511 | 30,480\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내 창원에 위치한 본사를 포함하여 서울, 성남, 인천, 익산 등에 국내사업장이 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유럽, 미국, 중국 등 해외 공장과 사업소에서 사업활동을수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"체코\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외 | 미국, 인도, 체코\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"발전/담수설비 제품은 단기적인 가격 변동이 크지 않으나, 환율, 유가, 원자재 가격 및 발주처에서 요구하는 발주 사양에 따라 가격이 변동합니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자력발전\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"원자력발전은 일반적으로 완공까지 10년 이상 소요되는 장기 프로젝트로, 단기 경기변동 영향은 제한적입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"복합발전\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력발전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전용 연료전지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"두산퓨얼셀㈜는 PAFC 및 SOFC 연료전지 기술을 기반으로 하여 발전용 연료전지 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지게차\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"국내 기업들의 물류합리화 추진에 힘입어 지게차 수요가 지속적으로 증가하고 있는 추세입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"탄소중립을 위한 전 세계적 전기화 흐름 및 AI 기술의 개발과 활용 확대로 인한 대규모 데이터센터 구축 등으로 전력수요 성장세는 가속화할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이러한 전력수요의 증가는 풍력발전 등 재생에너지 확충과 함께, 수소 연료전환이 가능한 가스복합발전에 대한 단기 수요확대로 연결되고 있고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"팀코리아의 원전 해외수출 시 EPC 역무를 수행하는 한수원과 계약을 체결하는 것이 이러한 사례 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"단조소재\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원자력발전은 높은 품질요건을 만족하기 위한 고품질 단조소재 및 증기발생기 튜브 등 특수소재와 부품의 적기 조달이 핵심 요소입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"창원공장 전체 유해화학물질 취급허가 품목은 황산, 가성소다, 2-푸란메탄올, 메틸알콜, 암모니아 5종으로 연간 475.4톤 취급 허가를 받고 안전하게 관리하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"반면 복합화력발전은 경제성 측면에서 유가 및 이에 연계된 연료가격 변화에 대한 민감도가 상대적으로 높고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"해상풍력은 초기 CAPEX 투자가 높은 산업의 특성 상 금리 등 금융시장의 영향을 받는 편입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/034020_20260320001246.txt"
+}

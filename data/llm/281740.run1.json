@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 소재",
+      "weight": 0.69,
+      "direction": null,
+      "evidence": "반도체 소재 | 64,737 | 54.96% | 84,790 | 61.12% | 97,093 | 68.75%"
+    },
+    {
+      "axis": "product",
+      "value": "Solar 소재",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "Solar 소재 | 36,569 | 31.05% | 32,835 | 23.67% | 23,744 | 16.81%"
+    },
+    {
+      "axis": "product",
+      "value": "석유화학촉매",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "석유화학촉매 | 9,392 | 7.97% | 12,648 | 9.12% | 11,012 | 7.80%"
+    },
+    {
+      "axis": "product",
+      "value": "LED 소재",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "LED 소재 | 6,414 | 5.44% | 7,745 | 5.58% | 8,903 | 6.30%"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "Solar",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "LED",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다."
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전의사업장 | 세종특별자치시 전의면 산단길 22-144 | 유기금속화합물제조 | 본사"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "천안사업장 | 충남 천안시 성남면 5산단4로 41 | 유기금속화합물제조 | 지점"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당사의 원재료 구입은 고객사 발주량에 따라 수량이 결정되고 있으며, 수급동향과 환율변동에 의해 가격이 결정되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TMA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 공정용 전구체(Precursor)는, 1) 원하는 물성의 박막 형성, 2) 높은 증착 속도, 3) 우수한 경제성(높은 공정 수율), 4) 낮은 기화온도에서 높은 증기압"
+    },
+    {
+      "axis": "product",
+      "value": "MAO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소량의 물과 반응하면 MAO[1]라는 무기고분자가 제조되고 다량의 물과는 수산화알루미늄(Al(OH)3)이 제조됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "LED 전구체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "관련 전구체인 TEG, TMI, TMA, Cp2Mg 모두를 제품화함으로서 LED 산업에 성공적으로 진입하게 되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "메탈로센 촉매",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학의 메탈로센 촉매 분야에서 사용되는 타이타늄(Ti), 지르코늄(Zr) 유기금속 화합물을 메탈로센 컴포넌트 또는 메탈로센 컴파운드라고 합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전고체 전해질 원료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)레이크테크놀로지에서 이차전지 전고체 전해질 원료 분야 소재를 개발 및 공급하기 위해 생산시설 증설을 완료하여 시제품 샘플 제공 및 업체 평가중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 핵심 인력 대부분이 반도체 소재 연구개발과 마케팅 경력을 보유하고 있어, 반도체 소재 사업에 대한 전망, 시장과 기술개발 현황 등을 명확히 인지하고있었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "LED",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알루미늄(Al) 금속은 LED, 촉매, 반도체, 디스플레이 분야 모두에서 사용되는 금속임을 알 수 있으며 당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "마지막으로 사업화된 부분은 Solar용 소재이며, Solar 소재 분야의 진입은 고효율 쏠라셀을 제조하기 위하여 PERC 공정에서 Passivation Layer로 Al2O3 박막이 적용되면서 전구체로 TMA를 국내 태양광 업체 등에 공급하면서 시작하게 되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "석유화학",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "유기금속 화합물 중에서 특히 반도체 및 디스플레이, LED, Solar 등에 사용되어 금속막이나 금속산화물 또는 금속질화물 박막을 만드는데 사용되는 실리콘(Si)"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Double Patterning, DPT용 전구체는 메모리 최대 생산국이자 실리콘 웨이퍼 투입량은 많은 국내에서 사용량이 가장 많은 것으로 확인되었으며, 특히 삼성전자는 DPT용 전구체 재료의 최대 수요처임을 알 수 있다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "아울러 제조원가의 65~85%를 원료비가 차지하여 국제유가 변화에 민감한 사업입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 소재\",\n      \"weight\": 0.69,\n      \"direction\": null,\n      \"evidence\": \"반도체 소재 | 64,737 | 54.96% | 84,790 | 61.12% | 97,093 | 68.75%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Solar 소재\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"Solar 소재 | 36,569 | 31.05% | 32,835 | 23.67% | 23,744 | 16.81%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석유화학촉매\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"석유화학촉매 | 9,392 | 7.97% | 12,648 | 9.12% | 11,012 | 7.80%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LED 소재\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"LED 소재 | 6,414 | 5.44% | 7,745 | 5.58% | 8,903 | 6.30%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"Solar\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"LED\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 유기금속화합물 설계 및 TMA 제조기술 기반으로 하여 반도체, Solar, LED, 메탈로센촉매, 디스플레이 등의 소재로 사용되는 초고순도 유기금속 화합물을 개발 및 공급하는 유기금속 화합물 전문 회사 입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전의사업장 | 세종특별자치시 전의면 산단길 22-144 | 유기금속화합물제조 | 본사\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"천안사업장 | 충남 천안시 성남면 5산단4로 41 | 유기금속화합물제조 | 지점\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당사의 원재료 구입은 고객사 발주량에 따라 수량이 결정되고 있으며, 수급동향과 환율변동에 의해 가격이 결정되고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"TMA\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정용 전구체(Precursor)는, 1) 원하는 물성의 박막 형성, 2) 높은 증착 속도, 3) 우수한 경제성(높은 공정 수율), 4) 낮은 기화온도에서 높은 증기압\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MAO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소량의 물과 반응하면 MAO[1]라는 무기고분자가 제조되고 다량의 물과는 수산화알루미늄(Al(OH)3)이 제조됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LED 전구체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"관련 전구체인 TEG, TMI, TMA, Cp2Mg 모두를 제품화함으로서 LED 산업에 성공적으로 진입하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메탈로센 촉매\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학의 메탈로센 촉매 분야에서 사용되는 타이타늄(Ti), 지르코늄(Zr) 유기금속 화합물을 메탈로센 컴포넌트 또는 메탈로센 컴파운드라고 합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전고체 전해질 원료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)레이크테크놀로지에서 이차전지 전고체 전해질 원료 분야 소재를 개발 및 공급하기 위해 생산시설 증설을 완료하여 시제품 샘플 제공 및 업체 평가중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 핵심 인력 대부분이 반도체 소재 연구개발과 마케팅 경력을 보유하고 있어, 반도체 소재 사업에 대한 전망, 시장과 기술개발 현황 등을 명확히 인지하고있었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"LED\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알루미늄(Al) 금속은 LED, 촉매, 반도체, 디스플레이 분야 모두에서 사용되는 금속임을 알 수 있으며 당사의 사업은 알루미늄 유기금속화합물인 TMA (Trimethyl Aluminium) 제조로부터 출발하여 LED, 촉매, 반도체 분야 등으로 확장성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"마지막으로 사업화된 부분은 Solar용 소재이며, Solar 소재 분야의 진입은 고효율 쏠라셀을 제조하기 위하여 PERC 공정에서 Passivation Layer로 Al2O3 박막이 적용되면서 전구체로 TMA를 국내 태양광 업체 등에 공급하면서 시작하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"석유화학\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 원유를 정제하여 생산되는 나프타 등을 원료로 사용하여 자동차 및 건설 등 전방산업에 사용되는 합성수지 등을 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"유기금속 화합물 중에서 특히 반도체 및 디스플레이, LED, Solar 등에 사용되어 금속막이나 금속산화물 또는 금속질화물 박막을 만드는데 사용되는 실리콘(Si)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Double Patterning, DPT용 전구체는 메모리 최대 생산국이자 실리콘 웨이퍼 투입량은 많은 국내에서 사용량이 가장 많은 것으로 확인되었으며, 특히 삼성전자는 DPT용 전구체 재료의 최대 수요처임을 알 수 있다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"아울러 제조원가의 65~85%를 원료비가 차지하여 국제유가 변화에 민감한 사업입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/281740_20260318001193.txt"
+}

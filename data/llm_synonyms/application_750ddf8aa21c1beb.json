@@ -1,0 +1,139 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "반도체",
+      "synonyms": [
+        "반도체 산업"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "부동산",
+      "synonyms": [
+        "부동산 시장"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "스마트물류",
+      "synonyms": [
+        "스마트 물류"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "스마트미터",
+      "synonyms": [
+        "스마트미터기"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "알츠하이머병",
+      "synonyms": [
+        "알츠하이머"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "원자력발전",
+      "synonyms": [
+        "원자력 발전",
+        "원자력발전소"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "유세포분석",
+      "synonyms": [
+        "유세포 분석"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "태양광발전",
+      "synonyms": [
+        "태양광 발전"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "태양광",
+      "synonyms": [
+        "태양광 산업"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "조선해양플랜트",
+      "synonyms": [
+        "해양플랜트",
+        "조선해양 플랜트"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "화장품",
+      "synonyms": [
+        "화장품 산업"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "국가예방접종",
+      "synonyms": [
+        "국가예방접종 사업"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "알츠하이머병",
+      "synonyms": [
+        "알츠하이머"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "의료기기",
+      "synonyms": [
+        "의료기기 산업"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "전력저장장치",
+      "synonyms": [
+        "전력저장장치(ESS)"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "제2형 당뇨병",
+      "synonyms": [
+        "제2형당뇨병"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "퇴행성뇌질환",
+      "synonyms": [
+        "퇴행성 뇌질환"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "AI 데이터센터",
+      "synonyms": [
+        "AI 데이터 센터"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "석유화학 플랜트",
+      "synonyms": [
+        "석유ㆍ화학ㆍ플랜트"
+      ]
+    }
+  ]
+}

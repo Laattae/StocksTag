@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "레이저마커",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고"
+    },
+    {
+      "axis": "product",
+      "value": "레이저커터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고"
+    },
+    {
+      "axis": "product",
+      "value": "레이저드릴러",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등 다양한 레이저 장비들이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "레이저트리머",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등 다양한 레이저 장비들이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "PCB",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "휴대폰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등"
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기계장치",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료(국내) | 기계장치 등 | 레이저마커 및 응용기기용 | 69.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제어장치",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원화 10% 평가절상시 법인세비용차감전손익 (20,865,293,562)"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저마커\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저커터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체 생산 장비로서 Laser Marker, Laser Cutter가 주요 사업 Item이었고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저드릴러\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등 다양한 레이저 장비들이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레이저트리머\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사에서 영업을 진행하고 있는 장비로는 Laser Marker, Laser Driller, Laser Cutter, Laser Trimmer 등 다양한 레이저 장비들이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"PCB\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"휴대폰\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"레이저를 이용하여 반도체, PCB, Display, 휴대폰 산업의 주요 생산 장비를 제조하여 국내외로 공급하는 것이 당사의 핵심 사업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"해외 | ASE, SPIL, TIMICRON, UTAC 등 | T/T, L/C등 | - | 국내 | 삼성전자, 앰코테크놀러지하이닉스, 삼성전기, LG Display 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기계장치\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료(국내) | 기계장치 등 | 레이저마커 및 응용기기용 | 69.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제어장치\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원재료(해외) | 레이저,제어장치 등 | 레이저마커 및 응용기기용 | 30.4%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원화 10% 평가절상시 법인세비용차감전손익 (20,865,293,562)\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/039030_20260323001573.txt"
+}

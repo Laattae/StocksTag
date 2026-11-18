@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Calender",
+      "weight": 0.52,
+      "direction": null,
+      "evidence": "Calender(Roll Press) | 2008.03 | - | 209,990,251(51.57%) | (1)주요 용도- 전극물질이 코팅된 전극판에 압력을 가해 고밀도 전극 형성"
+    },
+    {
+      "axis": "product",
+      "value": "증착 및 검사·측정장비",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "증착 및검사ㆍ측정장비 | 2000.04 | - | 64,738,598(15.90%) | (1)주요 용도- 디스플레이 증착 및 검사ㆍ측정장비, 증착 공정장비"
+    },
+    {
+      "axis": "product",
+      "value": "Coater",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "Coater | 2010.07 | | 46,037,685(11.31%) | (1)주요 용도- 활물질, 바인더, 도전재 등의 전극물질 혼합 슬러리를 전극판에 일정 두께로 도포후 열풍 등의 공정기술을 적용하여 건조"
+    },
+    {
+      "axis": "product",
+      "value": "Slitter",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "Slitter | 2006.09 | - | 10,532,082(2.59%) | (1)주요 용도- 전극판 원판을 전지완제품 요구 사양으로 reel을 사용하여 절단"
+    },
+    {
+      "axis": "product",
+      "value": "고체전해질",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 이러한 시장 동향에 맞춰 고체전해질 성능 개선과 제조 설비 확충을 통해 시장 진입을 준비하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "에너지저장장치",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "모바일 IT 기기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로"
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "BOE",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 물가 및 환율 등의 변동으로 인하여 일부 원재료 가격 인상은 있었으나, 원재료 구매 프로세스 개선 등을 통하여 매입 원재료 가격의 급격한 변동 상황에 대응하여 위험을 최소화 하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "다만 글로벌 금리 상승, 일부 국가의 전기차 보조금 정책 변화, 지정학적 리스크 등으로 인해 일부 배터리 기업들의 설비 투자 조정이 나타나고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Calender\",\n      \"weight\": 0.52,\n      \"direction\": null,\n      \"evidence\": \"Calender(Roll Press) | 2008.03 | - | 209,990,251(51.57%) | (1)주요 용도- 전극물질이 코팅된 전극판에 압력을 가해 고밀도 전극 형성\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"증착 및 검사·측정장비\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"증착 및검사ㆍ측정장비 | 2000.04 | - | 64,738,598(15.90%) | (1)주요 용도- 디스플레이 증착 및 검사ㆍ측정장비, 증착 공정장비\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Coater\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"Coater | 2010.07 | | 46,037,685(11.31%) | (1)주요 용도- 활물질, 바인더, 도전재 등의 전극물질 혼합 슬러리를 전극판에 일정 두께로 도포후 열풍 등의 공정기술을 적용하여 건조\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Slitter\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"Slitter | 2006.09 | - | 10,532,082(2.59%) | (1)주요 용도- 전극판 원판을 전지완제품 요구 사양으로 reel을 사용하여 절단\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고체전해질\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사는 이러한 시장 동향에 맞춰 고체전해질 성능 개선과 제조 설비 확충을 통해 시장 진입을 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"에너지저장장치\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모바일 IT 기기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이차전지 산업은 전기차(EV), 에너지저장장치(ESS), 모바일 IT 기기 등 다양한 산업 분야에서 활용되는 핵심 에너지 저장 기술 산업으로\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BOE\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 물가 및 환율 등의 변동으로 인하여 일부 원재료 가격 인상은 있었으나, 원재료 구매 프로세스 개선 등을 통하여 매입 원재료 가격의 급격한 변동 상황에 대응하여 위험을 최소화 하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"다만 글로벌 금리 상승, 일부 국가의 전기차 보조금 정책 변화, 지정학적 리스크 등으로 인해 일부 배터리 기업들의 설비 투자 조정이 나타나고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/222080_20260320001352.txt"
+}

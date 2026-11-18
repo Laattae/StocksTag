@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "ORM-6151",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "ORM-6151은 AML 등의 골수 유래 종양에 대한 잠재적 치료제로 CD33 항체에 GSPT1 단백질 분해제가 결합된 ADC 후보 물질"
+    },
+    {
+      "axis": "product",
+      "value": "ORM-1153",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ORM-1153: AML 및 기타 CD123 양성 혈액암(hematologic malignancies) 적응증"
+    },
+    {
+      "axis": "product",
+      "value": "ORM-1023",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ORM-1023: 소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET). 전임상 개발 진행 과제"
+    },
+    {
+      "axis": "product",
+      "value": "TPD² 기술",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 TPD²기술은 단백질 분해제를 ADC형태로 항체에 화학적으로 접합함으로써 암세포 표적(암세포 과발현 수용체)과 세포 내 표적을 동시에 타겟할 수 있는 이중정밀성"
+    },
+    {
+      "axis": "application",
+      "value": "급성골수성백혈병",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "가장 높은 민감도 중앙값을 보인 종양 유형은 급성골수성백혈병(acute myeloid leukemia, AML)"
+    },
+    {
+      "axis": "application",
+      "value": "소세포폐암",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등"
+    },
+    {
+      "axis": "application",
+      "value": "신경내분비종양",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등"
+    },
+    {
+      "axis": "application",
+      "value": "골수이형성증후군",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)"
+    },
+    {
+      "axis": "customer",
+      "value": "Bristol Myers Squibb",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "해당 프로그램은 2023년 10월 BMS에 기술이전 완료"
+    },
+    {
+      "axis": "customer",
+      "value": "Vertex Pharmaceuticals",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사 TPD²기술 | Vertex Pharmaceuticals | 전세계 | 2024.07.03"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 자회사 1곳은 미국에 소재하고 있기에 당사의 자회사는 국내에 소재한 기업에 비해"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "보고서별 외화자산 및 부채에 대한 원화 환율변동이 법인세차감전손익에 미치는 영향은 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"ORM-6151\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"ORM-6151은 AML 등의 골수 유래 종양에 대한 잠재적 치료제로 CD33 항체에 GSPT1 단백질 분해제가 결합된 ADC 후보 물질\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ORM-1153\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ORM-1153: AML 및 기타 CD123 양성 혈액암(hematologic malignancies) 적응증\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ORM-1023\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ORM-1023: 소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET). 전임상 개발 진행 과제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TPD² 기술\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 TPD²기술은 단백질 분해제를 ADC형태로 항체에 화학적으로 접합함으로써 암세포 표적(암세포 과발현 수용체)과 세포 내 표적을 동시에 타겟할 수 있는 이중정밀성\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"급성골수성백혈병\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"가장 높은 민감도 중앙값을 보인 종양 유형은 급성골수성백혈병(acute myeloid leukemia, AML)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"소세포폐암\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신경내분비종양\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소세포폐암(Small Cell Lung Cancer, SCLC), 신경내분비종양(Neuroendocrine Tumor, NET) 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"골수이형성증후군\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"재발성/불응성 급성골수성백혈병(acute myeloid leukemia, AML), 골수이형성증후군(myelodysplastic syndromes, MDS)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Bristol Myers Squibb\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"해당 프로그램은 2023년 10월 BMS에 기술이전 완료\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Vertex Pharmaceuticals\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사 TPD²기술 | Vertex Pharmaceuticals | 전세계 | 2024.07.03\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 자회사 1곳은 미국에 소재하고 있기에 당사의 자회사는 국내에 소재한 기업에 비해\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"보고서별 외화자산 및 부채에 대한 원화 환율변동이 법인세차감전손익에 미치는 영향은 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/475830_20260319001320.txt"
+}

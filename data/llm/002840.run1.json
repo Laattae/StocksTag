@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "계면활성제",
+      "weight": 0.449,
+      "direction": null,
+      "evidence": "생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 | 198,086,421 | 44.9%"
+    },
+    {
+      "axis": "product",
+      "value": "전자재료",
+      "weight": 0.455,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 | 200,746,597 | 45.5%"
+    },
+    {
+      "axis": "product",
+      "value": "렌즈모노머",
+      "weight": 0.096,
+      "direction": null,
+      "evidence": "지배기업 및 종속기업의 사업분야는 생활화학재료, 전자재료, 렌즈모노머 등을 포함한 기타 분야로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자외선안정제",
+      "weight": 0.096,
+      "direction": null,
+      "evidence": "당사는 생활화학제품, 전자재료, 자외선안정제, 폴리머첨가제 등 광범위한 첨단정밀화학제품을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "폴리머첨가제",
+      "weight": 0.096,
+      "direction": null,
+      "evidence": "당사는 생활화학제품, 전자재료, 자외선안정제, 폴리머첨가제 등 광범위한 첨단정밀화학제품을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |"
+    },
+    {
+      "axis": "application",
+      "value": "전지소재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |"
+    },
+    {
+      "axis": "application",
+      "value": "퍼스널케어",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "안양사무소(미원상사) | 경기도 안양시 만안구 안양로 464"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전주1공장(미원상사) | 전북 완주군 봉동읍 완주3단1로 167"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "청운(계동청운) | 중국 장쑤성 치둥시 런민중로 669-1, 2214호"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품목군별 주요 원료 가격 변동추이는 아래와 같으며, 국내외 수급상황과 환율에 따라 변동하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "1. 사업의 개요 ... 주요 제품의 가격은 원재료 가격 및 시장 수급상황에 따라 변동하며"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"계면활성제\", \"weight\": 0.449, \"direction\": null, \"evidence\": \"생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 | 198,086,421 | 44.9%\"}, {\"axis\": \"product\", \"value\": \"전자재료\", \"weight\": 0.455, \"direction\": null, \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 | 200,746,597 | 45.5%\"}, {\"axis\": \"product\", \"value\": \"렌즈모노머\", \"weight\": 0.096, \"direction\": null, \"evidence\": \"지배기업 및 종속기업의 사업분야는 생활화학재료, 전자재료, 렌즈모노머 등을 포함한 기타 분야로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"자외선안정제\", \"weight\": 0.096, \"direction\": null, \"evidence\": \"당사는 생활화학제품, 전자재료, 자외선안정제, 폴리머첨가제 등 광범위한 첨단정밀화학제품을 생산, 판매하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"폴리머첨가제\", \"weight\": 0.096, \"direction\": null, \"evidence\": \"당사는 생활화학제품, 전자재료, 자외선안정제, 폴리머첨가제 등 광범위한 첨단정밀화학제품을 생산, 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |\"}, {\"axis\": \"application\", \"value\": \"전지소재\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전자재료 | 디스플레이, 반도체, 전지소재 | MIPHOTO 외 |\"}, {\"axis\": \"application\", \"value\": \"퍼스널케어\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"생활화학제품 | 퍼스널케어용 계면활성제 | MICOLIN 외 |\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"안양사무소(미원상사) | 경기도 안양시 만안구 안양로 464\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전주1공장(미원상사) | 전북 완주군 봉동읍 완주3단1로 167\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"청운(계동청운) | 중국 장쑤성 치둥시 런민중로 669-1, 2214호\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"품목군별 주요 원료 가격 변동추이는 아래와 같으며, 국내외 수급상황과 환율에 따라 변동하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원재료 가격\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"1. 사업의 개요 ... 주요 제품의 가격은 원재료 가격 및 시장 수급상황에 따라 변동하며\"}]}"
+  ],
+  "text_path": "data/reports/002840_20260316000483.txt"
+}

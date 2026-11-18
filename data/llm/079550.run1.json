@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "PGM",
+      "weight": 0.47,
+      "direction": null,
+      "evidence": "PGM | 2,033,526 | 47.2% | 1,283,957 | 39.2% | 1,142,759 | 49.5%"
+    },
+    {
+      "axis": "product",
+      "value": "C4I",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "C4I | 1,063,012 | 24.7% | 968,182 | 29.6% | 496,981 | 21.5%"
+    },
+    {
+      "axis": "product",
+      "value": "AEW",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "AEW | 566,280 | 13.1% | 397,731 | 12.1% | 257,721 | 11.2%"
+    },
+    {
+      "axis": "product",
+      "value": "ISR",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "ISR | 520,840 | 12.1% | 538,624 | 16.4% | 357,447 | 15.5%"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.58,
+      "direction": null,
+      "evidence": "2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.58,
+      "direction": null,
+      "evidence": "2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방기술진흥연구소",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "국방기술진흥연구소 | 내수 | 전자장비 등 | 1,581 | 3.7% | 1,453 | 4.4% | 708 | 3.1%"
+    },
+    {
+      "axis": "customer",
+      "value": "한국항공우주산업",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "한국항공우주산업 | 내수 | 항공부품 등 | 2,859 | 6.6% | 1,813 | 5.5% | 1,407 | 6.1%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "종속회사 | 대전 | 8,644 | - | - | - | 8,644 | 8,474㎡ |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "보고기간말 현재 다른 모든 변수가 일정하고 원화가 미국 달러화에 대해 10% 약세 또는 강세를 가정할 경우, 세전이익은 주로 미국달러화로 표시된 외화예금, 매출채권, 계약자산 및 매입채무의 외화환산 손익의 결과로 인하여 14,382백만원만큼 상승 또는 하락하였을 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "보고기간말 현재 다른 변수가 일정하고 원화 표시 차입금에 대한 이자율이 1% 상승 또는 하락할 경우, 세전이익은 2,600백만원 만큼 감소 또는 증가했을 것입니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [\n  {\"axis\": \"product\", \"value\": \"PGM\", \"weight\": 0.47, \"direction\": null, \"evidence\": \"PGM | 2,033,526 | 47.2% | 1,283,957 | 39.2% | 1,142,759 | 49.5%\"},\n  {\"axis\": \"product\", \"value\": \"C4I\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"C4I | 1,063,012 | 24.7% | 968,182 | 29.6% | 496,981 | 21.5%\"},\n  {\"axis\": \"product\", \"value\": \"AEW\", \"weight\": 0.13, \"direction\": null, \"evidence\": \"AEW | 566,280 | 13.1% | 397,731 | 12.1% | 257,721 | 11.2%\"},\n  {\"axis\": \"product\", \"value\": \"ISR\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"ISR | 520,840 | 12.1% | 538,624 | 16.4% | 357,447 | 15.5%\"},\n  {\"axis\": \"customer\", \"value\": \"방위사업청\", \"weight\": 0.58, \"direction\": null, \"evidence\": \"2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다.\"},\n  {\"axis\": \"customer\", \"value\": \"국방과학연구소\", \"weight\": 0.58, \"direction\": null, \"evidence\": \"2025년말 기준 연결회사 제품의 주요 매출처는 방위사업청과 국방과학연구소이며, 그 비중은 전체매출의 약 58.4% 수준입니다.\"},\n  {\"axis\": \"customer\", \"value\": \"국방기술진흥연구소\", \"weight\": 0.04, \"direction\": null, \"evidence\": \"국방기술진흥연구소 | 내수 | 전자장비 등 | 1,581 | 3.7% | 1,453 | 4.4% | 708 | 3.1%\"},\n  {\"axis\": \"customer\", \"value\": \"한국항공우주산업\", \"weight\": 0.07, \"direction\": null, \"evidence\": \"한국항공우주산업 | 내수 | 항공부품 등 | 2,859 | 6.6% | 1,813 | 5.5% | 1,407 | 6.1%\"},\n  {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |\"},\n  {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"지배회사 | 경북구미, 경기성남 외 | 653,628 | 5,419 | - | - | 659,047 | 1,448,829㎡ |\"},\n  {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"종속회사 | 대전 | 8,644 | - | - | - | 8,644 | 8,474㎡ |\"},\n  {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"보고기간말 현재 다른 모든 변수가 일정하고 원화가 미국 달러화에 대해 10% 약세 또는 강세를 가정할 경우, 세전이익은 주로 미국달러화로 표시된 외화예금, 매출채권, 계약자산 및 매입채무의 외화환산 손익의 결과로 인하여 14,382백만원만큼 상승 또는 하락하였을 것입니다.\"},\n  {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"보고기간말 현재 다른 변수가 일정하고 원화 표시 차입금에 대한 이자율이 1% 상승 또는 하락할 경우, 세전이익은 2,600백만원 만큼 감소 또는 증가했을 것입니다.\"}\n]}"
+  ],
+  "text_path": "data/reports/079550_20260323001211.txt"
+}

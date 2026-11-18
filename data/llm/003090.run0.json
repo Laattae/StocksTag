@@ -1,0 +1,278 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "나보타",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우루사",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "바이오탑",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "특히, '바이오탑'은 연매출 235억원을 달성하며 주요 성장 동력으로 자리매김하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주식회사 대웅제약은 2002년 10월 1일을 기준일로 주식회사 대웅(분할 전 상호: 주식회사 대웅제약)의 사업부문을 인적분할하여 2002년 10월 2일자로 설립되었으며, 의약품 생산 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디지털 헬스케어",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "대웅제약은 AI 기술의 급격한 발전과 인구 고령화 추세에 발맞춰 디지털 헬스케어 사업을 새로운 성장동력으로 안착시키며 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에볼루스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면, 나보타(미국 상품명 주보, Jeuveau®)는 세계 최대 보툴리눔 톡신 시장인 미국에서 미용 톡신 시장 점유율 14%를 달성하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "이뮤노반트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 파트너사인 이뮤노반트 (Immunovant)와의 협력을 통해 다양한 적응증을 대상으로 글로벌 임상을 진행 중에 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Ursodesoxycholic Acid",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내매입원재료 | Ursodesoxycholic Acid | 간장질환용제 | 40,739 | 22.7 | 대웅바이오(주)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "펙수프라잔 염산염",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "펙수프라잔 염산염 | 소화성궤양용제 | 34,476 | 19.2 | 대웅바이오(주)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Metformin Hydrochloride",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Metformin Hydrochloride | 혈당강하제 | 7,168 | 4.0 | Merck Sante S.A.S."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 자회사인 HPI, Inc. (HanAll Pharmaceutical International, Inc.)는 미국 현지법인으로 당사가 개발하는 신약의 해외임상 진행 및 라이선스 업무 등을 담당하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "주요가격변동원인은 구매단가 변동 및 환율변동입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "또한, 전 세계적으로 진행되고 있는 인구 고령화, 평균 수명 증가에 따라 의약품에 대한 수요는 증가하고 있으며, 제약 시장은 지속적으로 고성장할 것으로 전망하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄파너셉트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "공시서류 작성기준일 현재 당사가 연구개발 진행 중인 바이오의약품(신약, 바이오시밀러 등 포함)의 현황은 다음과 같습니다.[연구개발 진행 총괄표]구 분 | 품 목 | 적응증 | 연구시작일 | 현재 진행단계 | 비 고 | 단계(국가) | 승인일 | 바이오 | 신약 | HL036 | 안구건조증"
+    },
+    {
+      "axis": "product",
+      "value": "나보타",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Biologics | DWP450(나보타) | 미간주름 | 2012년 | 품목허가(한국) | 2013년 11월"
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Fexuprazan(제품명 : 펙수클루, Fexuclue) | Moksha8 | 멕시코 | USD 44,419,106 | 2020.01.22 | 현지 허가권, 판매권리"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Enavogliflozin(제품명 : 엔블로, Envlo) | Moksha8 | 브라질, 멕시코, 에콰도르, 니카라과, 온두라스, 과테말라, 엘살바도르,코스타리카, 파나마, 도미니카공화국 | USD 110,272,405"
+    },
+    {
+      "axis": "product",
+      "value": "바토클리맙",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바토클리맙(HL161BKN) | 로이반트 사이언스(Roivant Sciences,스위스) | 미국 포함 북미와 중남미, EU국가, 영국,스위스, 중동,북아프리카 지역 | 2017.12.19"
+    },
+    {
+      "axis": "application",
+      "value": "안구건조증",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "구 분 | 품 목 | 적응증 | 연구시작일 | 현재 진행단계 | 비 고 | 단계(국가) | 승인일 | 바이오 | 신약 | HL036 | 안구건조증"
+    },
+    {
+      "axis": "application",
+      "value": "제2형 당뇨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Enavogliflozin | 합성 신약 | 제2형 당뇨병 | 단일제 발매(국내)"
+    },
+    {
+      "axis": "application",
+      "value": "위식도역류질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Fexuprazan | 위식도역류질환 | 2008년 | 출시(한국) | 2022년 7월"
+    },
+    {
+      "axis": "application",
+      "value": "중증근무력증",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MG (중증근무력증), TED (갑상선안병증), CIDP (만성 염증성 탈수초성 다발성 신경병증), GD (그레이브스병) 등 다양한 자가면역질환"
+    },
+    {
+      "axis": "customer",
+      "value": "Evolus",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "나보타(제품명: 나보타, Jeuveau,Nuceiva) | Evolus | 미국, 유럽, 캐나다, 호주,러시아, 남아공, 일본, CIS"
+    },
+    {
+      "axis": "customer",
+      "value": "하버바이오메드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국) | 중국(대만, 홍콩, 마카오 포함) | 2017.09.12"
+    },
+    {
+      "axis": "customer",
+      "value": "로이반트 사이언스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바토클리맙(HL161BKN)\n아이메로프루바트(HL161ANS)\n | 로이반트 사이언스(Roivant Sciences,스위스) | 미국 포함 북미와 중남미, EU국가, 영국,스위스, 중동,북아프리카 지역 | 2017.12.19"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바이오연구소 (경기 수원 소재)"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중앙연구소 (대전 소재)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "HPI센터 (미국)로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원료 및 완성의약품 제조 및 판매"
+    },
+    {
+      "axis": "product",
+      "value": "바이오신약",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "구분 | 바이오신약 (항체의약품)"
+    },
+    {
+      "axis": "product",
+      "value": "합성신약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "구분 | 합성신약 (저분자 화합물)"
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2024년 전세계 자가면역질환 치료제 시장 규모 약 2,145억 달러"
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "적응증 | 파킨슨병"
+    },
+    {
+      "axis": "region",
+      "value": "대한민국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "제조설비는 주로 대한민국을 포함한 아시아 지역에 위치하고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"나보타\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"우루사\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오탑\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"특히, '바이오탑'은 연매출 235억원을 달성하며 주요 성장 동력으로 자리매김하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의약품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주식회사 대웅제약은 2002년 10월 1일을 기준일로 주식회사 대웅(분할 전 상호: 주식회사 대웅제약)의 사업부문을 인적분할하여 2002년 10월 2일자로 설립되었으며, 의약품 생산 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디지털 헬스케어\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"대웅제약은 AI 기술의 급격한 발전과 인구 고령화 추세에 발맞춰 디지털 헬스케어 사업을 새로운 성장동력으로 안착시키며 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에볼루스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면, 나보타(미국 상품명 주보, Jeuveau®)는 세계 최대 보툴리눔 톡신 시장인 미국에서 미용 톡신 시장 점유율 14%를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"이뮤노반트\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 파트너사인 이뮤노반트 (Immunovant)와의 협력을 통해 다양한 적응증을 대상으로 글로벌 임상을 진행 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Ursodesoxycholic Acid\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내매입원재료 | Ursodesoxycholic Acid | 간장질환용제 | 40,739 | 22.7 | 대웅바이오(주)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"펙수프라잔 염산염\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"펙수프라잔 염산염 | 소화성궤양용제 | 34,476 | 19.2 | 대웅바이오(주)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Metformin Hydrochloride\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Metformin Hydrochloride | 혈당강하제 | 7,168 | 4.0 | Merck Sante S.A.S.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 자회사인 HPI, Inc. (HanAll Pharmaceutical International, Inc.)는 미국 현지법인으로 당사가 개발하는 신약의 해외임상 진행 및 라이선스 업무 등을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"주요가격변동원인은 구매단가 변동 및 환율변동입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"또한, 전 세계적으로 진행되고 있는 인구 고령화, 평균 수명 증가에 따라 의약품에 대한 수요는 증가하고 있으며, 제약 시장은 지속적으로 고성장할 것으로 전망하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄파너셉트\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"공시서류 작성기준일 현재 당사가 연구개발 진행 중인 바이오의약품(신약, 바이오시밀러 등 포함)의 현황은 다음과 같습니다.[연구개발 진행 총괄표]구 분 | 품 목 | 적응증 | 연구시작일 | 현재 진행단계 | 비 고 | 단계(국가) | 승인일 | 바이오 | 신약 | HL036 | 안구건조증\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"나보타\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Biologics | DWP450(나보타) | 미간주름 | 2012년 | 품목허가(한국) | 2013년 11월\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Fexuprazan(제품명 : 펙수클루, Fexuclue) | Moksha8 | 멕시코 | USD 44,419,106 | 2020.01.22 | 현지 허가권, 판매권리\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Enavogliflozin(제품명 : 엔블로, Envlo) | Moksha8 | 브라질, 멕시코, 에콰도르, 니카라과, 온두라스, 과테말라, 엘살바도르,코스타리카, 파나마, 도미니카공화국 | USD 110,272,405\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바토클리맙\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"바토클리맙(HL161BKN) | 로이반트 사이언스(Roivant Sciences,스위스) | 미국 포함 북미와 중남미, EU국가, 영국,스위스, 중동,북아프리카 지역 | 2017.12.19\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안구건조증\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"구 분 | 품 목 | 적응증 | 연구시작일 | 현재 진행단계 | 비 고 | 단계(국가) | 승인일 | 바이오 | 신약 | HL036 | 안구건조증\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제2형 당뇨병\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Enavogliflozin | 합성 신약 | 제2형 당뇨병 | 단일제 발매(국내)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"위식도역류질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Fexuprazan | 위식도역류질환 | 2008년 | 출시(한국) | 2022년 7월\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중증근무력증\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"MG (중증근무력증), TED (갑상선안병증), CIDP (만성 염증성 탈수초성 다발성 신경병증), GD (그레이브스병) 등 다양한 자가면역질환\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Evolus\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"나보타(제품명: 나보타, Jeuveau,Nuceiva) | Evolus | 미국, 유럽, 캐나다, 호주,러시아, 남아공, 일본, CIS\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"하버바이오메드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국) | 중국(대만, 홍콩, 마카오 포함) | 2017.09.12\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"로이반트 사이언스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"바토클리맙(HL161BKN)\\n아이메로프루바트(HL161ANS)\\n | 로이반트 사이언스(Roivant Sciences,스위스) | 미국 포함 북미와 중남미, EU국가, 영국,스위스, 중동,북아프리카 지역 | 2017.12.19\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"바이오연구소 (경기 수원 소재)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중앙연구소 (대전 소재)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"HPI센터 (미국)로 구성되어 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"원료 및 완성의약품 제조 및 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오신약\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"구분 | 바이오신약 (항체의약품)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성신약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"구분 | 합성신약 (저분자 화합물)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2024년 전세계 자가면역질환 치료제 시장 규모 약 2,145억 달러\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"파킨슨병\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"적응증 | 파킨슨병\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대한민국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"제조설비는 주로 대한민국을 포함한 아시아 지역에 위치하고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/003090_20260318001178.txt"
+}

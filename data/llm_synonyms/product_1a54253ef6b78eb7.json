@@ -1,0 +1,109 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "손해보험",
+      "synonyms": [
+        "손해보험업"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "수소 운반선",
+      "synonyms": [
+        "액화수소운반선"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "스테인리스",
+      "synonyms": [
+        "스테인리스강"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "시스템 통합",
+      "synonyms": [
+        "시스템 통합(SI)"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "영상콘텐츠",
+      "synonyms": [
+        "영상 콘텐츠"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "원유운반선",
+      "synonyms": [
+        "원유 운반선"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "원자력발전",
+      "synonyms": [
+        "원자력 발전"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "음악서비스",
+      "synonyms": [
+        "디지털 음악 서비스"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "자동차부품",
+      "synonyms": [
+        "자동차 부품"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "자동차할부",
+      "synonyms": [
+        "자동차 할부금융"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "전동압축기",
+      "synonyms": [
+        "전동 압축기"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "제대혈보관",
+      "synonyms": [
+        "제대혈 보관"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "캐주얼게임",
+      "synonyms": [
+        "캐주얼 게임"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "케미컬 필터",
+      "synonyms": [
+        "클린룸 케미컬 필터"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "케이블TV",
+      "synonyms": [
+        "케이블TV 서비스"
+      ]
+    }
+  ]
+}

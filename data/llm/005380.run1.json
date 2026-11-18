@@ -1,0 +1,243 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사와 연결종속회사(이하 연결실체)는 자동차와 자동차부품의 제조 및 판매, 차량정비 등의 사업을 운영하는 차량부문과"
+    },
+    {
+      "axis": "product",
+      "value": "자동차부품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사와 연결종속회사(이하 연결실체)는 자동차와 자동차부품의 제조 및 판매, 차량정비 등의 사업을 운영하는 차량부문과"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "차량할부금융 및 결제대행업무 등의 사업을 운영하는 금융부문 및 철도차량 제작 등의 사업을 운영하는 기타부문으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "철도차량",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "차량할부금융 및 결제대행업무 등의 사업을 운영하는 금융부문 및 철도차량 제작 등의 사업을 운영하는 기타부문으로 구성되어 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철광석",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "철광석 | $/TON | 102 | 110 | 120"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "알루미늄 | $/TON | 2,632 | 2,419 | 2,250"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "구리 | $/TON | 9,945 | 9,147 | 8,478"
+    },
+    {
+      "axis": "raw_material",
+      "value": "플라스틱",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "플라스틱 | $/TON | 866 | 920 | 914"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 연결대상 회사는 서울에 위치한 본사와 남양 등의 연구소를 포함하여 울산, 전주, 아산공장 등을 보유하고 있으며,"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 및 연결대상 회사는 서울에 위치한 본사와 남양 등의 연구소를 포함하여 울산, 전주, 아산공장 등을 보유하고 있으며,"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국공장(HMMA) | 미국 | 360,000 | 360,000 | 360,000"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도공장(HMI) | 인도 | 71,537 | 7.7 | 7,378"
+    },
+    {
+      "axis": "region",
+      "value": "체코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "체코공장(HMMC) | 부품 | 모듈/시트外 | 77,320 | 8.4"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "연결실체는 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "제네시스 차량",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현대자동차는 이러한 성과를 바탕으로 2030년까지 제네시스 차량 연간 35만 대 판매를 목표로 하고"
+    },
+    {
+      "axis": "product",
+      "value": "하이브리드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "향후 럭셔리 SUV, 고성능 모델, 하이브리드 및 EREV 중심으로 제품 전략을 고도화하고"
+    },
+    {
+      "axis": "product",
+      "value": "EREV",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "향후 럭셔리 SUV, 고성능 모델, 하이브리드 및 EREV 중심으로 제품 전략을 고도화하고"
+    },
+    {
+      "axis": "product",
+      "value": "수소연료전지 시스템",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "차세대 하이브리드 시스템(TMED-II), EREV, 고성능 배터리 기술, 수소연료전지 시스템 개발을 통해 성능, 효율성, 접근성을 동시에 확보하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "할부금융, 리스,신용카드"
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "할부금융, 리스,신용카드"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "할부금융, 리스,신용카드"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2027년부터는 비용 절감, 에너지 밀도 향상, 안정성을 확보한 차세대 배터리를 도입해 EV 대중화를 가속화할 계획이며"
+    },
+    {
+      "axis": "application",
+      "value": "모빌리티",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기술 측면에서는 전동화 기술과 소프트웨어 중심 전략을 통해 미래 모빌리티 시장에서의 경쟁력을 강화하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "상용차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "수소전기차 분야에서는 440마일 이상의 주행거리와 62%의 시스템 효율을 기반으로 상용차용 차세대 연료전지 시스템 개발에 박차를 가하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Waymo",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Waymo와의 협업을 통해 아이오닉5 기반의 자율주행 차량을 미국에서 테스트하고"
+    },
+    {
+      "axis": "customer",
+      "value": "아마존",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "아마존과의 협력을 통해 디지털 구매 여정을 혁신하고, 딜러와의 연결을 강화하며 신규 고객 유입과 브랜드 인지도 향상에 기여하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중동",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 이자율스왑 및 통화스왑을 이용하여 시장이자율 변동이나 환율변동 등으로 인한 위험회피대상항목인 대출금, 차입금 및 사채의 미래 현금흐름 및 공정가치 변동위험을 회피하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "자동차 내수시장의 성장률",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "자동차금융 부분에 대한 집중도 및 의존도가 매우 높아 영업환경을 좌우하는 가장 큰 변수는 자동차 내수시장의 성장률입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사와 연결종속회사(이하 연결실체)는 자동차와 자동차부품의 제조 및 판매, 차량정비 등의 사업을 운영하는 차량부문과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차부품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사와 연결종속회사(이하 연결실체)는 자동차와 자동차부품의 제조 및 판매, 차량정비 등의 사업을 운영하는 차량부문과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"차량할부금융 및 결제대행업무 등의 사업을 운영하는 금융부문 및 철도차량 제작 등의 사업을 운영하는 기타부문으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철도차량\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"차량할부금융 및 결제대행업무 등의 사업을 운영하는 금융부문 및 철도차량 제작 등의 사업을 운영하는 기타부문으로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철광석\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"철광석 | $/TON | 102 | 110 | 120\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 | $/TON | 2,632 | 2,419 | 2,250\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"구리 | $/TON | 9,945 | 9,147 | 8,478\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플라스틱\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 | $/TON | 866 | 920 | 914\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 연결대상 회사는 서울에 위치한 본사와 남양 등의 연구소를 포함하여 울산, 전주, 아산공장 등을 보유하고 있으며,\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 및 연결대상 회사는 서울에 위치한 본사와 남양 등의 연구소를 포함하여 울산, 전주, 아산공장 등을 보유하고 있으며,\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국공장(HMMA) | 미국 | 360,000 | 360,000 | 360,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도공장(HMI) | 인도 | 71,537 | 7.7 | 7,378\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"체코\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"체코공장(HMMC) | 부품 | 모듈/시트外 | 77,320 | 8.4\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"연결실체는 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"제네시스 차량\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"현대자동차는 이러한 성과를 바탕으로 2030년까지 제네시스 차량 연간 35만 대 판매를 목표로 하고\"}, {\"axis\": \"product\", \"value\": \"하이브리드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"향후 럭셔리 SUV, 고성능 모델, 하이브리드 및 EREV 중심으로 제품 전략을 고도화하고\"}, {\"axis\": \"product\", \"value\": \"EREV\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"향후 럭셔리 SUV, 고성능 모델, 하이브리드 및 EREV 중심으로 제품 전략을 고도화하고\"}, {\"axis\": \"product\", \"value\": \"수소연료전지 시스템\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"차세대 하이브리드 시스템(TMED-II), EREV, 고성능 배터리 기술, 수소연료전지 시스템 개발을 통해 성능, 효율성, 접근성을 동시에 확보하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"할부금융\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"할부금융, 리스,신용카드\"}, {\"axis\": \"product\", \"value\": \"리스\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"할부금융, 리스,신용카드\"}, {\"axis\": \"product\", \"value\": \"신용카드\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"할부금융, 리스,신용카드\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2027년부터는 비용 절감, 에너지 밀도 향상, 안정성을 확보한 차세대 배터리를 도입해 EV 대중화를 가속화할 계획이며\"}, {\"axis\": \"application\", \"value\": \"모빌리티\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"기술 측면에서는 전동화 기술과 소프트웨어 중심 전략을 통해 미래 모빌리티 시장에서의 경쟁력을 강화하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"상용차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"수소전기차 분야에서는 440마일 이상의 주행거리와 62%의 시스템 효율을 기반으로 상용차용 차세대 연료전지 시스템 개발에 박차를 가하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Waymo\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"Waymo와의 협업을 통해 아이오닉5 기반의 자율주행 차량을 미국에서 테스트하고\"}, {\"axis\": \"customer\", \"value\": \"아마존\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"아마존과의 협력을 통해 디지털 구매 여정을 혁신하고, 딜러와의 연결을 강화하며 신규 고객 유입과 브랜드 인지도 향상에 기여하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다.\"}, {\"axis\": \"region\", \"value\": \"유럽\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다.\"}, {\"axis\": \"region\", \"value\": \"중동\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"미국·유럽·중국·중동 등 핵심 시장에서의 성장을 추진할 계획입니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"연결실체는 이자율스왑 및 통화스왑을 이용하여 시장이자율 변동이나 환율변동 등으로 인한 위험회피대상항목인 대출금, 차입금 및 사채의 미래 현금흐름 및 공정가치 변동위험을 회피하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"자동차 내수시장의 성장률\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"자동차금융 부분에 대한 집중도 및 의존도가 매우 높아 영업환경을 좌우하는 가장 큰 변수는 자동차 내수시장의 성장률입니다.\"}]}"
+  ],
+  "text_path": "data/reports/005380_20260318001394.txt"
+}

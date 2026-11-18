@@ -1,0 +1,200 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "타이어코드",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "산업자재 부문에는 타이어보강재, 산업용 원사, 카페트, 아라미드, 탄소섬유 등이 있습니다. 타이어보강재는 타이어제조에 필수적으로 사용되며, 대표제품으로 타이어코드와 스틸코드가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스틸코드",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "타이어보강재는 타이어제조에 필수적으로 사용되며, 대표제품으로 타이어코드와 스틸코드가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄소섬유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "탄소섬유는 고압용기, 전선심재, 건축보강 용도로 사용되는 고부가가치 신소재 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아라미드",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "이외에 아라미드는 방탄소재, 자동차 고무 보강용, 산업용 등에 사용되며, 탄소섬유는 고압용기"
+    },
+    {
+      "axis": "product",
+      "value": "스판덱스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주로 의류용으로 사용되는 스판덱스, 폴리에스터 원사가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "나일론필름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "나일론필름은 산소투과도가 낮고 우수한 내열성, 내한성, 내핀홀성의 특징을 지니고 있어 식품 및 의약품을 장기 보관하기에 적합합니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘 음극재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 차세대 이차전지 핵심소재인 실리콘 음극재 사업에 본격적으로 진출하기로 결정했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "당사의 주요 제품이자 뛰어난 품질을 바탕으로 세계 시장을 이끌고 있는 폴리에스터 타이어코드 및 Seatbelt용 원사, Airbag용 원단과 자동차용 카페트 사업은 자동차 시장의 성장과 더불어 동반 성장이 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "실리콘 음극재는 기존 흑연 음극재 대비 에너지 밀도가 최대 10배 이상 높아 전기차의 주행거리 향상과 급속충전 성능 개선에 직접적으로 기여할 수 있는 혁신 소재로"
+    },
+    {
+      "axis": "application",
+      "value": "의류",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "고부가가치, 고기능성 섬유소재로써 주로 의류용으로 사용되는 스판덱스, 폴리에스터 원사가 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국타이어앤테크놀로지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년 1~12월 지배회사의 주요 매출처는 HS HYOSUNG VIETNAM CO LTD(19.44%), HS Hyosung USA, Inc.(13.19%), HS HYOSUNG LUXEMBOURG S.A.(7.82%), HS HYOSUNG CARBON MATERIALS (JIANGSU) (7.39%), 한국타이어앤테크놀로지(주)(6.93%)"
+    },
+    {
+      "axis": "customer",
+      "value": "미쉐린",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "타이어보강재는 직판하여 미쉐린, 굿이어, 쿠퍼 등 유수한 타이어제조업체에 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "굿이어",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "타이어보강재는 직판하여 미쉐린, 굿이어, 쿠퍼 등 유수한 타이어제조업체에 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "금호타이어",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "금호타이어(주)(4.42%), HANS PMS CO., LTD.(3.63%) 등 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "ZF",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "오랜 업력을 바탕으로 주요 모듈업체인 Autoliv, ZF, JSS 등과 긴밀한 관계를 맺고 있으며, 특히 ZF향 매출 비중이 높습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PET Chip",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wire Rod",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PTMG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "MDI",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Nylon Chip",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "지배회사는 수출로 인한 외화수금이 원자재수입에 의한 외화 지출보다 많은 외화현금흐름을 가지고 있으며 환율하락에 따른 환차손 위험을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.85,
+      "direction": -1,
+      "evidence": "당사의 원재료 비중이 높음에 따라 원재료가격 변동시 원가에 미치는 영향이 큽니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "시장금리의 급격한 변동으로인한 지급이자의 불확실성 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"타이어코드\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"산업자재 부문에는 타이어보강재, 산업용 원사, 카페트, 아라미드, 탄소섬유 등이 있습니다. 타이어보강재는 타이어제조에 필수적으로 사용되며, 대표제품으로 타이어코드와 스틸코드가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스틸코드\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"타이어보강재는 타이어제조에 필수적으로 사용되며, 대표제품으로 타이어코드와 스틸코드가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄소섬유\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"탄소섬유는 고압용기, 전선심재, 건축보강 용도로 사용되는 고부가가치 신소재 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아라미드\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"이외에 아라미드는 방탄소재, 자동차 고무 보강용, 산업용 등에 사용되며, 탄소섬유는 고압용기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스판덱스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주로 의류용으로 사용되는 스판덱스, 폴리에스터 원사가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"나일론필름\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"나일론필름은 산소투과도가 낮고 우수한 내열성, 내한성, 내핀홀성의 특징을 지니고 있어 식품 및 의약품을 장기 보관하기에 적합합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘 음극재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 차세대 이차전지 핵심소재인 실리콘 음극재 사업에 본격적으로 진출하기로 결정했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"당사의 주요 제품이자 뛰어난 품질을 바탕으로 세계 시장을 이끌고 있는 폴리에스터 타이어코드 및 Seatbelt용 원사, Airbag용 원단과 자동차용 카페트 사업은 자동차 시장의 성장과 더불어 동반 성장이 예상됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"실리콘 음극재는 기존 흑연 음극재 대비 에너지 밀도가 최대 10배 이상 높아 전기차의 주행거리 향상과 급속충전 성능 개선에 직접적으로 기여할 수 있는 혁신 소재로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의류\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"고부가가치, 고기능성 섬유소재로써 주로 의류용으로 사용되는 스판덱스, 폴리에스터 원사가 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국타이어앤테크놀로지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년 1~12월 지배회사의 주요 매출처는 HS HYOSUNG VIETNAM CO LTD(19.44%), HS Hyosung USA, Inc.(13.19%), HS HYOSUNG LUXEMBOURG S.A.(7.82%), HS HYOSUNG CARBON MATERIALS (JIANGSU) (7.39%), 한국타이어앤테크놀로지(주)(6.93%)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"미쉐린\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"타이어보강재는 직판하여 미쉐린, 굿이어, 쿠퍼 등 유수한 타이어제조업체에 제품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"굿이어\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"타이어보강재는 직판하여 미쉐린, 굿이어, 쿠퍼 등 유수한 타이어제조업체에 제품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"금호타이어\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"금호타이어(주)(4.42%), HANS PMS CO., LTD.(3.63%) 등 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ZF\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"오랜 업력을 바탕으로 주요 모듈업체인 Autoliv, ZF, JSS 등과 긴밀한 관계를 맺고 있으며, 특히 ZF향 매출 비중이 높습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PET Chip\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wire Rod\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PTMG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MDI\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Nylon Chip\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료에는 산업자재 부문의 PET Chip, Wire rod와 섬유부문의 PTMG, MDI 그리고 기타 부문의 Nylon Chip이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"사업장의 위치는 울산, 전주, 베트남 Dong-Nai Province, 중국 Qingdao, Jiaxing 등입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"지배회사는 수출로 인한 외화수금이 원자재수입에 의한 외화 지출보다 많은 외화현금흐름을 가지고 있으며 환율하락에 따른 환차손 위험을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.85,\n      \"direction\": -1,\n      \"evidence\": \"당사의 원재료 비중이 높음에 따라 원재료가격 변동시 원가에 미치는 영향이 큽니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"시장금리의 급격한 변동으로인한 지급이자의 불확실성 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/298050_20260312001146.txt"
+}

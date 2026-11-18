@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Solid SiC Wafer",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "2025년 매출액 중에 Solid SiC Wafer, Ring 등이 포함된 Solid SiC부문이 약 85%를 차지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Graphite 부품",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "Growing 장비용 Graphite 부품이 포함된 Graphite부문이 약 11%를 차지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Susceptor",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "이외에 Susceptor부문 및 기타부문이 약 4%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SiC Ring",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 공정부품과 관련된 SiC Cathode, SiC Ring의 국산화 실현으로 높은 시장 점유율을 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사에서 생산하는 제품은 반도체 및 실리콘 웨이퍼의 제조공정에 사용되는 장비의 부분품과 LED 및 반도체 소자 제조 공정 장비용 부분품으로 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 매출처는 반도체 제조 및 태양광용 잉곳, LED용 칩, 반도체 생산업체입니다."
+    },
+    {
+      "axis": "application",
+      "value": "LED",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사에서 생산하는 제품은 반도체 및 실리콘 웨이퍼의 제조공정에 사용되는 장비의 부분품과 LED 및 반도체 소자 제조 공정 장비용 부분품으로 사용되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Graphite",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "당사는 주요 구입 품목 중 Graphite(고순도 흑연)가 가장 큰 비중을 차지하고 있으며, 최대주주인 TOKAI CARBON CO.,LTD.로부터 매입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 2010년 하반기부터 경기도 안성시 개정리에 신공장 증설을 진행하여 2011년 04월에 증설을 완료하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사는 외화표시 매출, 매입거래에 따라 환율변동에 의한 리스크가 상존하고 있으며, 재무구조의 건전성 및 지속가능한 경영 실현을 위해 환 리스크 관리를 하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Solid SiC Wafer\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"2025년 매출액 중에 Solid SiC Wafer, Ring 등이 포함된 Solid SiC부문이 약 85%를 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Graphite 부품\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"Growing 장비용 Graphite 부품이 포함된 Graphite부문이 약 11%를 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Susceptor\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"이외에 Susceptor부문 및 기타부문이 약 4%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SiC Ring\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정부품과 관련된 SiC Cathode, SiC Ring의 국산화 실현으로 높은 시장 점유율을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사에서 생산하는 제품은 반도체 및 실리콘 웨이퍼의 제조공정에 사용되는 장비의 부분품과 LED 및 반도체 소자 제조 공정 장비용 부분품으로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처는 반도체 제조 및 태양광용 잉곳, LED용 칩, 반도체 생산업체입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"LED\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사에서 생산하는 제품은 반도체 및 실리콘 웨이퍼의 제조공정에 사용되는 장비의 부분품과 LED 및 반도체 소자 제조 공정 장비용 부분품으로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Graphite\",\n      \"weight\": 0.98,\n      \"direction\": null,\n      \"evidence\": \"당사는 주요 구입 품목 중 Graphite(고순도 흑연)가 가장 큰 비중을 차지하고 있으며, 최대주주인 TOKAI CARBON CO.,LTD.로부터 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 2010년 하반기부터 경기도 안성시 개정리에 신공장 증설을 진행하여 2011년 04월에 증설을 완료하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화표시 매출, 매입거래에 따라 환율변동에 의한 리스크가 상존하고 있으며, 재무구조의 건전성 및 지속가능한 경영 실현을 위해 환 리스크 관리를 하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/064760_20260310002891.txt"
+}

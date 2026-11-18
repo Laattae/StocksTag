@@ -1,0 +1,66 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.94,
+      "direction": null,
+      "evidence": "당사의 화장품사업부문의 2025년 당기 매출액은 409,163백만원이며, 매출비율은 93.59%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "라미네이팅",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "라이네이팅 사업부문의 2025년 당기말 매출액은 27,433백만원이며 매출비율은 6.27% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "코스메카코리아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "이엔씨",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "라미네이팅 | 라미네이터 | 파주문발"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 대형기계위주의 고부가가치 제품으로 시장 경쟁자들과 차별화된 신제품 LAMIMASTER IDH-54 PAIR DUPLEX HS 150을 미국, 유럽 디지털 사진 시장에 공급하며 큰 호응을 얻고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "기존 국내 및 일본시장에서의 입지 역시 확고히 다져 나가고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 제품수출 및 외화차입거래 등과 관련하여 주로 USD, CNY, EUR, JPY 등 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.94,\n      \"direction\": null,\n      \"evidence\": \"당사의 화장품사업부문의 2025년 당기 매출액은 409,163백만원이며, 매출비율은 93.59%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라미네이팅\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"라이네이팅 사업부문의 2025년 당기말 매출액은 27,433백만원이며 매출비율은 6.27% 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"코스메카코리아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"이엔씨\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 매입처는 코스메카코리아와 연결종속회사 이엔씨로 구매처와의 관계는 상호 공조하는 관계입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"라미네이팅 | 라미네이터 | 파주문발\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 대형기계위주의 고부가가치 제품으로 시장 경쟁자들과 차별화된 신제품 LAMIMASTER IDH-54 PAIR DUPLEX HS 150을 미국, 유럽 디지털 사진 시장에 공급하며 큰 호응을 얻고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"기존 국내 및 일본시장에서의 입지 역시 확고히 다져 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 제품수출 및 외화차입거래 등과 관련하여 주로 USD, CNY, EUR, JPY 등 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/018290_20260319001002.txt"
+}

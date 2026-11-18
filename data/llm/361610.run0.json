@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LiBS",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "LiBS | 제품 등 | 분리막 등 | 배터리 소재 | 261,874 | 100.00% | 217,865 | 100.00% | 648,322 | 100.00%"
+    },
+    {
+      "axis": "product",
+      "value": "분리막",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 LiBS(리튬배터리용 분리막) 제조에 필요한 고유기술을 국내 최초로 개발하여 사업화 하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "CCS",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "양면 동시 코팅이 가능한 CCS(Ceramic Coated Separator) 생산 라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "지속적으로 성장 중인 EV 시장을 주요 타겟으로 하여 고품질 분리막 판매를 확대하고자 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "재생에너지 확대, 전력망 안정화 필요성, Data 센터 증가 등으로 글로벌 ESS 시장이 빠르게 성장하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "IT기기에 채용되는 중소형 배터리 시장은 스마트폰/노트북/태블릿 PC 및 전동공구 외에"
+    },
+    {
+      "axis": "application",
+      "value": "로봇",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "단기적으로는 에너지 저장, 중장기적으로는 로봇/휴머노이드 및 전기차 시장의 구조적 성장이 지속될 것으로 전망되며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LiBS | 원재료 매입 | PE | 분리막 생산 | 11,202 | 10,421 | 51,586"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코팅원료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "코팅원료 | 7,605 | 14,187 | 38,225"
+    },
+    {
+      "axis": "raw_material",
+      "value": "윤활기유",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "윤활기유 | 9,884 | 8,175 | 23,523"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 지속적으로 공정/제품을 개선하여 세계 최고 품질의 LiBS를 생산하고 있으며, 충청북도 증평 및 중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충청북도 증평 및 중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 시장 성장",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "분리막 시장은 전방산업인 배터리 시장의 견조한 성장에 힘입어 지속적으로 성장하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LiBS\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"LiBS | 제품 등 | 분리막 등 | 배터리 소재 | 261,874 | 100.00% | 217,865 | 100.00% | 648,322 | 100.00%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"분리막\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 LiBS(리튬배터리용 분리막) 제조에 필요한 고유기술을 국내 최초로 개발하여 사업화 하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CCS\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"양면 동시 코팅이 가능한 CCS(Ceramic Coated Separator) 생산 라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"지속적으로 성장 중인 EV 시장을 주요 타겟으로 하여 고품질 분리막 판매를 확대하고자 합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"재생에너지 확대, 전력망 안정화 필요성, Data 센터 증가 등으로 글로벌 ESS 시장이 빠르게 성장하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"IT기기에 채용되는 중소형 배터리 시장은 스마트폰/노트북/태블릿 PC 및 전동공구 외에\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"로봇\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"단기적으로는 에너지 저장, 중장기적으로는 로봇/휴머노이드 및 전기차 시장의 구조적 성장이 지속될 것으로 전망되며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LiBS | 원재료 매입 | PE | 분리막 생산 | 11,202 | 10,421 | 51,586\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코팅원료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"코팅원료 | 7,605 | 14,187 | 38,225\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"윤활기유\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"윤활기유 | 9,884 | 8,175 | 23,523\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 지속적으로 공정/제품을 개선하여 세계 최고 품질의 LiBS를 생산하고 있으며, 충청북도 증평 및 중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충청북도 증평 및 중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"중국 창저우와 폴란드 실롱스크에 생산라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기차 시장 성장\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"분리막 시장은 전방산업인 배터리 시장의 견조한 성장에 힘입어 지속적으로 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치가 변동될 위험입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/361610_20260316001149.txt"
+}

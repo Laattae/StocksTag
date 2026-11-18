@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "시스템 반도체",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "㈜가온칩스는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주문형 반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "파운드리 공정에 대한 기술적 전문성을 기반으로 고객사의 Custom ASIC(Application-Specific Integrated Circuit, 주문형 반도체) 개발을 설계부터 양산 단계까지 지원합니다."
+    },
+    {
+      "axis": "product",
+      "value": "AI 반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2나노 GAA(Gate-All-Around) 공정을 기반으로 데이터센터 및 HPC용 대형(Big Die) AI 반도체부터 Edge 환경에서 구동되는 차세대 생성형 AI 반도체까지 다양한 AI 반도체 개발을 진행하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "IP",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주) 당사 매입 총금액을 외주가공비와 원재료로 구분하여 기재하였습니다. 외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다."
+    },
+    {
+      "axis": "product",
+      "value": "웨이퍼",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주) 제품 매출 중 기간별 Foundry Wafer 가격에 대한 전체 평균 단가입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "2025년 기준 당사의 반도체 제품 매출 구조는 AI/HPC와 Automotive 분야가 각각 40% 이상을 차지하며 전체 매출의 80% 이상을 구성하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "㈜가온칩스(이하 \"당사\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IP",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "당기말과 전기말 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "인공지능 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "옴디아(Omdia) 등 시장조사기관에 따르면 글로벌 반도체 시장은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서의 반도체 수요 확대에 따라 중장기적인 성장세를 지속할 것으로 전망됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 반도체\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"㈜가온칩스는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주문형 반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"파운드리 공정에 대한 기술적 전문성을 기반으로 고객사의 Custom ASIC(Application-Specific Integrated Circuit, 주문형 반도체) 개발을 설계부터 양산 단계까지 지원합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2나노 GAA(Gate-All-Around) 공정을 기반으로 데이터센터 및 HPC용 대형(Big Die) AI 반도체부터 Edge 환경에서 구동되는 차세대 생성형 AI 반도체까지 다양한 AI 반도체 개발을 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IP\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주) 당사 매입 총금액을 외주가공비와 원재료로 구분하여 기재하였습니다. 외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주) 제품 매출 중 기간별 Foundry Wafer 가격에 대한 전체 평균 단가입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자율주행\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"2025년 기준 당사의 반도체 제품 매출 구조는 AI/HPC와 Automotive 분야가 각각 40% 이상을 차지하며 전체 매출의 80% 이상을 구성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"㈜가온칩스(이하 \\\"당사\\\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IP\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"당기말과 전기말 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인공지능 수요\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"옴디아(Omdia) 등 시장조사기관에 따르면 글로벌 반도체 시장은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서의 반도체 수요 확대에 따라 중장기적인 성장세를 지속할 것으로 전망됩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/399720_20260319001147.txt"
+}

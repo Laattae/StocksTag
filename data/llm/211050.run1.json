@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "손해보험",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "손해보험(장기) |  548,597 | 54.2%"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "생명보험(장기) |  414,686 | 41.0%"
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "손해보험(자동차) |  40,546 | 4.0%"
+    },
+    {
+      "axis": "product",
+      "value": "일반화재보험",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "손해보험(일반) |  7,797 | 0.8%"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "서울 | 13 | 138 | 151"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경기 | 10 | 190 | 200"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인천 | 1 | 43 | 44"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "부산 | - | 40 | 40"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "대구 | - | 55 | 55"
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "일반적으로 보험료는 보험사의 손해율과 정부의 기준금리 변동에 따른 예정이율에 의거하여 결정되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"손해보험(장기) |  548,597 | 54.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"생명보험(장기) |  414,686 | 41.0%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"손해보험(자동차) |  40,546 | 4.0%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반화재보험\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"손해보험(일반) |  7,797 | 0.8%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"서울 | 13 | 138 | 151\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"경기 | 10 | 190 | 200\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인천 | 1 | 43 | 44\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"부산 | - | 40 | 40\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"대구 | - | 55 | 55\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"기준금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"일반적으로 보험료는 보험사의 손해율과 정부의 기준금리 변동에 따른 예정이율에 의거하여 결정되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/211050_20260320001328.txt"
+}

@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Calender",
+      "weight": 0.52,
+      "direction": null,
+      "evidence": "Calender(Roll Press) |  2008.03 |  - |  209,990,251(51.57%) |"
+    },
+    {
+      "axis": "product",
+      "value": "증착 및 검사ㆍ측정장비",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "증착 및검사ㆍ측정장비 | 2000.04 |  - |  64,738,598(15.90%) |"
+    },
+    {
+      "axis": "product",
+      "value": "Coater",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "Coater |  2010.07 |   |  46,037,685(11.31%) |"
+    },
+    {
+      "axis": "product",
+      "value": "Slitter",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "Slitter |  2006.09 |  - |  10,532,082(2.59%) |"
+    },
+    {
+      "axis": "product",
+      "value": "고체전해질",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 이러한 시장 동향에 맞춰 고체전해질 성능 개선과 제조 설비 확충을 통해 시장 진입을 준비하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "씨아이에스 주식회사와 그 종속기업(이하 '연결회사')은 이차전지 전극공정 장비 사업과 증착 및 검사ㆍ측정 장비 사업 등을 주된 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등"
+    },
+    {
+      "axis": "application",
+      "value": "PCB",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "BOE",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 당사는 물가 및 환율 등의 변동으로 인하여 일부 원재료 가격 인상은 있었으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "다만 글로벌 금리 상승, 일부 국가의 전기차 보조금 정책 변화, 지정학적 리스크 등으로 인해 일부 배터리 기업들의 설비 투자 조정이 나타나고 있으며"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"Calender\", \"weight\": 0.52, \"direction\": null, \"evidence\": \"Calender(Roll Press) |  2008.03 |  - |  209,990,251(51.57%) |\"}, {\"axis\": \"product\", \"value\": \"증착 및 검사ㆍ측정장비\", \"weight\": 0.16, \"direction\": null, \"evidence\": \"증착 및검사ㆍ측정장비 | 2000.04 |  - |  64,738,598(15.90%) |\"}, {\"axis\": \"product\", \"value\": \"Coater\", \"weight\": 0.11, \"direction\": null, \"evidence\": \"Coater |  2010.07 |   |  46,037,685(11.31%) |\"}, {\"axis\": \"product\", \"value\": \"Slitter\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"Slitter |  2006.09 |  - |  10,532,082(2.59%) |\"}, {\"axis\": \"product\", \"value\": \"고체전해질\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"당사는 이러한 시장 동향에 맞춰 고체전해질 성능 개선과 제조 설비 확충을 통해 시장 진입을 준비하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"이차전지\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"씨아이에스 주식회사와 그 종속기업(이하 '연결회사')은 이차전지 전극공정 장비 사업과 증착 및 검사ㆍ측정 장비 사업 등을 주된 사업으로 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등\"}, {\"axis\": \"application\", \"value\": \"PCB\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"디스플레이 증착 및 검사장비, 이차전지 및 반도체, PCB 검사장비 사업 등\"}, {\"axis\": \"customer\", \"value\": \"삼성디스플레이\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"}, {\"axis\": \"customer\", \"value\": \"LG디스플레이\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"}, {\"axis\": \"customer\", \"value\": \"BOE\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"주요 고객으로는 LG디스플레이, 삼성디스플레이, BOE 등 글로벌 디스플레이 제조업체들이 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"- 당사는 물가 및 환율 등의 변동으로 인하여 일부 원재료 가격 인상은 있었으나\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"다만 글로벌 금리 상승, 일부 국가의 전기차 보조금 정책 변화, 지정학적 리스크 등으로 인해 일부 배터리 기업들의 설비 투자 조정이 나타나고 있으며\"}]}"
+  ],
+  "text_path": "data/reports/222080_20260320001352.txt"
+}

@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "물리보안 서비스",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "물리보안 서비스, 디지털보안, 이동체보안 등 \n 1,287,861 \n 44.57%"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 서비스",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "부동산 서비스 \n 827,316 \n 28.62%"
+    },
+    {
+      "axis": "product",
+      "value": "통합보안",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "통합보안 \n 511,686 \n 17.71%"
+    },
+    {
+      "axis": "product",
+      "value": "보안SI",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "보안SI \n 342,202 \n 11.84%"
+    },
+    {
+      "axis": "product",
+      "value": "보안상품",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "보안상품 \n 115,854 \n 4.01%"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트팩토리",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "글로벌 시장 역시 미국 내 반도체, 2차전지 등 FAB 확대에 따라 대규모 인프라에 대한 통합 보안 수요가 지속적으로 확대될 전망입니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "글로벌 시장 역시 미국 내 반도체, 2차전지 등 FAB 확대에 따라 대규모 인프라에 대한 통합 보안 수요가 지속적으로 확대될 전망입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "수원사옥 \n 경기도 수원시 팔달구 경수대로 522"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "인재개발원 \n 충청남도 천안시 동남구 북면 양곡1길 262"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": null,
+      "direction": -1,
+      "evidence": "부동산 서비스 사업은 내수 중심의 사업 특성상 건설경기 변동의 영향을 받으나, 주로 1~3년 단위의 장기 계약 체결을 통해 경기 변동에 따른 실적 변동성을 최소화하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"물리보안 서비스\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"물리보안 서비스, 디지털보안, 이동체보안 등 \\n 1,287,861 \\n 44.57%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 서비스\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"부동산 서비스 \\n 827,316 \\n 28.62%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"통합보안\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"통합보안 \\n 511,686 \\n 17.71%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안SI\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"보안SI \\n 342,202 \\n 11.84%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안상품\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"보안상품 \\n 115,854 \\n 4.01%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트팩토리\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"글로벌 시장 역시 미국 내 반도체, 2차전지 등 FAB 확대에 따라 대규모 인프라에 대한 통합 보안 수요가 지속적으로 확대될 전망입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차전지\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"글로벌 시장 역시 미국 내 반도체, 2차전지 등 FAB 확대에 따라 대규모 인프라에 대한 통합 보안 수요가 지속적으로 확대될 전망입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"수원사옥 \\n 경기도 수원시 팔달구 경수대로 522\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"인재개발원 \\n 충청남도 천안시 동남구 북면 양곡1길 262\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"부동산 서비스 사업은 내수 중심의 사업 특성상 건설경기 변동의 영향을 받으나, 주로 1~3년 단위의 장기 계약 체결을 통해 경기 변동에 따른 실적 변동성을 최소화하고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/012750_20260311004583.txt"
+}

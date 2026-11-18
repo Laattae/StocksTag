@@ -1,0 +1,278 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전력기기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전력사업은 발전소에서 만들어진 전력에 대해 수용가까지 전력공급과 계통보호에 전반적으로 사용되는 제품을 생산하는 전력기기/시스템사업과"
+    },
+    {
+      "axis": "product",
+      "value": "초고압변압기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부산 | 초고압변압기, 배전변압기, HVDC Valve, FACTS | 532,036 | 400,830 | 252,771"
+    },
+    {
+      "axis": "product",
+      "value": "EV-Relay",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요재화 및 용역으로는 전력기기, 고압기기, 계량기, 계전기, 초고압, 배전반, 철도시스템, 신재생 에너지, EV-Relay가 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "PLC",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동화사업은 PLC, INVERTER 및 자동화시스템 등 산업자동화를 위한 기기, 시스템 제품 생산과 산업용 통신기기 제조/판매/서비스"
+    },
+    {
+      "axis": "product",
+      "value": "동관",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "금속사업은 전기전자 산업분야 및 건설산업, 가스, 석유화학 플랜트 등의 중화학공업, 조선업 등 기초산업의 소재로 널리 사용되는 동관 및 스테인레스관의 제조 및 판매를 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전력사업은 발전소에서 만들어진 전력에 대해 수용가까지 전력공급과 계통보호에 전반적으로 사용되는 제품을 생산하는 전력기기/시스템사업과"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신규 사업 - SYNERGY사업부를 운영하여, 중국 전기차 관련사업에 적극 참여 - 중국 신재생에너지 추세에 따라 PV/ESS 사업 전개"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "금속사업은 전기전자 산업분야 및 건설산업, 가스, 석유화학 플랜트 등의 중화학공업, 조선업 등 기초산업의 소재로 널리 사용되는 동관 및 스테인레스관의 제조 및 판매를 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내/외 데이터센터(IDC), 신재생에너지 등 전력기기 수요 증가에 따른 End-user 집중 공략"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성에스디아이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1"
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(주)엘지에너지솔루션 | 4.6 | SAMSUNG E&C AMERICA, INC. | 2.2 | 기타 | 49.5"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원재료 | 전기동 등 | 동관 생산 | 343,405 | 89.3 | 엘에스엠앤엠 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 | 은, 동, 철, 알루미늄, 전기강판 등 | 전기도체, 외함, 커버 등 | 191,483 | 9.62"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "LS타워(본사) | 경기도 안양시 동안구 엘에스로"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "청주사업장 | 충북 청주시 송정동"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부산사업장 | 부산광역시 강서구 화전동"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "중국 | 무석 | Wuxi, Jiangsu, P.R. China"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "북미 | 미국(LS ELECTRIC/LS이모빌리티솔루션) | County of New Castle, Delaware, USA"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 원자재 가격변동위험을 회피하기 위한 원자재 관련 선물계약과 외환변동위험을 회피하기 위한 통화선도거래를 체결하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 원자재 가격변동위험을 회피하기 위한 원자재 관련 선물계약과 외환변동위험을 회피하기 위한 통화선도거래를 체결하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "EV Relay",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고전압 계통(DC 450V 이상)의 고전류나 이상전류 발생 시 기계적으로 전기배터리의 전원을 ON/OFF하는 기능 및 높은 전압, 전류를 제어하는 기능을 갖춘 EV Relay 사업"
+    },
+    {
+      "axis": "product",
+      "value": "초고압변압기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2024.05. 1,008억원 규모 부산공장 초고압 변압기 시설 증설"
+    },
+    {
+      "axis": "product",
+      "value": "PLC",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동화 분야의 주요 제품인 PLC, 인버터는 산업자동화 및 에너지절약 기기로 중요성이 높은 기간산업이라 할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인버터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동화 분야의 주요 제품인 PLC, 인버터는 산업자동화 및 에너지절약 기기로 중요성이 높은 기간산업이라 할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "동관",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "비철금속 중 기능금속소재인 동관(Copper Tubes)은 열전도성, 내식성, 가공성이 우수하여 전기 전자 산업 분야와 건축용 배관에 사용되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스테인리스관",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "스테인레스관(Stainless Steel Welded Pipes, 이하 STS관으로 표기)은 건축용 배관, 가스, 석유화학 플랜트 등의 중화학공업과 조선업 등의 기초산업 소재로 널리 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전력산업은 고도의 안전성과 신뢰성이 요구되는 국가의 기반 산업이자 기술집약적 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고전압 배터리를 사용하는 전기자동차, 전기차 충전기 등 모든 시스템에 필수 적용이 되어야 하고"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근에는 데이터사업의 성장과 반도체 클러스터 구축 등으로 인한 전력계통 및 전력설비 등의 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신재생에너지의 단점인 전력 생산/공급 불균형을 해소하기 위하여 특정시간에 생산된 전기를 배터리에 저장 후 원하는 시간에 저장된 전기를 사용하는 에너지 저장장치가 사용되고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "폭스바겐",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "르노",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "볼보",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "동관은 원재료인 전기동의 국제가격과 환율에 영향을 받으며, 주요 고객인 에어컨 산업의 경기와 연동되는 특성을 보입니다."
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2024.05. 1,008억원 규모 부산공장 초고압 변압기 시설 증설"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 외화자산 및 외화부채의 환율변동의 위험을 회피하기 위하여 2개의 금융기관과 통화선도거래를 하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 원자재 가격변동 위험을 회피하기 위하여 원자재 관련 선물계약을 체결하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력기기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전력사업은 발전소에서 만들어진 전력에 대해 수용가까지 전력공급과 계통보호에 전반적으로 사용되는 제품을 생산하는 전력기기/시스템사업과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초고압변압기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"부산 | 초고압변압기, 배전변압기, HVDC Valve, FACTS | 532,036 | 400,830 | 252,771\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EV-Relay\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요재화 및 용역으로는 전력기기, 고압기기, 계량기, 계전기, 초고압, 배전반, 철도시스템, 신재생 에너지, EV-Relay가 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PLC\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자동화사업은 PLC, INVERTER 및 자동화시스템 등 산업자동화를 위한 기기, 시스템 제품 생산과 산업용 통신기기 제조/판매/서비스\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동관\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"금속사업은 전기전자 산업분야 및 건설산업, 가스, 석유화학 플랜트 등의 중화학공업, 조선업 등 기초산업의 소재로 널리 사용되는 동관 및 스테인레스관의 제조 및 판매를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전력사업은 발전소에서 만들어진 전력에 대해 수용가까지 전력공급과 계통보호에 전반적으로 사용되는 제품을 생산하는 전력기기/시스템사업과\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신규 사업 - SYNERGY사업부를 운영하여, 중국 전기차 관련사업에 적극 참여 - 중국 신재생에너지 추세에 따라 PV/ESS 사업 전개\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"금속사업은 전기전자 산업분야 및 건설산업, 가스, 석유화학 플랜트 등의 중화학공업, 조선업 등 기초산업의 소재로 널리 사용되는 동관 및 스테인레스관의 제조 및 판매를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내/외 데이터센터(IDC), 신재생에너지 등 전력기기 수요 증가에 따른 End-user 집중 공략\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성에스디아이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG에너지솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(주)엘지에너지솔루션 | 4.6 | SAMSUNG E&C AMERICA, INC. | 2.2 | 기타 | 49.5\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기동\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 전기동 등 | 동관 생산 | 343,405 | 89.3 | 엘에스엠앤엠 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 은, 동, 철, 알루미늄, 전기강판 등 | 전기도체, 외함, 커버 등 | 191,483 | 9.62\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"LS타워(본사) | 경기도 안양시 동안구 엘에스로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"청주사업장 | 충북 청주시 송정동\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"부산사업장 | 부산광역시 강서구 화전동\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"중국 | 무석 | Wuxi, Jiangsu, P.R. China\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"북미 | 미국(LS ELECTRIC/LS이모빌리티솔루션) | County of New Castle, Delaware, USA\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 원자재 가격변동위험을 회피하기 위한 원자재 관련 선물계약과 외환변동위험을 회피하기 위한 통화선도거래를 체결하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 원자재 가격변동위험을 회피하기 위한 원자재 관련 선물계약과 외환변동위험을 회피하기 위한 통화선도거래를 체결하고 있으며\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"EV Relay\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고전압 계통(DC 450V 이상)의 고전류나 이상전류 발생 시 기계적으로 전기배터리의 전원을 ON/OFF하는 기능 및 높은 전압, 전류를 제어하는 기능을 갖춘 EV Relay 사업\"}, {\"axis\": \"product\", \"value\": \"초고압변압기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"2024.05. 1,008억원 규모 부산공장 초고압 변압기 시설 증설\"}, {\"axis\": \"product\", \"value\": \"PLC\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"자동화 분야의 주요 제품인 PLC, 인버터는 산업자동화 및 에너지절약 기기로 중요성이 높은 기간산업이라 할 수 있습니다.\"}, {\"axis\": \"product\", \"value\": \"인버터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"자동화 분야의 주요 제품인 PLC, 인버터는 산업자동화 및 에너지절약 기기로 중요성이 높은 기간산업이라 할 수 있습니다.\"}, {\"axis\": \"product\", \"value\": \"동관\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"비철금속 중 기능금속소재인 동관(Copper Tubes)은 열전도성, 내식성, 가공성이 우수하여 전기 전자 산업 분야와 건축용 배관에 사용되고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"스테인리스관\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"스테인레스관(Stainless Steel Welded Pipes, 이하 STS관으로 표기)은 건축용 배관, 가스, 석유화학 플랜트 등의 중화학공업과 조선업 등의 기초산업 소재로 널리 사용되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전력망\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전력산업은 고도의 안전성과 신뢰성이 요구되는 국가의 기반 산업이자 기술집약적 산업으로\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고전압 배터리를 사용하는 전기자동차, 전기차 충전기 등 모든 시스템에 필수 적용이 되어야 하고\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"최근에는 데이터사업의 성장과 반도체 클러스터 구축 등으로 인한 전력계통 및 전력설비 등의 수요가 증가하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"신재생에너지\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"신재생에너지의 단점인 전력 생산/공급 불균형을 해소하기 위하여 특정시간에 생산된 전기를 배터리에 저장 후 원하는 시간에 저장된 전기를 사용하는 에너지 저장장치가 사용되고 있으며\"}, {\"axis\": \"customer\", \"value\": \"폭스바겐\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"르노\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"볼보\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LS EV Relay 제품은 LS이모빌리티솔루션의 풍부한 Reference를 바탕으로 타 경쟁사 대비 유리한 조건으로 폭스바겐, 르노, 볼보 등 글로벌 자동차 업체들에게 납품을 진행할 수 있는 강점이 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"전기동\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"동관은 원재료인 전기동의 국제가격과 환율에 영향을 받으며, 주요 고객인 에어컨 산업의 경기와 연동되는 특성을 보입니다.\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2024.05. 1,008억원 규모 부산공장 초고압 변압기 시설 증설\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"회사는 외화자산 및 외화부채의 환율변동의 위험을 회피하기 위하여 2개의 금융기관과 통화선도거래를 하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"회사는 원자재 가격변동 위험을 회피하기 위하여 원자재 관련 선물계약을 체결하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/010120_20260318001243.txt"
+}

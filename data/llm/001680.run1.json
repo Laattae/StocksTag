@@ -1,0 +1,208 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "고추장",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "식품사업은 국내 대표적인 종합 식품 브랜드인 '청정원'을 중심으로 '순창고추장' 등 전통 장류부터"
+    },
+    {
+      "axis": "product",
+      "value": "김치",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "또한 국내 대표적인 김치 브랜드인 '종가'를 중심으로 맛김치, 포기김치, 총각김치 등의 김치류 및 반찬류"
+    },
+    {
+      "axis": "product",
+      "value": "전분당",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소재사업은 국내 최대의 전분 및 전분당 생산규모를 보유한 전분당 사업과"
+    },
+    {
+      "axis": "product",
+      "value": "MSG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MSG, 핵산, 아스파탐, L-페닐알라닌, 라이신, 아르기닌, 트립토판 등을 생산하는 바이오 사업으로 구성됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "라이신",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "사료업계",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "이마트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "쿠팡",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원재료 옥수수 제조 257,115(41.6) 310,436(48.9) 235,564(38.0) COFCO, POSCO 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "배추",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료 배추, 절임배추 제조 82,058(13.3) 63,546(10.0) 76,167(12.3) -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "커피생두",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원재료 커피(생두) 제조 47,280(7.7) 26,857(4.2) 30,160(4.9) -"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한 주요 종속회사로는 인도네시아 지역에서 전분당, 조미료 사업을 영위하는 PT DAESANG INGREDIENTS INDONESIA"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "베트남 지역에서 식품 및 소재사업을 영위하는 DAESANG VIETNAM, 국내에서 소스 및 추출농축류"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업은 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사 및 종속회사의 주요 가격변동요인은 원재료 가격변동 및 생산비용 증가에 따른 원가상승과 글로벌 시장 공급 및 수요에 따른 가격 변동 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "김치",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한국 음식에 대한 전 세계적으로 높아지고 있는 관심을 발판 삼아 당사가 경쟁력을 보유한 김치, 고추장, 한식 편의식 등 K-FOOD 가공식품의 수출 증가도 기대됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "MSG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "식품제조업(미원류, 장류, 조미료류, 서구식품류, 당류육가공류, 냉동식품류, 즉석편의식류, 신선식품류 등)식품도소매업 등"
+    },
+    {
+      "axis": "product",
+      "value": "전분당",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재 사업은 발효기술을 기반으로한, 조미 소재, 아미노산, 클로렐라 등의 BIO, 라이신 사업과 탄수화물 가공기술을 통한 다양한 식생활 및 기능성 소재를 제공하는 전분당 사업으로 나누어 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "라이신",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "소재사업 | 대상(주), PT DAESANG INGREDIENTS INDONESIA, DAESANG VIETNAM, DAESANG AMERICA INC. 외 | 전분류, 당류, 바이오류, 라이신 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "고추장",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국 음식에 대한 전 세계적으로 높아지고 있는 관심을 발판 삼아 당사가 경쟁력을 보유한 김치, 고추장, 한식 편의식 등 K-FOOD 가공식품의 수출 증가도 기대됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어, 국제 선물가격, 해상운임료 및 환율에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어, 국제 선물가격, 해상운임료 및 환율에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "음식료품 제조업체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사를 포함한 연결회사는 제품 및 제조공정의 특성 및 최종소비자 등을 고려하여 식품사업부문, 소재사업부문 등으로 구분하고 있으며, 연결회사제품의 주요고객은 음식료품 제조업체, 음식료소비자 입니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"고추장\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"식품사업은 국내 대표적인 종합 식품 브랜드인 '청정원'을 중심으로 '순창고추장' 등 전통 장류부터\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"김치\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"또한 국내 대표적인 김치 브랜드인 '종가'를 중심으로 맛김치, 포기김치, 총각김치 등의 김치류 및 반찬류\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전분당\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소재사업은 국내 최대의 전분 및 전분당 생산규모를 보유한 전분당 사업과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MSG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"MSG, 핵산, 아스파탐, L-페닐알라닌, 라이신, 아르기닌, 트립토판 등을 생산하는 바이오 사업으로 구성됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라이신\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"사료업계\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"이마트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"쿠팡\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"원재료 옥수수 제조 257,115(41.6) 310,436(48.9) 235,564(38.0) COFCO, POSCO 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"배추\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료 배추, 절임배추 제조 82,058(13.3) 63,546(10.0) 76,167(12.3) -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"커피생두\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원재료 커피(생두) 제조 47,280(7.7) 26,857(4.2) 30,160(4.9) -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"또한 주요 종속회사로는 인도네시아 지역에서 전분당, 조미료 사업을 영위하는 PT DAESANG INGREDIENTS INDONESIA\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"베트남 지역에서 식품 및 소재사업을 영위하는 DAESANG VIETNAM, 국내에서 소스 및 추출농축류\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사 및 종속회사의 주요 가격변동요인은 원재료 가격변동 및 생산비용 증가에 따른 원가상승과 글로벌 시장 공급 및 수요에 따른 가격 변동 입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"김치\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한국 음식에 대한 전 세계적으로 높아지고 있는 관심을 발판 삼아 당사가 경쟁력을 보유한 김치, 고추장, 한식 편의식 등 K-FOOD 가공식품의 수출 증가도 기대됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MSG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"식품제조업(미원류, 장류, 조미료류, 서구식품류, 당류육가공류, 냉동식품류, 즉석편의식류, 신선식품류 등)식품도소매업 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전분당\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 발효기술을 기반으로한, 조미 소재, 아미노산, 클로렐라 등의 BIO, 라이신 사업과 탄수화물 가공기술을 통한 다양한 식생활 및 기능성 소재를 제공하는 전분당 사업으로 나누어 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라이신\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"소재사업 | 대상(주), PT DAESANG INGREDIENTS INDONESIA, DAESANG VIETNAM, DAESANG AMERICA INC. 외 | 전분류, 당류, 바이오류, 라이신 등 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고추장\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국 음식에 대한 전 세계적으로 높아지고 있는 관심을 발판 삼아 당사가 경쟁력을 보유한 김치, 고추장, 한식 편의식 등 K-FOOD 가공식품의 수출 증가도 기대됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어, 국제 선물가격, 해상운임료 및 환율에 큰 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어, 국제 선물가격, 해상운임료 및 환율에 큰 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"음식료품 제조업체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사를 포함한 연결회사는 제품 및 제조공정의 특성 및 최종소비자 등을 고려하여 식품사업부문, 소재사업부문 등으로 구분하고 있으며, 연결회사제품의 주요고객은 음식료품 제조업체, 음식료소비자 입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 해외 제조 기반이 있는 인도네시아, 베트남, 중국 등은 매력적인 인구 구조와 함께 현지 소득수준이 빠르게 향상되고 있어 식품산업의 성장 가능성이 높습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/001680_20260327000936.txt"
+}

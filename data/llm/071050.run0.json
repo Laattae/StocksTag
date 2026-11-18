@@ -1,0 +1,271 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자산관리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한국투자증권은 기존 위탁중개 수익에 의존해 오던 금융투자회사의 수익구조에서 벗어나 자산관리(Asset Management), IB (Investment Banking), 자기자본투자(Principal Investment) 등 다변화되고 안정적인 수익모델을 구축하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위탁중개",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국투자증권은 기존 위탁중개 수익에 의존해 오던 금융투자회사의 수익구조에서 벗어나 자산관리(Asset Management), IB (Investment Banking), 자기자본투자(Principal Investment) 등 다변화되고 안정적인 수익모델을 구축하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "집합투자업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자산운용 | 집합투자업, 투자자문 등과 이에 수반되는 업무 | 한국투자신탁운용 한국투자밸류자산운용 한국투자리얼에셋운용"
+    },
+    {
+      "axis": "product",
+      "value": "여·수신",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "저축은행 | 상호저축은행법에 따른 서민, 중소기업 대상 여·수신 취급 등과 이에 수반되는 업무 | 한국투자저축은행"
+    },
+    {
+      "axis": "product",
+      "value": "부동산신탁",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산신탁 | 부동산신탁업 및 이에 수반되는 업무 | 한국투자부동산신탁"
+    },
+    {
+      "axis": "application",
+      "value": "부동산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "향후 한국투자리얼에셋운용은 강점인 부동산개발펀드와 더불어, 국내외 부동산실물펀드, 인프라펀드 등으로 투자 대상을 다양화할 예정입니다."
+    },
+    {
+      "axis": "application",
+      "value": "중소기업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "저축은행 | 상호저축은행법에 따른 서민, 중소기업 대상 여·수신 취급 등과 이에 수반되는 업무 | 한국투자저축은행"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "최근에는 동아시아를 넘어 미국 등 선진 금융시장에 적극적으로 진출하며 금융영토 확장에도 힘쓰며 업계를 선도하는 투자은행으로서 주도적인 위치를 강화해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한국투자증권의 자회사인 KIS Vietnam Securites Corporation(이하 KIS Vietnam)은 베트남 시장에서 Brokerage와 리테일 고객 대상 신용공여를 주된 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국투자증권은 Danpac증권을 인수하여, 2018년 6월 PT Korea Investment & Sekuritas Indonesia(이하 KIS Indonesia)로 사명을 변경하였으며 한국투자증권 자회사로 편입하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국투자증권의 자회사인 Korea Investment & Securities Asia Limited (이하 KIS Asia)는 홍콩시장에서 외국인 기관투자자를 대상으로 하는 한국주식 Brokerage 업무를 주된 사업으로 영위하여 왔습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "대외 불확실성",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "한국투자저축은행은 2025년 대외 불확실성 증대에 대응하여 리스크 관리 중심의 내실 경영을 전개하는 동시에, 시장 변화에 발맞춘 영업 기반 다변화에 주력하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ELS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "파생결합증권 | ELS | 87,400 | - | 87,400"
+    },
+    {
+      "axis": "product",
+      "value": "신용융자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신용융자 | 1,214,138 | 1,319,948 | 1,301,497 | 1,270,751 | 1,317,695 | 1,533,835"
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "발행어음 | - | - | - | - | - | - | - | 17,575 | - | 501,314 | 518,889"
+    },
+    {
+      "axis": "product",
+      "value": "주식형 펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주식형 | 18,696,852 | 12,064,510 | 8,830,701"
+    },
+    {
+      "axis": "product",
+      "value": "채권형 펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "채권형 | 16,891,706 | 13,282,755 | 8,842,881"
+    },
+    {
+      "axis": "application",
+      "value": "AI 반도체",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "한국 주식시장은 정치적 불확실성이 해소되고, AI 반도체 업종을 중심으로 활황이 이어지며 2025년 전반에 걸친 강세 흐름을 유지했습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "POSCO",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "CDS | 한국투자증권 | 하나증권 | 2023.01.19 | 2028.01.17 | 30,000 | POSCO | - | -"
+    },
+    {
+      "axis": "customer",
+      "value": "SK Hynix Inc",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "CDS | 한국투자증권 | 하나증권 | 2023.03.16 | 2028.01.17 | 71,243 | SK Hynix Inc | - | -"
+    },
+    {
+      "axis": "customer",
+      "value": "LG Chem Ltd.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "CLN | 아이비케이투자증권(신탁) | 한국투자증권 | 2025.06.25 | 2028.03.21 | 50,000 | LG Chem Ltd. | - | -"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "서울 | 24 | 1 | 0 | 25"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부산 | 5 | 0 | 0 | 5"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기 | 9 | 2 | 0 | 11"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "금융투자업은 계절적 요인보다는 경제성장률, 재정정책, 금리 및 환율변동, 무역수지, 물가상승 등 국내외 경제환경 변화에 민감하게 반응하므로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미 연준의 금리 방향과 글로벌 경기 둔화, 미 관세 협상 등의 이슈는 환율 및 주식시장에 지속적인 영향을 끼쳤습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경제성장률",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "금융투자업은 계절적 요인보다는 경제성장률, 재정정책, 금리 및 환율변동, 무역수지, 물가상승 등 국내외 경제환경 변화에 민감하게 반응하므로"
+    },
+    {
+      "axis": "product",
+      "value": "부동산펀드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 집합투자업 중 부동산펀드와 특별자산펀드(인프라, 자원개발 등) 운용업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "특별자산펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 집합투자업 중 부동산펀드와 특별자산펀드(인프라, 자원개발 등) 운용업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "사모헤지펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국투자밸류자산운용은 지속적으로 커지는 사모펀드 시장에 대응하기 위해 2019년부터 사모헤지펀드를 출시하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "부동산프로젝트대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산프로젝트대출은 특정 부동산 프로젝트의 사업성을 평가하여 그 사업에서 발생할 미래 현금흐름을 차입원리금의 주된 상환재원으로 하는 여신 상품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "부동산신탁",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산신탁회사는 신탁계약에서 정한 목적 달성을 위해 신탁 부동산을 개발·관리·처분하며, 신탁종료시 신탁재산을 수익자에게 교부하고 신탁보수를 수취합니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이에 따라 핵심 입지의 코어자산과 데이터센터 등 특정 섹터로 수요가 집중되는 양극화 현상이 심화되는 추세입니다."
+    },
+    {
+      "axis": "application",
+      "value": "인프라",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인프라, 에너지 부문은 장기 안정적 투자를 선호하는 연기금과 보험사, 은행이 사업을 주도하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "주택",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "부동산신탁업은 본질적으로 부동산, 특히 주택경기의 움직임에 따라 수탁고, 이익 규모 및 자산건전성 수준이 민감하게 변화하는 특성을 갖습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "부동산은 거시경제 지표, 특히 금리의 방향에 민감하게 반응합니다. 낮은 금리로 시중유동성이 풍부해진 경우 부동산의 수요가 증가하여 부동산경기는 호황을 보이지만, 반대로 금리가 상승하면 이자부담으로 부동산 수요가 감소하여 부동산 가격이 하락합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주식시장 시황",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "중소기업창업투자회사나 창업투자회사가 운용하는 창투펀드 및 PEF는 투자한 벤처기업이 코스피, 코스닥시장에 상장함으로써 얻게 되는 주식매각이익이 영업수익을 결정함에 따라 IPO시장의 시황 변화가 회사의 손익에 크게 영향을 미치게 됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자산관리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한국투자증권은 기존 위탁중개 수익에 의존해 오던 금융투자회사의 수익구조에서 벗어나 자산관리(Asset Management), IB (Investment Banking), 자기자본투자(Principal Investment) 등 다변화되고 안정적인 수익모델을 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위탁중개\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한국투자증권은 기존 위탁중개 수익에 의존해 오던 금융투자회사의 수익구조에서 벗어나 자산관리(Asset Management), IB (Investment Banking), 자기자본투자(Principal Investment) 등 다변화되고 안정적인 수익모델을 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자산운용 | 집합투자업, 투자자문 등과 이에 수반되는 업무 | 한국투자신탁운용 한국투자밸류자산운용 한국투자리얼에셋운용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"여·수신\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"저축은행 | 상호저축은행법에 따른 서민, 중소기업 대상 여·수신 취급 등과 이에 수반되는 업무 | 한국투자저축은행\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산신탁\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"부동산신탁 | 부동산신탁업 및 이에 수반되는 업무 | 한국투자부동산신탁\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"부동산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"향후 한국투자리얼에셋운용은 강점인 부동산개발펀드와 더불어, 국내외 부동산실물펀드, 인프라펀드 등으로 투자 대상을 다양화할 예정입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중소기업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"저축은행 | 상호저축은행법에 따른 서민, 중소기업 대상 여·수신 취급 등과 이에 수반되는 업무 | 한국투자저축은행\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"최근에는 동아시아를 넘어 미국 등 선진 금융시장에 적극적으로 진출하며 금융영토 확장에도 힘쓰며 업계를 선도하는 투자은행으로서 주도적인 위치를 강화해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"한국투자증권의 자회사인 KIS Vietnam Securites Corporation(이하 KIS Vietnam)은 베트남 시장에서 Brokerage와 리테일 고객 대상 신용공여를 주된 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국투자증권은 Danpac증권을 인수하여, 2018년 6월 PT Korea Investment & Sekuritas Indonesia(이하 KIS Indonesia)로 사명을 변경하였으며 한국투자증권 자회사로 편입하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"홍콩\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국투자증권의 자회사인 Korea Investment & Securities Asia Limited (이하 KIS Asia)는 홍콩시장에서 외국인 기관투자자를 대상으로 하는 한국주식 Brokerage 업무를 주된 사업으로 영위하여 왔습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"대외 불확실성\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"한국투자저축은행은 2025년 대외 불확실성 증대에 대응하여 리스크 관리 중심의 내실 경영을 전개하는 동시에, 시장 변화에 발맞춘 영업 기반 다변화에 주력하였습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"ELS\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"파생결합증권 | ELS | 87,400 | - | 87,400\"}, {\"axis\": \"product\", \"value\": \"신용융자\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"신용융자 | 1,214,138 | 1,319,948 | 1,301,497 | 1,270,751 | 1,317,695 | 1,533,835\"}, {\"axis\": \"product\", \"value\": \"발행어음\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"발행어음 | - | - | - | - | - | - | - | 17,575 | - | 501,314 | 518,889\"}, {\"axis\": \"product\", \"value\": \"주식형 펀드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"주식형 | 18,696,852 | 12,064,510 | 8,830,701\"}, {\"axis\": \"product\", \"value\": \"채권형 펀드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"채권형 | 16,891,706 | 13,282,755 | 8,842,881\"}, {\"axis\": \"application\", \"value\": \"AI 반도체\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"한국 주식시장은 정치적 불확실성이 해소되고, AI 반도체 업종을 중심으로 활황이 이어지며 2025년 전반에 걸친 강세 흐름을 유지했습니다.\"}, {\"axis\": \"customer\", \"value\": \"POSCO\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"CDS | 한국투자증권 | 하나증권 | 2023.01.19 | 2028.01.17 | 30,000 | POSCO | - | -\"}, {\"axis\": \"customer\", \"value\": \"SK Hynix Inc\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"CDS | 한국투자증권 | 하나증권 | 2023.03.16 | 2028.01.17 | 71,243 | SK Hynix Inc | - | -\"}, {\"axis\": \"customer\", \"value\": \"LG Chem Ltd.\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"CLN | 아이비케이투자증권(신탁) | 한국투자증권 | 2025.06.25 | 2028.03.21 | 50,000 | LG Chem Ltd. | - | -\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"서울 | 24 | 1 | 0 | 25\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"부산 | 5 | 0 | 0 | 5\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"경기 | 9 | 2 | 0 | 11\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"금융투자업은 계절적 요인보다는 경제성장률, 재정정책, 금리 및 환율변동, 무역수지, 물가상승 등 국내외 경제환경 변화에 민감하게 반응하므로\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"미 연준의 금리 방향과 글로벌 경기 둔화, 미 관세 협상 등의 이슈는 환율 및 주식시장에 지속적인 영향을 끼쳤습니다.\"}, {\"axis\": \"exposure\", \"value\": \"경제성장률\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"금융투자업은 계절적 요인보다는 경제성장률, 재정정책, 금리 및 환율변동, 무역수지, 물가상승 등 국내외 경제환경 변화에 민감하게 반응하므로\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"부동산펀드\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 집합투자업 중 부동산펀드와 특별자산펀드(인프라, 자원개발 등) 운용업무를 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"특별자산펀드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 집합투자업 중 부동산펀드와 특별자산펀드(인프라, 자원개발 등) 운용업무를 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"사모헤지펀드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"한국투자밸류자산운용은 지속적으로 커지는 사모펀드 시장에 대응하기 위해 2019년부터 사모헤지펀드를 출시하였으며\"}, {\"axis\": \"product\", \"value\": \"부동산프로젝트대출\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"부동산프로젝트대출은 특정 부동산 프로젝트의 사업성을 평가하여 그 사업에서 발생할 미래 현금흐름을 차입원리금의 주된 상환재원으로 하는 여신 상품입니다.\"}, {\"axis\": \"product\", \"value\": \"부동산신탁\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"부동산신탁회사는 신탁계약에서 정한 목적 달성을 위해 신탁 부동산을 개발·관리·처분하며, 신탁종료시 신탁재산을 수익자에게 교부하고 신탁보수를 수취합니다.\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"이에 따라 핵심 입지의 코어자산과 데이터센터 등 특정 섹터로 수요가 집중되는 양극화 현상이 심화되는 추세입니다.\"}, {\"axis\": \"application\", \"value\": \"인프라\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"인프라, 에너지 부문은 장기 안정적 투자를 선호하는 연기금과 보험사, 은행이 사업을 주도하고 있으며\"}, {\"axis\": \"application\", \"value\": \"주택\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"부동산신탁업은 본질적으로 부동산, 특히 주택경기의 움직임에 따라 수탁고, 이익 규모 및 자산건전성 수준이 민감하게 변화하는 특성을 갖습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.9, \"direction\": -1, \"evidence\": \"부동산은 거시경제 지표, 특히 금리의 방향에 민감하게 반응합니다. 낮은 금리로 시중유동성이 풍부해진 경우 부동산의 수요가 증가하여 부동산경기는 호황을 보이지만, 반대로 금리가 상승하면 이자부담으로 부동산 수요가 감소하여 부동산 가격이 하락합니다.\"}, {\"axis\": \"exposure\", \"value\": \"주식시장 시황\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"중소기업창업투자회사나 창업투자회사가 운용하는 창투펀드 및 PEF는 투자한 벤처기업이 코스피, 코스닥시장에 상장함으로써 얻게 되는 주식매각이익이 영업수익을 결정함에 따라 IPO시장의 시황 변화가 회사의 손익에 크게 영향을 미치게 됩니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/071050_20260319001006.txt"
+}

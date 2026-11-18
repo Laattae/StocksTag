@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "HRSG",
+      "weight": 0.78,
+      "direction": null,
+      "evidence": "HRSG(Heat Recovery Steam Generator) | 605,913 | 78.3"
+    },
+    {
+      "axis": "product",
+      "value": "보일러",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "보일러(Boiler) | 97,227 | 12.6"
+    },
+    {
+      "axis": "product",
+      "value": "B.O.P",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "B.O.P(Balance of Plant) | 26,113 | 3.4"
+    },
+    {
+      "axis": "product",
+      "value": "복수기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "열교환기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "탈기기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "화력발전소",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "보일러(Boiler) | 화력발전소 | 97,227 | 12.6"
+    },
+    {
+      "axis": "application",
+      "value": "복합화력발전소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "HRSG(Heat Recovery Steam Generator) | 복합화력발전소, 열병합발전소 | 605,913 | 78.3"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "B.O.P(Balance of Plant) | 화력발전소,복합화력발전소,원자력발전소 등 | 26,113 | 3.4"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주된 고객으로는 한전을 비롯한 전력회사 및 발전사업자, 국내외 대형건설사, 포스코를 포함한 제철회사 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주된 고객으로는 한전을 비롯한 전력회사 및 발전사업자, 국내외 대형건설사, 포스코를 포함한 제철회사 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Tube",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "Tube | 제품 제작에필요한 원재료 | 37,086 | 6.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Plate",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "Plate | 32,876 | 6.0"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Pipe",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "Pipe | 18,604 | 3.4"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Forging",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Forging | 3,719 | 0.7"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"HRSG\",\n      \"weight\": 0.78,\n      \"direction\": null,\n      \"evidence\": \"HRSG(Heat Recovery Steam Generator) | 605,913 | 78.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보일러\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"보일러(Boiler) | 97,227 | 12.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"B.O.P\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"B.O.P(Balance of Plant) | 26,113 | 3.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"복수기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열교환기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탈기기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"이 중 당사가 생산하는 발전설비는 주기기인 각종 보일러(Boiler)류 및 배열회수보일러(HRSG), 보조기기인 복수기(Condenser), 열교환기(Heat Exchanger), 탈기기(Deaerator)등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화력발전소\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"보일러(Boiler) | 화력발전소 | 97,227 | 12.6\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"복합화력발전소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"HRSG(Heat Recovery Steam Generator) | 복합화력발전소, 열병합발전소 | 605,913 | 78.3\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력발전소\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"B.O.P(Balance of Plant) | 화력발전소,복합화력발전소,원자력발전소 등 | 26,113 | 3.4\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주된 고객으로는 한전을 비롯한 전력회사 및 발전사업자, 국내외 대형건설사, 포스코를 포함한 제철회사 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주된 고객으로는 한전을 비롯한 전력회사 및 발전사업자, 국내외 대형건설사, 포스코를 포함한 제철회사 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Tube\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"Tube | 제품 제작에필요한 원재료 | 37,086 | 6.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Plate\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"Plate | 32,876 | 6.0\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Pipe\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"Pipe | 18,604 | 3.4\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Forging\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Forging | 3,719 | 0.7\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/083650_20260320000821.txt"
+}

@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "MDF",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "소재사업 부문은 보드 (PB, MDF 등) 공급하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "전해액",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "화학사업 부문은 TEGO, 전해액 등 전자재료"
+    },
+    {
+      "axis": "product",
+      "value": "PB",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "소재사업 부문은 보드 (PB, MDF 등) 공급하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "강화마루",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "하우징사업 부문은 건장재(마루) 등의 제품을 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TEGO필름",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "화학사업 부문은 TEGO, 전해액 등 전자재료"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "최근 전기 자동차 시장과 ESS시장 성장에 따라 2차전지에 요구되는 용량 역시 증가하게 되면서"
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "최근 전기 자동차 시장과 ESS시장 성장에 따라 2차전지에 요구되는 용량 역시 증가하게 되면서"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "리튬 2차전지는 초기 휴대폰, 노트북, MP3, 디지털카메라 등 IT 및 모바일용 소형전지 중심으로 시장이 성장하였고"
+    },
+    {
+      "axis": "application",
+      "value": "전동공구",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "이후 전동공구, 전기자전거, 전기자동차 등 소형전지대비 고출력을 요구하는 응용제품으로까지 적용범위가 확대되었습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원목",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원목 (원/TON) | 국내 | 83,776 | 86,221 | 84,357 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐목",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "폐목 (원/TON) | 국내 | 31,117 | 37,376 | 36,623 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "메탄올",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "메탄올, 요소 등 (원/㎏) | 수입 | 649 | 641 | 635 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "요소",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "메탄올, 요소 등 (원/㎏) | 수입 | 649 | 641 | 635 |"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "베트남 남부는 베트남산 고무나무를 주요 원재료로 사용하고 있으며, 베트남 북부는 아카시아 및 소나무를 원재료로 사용하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "핀란드",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2017년 10월에는 핀란드에서 테고필름, Core stock 제품을 생산 판매하는 Dongwha Finland 회사를 인수하며"
+    },
+    {
+      "axis": "region",
+      "value": "헝가리",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "고객사들의 물량 대응하기 위해 헝가리 지역에 전해액 공장 준공 하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "25년 2월 미국 현지에 공장을 준공 하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결기업의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결기업의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있으나"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"MDF\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"소재사업 부문은 보드 (PB, MDF 등) 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전해액\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"화학사업 부문은 TEGO, 전해액 등 전자재료\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PB\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"소재사업 부문은 보드 (PB, MDF 등) 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"강화마루\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"하우징사업 부문은 건장재(마루) 등의 제품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TEGO필름\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"화학사업 부문은 TEGO, 전해액 등 전자재료\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"최근 전기 자동차 시장과 ESS시장 성장에 따라 2차전지에 요구되는 용량 역시 증가하게 되면서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"최근 전기 자동차 시장과 ESS시장 성장에 따라 2차전지에 요구되는 용량 역시 증가하게 되면서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"리튬 2차전지는 초기 휴대폰, 노트북, MP3, 디지털카메라 등 IT 및 모바일용 소형전지 중심으로 시장이 성장하였고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전동공구\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"이후 전동공구, 전기자전거, 전기자동차 등 소형전지대비 고출력을 요구하는 응용제품으로까지 적용범위가 확대되었습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원목\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원목 (원/TON) | 국내 | 83,776 | 86,221 | 84,357 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"폐목\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"폐목 (원/TON) | 국내 | 31,117 | 37,376 | 36,623 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"메탄올\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"메탄올, 요소 등 (원/㎏) | 수입 | 649 | 641 | 635 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"요소\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"메탄올, 요소 등 (원/㎏) | 수입 | 649 | 641 | 635 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"베트남 남부는 베트남산 고무나무를 주요 원재료로 사용하고 있으며, 베트남 북부는 아카시아 및 소나무를 원재료로 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"핀란드\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2017년 10월에는 핀란드에서 테고필름, Core stock 제품을 생산 판매하는 Dongwha Finland 회사를 인수하며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"헝가리\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"고객사들의 물량 대응하기 위해 헝가리 지역에 전해액 공장 준공 하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"25년 2월 미국 현지에 공장을 준공 하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결기업의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있으나\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결기업의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있으나\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/025900_20260608000293.txt"
+}

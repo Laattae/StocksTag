@@ -1,0 +1,59 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "광고 기획 및 제작",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 제공하는 마케팅 솔루션은 크게 광고 기획/제작, 매체(TV/라디오/옥외 등) 선정, 프로모션 대행 등으로 구분되며"
+    },
+    {
+      "axis": "product",
+      "value": "매체 구매 대행",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "매체사업은 다시 전파매체(TV, 라디오), 인쇄매체(신문, 잡지) 그리고 뉴미디어(온라인, IPTV 등) 등으로 구분됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전자, 금융, 식품, 화장품, 건설, 통신, 건강기능 등 다양한 업종의 광고주를 국내외에서 영입하며 사업을 성장 시켰습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "회사는 국내 광고업을 위해 다음과 같이 토지, 건물을 소유 또는 임차하고 있습니다. (단위: ㎡) 구 분 소재지 토지 건물 합계 비고 ㈜제일기획 서울 3,572 25,173 28,745 -"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Cheil USA Inc 영업수익 215,096 211,274 1.8 영업총이익 96,500 85,976 12.2"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Pengtai Greater China Company Limited 영업수익 185,888 168,427 10.4 영업총이익 141,832 118,890 19.3"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "경기변동에 대해 광고업은 탄력도가 높다고 할 수 있습니다. 즉, 경기호황시 광고 시장은 더 크게 성장하나 경기침체시에는 경제여건을 반영한 모습을 보여 왔습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고 기획 및 제작\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 제공하는 마케팅 솔루션은 크게 광고 기획/제작, 매체(TV/라디오/옥외 등) 선정, 프로모션 대행 등으로 구분되며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"매체 구매 대행\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"매체사업은 다시 전파매체(TV, 라디오), 인쇄매체(신문, 잡지) 그리고 뉴미디어(온라인, IPTV 등) 등으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전자, 금융, 식품, 화장품, 건설, 통신, 건강기능 등 다양한 업종의 광고주를 국내외에서 영입하며 사업을 성장 시켰습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"회사는 국내 광고업을 위해 다음과 같이 토지, 건물을 소유 또는 임차하고 있습니다. (단위: ㎡) 구 분 소재지 토지 건물 합계 비고 ㈜제일기획 서울 3,572 25,173 28,745 -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Cheil USA Inc 영업수익 215,096 211,274 1.8 영업총이익 96,500 85,976 12.2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Pengtai Greater China Company Limited 영업수익 185,888 168,427 10.4 영업총이익 141,832 118,890 19.3\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"경기변동에 대해 광고업은 탄력도가 높다고 할 수 있습니다. 즉, 경기호황시 광고 시장은 더 크게 성장하나 경기침체시에는 경제여건을 반영한 모습을 보여 왔습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/030000_20260310002959.txt"
+}

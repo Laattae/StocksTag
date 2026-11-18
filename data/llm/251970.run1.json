@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "화장품 용기",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "당사와 튜브 용기를 제조하는 종속회사 부국티엔씨로 구성된 용기사업부의 매출액은 2025년 기준 전체 매출액 대비 약 98%의 비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "건강기능식품 사업부의 매출액은 2025년 기준 전체 매출액 대비 약 2%의 비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "사출품",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "화장품 용기 외 | 원재료 | 사출품 | 53,689,677 | 48,194,185 | 37,312,063 | 진우산업, 피티프라스, 이수산업 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원료",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "화장품 용기 외 | 원재료 | 원료 | 23,461,341 | 21,154,933 | 19,443,228 | 폴리팀, 덕산케미칼, 아진화학 주1)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코팅품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "화장품 용기 외 | 원재료 | 코팅품 | 20,981,695 | 19,018,958 | 16,117,516 | SH 테크, 엠케이산업,유브이엠텍 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "증착품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "화장품 용기 외 | 원재료 | 증착품 | 16,518,508 | 18,406,624 | 13,158,162 | SH 테크, 엠케이산업,유브이엠텍 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속품",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "화장품 용기 외 | 원재료 | 금속품 | 4,093,350 | 5,293,085 | 5,804,188 | 대호실업, 정운명판금속 외"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "- 소재지: 인천광역시 부평구 청천동 427-7"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "- 소재지 : 경기도 용인시 처인구 이동읍 화산리 384-7"
+    },
+    {
+      "axis": "application",
+      "value": "화장품 산업",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 전방산업인 화장품 산업의 경기 변동에 직접적인 영향을 받고 있기 때문에 COVID-19와 같은 예기치 못한 업황의 부진에 대응하기 위해 다양한 산업의 포트폴리오를 구축한 사업다각화 전략을 펼치고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "2025년은 관세 이슈, 고환율 등 정치적, 거시적 요인으로 인하여 시장 변동성이 극심하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.98,\n      \"direction\": null,\n      \"evidence\": \"당사와 튜브 용기를 제조하는 종속회사 부국티엔씨로 구성된 용기사업부의 매출액은 2025년 기준 전체 매출액 대비 약 98%의 비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강기능식품\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"건강기능식품 사업부의 매출액은 2025년 기준 전체 매출액 대비 약 2%의 비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"사출품\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 외 | 원재료 | 사출품 | 53,689,677 | 48,194,185 | 37,312,063 | 진우산업, 피티프라스, 이수산업 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원료\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 외 | 원재료 | 원료 | 23,461,341 | 21,154,933 | 19,443,228 | 폴리팀, 덕산케미칼, 아진화학 주1)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코팅품\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 외 | 원재료 | 코팅품 | 20,981,695 | 19,018,958 | 16,117,516 | SH 테크, 엠케이산업,유브이엠텍 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"증착품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 외 | 원재료 | 증착품 | 16,518,508 | 18,406,624 | 13,158,162 | SH 테크, 엠케이산업,유브이엠텍 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"금속품\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"화장품 용기 외 | 원재료 | 금속품 | 4,093,350 | 5,293,085 | 5,804,188 | 대호실업, 정운명판금속 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"- 소재지: 인천광역시 부평구 청천동 427-7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"- 소재지 : 경기도 용인시 처인구 이동읍 화산리 384-7\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품 산업\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 전방산업인 화장품 산업의 경기 변동에 직접적인 영향을 받고 있기 때문에 COVID-19와 같은 예기치 못한 업황의 부진에 대응하기 위해 다양한 산업의 포트폴리오를 구축한 사업다각화 전략을 펼치고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"2025년은 관세 이슈, 고환율 등 정치적, 거시적 요인으로 인하여 시장 변동성이 극심하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/251970_20260319001221.txt"
+}

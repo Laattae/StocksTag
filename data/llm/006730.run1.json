@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "객실",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "관광호텔업 | 객실, 식음료수입 | 133,997,608 | 122,543,805 | 108,841,700 |"
+    },
+    {
+      "axis": "product",
+      "value": "판매수수료",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "쇼핑몰운영 | 판매수수료 | 25,750,657 | 25,382,056 | 25,210,646 |"
+    },
+    {
+      "axis": "product",
+      "value": "식기류",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "식기류 제조 및 판매 | 상품,제품 판매수입 | 35,027,036 | - | - |"
+    },
+    {
+      "axis": "product",
+      "value": "임대관리수입",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "물류시설운영 | 임대관리수입 | 2,252,728 | 2,932,010 | 3,392,850 |"
+    },
+    {
+      "axis": "product",
+      "value": "무연 휘발유",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "무연 휘발유 | 1,270,621 | 34.03% | 2,011,371 | 33.64% | 2,212,104 | 34.05% |"
+    },
+    {
+      "axis": "product",
+      "value": "저유황 경유",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "저유황 경유 | 2,440,319 | 65.01% | 3,902,345 | 65.27% | 4,233,990 | 65.18% |"
+    },
+    {
+      "axis": "application",
+      "value": "관광 산업",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전자상거래",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "국내 물류시장은 온라인쇼핑몰과 전자상거래시장의 폭발적인 성장세로 인한 거래량의 증가로 물류센터에 대한 수요가 지속적으로 확대되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "홈플러스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "지상층: (주)서부티엔디 / 지하층: 홈플러스(주) |"
+    },
+    {
+      "axis": "customer",
+      "value": "호텔신라",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "(주)호텔신라, HUG(주택도시보증공사), 스타벅스 등 |"
+    },
+    {
+      "axis": "customer",
+      "value": "스타벅스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "(주)호텔신라, HUG(주택도시보증공사), 스타벅스 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "무연 휘발유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "무연 휘발유 | 1,270,621 | 34.03% | 2,011,371 | 33.64% | 2,212,104 | 34.05% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "저유황 경유",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "저유황 경유 | 2,440,319 | 65.01% | 3,902,345 | 65.27% | 4,233,990 | 65.18% |"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "서울의 중심, 용산에 문을 연 서울드래곤 시티는 1,700개 객실의 규모를 갖춘 국내 최초 호텔플렉스로"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 인천 연수구에 스퀘어원이라는 복합 쇼핑몰을 운영중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "최종소비자를 대상으로 하고 있어 소비자 성향과 밀접한 연관이 있으며 패션상품 및 소비재 위주의 상품구성으로 경기변동에 상대적으로 민감하다는 특성이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [\n  {\"axis\": \"product\", \"value\": \"객실\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"관광호텔업 | 객실, 식음료수입 | 133,997,608 | 122,543,805 | 108,841,700 |\"},\n  {\"axis\": \"product\", \"value\": \"판매수수료\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"쇼핑몰운영 | 판매수수료 | 25,750,657 | 25,382,056 | 25,210,646 |\"},\n  {\"axis\": \"product\", \"value\": \"식기류\", \"weight\": 0.14, \"direction\": null, \"evidence\": \"식기류 제조 및 판매 | 상품,제품 판매수입 | 35,027,036 | - | - |\"},\n  {\"axis\": \"product\", \"value\": \"임대관리수입\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"물류시설운영 | 임대관리수입 | 2,252,728 | 2,932,010 | 3,392,850 |\"},\n  {\"axis\": \"product\", \"value\": \"무연 휘발유\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"무연 휘발유 | 1,270,621 | 34.03% | 2,011,371 | 33.64% | 2,212,104 | 34.05% |\"},\n  {\"axis\": \"product\", \"value\": \"저유황 경유\", \"weight\": 0.04, \"direction\": null, \"evidence\": \"저유황 경유 | 2,440,319 | 65.01% | 3,902,345 | 65.27% | 4,233,990 | 65.18% |\"},\n  {\"axis\": \"application\", \"value\": \"관광 산업\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며\"},\n  {\"axis\": \"application\", \"value\": \"전자상거래\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"국내 물류시장은 온라인쇼핑몰과 전자상거래시장의 폭발적인 성장세로 인한 거래량의 증가로 물류센터에 대한 수요가 지속적으로 확대되고 있습니다.\"},\n  {\"axis\": \"customer\", \"value\": \"홈플러스\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"지상층: (주)서부티엔디 / 지하층: 홈플러스(주) |\"},\n  {\"axis\": \"customer\", \"value\": \"호텔신라\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"(주)호텔신라, HUG(주택도시보증공사), 스타벅스 등 |\"},\n  {\"axis\": \"customer\", \"value\": \"스타벅스\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"(주)호텔신라, HUG(주택도시보증공사), 스타벅스 등 |\"},\n  {\"axis\": \"raw_material\", \"value\": \"무연 휘발유\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"무연 휘발유 | 1,270,621 | 34.03% | 2,011,371 | 33.64% | 2,212,104 | 34.05% |\"},\n  {\"axis\": \"raw_material\", \"value\": \"저유황 경유\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"저유황 경유 | 2,440,319 | 65.01% | 3,902,345 | 65.27% | 4,233,990 | 65.18% |\"},\n  {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"서울의 중심, 용산에 문을 연 서울드래곤 시티는 1,700개 객실의 규모를 갖춘 국내 최초 호텔플렉스로\"},\n  {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사는 인천 연수구에 스퀘어원이라는 복합 쇼핑몰을 운영중에 있습니다.\"},\n  {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며\"},\n  {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며\"},\n  {\"axis\": \"exposure\", \"value\": \"경기변동\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"최종소비자를 대상으로 하고 있어 소비자 성향과 밀접한 연관이 있으며 패션상품 및 소비재 위주의 상품구성으로 경기변동에 상대적으로 민감하다는 특성이 있습니다.\"}\n]}"
+  ],
+  "text_path": "data/reports/006730_20260319000002.txt"
+}

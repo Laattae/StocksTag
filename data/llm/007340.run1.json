@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "공작기계",
+      "weight": 0.53,
+      "direction": null,
+      "evidence": "공작기계 | 제품 및 상품 | 공작기계 | PUMA 외 | 2,206,617 | 53.1%"
+    },
+    {
+      "axis": "product",
+      "value": "부품",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "부품 | - | 1,368,520 | 33.0%"
+    },
+    {
+      "axis": "product",
+      "value": "배터리",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "배터리 | X-PRO | 385,564 | 9.3%"
+    },
+    {
+      "axis": "product",
+      "value": "튜브",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "튜브 | DONGAH | 191,693 | 4.6%"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자동차용 방진제품은 국내외 자동차 시장의 성장에 기인하여 발전해왔으며, 자동차산업이 성장함에 따라 자동차용 방진제품도 지속적으로 성장하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "합성고무",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고무제품의 주원료는 생고무, 합성고무 등인데, 국내의 경우 생고무를 동남아 등지에서 전량 수입에 의존하며, 기타 합성고무 및 부재료 등은 국내에서 생산되나"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주물소재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "공작기계 | 원재료 |  주물소재 | 국내단가 기준 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "납",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "멕시코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "영국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결회사는 외화표시거래를 통해 원재료 매입 및 제품 수출을 수행하고 있으므로 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고무가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "자동차용 튜브는 원재료인 고무가격의 변동에 영향을 받으며, 해운 물류, 환율의 영향에 따라 수익성의 편차가 발생합니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"공작기계\", \"weight\": 0.53, \"direction\": null, \"evidence\": \"공작기계 | 제품 및 상품 | 공작기계 | PUMA 외 | 2,206,617 | 53.1%\"}, {\"axis\": \"product\", \"value\": \"부품\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"부품 | - | 1,368,520 | 33.0%\"}, {\"axis\": \"product\", \"value\": \"배터리\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"배터리 | X-PRO | 385,564 | 9.3%\"}, {\"axis\": \"product\", \"value\": \"튜브\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"튜브 | DONGAH | 191,693 | 4.6%\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"자동차용 방진제품은 국내외 자동차 시장의 성장에 기인하여 발전해왔으며, 자동차산업이 성장함에 따라 자동차용 방진제품도 지속적으로 성장하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"합성고무\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"고무제품의 주원료는 생고무, 합성고무 등인데, 국내의 경우 생고무를 동남아 등지에서 전량 수입에 의존하며, 기타 합성고무 및 부재료 등은 국내에서 생산되나\"}, {\"axis\": \"raw_material\", \"value\": \"주물소재\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"공작기계 | 원재료 |  주물소재 | 국내단가 기준 |\"}, {\"axis\": \"raw_material\", \"value\": \"납\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"멕시코\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"영국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"브라질\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"중국, 미국, 멕시코, 영국, 이탈리아, 폴란드, 브라질, 인도 등지에 법인을 두고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"연결회사는 외화표시거래를 통해 원재료 매입 및 제품 수출을 수행하고 있으므로 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"고무가격\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"자동차용 튜브는 원재료인 고무가격의 변동에 영향을 받으며, 해운 물류, 환율의 영향에 따라 수익성의 편차가 발생합니다.\"}]}"
+  ],
+  "text_path": "data/reports/007340_20260312001285.txt"
+}

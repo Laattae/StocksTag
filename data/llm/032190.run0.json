@@ -1,0 +1,210 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "소프트웨어 및 하드웨어",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "결제대행업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "뒤이어 2016년에는 (주)다우기술로부터 전자지급결제대행사업(PG) 및 통신과금서비스 제공사업을 영업양수하여 결제대행업으로 추가 사업영역을 확장하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "부가통신부문",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2013년 (주)스타밴코리아와 흡수합병하여 부가통신부문으로 사업영역을 확장하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화 및 만화 콘텐츠",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "콘텐츠본부 | 영화 및 만화 콘텐츠의 투자, 제작 및 배급 업무"
+    },
+    {
+      "axis": "application",
+      "value": "인터넷 서비스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "비금융사업부의 매출은 대부분 국내 매출이며, 주로 인터넷 서비스 사업에서 발생하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "결제 산업은 경기 변동에 매우 민감하게 반응하는 특성을 가지고 있습니다. 경기 침체 시 소비자들의 소비 심리가 위축되며 매출이 감소하고, 경기 회복 시 내수 경제가 활성화되면서 수익 개선이 기대됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "IT 투자 규모",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "SW 산업은 기업 및 공공기관의 정보화 투자 및 디지털 전환 추진과 밀접한 관련이 있어 전반적인 경기 상황 및 IT 투자 규모의 변화에 일정 부분 영향을 받는 특성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "웹툰(Webtoon)은 인터넷(Web)과 만화(Cartoon)의 합성어로, 모바일 콘텐츠 소비 증가와 함께 탄생한 디지털 만화 콘텐츠 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "웹소설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "웹소설은 인터넷과 모바일 플랫폼을 기반으로 연재 및 소비되는 디지털 소설 콘텐츠입니다."
+    },
+    {
+      "axis": "product",
+      "value": "MD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MD(Merchandising) 산업은 영화, 애니메이션, 만화, 웹툰 등의 IP(Intellectual Property)를 활용하여 상품을 기획·제작하는 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "영상",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "영상 산업은 국내 대중문화를 선도하며, 한류 열풍의 대표적인 콘텐츠로 자리매김하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "영상 콘텐츠 산업은 문화 소비재의 특성상 소비자의 선호 변화가 빠르고, 트렌드 의존도가 높으며, 경기 영향을 상대적으로 크게 받는 시장입니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "키움 KIWOOM 200TotalReturn증권상장지수투자신탁[주식]"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "키움투자채권상대가치2호"
+    },
+    {
+      "axis": "product",
+      "value": "정기예금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "정기예금 | 가입시점에 약정하신 금리를 만기까지 확정금리로 드리는 상품"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "금융투자업은 경제상황은 물론 정치, 사회, 문화 등 경제 외적 변수에도 많은 영향을 받고 국제금융시장 동향에도 민감하게 반응하는 종합적인 금융산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "금융투자업은 경기 상승 시 기업들의 실적 개선에 따른 종합주가지수 상승 등으로 수익 증대를 이룰 수 있는 반면 경기 하강시에는 수익 창출이 둔화되는 등 경기 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금 및 대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "상호저축은행은 서민과 소규모 기업의 금융 편의를 도모하고 지역사회의 발전에 기여하며, 중산층 및 서민의 저축을 증대하기 위해서 1972년 8월 제정된 상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드 설정 및 운용",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "집합투자업의 주요 주체인 자산 운용사는 펀드의 설정 및 운용 업무가 대표적인 업무입니다."
+    },
+    {
+      "axis": "product",
+      "value": "여신 및 투자활동",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "타금융업 대비 비교적 소자본으로 다양한 형태의 여신 및 투자활동이 가능합니다."
+    },
+    {
+      "axis": "product",
+      "value": "부실채권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "부실채권 시장은 경제 위기시 규모가 확대되는 경기후행 및 역행적 성격을 띄고 있으며, 국제정세의 불안, 국내 가계부채 증가 및 부동산 시장 침체, 경기 침체 등 으로 최근 몇 년간 시장 규모가 확대되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "사모펀드(PEF)",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PEF는 특정 투자자들로부터 자금을 모집하여 기업의 지분 및 M&A등을 통해 투자한 이후, 적극적인 경영참여를 통하여 기업가치를 증대시킨 후 매각하여 이익을 실현하는 펀드를 말합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산정책",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지역사회의 서민과 소규모기업의 금융편의를 도모하고자 설립된 상호저축은행의 특성상 내수경기 변동과 관련이 있으며, 부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "가계부채",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "국내외 환경변화 및 가계부채 이슈 등을 고려할 때 보다 면밀한 리스크 관리가 필요할 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "경기 활황 시 대출수요의 증가로 인한 자산규모 및 수익이 제고되고, 경기 침체 시 대출수요의 감소 및 자산가치의 하락으로 인한 수익성 및 자산건전성 리스크가 증대됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"소프트웨어 및 하드웨어\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(주)다우데이타는 1992년 06월에 설립되어 컴퓨터 하드웨어 및 소프트웨어의 판매 및 서비스 제공, 물류 및 신용판매 등의 결제시스템에 대한 네트웍구성 및 정보제공을 주된 사업목적으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"결제대행업\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"뒤이어 2016년에는 (주)다우기술로부터 전자지급결제대행사업(PG) 및 통신과금서비스 제공사업을 영업양수하여 결제대행업으로 추가 사업영역을 확장하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부가통신부문\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2013년 (주)스타밴코리아와 흡수합병하여 부가통신부문으로 사업영역을 확장하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화 및 만화 콘텐츠\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"콘텐츠본부 | 영화 및 만화 콘텐츠의 투자, 제작 및 배급 업무\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"인터넷 서비스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"비금융사업부의 매출은 대부분 국내 매출이며, 주로 인터넷 서비스 사업에서 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"서울 본사와 대전, 영남 지사를 중심으로 한 전국 영업망을 기반으로 기업 밀집도가 높은 수도권 시장을 중심으로 영업 활동을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"결제 산업은 경기 변동에 매우 민감하게 반응하는 특성을 가지고 있습니다. 경기 침체 시 소비자들의 소비 심리가 위축되며 매출이 감소하고, 경기 회복 시 내수 경제가 활성화되면서 수익 개선이 기대됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"IT 투자 규모\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"SW 산업은 기업 및 공공기관의 정보화 투자 및 디지털 전환 추진과 밀접한 관련이 있어 전반적인 경기 상황 및 IT 투자 규모의 변화에 일정 부분 영향을 받는 특성이 있습니다.\"\n    }\n  ]\n}\n```",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"웹툰\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"웹툰(Webtoon)은 인터넷(Web)과 만화(Cartoon)의 합성어로, 모바일 콘텐츠 소비 증가와 함께 탄생한 디지털 만화 콘텐츠 산업입니다.\"}, {\"axis\": \"product\", \"value\": \"웹소설\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"웹소설은 인터넷과 모바일 플랫폼을 기반으로 연재 및 소비되는 디지털 소설 콘텐츠입니다.\"}, {\"axis\": \"product\", \"value\": \"MD\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"MD(Merchandising) 산업은 영화, 애니메이션, 만화, 웹툰 등의 IP(Intellectual Property)를 활용하여 상품을 기획·제작하는 산업입니다.\"}, {\"axis\": \"product\", \"value\": \"영상\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"영상 산업은 국내 대중문화를 선도하며, 한류 열풍의 대표적인 콘텐츠로 자리매김하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"경기 변동\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"영상 콘텐츠 산업은 문화 소비재의 특성상 소비자의 선호 변화가 빠르고, 트렌드 의존도가 높으며, 경기 영향을 상대적으로 크게 받는 시장입니다.\"}]}",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"키움 KIWOOM 200TotalReturn증권상장지수투자신탁[주식]\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"키움투자채권상대가치2호\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정기예금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"정기예금 | 가입시점에 약정하신 금리를 만기까지 확정금리로 드리는 상품\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"금융투자업은 경제상황은 물론 정치, 사회, 문화 등 경제 외적 변수에도 많은 영향을 받고 국제금융시장 동향에도 민감하게 반응하는 종합적인 금융산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"금융투자업은 경기 상승 시 기업들의 실적 개선에 따른 종합주가지수 상승 등으로 수익 증대를 이룰 수 있는 반면 경기 하강시에는 수익 창출이 둔화되는 등 경기 변동에 영향을 받습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금 및 대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"상호저축은행은 서민과 소규모 기업의 금융 편의를 도모하고 지역사회의 발전에 기여하며, 중산층 및 서민의 저축을 증대하기 위해서 1972년 8월 제정된 상호저축은행법에 의하여 설립된 금융기관으로서 예금과 대출을 주 업무로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드 설정 및 운용\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"집합투자업의 주요 주체인 자산 운용사는 펀드의 설정 및 운용 업무가 대표적인 업무입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"여신 및 투자활동\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"타금융업 대비 비교적 소자본으로 다양한 형태의 여신 및 투자활동이 가능합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부실채권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"부실채권 시장은 경제 위기시 규모가 확대되는 경기후행 및 역행적 성격을 띄고 있으며, 국제정세의 불안, 국내 가계부채 증가 및 부동산 시장 침체, 경기 침체 등 으로 최근 몇 년간 시장 규모가 확대되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"사모펀드(PEF)\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"PEF는 특정 투자자들로부터 자금을 모집하여 기업의 지분 및 M&A등을 통해 투자한 이후, 적극적인 경영참여를 통하여 기업가치를 증대시킨 후 매각하여 이익을 실현하는 펀드를 말합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산정책\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지역사회의 서민과 소규모기업의 금융편의를 도모하고자 설립된 상호저축은행의 특성상 내수경기 변동과 관련이 있으며, 부동산 담보대출과 관련하여 부동산정책 변화에 민감하게 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"가계부채\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"국내외 환경변화 및 가계부채 이슈 등을 고려할 때 보다 면밀한 리스크 관리가 필요할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"경기 활황 시 대출수요의 증가로 인한 자산규모 및 수익이 제고되고, 경기 침체 시 대출수요의 감소 및 자산가치의 하락으로 인한 수익성 및 자산건전성 리스크가 증대됩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/032190_20260320001289.txt"
+}

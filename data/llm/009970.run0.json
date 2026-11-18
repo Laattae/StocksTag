@@ -1,0 +1,59 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "아웃도어 의류",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사업회사인 ㈜영원무역을 통해 아웃도어 및 스포츠 의류, 신발, Backpack의 제조, 수출 및 유통사업을 영위하고"
+    },
+    {
+      "axis": "product",
+      "value": "자전거",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2012년도에는 ㈜스캇노스아시아를 설립하여 SCOTT 자전거 브랜드의 국내 유통사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Lululemon",
+      "weight": null,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터"
+    },
+    {
+      "axis": "customer",
+      "value": "Patagonia",
+      "weight": null,
+      "direction": null,
+      "evidence": "The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터"
+    },
+    {
+      "axis": "region",
+      "value": "방글라데시",
+      "weight": null,
+      "direction": null,
+      "evidence": "방글라데시에서는 사업회사 KEPZ를 통해 2012년부터 신발 및 의류용 생산공장 부지와 기반시설을 제공하면서 본격적으로 공단개발을 실행하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "베트남 남딘에 Textile Mills 단지를 건설하여 메리노울 원단, 폴리에스터 플리스 및 기능성 원단 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "연결회사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"아웃도어 의류\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"사업회사인 ㈜영원무역을 통해 아웃도어 및 스포츠 의류, 신발, Backpack의 제조, 수출 및 유통사업을 영위하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자전거\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2012년도에는 ㈜스캇노스아시아를 설립하여 SCOTT 자전거 브랜드의 국내 유통사업을 전개하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Lululemon\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Patagonia\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"The North Face, Lululemon, Patagonia를 포함한 약 40여개의 세계 유명 브랜드 업체로부터\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"방글라데시\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"방글라데시에서는 사업회사 KEPZ를 통해 2012년부터 신발 및 의류용 생산공장 부지와 기반시설을 제공하면서 본격적으로 공단개발을 실행하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"베트남 남딘에 Textile Mills 단지를 건설하여 메리노울 원단, 폴리에스터 플리스 및 기능성 원단 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 외화표시 자산 및 부채의 환율변동에 의한 리스크를 최소화하여 재무구조의 건전성 및 예측가능 경영을 통한 경영의 안정성 실현을 목표로 환리스크 관리에 만전을 기하고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/009970_20260319001240.txt"
+}

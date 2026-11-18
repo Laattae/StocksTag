@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "라면",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "제품 | 라 면 | 주식 및 간식용 | 신라면, 안성탕면 외 | 2,990,975 | 85.1"
+    },
+    {
+      "axis": "product",
+      "value": "스낵",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "제품 | 스 낵 | 간식 및 기호식품 | 새우깡, 포테토칩, 양파링 외 | 487,473 | 13.9"
+    },
+    {
+      "axis": "product",
+      "value": "음료",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "제품 및 상품 | 음 료 | 주식 및 간식용 | 백산수, 카프리썬 외 | 118,496 | 3.4"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소맥분",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "식품제조 | 원재료 | 소맥분외 | 라면 및 스낵제조용 | 1,144,063 | 59.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "포장재",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "식품제조 | 부재료 | 포장재외 | 라면 및 스낵제조용 | 465,878 | 24.0%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "안양공장 | 경기도 군포시 농심로 35(당정로)"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "부산공장 | 부산광역시 사상구 사상로 455번길 46(모라동)"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "구미공장 | 경상북도 구미시 1공단로7길 58-11(공단동)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "농심아메리카 | 미국, LA"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "상해공장 | 중국, 상해"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "시세는 수급상황, 국제 원자재 가격 및 유가, 세계경기 추이 등에 직간접적인 영향을 받으며, 중동지역 정세불안 가중으로 식물유지 시세 전반에 상방압력이 가중되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "소맥분의 경우 기상 및 재배면적 변화에 따른 작황이 곡물 시세에 절대적인 영향을 주고 있습니다. 최근 기후, 전쟁, 미국의 관세 및 금리정책 이슈 등으로 변동성이 심화될 것으로 예상됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "외부고객으로부터의 수익 2,479,238,495"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "외부고객으로부터의 수익 533,129,994"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "외부고객으로부터의 수익 160,517,131"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"라면\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"제품 | 라 면 | 주식 및 간식용 | 신라면, 안성탕면 외 | 2,990,975 | 85.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스낵\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"제품 | 스 낵 | 간식 및 기호식품 | 새우깡, 포테토칩, 양파링 외 | 487,473 | 13.9\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음료\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"제품 및 상품 | 음 료 | 주식 및 간식용 | 백산수, 카프리썬 외 | 118,496 | 3.4\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소맥분\",\n      \"weight\": 0.59,\n      \"direction\": null,\n      \"evidence\": \"식품제조 | 원재료 | 소맥분외 | 라면 및 스낵제조용 | 1,144,063 | 59.0%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"포장재\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"식품제조 | 부재료 | 포장재외 | 라면 및 스낵제조용 | 465,878 | 24.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"안양공장 | 경기도 군포시 농심로 35(당정로)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"부산공장 | 부산광역시 사상구 사상로 455번길 46(모라동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"구미공장 | 경상북도 구미시 1공단로7길 58-11(공단동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"농심아메리카 | 미국, LA\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"상해공장 | 중국, 상해\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"시세는 수급상황, 국제 원자재 가격 및 유가, 세계경기 추이 등에 직간접적인 영향을 받으며, 중동지역 정세불안 가중으로 식물유지 시세 전반에 상방압력이 가중되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"소맥분의 경우 기상 및 재배면적 변화에 따른 작황이 곡물 시세에 절대적인 영향을 주고 있습니다. 최근 기후, 전쟁, 미국의 관세 및 금리정책 이슈 등으로 변동성이 심화될 것으로 예상됩니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"외부고객으로부터의 수익 2,479,238,495\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"외부고객으로부터의 수익 533,129,994\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"외부고객으로부터의 수익 160,517,131\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/004370_20260311003892.txt"
+}

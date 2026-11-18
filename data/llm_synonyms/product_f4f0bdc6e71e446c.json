@@ -1,0 +1,32 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "줄기세포배양액화장품",
+      "synonyms": [
+        "줄기세포배양액 화장품"
+      ]
+    },
+    {
+      "group": 2,
+      "canonical": "Copolyester",
+      "synonyms": [
+        "Copolyester 수지"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "시스템구축 및 운영/유지보수",
+      "synonyms": [
+        "시스템 구축 및 운영/유지보수"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "Fluxless Reflow 장비",
+      "synonyms": [
+        "fluxless reflow 장비"
+      ]
+    }
+  ]
+}

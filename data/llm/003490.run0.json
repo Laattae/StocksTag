@@ -1,0 +1,193 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "여객노선",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "여객노선(국제) 93,744 56.8% 93,059 57.7% 85,352 58.6%"
+    },
+    {
+      "axis": "product",
+      "value": "화물노선",
+      "weight": 0.27,
+      "direction": null,
+      "evidence": "화물노선 44,093 26.7% 44,116 27.4% 40,297 27.6%"
+    },
+    {
+      "axis": "product",
+      "value": "항공기",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "무인기",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "무인기사업 부문에서는 소형 드론부터 대형 정찰 무인기, 무인협동전투기에 이르기까지 다양한 플랫폼을 개발 및 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "군용기MROU",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "군용기사업 부문에서는 지난 40여 년간 국군과 주한미군의 항공기 창정비 및 개조/성능개량 작업을 성공적으로 수행해왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전자상거래",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "화물 사업은 글로벌 공급망 재편과 무역 환경의 변화 속에서도 전자상거래(C-Commerce) 물량의 전략적 유치와"
+    },
+    {
+      "axis": "application",
+      "value": "반도체 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체/자동차/배터리 부품 등의 산업 기반 수요, IT/전자제품, 전자상거래, 의류 등의 소비재 수요"
+    },
+    {
+      "axis": "application",
+      "value": "자동차 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체/자동차/배터리 부품 등의 산업 기반 수요, IT/전자제품, 전자상거래, 의류 등의 소비재 수요"
+    },
+    {
+      "axis": "application",
+      "value": "배터리",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "신선화물, 의약품, 배터리 등 고부가가치 품목의 수송 비중을 확대하여 안정적인 수익성을 유지하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의약품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "신선화물, 의약품, 생동물 등 다양한 품목의 항공화물을 수송하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "보잉",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에어버스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "항공유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "상품 항공유 항공기 연료 2,922,099 GS칼텍스,Shell 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "항공기 정비용 부품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원재료 A/C ENGINE 외 다수 항공기 정비 지원용 부품 798,924 BOEING,GE 외"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 및 건물 서울 강서구 오정로 443-83 등 202,095 325,340"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사는 외화로 표시된 거래를 수행하고 있으므로 환율변동에 따른 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "항공유 등 석유제품의 시장 가격은 세계 원유 시장의 수요와 공급에 영향을 미치는 여러 가지 요소들로 인해 크게 변동합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인한 이자율변동 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "관세 리스크",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "2025년은 미ㆍ중 무역 갈등에 따른 관세 리스크 고조와 중동ㆍ유럽 내 지정학적 분쟁 장기화 등 글로벌 경영 환경의 불확실성이"
+    },
+    {
+      "axis": "exposure",
+      "value": "지정학적 분쟁",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "미ㆍ중 무역 갈등에 따른 관세 리스크 고조와 중동ㆍ유럽 내 지정학적 분쟁 장기화 등 글로벌 경영 환경의 불확실성이"
+    },
+    {
+      "axis": "product",
+      "value": "항공운송 서비스",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "유가 변동은 당사의 최대 사업부문인 항공운송사업부의 영업 성과 및 현금흐름에 영향을 미칩니다."
+    },
+    {
+      "axis": "product",
+      "value": "무인항공기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "무인항공기 플랫폼 개발, 항공기 성능개량, UAM (Urban Air Mobility), 항공교통관리, AI, 우주발사체, 스텔스 등 기술경쟁력을 갖춘 신성장 분야 중심의 연구개발을 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항공기체",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "항공기체사업 부문은 보잉, 에어버스 등 글로벌 OEM사와의 견고한 파트너십을 기반으로, 설계부터 제작에 이르는 통합 사업 수행 역량으로 안정적인 수익 창출을 견인해왔습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "항공유 등 석유제품의 시장 가격은 세계 원유 시장의 수요와 공급에 영향을 미치는 여러 가지 요소들로 인해 크게 변동합니다. 유가 변동은 당사의 최대 사업부문인 항공운송사업부의 영업 성과 및 현금흐름에 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.85,
+      "direction": -1,
+      "evidence": "당사는 외화로 표시된 거래를 수행하고 있으므로 환율변동에 따른 위험에 노출되어 있습니다. 주로 달러화변동 위험에 노출되어 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인한 이자율변동 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"여객노선\",\n      \"weight\": 0.57,\n      \"direction\": null,\n      \"evidence\": \"여객노선(국제) 93,744 56.8% 93,059 57.7% 85,352 58.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화물노선\",\n      \"weight\": 0.27,\n      \"direction\": null,\n      \"evidence\": \"화물노선 44,093 26.7% 44,116 27.4% 40,297 27.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공기\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무인기\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"무인기사업 부문에서는 소형 드론부터 대형 정찰 무인기, 무인협동전투기에 이르기까지 다양한 플랫폼을 개발 및 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"군용기MROU\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"군용기사업 부문에서는 지난 40여 년간 국군과 주한미군의 항공기 창정비 및 개조/성능개량 작업을 성공적으로 수행해왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전자상거래\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"화물 사업은 글로벌 공급망 재편과 무역 환경의 변화 속에서도 전자상거래(C-Commerce) 물량의 전략적 유치와\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체/자동차/배터리 부품 등의 산업 기반 수요, IT/전자제품, 전자상거래, 의류 등의 소비재 수요\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체/자동차/배터리 부품 등의 산업 기반 수요, IT/전자제품, 전자상거래, 의류 등의 소비재 수요\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"배터리\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"신선화물, 의약품, 배터리 등 고부가가치 품목의 수송 비중을 확대하여 안정적인 수익성을 유지하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의약품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"신선화물, 의약품, 생동물 등 다양한 품목의 항공화물을 수송하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"보잉\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에어버스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"항공기체사업 부문에서는 보잉과 에어버스 항공기의 날개와 동체의 주요 구조물을 설계, 제작, 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"항공유\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"상품 항공유 항공기 연료 2,922,099 GS칼텍스,Shell 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"항공기 정비용 부품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원재료 A/C ENGINE 외 다수 항공기 정비 지원용 부품 798,924 BOEING,GE 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 및 건물 서울 강서구 오정로 443-83 등 202,095 325,340\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화로 표시된 거래를 수행하고 있으므로 환율변동에 따른 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"항공유 등 석유제품의 시장 가격은 세계 원유 시장의 수요와 공급에 영향을 미치는 여러 가지 요소들로 인해 크게 변동합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인한 이자율변동 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"관세 리스크\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"2025년은 미ㆍ중 무역 갈등에 따른 관세 리스크 고조와 중동ㆍ유럽 내 지정학적 분쟁 장기화 등 글로벌 경영 환경의 불확실성이\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"지정학적 분쟁\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"미ㆍ중 무역 갈등에 따른 관세 리스크 고조와 중동ㆍ유럽 내 지정학적 분쟁 장기화 등 글로벌 경영 환경의 불확실성이\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공운송 서비스\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"유가 변동은 당사의 최대 사업부문인 항공운송사업부의 영업 성과 및 현금흐름에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무인항공기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"무인항공기 플랫폼 개발, 항공기 성능개량, UAM (Urban Air Mobility), 항공교통관리, AI, 우주발사체, 스텔스 등 기술경쟁력을 갖춘 신성장 분야 중심의 연구개발을 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공기체\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"항공기체사업 부문은 보잉, 에어버스 등 글로벌 OEM사와의 견고한 파트너십을 기반으로, 설계부터 제작에 이르는 통합 사업 수행 역량으로 안정적인 수익 창출을 견인해왔습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"항공유 등 석유제품의 시장 가격은 세계 원유 시장의 수요와 공급에 영향을 미치는 여러 가지 요소들로 인해 크게 변동합니다. 유가 변동은 당사의 최대 사업부문인 항공운송사업부의 영업 성과 및 현금흐름에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.85,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화로 표시된 거래를 수행하고 있으므로 환율변동에 따른 위험에 노출되어 있습니다. 주로 달러화변동 위험에 노출되어 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인한 이자율변동 위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/003490_20260318001125.txt"
+}

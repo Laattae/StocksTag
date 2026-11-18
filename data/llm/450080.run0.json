@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주식회사 에코프로머티리얼즈는 이차전지용 양극재의 핵심소재인 전구체의 생산 및 판매를 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "황산메탈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전동공구",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에코프로비엠",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 에코프로비엠을 비롯한 양극활물질 제조업체, 이차전지 Cell업체, 자동차 OEM업체 등 전기차 시장 관련 전방업체들이며 주요 매출처에 대한 비중은 86.1%입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코발트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경상북도 포항시 북구 흥해읍 영일만산단남로 75번길 15"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "당사의 주요 환위험은 USD 환율에 기인하므로 손익의 변동성은 주로 USD 표시금융상품으로부터 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사의 이자율 위험은 주로 변동금리부 조건의 장단기 차입금에서 발생하는 현금흐름 이자율 위험입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주식회사 에코프로머티리얼즈는 이차전지용 양극재의 핵심소재인 전구체의 생산 및 판매를 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산메탈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전동공구\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에코프로비엠\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 매출처는 에코프로비엠을 비롯한 양극활물질 제조업체, 이차전지 Cell업체, 자동차 OEM업체 등 전기차 시장 관련 전방업체들이며 주요 매출처에 대한 비중은 86.1%입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코발트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경상북도 포항시 북구 흥해읍 영일만산단남로 75번길 15\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"당사의 주요 환위험은 USD 환율에 기인하므로 손익의 변동성은 주로 USD 표시금융상품으로부터 발생합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사의 이자율 위험은 주로 변동금리부 조건의 장단기 차입금에서 발생하는 현금흐름 이자율 위험입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/450080_20260320000475.txt"
+}

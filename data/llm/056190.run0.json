@@ -1,0 +1,129 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스마트팩토리 솔루션",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 및 연결종속회사는 스마트팩토리솔루션사업과 반도체패키징사업을 주된 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "물류시스템",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "공정장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "반도체 패키징 솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체패키징사업은 연결종속회사인 SFA반도체가 반도체 제조 관련 후공정부문에서 조립 및 테스트 제품을 주력으로 공급하는 사업부문으로서, 세계 유수의 반도체 업체에게 최첨단 반도체 패키징 솔루션을 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전극공정장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이차전지 시장에서의 경쟁력 강화를 위해 전기에 전극공정장비 업체인 씨아이에스의 경영권 지분을 인수한 바"
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유통",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SFA반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서"
+    },
+    {
+      "axis": "customer",
+      "value": "씨아이에스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이차전지 시장에서의 경쟁력 강화를 위해 전기에 전극공정장비 업체인 씨아이에스의 경영권 지분을 인수한 바"
+    },
+    {
+      "axis": "raw_material",
+      "value": "국내표준부품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동화설비 | 원재료(부품) | 국내표준부품 | 설비구성품 | 108,224 | 18.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "해외표준부품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외표준부품 | 설비구성품 | 28,277 | 4.9%"
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요종속회사인 SFA SEMICON Philippines Corp. 손익은 SFA반도체 손익에 반영됨"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 외화결제 매출 및 매입 거래와 관련한 환위험을 부담하고 있는 바, 특히 미국 달러화 및 일본 엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    },
+    {
+      "axis": "exposure",
+      "value": "고객사 설비투자 사이클",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "제조장비시장은 기본적으로 계절적 요인에 의한 부침보다는 전방산업 내 고객사들의 설비투자 사이클에 따라 일부 부침이 수반되며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트팩토리 솔루션\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사 및 연결종속회사는 스마트팩토리솔루션사업과 반도체패키징사업을 주된 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류시스템\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"공정장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 패키징 솔루션\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체패키징사업은 연결종속회사인 SFA반도체가 반도체 제조 관련 후공정부문에서 조립 및 테스트 제품을 주력으로 공급하는 사업부문으로서, 세계 유수의 반도체 업체에게 최첨단 반도체 패키징 솔루션을 제공합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전극공정장비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이차전지 시장에서의 경쟁력 강화를 위해 전기에 전극공정장비 업체인 씨아이에스의 경영권 지분을 인수한 바\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이차전지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유통\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서, 이차전지/반도체/유통/디스플레이/글래스 등 각 산업 부문에서 필요로 하는 물류시스템 및 다양한 공정장비를 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SFA반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리솔루션사업은 SFA반도체를 제외한 당사, 씨아이에스 및 기타의 종속회사가 영위하고 있는 사업부문으로서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"씨아이에스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이차전지 시장에서의 경쟁력 강화를 위해 전기에 전극공정장비 업체인 씨아이에스의 경영권 지분을 인수한 바\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"국내표준부품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자동화설비 | 원재료(부품) | 국내표준부품 | 설비구성품 | 108,224 | 18.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"해외표준부품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외표준부품 | 설비구성품 | 28,277 | 4.9%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"필리핀\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요종속회사인 SFA SEMICON Philippines Corp. 손익은 SFA반도체 손익에 반영됨\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 외화결제 매출 및 매입 거래와 관련한 환위험을 부담하고 있는 바, 특히 미국 달러화 및 일본 엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고객사 설비투자 사이클\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"제조장비시장은 기본적으로 계절적 요인에 의한 부침보다는 전방산업 내 고객사들의 설비투자 사이클에 따라 일부 부침이 수반되며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/056190_20260610000400.txt"
+}

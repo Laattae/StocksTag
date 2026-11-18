@@ -1,0 +1,135 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "의료기기",
+      "synonyms": [
+        "의료기기 산업",
+        "휴대용 의료기기"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "자동차",
+      "synonyms": [
+        "자동차용",
+        "자동차 산업",
+        "자동차산업"
+      ]
+    },
+    {
+      "group": 7,
+      "canonical": "재활치료",
+      "synonyms": [
+        "재활 치료"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "전장",
+      "synonyms": [
+        "전장사업"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "제약",
+      "synonyms": [
+        "제약 시장",
+        "제약시장"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "조선해양",
+      "synonyms": [
+        "조선·해양"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "종양",
+      "synonyms": [
+        "종양질환"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "철강",
+      "synonyms": [
+        "철강산업"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "철도",
+      "synonyms": [
+        "철도산업"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "풍력발전",
+      "synonyms": [
+        "풍력 발전"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "항공우주",
+      "synonyms": [
+        "항공·우주"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "항암",
+      "synonyms": [
+        "항암 치료"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "해상운송",
+      "synonyms": [
+        "해상 운송"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "황반변성",
+      "synonyms": [
+        "나이관련황반변성증",
+        "노인성 황반변성"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "AI가속기",
+      "synonyms": [
+        "AI 가속기"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "AI반도체",
+      "synonyms": [
+        "AI 반도체"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "데이터센터",
+      "synonyms": [
+        "AI 데이터 센터"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "물류자동화",
+      "synonyms": [
+        "물류 자동화"
+      ]
+    }
+  ]
+}

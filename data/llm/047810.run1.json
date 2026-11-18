@@ -1,0 +1,222 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "KT-1 기본훈련기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "T-50 고등훈련기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "FA-50 전투기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "KUH",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "LAH",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "송골매 무인기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "KF-21",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "현재는 KF-21(한국형 전투기) 개발 및 생산에 박차를 가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위성체",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사와 종속회사는 항공기, 우주선, 위성체, 발사체 및 동 부품에 대한 설계, 제조, 판매, 정비 등의 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 첨단기술 확보가 향후 항공 방위산업에서 당사의 경쟁력을 증대시킬 것으로 판단하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "수요자인 한국정부(방위사업청)와 계약을 통해 제품(군용기)의 연구개발, 생산, 성능개량, 후속지원 등을 수행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Boeing",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Airbus",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "IAI",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LRU",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "품목 2025년(제27기) 2024년(제26기) 2023년(제25기) LRU(기능품) 14,143 10,781 9,474"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사천 경남 사천시 사남면 공단 1로 78"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형무장헬기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로"
+    },
+    {
+      "axis": "product",
+      "value": "상륙공격헬기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로"
+    },
+    {
+      "axis": "product",
+      "value": "감시정찰 무인기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 육군은 군단정찰용 무인기인 송골매무인기(RQ-101)을 20여년 운용 중이며 이를 대체하기 위한 전력 도입을 준비 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "소모성 지능형 군집무인기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 이를 위해 저비용의지속 가능한 생산체계 구축과 더불어 AI기술을 접목한 '소모성 지능형 군집무인기' 관련 기술을 개발 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "협업 무인전투기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사도 미래 공중전 전력의 핵심인 중형 협업 무인전투기와 소모성인 소형 무인전투기를 개발 중이며 회전익 분야의 유무인 복합체계의 R&D과제도 다수 수행 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "군용기 시장",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "군용기 수요는 국가의 안보정책과 국제정세에 많은 영향을 받으며, 타 산업과는 달리경기변동에 직접적인 영향을 받지는 않습니다."
+    },
+    {
+      "axis": "application",
+      "value": "민항기 시장",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "민항기 시장은 군용기 시장에 비해 경기 변동과 높은 연관성을 가지고 있습니다. 코로나-19 이후 글로벌 여객 회복에 따른 여객 운송량ㆍ민항기 시장 규모 증가가 예상되며"
+    },
+    {
+      "axis": "customer",
+      "value": "대한민국 육군",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 합금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데"
+    },
+    {
+      "axis": "raw_material",
+      "value": "티타늄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데"
+    },
+    {
+      "axis": "raw_material",
+      "value": "복합재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한국표면처리(주)는 경남 사천 종포산업단지에 위치하고 있으며, 한국항공우주산업(주)를 중심으로 켄코아에어로스페이스, 율곡, 아스트, 등 20여 개 항공부품 기업과 함께 국내 항공산업 클러스터를 형성하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국방예산",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "하지만 국방예산이 경기변화에 동조하는 경향이 있으므로 간접적인 영향을 받게 됩니다. 즉 경기활황으로 세수가 증가하면 국방재원 확보가 용이해지면서 항공무기체계 획득 및 성능개량 사업에 대한 예산배정이 증가할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "지정학적 긴장",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "최근 지정학적 긴장 고조로 인해 전투기 및 무인기 등을 비롯하여 군용기 시장 규모 증가를 전망하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"KT-1 기본훈련기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"T-50 고등훈련기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FA-50 전투기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"KUH\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LAH\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"송골매 무인기\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 KT-1 기본훈련기, T-50 고등훈련기, FA-50 전투기, KUH, LAH, 송골매 무인기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"KF-21\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"현재는 KF-21(한국형 전투기) 개발 및 생산에 박차를 가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성체\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사와 종속회사는 항공기, 우주선, 위성체, 발사체 및 동 부품에 대한 설계, 제조, 판매, 정비 등의 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 첨단기술 확보가 향후 항공 방위산업에서 당사의 경쟁력을 증대시킬 것으로 판단하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"수요자인 한국정부(방위사업청)와 계약을 통해 제품(군용기)의 연구개발, 생산, 성능개량, 후속지원 등을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Boeing\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Airbus\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"IAI\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에 Boeing, Airbus, IAI 등 26.05%, 폴란드 등 완제기 수출국이 25.53%로 매출처가 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LRU\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"품목 2025년(제27기) 2024년(제26기) 2023년(제25기) LRU(기능품) 14,143 10,781 9,474\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"사천 경남 사천시 사남면 공단 1로 78\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형무장헬기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"상륙공격헬기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감시정찰 무인기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 육군은 군단정찰용 무인기인 송골매무인기(RQ-101)을 20여년 운용 중이며 이를 대체하기 위한 전력 도입을 준비 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소모성 지능형 군집무인기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 이를 위해 저비용의지속 가능한 생산체계 구축과 더불어 AI기술을 접목한 '소모성 지능형 군집무인기' 관련 기술을 개발 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"협업 무인전투기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사도 미래 공중전 전력의 핵심인 중형 협업 무인전투기와 소모성인 소형 무인전투기를 개발 중이며 회전익 분야의 유무인 복합체계의 R&D과제도 다수 수행 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군용기 시장\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"군용기 수요는 국가의 안보정책과 국제정세에 많은 영향을 받으며, 타 산업과는 달리경기변동에 직접적인 영향을 받지는 않습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"민항기 시장\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"민항기 시장은 군용기 시장에 비해 경기 변동과 높은 연관성을 가지고 있습니다. 코로나-19 이후 글로벌 여객 회복에 따른 여객 운송량ㆍ민항기 시장 규모 증가가 예상되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대한민국 육군\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 대한민국 육군에 납품 중인 소형무장헬기 LAH-1(미르온), 체계개발 완료를 앞둔 상륙공격헬기(MAH)와 소해헬기(MCH)를 기반으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 합금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"티타늄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"복합재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료 측면에서 항공기 기체에는 알루미늄 합금(AL, AL-Li 등), 티타늄(Ti), 복합재(CFRP, GFRP 등), 하드웨어(Bolt, Nut, Rivet 등) 등이 사용되는데\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"한국표면처리(주)는 경남 사천 종포산업단지에 위치하고 있으며, 한국항공우주산업(주)를 중심으로 켄코아에어로스페이스, 율곡, 아스트, 등 20여 개 항공부품 기업과 함께 국내 항공산업 클러스터를 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방예산\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"하지만 국방예산이 경기변화에 동조하는 경향이 있으므로 간접적인 영향을 받게 됩니다. 즉 경기활황으로 세수가 증가하면 국방재원 확보가 용이해지면서 항공무기체계 획득 및 성능개량 사업에 대한 예산배정이 증가할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"지정학적 긴장\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"최근 지정학적 긴장 고조로 인해 전투기 및 무인기 등을 비롯하여 군용기 시장 규모 증가를 전망하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/047810_20260318001461.txt"
+}

@@ -1,0 +1,179 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 공정용 화학 소재",
+      "weight": 0.83,
+      "direction": null,
+      "evidence": "사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디스플레이 공정용 화학 소재",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "2차전지 소재",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CMP Slurry",
+      "weight": null,
+      "direction": null,
+      "evidence": "HF, B.O.E, CMP Slurry, Precursor, 라이닝 외"
+    },
+    {
+      "axis": "product",
+      "value": "Etchant",
+      "weight": null,
+      "direction": null,
+      "evidence": "Etchant, Thin Glass, 유기재료 외"
+    },
+    {
+      "axis": "product",
+      "value": "2차전지 전해액",
+      "weight": null,
+      "direction": null,
+      "evidence": "2차전지 전해액 외"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI",
+      "weight": null,
+      "direction": 1,
+      "evidence": "최근에는 인공지능(AI) 투자가 활발히 이루어지며 HBM과 서버향 DRAM의 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": null,
+      "direction": null,
+      "evidence": "또한삼성SDI, SK온, LG에너지솔루션 등의 국내 2차전지 제조사에 관련 제품을 공급하고있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "H3PO4",
+      "weight": 0.764,
+      "direction": null,
+      "evidence": "H3PO4 외 | 291,801 | 76.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유기재료",
+      "weight": 0.123,
+      "direction": null,
+      "evidence": "유기재료 외 | 46,834 | 12.3%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전해액원재료",
+      "weight": 0.083,
+      "direction": null,
+      "evidence": "전해액원재료 외 | 31,697 | 8.3%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "공주공장 / 연구소 | 충청남도 공주시 공단길 14-102 / 공단길 34-12 | 생산(반도체, 디스플레이, 2차전지 소재 등) / 연구"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "파주공장 | 경기도 파주시 문산읍 돈유2로 29 | 생산(반도체, 디스플레이, 2차전지 소재 등)"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "대전연구소 | 대전광역시 대덕구 대전로1331번길 190 | 연구"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "이 외에 중국(솔브레인(시안)전자재료유한공사), 미국(Soulbrain TX LLC, Soulbrain RASA TX LLC)에 현지법인이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "이 외에 중국(솔브레인(시안)전자재료유한공사), 미국(Soulbrain TX LLC, Soulbrain RASA TX LLC)에 현지법인이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결회사는 국제적인 영업활동을 영위하고 있기 때문에 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 공정용 화학 소재\",\n      \"weight\": 0.83,\n      \"direction\": null,\n      \"evidence\": \"사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이 공정용 화학 소재\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"2차전지 소재\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"사업부문별 매출액은 반도체 부문(766,977백만원, 전체 매출의 83%), 디스플레이 부문(64,677백만원, 전체 매출의 7%), 2차전지 부문(60,462백만원,전체 매출의 7%)으로 나뉠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMP Slurry\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"HF, B.O.E, CMP Slurry, Precursor, 라이닝 외\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Etchant\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"Etchant, Thin Glass, 유기재료 외\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"2차전지 전해액\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"2차전지 전해액 외\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차전지\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"최근에는 인공지능(AI) 투자가 활발히 이루어지며 HBM과 서버향 DRAM의 수요가 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"또한삼성SDI, SK온, LG에너지솔루션 등의 국내 2차전지 제조사에 관련 제품을 공급하고있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"H3PO4\",\n      \"weight\": 0.764,\n      \"direction\": null,\n      \"evidence\": \"H3PO4 외 | 291,801 | 76.4%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유기재료\",\n      \"weight\": 0.123,\n      \"direction\": null,\n      \"evidence\": \"유기재료 외 | 46,834 | 12.3%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전해액원재료\",\n      \"weight\": 0.083,\n      \"direction\": null,\n      \"evidence\": \"전해액원재료 외 | 31,697 | 8.3%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"공주공장 / 연구소 | 충청남도 공주시 공단길 14-102 / 공단길 34-12 | 생산(반도체, 디스플레이, 2차전지 소재 등) / 연구\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"파주공장 | 경기도 파주시 문산읍 돈유2로 29 | 생산(반도체, 디스플레이, 2차전지 소재 등)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"대전연구소 | 대전광역시 대덕구 대전로1331번길 190 | 연구\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이 외에 중국(솔브레인(시안)전자재료유한공사), 미국(Soulbrain TX LLC, Soulbrain RASA TX LLC)에 현지법인이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"이 외에 중국(솔브레인(시안)전자재료유한공사), 미국(Soulbrain TX LLC, Soulbrain RASA TX LLC)에 현지법인이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적인 영업활동을 영위하고 있기 때문에 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/357780_20260316001567.txt"
+}

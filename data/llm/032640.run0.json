@@ -1,0 +1,222 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일 통신서비스",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "스마트홈",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "기업인프라",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "단말기 판매",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "단말기 판매 등 | 3,091,245 | 20.0% | 2,721,895 | 18.6% | 2,702,596 | 18.8%"
+    },
+    {
+      "axis": "product",
+      "value": "전기차 충전서비스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "㈜LG유플러스볼트업은 ㈜LG유플러스의 주요 종속회사로서 한국전력공사로부터 전력을 공급받아, 전기자동차 충전이 필요한 고객에게 전력을 재판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "㈜LG유플러스는 2024년 5월 14일 신규 IDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "㈜LG유플러스볼트업은 ㈜LG유플러스의 주요 종속회사로서 한국전력공사로부터 전력을 공급받아, 전기자동차 충전이 필요한 고객에게 전력을 재판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "㈜LG유플러스는 2024년 5월 14일 신규 IDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "카카오모빌리티",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "㈜LG유플러스는 2024년 6월 5일 ㈜카카오모빌리티와 전기차 충전 합작법인 ㈜LG유플러스볼트업을 설립하고 250억원을 출자하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 화재 위험",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "'24년 전기차 화재 위험성이 사회적 이슈로 대두되면서 전기자동차 성장이 둔화되고, 이로 인해 충전서비스 시장의 성장세도 다소 축소되고 있는 상황입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "생성형 AI 도입",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "기업들의 생성형 AI 도입 확대와 클라우드 전환 가속화로 인해 증가하는 데이터센터 수요에 선제적으로 대응하기 위해서 해당 자산을 취득하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "인터넷서비스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트홈 서비스는 IPTV, 초고속인터넷, IoT 서비스 등으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트홈 서비스는 IPTV, 초고속인터넷, IoT 서비스 등으로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "이동통신서비스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "무선통신 산업은 5G 상용화 이후 고품질 통신 서비스에 대한 수요가 증가하며 지속적인 성장을 이어가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기차충전서비스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "㈜LG유플러스볼트업이 제공하는 서비스는 크게 전기자동차 충전서비스, 전기자동차 충전시설 구축판매사업으로 구분되며"
+    },
+    {
+      "axis": "product",
+      "value": "케이블TV",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "㈜LG헬로비전이 제공하는 서비스는 크게 유선(방송, 인터넷, 전화), 무선(MVNO), 기타 서비스 요금제로 구분되며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결실체는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "변동이자율 조건 금융부채로 인하여 연결실체는 이자율변동에 따른 현금흐름변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결실체는 서울 용산구 한강대로 32에 위치한 사옥 토지를 포함하여 국내에 교환국사 토지 및 기지국 등의 사용목적으로의 토지를 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안양사옥 | 경기도 안양시 만안구 덕천로48번길 37"
+    },
+    {
+      "axis": "customer",
+      "value": "서울특별시 교육청",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "4) 계약상대방 : 서울특별시 교육청"
+    },
+    {
+      "axis": "product",
+      "value": "IPTV",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "초고속인터넷",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "AIDC",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "모바일서비스",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기차 충전서비스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "충전서비스 사용량에 인식 전기차 충전서비스 24,780 53.6%"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "AIDC(AI Data Center)사업은 AI 연산 및 데이터 처리를 위한 대규모 시설(전산실)과 고성능 네트워크 인프라를 제공하는 서비스입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "전기자동차 충전 산업은 전력을 동력원으로 사용하는 전기자동차 보급 시장의 성장과 밀접한 연계성을 갖는 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 화재",
+      "weight": 0.05,
+      "direction": -1,
+      "evidence": "다만 SNE리서치는, 2024년 중반 이후 전기차 시장이 확산 둔화 구간(캐즘)에 진입할 가능성과 함께 일부 지역에서 발생한 화재 사고 등이 충전 인프라 시장의 성장에 제약 요인으로 작용할 수 있다고 지적하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2024년 5월, 당사는 신규 AIDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 통신서비스\",\n      \"weight\": 0.57,\n      \"direction\": null,\n      \"evidence\": \"2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트홈\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기업인프라\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"2025년 ㈜LG유플러스 별도기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"단말기 판매\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"단말기 판매 등 | 3,091,245 | 20.0% | 2,721,895 | 18.6% | 2,702,596 | 18.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기차 충전서비스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"㈜LG유플러스볼트업은 ㈜LG유플러스의 주요 종속회사로서 한국전력공사로부터 전력을 공급받아, 전기자동차 충전이 필요한 고객에게 전력을 재판매하는 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"㈜LG유플러스는 2024년 5월 14일 신규 IDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"㈜LG유플러스볼트업은 ㈜LG유플러스의 주요 종속회사로서 한국전력공사로부터 전력을 공급받아, 전기자동차 충전이 필요한 고객에게 전력을 재판매하는 사업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"㈜LG유플러스는 2024년 5월 14일 신규 IDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"카카오모빌리티\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"㈜LG유플러스는 2024년 6월 5일 ㈜카카오모빌리티와 전기차 충전 합작법인 ㈜LG유플러스볼트업을 설립하고 250억원을 출자하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기차 화재 위험\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"'24년 전기차 화재 위험성이 사회적 이슈로 대두되면서 전기자동차 성장이 둔화되고, 이로 인해 충전서비스 시장의 성장세도 다소 축소되고 있는 상황입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"생성형 AI 도입\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"기업들의 생성형 AI 도입 확대와 클라우드 전환 가속화로 인해 증가하는 데이터센터 수요에 선제적으로 대응하기 위해서 해당 자산을 취득하였으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"인터넷서비스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"스마트홈 서비스는 IPTV, 초고속인터넷, IoT 서비스 등으로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"IPTV\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"스마트홈 서비스는 IPTV, 초고속인터넷, IoT 서비스 등으로 구성되어 있습니다.\"}, {\"axis\": \"product\", \"value\": \"이동통신서비스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"무선통신 산업은 5G 상용화 이후 고품질 통신 서비스에 대한 수요가 증가하며 지속적인 성장을 이어가고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"전기차충전서비스\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"㈜LG유플러스볼트업이 제공하는 서비스는 크게 전기자동차 충전서비스, 전기자동차 충전시설 구축판매사업으로 구분되며\"}, {\"axis\": \"product\", \"value\": \"케이블TV\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"㈜LG헬로비전이 제공하는 서비스는 크게 유선(방송, 인터넷, 전화), 무선(MVNO), 기타 서비스 요금제로 구분되며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"연결실체는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"변동이자율 조건 금융부채로 인하여 연결실체는 이자율변동에 따른 현금흐름변동위험에 노출되어 있습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"연결실체는 서울 용산구 한강대로 32에 위치한 사옥 토지를 포함하여 국내에 교환국사 토지 및 기지국 등의 사용목적으로의 토지를 보유하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"안양사옥 | 경기도 안양시 만안구 덕천로48번길 37\"}, {\"axis\": \"customer\", \"value\": \"서울특별시 교육청\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"4) 계약상대방 : 서울특별시 교육청\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"IPTV\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"}, {\"axis\": \"product\", \"value\": \"초고속인터넷\", \"weight\": 0.23, \"direction\": null, \"evidence\": \"2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"}, {\"axis\": \"product\", \"value\": \"AIDC\", \"weight\": 0.16, \"direction\": null, \"evidence\": \"2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"}, {\"axis\": \"product\", \"value\": \"모바일서비스\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"2025년 ㈜LG유플러스 별도 기준 서비스수익 중 무선서비스 비중은 57.4%, 스마트홈 23.3%, 기업인프라 16.3%, 전화 서비스 수익은 3.0%입니다.\"}, {\"axis\": \"product\", \"value\": \"전기차 충전서비스\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"충전서비스 사용량에 인식 전기차 충전서비스 24,780 53.6%\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"AIDC(AI Data Center)사업은 AI 연산 및 데이터 처리를 위한 대규모 시설(전산실)과 고성능 네트워크 인프라를 제공하는 서비스입니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"전기자동차 충전 산업은 전력을 동력원으로 사용하는 전기자동차 보급 시장의 성장과 밀접한 연계성을 갖는 산업입니다.\"}, {\"axis\": \"exposure\", \"value\": \"전기차 화재\", \"weight\": 0.05, \"direction\": -1, \"evidence\": \"다만 SNE리서치는, 2024년 중반 이후 전기차 시장이 확산 둔화 구간(캐즘)에 진입할 가능성과 함께 일부 지역에서 발생한 화재 사고 등이 충전 인프라 시장의 성장에 제약 요인으로 작용할 수 있다고 지적하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"2024년 5월, 당사는 신규 AIDC 건립을 위해 경기도 파주시에 위치한 ㈜LG디스플레이의 토지 및 건물을 1,053억원에 취득하는 계약을 체결하였으며\"}]}\n```"
+  ],
+  "text_path": "data/reports/032640_20260313000442.txt"
+}

@@ -1,0 +1,142 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "파워트레인쿨링",
+      "synonyms": [
+        "파워트레인 쿨링",
+        "파워트레인쿨링(PTC)"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "항체-약물 접합체",
+      "synonyms": [
+        "항체 약물 접합체",
+        "항체-약물접합체"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "홈뷰티 디바이스",
+      "synonyms": [
+        "홈 뷰티 디바이스"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "황반변성 치료제",
+      "synonyms": [
+        "건성 및 습성 황반변성 치료제",
+        "황반변성치료제"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "물류자동화시스템",
+      "synonyms": [
+        "물류자동화 시스템"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "반도체패키지기판",
+      "synonyms": [
+        "반도체 패키지 기판"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "반도체테스트소켓",
+      "synonyms": [
+        "반도체테스트 소켓"
+      ]
+    },
+    {
+      "group": 15,
+      "canonical": "이차전지용 음극재",
+      "synonyms": [
+        "이차전지용 음극재료"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "전기차충전서비스",
+      "synonyms": [
+        "전기차 충전 서비스",
+        "전기차 충전서비스"
+      ]
+    },
+    {
+      "group": 17,
+      "canonical": "태양전지전극재료",
+      "synonyms": [
+        "태양전지 전극재료"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "해상풍력발전설비",
+      "synonyms": [
+        "해상풍력 발전설비"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "CMP Slurry",
+      "synonyms": [
+        "CMP slurry"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "LNG수소혼소발전",
+      "synonyms": [
+        "LNG수소혼소 발전"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "고체산화물연료전지",
+      "synonyms": [
+        "고체산화물 연료전지",
+        "고체산화물연료전지(SOFC)"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "시스템반도체 테스트",
+      "synonyms": [
+        "시스템 반도체 테스트"
+      ]
+    },
+    {
+      "group": 26,
+      "canonical": "증착 및 검사·측정장비",
+      "synonyms": [
+        "증착 및 검사ㆍ측정장비"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "해상풍력 하부구조물",
+      "synonyms": [
+        "해상풍력 하부 구조물"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "Quartz Ware",
+      "synonyms": [
+        "QUARTZ WARE"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "세포전처리 자동화 기기",
+      "synonyms": [
+        "세포전처리자동화 기기"
+      ]
+    }
+  ]
+}

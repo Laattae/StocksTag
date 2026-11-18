@@ -1,0 +1,179 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동화시스템",
+      "weight": 0.69,
+      "direction": null,
+      "evidence": "2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다."
+    },
+    {
+      "axis": "product",
+      "value": "직교로봇",
+      "weight": null,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "다관절로봇",
+      "weight": null,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": null,
+      "direction": null,
+      "evidence": "첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "오토피딩시스템",
+      "weight": null,
+      "direction": null,
+      "evidence": "두번째 자동화시스템의 대표 제품 라인으로는 온조기 등을 활용한 자동원료공급장치인 오토피딩(Auto-Feeding)시스템과 냉각시스템이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "스마트팩토리 솔루션",
+      "weight": null,
+      "direction": null,
+      "evidence": "공장 자동화에 필요한 스마트 팩토리 솔루션(Link-Factory 4.0)을 생산 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": null,
+      "direction": null,
+      "evidence": "플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료기기",
+      "weight": null,
+      "direction": null,
+      "evidence": "플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "2차전지",
+      "weight": null,
+      "direction": null,
+      "evidence": "플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전제품",
+      "weight": null,
+      "direction": null,
+      "evidence": "플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK Battery America",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 2024년 06월 28일 SK Battery America, Inc.의 제3자배정 유상증자 참여로USD 26,755,014(한화 기준 37,055,694,459원)의 자금이 조달되었으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MOTOR류",
+      "weight": null,
+      "direction": null,
+      "evidence": "원재료\tMOTOR류\t국 내\t1,574,988"
+    },
+    {
+      "axis": "raw_material",
+      "value": "공압류",
+      "weight": null,
+      "direction": null,
+      "evidence": "공압류\t국 내\t325,314"
+    },
+    {
+      "axis": "raw_material",
+      "value": "배관류",
+      "weight": null,
+      "direction": null,
+      "evidence": "배관류\t국 내\t342,908"
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속가공류",
+      "weight": null,
+      "direction": null,
+      "evidence": "금속가공류\t국 내\t3,441,942"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FA자재류",
+      "weight": null,
+      "direction": null,
+      "evidence": "FA자재류\t국 내\t11,917,011"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "최종적으로 청라 신규 본사는 2025년 4월 완공하고 심사를 거쳐 6월 사용승인 허가를 득하였으며 7월 본점 이전 등기를 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "멕시코",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 자체적으로도 해외영업을 적극적으로 수행하고 있으며, 지속적으로 여러 방법을 통해 해외 잠재 고객사를 대상으로 회사 홍보를 수행하고 있습니다. 로봇 및 공장자동화 전문 매거진을 통해 당사가 개발한 스마트 솔루션 기능이 탑재된 로봇과 공장과 연동한 총 생산 관리 시스템에 대해 마케팅을 진행하고, 회사 홍보 활동을 위해 전세계 곳곳에서 시행하는 주요 전시회에 참가 또는 참관하여 당사 및 당사 제품에 대한 홍보활동을 수행하며, 잠재 고객사를 대상으로 지속적인 회사 홍보 활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "최저임금",
+      "weight": null,
+      "direction": 1,
+      "evidence": "첫째, 최저임금 상승은 기업의 비용(인건비 등)을 증가시키는 요인이 되며, 이는 기업의 이익률 하락으로 이어집니다. 지속적인 최저임금 인상 기조는 공장자동화에 대한 요구를 더욱 증폭시킬 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "주2) 부품(배관류)나 기타 금속류가 포함된 원자재 가격 변동은 주로 국제적인 철광석 가격 변동과 환율 변동에 따라 발생합니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동화시스템\",\n      \"weight\": 0.69,\n      \"direction\": null,\n      \"evidence\": \"2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"2025년도 12월말 기준 실적은 매출 36,918백만원며, 이중 자동화시스템은 25,728백만원, 산업용로봇은 7,904백만원 및 기타 매출은 4,096백만원입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"직교로봇\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"다관절로봇\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"첫번째 산업용 로봇은 직교로봇, 다관절로봇, 협동로봇 세 가지로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오토피딩시스템\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"두번째 자동화시스템의 대표 제품 라인으로는 온조기 등을 활용한 자동원료공급장치인 오토피딩(Auto-Feeding)시스템과 냉각시스템이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트팩토리 솔루션\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"공장 자동화에 필요한 스마트 팩토리 솔루션(Link-Factory 4.0)을 생산 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료기기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"2차전지\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전제품\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"플라스틱 사출 자동화 시스템은 자동차, 의료기기, 2차전지, 가전제품, 일반 소비재, 포장재 등 다양한 제조산업에 두루 적용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK Battery America\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 2024년 06월 28일 SK Battery America, Inc.의 제3자배정 유상증자 참여로USD 26,755,014(한화 기준 37,055,694,459원)의 자금이 조달되었으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MOTOR류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"원재료\\tMOTOR류\\t국 내\\t1,574,988\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"공압류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"공압류\\t국 내\\t325,314\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"배관류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"배관류\\t국 내\\t342,908\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"금속가공류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"금속가공류\\t국 내\\t3,441,942\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FA자재류\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"FA자재류\\t국 내\\t11,917,011\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"최종적으로 청라 신규 본사는 2025년 4월 완공하고 심사를 거쳐 6월 사용승인 허가를 득하였으며 7월 본점 이전 등기를 완료하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"멕시코\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 해외시장의 적극적인 공략을 위해 미국, 멕시코, 폴란드에 진출하였고 향후 대내외 경제 상황에 따라 인도에도 진출할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 자체적으로도 해외영업을 적극적으로 수행하고 있으며, 지속적으로 여러 방법을 통해 해외 잠재 고객사를 대상으로 회사 홍보를 수행하고 있습니다. 로봇 및 공장자동화 전문 매거진을 통해 당사가 개발한 스마트 솔루션 기능이 탑재된 로봇과 공장과 연동한 총 생산 관리 시스템에 대해 마케팅을 진행하고, 회사 홍보 활동을 위해 전세계 곳곳에서 시행하는 주요 전시회에 참가 또는 참관하여 당사 및 당사 제품에 대한 홍보활동을 수행하며, 잠재 고객사를 대상으로 지속적인 회사 홍보 활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"최저임금\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"첫째, 최저임금 상승은 기업의 비용(인건비 등)을 증가시키는 요인이 되며, 이는 기업의 이익률 하락으로 이어집니다. 지속적인 최저임금 인상 기조는 공장자동화에 대한 요구를 더욱 증폭시킬 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주2) 부품(배관류)나 기타 금속류가 포함된 원자재 가격 변동은 주로 국제적인 철광석 가격 변동과 환율 변동에 따라 발생합니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/388720_20260318000929.txt"
+}

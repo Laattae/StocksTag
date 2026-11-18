@@ -1,0 +1,193 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "판재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "판 재 | 18,378,114 | 70.1%"
+    },
+    {
+      "axis": "product",
+      "value": "봉형강",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "봉 형 강 | 건축용, 자동차용,조선용, 모빌리티 부품 | 5,964,924 | 22.7%"
+    },
+    {
+      "axis": "product",
+      "value": "열연",
+      "weight": null,
+      "direction": null,
+      "evidence": "판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "냉연",
+      "weight": null,
+      "direction": null,
+      "evidence": "판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "후판",
+      "weight": null,
+      "direction": null,
+      "evidence": "판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "철근",
+      "weight": null,
+      "direction": null,
+      "evidence": "봉형강사업 | 철근, 일반형강, H형강, 특수강 등"
+    },
+    {
+      "axis": "product",
+      "value": "H형강",
+      "weight": null,
+      "direction": null,
+      "evidence": "봉형강사업 | 철근, 일반형강, H형강, 특수강 등"
+    },
+    {
+      "axis": "product",
+      "value": "특수강",
+      "weight": null,
+      "direction": null,
+      "evidence": "봉형강사업 | 철근, 일반형강, H형강, 특수강 등"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": null,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": null,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": null,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": null,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "기계",
+      "weight": null,
+      "direction": null,
+      "evidence": "철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대코퍼레이션",
+      "weight": 0.044,
+      "direction": null,
+      "evidence": "당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼우",
+      "weight": 0.032,
+      "direction": null,
+      "evidence": "당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "GS글로벌",
+      "weight": 0.025,
+      "direction": null,
+      "evidence": "당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "조달청",
+      "weight": null,
+      "direction": null,
+      "evidence": "철근 | 조달청 | 2024.05.09 | 2025.06.30 | 491 | 425,200 | 492 | 427,397"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철광석",
+      "weight": 0.385,
+      "direction": null,
+      "evidence": "철광석 | 고로 철원 | 2,913,135 | 38.5%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석탄",
+      "weight": 0.288,
+      "direction": null,
+      "evidence": "석 탄 | 고로 열원환원제 | 2,174,115 | 28.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.327,
+      "direction": null,
+      "evidence": "철스크랩 | 용해용 | 2,474,504 | 32.7%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국 전기로 제철소 투자목적 | 투자내용 | 총 투자금액(당사 투자금액) | 미래 성장동력 확보 및중장기 탄소저감 체제 전환 | 미국 자동차강판 특화 전기로 제철소 건설"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "현대아이티씨, 현대아이에스씨, 현대아이엠씨, 현대아이이씨는 당진제철소, 인천공장, 포항공장, 순천공장의 사내 협력사 직원을 각각 직접 고용하기 위해 설립한 기업이며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "해외스틸서비스센터(SSC)는 미국, 중국 등 9개 국가에 위치해 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "철강 경기",
+      "weight": null,
+      "direction": -1,
+      "evidence": "(2) 주요 가격변동요인- 철강경기 부진에 따른 수요 감소 및 공급 안정화에 따른 시황 하락"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 기능통화 이외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"판재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"판 재 | 18,378,114 | 70.1%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"봉형강\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"봉 형 강 | 건축용, 자동차용,조선용, 모빌리티 부품 | 5,964,924 | 22.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열연\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉연\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"후판\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판재사업 | 열연, 냉연, 후판, 모빌리티 부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철근\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"봉형강사업 | 철근, 일반형강, H형강, 특수강 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"H형강\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"봉형강사업 | 철근, 일반형강, H형강, 특수강 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"특수강\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"봉형강사업 | 철근, 일반형강, H형강, 특수강 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"기계\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철강은 산업의 쌀이라 할 만큼 중요한 기초소재로서 자동차, 건설, 조선, 가전, 기계등 주요산업의 안정적 발전을 위한 산업 근간을 이루는 제조산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대코퍼레이션\",\n      \"weight\": 0.044,\n      \"direction\": null,\n      \"evidence\": \"당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼우\",\n      \"weight\": 0.032,\n      \"direction\": null,\n      \"evidence\": \"당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GS글로벌\",\n      \"weight\": 0.025,\n      \"direction\": null,\n      \"evidence\": \"당사의 제 61기 주요 매출처 중 현대코퍼레이션(주), (주)삼우, (주)GS글로벌 매출액이 전체 별도 매출액 대비 각각 4.4%, 3.2%, 2.5% 를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"조달청\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"철근 | 조달청 | 2024.05.09 | 2025.06.30 | 491 | 425,200 | 492 | 427,397\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철광석\",\n      \"weight\": 0.385,\n      \"direction\": null,\n      \"evidence\": \"철광석 | 고로 철원 | 2,913,135 | 38.5%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석탄\",\n      \"weight\": 0.288,\n      \"direction\": null,\n      \"evidence\": \"석 탄 | 고로 열원환원제 | 2,174,115 | 28.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.327,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 | 용해용 | 2,474,504 | 32.7%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국 전기로 제철소 투자목적 | 투자내용 | 총 투자금액(당사 투자금액) | 미래 성장동력 확보 및중장기 탄소저감 체제 전환 | 미국 자동차강판 특화 전기로 제철소 건설\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"현대아이티씨, 현대아이에스씨, 현대아이엠씨, 현대아이이씨는 당진제철소, 인천공장, 포항공장, 순천공장의 사내 협력사 직원을 각각 직접 고용하기 위해 설립한 기업이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"해외스틸서비스센터(SSC)는 미국, 중국 등 9개 국가에 위치해 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"철강 경기\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"(2) 주요 가격변동요인- 철강경기 부진에 따른 수요 감소 및 공급 안정화에 따른 시황 하락\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 기능통화 이외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/004020_20260318001506.txt"
+}

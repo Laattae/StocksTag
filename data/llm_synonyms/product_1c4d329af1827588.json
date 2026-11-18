@@ -1,0 +1,49 @@
+{
+  "merges": [
+    {
+      "group": 2,
+      "canonical": "SMR",
+      "synonyms": [
+        "소형모듈원자로(SMR)"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "가정간편식",
+      "synonyms": [
+        "간편식",
+        "가정간편식품",
+        "간편식사",
+        "간편식품"
+      ]
+    },
+    {
+      "group": 12,
+      "canonical": "군용탄",
+      "synonyms": [
+        "군용탄약"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "금현물",
+      "synonyms": [
+        "금 현물"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "모바일게임",
+      "synonyms": [
+        "모바일 게임"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "보험",
+      "synonyms": [
+        "보험업"
+      ]
+    }
+  ]
+}

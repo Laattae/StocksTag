@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "카지노",
+      "weight": 0.89,
+      "direction": null,
+      "evidence": "카지노는 핵심 매출원으로 2025년 기준 카지노 매출은 전체 매출의 89%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "호텔",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "호 텔 | 93,112,747,805 | 6.18% | 103,705,597,334 | 7.13% | 106,536,614,989 | 7.53%"
+    },
+    {
+      "axis": "product",
+      "value": "콘도",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "콘 도 | 32,368,393,370 | 2.15% | 34,407,826,965 | 2.37% | 34,194,272,776 | 2.42%"
+    },
+    {
+      "axis": "product",
+      "value": "스키장",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "스키장 | 21,110,769,358 | 1.40% | 19,858,573,805 | 1.37% | 18,419,940,668 | 1.30%"
+    },
+    {
+      "axis": "product",
+      "value": "워터월드",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "워터월드 | 11,960,884,064 | 0.79% | 12,529,297,769 | 0.86% | 11,952,114,153 | 0.85%"
+    },
+    {
+      "axis": "product",
+      "value": "골프장",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "골프장 | 8,761,550,458 | 0.58% | 9,233,259,707 | 0.63% | 9,971,529,177 | 0.71%"
+    },
+    {
+      "axis": "product",
+      "value": "슬롯머신",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "지속가능한 성장동력의 하나로 카지노업 기반의 슬롯머신 하드웨어 및 소프트웨어 제조 사업을 병행하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "관광산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "1995년 12월, 강원특별자치도 남부 폐광지역의 경제회생과 국내관광산업의 활성화를위해 내국인이 출입할 수 있는 카지노업을 영위할 수 있는 근거 법률인 폐광지역 개발 지원에 관한 특별법이 제정되었습니다."
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "강원특별자치도정선군 사북읍 및 고한읍 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내의 외국인 대상 카지노는 외래객의 증감 및 국내ㆍ외 환율 변동에 따라 증감하는경향이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"카지노\",\n      \"weight\": 0.89,\n      \"direction\": null,\n      \"evidence\": \"카지노는 핵심 매출원으로 2025년 기준 카지노 매출은 전체 매출의 89%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"호텔\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"호 텔 | 93,112,747,805 | 6.18% | 103,705,597,334 | 7.13% | 106,536,614,989 | 7.53%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘도\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"콘 도 | 32,368,393,370 | 2.15% | 34,407,826,965 | 2.37% | 34,194,272,776 | 2.42%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스키장\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"스키장 | 21,110,769,358 | 1.40% | 19,858,573,805 | 1.37% | 18,419,940,668 | 1.30%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"워터월드\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"워터월드 | 11,960,884,064 | 0.79% | 12,529,297,769 | 0.86% | 11,952,114,153 | 0.85%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골프장\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"골프장 | 8,761,550,458 | 0.58% | 9,233,259,707 | 0.63% | 9,971,529,177 | 0.71%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"슬롯머신\",\n      \"weight\": 0.0,\n      \"direction\": null,\n      \"evidence\": \"지속가능한 성장동력의 하나로 카지노업 기반의 슬롯머신 하드웨어 및 소프트웨어 제조 사업을 병행하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"관광산업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"1995년 12월, 강원특별자치도 남부 폐광지역의 경제회생과 국내관광산업의 활성화를위해 내국인이 출입할 수 있는 카지노업을 영위할 수 있는 근거 법률인 폐광지역 개발 지원에 관한 특별법이 제정되었습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"강원특별자치도정선군 사북읍 및 고한읍 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"국내의 외국인 대상 카지노는 외래객의 증감 및 국내ㆍ외 환율 변동에 따라 증감하는경향이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/035250_20260323000917.txt"
+}

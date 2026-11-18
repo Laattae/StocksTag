@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "SoC",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CIS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "MCU",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Smartcard IC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Die Preparation",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 DP(Die Preparation) 사업은 테스트를 완료한 웨이퍼에서 양품 칩을 고객이 요구하는 배열 및 웨이퍼 크기로 분류하여 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SiC 전력반도체",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "신성장 사업으로서 SiC(Silicon Carbide) 등 차량용 전력반도체 등 미래 유망 산업에도 적극적으로 진출하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CIS는 빛(광학적 이미지)를 전기적 신호로 바꾸어주는 역할을 하는 반도체 센서로서 스마트폰, 디지털카메라 등에 필수적으로 들어간니다."
+    },
+    {
+      "axis": "application",
+      "value": "차량용 전력반도체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신성장 사업으로서 SiC(Silicon Carbide) 등 차량용 전력반도체 등 미래 유망 산업에도 적극적으로 진출하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터 AI Accelerator",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Data Center AI Accelerator 반도체 시험 기술 개발"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연구소는 웨이퍼 테스트와 패키지 테스트의 연구개발을 동시에 주관하고 있으며 삼성전자 이외에 여러 팹리스 업체향 제품에 대한 테스트 프로그램 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Chip Tray",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품목 | Chip Tray | 332,093"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Tape",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Tape | 235,774"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "본사는 평택시 산단로에 위치해 있으며, Test 사업장은 평택에 하나, 안성에 두 개, DP사업장은 청주에 한 개가 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "DP사업장은 청주에 한 개가 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 산업 경기변동",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "반도체 산업은 경기민감도가 높아 업계의 사업변동성이 높은 특성을 지니고 있으며, 당사의 실적도 이와 같은 경기 변동에 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"SoC\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CIS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MCU\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Smartcard IC\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품군은 크게 SoC(System on Chip), CIS(CMOS Image Sensor), MCU(Micro Controller Unit), Smartcard IC로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Die Preparation\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 DP(Die Preparation) 사업은 테스트를 완료한 웨이퍼에서 양품 칩을 고객이 요구하는 배열 및 웨이퍼 크기로 분류하여 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SiC 전력반도체\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"신성장 사업으로서 SiC(Silicon Carbide) 등 차량용 전력반도체 등 미래 유망 산업에도 적극적으로 진출하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"CIS는 빛(광학적 이미지)를 전기적 신호로 바꾸어주는 역할을 하는 반도체 센서로서 스마트폰, 디지털카메라 등에 필수적으로 들어간니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"차량용 전력반도체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신성장 사업으로서 SiC(Silicon Carbide) 등 차량용 전력반도체 등 미래 유망 산업에도 적극적으로 진출하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터 AI Accelerator\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Data Center AI Accelerator 반도체 시험 기술 개발\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"연구소는 웨이퍼 테스트와 패키지 테스트의 연구개발을 동시에 주관하고 있으며 삼성전자 이외에 여러 팹리스 업체향 제품에 대한 테스트 프로그램 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Chip Tray\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"품목 | Chip Tray | 332,093\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Tape\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Tape | 235,774\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"본사는 평택시 산단로에 위치해 있으며, Test 사업장은 평택에 하나, 안성에 두 개, DP사업장은 청주에 한 개가 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"DP사업장은 청주에 한 개가 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 산업 경기변동\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"반도체 산업은 경기민감도가 높아 업계의 사업변동성이 높은 특성을 지니고 있으며, 당사의 실적도 이와 같은 경기 변동에 영향을 받을 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/131970_20260323001118.txt"
+}

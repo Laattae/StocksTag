@@ -1,0 +1,115 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "철광석",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%"
+    },
+    {
+      "axis": "product",
+      "value": "석탄",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%"
+    },
+    {
+      "axis": "product",
+      "value": "곡물",
+      "weight": 0.57,
+      "direction": null,
+      "evidence": "벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%"
+    },
+    {
+      "axis": "product",
+      "value": "컨테이너",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "컨테이너 | 컨테이너 | 441,843 | 8%"
+    },
+    {
+      "axis": "product",
+      "value": "원유 및 원유제품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "탱커선 | 원유 및 원유제품 | 297,894 | 5%"
+    },
+    {
+      "axis": "customer",
+      "value": "Vale",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "(주)포스코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대글로비스(주)",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Suzano",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국가스공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국남서부발전(주), 한국가스공사 등입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "BUNKER-C유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "저장품 | BUNKER-C유 | 선박용 연료"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 한국, 싱가포르를 중심으로 선박운항에 필요한 연료유를 구매하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "참고로, 환율이 10% 변동하였을 경우 당기말과 전기말 현재 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "변동이자율 차입의 기준금리가 0.5% 변동되었을 경우 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "국제 물동량 및 선복의 수급상태, 국제유가, 보험료, 인건비 등의 변동에 따라 연동됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"철광석\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%\"}, {\"axis\": \"product\", \"value\": \"석탄\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%\"}, {\"axis\": \"product\", \"value\": \"곡물\", \"weight\": 0.57, \"direction\": null, \"evidence\": \"벌크 | 철광석, 석탄, 곡물 등 | 3,199,567 | 57%\"}, {\"axis\": \"product\", \"value\": \"컨테이너\", \"weight\": 0.08, \"direction\": null, \"evidence\": \"컨테이너 | 컨테이너 | 441,843 | 8%\"}, {\"axis\": \"product\", \"value\": \"원유 및 원유제품\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"탱커선 | 원유 및 원유제품 | 297,894 | 5%\"}, {\"axis\": \"customer\", \"value\": \"Vale\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다.\"}, {\"axis\": \"customer\", \"value\": \"(주)포스코\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다.\"}, {\"axis\": \"customer\", \"value\": \"현대글로비스(주)\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다.\"}, {\"axis\": \"customer\", \"value\": \"Suzano\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사의 주요 매출처는 Vale, (주)포스코, 현대글로비스(주), Suzano, 한국남동발전(주) 등입니다.\"}, {\"axis\": \"customer\", \"value\": \"한국가스공사\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"한국남서부발전(주), 한국가스공사 등입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"BUNKER-C유\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"저장품 | BUNKER-C유 | 선박용 연료\"}, {\"axis\": \"region\", \"value\": \"싱가포르\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 한국, 싱가포르를 중심으로 선박운항에 필요한 연료유를 구매하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"참고로, 환율이 10% 변동하였을 경우 당기말과 전기말 현재 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"기준금리\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"변동이자율 차입의 기준금리가 0.5% 변동되었을 경우 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"국제 물동량 및 선복의 수급상태, 국제유가, 보험료, 인건비 등의 변동에 따라 연동됩니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/028670_20260319001097.txt"
+}

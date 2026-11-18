@@ -1,0 +1,222 @@
+﻿axis,canonical,synonym,canon_stocks,syn_stocks,note,approve
+application,2차전지,리튬 2차전지,7,1,,1
+application,AI,AI 산업,5,4,,1
+application,ESS,전력저장장치(ESS),21,1,대표 후보 여러 개: ESS/전력저장장치,1
+application,OTT,OTT 서비스,2,1,,1
+application,OTT,OTT 플랫폼,2,1,,1
+application,가전,가전기기,11,1,,1
+application,가전,가전제조업,11,1,,1
+application,가전,가전제품,11,3,,1
+application,간암,간암 치료,1,1,,1
+application,건설,건설 사업,20,1,,1
+application,건설,건설업,20,7,,1
+application,건축,건축 산업,5,1,,1
+application,건축,건축 시장,5,1,,1
+application,게임,게임 산업,2,1,,1
+application,골프,골프 산업,2,1,,1
+application,공공,공공기관,3,2,대표를 사용자가 지정,1
+application,공공,공공부문,2,1,대표를 사용자가 지정,1
+application,관광,관광 산업,3,1,,1
+application,국가예방접종,국가예방접종 사업,1,1,,1
+application,국방,국방용,4,1,,1
+application,군수,군수장비,2,1,,1
+application,담관암,담관암 치료,1,1,,1
+application,당뇨병,당뇨,4,2,,1
+application,당뇨병,제2형 당뇨병,4,2,,1
+application,데이터센터,AI 데이터센터,55,1,대표 후보 여러 개: AI 데이터센터/데이터센터,1
+application,로봇,로봇 산업,5,1,,1
+application,모바일,모바일기기,4,1,,1
+application,물류,물류산업,7,1,,1
+application,반도체,반도체 산업,56,1,,1
+application,방위산업,국가방위산업,10,1,,1
+application,방위산업,방위,10,1,,1
+application,방위산업,방위사업,10,1,,1
+application,부동산,부동산 시장,5,1,,1
+application,스마트미터,스마트미터기,1,1,,1
+application,식품,식품산업,3,3,,1
+application,식품,식품업계,3,1,,1
+application,알츠하이머,알츠하이머병,5,1,대표를 사용자가 지정,1
+application,양수발전,양수발전소,1,1,,1
+application,원자력발전,원자력발전소,3,3,,1
+application,위암,위암 치료,1,1,,1
+application,의료기기,의료기기 산업,3,1,,1
+application,의료기기,휴대용 의료기기,3,1,,1
+application,의약품,의약,3,1,,1
+application,자동차,자동차 산업,53,2,,1
+application,자동차,자동차용,53,1,,1
+application,전력저장장치,전력저장장치(ESS),2,1,대표 후보 여러 개: ESS/전력저장장치,
+application,전장,자동차 전장,2,3,,1
+application,전장,전장사업,2,1,,1
+application,제약,제약 시장,2,1,,1
+application,제철,제철산업,1,1,,1
+application,조선,조선해양,25,1,대표 후보 여러 개: 조선/조선해양,1
+application,조선,조선산업,25,1,,1
+application,조선,조선업,25,1,,1
+application,해양플랜트,조선해양 플랜트,1,1,대표를 사용자가 지정,1
+application,종양,종양질환,1,1,,1
+application,철강,철강산업,7,2,,1
+application,철도,철도산업,4,1,,1
+application,철도,철도시스템,4,1,,1
+application,태양광,태양광 산업,12,1,,1
+application,태양광,태양광 발전,12,1,,1
+application,패션,패션 산업,1,1,,1
+application,항암,항암 치료,2,1,,1
+application,해운,해운산업,8,1,,1
+application,해운,해운업,8,1,,1
+application,화장품,화장품 산업,8,2,,1
+application,황반변성,나이관련황반변성증,2,1,,1
+application,황반변성,노인성 황반변성,2,1,,1
+customer,Angelini Pharma,Angelini Pharma S.p.A.,2,1,,1
+customer,Anvia Therapeutics,"Anvia Therapeutics, Inc.",1,1,,1
+customer,Apotex,Apotex Inc.,1,1,,1
+customer,Chevron Australia,Chevron Australia Pty Ltd,1,1,,1
+customer,Eli Lilly,Eli Lilly and Company,1,2,,1
+customer,Micron,Micron Technology,4,1,,1
+customer,Microsoft,Microsoft Corporation,2,2,,1
+customer,ORIC Pharmaceuticals,"ORIC Pharmaceuticals, Inc.",1,1,,1
+customer,Ono Pharmaceutical,"Ono Pharmaceutical Co., Ltd.",1,1,,1
+customer,Pluristem,Pluristem Therapeutics,1,1,,1
+customer,SK하이닉스,에스케이하이닉스,21,3,,1
+customer,SK하이닉스,하이닉스,21,2,,1
+customer,Sanofi,Sanofi 사,3,1,,1
+customer,"Senju Pharmaceutical Co., Ltd",SENJU Pharmaceutical,1,1,,1
+customer,TOYO Chemical,"TOYO Chemical CO., LTD.",1,1,,1
+customer,르노코리아,르노코리아자동차,1,1,,1
+customer,삼성SDI,삼성에스디아이,10,2,,1
+customer,얀센,얀센 바이오테크,2,1,,1
+customer,얀센,얀센바이오텍,2,1,,1
+customer,올리브영,씨제이올리브영,1,1,,1
+customer,유한양행,유한양행 사,4,1,,1
+customer,육군,대한민국 육군,1,1,,1
+customer,포드,포드 모터 컴퍼니,2,2,,1
+customer,포스코,(주)포스코,12,1,,1
+customer,폭스바겐,폭스바겐 그룹,6,1,,1
+customer,한국바스프,한국바스프주식회사,2,2,,1
+customer,한국수력원자력,한국수력원자력(주),8,1,,1
+customer,한국전력,한국전력공사,2,15,,1
+customer,한국타이어,한국타이어앤테크놀로지,2,1,,1
+customer,해군,대한민국 해군,1,1,,1
+customer,현대글로비스,현대글로비스(주),3,1,,1
+customer,현대자동차,현대자동차그룹,21,1,대표 후보 여러 개: 현대자동차/현대자동차그룹,1
+exposure,고령화,인구 고령화,15,2,,1
+exposure,국제 곡물가,곡물가격,2,1,대표를 사용자가 지정,1
+exposure,국제 곡물가,국제 곡물가격,2,3,대표를 사용자가 지정,1
+exposure,금리,기준금리,85,1,대표 후보 여러 개: 금리/기준금리,1
+exposure,금리,시장금리,85,4,,1
+exposure,금리변동,금리변동성,1,1,,1
+exposure,물가상승률,물가상승,1,1,,1
+exposure,물가상승률,소비자 물가상승률,1,1,,1
+exposure,약가정책,약가규제 정책,3,1,,1
+exposure,약가정책,정부의 약가정책,3,1,,1
+exposure,원유가,국제 원유가격,1,2,대표 후보 여러 개: 원유가/유가; 대표가 다른 행의 synonym,
+exposure,원자재 가격,배터리 원자재 가격,63,1,,1
+exposure,원재료 가격,국제 원재료 가격,16,1,,1
+exposure,유가,국제 원유가격,71,2,대표 후보 여러 개: 원유가/유가,1
+exposure,유가,원유가,71,1,,1
+exposure,이자율,시장이자율,95,5,,1
+exposure,전기차 화재,전기차 화재 위험,1,1,,1
+exposure,전기차 화재,전기차 화재 위험성,1,1,대표 후보 여러 개: 전기차 화재/전기차 화재 위험,1
+exposure,전기차 화재 위험,전기차 화재 위험성,1,1,대표 후보 여러 개: 전기차 화재/전기차 화재 위험; 대표가 다른 행의 synonym,1
+product,ADC,ADC 신약,2,1,,1
+product,BOPP,BOPP 필름,2,1,,1
+product,Copolyester,Copolyester 수지,1,1,,1
+product,ESS,ESS용 배터리,8,2,,1
+product,HVAC,에이치백(HVAC),1,2,,1
+product,IP 라이선스,IP 라이선스 상품,2,1,,1
+product,IT서비스,금융IT서비스,3,1,,1
+product,IT서비스,의료 IT 서비스,3,1,,1
+product,LNG선,LNG 운반선,5,3,,1
+product,LNG선,LNGC,5,2,,1
+product,LPCVD,LPCVD장비,1,1,,1
+product,MBX,MBX 코인,1,1,,1
+product,NCA,NCA 양극재,1,1,,1
+product,NCM,NCM 양극재,1,1,,1
+product,OLED 소재,디스플레이 OLED 소재,1,1,대표 후보 여러 개: OLED 소재/OLED소재; 대표가 다른 행의 synonym,1
+product,SMR,소형모듈원자로(SMR),2,1,대표 후보 여러 개: SMR/소형모듈원자로,1
+product,가정간편식,가정간편식품,1,1,,1
+product,가정간편식,간편식,1,2,,1
+product,가정간편식,간편식사,1,1,,1
+product,가정간편식,간편식품,1,1,,1
+product,건물종합관리,건물종합관리업,1,1,,1
+product,고체산화물연료전지,고체산화물연료전지(SOFC),2,1,,1
+product,군용탄,군용탄약,1,1,,1
+product,금융투자,금융투자업,1,2,,1
+product,기능성필름,고기능성 필름,1,1,,1
+product,기업인프라,기업인프라 서비스,1,1,,1
+product,물류,물류사업,1,1,,1
+product,방산,방산물자,1,2,,1
+product,보험,보험업,7,1,,1
+product,부동산 개발,부동산 개발사업,3,1,,1
+product,뷰티 디바이스,홈 뷰티 디바이스,1,1,대표 후보 여러 개: 뷰티 디바이스/홈뷰티 디바이스,1
+product,사모펀드,사모펀드(PEF),1,1,,1
+product,생명보험,생명보험사업,9,1,,1
+product,선물중개,선물중개업,1,1,,1
+product,SMR,소형모듈원자로,2,1,대표를 Claude가 수정,1
+product,소형모듈원자로,원자로 계통설계,2,1,대표 후보 여러 개: 소형모듈원자로/원자로계통설계,1
+product,손해보험,손해보험업,5,2,,1
+product,수소 운반선,액화수소운반선,1,1,,1
+product,슈퍼마켓,슈퍼,2,1,,1
+product,스낵,스낵류,4,2,,1
+product,스테인리스,스테인리스강,1,1,,1
+product,시설대여,시설대여업,4,1,,1
+product,시스템 통합,시스템 통합(SI),1,1,,1
+product,신기술사업금융,신기술사업금융업,1,1,,1
+product,신탁,신탁업,7,1,,1
+product,신탁,신탁업무,7,4,,1
+product,압축기,압축기(COMP),3,1,,1
+product,압축기,전동 압축기,3,1,대표 후보 여러 개: 압축기/전동압축기,1
+product,HVAC,에이치백,2,2,대표를 Claude가 수정,1
+product,엔블로,엔블로정,2,1,,1
+product,엘리가드,엘리가드 주,1,1,,1
+product,연포장재,연포장,2,1,,1
+product,영상감시,영상감시장비,1,1,,1
+product,영화상영,영화상영업,1,1,대표가 다른 행의 synonym,1
+product,영화상영업,영화상영,1,1,대표가 다른 행의 synonym,
+product,육가공,육가공품,3,1,,1
+product,음료,음료류,3,1,,1
+product,음반/음원,음반 및 음원,2,1,,1
+product,음반/음원,"음반, 음원",2,1,,1
+product,음악서비스,디지털 음악 서비스,1,1,,1
+product,의약품 위탁생산서비스,위탁생산서비스,1,1,,1
+product,의약품 위탁생산서비스,의약품 위탁생산,1,1,,1
+product,이차전지용 음극재,이차전지용 음극재료,1,1,,1
+product,자동차할부,자동차 할부금융,1,1,,1
+product,자주포,K9 자주포,1,1,,1
+product,케미컬 필터,클린룸 케미컬 필터,2,1,,1
+product,케이블TV,케이블TV 서비스,1,1,,1
+product,택배,택배사업,3,1,,1
+product,특수가스,반도체 특수가스,1,1,,1
+product,파워트레인 쿨링,파워트레인쿨링(PTC),1,1,,1
+product,펙수클루,펙수클루정,3,2,,1
+product,펩타이드,면역조절 펩타이드,1,1,,1
+product,펩타이드,발모 증진용 펩타이드,1,1,,1
+product,펩타이드,펩타이드 소재,1,1,대표 후보 여러 개: 펩타이드/펩타이드소재,1
+product,펩타이드,펩타이드 원료,1,1,,1
+product,폴리에틸렌,고밀도폴리에틸렌,3,1,,1
+product,필러,HA필러,1,2,,1
+product,필러,히알루론산 필러,1,1,,1
+product,하이브리드,하이브리드 시스템,3,1,,1
+product,할부금융,할부금융업,10,1,,1
+product,합성수지,고기능성 합성수지,4,1,,1
+product,합성신약,화학합성신약,2,1,,1
+product,항공우주,항공우주체계,1,1,,1
+product,항공운송,항공운송 서비스,1,1,,1
+product,항체-약물 접합체,항체-독소 접합체,2,1,,1
+product,항체-약물 접합체,항체-약물 결합체,2,2,,1
+product,헤어그로,헤어그로정,1,1,,1
+product,호텔,호텔 숙박,4,1,,1
+product,홈쇼핑,TV홈쇼핑,3,4,,1
+product,화물 운송,벌크화물 운송 서비스,1,1,,1
+product,화물 운송,컨테이너화물 운송 서비스,1,1,,1
+product,황반변성 치료제,건성 및 습성 황반변성 치료제,1,1,,1
+raw_material,PET칩,PET Chip,1,2,,1
+raw_material,STEEL PLATE,PLATE,2,1,대표가 다른 행의 synonym,1
+raw_material,강재,강재류,8,1,,1
+raw_material,곡물,국제 곡물,2,2,,1
+raw_material,생두,커피생두,1,1,,1
+raw_material,용매,용매 류,1,1,,1
+raw_material,원두,커피 원두,1,1,대표 후보 여러 개: 원두/커피,1
+raw_material,철근,이형철근,10,1,,1
+raw_material,커피,커피 원두,1,1,대표 후보 여러 개: 원두/커피,
+raw_material,코코아 원두,코코아류,1,2,,1
+raw_material,포장재,포장재료,1,1,,1

@@ -1,0 +1,228 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "궐련",
+      "weight": 0.664,
+      "direction": null,
+      "evidence": "주요 사업별 매출 비중은 담배부문(66.4%), 건강기능부문(17.3%), 부동산부문(10.8%), 기타부문(5.5%) 순이었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "홍삼",
+      "weight": 0.173,
+      "direction": null,
+      "evidence": "건강기능사업은 크게 홍삼과 비홍삼 부문으로 구분되며, 홍삼이 가장 대표적인 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "부동산 개발",
+      "weight": 0.108,
+      "direction": null,
+      "evidence": "부동산 개발 및 임대 사업을 운영하는「부동산사업부문」"
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.055,
+      "direction": null,
+      "evidence": "의약품/화장품의 연구개발, 제조, 판매 등의 사업을 운영하는「기타사업부문」"
+    },
+    {
+      "axis": "product",
+      "value": "차세대담배",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "궐련 및 차세대 전자담배인 HNB 등의 제조와 판매 사업을 운영하는「담배사업부문」"
+    },
+    {
+      "axis": "raw_material",
+      "value": "잎담배",
+      "weight": 0.301,
+      "direction": null,
+      "evidence": "잎담배, 담배부원료 | 담배제조 등 | 479,767 | 30.1%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "수삼",
+      "weight": 0.83,
+      "direction": null,
+      "evidence": "수삼 | 제품제조 등 | 321,461 | 83.0%"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대전공장 | 대전광역시 대덕구 벚꽃길 71 (평촌동)"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "광주공장 | 광주광역시 북구 하서로 300 (양산동)"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "인도네시아공장 | Jl Raya Purwosari 341, Pasuruan, Jawa Timur, Indonesia 67162"
+    },
+    {
+      "axis": "region",
+      "value": "러시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "러시아공장 | Estate 3, 2nd East Way, Dobrion Village, Borovsk District,Kaluga Region, Russia Federation 249020"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 제조담배 수출 및 잎담배 수입 거래 등과 관련하여 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "부동산 산업은 금리변동 및 유동성 증감, GDP 성장률 등 경기변동에 민감합니다."
+    },
+    {
+      "axis": "product",
+      "value": "홍삼",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "홍삼사업은 규모의 경제가 요구되는 자본집약적인 산업으로서, 원료의 조달까지 6년간의 숙성기간을 필요로 하는 등"
+    },
+    {
+      "axis": "product",
+      "value": "건강기능식품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "홍삼 및 건강기능성식품에 대한 계절적인 요인은 특별히 없습니다."
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제약산업은 인간의 생명과 보건에 관련된 의약품을 연구 개발하여 생산 및 공급하는산업으로서"
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화장품은 소비자의 기호와 화장습관, 유행에 매우 민감한 패션상품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "담배",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "담배는 제품의 특수성으로 인해 정부가 담배의 제조 및 판매 등에 관한 사항을 법으로 규정하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "수삼",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "6년간의 계약재배를 통하여 청정 원료를 안정적으로 구매하고 있으며, 또한 충남 부여 등 연간 10,200톤(수삼처리량 기준)을 제조할 수 있는 시설을 보유하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원료의약품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원료의약품 수입의존도가 높아 환율변화에 따라 수익성 변동폭이 큽니다."
+    },
+    {
+      "axis": "customer",
+      "value": "아성다이소",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "'(주)아성다이소', '올리브영' 을 통한 소비자 접점 확대 및 제품 리뉴얼을 추진하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "올리브영",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "'(주)아성다이소', '올리브영' 을 통한 소비자 접점 확대 및 제품 리뉴얼을 추진하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "충남 부여 등 연간 10,200톤(수삼처리량 기준)을 제조할 수 있는 시설을 보유하여"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "원료의약품 수입의존도가 높아 환율변화에 따라 수익성 변동폭이 큽니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "물가상승",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "국내사업은 급격한 물가상승에 따른 소비침체 여건 속에서 디지털 전용제품 확대를 통한 온라인 시장 공략"
+    },
+    {
+      "axis": "exposure",
+      "value": "원부자재 가격",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "중국의 소비심리 위축 등 대외 환경의 여파와 고물가, 고금리의 복합 위기 속에 소비심리 위축, 원부자재 가격의 상승으로 내수시장 역시 어려운 시기를 보내고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"궐련\",\n      \"weight\": 0.664,\n      \"direction\": null,\n      \"evidence\": \"주요 사업별 매출 비중은 담배부문(66.4%), 건강기능부문(17.3%), 부동산부문(10.8%), 기타부문(5.5%) 순이었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홍삼\",\n      \"weight\": 0.173,\n      \"direction\": null,\n      \"evidence\": \"건강기능사업은 크게 홍삼과 비홍삼 부문으로 구분되며, 홍삼이 가장 대표적인 사업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 개발\",\n      \"weight\": 0.108,\n      \"direction\": null,\n      \"evidence\": \"부동산 개발 및 임대 사업을 운영하는「부동산사업부문」\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품\",\n      \"weight\": 0.055,\n      \"direction\": null,\n      \"evidence\": \"의약품/화장품의 연구개발, 제조, 판매 등의 사업을 운영하는「기타사업부문」\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차세대담배\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"궐련 및 차세대 전자담배인 HNB 등의 제조와 판매 사업을 운영하는「담배사업부문」\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"잎담배\",\n      \"weight\": 0.301,\n      \"direction\": null,\n      \"evidence\": \"잎담배, 담배부원료 | 담배제조 등 | 479,767 | 30.1%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"수삼\",\n      \"weight\": 0.83,\n      \"direction\": null,\n      \"evidence\": \"수삼 | 제품제조 등 | 321,461 | 83.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대전공장 | 대전광역시 대덕구 벚꽃길 71 (평촌동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"광주공장 | 광주광역시 북구 하서로 300 (양산동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"인도네시아공장 | Jl Raya Purwosari 341, Pasuruan, Jawa Timur, Indonesia 67162\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"러시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"러시아공장 | Estate 3, 2nd East Way, Dobrion Village, Borovsk District,Kaluga Region, Russia Federation 249020\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 제조담배 수출 및 잎담배 수입 거래 등과 관련하여 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"부동산 산업은 금리변동 및 유동성 증감, GDP 성장률 등 경기변동에 민감합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"홍삼\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"홍삼사업은 규모의 경제가 요구되는 자본집약적인 산업으로서, 원료의 조달까지 6년간의 숙성기간을 필요로 하는 등\"}, {\"axis\": \"product\", \"value\": \"건강기능식품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"홍삼 및 건강기능성식품에 대한 계절적인 요인은 특별히 없습니다.\"}, {\"axis\": \"product\", \"value\": \"의약품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"제약산업은 인간의 생명과 보건에 관련된 의약품을 연구 개발하여 생산 및 공급하는산업으로서\"}, {\"axis\": \"product\", \"value\": \"화장품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"화장품은 소비자의 기호와 화장습관, 유행에 매우 민감한 패션상품입니다.\"}, {\"axis\": \"product\", \"value\": \"담배\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"담배는 제품의 특수성으로 인해 정부가 담배의 제조 및 판매 등에 관한 사항을 법으로 규정하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"수삼\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"6년간의 계약재배를 통하여 청정 원료를 안정적으로 구매하고 있으며, 또한 충남 부여 등 연간 10,200톤(수삼처리량 기준)을 제조할 수 있는 시설을 보유하여\"}, {\"axis\": \"raw_material\", \"value\": \"원료의약품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원료의약품 수입의존도가 높아 환율변화에 따라 수익성 변동폭이 큽니다.\"}, {\"axis\": \"customer\", \"value\": \"아성다이소\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"'(주)아성다이소', '올리브영' 을 통한 소비자 접점 확대 및 제품 리뉴얼을 추진하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"올리브영\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"'(주)아성다이소', '올리브영' 을 통한 소비자 접점 확대 및 제품 리뉴얼을 추진하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"충남 부여 등 연간 10,200톤(수삼처리량 기준)을 제조할 수 있는 시설을 보유하여\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다.\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다.\"}, {\"axis\": \"region\", \"value\": \"광주\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다.\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다.\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"2021년 국내 5개 공장(대전, 영주, 광주, 천안, 김천) 대상으로 ISO 50001(에너지경영시스템) 취득을 완료하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"원료의약품 수입의존도가 높아 환율변화에 따라 수익성 변동폭이 큽니다.\"}, {\"axis\": \"exposure\", \"value\": \"물가상승\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"국내사업은 급격한 물가상승에 따른 소비침체 여건 속에서 디지털 전용제품 확대를 통한 온라인 시장 공략\"}, {\"axis\": \"exposure\", \"value\": \"원부자재 가격\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"중국의 소비심리 위축 등 대외 환경의 여파와 고물가, 고금리의 복합 위기 속에 소비심리 위축, 원부자재 가격의 상승으로 내수시장 역시 어려운 시기를 보내고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/033780_20260318001422.txt"
+}

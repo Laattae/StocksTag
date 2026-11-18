@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "의류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "식품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가전제품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화 티켓",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "영화상영업 사업부문에서는 영화관 운영으로 영화판권, 영화 티켓 등의 수입을 창출하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 미래에 시장이자율 변동에 따라 예금과 차입금에서 발생하는 이자비용및 이자수익이 변동될 위험으로서"
+    },
+    {
+      "axis": "exposure",
+      "value": "내수경기",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다. 따라서 가구소득 및 소비가 증가하는 만큼 소매유통판매액은 일정수준 지속적으로 증가하게 됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "타임빌라스는 백화점 / 아울렛 / 쇼핑몰의 강점을 결합한 Convergence 모델 기반으로"
+    },
+    {
+      "axis": "product",
+      "value": "할인점",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "용역의 제공장소를 제외한 매장면적의 합계가 3천제곱미터 이상인 점포의 집단으로서 식품, 가전 및 생활용품을 중심으로"
+    },
+    {
+      "axis": "product",
+      "value": "전자제품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전자제품 전문점은 전자제품을 전문적으로 판매하는 유통업태로 롯데하이마트, 전자랜드와 같은 '카테고리킬러'형 전문점"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "홈쇼핑사는 방송통신위원회의 승인 하에 TV매체를 통해 시청자에게 상품의 특성과 정보를 제공하고"
+    },
+    {
+      "axis": "product",
+      "value": "영화상영업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "영화 시장의 성장에 따라 상영관은 단순한 영화상영에 그치지 않고 쇼핑, 오락, 레져등의 종합 Entertainment Platform의 기능을 갖춘 멀티플렉스로 변화했습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "롯데백화점은 베트남 3개, 인도네시아 1개로 총 4개의 해외점포를 운영 중입니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2013년 6월 롯데쇼핑 에비뉴(자카르타점)를 인도네시아에 오픈하였고"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "부동산 경기가 활성화 되어 소비 심리가 개선되고, 택지 개발 및 신규 아파트 공급이 확대되면 이사 수요가 늘어나 전자제품의 신규 구입이나 교체로 이어질 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.1,
+      "direction": -1,
+      "evidence": "다만, 정부의 부동산 정책(세금, 대출 등) 및 금리변동에 따라, 부동산 전체 시장(주거용, 상업용)의 변동이 발생할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"의류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가전제품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점, 할인점, 슈퍼, 이커머스, 전자제품 전문점, 홈쇼핑 사업부문에서 온라인 및 오프라인 유통 채널을 통해 의류, 식품, 가전제품 등의 상품을 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화 티켓\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"영화상영업 사업부문에서는 영화관 운영으로 영화판권, 영화 티켓 등의 수입을 창출하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"롯데백화점은 현재 롯데쇼핑 주식회사 소유의 백화점 29개점, 해외 4개점(베트남 3개, 인도네시아 1개) 및 경영관리계약을 통해 수탁운영하고 있는 2개점\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체의 환위험관리의 목표는 환율변동으로 인한 불확실성과 손익의 변동을 최소화 하여 안정적인 재무활동을 지속하는 데 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래에 시장이자율 변동에 따라 예금과 차입금에서 발생하는 이자비용및 이자수익이 변동될 위험으로서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"내수경기\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"소매유통산업은 최종 소비자를 대상으로 하기 때문에 가구소득 및 소비지출의 변화와 밀접하게 연관되어 있습니다. 따라서 가구소득 및 소비가 증가하는 만큼 소매유통판매액은 일정수준 지속적으로 증가하게 됩니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"타임빌라스는 백화점 / 아울렛 / 쇼핑몰의 강점을 결합한 Convergence 모델 기반으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할인점\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"용역의 제공장소를 제외한 매장면적의 합계가 3천제곱미터 이상인 점포의 집단으로서 식품, 가전 및 생활용품을 중심으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자제품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전자제품 전문점은 전자제품을 전문적으로 판매하는 유통업태로 롯데하이마트, 전자랜드와 같은 '카테고리킬러'형 전문점\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"홈쇼핑\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"홈쇼핑사는 방송통신위원회의 승인 하에 TV매체를 통해 시청자에게 상품의 특성과 정보를 제공하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화상영업\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"영화 시장의 성장에 따라 상영관은 단순한 영화상영에 그치지 않고 쇼핑, 오락, 레져등의 종합 Entertainment Platform의 기능을 갖춘 멀티플렉스로 변화했습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"롯데백화점은 베트남 3개, 인도네시아 1개로 총 4개의 해외점포를 운영 중입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2013년 6월 롯데쇼핑 에비뉴(자카르타점)를 인도네시아에 오픈하였고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"부동산 경기가 활성화 되어 소비 심리가 개선되고, 택지 개발 및 신규 아파트 공급이 확대되면 이사 수요가 늘어나 전자제품의 신규 구입이나 교체로 이어질 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.1,\n      \"direction\": -1,\n      \"evidence\": \"다만, 정부의 부동산 정책(세금, 대출 등) 및 금리변동에 따라, 부동산 전체 시장(주거용, 상업용)의 변동이 발생할 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/023530_20260312001405.txt"
+}

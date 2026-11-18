@@ -1,0 +1,145 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "토목공사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "토목공사 건설용역,철구조물 제작/설치용역"
+    },
+    {
+      "axis": "product",
+      "value": "주택공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주택공사 건설용역,부동산 관련 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "플랜트공사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "플랜트공사 건설용역 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "레미콘 | 건설기초자재 | 137,414 | 18.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철근 | 건설기초자재 | 93,947 | 12.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "가구류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "가구류 | 건설마감자재 | 71,217 | 9.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "시멘트",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "시멘트 | 건설기초자재 | 18,245 | 2.4%"
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한국 | 6,022,796 | 491,474 | 117,184 | 469,183 | 301,078 | 710 | 7,402,425"
+    },
+    {
+      "axis": "region",
+      "value": "중동",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "중동 | 592,984 | 241 | 18,237 | 231 | 87 | 132 | 9669,288"
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유럽 | 969,857 | 231 | 469,183 | 710 | 7,402,425"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "상기 품목은 국내외 원자재 가격변동에 큰 영향을 받으며, 대부분의 원재료는 경쟁시장 품목입니다."
+    },
+    {
+      "axis": "product",
+      "value": "아파트",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사는 최대주주인 DL이앤씨㈜와 'e편한세상'이라는 업계 최고수준의 아파트 브랜드를 공유하여 사용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주택재개발정비사업",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "2월, 아크로의 차별화된 가치는 '한남5구역 주택재개발정비사업' 시공사 선정에서도 입증되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인테리어 솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년 1분기, DL이앤씨는 국내 건설사 최초로 공간에 취향을 더한 인테리어 솔루션 '디 셀렉션(D Selection)'을 선보였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "건설기계",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "두 협약을 통해 미세먼지 상시 측정기기 설치, 노후 건설기계 사용 제한, 도로 청소 강화 등의 조치를 시행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "서울 용산구 동빙고동 일대 14만1186㎡ 부지에 조성되는 '아크로 한남' 프로젝트는 공사비 약 1조 7,584억 원 규모로"
+    },
+    {
+      "axis": "exposure",
+      "value": "온실가스 배출권",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "2026년부터 '온실가스 배출권거래제'로 편입되어 할당대상업체로서 제도를 이행하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"토목공사\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"토목공사 건설용역,철구조물 제작/설치용역\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주택공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주택공사 건설용역,부동산 관련 서비스\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플랜트공사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"플랜트공사 건설용역 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"레미콘 | 건설기초자재 | 137,414 | 18.4%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철근 | 건설기초자재 | 93,947 | 12.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"가구류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"가구류 | 건설마감자재 | 71,217 | 9.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"시멘트 | 건설기초자재 | 18,245 | 2.4%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한국 | 6,022,796 | 491,474 | 117,184 | 469,183 | 301,078 | 710 | 7,402,425\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중동\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"중동 | 592,984 | 241 | 18,237 | 231 | 87 | 132 | 9669,288\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유럽 | 969,857 | 231 | 469,183 | 710 | 7,402,425\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"상기 품목은 국내외 원자재 가격변동에 큰 영향을 받으며, 대부분의 원재료는 경쟁시장 품목입니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"아파트\", \"weight\": 0.95, \"direction\": null, \"evidence\": \"당사는 최대주주인 DL이앤씨㈜와 'e편한세상'이라는 업계 최고수준의 아파트 브랜드를 공유하여 사용하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"주택재개발정비사업\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"2월, 아크로의 차별화된 가치는 '한남5구역 주택재개발정비사업' 시공사 선정에서도 입증되었습니다.\"}, {\"axis\": \"product\", \"value\": \"인테리어 솔루션\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025년 1분기, DL이앤씨는 국내 건설사 최초로 공간에 취향을 더한 인테리어 솔루션 '디 셀렉션(D Selection)'을 선보였습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"건설기계\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"두 협약을 통해 미세먼지 상시 측정기기 설치, 노후 건설기계 사용 제한, 도로 청소 강화 등의 조치를 시행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"서울 용산구 동빙고동 일대 14만1186㎡ 부지에 조성되는 '아크로 한남' 프로젝트는 공사비 약 1조 7,584억 원 규모로\"}, {\"axis\": \"exposure\", \"value\": \"온실가스 배출권\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"2026년부터 '온실가스 배출권거래제'로 편입되어 할당대상업체로서 제도를 이행하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/375500_20260814003447.txt"
+}

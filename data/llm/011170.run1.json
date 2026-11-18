@@ -1,0 +1,355 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "에틸렌(EL), 프로필렌(PL), BTX, 고순도이소프탈산(PIA), 폴리에틸렌(PE), 폴리프로필렌(PP) 등"
+    },
+    {
+      "axis": "product",
+      "value": "폴리에틸렌",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "폴리프로필렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "ABS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Elecfoil",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당기말 사업부 매출총액 기준 주요 제품의 매출액 비중은 Elecfoil 88.4%, 기타 11.6%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "염소 계열 제품 중 ECH는 방수 및 방청 페인트의 주된 원료로 사용되고, 가성소다는 섬유, 의약, 제지, 세제 등 화학산업 분야에서 기초 원료로 사용됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전지소재 사업의 Elecfoil은 2차 전지에서 음극집전체로 작용하는 핵심 소재로서 2차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 PCB에 적용되는 제품입니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여"
+    },
+    {
+      "axis": "application",
+      "value": "건축",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "셀룰로스계 제품으로는 건축용 물성 향상 및 세라믹 필터 첨가제인 메셀로스, 수용성 페인트 및 퍼스널 케어 첨가제 헤셀로스가 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Naphtha",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Naphtha 롯데케미칼(주), LC TITAN 에틸렌, 프로필렌 등 GS Caltex, HD현대오일뱅크 등 해당 없음 5,015,052 50.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "BPA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "BPA 롯데케미칼(주) PC 등 금호피앤비화학 등 해당 없음 632,481 40.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "SM",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "SM 롯데케미칼(주) ABS, SAN 등 LG화학 등 해당 없음 458,203 29.0"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "구리 등 롯데에너지머티리얼즈(주) Elecfoil 등 (주)보성메탈外 해당 없음 340,510 91.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "AN",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "AN 롯데케미칼(주) ABS, SAN 등 LG화학 등 해당 없음 205,760 13.0"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "폐PET 화학적 재활용신규사업 신설 '21년 ~ '27년 BHET 및 화학적 재활용 PET 생산 설비 화학적 재활용 PET: 11만톤/년 770 155 615 울산"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국을 포함한 아시아, 유럽 등 다양한 국가로 제품을 수출하며, 당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LOTTE Chemical USA Corp.(LC USA), LOTTE Chemical Trading(Shanghai) Corp. 와 4개 종속회사"
+    },
+    {
+      "axis": "region",
+      "value": "헝가리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "LOTTE Chemical Hungary Ltd.(헝가리), LOTTE Chemical Turkey Surface Designs Industry and Trade Inc.(튀르키예) 와 13개 종속회사"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "상반기에는 국제 유가 및 납사 가격 약세로 제품 가격이 하락하였으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 환위험은 외화로 표시된 화폐성자산과 화폐성부채의 환율변동과 관련하여 발생하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "에틸렌",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사 기초화학 사업은 나프타 분해설비를 통해 생산되는 에틸렌, 프로필렌, Xylene 류의 기초 유분 및 모노머 제품으로 폴리에틸렌(PE), 폴리프로필렌(PP) 등의 제품을 제조, 판매하고 있으며 관련 연구 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "프로필렌",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사 기초화학 사업은 나프타 분해설비를 통해 생산되는 에틸렌, 프로필렌, Xylene 류의 기초 유분 및 모노머 제품으로 폴리에틸렌(PE), 폴리프로필렌(PP) 등의 제품을 제조, 판매하고 있으며 관련 연구 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "HDPE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 제품은 중국을 포함한 아시아, 유럽 등 다양한 국가로 수출되고 있으며, 이들 제품가격은 원료인 나프타 가격과 경기시황에 따른 변동성을 갖고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "LLDPE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "품질이 최적화된 고부가 수가교 LLDPE 제품 개발 및 관련 시장 확대"
+    },
+    {
+      "axis": "product",
+      "value": "PP",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신규 제품 양산화 완료. PP 제품 포트폴리오 확대 및 신규시장 개척"
+    },
+    {
+      "axis": "product",
+      "value": "ABS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Elecfoil",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전지소재 사업의 경우, 핵심기술을 바탕으로 2차전지 핵심소재인 Elecfoil 제조 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "여기에 최근 AI 데이터센터, 휴머노이드 로봇 등 신규 응용처가 등장함에 따라, 특히 고성능 AI 가속기용 동박 수요가 새로운 성장 동력으로 부상하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조 업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여, 추가적인 부가가치를 산출하는 자본 및 기술 집약적 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조 업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여, 추가적인 부가가치를 산출하는 자본 및 기술 집약적 산업입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "나프타",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "천연가스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전지소재산업의 핵심인 동박(Elecfoil)은 얇은 구리박(Copper Foil)으로, 황산구리 전해액에서 전기분해를 통해 구리를 얇게 석출해 만드는 첨단 소재입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "SM",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "암모니아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "설비 Capacity는 여수/대산/울산 등 국내 사업장 기준입니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고, 시장 지배력을 계속 강화할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "스페인",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고, 시장 지배력을 계속 강화할 계획입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "아울러 구리 등 주요 원자재 가격의 변동과 같은 외부 요인이 수익성에 직접적인 영향을 미칠 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"에틸렌(EL), 프로필렌(PL), BTX, 고순도이소프탈산(PIA), 폴리에틸렌(PE), 폴리프로필렌(PP) 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리에틸렌\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리프로필렌\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%, 폴리프로필렌 17.1%, BTX 5.5%, 기타 55.1% 입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ABS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 매출액 비중은 ABS 36.3%, PC 37.2%, 기타 26.5%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Elecfoil\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당기말 사업부 매출총액 기준 주요 제품의 매출액 비중은 Elecfoil 88.4%, 기타 11.6%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"염소 계열 제품 중 ECH는 방수 및 방청 페인트의 주된 원료로 사용되고, 가성소다는 섬유, 의약, 제지, 세제 등 화학산업 분야에서 기초 원료로 사용됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전지소재 사업의 Elecfoil은 2차 전지에서 음극집전체로 작용하는 핵심 소재로서 2차전지 산업과 밀접한 관련이 있으며, 전기차, ESS 및 PCB에 적용되는 제품입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건축\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"셀룰로스계 제품으로는 건축용 물성 향상 및 세라믹 필터 첨가제인 메셀로스, 수용성 페인트 및 퍼스널 케어 첨가제 헤셀로스가 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Naphtha\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Naphtha 롯데케미칼(주), LC TITAN 에틸렌, 프로필렌 등 GS Caltex, HD현대오일뱅크 등 해당 없음 5,015,052 50.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"BPA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"BPA 롯데케미칼(주) PC 등 금호피앤비화학 등 해당 없음 632,481 40.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SM\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"SM 롯데케미칼(주) ABS, SAN 등 LG화학 등 해당 없음 458,203 29.0\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"구리 등 롯데에너지머티리얼즈(주) Elecfoil 등 (주)보성메탈外 해당 없음 340,510 91.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"AN\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"AN 롯데케미칼(주) ABS, SAN 등 LG화학 등 해당 없음 205,760 13.0\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"폐PET 화학적 재활용신규사업 신설 '21년 ~ '27년 BHET 및 화학적 재활용 PET 생산 설비 화학적 재활용 PET: 11만톤/년 770 155 615 울산\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중국을 포함한 아시아, 유럽 등 다양한 국가로 제품을 수출하며, 당기말 사업부 매출총액 기준 매출액 비중은 폴리에틸렌 22.4%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"LOTTE Chemical USA Corp.(LC USA), LOTTE Chemical Trading(Shanghai) Corp. 와 4개 종속회사\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"헝가리\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"LOTTE Chemical Hungary Ltd.(헝가리), LOTTE Chemical Turkey Surface Designs Industry and Trade Inc.(튀르키예) 와 13개 종속회사\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"상반기에는 국제 유가 및 납사 가격 약세로 제품 가격이 하락하였으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 환위험은 외화로 표시된 화폐성자산과 화폐성부채의 환율변동과 관련하여 발생하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사 기초화학 사업은 나프타 분해설비를 통해 생산되는 에틸렌, 프로필렌, Xylene 류의 기초 유분 및 모노머 제품으로 폴리에틸렌(PE), 폴리프로필렌(PP) 등의 제품을 제조, 판매하고 있으며 관련 연구 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"프로필렌\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사 기초화학 사업은 나프타 분해설비를 통해 생산되는 에틸렌, 프로필렌, Xylene 류의 기초 유분 및 모노머 제품으로 폴리에틸렌(PE), 폴리프로필렌(PP) 등의 제품을 제조, 판매하고 있으며 관련 연구 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HDPE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 제품은 중국을 포함한 아시아, 유럽 등 다양한 국가로 수출되고 있으며, 이들 제품가격은 원료인 나프타 가격과 경기시황에 따른 변동성을 갖고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LLDPE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"품질이 최적화된 고부가 수가교 LLDPE 제품 개발 및 관련 시장 확대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PP\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신규 제품 양산화 완료. PP 제품 포트폴리오 확대 및 신규시장 개척\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ABS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Elecfoil\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전지소재 사업의 경우, 핵심기술을 바탕으로 2차전지 핵심소재인 Elecfoil 제조 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"첫째, 2차전지의 음극 집전체로 쓰이는 전지박입니다. 최근 전기차(EV) 및 ESS 시장의 폭발적 성장에 힘입어 수요가 급증하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"여기에 최근 AI 데이터센터, 휴머노이드 로봇 등 신규 응용처가 등장함에 따라, 특히 고성능 AI 가속기용 동박 수요가 새로운 성장 동력으로 부상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조 업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여, 추가적인 부가가치를 산출하는 자본 및 기술 집약적 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"첨단소재 사업은 최종 소비재(가전, IT, 자동차 등) 제조 업체의 요구에 맞춰 고내열/고강성/고충격 등의 기능성을 부여, 추가적인 부가가치를 산출하는 자본 및 기술 집약적 산업입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"나프타\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"천연가스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 나프타와 천연가스를 원료로 하여 에틸렌, 프로필렌 등의 올레핀 제품과 벤젠, 톨루엔 등의 방향족 제품을 생산하는 것을 기초로 합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전지소재산업의 핵심인 동박(Elecfoil)은 얇은 구리박(Copper Foil)으로, 황산구리 전해액에서 전기분해를 통해 구리를 얇게 석출해 만드는 첨단 소재입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SM\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 SM, AN, BD, MMA, BPA 등의 원료를 활용하여 ABS, PC, 건자재 제품을 제조, 판매하며 관련 연구 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"암모니아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"또한, 암모니아는 청정연료 시장 성장에 선제적으로 대비하기 위해 다양한 시장 이해관계자들과 선제적인 파트너쉽을 구축해오고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"설비 Capacity는 여수/대산/울산 등 국내 사업장 기준입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고, 시장 지배력을 계속 강화할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"스페인\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현재 말레이시아 및 유럽(스페인) 해외현지법인에서 대규모 증설을 통해 세계 최고 Elecfoil 전문기업으로서의 입지를 다지고, 시장 지배력을 계속 강화할 계획입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국, 멕시코, 헝가리, 베트남 등 해외 각지에 사업장을 두고 글로벌 최종 소비재 고객에 맞는 다양한 제품을 제조, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유화학산업은 기본적으로 국제 유가, 환율, 글로벌 GDP 성장률 등 거시경제 지표에 민감하게 반응하는 대표적인 시클리컬(Cyclical) 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"아울러 구리 등 주요 원자재 가격의 변동과 같은 외부 요인이 수익성에 직접적인 영향을 미칠 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/011170_20260312001296.txt"
+}

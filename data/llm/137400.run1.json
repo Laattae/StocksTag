@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "2차전지 장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2차전지 전극 공정 및 전자소재 제조 장비를 공급하는 장비 전문 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "동박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "동박, 분리막, 파우치용 필름 등 첨단 전자소재 제조 장비도 함께 제작하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "분리막",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "동박, 분리막, 파우치용 필름 등 첨단 전자소재 제조 장비도 함께 제작하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "광학필름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전지박(동박), 광학필름, OCA 필름 등 각종 디스플레이 소재용 특수 필름 및 전자/전기 소재를 생산하는 장비"
+    },
+    {
+      "axis": "product",
+      "value": "OCA 필름",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전지박(동박), 광학필름, OCA 필름 등 각종 디스플레이 소재용 특수 필름 및 전자/전기 소재를 생산하는 장비"
+    },
+    {
+      "axis": "product",
+      "value": "LFP 배터리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "협업을 통해 0.2Gwh 규모의 ESS용 LFP 배터리와 연간 6,000ton 규모의 활물질을 생산 예정입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기자동차, ESS, 각종 모바일 기기 등 2차전지 핵심 소재인 음극, 양극, 분리막을 생산하는 Coating M/C"
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기자동차, ESS, 각종 모바일 기기 등 2차전지 핵심 소재인 음극, 양극, 분리막을 생산하는 Coating M/C"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이후 스마트폰과 태블릿의 등장으로 에너지 밀도 향상과 소형화 기술이 병행 발전하며 산업의 기초가 다져졌습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK넥실리스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "롯데에너지머티리얼즈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "II. 사업의 내용\n1. 사업의 개요"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국법인 섬서첨단소재(연결)을 통해 동박 제조장비를 설계, 제조, 납품해 온 이력을 바탕으로 소재 내재화 추진 중입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"2차전지 장비\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"2차전지 전극 공정 및 전자소재 제조 장비를 공급하는 장비 전문 기업입니다.\"}, {\"axis\": \"product\", \"value\": \"동박\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"동박, 분리막, 파우치용 필름 등 첨단 전자소재 제조 장비도 함께 제작하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"분리막\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"동박, 분리막, 파우치용 필름 등 첨단 전자소재 제조 장비도 함께 제작하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"광학필름\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"전지박(동박), 광학필름, OCA 필름 등 각종 디스플레이 소재용 특수 필름 및 전자/전기 소재를 생산하는 장비\"}, {\"axis\": \"product\", \"value\": \"OCA 필름\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전지박(동박), 광학필름, OCA 필름 등 각종 디스플레이 소재용 특수 필름 및 전자/전기 소재를 생산하는 장비\"}, {\"axis\": \"product\", \"value\": \"LFP 배터리\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"협업을 통해 0.2Gwh 규모의 ESS용 LFP 배터리와 연간 6,000ton 규모의 활물질을 생산 예정입니다.\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전기자동차, ESS, 각종 모바일 기기 등 2차전지 핵심 소재인 음극, 양극, 분리막을 생산하는 Coating M/C\"}, {\"axis\": \"application\", \"value\": \"ESS\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"전기자동차, ESS, 각종 모바일 기기 등 2차전지 핵심 소재인 음극, 양극, 분리막을 생산하는 Coating M/C\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"이후 스마트폰과 태블릿의 등장으로 에너지 밀도 향상과 소형화 기술이 병행 발전하며 산업의 기초가 다져졌습니다.\"}, {\"axis\": \"customer\", \"value\": \"SK넥실리스\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"롯데에너지머티리얼즈\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"현재는 국내 SK넥실리스와 롯데에너지머티리얼즈, KZAM 등에 장비를 공급하고 있으며\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"II. 사업의 내용\\n1. 사업의 개요\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"중국법인 섬서첨단소재(연결)을 통해 동박 제조장비를 설계, 제조, 납품해 온 이력을 바탕으로 소재 내재화 추진 중입니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"물가상승 및 환율의 변동 등의 요인으로 인하여 일부 원자재 가격이 점진적으로 인상되는 추세에 있으나\"}]}"
+  ],
+  "text_path": "data/reports/137400_20260316000390.txt"
+}

@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "펠레트",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "철강부원료 제품별 매출액 비중은 펠레트 70.0%, 미니펠레트 29.6%등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "철강제품포장 용역",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부문별 매출액 비중은 철강부원료 38.9%, 철강제품포장 50.0%, 엔지니어링 1.6%, 위탁운영 9.5%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "미니펠레트",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "철강부원료 제품별 매출액 비중은 펠레트 70.0%, 미니펠레트 29.6%등입니다."
+    },
+    {
+      "axis": "product",
+      "value": "페로망간",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "위탁운영 사업부문 | 페로망간공장 | 페로망간 | 33,821,608,941 | 35,311,643,428"
+    },
+    {
+      "axis": "product",
+      "value": "인고트",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "철강부원료 | 제품 | 인고트 | 제강탈산용 부원료 | 인고트 | 561,035,510"
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(주)포스코엠텍은 철강제품포장 및 철강부원료 사업을 영위하고 있는 회사입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한, 철강의 전방 산업인 건설 경기의 부진한 흐름까지 지속되면서 당분간 저성장 기조가 이어질 것으로 예상되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력 인프라",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2026년 또한 친환경ㆍ전력 인프라 중심의 수요 확대에 따른 가격 상승세가 지속될 것으로 예측되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "포스코에서 생산되는 철강제품의 포장을 수행하였으며, 1977년 05월 철강부원료인 알루미늄 탈산제 공장을 준공하며 알루미늄 탈산제를 공급하여 왔습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "스크랩",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강부원료 | 알루미늄제품제조 | 스크랩 | 119,701,336,776 | 62.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "단면측판",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "철강제품포장 | 철강제품포장 | 단면측판 | 14,958,970,909 | 7.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "포장지",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "철강제품포장 | 철강제품포장 | 포장지 | 11,749,766,011 | 6.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "외주링",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "철강제품포장 | 철강제품포장 | 외주링 | 11,225,204,102 | 5.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "판지",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "철강제품포장 | 철강제품포장 | 판지 | 9,957,914,551 | 5.2"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사 | 경영전반관리 | 경북 포항시 남구 형산강북로 131"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "광양사업소 | 광양사업소 행정전반 | 전남 광양시 희망길 12-14 제철협력회관"
+    },
+    {
+      "axis": "exposure",
+      "value": "철강 경기",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "알루미늄 가격",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며 2024년 대비 반등하는 모습을 보였습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"펠레트\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"철강부원료 제품별 매출액 비중은 펠레트 70.0%, 미니펠레트 29.6%등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강제품포장 용역\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"부문별 매출액 비중은 철강부원료 38.9%, 철강제품포장 50.0%, 엔지니어링 1.6%, 위탁운영 9.5%입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미니펠레트\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"철강부원료 제품별 매출액 비중은 펠레트 70.0%, 미니펠레트 29.6%등입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"페로망간\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"위탁운영 사업부문 | 페로망간공장 | 페로망간 | 33,821,608,941 | 35,311,643,428\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인고트\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"철강부원료 | 제품 | 인고트 | 제강탈산용 부원료 | 인고트 | 561,035,510\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"(주)포스코엠텍은 철강제품포장 및 철강부원료 사업을 영위하고 있는 회사입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한, 철강의 전방 산업인 건설 경기의 부진한 흐름까지 지속되면서 당분간 저성장 기조가 이어질 것으로 예상되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력 인프라\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2026년 또한 친환경ㆍ전력 인프라 중심의 수요 확대에 따른 가격 상승세가 지속될 것으로 예측되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"포스코에서 생산되는 철강제품의 포장을 수행하였으며, 1977년 05월 철강부원료인 알루미늄 탈산제 공장을 준공하며 알루미늄 탈산제를 공급하여 왔습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"스크랩\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철강부원료 | 알루미늄제품제조 | 스크랩 | 119,701,336,776 | 62.3\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"단면측판\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 철강제품포장 | 단면측판 | 14,958,970,909 | 7.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"포장지\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 철강제품포장 | 포장지 | 11,749,766,011 | 6.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"외주링\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 철강제품포장 | 외주링 | 11,225,204,102 | 5.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"판지\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"철강제품포장 | 철강제품포장 | 판지 | 9,957,914,551 | 5.2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"본사 | 경영전반관리 | 경북 포항시 남구 형산강북로 131\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"광양사업소 | 광양사업소 행정전반 | 전남 광양시 희망길 12-14 제철협력회관\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"철강 경기\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"회사의 영업실적은 철강산업과 밀접한 관계를 맺고 있으며, 철강산업의 업황 또한 회사의 실적에 직간접적인 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"알루미늄 가격\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"알루미늄 LME 가격은 무역 마찰에 따른 대외 불확실성에도 불구하고, 중국의 생산 과잉 해소를 위한 감산 조치와 전기차 관련 수요 확대가 가격 상승을 견인하며 2024년 대비 반등하는 모습을 보였습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/009520_20260318000807.txt"
+}

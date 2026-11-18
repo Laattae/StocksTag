@@ -1,0 +1,158 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "프롤리아주",
+      "weight": 0.0867,
+      "direction": null,
+      "evidence": "프롤리아주 | 골다공증 치료제 | 146,718 | 8.67%"
+    },
+    {
+      "axis": "product",
+      "value": "아토젯",
+      "weight": 0.0649,
+      "direction": null,
+      "evidence": "아토젯 | 고지혈증 치료제 | 109,812 | 6.49%"
+    },
+    {
+      "axis": "product",
+      "value": "글리아티린",
+      "weight": 0.0476,
+      "direction": null,
+      "evidence": "글리아티린 | 뇌혈관질환치료제 | 80,633 | 4.76%"
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.0454,
+      "direction": null,
+      "evidence": "펙수클루 | 위식도역류질환 치료제 | 76,804 | 4.54%"
+    },
+    {
+      "axis": "product",
+      "value": "자누비아",
+      "weight": 0.0439,
+      "direction": null,
+      "evidence": "자누비아 | 당뇨병 치료제 | 74,252 | 4.39%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "콜린알포세레이트",
+      "weight": 0.252,
+      "direction": null,
+      "evidence": "콜린알포세레이트 | 종근당 글리아티린 원료 | 56,984 | 25.2"
+    },
+    {
+      "axis": "raw_material",
+      "value": "피페라실린/타조박탐",
+      "weight": 0.083,
+      "direction": null,
+      "evidence": "피페라실린/타조박탐(8:1) | 타조페란주 원료 | 18,730 | 8.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "카베딜롤",
+      "weight": 0.074,
+      "direction": null,
+      "evidence": "카베딜롤 | 딜라트렌 원료 | 16,828 | 7.4"
+    },
+    {
+      "axis": "raw_material",
+      "value": "시클로스포린",
+      "weight": 0.018,
+      "direction": null,
+      "evidence": "시클로스포린 | 사이폴-엔 원료 | 4,166 | 1.8"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "천안공장 | 자가 | 천안성거읍서울 외시흥배곧동"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "신규 시설 투자 : 바이오 복합연구개발단지 조성(시흥시 배곧동)"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": null,
+      "direction": null,
+      "evidence": "일 본 | 43,135 | 38,197 | 41,157"
+    },
+    {
+      "axis": "region",
+      "value": "스위스",
+      "weight": null,
+      "direction": null,
+      "evidence": "스위스 | 7,044 | 607 | 106,064"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당기 및 전기 중 각 외화에 대한 원화환율 10% 변동시 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "약가인하",
+      "weight": null,
+      "direction": -1,
+      "evidence": "일괄 약가인하제도, 약가재평가제도, 가격- 수량 연동제 등의 다양한 약가인하 제도를 실시하고 있으며, 이러한 약가 인원은 당사의 매출 변동에 직접적인 영향을 미치고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": null,
+      "direction": -1,
+      "evidence": "동 위험은 시장이자율의 변동으로 인하여 연결기업의 투자 및 재무활동에서 발생하는 이자수익과 이자비용이 변동될 위험을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전문의약품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전제의약품 | 26,395 | 24,129 | 23,360 | 21,464 | 19,721 | 18,460 | 17,902"
+    },
+    {
+      "axis": "product",
+      "value": "일반의약품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "일반의약품 | 2,655 | 2,688 | 2,691 | 2,691 | 2,354 | 2,289 | 2,298"
+    },
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "세계 최초의 네스프 바이오시밀러 '네스벨'이 국내와 일본에서 각각 품목 허가를 받아 출시되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "약가 규제",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "타 산업에 비해 정부의 엄격한 규제를 받고 있습니다. 의약품 산업은 첨단기술이 집약되어 특허기술의 보호 장벽이 높고 신의약품 개발이 어렵기 때문에 기술 우위에 따른 독점력이 강하고 부가가치가 매우 높습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 천안공장은 환경, 안전/보건 관련하여 2018년 10월부로 환경(ISO14001), 안전/보건(ISO45001) 등"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"프롤리아주\",\n      \"weight\": 0.0867,\n      \"direction\": null,\n      \"evidence\": \"프롤리아주 | 골다공증 치료제 | 146,718 | 8.67%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아토젯\",\n      \"weight\": 0.0649,\n      \"direction\": null,\n      \"evidence\": \"아토젯 | 고지혈증 치료제 | 109,812 | 6.49%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글리아티린\",\n      \"weight\": 0.0476,\n      \"direction\": null,\n      \"evidence\": \"글리아티린 | 뇌혈관질환치료제 | 80,633 | 4.76%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.0454,\n      \"direction\": null,\n      \"evidence\": \"펙수클루 | 위식도역류질환 치료제 | 76,804 | 4.54%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자누비아\",\n      \"weight\": 0.0439,\n      \"direction\": null,\n      \"evidence\": \"자누비아 | 당뇨병 치료제 | 74,252 | 4.39%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"콜린알포세레이트\",\n      \"weight\": 0.252,\n      \"direction\": null,\n      \"evidence\": \"콜린알포세레이트 | 종근당 글리아티린 원료 | 56,984 | 25.2\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"피페라실린/타조박탐\",\n      \"weight\": 0.083,\n      \"direction\": null,\n      \"evidence\": \"피페라실린/타조박탐(8:1) | 타조페란주 원료 | 18,730 | 8.3\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"카베딜롤\",\n      \"weight\": 0.074,\n      \"direction\": null,\n      \"evidence\": \"카베딜롤 | 딜라트렌 원료 | 16,828 | 7.4\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"시클로스포린\",\n      \"weight\": 0.018,\n      \"direction\": null,\n      \"evidence\": \"시클로스포린 | 사이폴-엔 원료 | 4,166 | 1.8\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"천안공장 | 자가 | 천안성거읍서울 외시흥배곧동\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"신규 시설 투자 : 바이오 복합연구개발단지 조성(시흥시 배곧동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"일 본 | 43,135 | 38,197 | 41,157\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"스위스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"스위스 | 7,044 | 607 | 106,064\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"당기 및 전기 중 각 외화에 대한 원화환율 10% 변동시 환율변동이 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"약가인하\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"일괄 약가인하제도, 약가재평가제도, 가격- 수량 연동제 등의 다양한 약가인하 제도를 실시하고 있으며, 이러한 약가 인원은 당사의 매출 변동에 직접적인 영향을 미치고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"동 위험은 시장이자율의 변동으로 인하여 연결기업의 투자 및 재무활동에서 발생하는 이자수익과 이자비용이 변동될 위험을 의미합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전문의약품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전제의약품 | 26,395 | 24,129 | 23,360 | 21,464 | 19,721 | 18,460 | 17,902\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반의약품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"일반의약품 | 2,655 | 2,688 | 2,691 | 2,691 | 2,354 | 2,289 | 2,298\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"세계 최초의 네스프 바이오시밀러 '네스벨'이 국내와 일본에서 각각 품목 허가를 받아 출시되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"약가 규제\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"타 산업에 비해 정부의 엄격한 규제를 받고 있습니다. 의약품 산업은 첨단기술이 집약되어 특허기술의 보호 장벽이 높고 신의약품 개발이 어렵기 때문에 기술 우위에 따른 독점력이 강하고 부가가치가 매우 높습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 천안공장은 환경, 안전/보건 관련하여 2018년 10월부로 환경(ISO14001), 안전/보건(ISO45001) 등\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/185750_20260318001376.txt"
+}

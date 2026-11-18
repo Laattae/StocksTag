@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "신기술금융",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "1. 신기술금융수익 | 158,497 | 188,557 | 166,189"
+    },
+    {
+      "axis": "product",
+      "value": "투자조합",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2. 투자조합수익 | 1,708 | 1,708 | 613"
+    },
+    {
+      "axis": "application",
+      "value": "정보통신",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로"
+    },
+    {
+      "axis": "application",
+      "value": "소프트웨어",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로"
+    },
+    {
+      "axis": "application",
+      "value": "바이오",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로"
+    },
+    {
+      "axis": "application",
+      "value": "환경",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "서울 | 1 | - | - | - | 1"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국 | - | - | - | 1 | 1"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국 | - | - | - | 1 | 1"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에"
+    },
+    {
+      "axis": "exposure",
+      "value": "증시 변화",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신기술금융\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"1. 신기술금융수익 | 158,497 | 188,557 | 166,189\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"투자조합\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2. 투자조합수익 | 1,708 | 1,708 | 613\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"정보통신\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"소프트웨어\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"바이오\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"환경\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 설립후 국내 벤처산업 전반(정보통신, 반도체, 소프트웨어, 바이오, 환경등)에 걸친 꾸준한 투자활동으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"서울 | 1 | - | - | - | 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국 | - | - | - | 1 | 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국 | - | - | - | 1 | 1\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"증시 변화\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"자본과 경영기반이 취약한 신기술사업자에 대한 투자는 높은 위험에 노출되는 반면 높은 수익률을 기대할 수 있지만, 경기변동 및 증시 변화에 민감하기 때문에\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/041190_20260318001355.txt"
+}

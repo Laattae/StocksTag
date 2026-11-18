@@ -1,0 +1,405 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "열연",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "철강부문 | 열연 | 강관,조선 등 | 122,271 | 20.6%"
+    },
+    {
+      "axis": "product",
+      "value": "냉연",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "철강부문 | 냉연 | 자동차,가전 등 | 190,715 | 32.1%"
+    },
+    {
+      "axis": "product",
+      "value": "스테인레스",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "철강부문 | 스테인레스 | 양식기,강관 등 | 97,478 | 16.4%"
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "음극재",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대중공업그룹",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대기아차그룹",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "KG스틸",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Ultium Cells",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철광석",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강부문 | 원료 | 제선원료 | 고로의 철원 및 환원제 | 144,790 | 60.7% | 철광석, 석탄"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석탄",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강부문 | 원료 | 제선원료 | 고로의 철원 및 환원제 | 144,790 | 60.7% | 철광석, 석탄"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Nickel",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "철강부문 | 원료 | STS원료 | 스테인리스강 생산용 | 41,811 | 17.5% | Nickel, Fe-Cr, STS고철 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전구체",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이차전지소재부문 | 원재료 | 전구체 外 | 양극재 제조 | 13,104 | 83.0% | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "흑연",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "이차전지소재부문 | 원재료 | 흑연 外 | 음극재 제조 | 506 | 3.2% | -"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "철광석, 석탄, 리튬 등 원재료 가격, 환율 변동이 포스코홀딩스 및 종속회사의 수익성에 영향을 미칠 가능성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "철광석, 석탄, 리튬 등 원재료 가격, 환율 변동이 포스코홀딩스 및 종속회사의 수익성에 영향을 미칠 가능성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "철강재",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄 탈산제",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "제강용 알루미늄 탈산제(Al Deoxidizer)는 제강공정에서 과포화된 산소를 제거할 목적으로 사용되는 부원료입니다."
+    },
+    {
+      "axis": "product",
+      "value": "천연가스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "미얀마 북서부 해상 A-1 광구의 쉐(Shwe), 쉐퓨(Shwe-Phyu) 가스전 및 A-3 광구의 미야(Mya) 가스전에서 생산되는 가스를 파이프라인 방식으로 중국 CNUOC에 판매하는 가스판매계약을 체결함."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며"
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며"
+    },
+    {
+      "axis": "customer",
+      "value": "중국 CNUOC",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "미얀마 북서부 해상 A-1 광구의 쉐(Shwe), 쉐퓨(Shwe-Phyu) 가스전 및 A-3 광구의 미야(Mya) 가스전에서 생산되는 가스를 파이프라인 방식으로 중국 CNUOC에 판매하는 가스판매계약을 체결함."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "- 시설 소재지 : 미얀마 북서 해상 및 육상"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 예상 매출액 및 외화사채에 대한 환율변동 위험을 회피하기 위하여 외화 포지션에 대해 통화선도(Currency Forward) 상품을 매매하여 Hedge 하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "가스판매 가격은 계약체결시 결정된 기준가격에 판매시점 전 일정기간의 평균 국제유가 및 물가 등을 반영한 지수와 연동되어 매 분기별로 변동함."
+    },
+    {
+      "axis": "product",
+      "value": "철강",
+      "weight": 0.702,
+      "direction": null,
+      "evidence": "주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%를 각각 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "에너지",
+      "weight": 0.123,
+      "direction": null,
+      "evidence": "주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%를 각각 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": 0.536,
+      "direction": null,
+      "evidence": "에너지소재 사업 | 양극재, 음극재 | 1,574,083 | 53.6"
+    },
+    {
+      "axis": "product",
+      "value": "음극재",
+      "weight": 0.536,
+      "direction": null,
+      "evidence": "에너지소재 사업 | 양극재, 음극재 | 1,574,083 | 53.6"
+    },
+    {
+      "axis": "product",
+      "value": "생석회",
+      "weight": 0.292,
+      "direction": null,
+      "evidence": "라임화성사업 | 생석회, 화성품 가공 및 판매, 화성공장 위탁 운영 | 859,306 | 29.2"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자회사인 ㈜포스코모빌리티솔루션을 통해 향후 지속적인 성장이 전망되는 전기차 및하이브리드차용 구동모터코아 사업에 진출하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근에는 AI 기술 확산 등 디지털 산업 성장에 따른 전력수요 증가로 그 중요성이 더욱 부각되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "태양광, 풍력 등 신재생에너지 산업과 미래 모빌리티 시장으로 사업을 본격 확대하고"
+    },
+    {
+      "axis": "customer",
+      "value": "GM",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "캐나다 퀘백주에 소재하며 GM과 합작법인인 ULTIUM CAM LIMITED PARTNERSHIP의 지주사입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "생석회 시장은 포스코, 현대제철 제철용 생석회가 전체생석회 시장의 90% 이상을 점유하고 있으며, 포스코로 공급을 하고 있는"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "제철소의 탄소 저감을 위한 철스크랩, HBI 등 원료 공급망을 구축해 나가고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "흑연",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "리튬",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "수출 실적의 지역별 비중은 중국 12.0%를 비롯, 아시아 지역이 전체 수출실적의 62.9%를 차지하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2022년 에너지사업 거점 확장을 위해 인수한 Senex Energy는 호주 동부연안 브리즈번에 위치한 에너지기업으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "회사의 사업과 관련된환율 및 원자재 가격 등 주요 경제 지표와 비즈니스 환경 변동성이 확대되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "천연가스의 경우 산업의 특성상 회사의 수익이 원자재 가격에 밀접하게 연동됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "천연가스 탐사 및 개발은 장기간에 걸친 사업성과 불확실성, 국제유가 및 수익성 변동 등 내외부 변수에 큰 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포스코 포항 및 광양제철소는「화학물질관리법」에 따른 강화된 취급 시설 기준을 철저히 준수하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포스코 포항 및 광양제철소는「화학물질관리법」에 따른 강화된 취급 시설 기준을 철저히 준수하고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"열연\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"철강부문 | 열연 | 강관,조선 등 | 122,271 | 20.6%\"}, {\"axis\": \"product\", \"value\": \"냉연\", \"weight\": 0.32, \"direction\": null, \"evidence\": \"철강부문 | 냉연 | 자동차,가전 등 | 190,715 | 32.1%\"}, {\"axis\": \"product\", \"value\": \"스테인레스\", \"weight\": 0.16, \"direction\": null, \"evidence\": \"철강부문 | 스테인레스 | 양식기,강관 등 | 97,478 | 16.4%\"}, {\"axis\": \"product\", \"value\": \"양극재\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"음극재\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며\"}, {\"axis\": \"application\", \"value\": \"조선\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며\"}, {\"axis\": \"application\", \"value\": \"가전\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"철강부문은 자동차, 조선, 가전 등 산업에 철강제품을 공급하고 있으며\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"이차전지소재부문은 리튬, 니켈, 양극재, 음극재, 리사이클링 등 EV 배터리 소재 등의 사업을 영위하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"현대중공업그룹\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다.\"}, {\"axis\": \"customer\", \"value\": \"현대기아차그룹\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다.\"}, {\"axis\": \"customer\", \"value\": \"KG스틸\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"2025년 주요 매출처는 현대중공업그룹(3%), 현대기아차그룹(3%), KG스틸(2%) 등 입니다.\"}, {\"axis\": \"customer\", \"value\": \"Ultium Cells\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"}, {\"axis\": \"customer\", \"value\": \"LG에너지솔루션\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"에너지소재사업부문은 Ultium Cells, LG에너지솔루션, 삼성SDI, SK온 등 53.6% 입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"철광석\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"철강부문 | 원료 | 제선원료 | 고로의 철원 및 환원제 | 144,790 | 60.7% | 철광석, 석탄\"}, {\"axis\": \"raw_material\", \"value\": \"석탄\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"철강부문 | 원료 | 제선원료 | 고로의 철원 및 환원제 | 144,790 | 60.7% | 철광석, 석탄\"}, {\"axis\": \"raw_material\", \"value\": \"Nickel\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"철강부문 | 원료 | STS원료 | 스테인리스강 생산용 | 41,811 | 17.5% | Nickel, Fe-Cr, STS고철 등\"}, {\"axis\": \"raw_material\", \"value\": \"전구체\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"이차전지소재부문 | 원재료 | 전구체 外 | 양극재 제조 | 13,104 | 83.0% | -\"}, {\"axis\": \"raw_material\", \"value\": \"흑연\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"이차전지소재부문 | 원재료 | 흑연 外 | 음극재 제조 | 506 | 3.2% | -\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"철광석, 석탄, 리튬 등 원재료 가격, 환율 변동이 포스코홀딩스 및 종속회사의 수익성에 영향을 미칠 가능성이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"철광석, 석탄, 리튬 등 원재료 가격, 환율 변동이 포스코홀딩스 및 종속회사의 수익성에 영향을 미칠 가능성이 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강재\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄 탈산제\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"제강용 알루미늄 탈산제(Al Deoxidizer)는 제강공정에서 과포화된 산소를 제거할 목적으로 사용되는 부원료입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연가스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"미얀마 북서부 해상 A-1 광구의 쉐(Shwe), 쉐퓨(Shwe-Phyu) 가스전 및 A-3 광구의 미야(Mya) 가스전에서 생산되는 가스를 파이프라인 방식으로 중국 CNUOC에 판매하는 가스판매계약을 체결함.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철강은 자동차, 조선, 가전, 건설 등 다양한 제조 분야에 사용되는 기초 소재로 활용되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"중국 CNUOC\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"미얀마 북서부 해상 A-1 광구의 쉐(Shwe), 쉐퓨(Shwe-Phyu) 가스전 및 A-3 광구의 미야(Mya) 가스전에서 생산되는 가스를 파이프라인 방식으로 중국 CNUOC에 판매하는 가스판매계약을 체결함.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"포스코는 열연, 냉연, 스테인리스 등 철강재를 단일 사업장 규모로 세계 최대 규모인 포항제철소와 광양제철소에서 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"- 시설 소재지 : 미얀마 북서 해상 및 육상\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 예상 매출액 및 외화사채에 대한 환율변동 위험을 회피하기 위하여 외화 포지션에 대해 통화선도(Currency Forward) 상품을 매매하여 Hedge 하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"가스판매 가격은 계약체결시 결정된 기준가격에 판매시점 전 일정기간의 평균 국제유가 및 물가 등을 반영한 지수와 연동되어 매 분기별로 변동함.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"철강\", \"weight\": 0.702, \"direction\": null, \"evidence\": \"주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%를 각각 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"에너지\", \"weight\": 0.123, \"direction\": null, \"evidence\": \"주요 품목별 매출 비중은 철강 70.2%, 에너지 12.3%, 식량/소재 17.4%를 각각 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"양극재\", \"weight\": 0.536, \"direction\": null, \"evidence\": \"에너지소재 사업 | 양극재, 음극재 | 1,574,083 | 53.6\"}, {\"axis\": \"product\", \"value\": \"음극재\", \"weight\": 0.536, \"direction\": null, \"evidence\": \"에너지소재 사업 | 양극재, 음극재 | 1,574,083 | 53.6\"}, {\"axis\": \"product\", \"value\": \"생석회\", \"weight\": 0.292, \"direction\": null, \"evidence\": \"라임화성사업 | 생석회, 화성품 가공 및 판매, 화성공장 위탁 운영 | 859,306 | 29.2\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"자회사인 ㈜포스코모빌리티솔루션을 통해 향후 지속적인 성장이 전망되는 전기차 및하이브리드차용 구동모터코아 사업에 진출하였으며\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"최근에는 AI 기술 확산 등 디지털 산업 성장에 따른 전력수요 증가로 그 중요성이 더욱 부각되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"신재생에너지\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"태양광, 풍력 등 신재생에너지 산업과 미래 모빌리티 시장으로 사업을 본격 확대하고\"}, {\"axis\": \"customer\", \"value\": \"GM\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"캐나다 퀘백주에 소재하며 GM과 합작법인인 ULTIUM CAM LIMITED PARTNERSHIP의 지주사입니다.\"}, {\"axis\": \"customer\", \"value\": \"포스코\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"생석회 시장은 포스코, 현대제철 제철용 생석회가 전체생석회 시장의 90% 이상을 점유하고 있으며, 포스코로 공급을 하고 있는\"}, {\"axis\": \"raw_material\", \"value\": \"철스크랩\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"제철소의 탄소 저감을 위한 철스크랩, HBI 등 원료 공급망을 구축해 나가고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"흑연\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여\"}, {\"axis\": \"raw_material\", \"value\": \"리튬\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여\"}, {\"axis\": \"raw_material\", \"value\": \"니켈\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"탄자니아 마헨게 흑연 광산 개발 투자와 함께 흑연, 리튬, 니켈, 블랙매스(BM) 등 이차전지소재 공급망을 구축하여\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"수출 실적의 지역별 비중은 중국 12.0%를 비롯, 아시아 지역이 전체 수출실적의 62.9%를 차지하고 있으며\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"인도네시아 PT. BIA 팜 농장 개발을 통해 안정적인 팜 오일(CPO) 생산 체제와 수익성을 확보하였으며\"}, {\"axis\": \"region\", \"value\": \"호주\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2022년 에너지사업 거점 확장을 위해 인수한 Senex Energy는 호주 동부연안 브리즈번에 위치한 에너지기업으로\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"회사의 사업과 관련된환율 및 원자재 가격 등 주요 경제 지표와 비즈니스 환경 변동성이 확대되고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"천연가스의 경우 산업의 특성상 회사의 수익이 원자재 가격에 밀접하게 연동됩니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"천연가스 탐사 및 개발은 장기간에 걸친 사업성과 불확실성, 국제유가 및 수익성 변동 등 내외부 변수에 큰 영향을 받는 구조입니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포스코 포항 및 광양제철소는「화학물질관리법」에 따른 강화된 취급 시설 기준을 철저히 준수하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포스코 포항 및 광양제철소는「화학물질관리법」에 따른 강화된 취급 시설 기준을 철저히 준수하고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/005490_20260311004517.txt"
+}

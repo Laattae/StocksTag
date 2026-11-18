@@ -1,0 +1,229 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "엘리베이터",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "에스컬레이터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "무빙워크",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "주차시스템",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "승강기 리모델링 | 엘리베이터(E/L), 에스컬레이터(E/S) | 주차 | 주차시스템 |"
+    },
+    {
+      "axis": "product",
+      "value": "물류자동화 설비",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "물류자동화 | 물류자동화 설비 | 현대무벡스 | 370,255 | 15.01 |"
+    },
+    {
+      "axis": "product",
+      "value": "승강장안전문",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "현대무벡스㈜는 물류자동화, PSD(승강장안전문), IT서비스업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며 건설업을 주 전방산업으로 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "물류자동화 사업은 냉동/냉장, 유통/택배, 자동차/타이어, 석유화학, 바이오, 2차 전지 및 공항터미널 등 다양한 산업분야의 고객들에게"
+    },
+    {
+      "axis": "application",
+      "value": "호텔",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "관광숙박업 | 호텔 등 | 현대엘앤알(에이블현대호텔앤리조트,반얀트리클럽 앤 스파 서울)블룸비스타호텔앤컨퍼런스 | 102,759 | 4.16 |"
+    },
+    {
+      "axis": "customer",
+      "value": "현대건설",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "대우건설",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "HDC현대산업개발",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철판 및 형강류",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "물품취급장비제조업 | 원재료 | 철판 및 형강류 | 엘리베이터 CAR CAGE 제작 | 32,250 | 4.28 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "TRACTION MACHINE",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "물품취급장비제조업 | 원재료 | TRACTION MACHINE | 엘리베이터 구동부 제작 | 44,663 | 5.93 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "CONTROLPANNEL",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "물품취급장비제조업 | 원재료 | CONTROLPANNEL | 엘리베이터제어장치 | 56,899 | 7.55 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "WIRE ROPE",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "물품취급장비제조업 | 원재료 | WIRE ROPE | 엘리베이터 견인 ROPE | 34,662 | 4.60 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "충북 충주시 | 충주신공장 | 23,888 | - | - | - | 23,888 | -"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "충남 천안시 | 물류센터 | 6,532 | - | - | - | 6,532 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "물품취급장비제조업 | 승강기 | 상해공장 | 6,795 | 9,711 | 9,555 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "전방산업인 건설업이 경기 변동에 민감하기 때문에 당사의 사업환경 역시 국내외 경기, 설비투자, 경제 성장률 등과 밀접하게 연관되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 해외 프로젝트 및 원자재 매입과 관련하여 환율변동위험에 노출되어 있으며, 내부적으로 환율변동에 따른 환위험을 정기적으로 측정하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "엘리베이터",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다."
+    },
+    {
+      "axis": "product",
+      "value": "에스컬레이터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다."
+    },
+    {
+      "axis": "product",
+      "value": "무빙워크",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다."
+    },
+    {
+      "axis": "product",
+      "value": "버티포트",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 도심항공교통(UAM) 상용화를 위한 핵심 사업인 '버티포트(Vertiport)' 개발을 본격화하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "초고층 건물",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "초고층 건물 증가 추세에 맞춰 세계 최고 수준의 초고속 엘리베이터 테스트타워인 현대아산타워를 2009년 4월 완공한 후"
+    },
+    {
+      "axis": "application",
+      "value": "도심항공교통",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 도심항공교통(UAM) 상용화를 위한 핵심 사업인 '버티포트(Vertiport)' 개발을 본격화하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성물산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년 8월 당사는 삼성물산과의 모듈러 공법 전용 엘리베이터를 개발 업무협약 (MOU)을 체결하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "카카오모빌리티",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2024년 8월 당사는 카카오모빌리티와 승강기-로봇 연동 서비스 상용화를 위한 업무협약(MOU)을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대건설",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 10월 당사는 현대건설과 모듈러 엘리베이터 적용 및 상용화를 위한 업무협약(MOU)을 체결하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 2025년 5월 충북 충주 본사 부지에 높이 250m의 현대아산타워를 준공했으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"엘리베이터\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에스컬레이터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무빙워크\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주차시스템\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"승강기 리모델링 | 엘리베이터(E/L), 에스컬레이터(E/S) | 주차 | 주차시스템 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류자동화 설비\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 | 물류자동화 설비 | 현대무벡스 | 370,255 | 15.01 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"승강장안전문\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"현대무벡스㈜는 물류자동화, PSD(승강장안전문), IT서비스업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 엘리베이터, 에스컬레이터, 무빙워크 등을 생산, 판매, 설치 및 유지보수 하는 운반기계산업을 영위하고 있으며 건설업을 주 전방산업으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 사업은 냉동/냉장, 유통/택배, 자동차/타이어, 석유화학, 바이오, 2차 전지 및 공항터미널 등 다양한 산업분야의 고객들에게\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"호텔\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"관광숙박업 | 호텔 등 | 현대엘앤알(에이블현대호텔앤리조트,반얀트리클럽 앤 스파 서울)블룸비스타호텔앤컨퍼런스 | 102,759 | 4.16 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대건설\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대우건설\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"HDC현대산업개발\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"승강기 관련 생산, 판매, 설치 및 유지관리가 2025년 기준으로 당사 전체 매출액의 약 72.3%이며, 주요 매출처로는 현대건설㈜, ㈜대우건설, HDC현대산업개발㈜ 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철판 및 형강류\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"물품취급장비제조업 | 원재료 | 철판 및 형강류 | 엘리베이터 CAR CAGE 제작 | 32,250 | 4.28 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"TRACTION MACHINE\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"물품취급장비제조업 | 원재료 | TRACTION MACHINE | 엘리베이터 구동부 제작 | 44,663 | 5.93 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"CONTROLPANNEL\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"물품취급장비제조업 | 원재료 | CONTROLPANNEL | 엘리베이터제어장치 | 56,899 | 7.55 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"WIRE ROPE\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"물품취급장비제조업 | 원재료 | WIRE ROPE | 엘리베이터 견인 ROPE | 34,662 | 4.60 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"충북 충주시 | 충주신공장 | 23,888 | - | - | - | 23,888 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"충남 천안시 | 물류센터 | 6,532 | - | - | - | 6,532 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"물품취급장비제조업 | 승강기 | 상해공장 | 6,795 | 9,711 | 9,555 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"전방산업인 건설업이 경기 변동에 민감하기 때문에 당사의 사업환경 역시 국내외 경기, 설비투자, 경제 성장률 등과 밀접하게 연관되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 해외 프로젝트 및 원자재 매입과 관련하여 환율변동위험에 노출되어 있으며, 내부적으로 환율변동에 따른 환위험을 정기적으로 측정하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"엘리베이터\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에스컬레이터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무빙워크\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"엘리베이터, 에스컬레이터, 무빙워크 등 승강기 부문의 국내시장에 대한 공고한 지위를 바탕으로 해외진출을 활성화하여 지속가능한 사업구조를 갖춰 나갈 계획입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"버티포트\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 도심항공교통(UAM) 상용화를 위한 핵심 사업인 '버티포트(Vertiport)' 개발을 본격화하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"초고층 건물\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"초고층 건물 증가 추세에 맞춰 세계 최고 수준의 초고속 엘리베이터 테스트타워인 현대아산타워를 2009년 4월 완공한 후\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도심항공교통\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 도심항공교통(UAM) 상용화를 위한 핵심 사업인 '버티포트(Vertiport)' 개발을 본격화하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성물산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년 8월 당사는 삼성물산과의 모듈러 공법 전용 엘리베이터를 개발 업무협약 (MOU)을 체결하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"카카오모빌리티\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2024년 8월 당사는 카카오모빌리티와 승강기-로봇 연동 서비스 상용화를 위한 업무협약(MOU)을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대건설\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 10월 당사는 현대건설과 모듈러 엘리베이터 적용 및 상용화를 위한 업무협약(MOU)을 체결하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 2025년 5월 충북 충주 본사 부지에 높이 250m의 현대아산타워를 준공했으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/017800_20260318001372.txt"
+}

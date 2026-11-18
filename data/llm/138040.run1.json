@@ -1,0 +1,217 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "보험업",
+      "weight": 0.72,
+      "direction": null,
+      "evidence": "- 보험업법 및 관계법령에 의해 영위가능한 보험업- 보험업법 및 관계법령에 의해 금지 또는 제한되는 방법을 제외 한 모든 자산운용 업무- 보험업법 및 관계법령에 의해 허용되는 보험업 외의 업무"
+    },
+    {
+      "axis": "product",
+      "value": "금융투자업",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "- 자본시장법에 따른 투자매매업, 투자중개업, 집합투자업,투자자문업, 투자일임업, 신탁업 등 금융투자업 관련 업무"
+    },
+    {
+      "axis": "product",
+      "value": "여신전문금융업",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "- 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업, 신용대출 또는 담보대출 외- 상기 업무에 부수 또는 관련된 업무 일체"
+    },
+    {
+      "axis": "product",
+      "value": "손해보험업",
+      "weight": 0.72,
+      "direction": null,
+      "evidence": "메리츠화재의 주요 사업은 보험업법 및 관계법령에 의거하여 영위 가능한 손해보험업과 제3보험업이며"
+    },
+    {
+      "axis": "product",
+      "value": "금융투자업",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "메리츠증권은 '자본시장과 금융투자업에 관한 법률'에 따른 금융투자업과 그와 관련된 부수업무를 주요 업무로 영위하는 회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "여신전문금융업",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "메리츠증권의 주요 자회사인 메리츠캐피탈은 '여신전문금융업법'에 따른 시설대여업 및 할부금융업 등을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장기보험",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "일반보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "금리 상승으로 채권 운용에서 다소 부진한 실적을 보였지만, ETF 거래량 증가에 따른 LP업무 수익 증가"
+    },
+    {
+      "axis": "product",
+      "value": "CMA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "상품구분 | 세부구분 | 상품특징 | CMA | CMA-RP |  수시입출금이 가능하면서 예치된 자금을 자동으로 RP에 투자하는 계좌 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "집합투자상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "집합투자상품 | MMF | 단기성 상품을 주로 운용하는 초단기형 집합투자증권, 익일 입출금"
+    },
+    {
+      "axis": "product",
+      "value": "채무증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "채무증권 | 채권/CP/ 전자단기사채 | 채권, CP, 전자단기사채의 투자수익률 지급"
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "파생결합증권 | ELS(ELB)/ DLS(DLB) | 지수, 개별종목, 기타 자산에 연계되어 수익이 결정되는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "신탁상품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신탁상품 | 특정금전신탁 | 1:1 계약에 의하여 신탁재산의 운용방법, 운용대상 등을 위탁자인 고객이 직접 지시하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "경기 상승기에는 보험료 수입 증가와 자산 운용 수익 제고를 기대할 수 있으나, 경기 침체기에는 신계약 둔화, 해지율 상승, 모럴 해저드로 인한 손해율 악화 등의 위험이 존재합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장금리",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "손해보험업은 실손 보상 중심의 장기상품 및 자동차 의무가입 등으로 다른 산업보다는 경기에 덜 민감하게 반응하며, 일반적으로는 경기 후행적인 성격이 강한 산업적 특성을 가지고 있는 동시에 투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "서울 | 29 | - | - | - | 15 | 44 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부산 | 13 | - | - | - | 5 | 18 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기 | 49 | - | - | - | 4 | 53 |"
+    },
+    {
+      "axis": "product",
+      "value": "자동차금융",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2024년 할부금융 취급 실적 기준으로 자동차 할부금융이 약 96.1%를 차지하고 있듯이 국내 할부금융업은 자동차금융 위주로 활성화되어 있는 상황입니다."
+    },
+    {
+      "axis": "product",
+      "value": "기업금융",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "메리츠캐피탈은 자동차금융 및 기업금융을 주요 업무로 영위하는 여신전문금융사로 메리츠증권이 지분 100%를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "할부금융은 소비자가 일시불로 구입하기 어려운 고가의 내구소비재(자동차, 가전제품 등)나 주택을 구입하고자 할 때"
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "리스란 시설임대를 전문으로 하는 사업주체가 일정한 설비를 구입하여 그 이용자에게 일정기간 대여하고 그 사용료(리스료)를 받는 것을 목적으로 하는 물적금융행위를말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "증권시장이 상승기일 때는 투자자들의 투자심리가 개선되어 거래량이 증가하고 거래수수료 수익이 증가하여 금융투자업이 호황을 누리며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국내외 거시경제 변수 불확실성, 미국의 기준금리 인상 변동 등 국내외 경제상황의 변동성 확대는 유동성 축소와 자금이탈 가능성 확대, 투자심리 위축 등으로 이어져 금융투자업 전반의 영업실적 및 수익성에 부정적인 영향을 끼칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "금융투자산업은 발행과 유통시장을 움직이는 축으로 기능하는 바, 정치, 경제, 사회, 문화, 국제관계, 환율, 경기변동 등 모든 분야의 변화가 이 산업에 영향을 미치게 됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2025년은 신정부 출범에 따른 금융정책의 변화와 부동산 경기 침체가 지속되는 가운데, 미국의 관세 부과 정책 등 대외 변수까지 맞물리면서 대내외 경기의 불확실성이 지속되는 한 해였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가지수",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가 금융투자회사의 실적에 주요 변수로 작용하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"보험업\", \"weight\": 0.72, \"direction\": null, \"evidence\": \"- 보험업법 및 관계법령에 의해 영위가능한 보험업- 보험업법 및 관계법령에 의해 금지 또는 제한되는 방법을 제외 한 모든 자산운용 업무- 보험업법 및 관계법령에 의해 허용되는 보험업 외의 업무\"}, {\"axis\": \"product\", \"value\": \"금융투자업\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"- 자본시장법에 따른 투자매매업, 투자중개업, 집합투자업,투자자문업, 투자일임업, 신탁업 등 금융투자업 관련 업무\"}, {\"axis\": \"product\", \"value\": \"여신전문금융업\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"- 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업, 신용대출 또는 담보대출 외- 상기 업무에 부수 또는 관련된 업무 일체\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"손해보험업\",\n      \"weight\": 0.72,\n      \"direction\": null,\n      \"evidence\": \"메리츠화재의 주요 사업은 보험업법 및 관계법령에 의거하여 영위 가능한 손해보험업과 제3보험업이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금융투자업\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"메리츠증권은 '자본시장과 금융투자업에 관한 법률'에 따른 금융투자업과 그와 관련된 부수업무를 주요 업무로 영위하는 회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"여신전문금융업\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"메리츠증권의 주요 자회사인 메리츠캐피탈은 '여신전문금융업법'에 따른 시설대여업 및 할부금융업 등을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기보험\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"장기보험은 7조 4,009억의 보험수익을 인식하였으며,자동차보험은 7,433억, 일반보험은 9,658억의 보험수익을 인식하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"금리 상승으로 채권 운용에서 다소 부진한 실적을 보였지만, ETF 거래량 증가에 따른 LP업무 수익 증가\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMA\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"상품구분 | 세부구분 | 상품특징 | CMA | CMA-RP |  수시입출금이 가능하면서 예치된 자금을 자동으로 RP에 투자하는 계좌 서비스\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"집합투자상품 | MMF | 단기성 상품을 주로 운용하는 초단기형 집합투자증권, 익일 입출금\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채무증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"채무증권 | 채권/CP/ 전자단기사채 | 채권, CP, 전자단기사채의 투자수익률 지급\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"파생결합증권 | ELS(ELB)/ DLS(DLB) | 지수, 개별종목, 기타 자산에 연계되어 수익이 결정되는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁상품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신탁상품 | 특정금전신탁 | 1:1 계약에 의하여 신탁재산의 운용방법, 운용대상 등을 위탁자인 고객이 직접 지시하고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"경기 상승기에는 보험료 수입 증가와 자산 운용 수익 제고를 기대할 수 있으나, 경기 침체기에는 신계약 둔화, 해지율 상승, 모럴 해저드로 인한 손해율 악화 등의 위험이 존재합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장금리\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"손해보험업은 실손 보상 중심의 장기상품 및 자동차 의무가입 등으로 다른 산업보다는 경기에 덜 민감하게 반응하며, 일반적으로는 경기 후행적인 성격이 강한 산업적 특성을 가지고 있는 동시에 투자손익의 수익 비중이 높아 시장금리와 주식시장 동향에 의해 수익성이 크게 좌우됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"서울 | 29 | - | - | - | 15 | 44 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"부산 | 13 | - | - | - | 5 | 18 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기 | 49 | - | - | - | 4 | 53 |\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차금융\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2024년 할부금융 취급 실적 기준으로 자동차 할부금융이 약 96.1%를 차지하고 있듯이 국내 할부금융업은 자동차금융 위주로 활성화되어 있는 상황입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기업금융\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"메리츠캐피탈은 자동차금융 및 기업금융을 주요 업무로 영위하는 여신전문금융사로 메리츠증권이 지분 100%를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"할부금융은 소비자가 일시불로 구입하기 어려운 고가의 내구소비재(자동차, 가전제품 등)나 주택을 구입하고자 할 때\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"리스란 시설임대를 전문으로 하는 사업주체가 일정한 설비를 구입하여 그 이용자에게 일정기간 대여하고 그 사용료(리스료)를 받는 것을 목적으로 하는 물적금융행위를말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"증권시장이 상승기일 때는 투자자들의 투자심리가 개선되어 거래량이 증가하고 거래수수료 수익이 증가하여 금융투자업이 호황을 누리며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국내외 거시경제 변수 불확실성, 미국의 기준금리 인상 변동 등 국내외 경제상황의 변동성 확대는 유동성 축소와 자금이탈 가능성 확대, 투자심리 위축 등으로 이어져 금융투자업 전반의 영업실적 및 수익성에 부정적인 영향을 끼칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"금융투자산업은 발행과 유통시장을 움직이는 축으로 기능하는 바, 정치, 경제, 사회, 문화, 국제관계, 환율, 경기변동 등 모든 분야의 변화가 이 산업에 영향을 미치게 됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"2025년은 신정부 출범에 따른 금융정책의 변화와 부동산 경기 침체가 지속되는 가운데, 미국의 관세 부과 정책 등 대외 변수까지 맞물리면서 대내외 경기의 불확실성이 지속되는 한 해였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가지수\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"과거 단순 투자중개 위주의 사업구조에서는 거래대금이 주요 변수였다면, 최근에는 금리, 환율, 글로벌 주가지수, 국내외 부동산 경기 등 다양한 외부환경요소가 금융투자회사의 실적에 주요 변수로 작용하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/138040_20260331004202.txt"
+}

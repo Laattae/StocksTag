@@ -1,0 +1,74 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "온라인게임",
+      "weight": 0.87,
+      "direction": null,
+      "evidence": "㈜네오위즈의 게임사업부문은 2025년 연결 기준으로 매출액 3,753억 원을 기록하며 전체 매출의 86.7%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "P의 거짓",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "브라운더스트2",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "피망 뉴맞고",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "고양이와 스프",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "디제이맥스 리스펙트",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "사옥임대제공",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "임대사업 | 사옥임대제공 | - | 4,754 | 1.1% |"
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "기타사업 | 광고, 투자 및 용역서비스 | - | 52,672 | 12.2% |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체는 글로벌 영업 및 장부통화와 다른 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, JPY 등이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"온라인게임\",\n      \"weight\": 0.87,\n      \"direction\": null,\n      \"evidence\": \"㈜네오위즈의 게임사업부문은 2025년 연결 기준으로 매출액 3,753억 원을 기록하며 전체 매출의 86.7%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"P의 거짓\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"브라운더스트2\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"피망 뉴맞고\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고양이와 스프\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디제이맥스 리스펙트\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 타이틀로는 액션RPG 'P의 거짓', 어드벤처 RPG '브라운더스트2', 카드게임 '피망 뉴맞고' 시리즈, 힐링 시뮬레이션 '고양이와 스프', 리듬게임 '디제이맥스 리스펙트' 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"사옥임대제공\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"임대사업 | 사옥임대제공 | - | 4,754 | 1.1% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"기타사업 | 광고, 투자 및 용역서비스 | - | 52,672 | 12.2% |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 글로벌 영업 및 장부통화와 다른 수입과 지출로 인해 외화 환포지션이 발생하며, 환포지션이 발생하는 주요 외화로는 USD, JPY 등이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/095660_20260319001284.txt"
+}

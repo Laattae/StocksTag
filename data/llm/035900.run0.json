@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "음반/음원",
+      "weight": 0.314,
+      "direction": null,
+      "evidence": "음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다."
+    },
+    {
+      "axis": "product",
+      "value": "콘서트",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 콘서트 | 콘서트 | 188,892,466 |  103,581,457 | 63,187,836 |"
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 광고 | 광고 | 45,016,376 |  34,320,486 | 28,354,613 |"
+    },
+    {
+      "axis": "product",
+      "value": "출연료",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "매니지먼트사업 | 출연료 | 출연료 | 35,357,676 |  27,139,822 | 14,266,555 |"
+    },
+    {
+      "axis": "customer",
+      "value": "Republic Records",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "음반(CD) | 수출 | 간접판매 | Republic Records | 유통 판매 계약업체 |"
+    },
+    {
+      "axis": "customer",
+      "value": "드림어스컴퍼니",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "음반(CD) | 내수 | 간접판매 | (주)드림어스컴퍼니 | 유통 판매 계약업체 |"
+    },
+    {
+      "axis": "customer",
+      "value": "SPOTIFY",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "음원 | 수출 | 간접판매 | Republic Records, SPOTIFY, Apple, JYP Entertainment Japan Inc.,Tencent Music Entertainment (Zhuhai) Company |"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "내수 | 직.간접판매 | 삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) |"
+    },
+    {
+      "axis": "customer",
+      "value": "LG전자",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "내수 | 직.간접판매 | 삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) |"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반/음원\",\n      \"weight\": 0.314,\n      \"direction\": null,\n      \"evidence\": \"음반사업부문이 2,579억원(31.4%), 매니지먼트부문이 5,640억원(68.6%)입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘서트\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 콘서트 | 콘서트 | 188,892,466 |  103,581,457 | 63,187,836 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 광고 | 광고 | 45,016,376 |  34,320,486 | 28,354,613 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"출연료\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"매니지먼트사업 | 출연료 | 출연료 | 35,357,676 |  27,139,822 | 14,266,555 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Republic Records\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"음반(CD) | 수출 | 간접판매 | Republic Records | 유통 판매 계약업체 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"드림어스컴퍼니\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"음반(CD) | 내수 | 간접판매 | (주)드림어스컴퍼니 | 유통 판매 계약업체 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SPOTIFY\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"음원 | 수출 | 간접판매 | Republic Records, SPOTIFY, Apple, JYP Entertainment Japan Inc.,Tencent Music Entertainment (Zhuhai) Company |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"내수 | 직.간접판매 | 삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG전자\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"내수 | 직.간접판매 | 삼성전자(주), LG전자(주), 롯데웰푸드(주), (주)아모레퍼시픽, 버버리코리아(주), 동서식품(주) |\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/035900_20260318001519.txt"
+}

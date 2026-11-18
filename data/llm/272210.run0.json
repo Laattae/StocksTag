@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "지상무기체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "해양무기체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "항공우주체계",
+      "weight": 0.67,
+      "direction": null,
+      "evidence": "지상무기체계,해양무기체계,항공우주체계,종합군수지원"
+    },
+    {
+      "axis": "product",
+      "value": "전산시스템 설계 및 구축",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등"
+    },
+    {
+      "axis": "product",
+      "value": "디지털플랫폼",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "디지털플랫폼,상선 및 지원함 등"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "방위사업청(17%)국방과학연구소(10%)"
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "방위사업청(17%)국방과학연구소(10%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "송수신모듈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "송수신모듈(4채널)질문기, 피아식별기용휴대II형 필터 회로카드조립체정비장비송신모듈"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": null,
+      "direction": null,
+      "evidence": "경상북도 구미시 산호대로 264-60"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": null,
+      "direction": null,
+      "evidence": "서울특별시 중구 을지로 100"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "경기도 용인시 수지구 디지털벨리로 101"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": null,
+      "direction": null,
+      "evidence": "제주 서귀포시 1100로 506-2"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "Hanwha Systems USA Corporation - 미국, 델라웨어"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당기와 전기의 각 외화에 대한 원화환율이 10% 변동시 외화자산과 외화부채 환산액의 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "product",
+      "value": "방산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |"
+    },
+    {
+      "axis": "product",
+      "value": "ICT",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "ICT | 652,636 | 50,823 | (19,366) | (36,272) | 31,457 |"
+    },
+    {
+      "axis": "product",
+      "value": "무기체계",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유도무기ㆍ항공기ㆍ함정 등 전장에서 전투력을 발휘하기 위한 무기와 이를 운영하는데 필요한 장비ㆍ부품ㆍ시설ㆍ소프트웨어 등 제반 요소를 통합한 것을 '무기체계'로 구분하고"
+    },
+    {
+      "axis": "product",
+      "value": "전력지원체계",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "무기체계 외의 장비ㆍ부품ㆍ시설ㆍ소프트웨어, 그 밖의 물품 등 제반 요소를 '전력지원체계'로 구분합니다."
+    },
+    {
+      "axis": "product",
+      "value": "IT아웃소싱",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "IT 아웃소싱은 고객의 요청에 따라 기업 정보시스템과 관련된 설비, 인력, 하드웨어 등을 관리 및 운영하는 것을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "SI",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고객에게 필요한 정보시스템 구축 계획 및 운영 전략을 기획하고, 시스템 설계 및 개발을 지원하는 서비스를 의미합니다."
+    },
+    {
+      "axis": "application",
+      "value": "국방",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방위산업은 국가 방위를 위하여 군사적으로 소요되는 물자의 생산과 개발에 기여하는 산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "정부",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "방위산업은 공급(방산기업)과 내수 위주의 수요(정부) 측면에서 모두 독점적 성격을 갖는 쌍방 독과점적 시장구조를 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국방비",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "2025년은 지정학적 긴장 및 글로벌 안보 환경의 구조적 불확실성의 장기화로 인해 세계 국방비가 중ㆍ장기적 증가 추세를 보이고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"지상무기체계\", \"weight\": 0.67, \"direction\": null, \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"}, {\"axis\": \"product\", \"value\": \"해양무기체계\", \"weight\": 0.67, \"direction\": null, \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"}, {\"axis\": \"product\", \"value\": \"항공우주체계\", \"weight\": 0.67, \"direction\": null, \"evidence\": \"지상무기체계,해양무기체계,항공우주체계,종합군수지원\"}, {\"axis\": \"product\", \"value\": \"전산시스템 설계 및 구축\", \"weight\": 0.18, \"direction\": null, \"evidence\": \"전산시스템 설계 및 구축, 전산시스템 위탁운영, IT 융합 엔지니어링 서비스 등\"}, {\"axis\": \"product\", \"value\": \"디지털플랫폼\", \"weight\": 0.16, \"direction\": null, \"evidence\": \"디지털플랫폼,상선 및 지원함 등\"}, {\"axis\": \"customer\", \"value\": \"방위사업청\", \"weight\": 0.17, \"direction\": null, \"evidence\": \"방위사업청(17%)국방과학연구소(10%)\"}, {\"axis\": \"customer\", \"value\": \"국방과학연구소\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"방위사업청(17%)국방과학연구소(10%)\"}, {\"axis\": \"raw_material\", \"value\": \"송수신모듈\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"송수신모듈(4채널)질문기, 피아식별기용휴대II형 필터 회로카드조립체정비장비송신모듈\"}, {\"axis\": \"raw_material\", \"value\": \"강재\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"강재, 기자재, 의장재 등\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": null, \"direction\": null, \"evidence\": \"경상북도 구미시 산호대로 264-60\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": null, \"direction\": null, \"evidence\": \"서울특별시 중구 을지로 100\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"경기도 용인시 수지구 디지털벨리로 101\"}, {\"axis\": \"region\", \"value\": \"제주\", \"weight\": null, \"direction\": null, \"evidence\": \"제주 서귀포시 1100로 506-2\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": null, \"direction\": null, \"evidence\": \"Hanwha Systems USA Corporation - 미국, 델라웨어\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": -1, \"evidence\": \"당기와 전기의 각 외화에 대한 원화환율이 10% 변동시 외화자산과 외화부채 환산액의 변동이 법인세비용차감전순이익에 미치는 영향은 다음과 같습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"방산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"방산 | 2,438,850 | 652,636 | 575,488 | (2,823) | 3,664,151 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ICT\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"ICT | 652,636 | 50,823 | (19,366) | (36,272) | 31,457 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무기체계\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유도무기ㆍ항공기ㆍ함정 등 전장에서 전투력을 발휘하기 위한 무기와 이를 운영하는데 필요한 장비ㆍ부품ㆍ시설ㆍ소프트웨어 등 제반 요소를 통합한 것을 '무기체계'로 구분하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력지원체계\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"무기체계 외의 장비ㆍ부품ㆍ시설ㆍ소프트웨어, 그 밖의 물품 등 제반 요소를 '전력지원체계'로 구분합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT아웃소싱\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"IT 아웃소싱은 고객의 요청에 따라 기업 정보시스템과 관련된 설비, 인력, 하드웨어 등을 관리 및 운영하는 것을 의미합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SI\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고객에게 필요한 정보시스템 구축 계획 및 운영 전략을 기획하고, 시스템 설계 및 개발을 지원하는 서비스를 의미합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"국방\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"방위산업은 국가 방위를 위하여 군사적으로 소요되는 물자의 생산과 개발에 기여하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"정부\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"방위산업은 공급(방산기업)과 내수 위주의 수요(정부) 측면에서 모두 독점적 성격을 갖는 쌍방 독과점적 시장구조를 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방비\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"2025년은 지정학적 긴장 및 글로벌 안보 환경의 구조적 불확실성의 장기화로 인해 세계 국방비가 중ㆍ장기적 증가 추세를 보이고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/272210_20260513000644.txt"
+}

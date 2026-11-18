@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "로봇 Arm",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "협동로봇 로봇 Arm 19,891 60.32%"
+    },
+    {
+      "axis": "product",
+      "value": "자동화 솔루션",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자동화 솔루션 EOL/CMI 6,006 18.21%"
+    },
+    {
+      "axis": "product",
+      "value": "커피모듈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "무인카페운영 로봇으로 당사에서 개발한 로봇 Arm을 사용하고 있음."
+    },
+    {
+      "axis": "product",
+      "value": "튀김모듈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사에서 개발한 로봇 Arm을 협력업체와 공동개발한 튀김모듈에 부착하여 생산한 완제품임"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구동부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "구동부품 1,926,479 5,801,370 4,458,600"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전자부품 2,726,170 16,354,408 14,018,356"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기계부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "기계부품 2,298,391 9,103,867 6,866,603"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "협동 로봇 로봇 Arm 수원공장 2,200 44,463,417"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년 9월 미국의 자동화 설비 및 로봇 솔루션 업체인 ONExia를 인수하였고"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유럽지역내 해외판매 채널 확대와 서비스 강화를 위해 2024년 4월 독일 뒤셀도르프에 유럽 지사를 설립하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 10% 변동할 경우, 동 환율변동이 연결기업의 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "영업부문 | \n주요제품 | \n협동로봇 | \n로봇 Arm 등"
+    },
+    {
+      "axis": "product",
+      "value": "로봇 Arm",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "영업부문 | \n주요제품 | \n협동로봇 | \n로봇 Arm 등"
+    },
+    {
+      "axis": "product",
+      "value": "자동화 솔루션",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자동화 솔루션 | \nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등"
+    },
+    {
+      "axis": "product",
+      "value": "EOL솔루션",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동화 솔루션 | \nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등"
+    },
+    {
+      "axis": "product",
+      "value": "CMI",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자동화 솔루션 | \nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등"
+    },
+    {
+      "axis": "product",
+      "value": "지능형 로봇 솔루션",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 기존 협동로봇 하드웨어 중심의 사업 구조를 기반으로, 지능형 로봇 솔루션을 핵심 성장동력으로 확대할 계획입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "ONExia",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 지난해 9월 인수한 미국내 로봇 자동화 시스템 기업인 'ONExia' 인수를 통해 지능형 로봇 솔루션 기업으로의 전환을 본격 준비하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 지난해 9월 인수한 미국내 로봇 자동화 시스템 기업인 'ONExia' 인수를 통해 지능형 로봇 솔루션 기업으로의 전환을 본격 준비하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"협동로봇\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"로봇 Arm\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"협동로봇 로봇 Arm 19,891 60.32%\"}, {\"axis\": \"product\", \"value\": \"자동화 솔루션\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"자동화 솔루션 EOL/CMI 6,006 18.21%\"}, {\"axis\": \"product\", \"value\": \"커피모듈\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"무인카페운영 로봇으로 당사에서 개발한 로봇 Arm을 사용하고 있음.\"}, {\"axis\": \"product\", \"value\": \"튀김모듈\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사에서 개발한 로봇 Arm을 협력업체와 공동개발한 튀김모듈에 부착하여 생산한 완제품임\"}, {\"axis\": \"raw_material\", \"value\": \"구동부품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"구동부품 1,926,479 5,801,370 4,458,600\"}, {\"axis\": \"raw_material\", \"value\": \"전자부품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"전자부품 2,726,170 16,354,408 14,018,356\"}, {\"axis\": \"raw_material\", \"value\": \"기계부품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"기계부품 2,298,391 9,103,867 6,866,603\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"협동 로봇 로봇 Arm 수원공장 2,200 44,463,417\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025년 9월 미국의 자동화 설비 및 로봇 솔루션 업체인 ONExia를 인수하였고\"}, {\"axis\": \"region\", \"value\": \"독일\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"유럽지역내 해외판매 채널 확대와 서비스 강화를 위해 2024년 4월 독일 뒤셀도르프에 유럽 지사를 설립하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 10% 변동할 경우, 동 환율변동이 연결기업의 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"시장이자율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"영업부문 | \\n주요제품 | \\n협동로봇 | \\n로봇 Arm 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로봇 Arm\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"영업부문 | \\n주요제품 | \\n협동로봇 | \\n로봇 Arm 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동화 솔루션\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자동화 솔루션 | \\nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EOL솔루션\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자동화 솔루션 | \\nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMI\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자동화 솔루션 | \\nEOL솔루션(End of Line), CMI(Custom Machine Integration) 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지능형 로봇 솔루션\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 기존 협동로봇 하드웨어 중심의 사업 구조를 기반으로, 지능형 로봇 솔루션을 핵심 성장동력으로 확대할 계획입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ONExia\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 지난해 9월 인수한 미국내 로봇 자동화 시스템 기업인 'ONExia' 인수를 통해 지능형 로봇 솔루션 기업으로의 전환을 본격 준비하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 지난해 9월 인수한 미국내 로봇 자동화 시스템 기업인 'ONExia' 인수를 통해 지능형 로봇 솔루션 기업으로의 전환을 본격 준비하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/454910_20260318001562.txt"
+}

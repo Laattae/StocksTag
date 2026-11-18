@@ -1,0 +1,204 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "세포전처리자동화 기기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 세포 분석 공정의 자동화 장비와 소모품을 판매하며 세포 분석 공정의 글로벌 표준화에 기여하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "플레이트",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "플레이트 | 504 | 9.8% |  543 | 11.8% |  532 | 7.8%"
+    },
+    {
+      "axis": "product",
+      "value": "부속품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "부속품 | 411 | 8.0% |  529 | 11.5% |  729 | 10.7%"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto Workstation",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Pluto Workstation은 mass market을 겨냥하는 제품이면서 세포 분석 공정의 완전 자동화를 지원하는 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Pluto Code",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Pluto Code는 Pluto Wash 기술 구현의 핵심 요소인 소프트웨어 기반 제품으로, 큐리옥스의 핵심 제품 중 하나입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Pluto Alpha",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Pluto Alpha는 기존 Laminar Wash HT와 Venus HT의 장점을 결합한 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Venus HT",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 개발한 Venus HT라는 신제품은 기존의 제품에 비해 큰 부피의 샘플을 다룰 수 있도록 특화된 기기이며 2024년 08월에 출시했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Laminar Wash HT 2100",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년 12월 Laminar Wash HT 2100 모델 출시 시에는 기존 수동으로 수행하던 제품의 유지기능이 자동으로 행해지도록 개선되었으며"
+    },
+    {
+      "application": "신약개발",
+      "weight": 0.8,
+      "evidence": "세포 분석 공정은 바이오 연구와 신약 개발, 진단 등 바이오 산업의 여러 분야에서 필수적으로 행해지는 공정으로"
+    },
+    {
+      "application": "체외 진단",
+      "weight": 0.7,
+      "evidence": "세포 분석은 진단 분야에서 전혈을 통해 혈액암이나 면역 세포들을 분석하는데 주로 사용되고 있는데"
+    },
+    {
+      "application": "생명과학 연구",
+      "weight": 0.6,
+      "evidence": "유세포분석기(Flow Cytometer) 등으로 분석하는 과정을 세포분석 공정이라 하며, 이는 신약 연구, 면역학 연구, 진단 등 생명과학 전반에서 활용되고 있습니다."
+    },
+    {
+      "customer": "Revvity",
+      "weight": 0.5,
+      "evidence": "Pluto Workstation은 글로벌 바이오/의료기기 및 시약을 제조, 유통하는 회사인 Revvity(구 퍼킨엘머)사에서 위탁생산합니다."
+    },
+    {
+      "customer": "Hamilton",
+      "weight": 0.5,
+      "evidence": "당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며"
+    },
+    {
+      "customer": "Tecan",
+      "weight": 0.5,
+      "evidence": "당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며"
+    },
+    {
+      "customer": "Beckman Coulter",
+      "weight": 0.5,
+      "evidence": "당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며"
+    },
+    {
+      "raw_material": "Head",
+      "weight": 0.7,
+      "evidence": "당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며"
+    },
+    {
+      "raw_material": "Chassis",
+      "weight": 0.7,
+      "evidence": "당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며"
+    },
+    {
+      "raw_material": "조립품",
+      "weight": 0.5,
+      "evidence": "당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며"
+    },
+    {
+      "region": "미국",
+      "weight": 0.7,
+      "evidence": "미국법인 | 5명 | - 북미지역 영업"
+    },
+    {
+      "region": "중국",
+      "weight": 0.6,
+      "evidence": "중국법인 | 1명 | - 중국 영업"
+    },
+    {
+      "exposure": "바이오 투자 사이클",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "경기 침체 시 바이오 벤처 투자 위축이나 연구 예산 축소가 발생할 경우 고가 장비의 신규 도입이 일시적으로 지연될 가능성은 존재하나"
+    },
+    {
+      "axis": "product",
+      "value": "세포전처리 자동화 기기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 Curiox C-FREE 기술 기반 세포전처리 자동화 기기 제조 및 판매 등의 단일사업부문을 운영하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto HT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto MT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto LT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto Alpha",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "Venus HT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "LW HT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "product",
+      "value": "LW AUTO",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO"
+    },
+    {
+      "axis": "application",
+      "value": "질량세포분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서"
+    },
+    {
+      "axis": "application",
+      "value": "단일 세포 염기서열 분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포전처리자동화 기기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 세포 분석 공정의 자동화 장비와 소모품을 판매하며 세포 분석 공정의 글로벌 표준화에 기여하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플레이트\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"플레이트 | 504 | 9.8% |  543 | 11.8% |  532 | 7.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부속품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"부속품 | 411 | 8.0% |  529 | 11.5% |  729 | 10.7%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto Workstation\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Pluto Workstation은 mass market을 겨냥하는 제품이면서 세포 분석 공정의 완전 자동화를 지원하는 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto Code\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Pluto Code는 Pluto Wash 기술 구현의 핵심 요소인 소프트웨어 기반 제품으로, 큐리옥스의 핵심 제품 중 하나입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto Alpha\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Pluto Alpha는 기존 Laminar Wash HT와 Venus HT의 장점을 결합한 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Venus HT\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 개발한 Venus HT라는 신제품은 기존의 제품에 비해 큰 부피의 샘플을 다룰 수 있도록 특화된 기기이며 2024년 08월에 출시했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Laminar Wash HT 2100\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년 12월 Laminar Wash HT 2100 모델 출시 시에는 기존 수동으로 수행하던 제품의 유지기능이 자동으로 행해지도록 개선되었으며\"\n    },\n    {\n      \"application\": \"신약개발\",\n      \"weight\": 0.8,\n      \"evidence\": \"세포 분석 공정은 바이오 연구와 신약 개발, 진단 등 바이오 산업의 여러 분야에서 필수적으로 행해지는 공정으로\"\n    },\n    {\n      \"application\": \"체외 진단\",\n      \"weight\": 0.7,\n      \"evidence\": \"세포 분석은 진단 분야에서 전혈을 통해 혈액암이나 면역 세포들을 분석하는데 주로 사용되고 있는데\"\n    },\n    {\n      \"application\": \"생명과학 연구\",\n      \"weight\": 0.6,\n      \"evidence\": \"유세포분석기(Flow Cytometer) 등으로 분석하는 과정을 세포분석 공정이라 하며, 이는 신약 연구, 면역학 연구, 진단 등 생명과학 전반에서 활용되고 있습니다.\"\n    },\n    {\n      \"customer\": \"Revvity\",\n      \"weight\": 0.5,\n      \"evidence\": \"Pluto Workstation은 글로벌 바이오/의료기기 및 시약을 제조, 유통하는 회사인 Revvity(구 퍼킨엘머)사에서 위탁생산합니다.\"\n    },\n    {\n      \"customer\": \"Hamilton\",\n      \"weight\": 0.5,\n      \"evidence\": \"당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며\"\n    },\n    {\n      \"customer\": \"Tecan\",\n      \"weight\": 0.5,\n      \"evidence\": \"당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며\"\n    },\n    {\n      \"customer\": \"Beckman Coulter\",\n      \"weight\": 0.5,\n      \"evidence\": \"당사의 소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며\"\n    },\n    {\n      \"raw_material\": \"Head\",\n      \"weight\": 0.7,\n      \"evidence\": \"당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며\"\n    },\n    {\n      \"raw_material\": \"Chassis\",\n      \"weight\": 0.7,\n      \"evidence\": \"당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며\"\n    },\n    {\n      \"raw_material\": \"조립품\",\n      \"weight\": 0.5,\n      \"evidence\": \"당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며\"\n    },\n    {\n      \"region\": \"미국\",\n      \"weight\": 0.7,\n      \"evidence\": \"미국법인 | 5명 | - 북미지역 영업\"\n    },\n    {\n      \"region\": \"중국\",\n      \"weight\": 0.6,\n      \"evidence\": \"중국법인 | 1명 | - 중국 영업\"\n    },\n    {\n      \"exposure\": \"바이오 투자 사이클\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"경기 침체 시 바이오 벤처 투자 위축이나 연구 예산 축소가 발생할 경우 고가 장비의 신규 도입이 일시적으로 지연될 가능성은 존재하나\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포전처리 자동화 기기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 Curiox C-FREE 기술 기반 세포전처리 자동화 기기 제조 및 판매 등의 단일사업부문을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto HT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto MT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto LT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Pluto Alpha\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Venus HT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LW HT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LW AUTO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 특성 | Pluto HT | Pluto MT | Pluto LT | Pluto Alpha | Venus HT | LW HT | LW AUTO\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"질량세포분석\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"단일 세포 염기서열 분석\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/445680_20261001000609.txt"
+}

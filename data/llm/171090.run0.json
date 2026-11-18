@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "증착장비",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "증착장비(국내)\t제품/용역\t증착장비\t유기물질 증착"
+    },
+    {
+      "axis": "product",
+      "value": "OLEDoS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "스마트 글라스와 XR(확장현실) 기기의 핵심 동력인 OLEDoS(OLED on Silicon) 시장의 개화가 자리하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "페로브스카이트 태양광",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "OLED에서 검증된 초정밀 증착 기술은 차세대 에너지 산업인 페로브스카이트(Perovskite) 태양광 분야로 외연을 넓히며 새로운 시장 가치를 창출하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "OLED 디스플레이",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "OLED 증착장비는 OLED 디스플레이 패널 제조 산업의 후방산업으로서, 각 패널업체의 OLED 패널 투자계획에 따라 장비 수요는 변동합니다."
+    },
+    {
+      "axis": "application",
+      "value": "XR 기기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "초고해상度和 경량화를 동시에 만족해야 하는 차세대 웨어러블 디바이스 산업이 가속화됨에 따라, 실리콘 웨이퍼를 기판으로 활용하는 OLEDoS 기술 수요는 폭발적으로 증가하는 추세입니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 전장",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자동차 전장 디스플레이용 OLED 시장 규모는 2023년 부터 2030년 까지 CAGR 24%의 가파른 성장을 예상하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "POWER SUPPLY",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "OLED 제조장비\t원재료\tPOWER SUPPLY 외\tOLED증착장비 제조용\t13,446(7.6%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제어전장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "원재료\t제어전장비\t16,845(9.5%)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경기도 파주시 돈유2로 8(선유리 1380번지)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체는 외화자산ㆍ부채와 관련하여 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결실체는 변동이자부 금융상품과 관련하여 이자율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"증착장비\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"증착장비(국내)\\t제품/용역\\t증착장비\\t유기물질 증착\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLEDoS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"스마트 글라스와 XR(확장현실) 기기의 핵심 동력인 OLEDoS(OLED on Silicon) 시장의 개화가 자리하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"페로브스카이트 태양광\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"OLED에서 검증된 초정밀 증착 기술은 차세대 에너지 산업인 페로브스카이트(Perovskite) 태양광 분야로 외연을 넓히며 새로운 시장 가치를 창출하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OLED 디스플레이\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"OLED 증착장비는 OLED 디스플레이 패널 제조 산업의 후방산업으로서, 각 패널업체의 OLED 패널 투자계획에 따라 장비 수요는 변동합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"XR 기기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"초고해상度和 경량화를 동시에 만족해야 하는 차세대 웨어러블 디바이스 산업이 가속화됨에 따라, 실리콘 웨이퍼를 기판으로 활용하는 OLEDoS 기술 수요는 폭발적으로 증가하는 추세입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 전장\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자동차 전장 디스플레이용 OLED 시장 규모는 2023년 부터 2030년 까지 CAGR 24%의 가파른 성장을 예상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"POWER SUPPLY\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"OLED 제조장비\\t원재료\\tPOWER SUPPLY 외\\tOLED증착장비 제조용\\t13,446(7.6%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제어전장비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"원재료\\t제어전장비\\t16,845(9.5%)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경기도 파주시 돈유2로 8(선유리 1380번지)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 외화자산ㆍ부채와 관련하여 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 변동이자부 금융상품과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/171090_20260320001146.txt"
+}

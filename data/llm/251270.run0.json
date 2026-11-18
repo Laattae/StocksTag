@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일게임",
+      "weight": 0.92,
+      "direction": null,
+      "evidence": "게임 | 모바일게임 |  2,607,477 | 91.97"
+    },
+    {
+      "axis": "product",
+      "value": "온라인게임",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "온라인게임 |  40,642 | 1.43"
+    },
+    {
+      "axis": "customer",
+      "value": "구글",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 최종 매출처는 다수의 모바일 게임 사용자이며, 모바일 시장의 특성상 이와 같은 모바일 게임서비스는 대부분 글로벌 마켓사인 구글, 애플 등을 통해 제공/결제되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "애플",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "모바일 시장의 특성상 이와 같은 모바일 게임서비스는 대부분 글로벌 마켓사인 구글, 애플 등을 통해 제공/결제되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2. 대상지 | 경기도 과천시 갈현동 일원(지식정보타운 지식9 용지)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결실체의 기능통화인 원화 외의 통화로 표시되는 매출, 구매에 대해 환위험에 노출되어 있습니다. 이러한 거래들이 표시되는 주된 통화는 USD, EUR, CAD, JPY 등입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율 위험은 시장금리 변동으로 인한 재무상태표 항목의 가치변동(공정가치) 위험과 투자 및 재무활동으로부터 발생하는 현금흐름(이자수익 및 비용)이 변동될 위험을 의미합니다."
+    },
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스마트폰 보급으로 모바일 게임 시장이 성장한 이후 모바일 게임은 타 플랫폼 기반의 게임 대비 유저의 접근과 이탈이 용이하여 게임의 PLC가 상대적으로 짧다고 평가되어 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "캐주얼 게임",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "RPG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 다양한 IP를 활용한 게임들을 서비스하고 있으며, 장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "MMORPG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "MBX 코인",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2022년 자회사 마브렉스㈜를 통해 자체 기축통화 'MBX' 코인을 발행한 후 NFT 마켓플레이스, 토큰 결제 시스템, MBX 월렛 등 다양한 기능을 추가하였으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일게임\",\n      \"weight\": 0.92,\n      \"direction\": null,\n      \"evidence\": \"게임 | 모바일게임 |  2,607,477 | 91.97\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"온라인게임\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"온라인게임 |  40,642 | 1.43\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"구글\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 최종 매출처는 다수의 모바일 게임 사용자이며, 모바일 시장의 특성상 이와 같은 모바일 게임서비스는 대부분 글로벌 마켓사인 구글, 애플 등을 통해 제공/결제되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"애플\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"모바일 시장의 특성상 이와 같은 모바일 게임서비스는 대부분 글로벌 마켓사인 구글, 애플 등을 통해 제공/결제되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2. 대상지 | 경기도 과천시 갈현동 일원(지식정보타운 지식9 용지)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결실체의 기능통화인 원화 외의 통화로 표시되는 매출, 구매에 대해 환위험에 노출되어 있습니다. 이러한 거래들이 표시되는 주된 통화는 USD, EUR, CAD, JPY 등입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율 위험은 시장금리 변동으로 인한 재무상태표 항목의 가치변동(공정가치) 위험과 투자 및 재무활동으로부터 발생하는 현금흐름(이자수익 및 비용)이 변동될 위험을 의미합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스마트폰 보급으로 모바일 게임 시장이 성장한 이후 모바일 게임은 타 플랫폼 기반의 게임 대비 유저의 접근과 이탈이 용이하여 게임의 PLC가 상대적으로 짧다고 평가되어 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캐주얼 게임\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"RPG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 다양한 IP를 활용한 게임들을 서비스하고 있으며, 장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MMORPG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"장르 또한 캐주얼, RPG, MMORPG 등 다변화된 장르에서 매출이 발생하는 안정적인 포트폴리오를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MBX 코인\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2022년 자회사 마브렉스㈜를 통해 자체 기축통화 'MBX' 코인을 발행한 후 NFT 마켓플레이스, 토큰 결제 시스템, MBX 월렛 등 다양한 기능을 추가하였으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/251270_20260318001170.txt"
+}

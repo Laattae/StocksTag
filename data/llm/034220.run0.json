@@ -1,0 +1,178 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "OLED 패널",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 OLED, TFT-LCD 등 Display 패널을 생산하고 있으며, 대부분의 제품을 해외로 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TFT-LCD 패널",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 OLED, TFT-LCD 등 Display 패널을 생산하고 있으며, 대부분의 제품을 해외로 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "TV",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "application",
+      "value": "IT 기기",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "application",
+      "value": "모바일",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Global Set Maker",
+      "weight": 0.92,
+      "direction": null,
+      "evidence": "Global Set Maker가 주된 고객으로, 상위 10개 고객사향 매출이 전체 매출의 약 92%를 차지하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Glass",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "반도체류",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "편광판",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유기물",
+      "weight": null,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Backlight",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "파주 | 경기도 파주시 월롱면 엘지로 245 |"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": null,
+      "direction": null,
+      "evidence": "구미 | 경상북도 구미시 3공단 2로 174 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대만",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": null,
+      "direction": null,
+      "evidence": "미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내 및 중국, 베트남에 생산 법인을 갖고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "패널 가격",
+      "weight": null,
+      "direction": 1,
+      "evidence": "대규모 투자를 수반하는 특성상 수요와 공급의 불균형 발생 시 패널 가격의 등락과 이로 인한 수익의 변동성이 나타나 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": 1,
+      "evidence": "또한, 당사는 해외 판매 비중이 높아 매출은 주로 미 달러화, 원재료 구매는 미 달러화, 엔화 및 위안화로 이루어지고 있어 환율 변동에 따라 영업 실적이 변동될 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 패널\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 OLED, TFT-LCD 등 Display 패널을 생산하고 있으며, 대부분의 제품을 해외로 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TFT-LCD 패널\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 OLED, TFT-LCD 등 Display 패널을 생산하고 있으며, 대부분의 제품을 해외로 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"TV\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"IT 기기\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모바일\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"'25년 연간 누적 기준 자사 주요 판매 제품군 별 매출 비중은 TV 19%, IT 37%, Mobile 및 기타 부분이 36%, Auto 8%입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Global Set Maker\",\n      \"weight\": 0.92,\n      \"direction\": null,\n      \"evidence\": \"Global Set Maker가 주된 고객으로, 상위 10개 고객사향 매출이 전체 매출의 약 92%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Glass\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"반도체류\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"편광판\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유기물\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Backlight\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"Display 패널 생산을 위한 주요 원재료는 Glass, 반도체류, 편광판, 유기물, Backlight, PCB 등이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"파주 | 경기도 파주시 월롱면 엘지로 245 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"구미 | 경상북도 구미시 3공단 2로 174 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대만\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"미국, 독일, 일본, 대만, 중국 및 싱가포르 등의 지역에 판매 법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"국내 및 중국, 베트남에 생산 법인을 갖고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"패널 가격\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"대규모 투자를 수반하는 특성상 수요와 공급의 불균형 발생 시 패널 가격의 등락과 이로 인한 수익의 변동성이 나타나 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"또한, 당사는 해외 판매 비중이 높아 매출은 주로 미 달러화, 원재료 구매는 미 달러화, 엔화 및 위안화로 이루어지고 있어 환율 변동에 따라 영업 실적이 변동될 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/034220_20260311003822.txt"
+}

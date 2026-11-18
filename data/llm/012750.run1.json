@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "물리보안 서비스",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "물리보안 서비스, 디지털보안, 이동체보안 등"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 서비스",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "부동산 서비스 827,316 28.62%"
+    },
+    {
+      "axis": "product",
+      "value": "통합보안",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "통합보안 511,686 17.71%"
+    },
+    {
+      "axis": "product",
+      "value": "보안SI",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "보안SI 342,202 11.84%"
+    },
+    {
+      "axis": "product",
+      "value": "보안상품",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "보안상품 115,854 4.01%"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 기존 건물관리 서비스를 넘어 시설 운영과 비즈니스 지원 업무까지 통합 관리하는 IFM(Integrated Facility Management) 솔루션을 확대하는 한편, 데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트팩토리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 기존 건물관리 서비스를 넘어 시설 운영과 비즈니스 지원 업무까지 통합 관리하는 IFM(Integrated Facility Management) 솔루션을 확대하는 한편, 데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기존 방범·출동 서비스를 넘어 세대별 맞춤형 보안 솔루션으로 가정용 시장을 개척하고 있으며, 특히 2025년 삼성전자와 협업한 지능형 홈 보안 상품 ‘삼성 AI 도어캠’을 출시하여 주거 보안 분야의 경쟁력을 한층 강화하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "수원사옥 경기도 수원시 팔달구 경수대로 522 관제센터 등"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인재개발원 충청남도 천안시 동남구 북면 양곡1길 262 교육 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "부동산 서비스 사업은 내수 중심의 사업 특성상 건설경기 변동의 영향을 받으나, 주로 1~3년 단위의 장기 계약 체결을 통해 경기 변동에 따른 실적 변동성을 최소화하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"물리보안 서비스\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"물리보안 서비스, 디지털보안, 이동체보안 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 서비스\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"부동산 서비스 827,316 28.62%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"통합보안\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"통합보안 511,686 17.71%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안SI\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"보안SI 342,202 11.84%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보안상품\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"보안상품 115,854 4.01%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 기존 건물관리 서비스를 넘어 시설 운영과 비즈니스 지원 업무까지 통합 관리하는 IFM(Integrated Facility Management) 솔루션을 확대하는 한편, 데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트팩토리\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 기존 건물관리 서비스를 넘어 시설 운영과 비즈니스 지원 업무까지 통합 관리하는 IFM(Integrated Facility Management) 솔루션을 확대하는 한편, 데이터센터 및 스마트팩토리와 같은 고부가가치 산업용 부동산 시장으로 사업 영역을 지속적으로 확장해 나갈 방침입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기존 방범·출동 서비스를 넘어 세대별 맞춤형 보안 솔루션으로 가정용 시장을 개척하고 있으며, 특히 2025년 삼성전자와 협업한 지능형 홈 보안 상품 ‘삼성 AI 도어캠’을 출시하여 주거 보안 분야의 경쟁력을 한층 강화하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"수원사옥 경기도 수원시 팔달구 경수대로 522 관제센터 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인재개발원 충청남도 천안시 동남구 북면 양곡1길 262 교육 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"부동산 서비스 사업은 내수 중심의 사업 특성상 건설경기 변동의 영향을 받으나, 주로 1~3년 단위의 장기 계약 체결을 통해 경기 변동에 따른 실적 변동성을 최소화하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/012750_20260311004583.txt"
+}

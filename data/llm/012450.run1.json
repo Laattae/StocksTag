@@ -1,0 +1,250 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "가스터빈엔진",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "가스터빈엔진 및 엔진부품ㆍ정비, 항공기계 등"
+    },
+    {
+      "axis": "product",
+      "value": "자주포",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등"
+    },
+    {
+      "axis": "product",
+      "value": "장갑차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등"
+    },
+    {
+      "axis": "product",
+      "value": "LNGC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LNGC, LPGC, VLCC, 해상철구조물, FPSOㆍFLNG, 화공 및 발전시설, 기타 에너지, 서비스 제공 등"
+    },
+    {
+      "axis": "product",
+      "value": "VLCC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LNGC, LPGC, VLCC, 해상철구조물, FPSOㆍFLNG, 화공 및 발전시설, 기타 에너지, 서비스 제공 등"
+    },
+    {
+      "axis": "product",
+      "value": "위성시스템",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우주발사체 체계종합, 위성 추진 시스템, 위성시스템, 전자광학카메라, 위성지상국, 위성영상판매, 위성영상 데이터 분석 등"
+    },
+    {
+      "axis": "application",
+      "value": "항공기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "군수 및 민간용 항공기 엔진, 엔진부품, 항공 및 발사체의 연료, 유압, 구동 및 전기시스템 분야 등"
+    },
+    {
+      "axis": "application",
+      "value": "군수장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등"
+    },
+    {
+      "axis": "application",
+      "value": "해운",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LNGㆍLPGㆍ포장(Container) 화물운반, 원유ㆍ액체 화학제품 운반, 부유식 원유 및 가스 생산ㆍ저장ㆍ하역설비, 고정식 원유 생산설비, 시추설비, 해상풍력발전기 설치선, 해군 함정, 화공 및 발전시설 건설, 해상화물운송 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "선박 건조 등에 필요한 철판 제품은 포스코, 현대제철 등 국내제철소와 일본 및 중국에서 매입하고 있고 선박 주요 부품인 엔진은 HD현대중공업, 한화엔진㈜ 등으로부터 매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "기자재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "의장재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "강재, 기자재, 의장재 등"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "창원1사업장 | 경상남도 창원시 성산구 창원대로 1204"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "아산사업장 | 충청남도 아산시 둔포면 아산밸리남로 144"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대전사업장 | 대전 유성구 외삼로 8번길 99"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Hanwha Aero Engines Company Limited | 베트남 하노이"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "EBTEC Corporation(주1) | 미국 코네티컷"
+    },
+    {
+      "axis": "exposure",
+      "value": "국방예산",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 및 당사의 연결 종속회사는 여러 활동으로 인하여 시장위험(환위험, 이자율위험등), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위성",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "인공위성은 상이한 기능의 다수 부품이 사용되는 복잡한 시스템으로 지구관측위성의 경우 탑재체와 자세제어 성능, 시스템 기술 등이 중요하기 때문에 위성 카메라, 고정밀 자세제어 부품과 소프트웨어 등이 핵심부품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "항공기 엔진",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "한화에어로스페이스㈜ 항공부문은 대한민국 유일의 가스터빈 엔진 제작 기업으로서 항공기 엔진의 개발, 생산 및 정비에 특화된 첨단 기계 산업의 리더로 자리매김하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "잠수함",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수선 사업의 경우, 한화오션㈜의 독자적인 기술로 개발된 국내 최대규모의 3천톤급 잠수함 도산안창호함에 이어 더욱 향상된 성능의 최신 장보고-III급 잠수함 3척 전량을 연속 건조중에 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "선박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "한화오션㈜는 LNG 운반선, 초대형 원유 운반선, 초대형 가스 운반선, 컨테이너선 뿐만 아니라 상선 전체 제품분야에서 세계 최고의 기술력과 경쟁력을 갖추고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "유도무기",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "화력, 기동, 대공, 유도, 레이저, 무인체계분야 등에서 최상의 기술력과 제품경쟁력을 확보한 종합 방산업체로서"
+    },
+    {
+      "axis": "product",
+      "value": "우주 발사체",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며 이러한 독보적인 경쟁력을 평가받아 한국형발사체(누리호) 고도화사업 및 차세대발사체 개발사업 발사체 총괄 주관 제작 사업의 단독 사업자로 선정되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "GE",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "엔진부품사업에서는 GE, P&W, 롤스로이스 등과의 엔진부품 공급계약 및 RSP 사업을 차질없이 진행함은 물론"
+    },
+    {
+      "axis": "customer",
+      "value": "대한민국 해군",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "또한 최신예 호위함 울산급 Batch-III & Batch-IV 및 잠수함구조함을 설계ㆍ건조하는 등 대한민국 해군력을 상징하는 잠수함과 수상함 분야 사업 영위를 통하여 국가 방위사업과 대한민국 해군의 위상을 높이는데 크게 기여하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국항공우주연구원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내 위성산업은 주로 정부 주도 형태로 진행되고 있고 운영 목적에 따라 민간 수요 목적으로는 우주항공청 산하 한국항공우주연구원이, 군 감시정찰 목적으로는 국방부 산하 국방과학연구소가 주관하면서 당사를 포함한 민간기업이 위성시스템 개발 프로그램에 참여하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내 위성산업은 주로 정부 주도 형태로 진행되고 있고 운영 목적에 따라 민간 수요 목적으로는 우주항공청 산하 한국항공우주연구원이, 군 감시정찰 목적으로는 국방부 산하 국방과학연구소가 주관하면서 당사를 포함한 민간기업이 위성시스템 개발 프로그램에 참여하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 창원1사업장, 창원2사업장, 창원3사업장은 환경경영시스템 국제규격인 ISO14001을 구축, 인증, 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "베트남 엔진부품 신공장을 가동하여 항공기 엔진 글로벌 파트너사로서의 입지를 확고히 하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한화오션㈜는 2023년 신성장동력 사업 진출 및 확보를 위해 미주 지역에 Hanwha Ocean USA Holdings Corp. 설립한 바 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "위성데이터 수요",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "반면 과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환경규제",
+      "weight": 0.65,
+      "direction": 1,
+      "evidence": "이에 국제해사기구(IMO) 및 유럽연합(EU) 등 국제사회는 2050 탄소중립(Net-Zero)을 목표로 환경규제를 강화하고 있습니다. 한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한 차별화된 탈탄소 기술을 개발하고"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈엔진\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"가스터빈엔진 및 엔진부품ㆍ정비, 항공기계 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자주포\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장갑차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNGC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LNGC, LPGC, VLCC, 해상철구조물, FPSOㆍFLNG, 화공 및 발전시설, 기타 에너지, 서비스 제공 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"VLCC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LNGC, LPGC, VLCC, 해상철구조물, FPSOㆍFLNG, 화공 및 발전시설, 기타 에너지, 서비스 제공 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성시스템\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우주발사체 체계종합, 위성 추진 시스템, 위성시스템, 전자광학카메라, 위성지상국, 위성영상판매, 위성영상 데이터 분석 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"군수 및 민간용 항공기 엔진, 엔진부품, 항공 및 발사체의 연료, 유압, 구동 및 전기시스템 분야 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"군수장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자주포, 장갑차, 발사대, 지상무기체계, 해양무기체계, 항공우주체계, 정밀유도무기, 재래식 화약, 레이저, 종합군수지원 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"LNGㆍLPGㆍ포장(Container) 화물운반, 원유ㆍ액체 화학제품 운반, 부유식 원유 및 가스 생산ㆍ저장ㆍ하역설비, 고정식 원유 생산설비, 시추설비, 해상풍력발전기 설치선, 해군 함정, 화공 및 발전시설 건설, 해상화물운송 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"선박 건조 등에 필요한 철판 제품은 포스코, 현대제철 등 국내제철소와 일본 및 중국에서 매입하고 있고 선박 주요 부품인 엔진은 HD현대중공업, 한화엔진㈜ 등으로부터 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기자재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"의장재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"강재, 기자재, 의장재 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"창원1사업장 | 경상남도 창원시 성산구 창원대로 1204\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"아산사업장 | 충청남도 아산시 둔포면 아산밸리남로 144\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대전사업장 | 대전 유성구 외삼로 8번길 99\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Hanwha Aero Engines Company Limited | 베트남 하노이\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"EBTEC Corporation(주1) | 미국 코네티컷\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국방예산\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"국내 시장의 경우 2026년 국방예산은 2025년 대비 7.5% 증가한 65조 8,642억원으로 반영되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 및 당사의 연결 종속회사는 여러 활동으로 인하여 시장위험(환위험, 이자율위험등), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"인공위성은 상이한 기능의 다수 부품이 사용되는 복잡한 시스템으로 지구관측위성의 경우 탑재체와 자세제어 성능, 시스템 기술 등이 중요하기 때문에 위성 카메라, 고정밀 자세제어 부품과 소프트웨어 등이 핵심부품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항공기 엔진\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"한화에어로스페이스㈜ 항공부문은 대한민국 유일의 가스터빈 엔진 제작 기업으로서 항공기 엔진의 개발, 생산 및 정비에 특화된 첨단 기계 산업의 리더로 자리매김하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"잠수함\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수선 사업의 경우, 한화오션㈜의 독자적인 기술로 개발된 국내 최대규모의 3천톤급 잠수함 도산안창호함에 이어 더욱 향상된 성능의 최신 장보고-III급 잠수함 3척 전량을 연속 건조중에 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선박\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"한화오션㈜는 LNG 운반선, 초대형 원유 운반선, 초대형 가스 운반선, 컨테이너선 뿐만 아니라 상선 전체 제품분야에서 세계 최고의 기술력과 경쟁력을 갖추고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유도무기\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"화력, 기동, 대공, 유도, 레이저, 무인체계분야 등에서 최상의 기술력과 제품경쟁력을 확보한 종합 방산업체로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"우주 발사체\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"누리호 사업에도 발사체의 성능을 좌우하는 엔진을 비롯, 주요 핵심부품 및 서브시스템을 공급하였으며 이러한 독보적인 경쟁력을 평가받아 한국형발사체(누리호) 고도화사업 및 차세대발사체 개발사업 발사체 총괄 주관 제작 사업의 단독 사업자로 선정되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GE\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"엔진부품사업에서는 GE, P&W, 롤스로이스 등과의 엔진부품 공급계약 및 RSP 사업을 차질없이 진행함은 물론\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대한민국 해군\",\n      \"weight\": 0.65,\n      \"direction\": null,\n      \"evidence\": \"또한 최신예 호위함 울산급 Batch-III & Batch-IV 및 잠수함구조함을 설계ㆍ건조하는 등 대한민국 해군력을 상징하는 잠수함과 수상함 분야 사업 영위를 통하여 국가 방위사업과 대한민국 해군의 위상을 높이는데 크게 기여하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국항공우주연구원\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내 위성산업은 주로 정부 주도 형태로 진행되고 있고 운영 목적에 따라 민간 수요 목적으로는 우주항공청 산하 한국항공우주연구원이, 군 감시정찰 목적으로는 국방부 산하 국방과학연구소가 주관하면서 당사를 포함한 민간기업이 위성시스템 개발 프로그램에 참여하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방과학연구소\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국내 위성산업은 주로 정부 주도 형태로 진행되고 있고 운영 목적에 따라 민간 수요 목적으로는 우주항공청 산하 한국항공우주연구원이, 군 감시정찰 목적으로는 국방부 산하 국방과학연구소가 주관하면서 당사를 포함한 민간기업이 위성시스템 개발 프로그램에 참여하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 창원1사업장, 창원2사업장, 창원3사업장은 환경경영시스템 국제규격인 ISO14001을 구축, 인증, 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"베트남 엔진부품 신공장을 가동하여 항공기 엔진 글로벌 파트너사로서의 입지를 확고히 하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"한화오션㈜는 2023년 신성장동력 사업 진출 및 확보를 위해 미주 지역에 Hanwha Ocean USA Holdings Corp. 설립한 바 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"위성데이터 수요\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"반면 과학, 국방, ESG 및 통신 등 미래 신사업 등 폭발적으로 늘어나고 있는 위성데이터 수요로 인하여 발사 니즈는 급격하게 늘어나고 있는 추세입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경규제\",\n      \"weight\": 0.65,\n      \"direction\": 1,\n      \"evidence\": \"이에 국제해사기구(IMO) 및 유럽연합(EU) 등 국제사회는 2050 탄소중립(Net-Zero)을 목표로 환경규제를 강화하고 있습니다. 한화에어로스페이스㈜는 이러한 환경규제라는 위기를 장애가 아닌 경쟁력 전환 및 가치 창출의 기회로 활용하기 위한 차별화된 탈탄소 기술을 개발하고\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/012450_20260316001112.txt"
+}

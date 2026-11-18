@@ -1,0 +1,157 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동차부품",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "1977년 설립된 주식회사 성우하이텍은 자동차부품 생산을 중점사업으로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Bumper rail",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 생산하여 현대자동차에 납품하는 Bumper rail은 경쟁사가 없으며 거의 독점적인 위치를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Dash law",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그외의 주력제품인 Dash law와 Side member을 포함한 매출은 자동차 차체부품시장의 20%이상의 점유율을 보이고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Side member",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그외의 주력제품인 Dash law와 Side member을 포함한 매출은 자동차 차체부품시장의 20%이상의 점유율을 보이고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기차 배터리시스템(BSA)",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전기차 배터리시스템(BSA), 수소저장장치, 열화상 감지카메라, 라이다 등의 신기술 개발을 위한 끊임없는 혁신을 통해"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 자동차부품 제조업으로 생산품목은 주로 자동차차체 관련 부품입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기차 배터리시스템(BSA), 수소저장장치, 열화상 감지카메라, 라이다 등의 신기술 개발을 위한 끊임없는 혁신을 통해"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "기아자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "한국GM",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며"
+    },
+    {
+      "axis": "customer",
+      "value": "VW",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외현지법인을 통하여 VW(폭스바겐), BMW, GM등에도 자동차부품을 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "BMW",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "해외현지법인을 통하여 VW(폭스바겐), BMW, GM등에도 자동차부품을 공급하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철판",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "제품 생산을 위한 철판 및 주요자원은 완성차 업체인 고객사 (현대자동차(주) 등) 들로부터 안정적으로 공급받고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "페인트",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "철판 및 페인트 프레스 가공물 및 기타부재료"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본 보고서 작성기준일 현재 지역별 원,부재료 등의 생산투입 현황은 다음과 같습니다. ... 국내"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국 | 195,527,579"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "인도 | 370,648,409"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "따라서 국제 원재료 가격 변동 및 환율등에 따라 매입단가에 영향이 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "따라서 국제 원재료 가격 변동 및 환율등에 따라 매입단가에 영향이 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "높은 금리 수준에 따른 자동차 금융 부담 지속, 일부 국가의 전기차 보조금 축소 및 전기차 수요 성장세 조정 등의 영향으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "자동차 수요",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "자동차 수요는 경기침체가 지속되는 경우 구매력 감소와 더불어 소형차 중심의 구매패턴을 보이는 반면, 경기 회복기에는"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차부품\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"1977년 설립된 주식회사 성우하이텍은 자동차부품 생산을 중점사업으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Bumper rail\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 생산하여 현대자동차에 납품하는 Bumper rail은 경쟁사가 없으며 거의 독점적인 위치를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Dash law\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그외의 주력제품인 Dash law와 Side member을 포함한 매출은 자동차 차체부품시장의 20%이상의 점유율을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Side member\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그외의 주력제품인 Dash law와 Side member을 포함한 매출은 자동차 차체부품시장의 20%이상의 점유율을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기차 배터리시스템(BSA)\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전기차 배터리시스템(BSA), 수소저장장치, 열화상 감지카메라, 라이다 등의 신기술 개발을 위한 끊임없는 혁신을 통해\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 자동차부품 제조업으로 생산품목은 주로 자동차차체 관련 부품입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전기차 배터리시스템(BSA), 수소저장장치, 열화상 감지카메라, 라이다 등의 신기술 개발을 위한 끊임없는 혁신을 통해\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기아자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국GM\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 매출처로는 현대자동차, 기아자동차, 한국GM 등이며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"VW\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외현지법인을 통하여 VW(폭스바겐), BMW, GM등에도 자동차부품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"BMW\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"해외현지법인을 통하여 VW(폭스바겐), BMW, GM등에도 자동차부품을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철판\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"제품 생산을 위한 철판 및 주요자원은 완성차 업체인 고객사 (현대자동차(주) 등) 들로부터 안정적으로 공급받고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"페인트\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"철판 및 페인트 프레스 가공물 및 기타부재료\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"본 보고서 작성기준일 현재 지역별 원,부재료 등의 생산투입 현황은 다음과 같습니다. ... 국내\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"중국 | 195,527,579\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"인도 | 370,648,409\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"따라서 국제 원재료 가격 변동 및 환율등에 따라 매입단가에 영향이 발생합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"따라서 국제 원재료 가격 변동 및 환율등에 따라 매입단가에 영향이 발생합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"높은 금리 수준에 따른 자동차 금융 부담 지속, 일부 국가의 전기차 보조금 축소 및 전기차 수요 성장세 조정 등의 영향으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"자동차 수요\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"자동차 수요는 경기침체가 지속되는 경우 구매력 감소와 더불어 소형차 중심의 구매패턴을 보이는 반면, 경기 회복기에는\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/015750_20260319000729.txt"
+}

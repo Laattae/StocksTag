@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LCD식각액첨가제",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로"
+    },
+    {
+      "axis": "product",
+      "value": "전해액첨가제",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "OLED소재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "OLED는 3원색(적색, 녹색, 청색)의 소자를 일정한 간격으로 패널에 수평 배치한 RGB 방식으로"
+    },
+    {
+      "axis": "product",
+      "value": "의약품중간체",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "의약품 중간체는 최종 제품인 의약품원제를 생산하기 위한 중간 단계의 유기화학물로, 당사는 결핵치료제, 당뇨병치료제 등 각종 약품의 중간체를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "유리강화제",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 화학 제품을 사용하여 유리의 강도를 높인 강화유리(Chemically strengthened glass)및 타이어 제조에 사용되는 화합물 등과 같이 특수 용도로 사용되는 질산 칼륨(Potassium nitrate)과 질산 리튬(Lithium nitrate) 등 고부가가치의 정밀화학 소재 제품을 생산 공급합니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "반도체공정소재는 반도체 제조공정에서 초미세 선폭의 패턴을 구현하는데 정확성을 제고하는 역할을 담당"
+    },
+    {
+      "axis": "application",
+      "value": "리튬 2차전지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충청북도 충주시 주덕읍 중원산업로 312충청북도 충주시 주덕읍 중원산업로 163"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전라북도 군산시 오식도동 1070"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당사는 제품 수출 및 원재료 수입 거래와 관련하여 USD 등의 환율변동위험에 노출되어 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "당사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "주요 제품의 원재료 가격변동에 따라 판매가격을 조정하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LCD식각액첨가제\",\n      \"weight\": 0.38,\n      \"direction\": null,\n      \"evidence\": \"LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전해액첨가제\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED소재\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"OLED는 3원색(적색, 녹색, 청색)의 소자를 일정한 간격으로 패널에 수평 배치한 RGB 방식으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품중간체\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"의약품 중간체는 최종 제품인 의약품원제를 생산하기 위한 중간 단계의 유기화학물로, 당사는 결핵치료제, 당뇨병치료제 등 각종 약품의 중간체를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리강화제\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사는 화학 제품을 사용하여 유리의 강도를 높인 강화유리(Chemically strengthened glass)및 타이어 제조에 사용되는 화합물 등과 같이 특수 용도로 사용되는 질산 칼륨(Potassium nitrate)과 질산 리튬(Lithium nitrate) 등 고부가가치의 정밀화학 소재 제품을 생산 공급합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"LCD식각액첨가제는 디스플레이 패널 제조공정 중 식각 공정에 사용되는 액상정밀화학제품으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"반도체공정소재는 반도체 제조공정에서 초미세 선폭의 패턴을 구현하는데 정확성을 제고하는 역할을 담당\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"리튬 2차전지\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2013년 2차전지소재 연구개발을 시작하여 SN, DPN 및 AN 등의 다양한 리튬 2차전지 전해액 첨가제를 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충청북도 충주시 주덕읍 중원산업로 312충청북도 충주시 주덕읍 중원산업로 163\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전라북도 군산시 오식도동 1070\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당사는 제품 수출 및 원재료 수입 거래와 관련하여 USD 등의 환율변동위험에 노출되어 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"당사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"주요 제품의 원재료 가격변동에 따라 판매가격을 조정하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/278280_20260316001138.txt"
+}

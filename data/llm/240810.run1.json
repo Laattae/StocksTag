@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 제조 장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체 제조 장비 | PECVD, ALD, Diffusion Thermal System 등"
+    },
+    {
+      "axis": "product",
+      "value": "Display 제조 장비",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Display 제조 장비 | Dry Etcher, PECVD, LTPS Furnace, PI Curing 등"
+    },
+    {
+      "axis": "product",
+      "value": "Solar Cell 제조 장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Solar Cell 제조 장비 | RIE Etcher 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "HEATER",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "HEATER | 43,219 | 9.78%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "POWER SUPPLIES",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "POWER SUPPLIES | 17,522 | 3.97%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "TM MODULE",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "TM MODULE | 16,668 | 3.77%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MFC",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "MFC | 10,428 | 2.36%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "경기도 평택시 진위면 진위산단로 75 | 본사/R&D 통합센터"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "충청남도 아산시 둔포면 아산밸리중앙로 123 | 생산(디스플레이)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "환위험은 환율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험을 의미합니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"반도체 제조 장비\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"반도체 제조 장비 | PECVD, ALD, Diffusion Thermal System 등\"}, {\"axis\": \"product\", \"value\": \"Display 제조 장비\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"Display 제조 장비 | Dry Etcher, PECVD, LTPS Furnace, PI Curing 등\"}, {\"axis\": \"product\", \"value\": \"Solar Cell 제조 장비\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"Solar Cell 제조 장비 | RIE Etcher 등\"}, {\"axis\": \"raw_material\", \"value\": \"HEATER\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"HEATER | 43,219 | 9.78%\"}, {\"axis\": \"raw_material\", \"value\": \"POWER SUPPLIES\", \"weight\": 0.04, \"direction\": null, \"evidence\": \"POWER SUPPLIES | 17,522 | 3.97%\"}, {\"axis\": \"raw_material\", \"value\": \"TM MODULE\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"TM MODULE | 16,668 | 3.77%\"}, {\"axis\": \"raw_material\", \"value\": \"MFC\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"MFC | 10,428 | 2.36%\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"경기도 평택시 진위면 진위산단로 75 | 본사/R&D 통합센터\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": null, \"direction\": null, \"evidence\": \"충청남도 아산시 둔포면 아산밸리중앙로 123 | 생산(디스플레이)\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": -1, \"evidence\": \"환위험은 환율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험을 의미합니다.\"}]}"
+  ],
+  "text_path": "data/reports/240810_20260316001453.txt"
+}

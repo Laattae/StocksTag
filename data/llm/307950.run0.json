@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "IT시스템 운영 및 관리",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "IT시스템 운영 및 관리 등 | 1,767,173,268 | 41.56%"
+    },
+    {
+      "axis": "product",
+      "value": "IT컨설팅 및 시스템 설계",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "IT컨설팅, 시스템 설계 및 개발 등 | 1,657,192,189 | 38.97%"
+    },
+    {
+      "axis": "product",
+      "value": "차량 SW 플랫폼 및 내비게이션 SW",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "차량 SW 플랫폼, 내비게이션SW 등 | 827,701,804 | 19.47%"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "현재는 전동화, 샤시를 포함해 차량 全 도메인으로 확대 적용 중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "차량 SW 플랫폼 사업은 자율주행 및 커넥티비티 등 미래 자동차분야에 적용되는"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당기와 전기 중 중대한 영향력을 행사하는 기업인 현대자동차(주)를 포함한 계열회사에 대한 매출액은"
+    },
+    {
+      "axis": "customer",
+      "value": "기아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현대자동차/기아의 경우에는 의왕/광주가 주 센터로 파주센터에서 백업센터 역할을 하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기도 파주시 조리읍에 위치한 파주 데이터센터는"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "광주시 광산구 진곡산단 중앙로에 위치한 광주 데이터센터는"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 여러 활동으로 인하여 시장위험(외환위험), 신용위험 및 유동성 위험과 같은 다양한 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"IT시스템 운영 및 관리\", \"weight\": 0.42, \"direction\": null, \"evidence\": \"IT시스템 운영 및 관리 등 | 1,767,173,268 | 41.56%\"}, {\"axis\": \"product\", \"value\": \"IT컨설팅 및 시스템 설계\", \"weight\": 0.39, \"direction\": null, \"evidence\": \"IT컨설팅, 시스템 설계 및 개발 등 | 1,657,192,189 | 38.97%\"}, {\"axis\": \"product\", \"value\": \"차량 SW 플랫폼 및 내비게이션 SW\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"차량 SW 플랫폼, 내비게이션SW 등 | 827,701,804 | 19.47%\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"현재는 전동화, 샤시를 포함해 차량 全 도메인으로 확대 적용 중에 있습니다.\"}, {\"axis\": \"application\", \"value\": \"자율주행\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"차량 SW 플랫폼 사업은 자율주행 및 커넥티비티 등 미래 자동차분야에 적용되는\"}, {\"axis\": \"customer\", \"value\": \"현대자동차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당기와 전기 중 중대한 영향력을 행사하는 기업인 현대자동차(주)를 포함한 계열회사에 대한 매출액은\"}, {\"axis\": \"customer\", \"value\": \"기아\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"현대자동차/기아의 경우에는 의왕/광주가 주 센터로 파주센터에서 백업센터 역할을 하고 있으며\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"경기도 파주시 조리읍에 위치한 파주 데이터센터는\"}, {\"axis\": \"region\", \"value\": \"광주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"광주시 광산구 진곡산단 중앙로에 위치한 광주 데이터센터는\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 여러 활동으로 인하여 시장위험(외환위험), 신용위험 및 유동성 위험과 같은 다양한 위험에 노출되어 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/307950_20260318001324.txt"
+}

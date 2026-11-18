@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "SSD 테스터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "번인 테스터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사의 주요 사업군인 SSD Tester 및 MBT(Monitoring Burn-in Tester)가 속한 후공정 검사장비 시장은 글로벌 반도체 공급망에서 매우 중요한 역할을 담당하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "CXL 메모리 검사장비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2023년 세계 최초로 CXL 1.1 메모리 검사장비 상용화 성공, 2024년 7월 CXL 2.0 검사장비 초도 납품 완료 이후 글로벌 CXL 제조사들로부터 지속적인 수주를 확보하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "현재의 메모리반도체 시장은 AI 서버 중심의 폭발적인 수요 증가로 인해 DRAM 및 HBM을 중심으로 강한 호황이 지속되고 있는 상황입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 데이터센터 확장과 클라우드 인프라 증가에 따라 서버용 메모리의 탑재량이 구조적으로 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "클라우드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 빅테크의 AI 인프라 확장과 클라우드 서비스의 급증으로 데이터센터 메모리 탑재량은 중장기적으로 증가하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "SOCKET",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일부 품목의 경우(SOCKET이나 CABLE의 경우)에도 종류가 다양하여 해당 품목의 대표적인 종류에 대해서만 기재하고 다른 종류에 대해서는 기타로 기재하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "CABLE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일부 품목의 경우(SOCKET이나 CABLE의 경우)에도 종류가 다양하여 해당 품목의 대표적인 종류에 대해서만 기재하고 다른 종류에 대해서는 기타로 기재하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "경기도 안양, 의왕"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "당기와 전기 중 현재 다른 모든 변수가 일정하고 외화에 대한 원화의 환율 10% 변동 시 연결회사의 세후 이익 및 자본에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": 1,
+      "evidence": "당기와 전기 중 다른 모든 변수가 일정하고 이자율의 10bp 변동시 연결회사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"SSD 테스터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"번인 테스터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 사업군인 SSD Tester 및 MBT(Monitoring Burn-in Tester)가 속한 후공정 검사장비 시장은 글로벌 반도체 공급망에서 매우 중요한 역할을 담당하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CXL 메모리 검사장비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2023년 세계 최초로 CXL 1.1 메모리 검사장비 상용화 성공, 2024년 7월 CXL 2.0 검사장비 초도 납품 완료 이후 글로벌 CXL 제조사들로부터 지속적인 수주를 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"현재의 메모리반도체 시장은 AI 서버 중심의 폭발적인 수요 증가로 인해 DRAM 및 HBM을 중심으로 강한 호황이 지속되고 있는 상황입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한 데이터센터 확장과 클라우드 인프라 증가에 따라 서버용 메모리의 탑재량이 구조적으로 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"클라우드\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한 빅테크의 AI 인프라 확장과 클라우드 서비스의 급증으로 데이터센터 메모리 탑재량은 중장기적으로 증가하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SOCKET\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일부 품목의 경우(SOCKET이나 CABLE의 경우)에도 종류가 다양하여 해당 품목의 대표적인 종류에 대해서만 기재하고 다른 종류에 대해서는 기타로 기재하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"CABLE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일부 품목의 경우(SOCKET이나 CABLE의 경우)에도 종류가 다양하여 해당 품목의 대표적인 종류에 대해서만 기재하고 다른 종류에 대해서는 기타로 기재하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"경기도 안양, 의왕\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"당기와 전기 중 현재 다른 모든 변수가 일정하고 외화에 대한 원화의 환율 10% 변동 시 연결회사의 세후 이익 및 자본에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.4,\n      \"direction\": 1,\n      \"evidence\": \"당기와 전기 중 다른 모든 변수가 일정하고 이자율의 10bp 변동시 연결회사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/253590_20260318000748.txt"
+}

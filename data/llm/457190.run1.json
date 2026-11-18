@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "황화리튬",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "황화리튬(Li2S)은 전고체배터리에 사용되는 황화물계 고체전해질의 핵심 원료이며"
+    },
+    {
+      "axis": "product",
+      "value": "TDM",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "TDM, NOM, NDM은 ABS, SBR, SB-Latex, PMMA 등의 주요 원료로 국내에서 유일하게 생산하며"
+    },
+    {
+      "axis": "product",
+      "value": "IPA",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "IPA는 페인트 및 잉크 용제 및 세정제로 사용되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Solvent",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Special Solvent 부문은 불순물이 거의 없고 저취용제로써 작업 안정성이 우수한 다양한 Grade의 Solvent를 생산하여"
+    },
+    {
+      "axis": "application",
+      "value": "전고체전지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "황화리튬(Li2S)은 전고체배터리에 사용되는 황화물계 고체전해질의 핵심 원료이며"
+    },
+    {
+      "axis": "customer",
+      "value": "에코프로비엠",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 황화리튬에 대한 선제적 수요 확보를 위해 2022년 4월 에코프로비엠, 6월 美 Solid Power 및 8월에 희성촉매와의 업무협약(MOU)을 체결"
+    },
+    {
+      "axis": "customer",
+      "value": "Solid Power",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 황화리튬에 대한 선제적 수요 확보를 위해 2022년 4월 에코프로비엠, 6월 美 Solid Power 및 8월에 희성촉매와의 업무협약(MOU)을 체결"
+    },
+    {
+      "axis": "customer",
+      "value": "롯데에너지머티리얼즈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이어 2024년 2월에는 롯데에너지머티리얼즈, 10월에는 동화일렉트로라이트와 업무협약(MOU)을 체결하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "P-T",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "ACETONE",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Raffinate",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당기말 현재 울산지역 공장과 일본 해외법인, 상해대표처를 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "세계 경제 상황 및 제품별 수급 상황에 영향을 받으며 수출의 비중이 높기 때문에 유가 및 환율 변동과도 밀접한 관련이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "세계 경제 상황 및 제품별 수급 상황에 영향을 받으며 수출의 비중이 높기 때문에 유가 및 환율 변동과도 밀접한 관련이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"황화리튬\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"황화리튬(Li2S)은 전고체배터리에 사용되는 황화물계 고체전해질의 핵심 원료이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TDM\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"TDM, NOM, NDM은 ABS, SBR, SB-Latex, PMMA 등의 주요 원료로 국내에서 유일하게 생산하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IPA\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"IPA는 페인트 및 잉크 용제 및 세정제로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Solvent\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Special Solvent 부문은 불순물이 거의 없고 저취용제로써 작업 안정성이 우수한 다양한 Grade의 Solvent를 생산하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전고체전지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"황화리튬(Li2S)은 전고체배터리에 사용되는 황화물계 고체전해질의 핵심 원료이며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에코프로비엠\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 황화리튬에 대한 선제적 수요 확보를 위해 2022년 4월 에코프로비엠, 6월 美 Solid Power 및 8월에 희성촉매와의 업무협약(MOU)을 체결\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Solid Power\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 황화리튬에 대한 선제적 수요 확보를 위해 2022년 4월 에코프로비엠, 6월 美 Solid Power 및 8월에 희성촉매와의 업무협약(MOU)을 체결\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"롯데에너지머티리얼즈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이어 2024년 2월에는 롯데에너지머티리얼즈, 10월에는 동화일렉트로라이트와 업무협약(MOU)을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"P-T\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"ACETONE\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Raffinate\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"CHEVRON 등에서 Propylene Tetramer를, 금호피앤비화학 등에서 Acetone을, 이수화학(계열회사)에서 Raffinate 등을 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당기말 현재 울산지역 공장과 일본 해외법인, 상해대표처를 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"세계 경제 상황 및 제품별 수급 상황에 영향을 받으며 수출의 비중이 높기 때문에 유가 및 환율 변동과도 밀접한 관련이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"세계 경제 상황 및 제품별 수급 상황에 영향을 받으며 수출의 비중이 높기 때문에 유가 및 환율 변동과도 밀접한 관련이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/457190_20260319001027.txt"
+}

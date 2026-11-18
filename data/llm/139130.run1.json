@@ -1,0 +1,301 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "대출업무",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "iM뱅크는 예금업무, 대출업무, 유가증권 투자업무, 신탁업무, 신용카드업무, 지급보증업무 등을 수행 중입니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금업무",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "iM뱅크는 일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기대출형식으로 자금을 공급하는 업무 외에 카드업무"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "iM라이프생명보험은 생명보험, 상해보험, 질병보험, 연금보험 등 일체의 인보험 계약 및 인보험 재보험계약"
+    },
+    {
+      "axis": "product",
+      "value": "시설대여",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "iM캐피탈은 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업 등의 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "iM캐피탈은 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업 등의 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "본점 소 재 지 : 대구광역시 북구 옥산로 111(칠성동2가)"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원화예수금 | 요구불예금 | 19,910,869 | 19,117,846 | 18,918,679 | 저축성예금 | 35,599,911 | 37,208,474 | 35,503,018"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신용카드업종을 제외한 기타 업종에 대한 진출입이 종래의 인가제에서 등록제로 전환되어"
+    },
+    {
+      "axis": "region",
+      "value": "라오스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "캄보디아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주택담보대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "-주택담보대출 : iM주택담보대출, HYBRID 모기지론, 실버주택연금대출(역모기지론), 장기모기지론, 주택금융공사 U-모기지론(U-보금자리론), 아낌e 보금자리론, 주택도시기금 내집마련 디딤돌대출"
+    },
+    {
+      "axis": "product",
+      "value": "신용대출",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "-신용대출 : BEST전문직신용대출, 새희망홀씨대출, 공직자우대대출, 준공직자우대대출, 공무원가계자금대출, iM공무원융자추천대출, 직장인우대대출, 레이디(Lady-loan)론, 쓰담쓰담 간편대출, FINNQ 비상금대출, iM직장인 간편신용대출, 똑똑딴딴 중금리대출, 닥터론, iM Pay 통장대출 등"
+    },
+    {
+      "axis": "product",
+      "value": "개인신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "-개인신용카드 : iM 트래블 카드,iM K-패스 카드, iM LIVING카드,iM스카이패스V2 Gold, iM 스카이패스V2 Silver, iM i카드, iM UntacT카드, iM 세븐캐쉬백카드, SK OIL & LPG 카드, iM대백카드, iM동아카드, iM레일플러스포인트카드, iM쇼핑카드, iM ONE카드, iM펫러브카드, GREIT카드, iM동아카드, PRESTIGE카드, PRESTIGE+카드, PRESTIGE_PP카드, 국민행복카드, 그린카드, 그린카드V2, 단디카드, 동아스페셜카드, 모바일카드, 부자되세요 아파트카드, 부자되세요 홈쇼핑카드, 우리독도카드, iM올레수퍼DC카드, 아이행복카드, 틱톡카드 등"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생명보험업 | 생명보험 사업과 이에 수반되는 업무 |"
+    },
+    {
+      "axis": "product",
+      "value": "리스금융",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "- 금융리스: 리스자산의 소유에 따른 대부분의 위험과 효익이 리스이용자에게 이전 되는 리스"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "- 고객이 일시불로 구입하기 어려운 내구재 등을 구입할 때 고객의 신용도에 따라 물품구입대금을 판매자에게 대신 납부하여 주고 고객은 일정 기간 동안 할부금을 분할하여 상환하는 방식"
+    },
+    {
+      "axis": "region",
+      "value": "라오스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "캄보디아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "일반은행의 원화 예수금과 원화 대출금이 꾸준한 성장 추세를 보이고 있음을 확인할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예수금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "일반은행의 원화 예수금과 원화 대출금이 꾸준한 성장 추세를 보이고 있음을 확인할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자산운용업은 공모·사모펀드 및 투자일임으로 투자자를 모집하여 펀드의 특성에 맞게 다양한 자산에 운용하여 투자자의 이익을 추구하는 산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "투자일임",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자산운용업은 공모·사모펀드 및 투자일임으로 투자자를 모집하여 펀드의 특성에 맞게 다양한 자산에 운용하여 투자자의 이익을 추구하는 산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "iM라이프생명보험은 2015년 1월 29일자로 iM금융지주의 자회사로 편입되었고보험업법에 따른 생명보험업을 주요 영업목적으로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "여신전문금융업은 시설대여업, 할부금융업, 신기술사업금융업, 신용카드업 등 총 4개 업종이 통합된 금융업종으로"
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "여신전문금융업은 시설대여업, 할부금융업, 신기술사업금융업, 신용카드업 등 총 4개 업종이 통합된 금융업종으로"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "은행이 운영하는 주요 겸영업무는 신탁업, 신용카드업, 파생상품의 매매ㆍ중개업, 투자매매ㆍ중개ㆍ일임업, 보험대리점업 등입니다."
+    },
+    {
+      "axis": "application",
+      "value": "기업금융",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "가계부채 관리를 위한 당국의 보수적 가이드라인이 부담요인이지만, 기업 대출 수요가 이를 상쇄하며 견조한 여신 성장을 뒷받침할 것으로 보입니다."
+    },
+    {
+      "axis": "application",
+      "value": "가계대출",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "가계부채 관리를 위한 당국의 보수적 가이드라인이 부담요인이지만, 기업 대출 수요가 이를 상쇄하며 견조한 여신 성장을 뒷받침할 것으로 보입니다."
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "대구,경북 | 1 | 1 | - | 2"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "대구,경북 | 1 | 1 | - | 2"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "지 역 | 지 점 | 출 장 소 | 사 무 소 | 합 계 | 서 울 | 7 | - | - | 7"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "경 기 | 6 | - | - | 6"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "베트남 | 1 | - | 1 | 2"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "시장금리 하락 여파로 순이자마진(NIM)이 하락했음에도 불구하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국가의 경제환경은 물론 정치, 사회, 문화, 국제관계, 환율, 경기변동 등 다양한 변수요인에 의해 영향을 받기 때문에"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "금리 인상 이후 가계대출 연체율 상승과 부동산 경기 둔화에 따라 업권 전체의 실적이 악화하고 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출업무\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"iM뱅크는 예금업무, 대출업무, 유가증권 투자업무, 신탁업무, 신용카드업무, 지급보증업무 등을 수행 중입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금업무\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"iM뱅크는 일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기대출형식으로 자금을 공급하는 업무 외에 카드업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"iM라이프생명보험은 생명보험, 상해보험, 질병보험, 연금보험 등 일체의 인보험 계약 및 인보험 재보험계약\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시설대여\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"iM캐피탈은 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업 등의 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"iM캐피탈은 여신전문금융업법에 따른 시설대여업, 할부금융업, 신기술사업금융업 등의 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"본점 소 재 지 : 대구광역시 북구 옥산로 111(칠성동2가)\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원화예수금 | 요구불예금 | 19,910,869 | 19,117,846 | 18,918,679 | 저축성예금 | 35,599,911 | 37,208,474 | 35,503,018\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"취급업무별 영업실적(구성비)은 2025년 4분기말 리스 1,738,266백만원(37.87%), 할부금융 150,502백만원(3.28%), 대출 2,700,880백만원(58.85%)을 시현하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신용카드업종을 제외한 기타 업종에 대한 진출입이 종래의 인가제에서 등록제로 전환되어\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"라오스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캄보디아\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"포트폴리오 다변화 및 신 성장동력 확보를 위한 Global사업 진출로 라오스와 캄보디아에는 현지법인, 미얀마에는 대표사무소를 운용하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주택담보대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"-주택담보대출 : iM주택담보대출, HYBRID 모기지론, 실버주택연금대출(역모기지론), 장기모기지론, 주택금융공사 U-모기지론(U-보금자리론), 아낌e 보금자리론, 주택도시기금 내집마련 디딤돌대출\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용대출\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"-신용대출 : BEST전문직신용대출, 새희망홀씨대출, 공직자우대대출, 준공직자우대대출, 공무원가계자금대출, iM공무원융자추천대출, 직장인우대대출, 레이디(Lady-loan)론, 쓰담쓰담 간편대출, FINNQ 비상금대출, iM직장인 간편신용대출, 똑똑딴딴 중금리대출, 닥터론, iM Pay 통장대출 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인신용카드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"-개인신용카드 : iM 트래블 카드,iM K-패스 카드, iM LIVING카드,iM스카이패스V2 Gold, iM 스카이패스V2 Silver, iM i카드, iM UntacT카드, iM 세븐캐쉬백카드, SK OIL & LPG 카드, iM대백카드, iM동아카드, iM레일플러스포인트카드, iM쇼핑카드, iM ONE카드, iM펫러브카드, GREIT카드, iM동아카드, PRESTIGE카드, PRESTIGE+카드, PRESTIGE_PP카드, 국민행복카드, 그린카드, 그린카드V2, 단디카드, 동아스페셜카드, 모바일카드, 부자되세요 아파트카드, 부자되세요 홈쇼핑카드, 우리독도카드, iM올레수퍼DC카드, 아이행복카드, 틱톡카드 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"생명보험업 | 생명보험 사업과 이에 수반되는 업무 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스금융\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"- 금융리스: 리스자산의 소유에 따른 대부분의 위험과 효익이 리스이용자에게 이전 되는 리스\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"- 고객이 일시불로 구입하기 어려운 내구재 등을 구입할 때 고객의 신용도에 따라 물품구입대금을 판매자에게 대신 납부하여 주고 고객은 일정 기간 동안 할부금을 분할하여 상환하는 방식\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"라오스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캄보디아\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"신 성장동력 확보를 위한 Global사업 진출 전략 실행의 일환으로 2016년 11월 라오스에 현지법인을 설립하여 2017년부터 현지에서 자동차금융을 영위하고 있으며, 2020년 1월 캄보디아 현지법인 인수, 2020년 5월 미얀마 대표사무소를 개소하였습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"일반은행의 원화 예수금과 원화 대출금이 꾸준한 성장 추세를 보이고 있음을 확인할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예수금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"일반은행의 원화 예수금과 원화 대출금이 꾸준한 성장 추세를 보이고 있음을 확인할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자산운용업은 공모·사모펀드 및 투자일임으로 투자자를 모집하여 펀드의 특성에 맞게 다양한 자산에 운용하여 투자자의 이익을 추구하는 산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"투자일임\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자산운용업은 공모·사모펀드 및 투자일임으로 투자자를 모집하여 펀드의 특성에 맞게 다양한 자산에 운용하여 투자자의 이익을 추구하는 산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"iM라이프생명보험은 2015년 1월 29일자로 iM금융지주의 자회사로 편입되었고보험업법에 따른 생명보험업을 주요 영업목적으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"여신전문금융업은 시설대여업, 할부금융업, 신기술사업금융업, 신용카드업 등 총 4개 업종이 통합된 금융업종으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"여신전문금융업은 시설대여업, 할부금융업, 신기술사업금융업, 신용카드업 등 총 4개 업종이 통합된 금융업종으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생상품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"은행이 운영하는 주요 겸영업무는 신탁업, 신용카드업, 파생상품의 매매ㆍ중개업, 투자매매ㆍ중개ㆍ일임업, 보험대리점업 등입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"기업금융\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"가계부채 관리를 위한 당국의 보수적 가이드라인이 부담요인이지만, 기업 대출 수요가 이를 상쇄하며 견조한 여신 성장을 뒷받침할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가계대출\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"가계부채 관리를 위한 당국의 보수적 가이드라인이 부담요인이지만, 기업 대출 수요가 이를 상쇄하며 견조한 여신 성장을 뒷받침할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"대구,경북 | 1 | 1 | - | 2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"대구,경북 | 1 | 1 | - | 2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"지 역 | 지 점 | 출 장 소 | 사 무 소 | 합 계 | 서 울 | 7 | - | - | 7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"경 기 | 6 | - | - | 6\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"베트남 | 1 | - | 1 | 2\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"시장금리 하락 여파로 순이자마진(NIM)이 하락했음에도 불구하고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"국가의 경제환경은 물론 정치, 사회, 문화, 국제관계, 환율, 경기변동 등 다양한 변수요인에 의해 영향을 받기 때문에\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"금리 인상 이후 가계대출 연체율 상승과 부동산 경기 둔화에 따라 업권 전체의 실적이 악화하고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/139130_20260515000720.txt"
+}

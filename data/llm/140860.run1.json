@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "원자현미경",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 첨단 나노계측장비인 원자현미경(Atomic Force Microscope)을 개발, 생산하여 전 세계에 판매하는 기술벤처기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "연구용장비",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 당기 연결 누적 매출액은 205,613백만원이며, 연구용 약 23%, 산업용 약 71%, 기타 소모품 및 서비스가 약 6% 비율로 이루어져 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 당기 연결 누적 매출액은 205,613백만원이며, 연구용 약 23%, 산업용 약 71%, 기타 소모품 및 서비스가 약 6% 비율로 이루어져 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Imaging Spectroscopic Ellipsometer",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 2022년 10월 4일 글로벌 시장에서 ISE(Imaging Spectroscopic Ellipsometer) 및 제진대의 제조 및 판매를 영위하는 독일 소재 Park Systems GmbH(舊 Accurion GmbH)의 지분 100%를 취득하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Digital Holographic Microscope",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이번 인수를 통해 당사는 Digital Holographic Microscope 기술을 확보면서, 반도체 및 첨단 산업 전반에서의 계측 솔루션을 한층 고도화할 수 있게 되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한, 국내 및 해외 반도체 산업에서의 기회를 최대한 살려서 산업용 장비의 판매실적을 향상시키고 지난 2022년 독일 Accurion 인수에 이어, 2025년 3월, 스위스 Lyncee tec SA을 인수하며 광학 계측 기술 역량을 더욱 강화하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 산업용 장비는 크게 반도체 산업, 디스플레이 산업, 하드디스크 산업에 투입이 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "하드디스크",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 산업용 장비는 크게 반도체 산업, 디스플레이 산업, 하드디스크 산업에 투입이 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "특히 AI 서버 및 데이터센터 인프라 수요가 시장 성장을 견인하는 가운데, 메모리와 로직 전반에서 고성능·고집적화 추세가 더욱 강화될 것으로 예상됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Cantilever",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Cantilever | 13 | 13 | 19 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "제진대",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제진대 | 7,435 | 7,435 | 7,519 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PZT",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PZT | 840 | 800 | 750 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Controller",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Controller | 2,300 | 2,050 | 2,050 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 미주지역에서의 제품판매, 고객지원 및 마케팅을 위하여 미국 산타클라라에 현지 자회사를 설립하여 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 일본지역에서의 제품판매, 고객지원 및 마케팅을 위하여 도쿄에 현지 자회사를 설립하여 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유럽법인은 유럽 전역의 제품판매를 총괄하고 있으며 영업팀, 마케팅관리팀, 기술지원팀을 운영하고 있습니다. (8) 독일 자회사(생산 및 판매법인) 당사는 2022년 10월 4일 글로벌 시장에서 ISE(Imaging Spectroscopic Ellipsometer) 및 제진대의 제조 및 판매를 영위하는 독일 소재 Park Systems GmbH(舊 Accurion GmbH)의 지분 100%를 취득하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "스위스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(9) 스위스 자회사(생산 및 판매법인) 당사는 스위스 Lyncee tec SA을 인수하며 광학 계측 기술 역량을 더욱 강화하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 외환위험 관리의 목표는 환율 변동으로 인한 불확실성과손익변동을 최소화함으로써 기업의 가치를 극대화하는데 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자현미경\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 첨단 나노계측장비인 원자현미경(Atomic Force Microscope)을 개발, 생산하여 전 세계에 판매하는 기술벤처기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연구용장비\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 당기 연결 누적 매출액은 205,613백만원이며, 연구용 약 23%, 산업용 약 71%, 기타 소모품 및 서비스가 약 6% 비율로 이루어져 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용장비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 당기 연결 누적 매출액은 205,613백만원이며, 연구용 약 23%, 산업용 약 71%, 기타 소모품 및 서비스가 약 6% 비율로 이루어져 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Imaging Spectroscopic Ellipsometer\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 2022년 10월 4일 글로벌 시장에서 ISE(Imaging Spectroscopic Ellipsometer) 및 제진대의 제조 및 판매를 영위하는 독일 소재 Park Systems GmbH(舊 Accurion GmbH)의 지분 100%를 취득하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Digital Holographic Microscope\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이번 인수를 통해 당사는 Digital Holographic Microscope 기술을 확보면서, 반도체 및 첨단 산업 전반에서의 계측 솔루션을 한층 고도화할 수 있게 되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한, 국내 및 해외 반도체 산업에서의 기회를 최대한 살려서 산업용 장비의 판매실적을 향상시키고 지난 2022년 독일 Accurion 인수에 이어, 2025년 3월, 스위스 Lyncee tec SA을 인수하며 광학 계측 기술 역량을 더욱 강화하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 산업용 장비는 크게 반도체 산업, 디스플레이 산업, 하드디스크 산업에 투입이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"하드디스크\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 산업용 장비는 크게 반도체 산업, 디스플레이 산업, 하드디스크 산업에 투입이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"특히 AI 서버 및 데이터센터 인프라 수요가 시장 성장을 견인하는 가운데, 메모리와 로직 전반에서 고성능·고집적화 추세가 더욱 강화될 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Cantilever\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Cantilever | 13 | 13 | 19 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"제진대\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제진대 | 7,435 | 7,435 | 7,519 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PZT\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PZT | 840 | 800 | 750 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Controller\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Controller | 2,300 | 2,050 | 2,050 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 미주지역에서의 제품판매, 고객지원 및 마케팅을 위하여 미국 산타클라라에 현지 자회사를 설립하여 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 일본지역에서의 제품판매, 고객지원 및 마케팅을 위하여 도쿄에 현지 자회사를 설립하여 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유럽법인은 유럽 전역의 제품판매를 총괄하고 있으며 영업팀, 마케팅관리팀, 기술지원팀을 운영하고 있습니다. (8) 독일 자회사(생산 및 판매법인) 당사는 2022년 10월 4일 글로벌 시장에서 ISE(Imaging Spectroscopic Ellipsometer) 및 제진대의 제조 및 판매를 영위하는 독일 소재 Park Systems GmbH(舊 Accurion GmbH)의 지분 100%를 취득하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"스위스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(9) 스위스 자회사(생산 및 판매법인) 당사는 스위스 Lyncee tec SA을 인수하며 광학 계측 기술 역량을 더욱 강화하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 외환위험 관리의 목표는 환율 변동으로 인한 불확실성과손익변동을 최소화함으로써 기업의 가치를 극대화하는데 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/140860_20260319000022.txt"
+}

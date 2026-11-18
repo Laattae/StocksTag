@@ -1,0 +1,265 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "나보타",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "우루사",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "먼저 국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "글리아타민",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "글리아타민 | 뇌질환개선제 | 139,739 | 21.79"
+    },
+    {
+      "axis": "product",
+      "value": "바이오탑",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "특히, '바이오탑'은 연매출 235억원을 달성하며 주요 성장 동력으로 자리매김하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "제약 시장",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제약 시장은 인간의 생명과 보건에 관련된 제품을 생산하는 국민의 건강과 직결된 산업으로서"
+    },
+    {
+      "axis": "customer",
+      "value": "에볼루스",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면, 나보타(미국 상품명 주보, Jeuveau®)는 세계 최대 보툴리눔 톡신 시장인 미국에서 미용 톡신 시장 점유율 14%를 달성하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "※ 주요가격변동원인은 구매단가 변동 및 환율변동입니다."
+    },
+    {
+      "axis": "product",
+      "value": "나보타",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "DWP450(나보타) | 미간주름 | 2012년 | 품목허가(한국) | 2013년 11월"
+    },
+    {
+      "axis": "product",
+      "value": "펙수클루",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Fexuprazan(제품명 : 펙수클루, Fexuclue) | Moksha8 | 멕시코 | USD 44,419,106 | 2020.01.22"
+    },
+    {
+      "axis": "product",
+      "value": "엔블로",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Enavogliflozin(제품명 : 엔블로, Envlo) | Moksha8 | 브라질, 멕시코, 에콰도르, 니카라과"
+    },
+    {
+      "axis": "product",
+      "value": "탄파너셉트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)"
+    },
+    {
+      "axis": "product",
+      "value": "바토클리맙",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바토클리맙(HL161BKN)아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)"
+    },
+    {
+      "axis": "application",
+      "value": "안구건조증",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권"
+    },
+    {
+      "axis": "application",
+      "value": "당뇨병",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Enavogliflozin | 제2형당뇨병 | 2016년 | 출시(한국) | 2023년 5월"
+    },
+    {
+      "axis": "application",
+      "value": "위식도역류질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Fexuprazan | 위식도역류질환 | 2008년 | 출시(한국) | 2022년 7월"
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자가면역질환치료 항체신약 HL161의 독점적 권리를 갖고 임상개발, 생산, 품목허가 및 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "하버바이오메드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)"
+    },
+    {
+      "axis": "customer",
+      "value": "로이반트 사이언스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바토클리맙(HL161BKN) 아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)"
+    },
+    {
+      "axis": "customer",
+      "value": "Evolus",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "나보타(제품명: 나보타, Jeuveau,Nuceiva) | Evolus | 미국, 유럽, 캐나다, 호주,러시아, 남아공, 일본, CIS"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국(미용): 미간주름 개선 임상3상 완료(16년4월), 품목허가(BLA) 신청 완료(17년5월)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2015년 | 품목허가 신청(중국) | - | - | 뇌졸중 후 상지근육경직"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "바이오연구소 (경기 수원 소재)"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중앙연구소 (대전 소재)"
+    },
+    {
+      "axis": "product",
+      "value": "항체의약품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오신약 (항체의약품)"
+    },
+    {
+      "axis": "product",
+      "value": "합성신약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "합성신약 (저분자 화합물)"
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원료 및 완성의약품 제조 및 판매"
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2024년 전세계 자가면역질환 치료제 시장 규모 약 2,145억 달러 (출처: 360iResearch)"
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대부분 치료제가 증상에 집중하고 시간 경과에 따른 효력 감소나 심각한 부작용을 동반하는데 반해, 파킨슨병에 대한 기전 기반"
+    },
+    {
+      "axis": "region",
+      "value": "대한민국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "제조설비는 주로 대한민국을 포함한 아시아 지역에 위치하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미주 | FDA 임상시험 및 의약품 연구"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "따라서 타 산업에 비해 경기 변동에 큰 영향을 받지 않는다고 할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"나보타\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"대웅제약의 고순도·고품질 보툴리눔 톡신 나보타는 2025년 연간 매출 2,289억 원을 기록하며, 출시 이래 처음으로 연 매출 2,000억 원을 돌파하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"우루사\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"대표 품목인 우루사는 전년 대비 성장세를 지속하며 연 매출 1,004억 원을 기록, 연간 매출 1,000억 원을 상회하는 성과를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"먼저 국산 34호 신약 펙수클루는 국내외 합산 매출 982억 원을 달성하며 글로벌 블록버스터로의 도약을 가속화하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"국산 36호 신약 엔블로 또한 연 매출 125억 원을 기록, 출시 이후 지속적으로 100억 원 고지를 상회하며 SGLT-2 억제제 시장 내 입지를 공고히 하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"글리아타민\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"글리아타민 | 뇌질환개선제 | 139,739 | 21.79\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오탑\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"특히, '바이오탑'은 연매출 235억원을 달성하며 주요 성장 동력으로 자리매김하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제약 시장\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제약 시장은 인간의 생명과 보건에 관련된 제품을 생산하는 국민의 건강과 직결된 산업으로서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에볼루스\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간 종료일 현재 화성시 향남공단 및 청주시 오송생명과학단지 내에 의약품 생산 KGMP 기준에 부합하는 제조시설을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2019년 미국 FDA 승인을 획득한 나보타의 주요 해외 파트너사인 에볼루스(Evolus)社의 공식 발표에 따르면, 나보타(미국 상품명 주보, Jeuveau®)는 세계 최대 보툴리눔 톡신 시장인 미국에서 미용 톡신 시장 점유율 14%를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"※ 주요가격변동원인은 구매단가 변동 및 환율변동입니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"나보타\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"DWP450(나보타) | 미간주름 | 2012년 | 품목허가(한국) | 2013년 11월\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펙수클루\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Fexuprazan(제품명 : 펙수클루, Fexuclue) | Moksha8 | 멕시코 | USD 44,419,106 | 2020.01.22\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔블로\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Enavogliflozin(제품명 : 엔블로, Envlo) | Moksha8 | 브라질, 멕시코, 에콰도르, 니카라과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄파너셉트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바토클리맙\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"바토클리맙(HL161BKN)아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안구건조증\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"안구건조증치료 바이오신약 탄파너셉트, 자가면역질환치료 항체신약 바토클리맙의 독점적 개발 및 사업권\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"당뇨병\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Enavogliflozin | 제2형당뇨병 | 2016년 | 출시(한국) | 2023년 5월\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"위식도역류질환\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Fexuprazan | 위식도역류질환 | 2008년 | 출시(한국) | 2022년 7월\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환치료 항체신약 HL161의 독점적 권리를 갖고 임상개발, 생산, 품목허가 및 판매\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"하버바이오메드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"탄파너셉트(HL036)바토클리맙(HL161BKN) | 하버바이오메드(HarbourBioMed, 중국)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"로이반트 사이언스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"바토클리맙(HL161BKN) 아이메로프루바트(HL161ANS) | 로이반트 사이언스(Roivant Sciences,스위스)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Evolus\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"나보타(제품명: 나보타, Jeuveau,Nuceiva) | Evolus | 미국, 유럽, 캐나다, 호주,러시아, 남아공, 일본, CIS\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국(미용): 미간주름 개선 임상3상 완료(16년4월), 품목허가(BLA) 신청 완료(17년5월)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2015년 | 품목허가 신청(중국) | - | - | 뇌졸중 후 상지근육경직\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"바이오연구소 (경기 수원 소재)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중앙연구소 (대전 소재)\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체의약품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"바이오신약 (항체의약품)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성신약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"합성신약 (저분자 화합물)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"원료 및 완성의약품 제조 및 판매\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2024년 전세계 자가면역질환 치료제 시장 규모 약 2,145억 달러 (출처: 360iResearch)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"파킨슨병\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대부분 치료제가 증상에 집중하고 시간 경과에 따른 효력 감소나 심각한 부작용을 동반하는데 반해, 파킨슨병에 대한 기전 기반\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대한민국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"제조설비는 주로 대한민국을 포함한 아시아 지역에 위치하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미주 | FDA 임상시험 및 의약품 연구\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"따라서 타 산업에 비해 경기 변동에 큰 영향을 받지 않는다고 할 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/003090_20260318001178.txt"
+}

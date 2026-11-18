@@ -1,0 +1,171 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Package Substrate",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "Package Substrate | 1,063,840 | 75.4 | 904,863 | 73.5 | 798,023 | 76.6"
+    },
+    {
+      "axis": "product",
+      "value": "Module PCB",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "Module PCB | 346,720 | 24.6 | 326,558 | 26.5 | 243,872 | 23.4"
+    },
+    {
+      "axis": "product",
+      "value": "FC-CSP기판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "메모리향 위주의 제품에서 FC-CSP, SiP모듈 등 고부가가치 System IC향 제품의 높은 Package Substrate분야로의 고객확보 및 매출확대를 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SiP모듈기판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "메모리향 위주의 제품에서 FC-CSP, SiP모듈 등 고부가가치 System IC향 제품의 높은 Package Substrate분야로의 고객확보 및 매출확대를 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GDDR기판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "아울러, GDDR기판 역시 지속적인 성장성과 전세계 1위 시장점유율을 유지하고 있는 것을 인정받아 2023년 11월 신규 선정되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "PC",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도"
+    },
+    {
+      "axis": "application",
+      "value": "서버",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도"
+    },
+    {
+      "axis": "application",
+      "value": "스마트모바일",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도"
+    },
+    {
+      "axis": "application",
+      "value": "SSD",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도"
+    },
+    {
+      "axis": "application",
+      "value": "오토모티브",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사의 제품은 PC, 서버, 스마트모바일, SSD, 스마트웨어러블기기향 및 오토모티브향 등으로 전방시장이 다변화되어 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "A사",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "A사 | 38% | -"
+    },
+    {
+      "axis": "customer",
+      "value": "B사",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "B사 | 16% | -"
+    },
+    {
+      "axis": "customer",
+      "value": "C사",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "C사 | 14% | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "POTASSIUM GOLD CYANIDE",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "POTASSIUM GOLD CYANIDE(청화금카리) | 금도금 | 258,224 | 35.7 | 173,411 | 32.1 | 106,512 | 28.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "COPPER CLAD LAMINATE",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "COPPER CLAD LAMINATE(동박적층판) | PCB 원판 | 145,864 | 20.2 | 105,264 | 19.5 | 70,767 | 18.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PREPREG",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "PREPREG(절연성수지) | 86,891 | 12.0 | 68,774 | 12.7 | 56,835 | 15.1"
+    },
+    {
+      "axis": "raw_material",
+      "value": "COPPER FOIL",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "COPPER FOIL(동박) | 24,900 | 3.4 | 19,620 | 3.6 | 16,195 | 4.3"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충북 청주외 | 34,825,623 | -"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "일본 치노 | 14,247,576 | -"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국 시안 | 27,748,486 | 2,147,904"
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "말레이시아 | 2,625,252 | 371,042"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "반도체 및 통신기기용 인쇄회로기판의 가격은 제품별 구성비, 개별 제품의 Life Cycle 및 전방제품의 생산량 변화에 따라 영향을 받으며, 환율의 영향에 의해서도 가격 수준이 변동될 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전방산업 출하량",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "인쇄회로기판의 경기는 일반적으로 전방산업인 반도체, 통신기기 및 PC의 출하량과 연동됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Package Substrate\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"Package Substrate | 1,063,840 | 75.4 | 904,863 | 73.5 | 798,023 | 76.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Module PCB\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"Module PCB | 346,720 | 24.6 | 326,558 | 26.5 | 243,872 | 23.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FC-CSP기판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"메모리향 위주의 제품에서 FC-CSP, SiP모듈 등 고부가가치 System IC향 제품의 높은 Package Substrate분야로의 고객확보 및 매출확대를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SiP모듈기판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"메모리향 위주의 제품에서 FC-CSP, SiP모듈 등 고부가가치 System IC향 제품의 높은 Package Substrate분야로의 고객확보 및 매출확대를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GDDR기판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"아울러, GDDR기판 역시 지속적인 성장성과 전세계 1위 시장점유율을 유지하고 있는 것을 인정받아 2023년 11월 신규 선정되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"PC\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"서버\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트모바일\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"SSD\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PC, 서버, 스마트모바일, SSD향 , 스마트 웨어러블 기기향 등으로 다변화 되어 있는 전방시장에서도\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"오토모티브\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 PC, 서버, 스마트모바일, SSD, 스마트웨어러블기기향 및 오토모티브향 등으로 전방시장이 다변화되어 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"A사\",\n      \"weight\": 0.38,\n      \"direction\": null,\n      \"evidence\": \"A사 | 38% | -\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"B사\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"B사 | 16% | -\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"C사\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"C사 | 14% | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"POTASSIUM GOLD CYANIDE\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"POTASSIUM GOLD CYANIDE(청화금카리) | 금도금 | 258,224 | 35.7 | 173,411 | 32.1 | 106,512 | 28.3\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"COPPER CLAD LAMINATE\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"COPPER CLAD LAMINATE(동박적층판) | PCB 원판 | 145,864 | 20.2 | 105,264 | 19.5 | 70,767 | 18.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PREPREG\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"PREPREG(절연성수지) | 86,891 | 12.0 | 68,774 | 12.7 | 56,835 | 15.1\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"COPPER FOIL\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"COPPER FOIL(동박) | 24,900 | 3.4 | 19,620 | 3.6 | 16,195 | 4.3\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충북 청주외 | 34,825,623 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"일본 치노 | 14,247,576 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국 시안 | 27,748,486 | 2,147,904\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"말레이시아 | 2,625,252 | 371,042\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"반도체 및 통신기기용 인쇄회로기판의 가격은 제품별 구성비, 개별 제품의 Life Cycle 및 전방제품의 생산량 변화에 따라 영향을 받으며, 환율의 영향에 의해서도 가격 수준이 변동될 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전방산업 출하량\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"인쇄회로기판의 경기는 일반적으로 전방산업인 반도체, 통신기기 및 PC의 출하량과 연동됩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/222800_20260317000641.txt"
+}

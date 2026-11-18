@@ -1,0 +1,165 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "검색",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "- 서치플랫폼 | 4,168,936 | 34.6 | 3,946,166 | 36.8 |"
+    },
+    {
+      "axis": "product",
+      "value": "커머스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "- 커머스 | 3,688,407 | 30.6 | 2,922,977 | 27.2 |"
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "- 콘텐츠 | 1,899,173 | 15.8 | 1,796,421 | 16.7 |"
+    },
+    {
+      "axis": "product",
+      "value": "핀테크",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "- 핀테크 | 1,690,684 | 14.1 | 1,508,407 | 14.0 |"
+    },
+    {
+      "axis": "product",
+      "value": "클라우드",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "- 엔터프라이즈 | 587,807 | 4.9 | 563,748 | 5.3 |"
+    },
+    {
+      "axis": "customer",
+      "value": "CJ대한통운",
+      "weight": null,
+      "direction": null,
+      "evidence": "또한, CJ대한통운 및 다양한 풀필먼트 스타트업과의 제휴를 통해 물류 경쟁력을 강화하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "넷플릭스",
+      "weight": null,
+      "direction": null,
+      "evidence": "멤버십 부문에서는 넷플릭스, 마이크로소프트(MS) 등과의 제휴를 통해 콘텐츠 혜택을 확장하는 한편"
+    },
+    {
+      "axis": "customer",
+      "value": "마이크로소프트",
+      "weight": null,
+      "direction": null,
+      "evidence": "멤버십 부문에서는 넷플릭스, 마이크로소프트(MS) 등과의 제휴를 통해 콘텐츠 혜택을 확장하는 한편"
+    },
+    {
+      "axis": "customer",
+      "value": "컬리",
+      "weight": null,
+      "direction": null,
+      "evidence": "컬리와의 협업을 통해 신선식품 및 프리미엄 장보기 영역까지 커머스 경험을 확장하며 생태계를 한층 강화하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "토지 | 본사 및 본사 외 | 등기 | 분당 | 사옥 | 133,686 | 0 | 957 | 0 | 132,729 |"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": null,
+      "direction": null,
+      "evidence": "등기 | 세종 | IDC | 88,088 | 381 | 0 | 0 | 88,469 |"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "등기 | 춘천 | IDC | 26,624 | 0 | 0 | 0 | 26,624 |"
+    },
+    {
+      "axis": "region",
+      "value": "프랑스",
+      "weight": null,
+      "direction": null,
+      "evidence": "- | 프랑스 | - | 11,063 | 1,137 | 0 | 0 | 12,200 | 환율변동 |"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": null,
+      "direction": null,
+      "evidence": "- | 일본 | - | 26,997 | 0 | 544 | 0 | 26,453 | 환율변동 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화, 일본 엔화 및 유로화와 관련된 환율 변동 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": null,
+      "direction": -1,
+      "evidence": "광고는 경기와 움직임을 함께 하는 산업으로, 경기가 침체되면 광고주들이 마케팅비용을 축소하거나 집행을 이연하는 모습을 보이기도 하고"
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "웹툰 및 웹소설은 회차당 지불 비용이 타 엔터테인먼트 콘텐츠에 비해 소액이며(회차당 100~500원), PC, 스마트폰 등 다양한 디바이스를 통해"
+    },
+    {
+      "axis": "product",
+      "value": "웹소설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "웹툰 및 웹소설은 회차당 지불 비용이 타 엔터테인먼트 콘텐츠에 비해 소액이며(회차당 100~500원), PC, 스마트폰 등 다양한 디바이스를 통해"
+    },
+    {
+      "axis": "product",
+      "value": "카메라 앱",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "스노우의 주요 사업포트폴리오에는 스노우(카메라앱 및 AI 서비스), 크림(글로벌 한정판/리셀 C2C커머스), 케이크(글로벌 언어교육), 네이버제트(메타버스)주) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "클라우드 서비스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "네이버클라우드는 Cloud Service Provider로서 기본적인 서버, 스토리지 등 IaaS부터 초대규모AI HyperCLOVA X 및 네이버웍스 (일본 라인웍스) 같은 SaaS 영역까지서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "생성형 AI",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "네이버클라우드는 자체 초대규모 언어모델 'HyperCLOVA X'를 기반으로 기업 데이터를 결합한 맞춤형 생성형 AI서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "광고는 경기와 움직임을 함께 하는 산업으로, 경기가 침체되면 광고주들이 마케팅비용을 축소하거나 집행을 이연하는 모습을 보이기도 하고"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"검색\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"- 서치플랫폼 | 4,168,936 | 34.6 | 3,946,166 | 36.8 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커머스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"- 커머스 | 3,688,407 | 30.6 | 2,922,977 | 27.2 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"웹툰\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"- 콘텐츠 | 1,899,173 | 15.8 | 1,796,421 | 16.7 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핀테크\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"- 핀테크 | 1,690,684 | 14.1 | 1,508,407 | 14.0 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"클라우드\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"- 엔터프라이즈 | 587,807 | 4.9 | 563,748 | 5.3 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"CJ대한통운\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"또한, CJ대한통운 및 다양한 풀필먼트 스타트업과의 제휴를 통해 물류 경쟁력을 강화하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넷플릭스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"멤버십 부문에서는 넷플릭스, 마이크로소프트(MS) 등과의 제휴를 통해 콘텐츠 혜택을 확장하는 한편\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"마이크로소프트\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"멤버십 부문에서는 넷플릭스, 마이크로소프트(MS) 등과의 제휴를 통해 콘텐츠 혜택을 확장하는 한편\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"컬리\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"컬리와의 협업을 통해 신선식품 및 프리미엄 장보기 영역까지 커머스 경험을 확장하며 생태계를 한층 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"토지 | 본사 및 본사 외 | 등기 | 분당 | 사옥 | 133,686 | 0 | 957 | 0 | 132,729 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"등기 | 세종 | IDC | 88,088 | 381 | 0 | 0 | 88,469 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"등기 | 춘천 | IDC | 26,624 | 0 | 0 | 0 | 26,624 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"프랑스\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"- | 프랑스 | - | 11,063 | 1,137 | 0 | 0 | 12,200 | 환율변동 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"- | 일본 | - | 26,997 | 0 | 544 | 0 | 26,453 | 환율변동 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화, 일본 엔화 및 유로화와 관련된 환율 변동 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"광고는 경기와 움직임을 함께 하는 산업으로, 경기가 침체되면 광고주들이 마케팅비용을 축소하거나 집행을 이연하는 모습을 보이기도 하고\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"웹툰\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"웹툰 및 웹소설은 회차당 지불 비용이 타 엔터테인먼트 콘텐츠에 비해 소액이며(회차당 100~500원), PC, 스마트폰 등 다양한 디바이스를 통해\"}, {\"axis\": \"product\", \"value\": \"웹소설\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"웹툰 및 웹소설은 회차당 지불 비용이 타 엔터테인먼트 콘텐츠에 비해 소액이며(회차당 100~500원), PC, 스마트폰 등 다양한 디바이스를 통해\"}, {\"axis\": \"product\", \"value\": \"카메라 앱\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"스노우의 주요 사업포트폴리오에는 스노우(카메라앱 및 AI 서비스), 크림(글로벌 한정판/리셀 C2C커머스), 케이크(글로벌 언어교육), 네이버제트(메타버스)주) 등이 있습니다.\"}, {\"axis\": \"product\", \"value\": \"클라우드 서비스\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"네이버클라우드는 Cloud Service Provider로서 기본적인 서버, 스토리지 등 IaaS부터 초대규모AI HyperCLOVA X 및 네이버웍스 (일본 라인웍스) 같은 SaaS 영역까지서비스를 제공하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"생성형 AI\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"네이버클라우드는 자체 초대규모 언어모델 'HyperCLOVA X'를 기반으로 기업 데이터를 결합한 맞춤형 생성형 AI서비스를 제공하고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"경기 변동\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"광고는 경기와 움직임을 함께 하는 산업으로, 경기가 침체되면 광고주들이 마케팅비용을 축소하거나 집행을 이연하는 모습을 보이기도 하고\"}]}\n```"
+  ],
+  "text_path": "data/reports/035420_20260313001021.txt"
+}

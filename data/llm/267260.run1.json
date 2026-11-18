@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전력변압기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전력기기로는 발전ㆍ송전 단계(고압,통상 50kV 이상)에서 적용되는 전력변압기, 고압차단기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "고압차단기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전력기기로는 발전ㆍ송전 단계(고압,통상 50kV 이상)에서 적용되는 전력변압기, 고압차단기 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "배전반",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "배전 단계(1kV~50kV 중압, 1kV미만 저압)에서 적용되는 배전반, 중저압차단기 등의 배전기기"
+    },
+    {
+      "axis": "product",
+      "value": "중저압차단기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "배전 단계(1kV~50kV 중압, 1kV미만 저압)에서 적용되는 배전반, 중저압차단기 등의 배전기기"
+    },
+    {
+      "axis": "product",
+      "value": "전동기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "부하로써 전기에너지를 이용하여 운동에너지를 발생시키는 전동기등의 회전기기가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "에너지저장시스템",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "기존 에너지저장시스템(ESS), 태양광 시장용 전력변환기기 판매 확대 뿐만 아니라"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신재생 발전원 설치 증가, AI 시장과 데이터센터 건설 확대에 따른 전력 수급 변동성 증가로 인해"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전 세계 선박 시장에서는 컨테이너선과 LNG선을 비롯한 대형 선박 중심의 수요가 이어지는 가운데"
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국가탄소중립 목표달성을 위해 재생에너지 중 풍력 보급이 매우 중요하게 인식되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "사우디전력청",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Xcel Energy",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "NextEra Energy",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "STEEL PLATE",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "STEEL PLATE(TON) | 914,038원 | 958,653원 | 1,130,193원 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전기동(TON) | 9,939$ | 9,144$ | 8,483$ |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 성남시 분당구를 비롯하여 서울, 울산, 안성, 청주 등 국내사업장 및 미국, 중국, 독일"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내사업장 및 미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국내사업장 및 미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "외화거래 계약체결 시점과 실제 수금 시점 사이의 환율 변동으로 인한 영업이익의 불확실성"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "환율 변동 위험 및 원자재 가격 변동 위험 등을 회피할 목적으로 금융기관과 파생상품계약을 체결하고 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력변압기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전력기기로는 발전ㆍ송전 단계(고압,통상 50kV 이상)에서 적용되는 전력변압기, 고압차단기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고압차단기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전력기기로는 발전ㆍ송전 단계(고압,통상 50kV 이상)에서 적용되는 전력변압기, 고압차단기 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배전반\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"배전 단계(1kV~50kV 중압, 1kV미만 저압)에서 적용되는 배전반, 중저압차단기 등의 배전기기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"중저압차단기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"배전 단계(1kV~50kV 중압, 1kV미만 저압)에서 적용되는 배전반, 중저압차단기 등의 배전기기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"부하로써 전기에너지를 이용하여 운동에너지를 발생시키는 전동기등의 회전기기가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에너지저장시스템\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"기존 에너지저장시스템(ESS), 태양광 시장용 전력변환기기 판매 확대 뿐만 아니라\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신재생 발전원 설치 증가, AI 시장과 데이터센터 건설 확대에 따른 전력 수급 변동성 증가로 인해\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"전 세계 선박 시장에서는 컨테이너선과 LNG선을 비롯한 대형 선박 중심의 수요가 이어지는 가운데\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국가탄소중립 목표달성을 위해 재생에너지 중 풍력 보급이 매우 중요하게 인식되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"사우디전력청\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Xcel Energy\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"NextEra Energy\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"STEEL PLATE\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"STEEL PLATE(TON) | 914,038원 | 958,653원 | 1,130,193원 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기동\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전기동(TON) | 9,939$ | 9,144$ | 8,483$ |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 성남시 분당구를 비롯하여 서울, 울산, 안성, 청주 등 국내사업장 및 미국, 중국, 독일\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"국내사업장 및 미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국내사업장 및 미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"외화거래 계약체결 시점과 실제 수금 시점 사이의 환율 변동으로 인한 영업이익의 불확실성\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"환율 변동 위험 및 원자재 가격 변동 위험 등을 회피할 목적으로 금융기관과 파생상품계약을 체결하고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/267260_20260316000940.txt"
+}

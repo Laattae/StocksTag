@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "클라우드 서비스",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "클라우드 | \n2,680,239(19.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "ITO",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "ITO | \n2,821,800(20.3%)"
+    },
+    {
+      "axis": "product",
+      "value": "물류 서비스",
+      "weight": 0.53,
+      "direction": null,
+      "evidence": "물류 | \n7,386,380(53.0%)"
+    },
+    {
+      "axis": "product",
+      "value": "SI",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "SI | \n1,041,449(7.5%)"
+    },
+    {
+      "axis": "product",
+      "value": "생성형 AI 서비스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "최근 생성형 AI 사업이 확대됨에 따라 클라우드 성장의 새로운 동력이 되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 삼성전자 및 삼성전자의 종속회사이며, 당사의 주요 매출처에 대한 매출비중은 전체 매출액 대비 70.0% 입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성 관계사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 고객은 삼성전자를 포함한 삼성 관계사이며, 한국 및 글로벌 기업고객 확대를 지속적으로 추진하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전산장비",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "전산장비 外 | \n상품매출 | \n235,438 (13.1%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "외주용역비",
+      "weight": 0.71,
+      "direction": null,
+      "evidence": "외주용역비 | \n외주용역비 | \n1,279,815 (71.1%)"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "상암 데이터센터 | \n자가 | \n서울시 마포구 월드컵북로 60길 24"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "수원 데이터센터 | \n자가 | \n경기도 수원시 영통구 삼성로 168번길 10"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "춘천 데이터센터 | \n자가 | \n강원도 춘천시 옛경춘로 409-14"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "(1) 환율변동위험\n연결실체는 글로벌 영업활동을 수행함에 따라 (표시통화와 다른) 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "시장에 영향을 주는 주요 요인은 경쟁의 강도, 세계 및 권역별 경기변동, 선박의 수급, 유가의 변동, 기후, 국제정세 등이며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"클라우드 서비스\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"클라우드 | \\n2,680,239(19.2%)\"}, {\"axis\": \"product\", \"value\": \"ITO\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"ITO | \\n2,821,800(20.3%)\"}, {\"axis\": \"product\", \"value\": \"물류 서비스\", \"weight\": 0.53, \"direction\": null, \"evidence\": \"물류 | \\n7,386,380(53.0%)\"}, {\"axis\": \"product\", \"value\": \"SI\", \"weight\": 0.08, \"direction\": null, \"evidence\": \"SI | \\n1,041,449(7.5%)\"}, {\"axis\": \"product\", \"value\": \"생성형 AI 서비스\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"최근 생성형 AI 사업이 확대됨에 따라 클라우드 성장의 새로운 동력이 되고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 주요 매출처는 삼성전자 및 삼성전자의 종속회사이며, 당사의 주요 매출처에 대한 매출비중은 전체 매출액 대비 70.0% 입니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성 관계사\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사의 주요 고객은 삼성전자를 포함한 삼성 관계사이며, 한국 및 글로벌 기업고객 확대를 지속적으로 추진하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"전산장비\", \"weight\": 0.13, \"direction\": null, \"evidence\": \"전산장비 外 | \\n상품매출 | \\n235,438 (13.1%)\"}, {\"axis\": \"raw_material\", \"value\": \"외주용역비\", \"weight\": 0.71, \"direction\": null, \"evidence\": \"외주용역비 | \\n외주용역비 | \\n1,279,815 (71.1%)\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"상암 데이터센터 | \\n자가 | \\n서울시 마포구 월드컵북로 60길 24\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"수원 데이터센터 | \\n자가 | \\n경기도 수원시 영통구 삼성로 168번길 10\"}, {\"axis\": \"region\", \"value\": \"강원\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"춘천 데이터센터 | \\n자가 | \\n강원도 춘천시 옛경춘로 409-14\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"(1) 환율변동위험\\n연결실체는 글로벌 영업활동을 수행함에 따라 (표시통화와 다른) 외화 수입, 지출이 발생하고 있으며 이로 인해 환포지션이 발생합니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"시장에 영향을 주는 주요 요인은 경쟁의 강도, 세계 및 권역별 경기변동, 선박의 수급, 유가의 변동, 기후, 국제정세 등이며\"}]}\n```"
+  ],
+  "text_path": "data/reports/018260_20260310002989.txt"
+}

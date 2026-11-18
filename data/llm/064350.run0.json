@@ -1,0 +1,66 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전동차",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "레일솔루션 부문 | 상품 ·제품 | 전동차 | 20,896 | 36% |"
+    },
+    {
+      "axis": "product",
+      "value": "방산물자",
+      "weight": 0.55,
+      "direction": null,
+      "evidence": "디펜스솔루션부문 | 방산물자 | 32,153 | 55% |"
+    },
+    {
+      "axis": "product",
+      "value": "제철프레스환경운반설비",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "에코플랜트 부문 | 제품 | 제철프레스환경운반설비 | 5,341 | 9% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속소재 등",
+      "weight": 0.45,
+      "direction": null,
+      "evidence": "레일솔루션부문 외 | 원재료 | 금속소재 등 | 차체 등 | 2,545,223(45%) |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "* 변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승"
+    },
+    {
+      "axis": "exposure",
+      "value": "니켈 등 주요 원료가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "* 변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "(1) 위치 : 경기도 의왕시 철도박물관로 의왕연구소 충청남도 당진시 송악읍 북부산업로"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": null,
+      "direction": null,
+      "evidence": "(1) 위치 : 경기도 의왕시 철도박물관로 의왕연구소 충청남도 당진시 송악읍 북부산업로"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동차\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"레일솔루션 부문 | 상품 ·제품 | 전동차 | 20,896 | 36% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"방산물자\",\n      \"weight\": 0.55,\n      \"direction\": null,\n      \"evidence\": \"디펜스솔루션부문 | 방산물자 | 32,153 | 55% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제철프레스환경운반설비\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"에코플랜트 부문 | 제품 | 제철프레스환경운반설비 | 5,341 | 9% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"금속소재 등\",\n      \"weight\": 0.45,\n      \"direction\": null,\n      \"evidence\": \"레일솔루션부문 외 | 원재료 | 금속소재 등 | 차체 등 | 2,545,223(45%) |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"* 변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"니켈 등 주요 원료가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"* 변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(1) 위치 : 경기도 의왕시 철도박물관로 의왕연구소 충청남도 당진시 송악읍 북부산업로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(1) 위치 : 경기도 의왕시 철도박물관로 의왕연구소 충청남도 당진시 송악읍 북부산업로\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/064350_20260319001275.txt"
+}

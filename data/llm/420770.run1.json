@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "AOI",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다."
+    },
+    {
+      "axis": "product",
+      "value": "AOR",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다."
+    },
+    {
+      "axis": "product",
+      "value": "VRS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "FA",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소프트웨어",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 AOI, VRS, AOR의 효율적이고 유기적인 운영을 돕고자 다양한 소프트웨어 제품을 개발하였으며, 주요 제품으로는 GVIS CAM, VMS, DTS, GiDC등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "FC-BGA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "FC-BGA는 반도체 기판 중 최고 사양 제품으로 독보적인 기술력과 엄격한 품질 관리 역량을 갖춘 업체만이 진입 가능한 시장입니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 설비는 전방 산업인 반도체의 경기 변동에 민감하게 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 AI의 급성장, 데이터센터 확장 등 특수한 상황에 따라 DRAM 및 Storage, GPU 등 수요가 급증하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "NVIDIA",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라"
+    },
+    {
+      "axis": "customer",
+      "value": "AMD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라"
+    },
+    {
+      "axis": "customer",
+      "value": "Qualcomm",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경기도 평택, 동탄"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 USD와 JPY 관련된 환율 변동 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "AI 산업 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "향후 AI, 서버 등 고성능 반도체에 대한 수요가 지속적으로 증가하고, 일반 반도체 수요 또한 회복세를 보일 경우 주요 고객사들의 대규모 설비 투자 재개 가능성이 높아질 것으로 예상됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"AOI\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AOR\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"VRS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FA\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소프트웨어\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 AOI, VRS, AOR의 효율적이고 유기적인 운영을 돕고자 다양한 소프트웨어 제품을 개발하였으며, 주요 제품으로는 GVIS CAM, VMS, DTS, GiDC등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FC-BGA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"FC-BGA는 반도체 기판 중 최고 사양 제품으로 독보적인 기술력과 엄격한 품질 관리 역량을 갖춘 업체만이 진입 가능한 시장입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 설비는 전방 산업인 반도체의 경기 변동에 민감하게 영향을 받는 구조입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 AI의 급성장, 데이터센터 확장 등 특수한 상황에 따라 DRAM 및 Storage, GPU 등 수요가 급증하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"NVIDIA\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AMD\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Qualcomm\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서 NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경기도 평택, 동탄\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일본, 대만, 중국, 싱가포르, 베트남에 사업 거점을 설치하여 영업 및 서비스 활동을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 USD와 JPY 관련된 환율 변동 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"AI 산업 수요\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"향후 AI, 서버 등 고성능 반도체에 대한 수요가 지속적으로 증가하고, 일반 반도체 수요 또한 회복세를 보일 경우 주요 고객사들의 대규모 설비 투자 재개 가능성이 높아질 것으로 예상됩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/420770_20260319000682.txt"
+}

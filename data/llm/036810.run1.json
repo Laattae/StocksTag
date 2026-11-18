@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 펠리클",
+      "weight": 0.39,
+      "direction": null,
+      "evidence": "펠리클사업부＊반도체 펠리클 - 반도체 제조시 노광(Photolithography) 공정에서 포토마스크 (Ph otomask)를 이물질로부터 보호하기 위해 사용되는 부품의 제조 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "칠러",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "TCU사업부 반도체, 디스플레이 공정에서 필요로 하는 챔버 내의 온도와 웨이퍼의 주변 온도를 일정하게 유지함으로써 공정효율을 개선하는 장비를 제조 및 판매 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "펠리클 프레임",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "종속회사 (주)에스피텍은 2010년 3월 25일 설립되어 반도체 펠리클용 프레임 및 FPD 펠리클용 프레임 제조와 판매를 주요 사업으로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "다층세라믹기판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "종속회사 (주)화인세라텍은 2020년 7월 21일 설립되어세라믹 소재 기술을 활용한 프로브카드용 다층세라믹기판(MLC, Multi Layer Ceramic substrates)을 개발 및 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘 카바이드 반도체 부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "종속회사 (주)에프엑스티는 2019년 8월 21일 설립되어 반도체 핵심공정에 들어가는 실리콘 카바이드 소재의 반도체 부품을 개발 및 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "도전성 전극 Paste",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "종속회사 (주)아이엠디는 1999년 9월 22일 설립되어 전자부품 및 디스플레이에 사용되는 도전성 전극 Paste와 OLED용 Sealing Paste를 제조 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "펠리클사업부＊반도체 펠리클 - 반도체 제조시 노광(Photolithography) 공정에서 포토마스크 (Ph otomask)를 이물질로부터 보호하기 위해 사용되는 부품의 제조 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "TCU사업부 반도체, 디스플레이 공정에서 필요로 하는 챔버 내의 온도와 웨이퍼의 주변 온도를 일정하게 유지함으로써 공정효율을 개선하는 장비를 제조 및 판매 하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "(주)아이엠디는 지속적인 R&D 투자를 통해 감광성 Paste의 고객사를 확대하고 PCB용 저가형 Cu Paste 등으로 제품군 확대를 진행하고 있으며 전기자동차의 전장용 모듈 및 전력반도체용 도전성 접착제 Paste 개발을 통해 시장을 확대해 나아갈 예정입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "화학원료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "외상매입 | Cytop등 화학원료 | 펠리클 제조물질 | 14,066(12.9%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "프레임",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "프레임, 케이스외 | 펠리클의 지지대와 보호 박스 | 23,721(21.7%)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "종속회사 XIAN FST.CO.LTD, WUXI FST.CO.LTD, FINE SEMITECH USA CORPORATION은 칠러장비 품질보증 및 수리 용역을 주사업으로 영위함에 따라 TCU 사업부와 포괄적으로 적용하여 기입하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "종속회사 XIAN FST.CO.LTD, WUXI FST.CO.LTD, FINE SEMITECH USA CORPORATION은 칠러장비 품질보증 및 수리 용역을 주사업으로 영위함에 따라 TCU 사업부와 포괄적으로 적용하여 기입하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "펠리클의 판매가격은 환율, 원재료가격, 품질 등을 고려하여 고객과의 단가계약에 의해 1년 단위로 변동하며, 칠러 및 반도체 칩은 주문생산의 특성상 사양조건에 따라 가격이 상이하고 수요업체의 니즈에 부합하는 품질 및 안정성이 가격결정의 주요인으로 대개 프로젝트별로 협의 결정됨."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "펠리클의 판매가격은 환율, 원재료가격, 품질 등을 고려하여 고객과의 단가계약에 의해 1년 단위로 변동하며, 칠러 및 반도체 칩은 주문생산의 특성상 사양조건에 따라 가격이 상이하고 수요업체의 니즈에 부합하는 품질 및 안정성이 가격결정의 주요인으로 대개 프로젝트별로 협의 결정됨."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 펠리클\",\n      \"weight\": 0.39,\n      \"direction\": null,\n      \"evidence\": \"펠리클사업부＊반도체 펠리클 - 반도체 제조시 노광(Photolithography) 공정에서 포토마스크 (Ph otomask)를 이물질로부터 보호하기 위해 사용되는 부품의 제조 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"칠러\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"TCU사업부 반도체, 디스플레이 공정에서 필요로 하는 챔버 내의 온도와 웨이퍼의 주변 온도를 일정하게 유지함으로써 공정효율을 개선하는 장비를 제조 및 판매 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펠리클 프레임\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"종속회사 (주)에스피텍은 2010년 3월 25일 설립되어 반도체 펠리클용 프레임 및 FPD 펠리클용 프레임 제조와 판매를 주요 사업으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"다층세라믹기판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"종속회사 (주)화인세라텍은 2020년 7월 21일 설립되어세라믹 소재 기술을 활용한 프로브카드용 다층세라믹기판(MLC, Multi Layer Ceramic substrates)을 개발 및 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘 카바이드 반도체 부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"종속회사 (주)에프엑스티는 2019년 8월 21일 설립되어 반도체 핵심공정에 들어가는 실리콘 카바이드 소재의 반도체 부품을 개발 및 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"도전성 전극 Paste\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"종속회사 (주)아이엠디는 1999년 9월 22일 설립되어 전자부품 및 디스플레이에 사용되는 도전성 전극 Paste와 OLED용 Sealing Paste를 제조 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"펠리클사업부＊반도체 펠리클 - 반도체 제조시 노광(Photolithography) 공정에서 포토마스크 (Ph otomask)를 이물질로부터 보호하기 위해 사용되는 부품의 제조 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"TCU사업부 반도체, 디스플레이 공정에서 필요로 하는 챔버 내의 온도와 웨이퍼의 주변 온도를 일정하게 유지함으로써 공정효율을 개선하는 장비를 제조 및 판매 하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"(주)아이엠디는 지속적인 R&D 투자를 통해 감광성 Paste의 고객사를 확대하고 PCB용 저가형 Cu Paste 등으로 제품군 확대를 진행하고 있으며 전기자동차의 전장용 모듈 및 전력반도체용 도전성 접착제 Paste 개발을 통해 시장을 확대해 나아갈 예정입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"화학원료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"외상매입 | Cytop등 화학원료 | 펠리클 제조물질 | 14,066(12.9%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"프레임\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"프레임, 케이스외 | 펠리클의 지지대와 보호 박스 | 23,721(21.7%)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"종속회사 XIAN FST.CO.LTD, WUXI FST.CO.LTD, FINE SEMITECH USA CORPORATION은 칠러장비 품질보증 및 수리 용역을 주사업으로 영위함에 따라 TCU 사업부와 포괄적으로 적용하여 기입하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"종속회사 XIAN FST.CO.LTD, WUXI FST.CO.LTD, FINE SEMITECH USA CORPORATION은 칠러장비 품질보증 및 수리 용역을 주사업으로 영위함에 따라 TCU 사업부와 포괄적으로 적용하여 기입하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"펠리클의 판매가격은 환율, 원재료가격, 품질 등을 고려하여 고객과의 단가계약에 의해 1년 단위로 변동하며, 칠러 및 반도체 칩은 주문생산의 특성상 사양조건에 따라 가격이 상이하고 수요업체의 니즈에 부합하는 품질 및 안정성이 가격결정의 주요인으로 대개 프로젝트별로 협의 결정됨.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"펠리클의 판매가격은 환율, 원재료가격, 품질 등을 고려하여 고객과의 단가계약에 의해 1년 단위로 변동하며, 칠러 및 반도체 칩은 주문생산의 특성상 사양조건에 따라 가격이 상이하고 수요업체의 니즈에 부합하는 품질 및 안정성이 가격결정의 주요인으로 대개 프로젝트별로 협의 결정됨.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/036810_20260318001663.txt"
+}

@@ -1,0 +1,171 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "감광액",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제조하는 반도체 및 디스플레이용 재료는 감광액(Photoresist), 반사방지막(BARC), SOC(Spin-on-carbon), 연마제(CMP Slurry), Wet Chemical 등"
+    },
+    {
+      "axis": "product",
+      "value": "발포제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 1967년 설립되어 PVC 및 고무발포제를 국내 최초로 개발, 국산화하면서 성장의 토대를 마련하였고"
+    },
+    {
+      "axis": "product",
+      "value": "Wet Chemical",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Wet chemical : 노광공정 후에 감광층 등을 박리, 식각, 세척 등에 사용되는 화학제품"
+    },
+    {
+      "axis": "product",
+      "value": "연료전지",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "최근에는 전자재료 분야에서 쌓아온 기술력을 바탕으로 차세대 신재생에너지인 연료전지, 이차전지 분야에 집중 투자, 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘 음극재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이차전지 관련 독자적 바인더 용해 기술과 최적화된 고밀도 도전재 분산 기술을 응용한 고출력, 고용량 도전재 슬러리를 제품화하였고 차세대 재료인 CNT 도전재, 실리콘 음극재 개발에 힘쓰고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 반도체 및 디스플레이용 재료, 대체에너지(Li-ion rechargeable batteries, fuel cells)용 재료와 발포제를 제조 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 반도체 및 평판디스플레이 등에 사용되는 감광액과 산업용기초소재인 발포제등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 내장재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "신발밑창 및 장판지 등 건설자재, 자동차 내장제에 주로 사용되는 산업용 기초소재인 발포제를 국내외 화학회사에 주로 납품하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제53기 현재 당사의 주요 매출처는 삼성전자(주), 에스케이하이닉스(주), 엘지디스플레이(주) 등 입니다. 삼성전자(주) 매출은 706,185백만원으로 제53 매출의 59.14%이며"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "에스케이하이닉스(주) 매출은 148,915백만원으로 제53기 매출의 12.47%이며"
+    },
+    {
+      "axis": "customer",
+      "value": "LG디스플레이",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "엘지디스플레이(주) 매출은 72,591백만원으로 제53기 매출의 6.08%로 반도체 및 LCD 등의 전자재료를 판매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Solvent",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PAC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "RESIN",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "발안공장 | 경기 화성 양감 요당리 625-3 외 | 동진쎄미켐 소유"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인천공장 | 인천 서구 가좌동 472-2 | 동진쎄미켐 소유"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "음성공장 | 충북 음성군 대소면 부윤리 15 | 동진쎄미켐 소유"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "예산공장 | 충남 예산군 신암면 조곡리 9-30 | 신암정유 소유"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "중국 10개 법인(북경동진쎄미켐과기유한공사, 얼도스시동진쎄미켐전자재료유한공사, 사천동진전자재료과기유한공사 등)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "미국: DSM SEMICHEM, DONGJIN SEMICHEM TEXAS 2개"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "환율변동 및 유가변동 등 원재료 수급상황에 따라 가격변동요인이 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "환율변동 및 유가변동 등 원재료 수급상황에 따라 가격변동요인이 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 및 디스플레이 전방산업 투자",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당사의 전자재료 사업부문은 전방산업인 디스플레이 및 반도체산업과 직접적인 연관성을 갖고 있어 디스플레이, 반도체 제조사의 신규 투자, 공장 증설, 가동률 등 CAPEX Plan에 영향을 받으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"감광액\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사가 제조하는 반도체 및 디스플레이용 재료는 감광액(Photoresist), 반사방지막(BARC), SOC(Spin-on-carbon), 연마제(CMP Slurry), Wet Chemical 등\"}, {\"axis\": \"product\", \"value\": \"발포제\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 1967년 설립되어 PVC 및 고무발포제를 국내 최초로 개발, 국산화하면서 성장의 토대를 마련하였고\"}, {\"axis\": \"product\", \"value\": \"Wet Chemical\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Wet chemical : 노광공정 후에 감광층 등을 박리, 식각, 세척 등에 사용되는 화학제품\"}, {\"axis\": \"product\", \"value\": \"연료전지\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"최근에는 전자재료 분야에서 쌓아온 기술력을 바탕으로 차세대 신재생에너지인 연료전지, 이차전지 분야에 집중 투자, 개발하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"실리콘 음극재\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"이차전지 관련 독자적 바인더 용해 기술과 최적화된 고밀도 도전재 분산 기술을 응용한 고출력, 고용량 도전재 슬러리를 제품화하였고 차세대 재료인 CNT 도전재, 실리콘 음극재 개발에 힘쓰고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"반도체\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사는 반도체 및 디스플레이용 재료, 대체에너지(Li-ion rechargeable batteries, fuel cells)용 재료와 발포제를 제조 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"디스플레이\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"당사는 반도체 및 평판디스플레이 등에 사용되는 감광액과 산업용기초소재인 발포제등을 생산, 판매하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"자동차 내장재\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"신발밑창 및 장판지 등 건설자재, 자동차 내장제에 주로 사용되는 산업용 기초소재인 발포제를 국내외 화학회사에 주로 납품하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"제53기 현재 당사의 주요 매출처는 삼성전자(주), 에스케이하이닉스(주), 엘지디스플레이(주) 등 입니다. 삼성전자(주) 매출은 706,185백만원으로 제53 매출의 59.14%이며\"}, {\"axis\": \"customer\", \"value\": \"SK하이닉스\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"에스케이하이닉스(주) 매출은 148,915백만원으로 제53기 매출의 12.47%이며\"}, {\"axis\": \"customer\", \"value\": \"LG디스플레이\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"엘지디스플레이(주) 매출은 72,591백만원으로 제53기 매출의 6.08%로 반도체 및 LCD 등의 전자재료를 판매하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Solvent\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고\"}, {\"axis\": \"raw_material\", \"value\": \"PAC\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고\"}, {\"axis\": \"raw_material\", \"value\": \"RESIN\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"국내전자재료 사업부문, 국내정제유 사업부문, 해외전자재료 사업부문의 감광액, 박리액, 식각액 등의 전자재료 제조에 소요되는 Solvent. PAC. RESIN을 위하여 641,215백만원의 원재료를 매입하였고\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"발안공장 | 경기 화성 양감 요당리 625-3 외 | 동진쎄미켐 소유\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"인천공장 | 인천 서구 가좌동 472-2 | 동진쎄미켐 소유\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"음성공장 | 충북 음성군 대소면 부윤리 15 | 동진쎄미켐 소유\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"예산공장 | 충남 예산군 신암면 조곡리 9-30 | 신암정유 소유\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"중국 10개 법인(북경동진쎄미켐과기유한공사, 얼도스시동진쎄미켐전자재료유한공사, 사천동진전자재료과기유한공사 등)\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"미국: DSM SEMICHEM, DONGJIN SEMICHEM TEXAS 2개\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"환율변동 및 유가변동 등 원재료 수급상황에 따라 가격변동요인이 있으나\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"환율변동 및 유가변동 등 원재료 수급상황에 따라 가격변동요인이 있으나\"}, {\"axis\": \"exposure\", \"value\": \"반도체 및 디스플레이 전방산업 투자\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"당사의 전자재료 사업부문은 전방산업인 디스플레이 및 반도체산업과 직접적인 연관성을 갖고 있어 디스플레이, 반도체 제조사의 신규 투자, 공장 증설, 가동률 등 CAPEX Plan에 영향을 받으며\"}]}\n```"
+  ],
+  "text_path": "data/reports/005290_20260319000264.txt"
+}

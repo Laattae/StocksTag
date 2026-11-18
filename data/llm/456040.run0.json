@@ -1,0 +1,215 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체용 폴리실리콘",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "반도체용 폴리실리콘,과산화수소 등 | 반도체 관련 소재 등 | 586,525 | 28%"
+    },
+    {
+      "axis": "product",
+      "value": "핏치",
+      "weight": 0.56,
+      "direction": null,
+      "evidence": "핏치,BTX,PA 등 | 가소제, 알키드수지,안료 등 | 1,181,039 | 56%"
+    },
+    {
+      "axis": "product",
+      "value": "과산화수소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "연결회사는 베이직케미컬 사업(반도체용 폴리실리콘, 인산, 과산화수소, 헥사클로로디실란(HCDS), 클로르알칼리(CA) 등)"
+    },
+    {
+      "axis": "product",
+      "value": "카본블랙",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "카본케미컬 사업 부문(카본블랙, 핏치, 벤젠, PA 등이 있습니다.)"
+    },
+    {
+      "axis": "product",
+      "value": "TDI",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "베이직케미컬 사업 부문은 주로 무기화학제품들을 생산하는 분야이며, 주요 제품은 반도체용 폴리실리콘, 과산화수소, TDI 등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "반도체 산업 성장과 함께 반도체용 폴리실리콘 시장도 지속적으로 성장할 것으로 예상하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 타이어",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고무용 카본블랙은 자동차 타이어, 튜브, 벨트 등 고무 물성 보강재로 사용되며, 타이어, 자동차 산업 등과 함께 성장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "과산화수소는 이차전지 배터리 제조에 산화제 용도, 섬유 및 종이 등의 표백, 폐수처리 용도로 널리 사용되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국타이어",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특히 카본블랙은 한국타이어, 넥센타이어 등 유수의 자동차 타이어 업체에 안정적으로 공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "넥센타이어",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특히 카본블랙은 한국타이어, 넥센타이어 등 유수의 자동차 타이어 업체에 안정적으로 공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK실트론",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "SK Siltron Incorporated(SK실트론) | 2012~2028 | 537.5"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Naphtha",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "과산화수소는 나프타(Naphtha)와 천연가스(NG)를 원료로 하여 생산된 수소를 활용해 산화 공정 및 추출 공정을 통해 생산되며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "FCC",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "FCC | 카본블랙 원료 | 421 | 470 | 456 | SK 에너지,에이치디현대오일뱅크 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "콜타르",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "철강 제조공정에서 생산되는 콜타르를 증류하여 오일 성분을 제거한 후 남은 잔여물을 핏치라고 정의합니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "연결회사는 외화로 표시된 통화를 이용하여 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "석유화학제품의 수요 증가율은 GDP 성장률과 밀접한 관계가 있으며, 가격은 환율 변동이나 유가 등락에 큰 영향을 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "폴리실리콘",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고"
+    },
+    {
+      "axis": "product",
+      "value": "고순도인산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고"
+    },
+    {
+      "axis": "product",
+      "value": "카본블랙",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고"
+    },
+    {
+      "axis": "product",
+      "value": "핏치",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고"
+    },
+    {
+      "axis": "product",
+      "value": "과산화수소",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년과 2024년에는 군산시청, 군산대학교와 함께 해양생물 다양성 보존 사업을 위한 업무 협약을 체결하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포항 및 광양공장은 지자체 및 주변 기업체와 함께 해변 정화활동에 참여하는 등 쾌적한 자연환경을 만들기 위해 노력하고 있고"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "포항 및 광양공장은 지자체 및 주변 기업체와 함께 해변 정화활동에 참여하는 등 쾌적한 자연환경을 만들기 위해 노력하고 있고"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년부터 2025년까지 임직원 및 임직원 가족과 함께 서울 도심 속 OCI 숲 가꾸기 활동도 진행하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체용 폴리실리콘\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"반도체용 폴리실리콘,과산화수소 등 | 반도체 관련 소재 등 | 586,525 | 28%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핏치\",\n      \"weight\": 0.56,\n      \"direction\": null,\n      \"evidence\": \"핏치,BTX,PA 등 | 가소제, 알키드수지,안료 등 | 1,181,039 | 56%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"과산화수소\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 베이직케미컬 사업(반도체용 폴리실리콘, 인산, 과산화수소, 헥사클로로디실란(HCDS), 클로르알칼리(CA) 등)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카본블랙\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"카본케미컬 사업 부문(카본블랙, 핏치, 벤젠, PA 등이 있습니다.)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TDI\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"베이직케미컬 사업 부문은 주로 무기화학제품들을 생산하는 분야이며, 주요 제품은 반도체용 폴리실리콘, 과산화수소, TDI 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"반도체 산업 성장과 함께 반도체용 폴리실리콘 시장도 지속적으로 성장할 것으로 예상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 타이어\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고무용 카본블랙은 자동차 타이어, 튜브, 벨트 등 고무 물성 보강재로 사용되며, 타이어, 자동차 산업 등과 함께 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이차전지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"과산화수소는 이차전지 배터리 제조에 산화제 용도, 섬유 및 종이 등의 표백, 폐수처리 용도로 널리 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국타이어\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"특히 카본블랙은 한국타이어, 넥센타이어 등 유수의 자동차 타이어 업체에 안정적으로 공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넥센타이어\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"특히 카본블랙은 한국타이어, 넥센타이어 등 유수의 자동차 타이어 업체에 안정적으로 공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK실트론\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"SK Siltron Incorporated(SK실트론) | 2012~2028 | 537.5\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Naphtha\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"과산화수소는 나프타(Naphtha)와 천연가스(NG)를 원료로 하여 생산된 수소를 활용해 산화 공정 및 추출 공정을 통해 생산되며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"FCC\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"FCC | 카본블랙 원료 | 421 | 470 | 456 | SK 에너지,에이치디현대오일뱅크 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"콜타르\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"철강 제조공정에서 생산되는 콜타르를 증류하여 오일 성분을 제거한 후 남은 잔여물을 핏치라고 정의합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 군산, 익산, 포항, 광양 등 국내 사업장과 중국 등 해외 사업장을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 외화로 표시된 통화를 이용하여 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"석유화학제품의 수요 증가율은 GDP 성장률과 밀접한 관계가 있으며, 가격은 환율 변동이나 유가 등락에 큰 영향을 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리실리콘\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고순도인산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카본블랙\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핏치\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"과산화수소\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"2024년 CML 2001 방법론(Centrum voor Milieuwetenschappen Leiden, CML)으로 5개 제품(폴리실리콘, 고순도인산, 카본블랙, 핏치, 과산화수소)에 대한 LCA를 완료하였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년과 2024년에는 군산시청, 군산대학교와 함께 해양생물 다양성 보존 사업을 위한 업무 협약을 체결하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포항 및 광양공장은 지자체 및 주변 기업체와 함께 해변 정화활동에 참여하는 등 쾌적한 자연환경을 만들기 위해 노력하고 있고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"포항 및 광양공장은 지자체 및 주변 기업체와 함께 해변 정화활동에 참여하는 등 쾌적한 자연환경을 만들기 위해 노력하고 있고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년부터 2025년까지 임직원 및 임직원 가족과 함께 서울 도심 속 OCI 숲 가꾸기 활동도 진행하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/456040_20260313000943.txt"
+}

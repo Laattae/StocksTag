@@ -1,0 +1,228 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "백화점",
+      "weight": 0.384,
+      "direction": null,
+      "evidence": "2025년 연결 기준 매출은 6조 9,295억원이며 각 사업 부문별로는 백화점업이 2조 6,611억으로 38.4%이며"
+    },
+    {
+      "axis": "product",
+      "value": "면세점",
+      "weight": 0.333,
+      "direction": null,
+      "evidence": "면세업이 2조 3,056억으로 33.3%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "패션",
+      "weight": 0.196,
+      "direction": null,
+      "evidence": "도소매업이 1조 9,445억으로 28.1%..."
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.196,
+      "direction": null,
+      "evidence": "도소매업은 패션 및 라이프스타일,화장품 제조 등"
+    },
+    {
+      "axis": "product",
+      "value": "가구",
+      "weight": 0.036,
+      "direction": null,
+      "evidence": "가구소매가 247,032로 3.6%..."
+    },
+    {
+      "axis": "application",
+      "value": "의류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "식품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "금호고속",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 당사는 2024년 7월 1일부로 금호고속 주식회사로부터 광주종합버스터미널(유스퀘어)을 영업양수하며 운영을 시작하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 서울 강남 핵심지역에 위치하고 있으며 지하철 3,7,9호선이 교차하고 터미널 및 지하상가 등으로국내 최고수준의 유동인구를 확보하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "센텀시티점 | 부산 해운대구"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "사우스시티점 | 경기 용인시"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)신세계동대구복합환승센터 | 대구점 | 대구시 동구"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "(주)대전신세계 | Art&Science점 | 대전시 유성구"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "백화점 산업은 고금리, 고물가로 인한 소비 심리 위축으로 인한 성장률 둔화 기조 속에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "물가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "백화점 산업은 고금리, 고물가로 인한 소비 심리 위축으로 인한 성장률 둔화 기조 속에서"
+    },
+    {
+      "axis": "exposure",
+      "value": "관세",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "글로벌 교역질서의 변화와 환율·관세 부담, 경기둔화에 따른 소비심리 위축은 유통산업 전반의 경쟁 구도를 빠르게 변화시키고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기둔화",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "글로벌 교역질서의 변화와 환율·관세 부담, 경기둔화에 따른 소비심리 위축은 유통산업 전반의 경쟁 구도를 빠르게 변화시키고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "패션의류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "해외 유명 패션 브랜드를 국내에 직수입하여 우량 유통채널을 통해 판매하고, 여성복 등 캐주얼 브랜드, 라이프스타일 브랜드를 기획, 생산, 유통하는 패션라이프스타일부문"
+    },
+    {
+      "axis": "product",
+      "value": "코스메틱",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "해외 력셔리 및 자체 제작 코스메틱 브랜드를 기획, 생산,유통하는 코스메틱부문으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가구",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "마테라소 프리미엄 라인, 까사미아 캄포 구스 등 신제품 호응과 더불어 주방 제작가구 시장 진출 등을 통한 향후 실적 반등을 기대해 볼 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "면세점 서비스",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "면세업 | 매출액 | 2,305,560 | 33.3%"
+    },
+    {
+      "axis": "product",
+      "value": "백화점 서비스",
+      "weight": 0.38,
+      "direction": null,
+      "evidence": "백화점업 | 매출액 | 2,661,149 | 38.4%"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "패션 및 의류산업은 경기변동과 높은 상관관계가 있다고 할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "건설경기 악화로 인한 신규 입주아파트 단지의 지속적인 물량감소와 함께 환율 변동 등 다양한 외부 요인들이 실적에 영향을 미쳤으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "가구의 주요 수요처 중 하나가 경기에 민감한 건설업이기 때문이기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "세계 경기",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "면세업은 외국인 매출 비중이 높아 국내 경기 민감도 보다는 세계 경기의 흐름과 환율 변동에 따라 여행 수요가 변화하는 만큼 국제 경기의 영향을 받습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "(주)신세계센트럴은 서울의 중심인 서초구 반포동 일대 대지면적 약 17,900여평, 건물 연면적 약 87,000평의 대단위 사업부지에 세워진 복합생활공간입니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2021년 8월 대전광역시에 171개 객실, 3개 식음업장과 연회장, 휘트니스와 실내수영장을 보유한 신규 호텔 '호텔오노마 대전 오토그래프 컬렉션'을 개관하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "천혜의 자연경관 속에 위치한 영랑호리조트는 타워콘도 200실과 빌라동 19개 및 9H 퍼블릭 골프장을 갖춘 강원도 동해안을 찾는 관광객에게 진정한 힐링을 제공해주는 종합리조트로 자리잡고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"백화점\",\n      \"weight\": 0.384,\n      \"direction\": null,\n      \"evidence\": \"2025년 연결 기준 매출은 6조 9,295억원이며 각 사업 부문별로는 백화점업이 2조 6,611억으로 38.4%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"면세점\",\n      \"weight\": 0.333,\n      \"direction\": null,\n      \"evidence\": \"면세업이 2조 3,056억으로 33.3%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"패션\",\n      \"weight\": 0.196,\n      \"direction\": null,\n      \"evidence\": \"도소매업이 1조 9,445억으로 28.1%...\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.196,\n      \"direction\": null,\n      \"evidence\": \"도소매업은 패션 및 라이프스타일,화장품 제조 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가구\",\n      \"weight\": 0.036,\n      \"direction\": null,\n      \"evidence\": \"가구소매가 247,032로 3.6%...\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 백화점업, 도소매업, 면세업 사업부문에서 온라인 및 오프라인 유통채널을 통해 식품, 의류, 화장품, 가구, 가전제품 등의 상품을 판매하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"금호고속\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한 당사는 2024년 7월 1일부로 금호고속 주식회사로부터 광주종합버스터미널(유스퀘어)을 영업양수하며 운영을 시작하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울 강남 핵심지역에 위치하고 있으며 지하철 3,7,9호선이 교차하고 터미널 및 지하상가 등으로국내 최고수준의 유동인구를 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"센텀시티점 | 부산 해운대구\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"사우스시티점 | 경기 용인시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(주)신세계동대구복합환승센터 | 대구점 | 대구시 동구\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"(주)대전신세계 | Art&Science점 | 대전시 유성구\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"백화점 산업은 고금리, 고물가로 인한 소비 심리 위축으로 인한 성장률 둔화 기조 속에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"물가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"백화점 산업은 고금리, 고물가로 인한 소비 심리 위축으로 인한 성장률 둔화 기조 속에서\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"관세\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 교역질서의 변화와 환율·관세 부담, 경기둔화에 따른 소비심리 위축은 유통산업 전반의 경쟁 구도를 빠르게 변화시키고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기둔화\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 교역질서의 변화와 환율·관세 부담, 경기둔화에 따른 소비심리 위축은 유통산업 전반의 경쟁 구도를 빠르게 변화시키고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"패션의류\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"해외 유명 패션 브랜드를 국내에 직수입하여 우량 유통채널을 통해 판매하고, 여성복 등 캐주얼 브랜드, 라이프스타일 브랜드를 기획, 생산, 유통하는 패션라이프스타일부문\"}, {\"axis\": \"product\", \"value\": \"코스메틱\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"해외 력셔리 및 자체 제작 코스메틱 브랜드를 기획, 생산,유통하는 코스메틱부문으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"가구\", \"weight\": 0.28, \"direction\": null, \"evidence\": \"마테라소 프리미엄 라인, 까사미아 캄포 구스 등 신제품 호응과 더불어 주방 제작가구 시장 진출 등을 통한 향후 실적 반등을 기대해 볼 수 있습니다.\"}, {\"axis\": \"product\", \"value\": \"면세점 서비스\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"면세업 | 매출액 | 2,305,560 | 33.3%\"}, {\"axis\": \"product\", \"value\": \"백화점 서비스\", \"weight\": 0.38, \"direction\": null, \"evidence\": \"백화점업 | 매출액 | 2,661,149 | 38.4%\"}, {\"axis\": \"exposure\", \"value\": \"경기변동\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"패션 및 의류산업은 경기변동과 높은 상관관계가 있다고 할 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"건설경기 악화로 인한 신규 입주아파트 단지의 지속적인 물량감소와 함께 환율 변동 등 다양한 외부 요인들이 실적에 영향을 미쳤으나\"}, {\"axis\": \"exposure\", \"value\": \"건설경기\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"가구의 주요 수요처 중 하나가 경기에 민감한 건설업이기 때문이기도 합니다.\"}, {\"axis\": \"exposure\", \"value\": \"세계 경기\", \"weight\": 0.7, \"direction\": 1, \"evidence\": \"면세업은 외국인 매출 비중이 높아 국내 경기 민감도 보다는 세계 경기의 흐름과 환율 변동에 따라 여행 수요가 변화하는 만큼 국제 경기의 영향을 받습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"(주)신세계센트럴은 서울의 중심인 서초구 반포동 일대 대지면적 약 17,900여평, 건물 연면적 약 87,000평의 대단위 사업부지에 세워진 복합생활공간입니다.\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 2021년 8월 대전광역시에 171개 객실, 3개 식음업장과 연회장, 휘트니스와 실내수영장을 보유한 신규 호텔 '호텔오노마 대전 오토그래프 컬렉션'을 개관하였습니다.\"}, {\"axis\": \"region\", \"value\": \"강원\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"천혜의 자연경관 속에 위치한 영랑호리조트는 타워콘도 200실과 빌라동 19개 및 9H 퍼블릭 골프장을 갖춘 강원도 동해안을 찾는 관광객에게 진정한 힐링을 제공해주는 종합리조트로 자리잡고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/004170_20260316001039.txt"
+}

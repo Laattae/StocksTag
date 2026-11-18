@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "정형외과 수술로봇",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 의료로봇의 연구개발 및 판매를 주력으로 하는 의료로봇 전문기업으로 정형외과 수술로봇 및 재활로봇을 중심으로 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "재활로봇",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 의료로봇의 연구개발 및 판매를 주력으로 하는 의료로봇 전문기업으로 정형외과 수술로봇 및 재활로봇을 중심으로 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "인공관절 임플란트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "임플란트 유통사업은 인공관절 등 정형외과용 의료기기를 수입ㆍ판매하는 사업으로 기존 병원 영업 네트워크를 활용하여 안정적인 매출 기반을 형성하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "식품 원재료",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이 외에 무역사업에서는 발효유, 음료 및 라면 제조용 원재료를 수입ㆍ유통하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "정형외과 수술",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "특히 큐렉소의 주력 분야인 정형외과 시장은 그 잠재력이 매우 높습니다."
+    },
+    {
+      "axis": "application",
+      "value": "재활 치료",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "재활로봇은 환자의 재활 훈련을 보조하거나 능동적으로 수행함으로써 기능 회복 및 일상 복귀를 지원하는 의료기기입니다."
+    },
+    {
+      "axis": "application",
+      "value": "발효유 및 라면 산업",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "발효유 및 라면 산업은 경기 변동에 대한 수요 탄력성이 낮은 특성을 보이며 비교적 안정적인 시장을 형성하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에치와이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "무역사업부문은 식품 원재료의 수입 판매 ㈜에치와이(구 '㈜한국야쿠르트') ㈜팔도 외"
+    },
+    {
+      "axis": "customer",
+      "value": "팔도",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "무역사업부문은 식품 원재료의 수입 판매 ㈜에치와이(구 '㈜한국야쿠르트') ㈜팔도 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "로봇 제조 부품",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "의료로봇사업부문 큐비스-조인트, 큐비스-스파인, 모닝워크 제조 부품"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "지역별로는 국내 본사를 중심으로 연구개발, 영업 및 경영관리 기능을 수행하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "당사는 장부통화와 다른 수입과 지출로 인해 외환위험, 특히 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "주요 품목은 치커리 식이섬유, 결정과당 등이며 환율, 유가, 국제 농산물 시세 변동에 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 농산물 시세",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "주요 품목은 치커리 식이섬유, 결정과당 등이며 환율, 유가, 국제 농산물 시세 변동에 영향을 받는 구조입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"정형외과 수술로봇\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 의료로봇의 연구개발 및 판매를 주력으로 하는 의료로봇 전문기업으로 정형외과 수술로봇 및 재활로봇을 중심으로 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"재활로봇\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 의료로봇의 연구개발 및 판매를 주력으로 하는 의료로봇 전문기업으로 정형외과 수술로봇 및 재활로봇을 중심으로 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인공관절 임플란트\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"임플란트 유통사업은 인공관절 등 정형외과용 의료기기를 수입ㆍ판매하는 사업으로 기존 병원 영업 네트워크를 활용하여 안정적인 매출 기반을 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식품 원재료\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이 외에 무역사업에서는 발효유, 음료 및 라면 제조용 원재료를 수입ㆍ유통하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"정형외과 수술\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"특히 큐렉소의 주력 분야인 정형외과 시장은 그 잠재력이 매우 높습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"재활 치료\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"재활로봇은 환자의 재활 훈련을 보조하거나 능동적으로 수행함으로써 기능 회복 및 일상 복귀를 지원하는 의료기기입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발효유 및 라면 산업\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"발효유 및 라면 산업은 경기 변동에 대한 수요 탄력성이 낮은 특성을 보이며 비교적 안정적인 시장을 형성하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에치와이\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"무역사업부문은 식품 원재료의 수입 판매 ㈜에치와이(구 '㈜한국야쿠르트') ㈜팔도 외\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"팔도\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"무역사업부문은 식품 원재료의 수입 판매 ㈜에치와이(구 '㈜한국야쿠르트') ㈜팔도 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"로봇 제조 부품\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"의료로봇사업부문 큐비스-조인트, 큐비스-스파인, 모닝워크 제조 부품\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"지역별로는 국내 본사를 중심으로 연구개발, 영업 및 경영관리 기능을 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"당사는 장부통화와 다른 수입과 지출로 인해 외환위험, 특히 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"주요 품목은 치커리 식이섬유, 결정과당 등이며 환율, 유가, 국제 농산물 시세 변동에 영향을 받는 구조입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 농산물 시세\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"주요 품목은 치커리 식이섬유, 결정과당 등이며 환율, 유가, 국제 농산물 시세 변동에 영향을 받는 구조입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/060280_20260317000027.txt"
+}

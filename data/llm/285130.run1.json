@@ -1,0 +1,286 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Copolyester 수지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅,접착용 Polyester 수지, 바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등 고객 Needs에 따른 차별화된 제품을 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "백신",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Life Science Biz.는 제약 사업(Pharma사업부문)과 백신 사업(SK바이오사이언스) 등 2개 분야에서 헬스케어 사업을 전개하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "DMT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅, 접착용 Polyester 수지,바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등"
+    },
+    {
+      "axis": "product",
+      "value": "바이오폴리올",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등 고객 Needs에 따른 차별화된 제품을 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화학적 재활용 PET",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 생산 인프라를 구축하며 신규 성장 동력을 확보해 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스팀",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "구역전기사업자로서 공급구역내 열(스팀)과 전기 판매 사업을 전개하고 있는 SK멀티유틸리티가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "구역전기사업자로서 공급구역내 열(스팀)과 전기 판매 사업을 전개하고 있는 SK멀티유틸리티가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "관절염 치료제",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "천연물 관절염 치료제, 혈액순환 개선제 등 자체 개발한 신약과, 자회사 SK바이오사이언스의 세계 최초 세포배양 4가 독감 백신"
+    },
+    {
+      "axis": "application",
+      "value": "화장품 용기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "우수한 투명성과 내화학성, 가공성, 성형성을 바탕으로 화장품 용기, 전자부품, 건축자재 등 생활용품부터 산업재까지 다양한 용도에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전자부품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "우수한 투명성과 내화학성, 가공성, 성형성을 바탕으로 화장품 용기, 전자부품, 건축자재 등 생활용품부터 산업재까지 다양한 용도에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "식품용기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "ECOZEN은 그 우수한 특성을 바탕으로 전자제품, 식품용기, 유아용품 등의 넓은 영역에서 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "최근 내열, 내구성, 내절연의 Needs로 자동차용 필름과 고내열 섬유 등으로의 용도 확대해 판매하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Sanofi",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2023년 11월에는 Sanofi와 공동개발중인 21가 폐렴구균백신 상업생산을 위한 L House 생산시설 증축을 결정하여"
+    },
+    {
+      "axis": "customer",
+      "value": "Novavax",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Novavax COVID-19 백신 기술 도입 | Novavax"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PTA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "MEG",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유연탄",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전력, 스팀 등 유틸리티 공급은 유연탄, 우드칩 등을 원재료로 사용하여 스팀 및 전기를 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 원재료인 LNG는 국외 특수관계자인 SK GAS INTERNATIONAL PTE.로부터 전량 매입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "2025년 4분기에는 원부자재 조달이 전반적으로 안정적으로 유지되었으나, 글로벌 금융시장의 변동성 확대와 지속된 미국 달러 강세로 원·달러 환율이 높은 수준을 유지하며 수입 제품 원가 부담이 이어졌습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다. 해당 원재료들은 유가 및 환율의 영향을 직접적으로 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Copolyester",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "글로벌 Copolyester 수지 시장 점유율 추이 | \n제 품\n | \n2025년 | \n2024년 | \n2023년 | \nCopolyester | \n43% | \n43% | \n42%"
+    },
+    {
+      "axis": "product",
+      "value": "DMT",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Main 시장인 중국 DMT 시장 점유율 추이 | \n제 품\n | \n2025년 | \n2024년 | \n2023년 | \nSKYDMT | \n90% | \n90% | \n90%"
+    },
+    {
+      "axis": "product",
+      "value": "바이오폴리올",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "당사는 옥수수를 원료로 한 바이오폴리올인 PO3G 사업을 본격화하여 이같은 요구에 부응하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "독감백신",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "독감백신 | \n22% | \n23% | \n30% | \n출처 : 자체추정(식약처, 국가출하승인자료 및 CDC 접종률 참고)"
+    },
+    {
+      "axis": "product",
+      "value": "대상포진백신",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "대상포진백신 | \n42% | \n35% | \n44% | \n출처 : IMS data"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화학제품은 자동차, 전자, 건설 등의 산업에 소재를 공급하는 기초소재 산업으로 생활용품, 산업용품, 건축자재 등의 소재로 쓰임은 물론"
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "고부가 주력 시장인 화장품 시장에서는 재활용된 원료를 일부 함유한 ECOTRIA 시리즈를 중심으로 한 성장기반을 확보하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "패션",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "100% 바이오기반 폴리올인 PO3G 전용설비를 구축하여 성공적인 시운전 을 거쳐 2022년 05월 이후 양산체제 돌입, 전과정 평가(LCA)에서 기존 석유화학 기반 폴리올 생산공정 대비 온실가스 발생을 40%감축할 수 있는 것으로 평가되는 PO3G는 폴리우레탄 소재에 환경 친화적 솔루션을 제공할 수 있어, 자동차용 내장재, 패션, 스포츠용 소재에 채택되어 본격적인 공급을 시작"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 옥수수를 원료로 한 바이오폴리올인 PO3G 사업을 본격화하여 이같은 요구에 부응하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "SK멀티유틸리티는 2025년 하반기 LNGㆍLPG 기반 열병합발전소를 완공하여 현재 안정적인 상업 운영에 들어갔습니다. 전력과 스팀을 동시에 생산하는 고효율 설비로 미포국가산업단지 내 기업들의 에너지 공급 안정성을 강화했으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외 종속회사인 Shuye-SK환보재료(산터우)유한회사를 설립하여 전략시장인 중국 사업기반 구축 및 Operation 역량을 확보하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한, SK바이오사이언스는 2024년 10월 독일 소재의 IDT Biologika를 인수하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "이렇듯 화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "이렇듯 화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "Life ScienceBiz.",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Life ScienceBiz. |\n매출액\n |\n1,139,815,225 |"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Copolyester 수지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅,접착용 Polyester 수지, 바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등 고객 Needs에 따른 차별화된 제품을 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"백신\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Life Science Biz.는 제약 사업(Pharma사업부문)과 백신 사업(SK바이오사이언스) 등 2개 분야에서 헬스케어 사업을 전개하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"DMT\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 Green Chemicals Biz.는 고기능성 Copolyester 수지, DMT, 코팅, 접착용 Polyester 수지,바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오폴리올\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"바이오폴리올(PO3G), 화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 등 고객 Needs에 따른 차별화된 제품을 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화학적 재활용 PET\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"화학적 재활용 PET(CR-PET) 및 원료(r-BHET) 생산 인프라를 구축하며 신규 성장 동력을 확보해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스팀\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"구역전기사업자로서 공급구역내 열(스팀)과 전기 판매 사업을 전개하고 있는 SK멀티유틸리티가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"구역전기사업자로서 공급구역내 열(스팀)과 전기 판매 사업을 전개하고 있는 SK멀티유틸리티가 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"관절염 치료제\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"천연물 관절염 치료제, 혈액순환 개선제 등 자체 개발한 신약과, 자회사 SK바이오사이언스의 세계 최초 세포배양 4가 독감 백신\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"우수한 투명성과 내화학성, 가공성, 성형성을 바탕으로 화장품 용기, 전자부품, 건축자재 등 생활용품부터 산업재까지 다양한 용도에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전자부품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"우수한 투명성과 내화학성, 가공성, 성형성을 바탕으로 화장품 용기, 전자부품, 건축자재 등 생활용품부터 산업재까지 다양한 용도에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품용기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"ECOZEN은 그 우수한 특성을 바탕으로 전자제품, 식품용기, 유아용품 등의 넓은 영역에서 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"최근 내열, 내구성, 내절연의 Needs로 자동차용 필름과 고내열 섬유 등으로의 용도 확대해 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sanofi\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2023년 11월에는 Sanofi와 공동개발중인 21가 폐렴구균백신 상업생산을 위한 L House 생산시설 증축을 결정하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Novavax\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Novavax COVID-19 백신 기술 도입 | Novavax\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PTA\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MEG\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유연탄\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전력, 스팀 등 유틸리티 공급은 유연탄, 우드칩 등을 원재료로 사용하여 스팀 및 전기를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 LNG는 국외 특수관계자인 SK GAS INTERNATIONAL PTE.로부터 전량 매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 판교 본사를 거점으로 울산, 청주, 안동 등 국내 3개 생산 공장과 중국 연태, 산터우의 2개 생산 공장\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"2025년 4분기에는 원부자재 조달이 전반적으로 안정적으로 유지되었으나, 글로벌 금융시장의 변동성 확대와 지속된 미국 달러 강세로 원·달러 환율이 높은 수준을 유지하며 수입 제품 원가 부담이 이어졌습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"Green Chemicals Biz.는 PTA, MEG, CHDM 등을 원재료로 사용하여 고기능성 Copolyester 수지, Polyester 접착제 등을 생산하고 있습니다. 해당 원재료들은 유가 및 환율의 영향을 직접적으로 받고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Copolyester\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"글로벌 Copolyester 수지 시장 점유율 추이 | \\n제 품\\n | \\n2025년 | \\n2024년 | \\n2023년 | \\nCopolyester | \\n43% | \\n43% | \\n42%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"DMT\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Main 시장인 중국 DMT 시장 점유율 추이 | \\n제 품\\n | \\n2025년 | \\n2024년 | \\n2023년 | \\nSKYDMT | \\n90% | \\n90% | \\n90%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오폴리올\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"당사는 옥수수를 원료로 한 바이오폴리올인 PO3G 사업을 본격화하여 이같은 요구에 부응하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"독감백신\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"독감백신 | \\n22% | \\n23% | \\n30% | \\n출처 : 자체추정(식약처, 국가출하승인자료 및 CDC 접종률 참고)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대상포진백신\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"대상포진백신 | \\n42% | \\n35% | \\n44% | \\n출처 : IMS data\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"화학제품은 자동차, 전자, 건설 등의 산업에 소재를 공급하는 기초소재 산업으로 생활용품, 산업용품, 건축자재 등의 소재로 쓰임은 물론\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"고부가 주력 시장인 화장품 시장에서는 재활용된 원료를 일부 함유한 ECOTRIA 시리즈를 중심으로 한 성장기반을 확보하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"패션\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"100% 바이오기반 폴리올인 PO3G 전용설비를 구축하여 성공적인 시운전 을 거쳐 2022년 05월 이후 양산체제 돌입, 전과정 평가(LCA)에서 기존 석유화학 기반 폴리올 생산공정 대비 온실가스 발생을 40%감축할 수 있는 것으로 평가되는 PO3G는 폴리우레탄 소재에 환경 친화적 솔루션을 제공할 수 있어, 자동차용 내장재, 패션, 스포츠용 소재에 채택되어 본격적인 공급을 시작\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 옥수수를 원료로 한 바이오폴리올인 PO3G 사업을 본격화하여 이같은 요구에 부응하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"SK멀티유틸리티는 2025년 하반기 LNGㆍLPG 기반 열병합발전소를 완공하여 현재 안정적인 상업 운영에 들어갔습니다. 전력과 스팀을 동시에 생산하는 고효율 설비로 미포국가산업단지 내 기업들의 에너지 공급 안정성을 강화했으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외 종속회사인 Shuye-SK환보재료(산터우)유한회사를 설립하여 전략시장인 중국 사업기반 구축 및 Operation 역량을 확보하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한, SK바이오사이언스는 2024년 10월 독일 소재의 IDT Biologika를 인수하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"이렇듯 화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"이렇듯 화학산업은 모든 산업이 전방산업이며 글로벌 경기와 환율 변동, 중동 지정학적 리스크에 따른 유가 변동성 등 다양한 외부 환경에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"Life ScienceBiz.\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Life ScienceBiz. |\\n매출액\\n |\\n1,139,815,225 |\"}]}"
+  ],
+  "text_path": "data/reports/285130_20260319000495.txt"
+}

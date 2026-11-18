@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "로봇 Arm",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "협동로봇 | 로봇 Arm | 2018년 | 19,891 | 60.32%"
+    },
+    {
+      "axis": "product",
+      "value": "자동화 솔루션",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "자동화 솔루션 | EOL/CMI | 2025년 | 6,006 | 18.21%"
+    },
+    {
+      "axis": "product",
+      "value": "커피모듈",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "커피모듈 | 무인카페운영 로봇으로 당사에서 개발한 로봇 Arm을 사용하고 있음."
+    },
+    {
+      "axis": "product",
+      "value": "튀김모듈",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "튀김모듈 | 반복 동작, 유증기 등으로 인해 근골격계 및 호흡기 질환, 열반 현상, 화상 등을 유발할 수 있는 튀김 조리작업의 효율성과 안정성 향상을 위한 솔루션임."
+    },
+    {
+      "axis": "application",
+      "value": "제조업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 자동차, 전자, 기계 등 전통 제조업 기반의 로봇 산업의 점유율을 토대로, 빠르게 성장하고 있는 서비스용 로봇 시장을 선점하기 위해 노력하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "F&B",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 영위하고 있는 협동로봇은 로봇커피, 튀김기를 활용한 조리 등과 같은 F&B 분야에서 적극적으로 도입되고 있는 추세이며"
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "현재 당사는 F&B 시장과 물류 시장 등 성장하는 서비스 로봇 시장에 진출하기 위해 F&B 시장에서는 커피 로봇, 치킨 로봇 등의 서비스용 로봇을 개발하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "유럽 시장은 가장 큰 규모를 차지하고 있는데 2022년 시장 규모는 2억 1,950만 달러로, 주로 식음료, 자동차, 전자 산업 등의 제조업 중심의 자동화에 힘입은 바가 큽니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "구동부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "구동부품 | 1,926,479 | 5,801,370 | 4,458,600"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전자부품 | 2,726,170 | 16,354,408 | 14,018,356"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기계부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "기계부품 | 2,298,391 | 9,103,867 | 6,866,603"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "협동 | 로봇 | 로봇 Arm | 수원공장 | 2,200 | 44,463,417"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2025년 9월 미국의 자동화 설비 및 로봇 솔루션 업체인 ONExia를 인수하였고, 2025년 12월 당사 북미법인인 Doosan Robotics Americas, LLC와의 합병을 통해"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "유럽지역내 해외판매 채널 확대와 서비스 강화를 위해 2024년 4월 독일 뒤셀도르프에 유럽 지사를 설립하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "한편, 당기말과 전기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 10% 변동할 경우, 동 환율변동이 연결기업의 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 차입금과 예금에서 발생하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "인건비",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "늘어나는 인건비 부담은 제조업뿐만이 아니라 서비스업 전반에서도 나타나고 있는 현상입니다. 오히려 기존 자동화 도입률이 높았었던 제조업보다 사람이 직접 수행하며 서비스를 제공하던 서비스업 분야가 협동로봇이 침투할 수 있는 확장성이 더욱 높을 것으로 보여집니다."
+    },
+    {
+      "axis": "product",
+      "value": "협동로봇",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "협동로봇 |"
+    },
+    {
+      "axis": "product",
+      "value": "로봇 Arm",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "로봇 Arm 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "자동화 솔루션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동화 솔루션 |"
+    },
+    {
+      "axis": "product",
+      "value": "EOL솔루션",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "EOL솔루션(End of Line), CMI(Custom Machine Integration) 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "지능형 로봇 솔루션",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지능형 로봇 솔루션은 협동로봇의 하드웨어인 로봇 Arm과 소프트웨어, AI 기능이 통합된 형태로"
+    },
+    {
+      "axis": "product",
+      "value": "Industrial Humanoid",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "실제 제조 현장에서 숙련공 수준의 작업 수행이 가능한 'Industrial Humanoid' 전략을 추진하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"협동로봇\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 산업용 로봇, 그 중에서도 협동로봇(Cobot, Collaborative Robot)에 대한 제조 및 솔루션 제공 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"로봇 Arm\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"협동로봇 | 로봇 Arm | 2018년 | 19,891 | 60.32%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동화 솔루션\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"자동화 솔루션 | EOL/CMI | 2025년 | 6,006 | 18.21%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피모듈\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"커피모듈 | 무인카페운영 로봇으로 당사에서 개발한 로봇 Arm을 사용하고 있음.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"튀김모듈\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"튀김모듈 | 반복 동작, 유증기 등으로 인해 근골격계 및 호흡기 질환, 열반 현상, 화상 등을 유발할 수 있는 튀김 조리작업의 효율성과 안정성 향상을 위한 솔루션임.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제조업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 자동차, 전자, 기계 등 전통 제조업 기반의 로봇 산업의 점유율을 토대로, 빠르게 성장하고 있는 서비스용 로봇 시장을 선점하기 위해 노력하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"F&B\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사가 영위하고 있는 협동로봇은 로봇커피, 튀김기를 활용한 조리 등과 같은 F&B 분야에서 적극적으로 도입되고 있는 추세이며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 F&B 시장과 물류 시장 등 성장하는 서비스 로봇 시장에 진출하기 위해 F&B 시장에서는 커피 로봇, 치킨 로봇 등의 서비스용 로봇을 개발하였으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"유럽 시장은 가장 큰 규모를 차지하고 있는데 2022년 시장 규모는 2억 1,950만 달러로, 주로 식음료, 자동차, 전자 산업 등의 제조업 중심의 자동화에 힘입은 바가 큽니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구동부품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"구동부품 | 1,926,479 | 5,801,370 | 4,458,600\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자부품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전자부품 | 2,726,170 | 16,354,408 | 14,018,356\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기계부품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"기계부품 | 2,298,391 | 9,103,867 | 6,866,603\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"협동 | 로봇 | 로봇 Arm | 수원공장 | 2,200 | 44,463,417\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2025년 9월 미국의 자동화 설비 및 로봇 솔루션 업체인 ONExia를 인수하였고, 2025년 12월 당사 북미법인인 Doosan Robotics Americas, LLC와의 합병을 통해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"유럽지역내 해외판매 채널 확대와 서비스 강화를 위해 2024년 4월 독일 뒤셀도르프에 유럽 지사를 설립하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"한편, 당기말과 전기말 현재 다른 모든 변수가 일정하고 각 외화에 대한 기능통화의 환율이 10% 변동할 경우, 동 환율변동이 연결기업의 법인세비용차감전순손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 차입금과 예금에서 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인건비\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"늘어나는 인건비 부담은 제조업뿐만이 아니라 서비스업 전반에서도 나타나고 있는 현상입니다. 오히려 기존 자동화 도입률이 높았었던 제조업보다 사람이 직접 수행하며 서비스를 제공하던 서비스업 분야가 협동로봇이 침투할 수 있는 확장성이 더욱 높을 것으로 보여집니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"협동로봇\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"협동로봇 |\"}, {\"axis\": \"product\", \"value\": \"로봇 Arm\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"로봇 Arm 등 |\"}, {\"axis\": \"product\", \"value\": \"자동화 솔루션\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"자동화 솔루션 |\"}, {\"axis\": \"product\", \"value\": \"EOL솔루션\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"EOL솔루션(End of Line), CMI(Custom Machine Integration) 등 |\"}, {\"axis\": \"product\", \"value\": \"지능형 로봇 솔루션\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"지능형 로봇 솔루션은 협동로봇의 하드웨어인 로봇 Arm과 소프트웨어, AI 기능이 통합된 형태로\"}, {\"axis\": \"product\", \"value\": \"Industrial Humanoid\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"실제 제조 현장에서 숙련공 수준의 작업 수행이 가능한 'Industrial Humanoid' 전략을 추진하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/454910_20260318001562.txt"
+}

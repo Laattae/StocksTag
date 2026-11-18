@@ -1,0 +1,221 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "소주",
+      "weight": 0.61,
+      "direction": null,
+      "evidence": "소주 | 소주 외 | 음용 | 참이슬 외 | 1,522,085,902 | 60.92%"
+    },
+    {
+      "axis": "product",
+      "value": "맥주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "맥주 | 맥주 외 | 음용 | 테라 외 | 758,104,833 | 30.34%"
+    },
+    {
+      "axis": "product",
+      "value": "먹는샘물",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "생수 | 먹는샘물 | 음용 | 석수 외 | 152,969,559 | 6.12%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주정",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "소주 | 원재료 | 주정 외 | 소주 제조 | 275,547,853 | 44.32%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "포장재료",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "소주 | 원재료 | 주정 외 | 소주 제조 | 275,547,853 | 44.32%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PET칩",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "먹는 샘물 | 원재료 | PET칩 | 생수제조 | 10,301,799 | 50.52%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": null,
+      "direction": null,
+      "evidence": "맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": null,
+      "direction": null,
+      "evidence": "맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": null,
+      "direction": -1,
+      "evidence": "기타부문 중 병과 상표를 판매하는 종속기업은 국제유가 및 환율, 원재료 가격의 변동에 따라 영향을 많이 받는 위험 요소가 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "맥주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년 국내 맥주 시장은 여전히 고물가와 경기침체로 위축되어 있고, 소비자들은 다양한 주종을 원하는 다양성의 시대입니다."
+    },
+    {
+      "axis": "product",
+      "value": "소주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내 소주 시장은 소비자 니즈에 맞춘 레귤러/프리미엄 제품이 지속 출시되며 경쟁 강도가 더욱 심화되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "먹는샘물",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 먹는샘물 부문과 음료 부문의 사업을 전개하고 있습니다. 먹는샘물 부문은 2026년부터 무라벨 의무화 정책 시행에 대응하여"
+    },
+    {
+      "axis": "product",
+      "value": "병유리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "병유리는 소다석회유리로 규사, 소다회, 재활용 폐유리 등을 용해로에 용융, 성형하여 생산된 병유리 제품을 주류회사, 음료회사에 공급하는 산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "산업용 포장지",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "그라비아 인쇄산업은 종이, 필름 등에 그라비아 인쇄 및 EMBOSSING 등의 가공 생산 공정을 거쳐 주류회사 및 음료회사에 산업용 포장지를 공급하는 산업입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "맥아",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "호주에서 가장 청정하다고 불리는 태즈메이니아산 맥아를 100% 사용한 'SINGLE MALT 에디션'은"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유기농 홉",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "켈리 후레쉬 홉은 미국 워싱턴주 야키마 밸리 등지에서 재배된 유기농 홉을 100% 사용한 제품으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소다회",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 병유리, 맥주상표 제조를 위해 사용하는 주요 원재료는 인쇄사업부는 원지,병유리사업부는 녹색파유리, 소다회, 규사, 석회석 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "규사",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 병유리, 맥주상표 제조를 위해 사용하는 주요 원재료는 인쇄사업부는 원지,병유리사업부는 녹색파유리, 소다회, 규사, 석회석 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "(주)진로소주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(주)진로소주 | 수출용 소주병 | 13,166 | 12.93 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "청주공장 | 자가 | 청주시 가덕면 금거내암로 308 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "천안공장 | 자가 | 천안시 목천읍 덕전1길 223 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "세종공장 | 자가 | 세종시 전의면 상대부길 33 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "진주공장 | 자가 | 경상남도 진주시 도동로 58(상평동) |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "안산공장 | 자가 | 경기도 안산시 단원구 별망로79번길 55(성곡동) |"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "병유리사업은 주류 및 음료 시장의 성장성, 계절적 요인 및 소비경기에 민감한 산업이며, 특히 에너지 과소비 업종으로 국제유가 및 환율에 큰 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "병유리사업은 주류 및 음료 시장의 성장성, 계절적 요인 및 소비경기에 민감한 산업이며, 특히 에너지 과소비 업종으로 국제유가 및 환율에 큰 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "소비경기",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "2025년 국내 맥주 시장은 여전히 고물가와 경기침체로 위축되어 있고, 소비자들은 다양한 주종을 원하는 다양성의 시대입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"소주\", \"weight\": 0.61, \"direction\": null, \"evidence\": \"소주 | 소주 외 | 음용 | 참이슬 외 | 1,522,085,902 | 60.92%\"}, {\"axis\": \"product\", \"value\": \"맥주\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"맥주 | 맥주 외 | 음용 | 테라 외 | 758,104,833 | 30.34%\"}, {\"axis\": \"product\", \"value\": \"먹는샘물\", \"weight\": 0.06, \"direction\": null, \"evidence\": \"생수 | 먹는샘물 | 음용 | 석수 외 | 152,969,559 | 6.12%\"}, {\"axis\": \"raw_material\", \"value\": \"주정\", \"weight\": 0.44, \"direction\": null, \"evidence\": \"소주 | 원재료 | 주정 외 | 소주 제조 | 275,547,853 | 44.32%\"}, {\"axis\": \"raw_material\", \"value\": \"포장재료\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"소주 | 원재료 | 주정 외 | 소주 제조 | 275,547,853 | 44.32%\"}, {\"axis\": \"raw_material\", \"value\": \"PET칩\", \"weight\": 0.51, \"direction\": null, \"evidence\": \"먹는 샘물 | 원재료 | PET칩 | 생수제조 | 10,301,799 | 50.52%\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다.\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": null, \"direction\": null, \"evidence\": \"맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다.\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": null, \"direction\": null, \"evidence\": \"맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": null, \"direction\": null, \"evidence\": \"맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다.\"}, {\"axis\": \"region\", \"value\": \"강원\", \"weight\": null, \"direction\": null, \"evidence\": \"맥주제조는 강원, 전주 2개 공장을 가동 중이며, 소주제조는 이천, 청주, 익산, 마산 4개 공장을 가동 중에 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제유가\", \"weight\": null, \"direction\": -1, \"evidence\": \"기타부문 중 병과 상표를 판매하는 종속기업은 국제유가 및 환율, 원재료 가격의 변동에 따라 영향을 많이 받는 위험 요소가 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"맥주\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년 국내 맥주 시장은 여전히 고물가와 경기침체로 위축되어 있고, 소비자들은 다양한 주종을 원하는 다양성의 시대입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소주\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내 소주 시장은 소비자 니즈에 맞춘 레귤러/프리미엄 제품이 지속 출시되며 경쟁 강도가 더욱 심화되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"먹는샘물\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 먹는샘물 부문과 음료 부문의 사업을 전개하고 있습니다. 먹는샘물 부문은 2026년부터 무라벨 의무화 정책 시행에 대응하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"병유리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"병유리는 소다석회유리로 규사, 소다회, 재활용 폐유리 등을 용해로에 용융, 성형하여 생산된 병유리 제품을 주류회사, 음료회사에 공급하는 산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용 포장지\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"그라비아 인쇄산업은 종이, 필름 등에 그라비아 인쇄 및 EMBOSSING 등의 가공 생산 공정을 거쳐 주류회사 및 음료회사에 산업용 포장지를 공급하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"맥아\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"호주에서 가장 청정하다고 불리는 태즈메이니아산 맥아를 100% 사용한 'SINGLE MALT 에디션'은\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유기농 홉\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"켈리 후레쉬 홉은 미국 워싱턴주 야키마 밸리 등지에서 재배된 유기농 홉을 100% 사용한 제품으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소다회\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 병유리, 맥주상표 제조를 위해 사용하는 주요 원재료는 인쇄사업부는 원지,병유리사업부는 녹색파유리, 소다회, 규사, 석회석 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"규사\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 병유리, 맥주상표 제조를 위해 사용하는 주요 원재료는 인쇄사업부는 원지,병유리사업부는 녹색파유리, 소다회, 규사, 석회석 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"(주)진로소주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"(주)진로소주 | 수출용 소주병 | 13,166 | 12.93 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"청주공장 | 자가 | 청주시 가덕면 금거내암로 308 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"천안공장 | 자가 | 천안시 목천읍 덕전1길 223 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"세종공장 | 자가 | 세종시 전의면 상대부길 33 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"진주공장 | 자가 | 경상남도 진주시 도동로 58(상평동) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"안산공장 | 자가 | 경기도 안산시 단원구 별망로79번길 55(성곡동) |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"병유리사업은 주류 및 음료 시장의 성장성, 계절적 요인 및 소비경기에 민감한 산업이며, 특히 에너지 과소비 업종으로 국제유가 및 환율에 큰 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"병유리사업은 주류 및 음료 시장의 성장성, 계절적 요인 및 소비경기에 민감한 산업이며, 특히 에너지 과소비 업종으로 국제유가 및 환율에 큰 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"소비경기\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"2025년 국내 맥주 시장은 여전히 고물가와 경기침체로 위축되어 있고, 소비자들은 다양한 주종을 원하는 다양성의 시대입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/000080_20260318000752.txt"
+}

@@ -1,0 +1,186 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "EV용 배터리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "ESS용 배터리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "소형 Application용 배터리",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "양극재",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "음극재",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "product",
+      "value": "분리막",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "application",
+      "value": "EV",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "IT기기",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전동공구",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "LEV",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "LG화학",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코퓨처엠",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |"
+    },
+    {
+      "axis": "customer",
+      "value": "Nichia",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |"
+    },
+    {
+      "axis": "customer",
+      "value": "L&F",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 소형 Application용 양극재 | 수 입 | 17.89/kg | 19.08/kg | 33.47/kg | L&F 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "양극재",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "음극재",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "분리막",
+      "weight": null,
+      "direction": null,
+      "evidence": "에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "기술연구원 등 | 대전, 과천, 마곡 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "생산공장 | 충북 청주 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 예금과 차입금에서 발생하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"EV용 배터리\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"}, {\"axis\": \"product\", \"value\": \"ESS용 배터리\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"}, {\"axis\": \"product\", \"value\": \"소형 Application용 배터리\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"에너지솔루션 | EV용 배터리, ESS용 배터리,소형 Application용 배터리 등 |\"}, {\"axis\": \"product\", \"value\": \"양극재\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"product\", \"value\": \"음극재\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"product\", \"value\": \"분리막\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"application\", \"value\": \"EV\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"ESS\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"IT기기\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"전동공구\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"application\", \"value\": \"LEV\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 지속 가능한 미래를 위한 배터리 기술 개발을 핵심 전략으로 삼고 EV(Electric Vehicle), ESS(Energy Storage System), IT기기, 전동공구, LEV(Light Electric Vehicle) 등에 적용되는 전지 관련 제품의 연구, 개발, 제조, 판매하는 사업을 영위하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"LG화학\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |\"}, {\"axis\": \"customer\", \"value\": \"포스코퓨처엠\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |\"}, {\"axis\": \"customer\", \"value\": \"Nichia\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 | 전지 원재료 | 10,532,405 | 100.0% | ㈜LG화학, 포스코퓨처엠,Nichia 등 |\"}, {\"axis\": \"customer\", \"value\": \"L&F\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 소형 Application용 양극재 | 수 입 | 17.89/kg | 19.08/kg | 33.47/kg | L&F 등 |\"}, {\"axis\": \"raw_material\", \"value\": \"양극재\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"raw_material\", \"value\": \"음극재\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"raw_material\", \"value\": \"분리막\", \"weight\": null, \"direction\": null, \"evidence\": \"에너지솔루션 | 원재료 | 양극재, 음극재,분리막 등 |\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": null, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"폴란드\", \"weight\": null, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": null, \"direction\": null, \"evidence\": \"국내는 물론 미국, 폴란드, 중국 등 세계 주요 거점에 생산, 판매, R&D 네트워크를 구축하고 전 세계를 대상으로 사업을 전개하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"기술연구원 등 | 대전, 과천, 마곡 |\"}, {\"axis\": \"region\", \"value\": \"충북\", \"weight\": null, \"direction\": null, \"evidence\": \"생산공장 | 충북 청주 |\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": null, \"direction\": -1, \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": null, \"direction\": -1, \"evidence\": \"이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 예금과 차입금에서 발생하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/373220_20260312000217.txt"
+}

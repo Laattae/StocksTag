@@ -1,0 +1,41 @@
+{
+  "merges": [
+    {
+      "group": 9,
+      "canonical": "포장재",
+      "synonyms": [
+        "포장재료"
+      ]
+    },
+    {
+      "group": 18,
+      "canonical": "유리섬유",
+      "synonyms": [
+        "유리 섬유"
+      ]
+    },
+    {
+      "group": 25,
+      "canonical": "Glass",
+      "synonyms": [
+        "GLASS"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "STEEL PLATE",
+      "synonyms": [
+        "PLATE",
+        "Plate",
+        "Steel Plate"
+      ]
+    },
+    {
+      "group": 29,
+      "canonical": "Resin",
+      "synonyms": [
+        "RESIN"
+      ]
+    }
+  ]
+}

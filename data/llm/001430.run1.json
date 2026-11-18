@@ -1,0 +1,236 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "특수강봉강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특수강은 탄소량이 많은 특수 용도의 고탄소강과 탄소 이외에 Ni, Mn, Cr, Mo, V, Al 등 합금원소를 첨가하여 강의 특성을 개량한 합금강을 합친 것이며 이것을 봉의 형태로 성형한 제품"
+    },
+    {
+      "axis": "product",
+      "value": "형단조품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수강을 금형에 맞추어 프레스를 통한 강한 압력으로 성형하여 제작한 제품"
+    },
+    {
+      "axis": "product",
+      "value": "단강품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "INGOT, BLOOM, SLAB 등 소재를 열간상태로 고압 프레스를 통해 소성 가공하여 제조한 제품, 일반적으로 적절한 열처리 및 기계 가공 후 사용"
+    },
+    {
+      "axis": "product",
+      "value": "STS선재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "STS선재는 내식성을 향상시키기 위해 만든 특수강 선재로 철강의 선 및 선제품을 생산하기 위한소재로서 직경이 5.0 ~ 34.0mm, 단면이 원형인 코일형상으로 감긴 강재"
+    },
+    {
+      "axis": "product",
+      "value": "STS봉재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기로에서 정련을 거친 STS 잉곳, 블룸 및 빌렛을 재가열하여 열간압연이나 단조작업을 한 환봉"
+    },
+    {
+      "axis": "product",
+      "value": "STS강관",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "단면 형상이 원형 또는 각형으로서 내부가 비어있는, 길고 좁은 형체의 강재로 용접을 하지 않아이음매가 없는 특징을 지닌 강관"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설중장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "항공",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "고강도 알루미늄 합금 소재는 항공 및 방위 산업에서 필수적이며, 자동차, 석유화학, 반도체, 발전 등 다양한 산업군에서 사용되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "철스크랩 | 특수강,주조제품 | 766,892 | 81%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "합금철",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "합금철 | 〃 | 176,084 | 19%"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)세아베스틸 | 2022.04 | 서울시 마포구"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(주)세아창원특수강 | 1997.02 | 경남 창원시"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)씨티씨 | 2019.09 | 경기도 포천시"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SeAH Global Inc. | 2016.02 | 미국"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SeAH Global Vina Co., Ltd. | 2019.10 | 베트남"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "STS 선재",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "STS 봉강",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "무계목강관",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄 합금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "니켈 기반 특수합금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은 급격한 온도 변화 및 지속적인 고온 노출 환경에서도 일정한 기계적 성질을 유지하는 특성을 지녔으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "항공우주",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "따라서 항공우주, 발전, 방위 등 첨단 산업에서 수요가 더욱 확대되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "철스크랩",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 인고트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알루미늄 합금 | 알루미늄 인고트 | 23,072 | 20,232 | 18,904 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "외환 위험은 환율 변동으로 인해 외화 표시 자산 및 부채의 가치가 변동할 위험입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "글로벌 철강 가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "국제 철강 가격의 하향 평준화로 인해 업계 전반의 수익성이 악화되는 결과를 초래하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"특수강봉강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소량이 많은 특수 용도의 고탄소강과 탄소 이외에 Ni, Mn, Cr, Mo, V, Al 등 합금원소를 첨가하여 강의 특성을 개량한 합금강을 합친 것이며 이것을 봉의 형태로 성형한 제품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"형단조품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수강을 금형에 맞추어 프레스를 통한 강한 압력으로 성형하여 제작한 제품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"단강품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"INGOT, BLOOM, SLAB 등 소재를 열간상태로 고압 프레스를 통해 소성 가공하여 제조한 제품, 일반적으로 적절한 열처리 및 기계 가공 후 사용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS선재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"STS선재는 내식성을 향상시키기 위해 만든 특수강 선재로 철강의 선 및 선제품을 생산하기 위한소재로서 직경이 5.0 ~ 34.0mm, 단면이 원형인 코일형상으로 감긴 강재\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS봉재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전기로에서 정련을 거친 STS 잉곳, 블룸 및 빌렛을 재가열하여 열간압연이나 단조작업을 한 환봉\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS강관\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"단면 형상이 원형 또는 각형으로서 내부가 비어있는, 길고 좁은 형체의 강재로 용접을 하지 않아이음매가 없는 특징을 지닌 강관\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설중장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수강은 탄소강에 한가지 또는 그 이상의 특수원소를 합금시켜 특수한 성질을 갖는 철강소재로 자동차, 건설중장비, 산업기계, 조선용품 등을 제조하는 필수 소재로 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"고강도 알루미늄 합금 소재는 항공 및 방위 산업에서 필수적이며, 자동차, 석유화학, 반도체, 발전 등 다양한 산업군에서 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 | 특수강,주조제품 | 766,892 | 81%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"합금철\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"합금철 | 〃 | 176,084 | 19%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)세아베스틸 | 2022.04 | 서울시 마포구\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"(주)세아창원특수강 | 1997.02 | 경남 창원시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)씨티씨 | 2019.09 | 경기도 포천시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SeAH Global Inc. | 2016.02 | 미국\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SeAH Global Vina Co., Ltd. | 2019.10 | 베트남\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결실체의 활동은 주로 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"스크랩, Ni, Cr을 포함한 거의 모든 원부원료의 일부를 해외에서 수입하고 있어 국제 원자재 가격 및 환율이 급변할 경우 회사의 수익성에 부정적으로 작용할 가능성이 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS 선재\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"STS 봉강\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무계목강관\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이를 통해 STS 선재/봉강/강관 시장에서 확고한 시장 지위를 유지하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄 합금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 항공 및 방위산업 시장에서 필수적으로 사용되는 고강도 알루미늄 합금 소재(압출 및 단조 제품)를 전문으로 생산하는 기업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"니켈 기반 특수합금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은 급격한 온도 변화 및 지속적인 고온 노출 환경에서도 일정한 기계적 성질을 유지하는 특성을 지녔으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"특수강 산업은 자동차, 기계, 조선, 건설 등 고강도, 고내구성을 요하는 핵심부품에 사용되는 특수강 소재를 생산하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항공우주\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"따라서 항공우주, 발전, 방위 등 첨단 산업에서 수요가 더욱 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철스크랩\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"철스크랩 등 주원재료는 물론, 합금철, 내화물, 전극봉 등 부재료 및 소모재료 비용 절감을 위해 지속적으로 노력하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 인고트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 합금 | 알루미늄 인고트 | 23,072 | 20,232 | 18,904 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국 현지에 설립된 특수합금 생산 법인으로, 당사가 생산하는 니켈 기반 특수합금은\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"외환 위험은 환율 변동으로 인해 외화 표시 자산 및 부채의 가치가 변동할 위험입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"글로벌 철강 가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"국제 철강 가격의 하향 평준화로 인해 업계 전반의 수익성이 악화되는 결과를 초래하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/001430_20260316001503.txt"
+}

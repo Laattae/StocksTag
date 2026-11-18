@@ -1,0 +1,172 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "일반보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "일반보험은 화재, 해상, 기술, 배상책임, 상해, 질병 등 기업 경영, 개인 재산 및 신체에 관련된 리스크를 보장하는 상품이며"
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자동차보험은 자동차로 인하여 발생하는 타인의 신체 및 차량, 자신의 신체 및 차량에 대한 손해 등을 보장하는 상품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "장기손해보험",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "장기손해보험은 통상 3년 이상을 계약기간으로 하는 상품이며, 상해, 질병 등 신체 건강을 담보로 하는 건강보험"
+    },
+    {
+      "axis": "product",
+      "value": "개인연금",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "개인연금과 퇴직연금은 개인의 노후생활에 대비한 상품으로 개인 또는 기업을 대상으로 판매하고 있는 상품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "개인연금과 퇴직연금은 개인의 노후생활에 대비한 상품으로 개인 또는 기업을 대상으로 판매하고 있는 상품입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "개인고객",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "손해보험사는 각종 산업 및 개인에게 발생할 수 있는 모든 리스크를 보장하는 것을 목표로 다양한 상품을 개발하여 판매하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "기업고객",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며, 현지 개인 및 기업고객을 대상으로 손해보험 상품 판매를 확대하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "구 분 | 지역단 | 지점 | 보상사무소 | 기타사업 | 합 계 | 서울본사 | 1 | 0 | 0 | 3 | 4 | 서 울 | 18 | 125 | 12 | 27 | 182 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "부 산 | 4 | 26 | 3 | 6 | 39 |"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "대 구 | 3 | 19 | 3 | 8 | 33 |"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인 천 | 3 | 22 | 1 | 7 | 33 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경 기 | 16 | 106 | 12 | 21 | 155 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "위험관리위원회를 통해 보험위험 관리를 위한 보유 및 재보험 전략, 금리리스크 관리를 위한 자산부채관리 전략(ALM), 예정이율 운용 전략 등 주요 리스크관리 전략을 수립하여 운용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자동차보험",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2009년 온라인 자동차보험 브랜드인 '애니카다이렉트'를 출시 후 온라인 직판채널에서 빠른 속도로 성장하여 채널 내 매출 규모 1위로 성장하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "건강상해보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "택배반송보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "텐센트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "회사는 중국 최대 IT 기업인 텐센트와 협력하여 중국법인을 합작법인 형태로 전환하는 계약을 체결하고"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며"
+    },
+    {
+      "axis": "region",
+      "value": "영국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "영국 런던을 기반으로 원수/재보험을 인수하는 글로벌 특종 보험사로"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며"
+    },
+    {
+      "axis": "region",
+      "value": "호주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반보험\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"일반보험은 화재, 해상, 기술, 배상책임, 상해, 질병 등 기업 경영, 개인 재산 및 신체에 관련된 리스크를 보장하는 상품이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"자동차보험은 자동차로 인하여 발생하는 타인의 신체 및 차량, 자신의 신체 및 차량에 대한 손해 등을 보장하는 상품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기손해보험\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"장기손해보험은 통상 3년 이상을 계약기간으로 하는 상품이며, 상해, 질병 등 신체 건강을 담보로 하는 건강보험\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인연금\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"개인연금과 퇴직연금은 개인의 노후생활에 대비한 상품으로 개인 또는 기업을 대상으로 판매하고 있는 상품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"개인연금과 퇴직연금은 개인의 노후생활에 대비한 상품으로 개인 또는 기업을 대상으로 판매하고 있는 상품입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"개인고객\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"손해보험사는 각종 산업 및 개인에게 발생할 수 있는 모든 리스크를 보장하는 것을 목표로 다양한 상품을 개발하여 판매하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기업고객\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 인도네시아, 베트남, 유럽 등에 설립한 법인 자회사는 각 국가에서 한국계 기업을 중심으로 보험서비스를 제공하고 있으며, 현지 개인 및 기업고객을 대상으로 손해보험 상품 판매를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"구 분 | 지역단 | 지점 | 보상사무소 | 기타사업 | 합 계 | 서울본사 | 1 | 0 | 0 | 3 | 4 | 서 울 | 18 | 125 | 12 | 27 | 182 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"부 산 | 4 | 26 | 3 | 6 | 39 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"대 구 | 3 | 19 | 3 | 8 | 33 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인 천 | 3 | 22 | 1 | 7 | 33 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"경 기 | 16 | 106 | 12 | 21 | 155 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"위험관리위원회를 통해 보험위험 관리를 위한 보유 및 재보험 전략, 금리리스크 관리를 위한 자산부채관리 전략(ALM), 예정이율 운용 전략 등 주요 리스크관리 전략을 수립하여 운용하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차보험\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2009년 온라인 자동차보험 브랜드인 '애니카다이렉트'를 출시 후 온라인 직판채널에서 빠른 속도로 성장하여 채널 내 매출 규모 1위로 성장하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건강상해보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"택배반송보험\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 보험역량과 텐센트의 고객, 마케팅 채널, IT 기술을 활용하여 건강상해보험, 택배반송보험 등 온라인 보험 중심으로 매출을 확대해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"텐센트\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"회사는 중국 최대 IT 기업인 텐센트와 협력하여 중국법인을 합작법인 형태로 전환하는 계약을 체결하고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"영국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"영국 런던을 기반으로 원수/재보험을 인수하는 글로벌 특종 보험사로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"호주\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국, 버뮤다, 싱가포르, 중국 및 호주 거점을 운영 중이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경영상 발생할 수 있는 제반리스크(보험, 금리, 시장, 신용, 유동성 리스크)를 전사적 차원에서 통합 관리하고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/000810_20260312001399.txt"
+}

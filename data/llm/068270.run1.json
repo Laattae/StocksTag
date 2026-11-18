@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 세계 최초의 항체 바이오시밀러인 램시마(CT-P13)를 시작으로 현재까지 11개 바이오시밀러 제품에 대한 글로벌 품목 허가를 획득하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "바이오신약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 시장성과 성장성이 있는 후속 바이오시밀러 파이프라인을 확보하기 위한 노력을 지속하는 한편, 항체 바이오 신약을 개발하기 위한 연구개발 활동도 지속하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "케미컬의약품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "기존 케미컬 합성의약품(Small-molecule) 사업 부문에서 확장하여 신규 모달리티(New Modality)의 제품기획 및 발굴"
+    },
+    {
+      "axis": "product",
+      "value": "램시마",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 세계 최초의 항체 바이오시밀러인 램시마(CT-P13)를 시작으로 현재까지 11개 바이오시밀러 제품에 대한 글로벌 품목 허가를 획득하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "짐펜트라",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2023년에는 세계 최초의 인플릭시맙(Infliximab) 피하주사 제형인 짐펜트라(CT-P13 SC)의 미국 FDA 신약 허가를 획득하며 글로벌 신약 시장에 본격 진출하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 생명공학기술을 기반으로 자가면역질환, 종양 등 질병의 치료에 사용되는 의약품을 개발 및 상업화하는 것을 주요 목적 사업으로 하는 글로벌 생명공학기업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "종양",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 생명공학기술을 기반으로 자가면역질환, 종양 등 질병의 치료에 사용되는 의약품을 개발 및 상업화하는 것을 주요 목적 사업으로 하는 글로벌 생명공학기업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "브랜치버그 공장은 2025년 12월 인수를 완료하였으며, 미국 시장 공급을 위한 셀트리온 제품 글로벌 생산 거점으로 활용됨과 동시에 타사 CMO 제품 위탁 생산을 위한 제조소로 운영되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결기업은 정상적인 거래로부터 기인하는 환율변동위험에 노출되어 있습니다. 동 위험의 대부분은 연결기업의 기능통화와는 다른 통화로 거래되는 구매대금 등으로부터 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "오리지널 의약품의 특허 만료가 본격적으로 이어짐에 따라 항체 의약품 시장은 바이오시밀러를 중심으로 확대 및 재편되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "램시마",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "자가면역질환 치료제 램시마(CT-P13)는 전세계 최초의 단일클론 항체 바이오시밀러 제품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "램시마SC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 TNF-α억제제 시장에서의 제형 차별화 전략으로 램시마의 SC 제형(피하주사)을 개발하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "트룩시마",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "혈액암 치료제 트룩시마(CT-P10)는 2016년 11월 한국 식약처로부터 판매 승인을 득하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "허쥬마",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "유방암 치료제 허쥬마(CT-P6)는 한국 식약처로부터 2014년 1월 승인을 득하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "유플라이마",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "휴미라의 바이오시밀러인 유플라이마(CT-P17)는 2021년 2월 유럽 EC로부터 판매허가를 획득하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "짐펜트라",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "짐펜트라(CT-P13 SC)는 램시마 피하주사 제형의 미국 브랜드명으로, 궤양성 대장염 및 크론병에 대한 임상을 완료한 후 미국 FDA로부터 제형의 차별성을 인정받아 신약 허가 프로세스를 진행하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자가면역질환 및 종양 관련 바이오 의약품은 지속적이고 장기적인 투약이 필요한 중증ㆍ만성 질환 치료제로서"
+    },
+    {
+      "axis": "application",
+      "value": "종양",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자가면역질환 및 종양 관련 바이오 의약품은 지속적이고 장기적인 투약이 필요한 중증ㆍ만성 질환 치료제로서"
+    },
+    {
+      "axis": "customer",
+      "value": "얀센",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "얀센社의 다잘렉스 바이오시밀러"
+    },
+    {
+      "axis": "customer",
+      "value": "Merck",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Merck社의 Keytruda 바이오시밀러"
+    },
+    {
+      "axis": "customer",
+      "value": "Roche",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Roche社의 Ocrevus 바이오시밀러"
+    },
+    {
+      "axis": "customer",
+      "value": "Norvatis",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Norvatis社의 Cosentyx 바이오시밀러"
+    },
+    {
+      "axis": "exposure",
+      "value": "인구 고령화",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "글로벌 제약ㆍ바이오 시장은 전 세계적인 인구 고령화 가속화와 만성질환 유병률의 증가, 그리고 소득 수준 향상에 따른 의료 접근성 확대로 인해 지속적인 성장을 거듭하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "특허 절벽",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "최근의 산업 성장은 대형 블록버스터 의약품들의 특허 만료가 집중되는 '특허 절벽(Patent Cliff)' 시기와 맞물려 바이오시밀러 시장을 중심으로 급격히 가속화되는 양상입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 세계 최초의 항체 바이오시밀러인 램시마(CT-P13)를 시작으로 현재까지 11개 바이오시밀러 제품에 대한 글로벌 품목 허가를 획득하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오신약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 시장성과 성장성이 있는 후속 바이오시밀러 파이프라인을 확보하기 위한 노력을 지속하는 한편, 항체 바이오 신약을 개발하기 위한 연구개발 활동도 지속하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"케미컬의약품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"기존 케미컬 합성의약품(Small-molecule) 사업 부문에서 확장하여 신규 모달리티(New Modality)의 제품기획 및 발굴\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"램시마\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 세계 최초의 항체 바이오시밀러인 램시마(CT-P13)를 시작으로 현재까지 11개 바이오시밀러 제품에 대한 글로벌 품목 허가를 획득하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"짐펜트라\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2023년에는 세계 최초의 인플릭시맙(Infliximab) 피하주사 제형인 짐펜트라(CT-P13 SC)의 미국 FDA 신약 허가를 획득하며 글로벌 신약 시장에 본격 진출하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 생명공학기술을 기반으로 자가면역질환, 종양 등 질병의 치료에 사용되는 의약품을 개발 및 상업화하는 것을 주요 목적 사업으로 하는 글로벌 생명공학기업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"종양\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 생명공학기술을 기반으로 자가면역질환, 종양 등 질병의 치료에 사용되는 의약품을 개발 및 상업화하는 것을 주요 목적 사업으로 하는 글로벌 생명공학기업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"브랜치버그 공장은 2025년 12월 인수를 완료하였으며, 미국 시장 공급을 위한 셀트리온 제품 글로벌 생산 거점으로 활용됨과 동시에 타사 CMO 제품 위탁 생산을 위한 제조소로 운영되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결기업은 정상적인 거래로부터 기인하는 환율변동위험에 노출되어 있습니다. 동 위험의 대부분은 연결기업의 기능통화와는 다른 통화로 거래되는 구매대금 등으로부터 발생합니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"오리지널 의약품의 특허 만료가 본격적으로 이어짐에 따라 항체 의약품 시장은 바이오시밀러를 중심으로 확대 및 재편되고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"램시마\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환 치료제 램시마(CT-P13)는 전세계 최초의 단일클론 항체 바이오시밀러 제품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"램시마SC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 TNF-α억제제 시장에서의 제형 차별화 전략으로 램시마의 SC 제형(피하주사)을 개발하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"트룩시마\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"혈액암 치료제 트룩시마(CT-P10)는 2016년 11월 한국 식약처로부터 판매 승인을 득하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"허쥬마\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"유방암 치료제 허쥬마(CT-P6)는 한국 식약처로부터 2014년 1월 승인을 득하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유플라이마\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"휴미라의 바이오시밀러인 유플라이마(CT-P17)는 2021년 2월 유럽 EC로부터 판매허가를 획득하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"짐펜트라\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"짐펜트라(CT-P13 SC)는 램시마 피하주사 제형의 미국 브랜드명으로, 궤양성 대장염 및 크론병에 대한 임상을 완료한 후 미국 FDA로부터 제형의 차별성을 인정받아 신약 허가 프로세스를 진행하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환 및 종양 관련 바이오 의약품은 지속적이고 장기적인 투약이 필요한 중증ㆍ만성 질환 치료제로서\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"종양\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환 및 종양 관련 바이오 의약품은 지속적이고 장기적인 투약이 필요한 중증ㆍ만성 질환 치료제로서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"얀센\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"얀센社의 다잘렉스 바이오시밀러\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Merck\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Merck社의 Keytruda 바이오시밀러\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Roche\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Roche社의 Ocrevus 바이오시밀러\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Norvatis\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Norvatis社의 Cosentyx 바이오시밀러\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"인구 고령화\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 제약ㆍ바이오 시장은 전 세계적인 인구 고령화 가속화와 만성질환 유병률의 증가, 그리고 소득 수준 향상에 따른 의료 접근성 확대로 인해 지속적인 성장을 거듭하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"특허 절벽\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"최근의 산업 성장은 대형 블록버스터 의약품들의 특허 만료가 집중되는 '특허 절벽(Patent Cliff)' 시기와 맞물려 바이오시밀러 시장을 중심으로 급격히 가속화되는 양상입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/068270_20260316001415.txt"
+}

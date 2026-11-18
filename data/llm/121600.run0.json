@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "CNT 도전재",
+      "weight": 0.594,
+      "direction": null,
+      "evidence": "이차전지 소재 | 이차전지 도전재 | CNT 등 | 66,338(59.4%) |"
+    },
+    {
+      "axis": "product",
+      "value": "TCO 타겟",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "디스플레이용 투명전도성전극 및 저반사소재 | 인듐계산화물 TCO 타겟/아연계산화물TCO 타겟 / Silver ink,paste/중공실리카 |"
+    },
+    {
+      "axis": "product",
+      "value": "CMP slurry",
+      "weight": 0.097,
+      "direction": null,
+      "evidence": "반도체 소재 | 반도체 웨이퍼 식각액 | CMP slurry | 10,849(9.7%) |"
+    },
+    {
+      "axis": "product",
+      "value": "중공실리카",
+      "weight": 0.069,
+      "direction": null,
+      "evidence": "디스플레이 소재 | 디스플레이용 투명전도성전극 및 저반사소재 | 인듐계산화물 TCO 타겟/아연계산화물TCO 타겟 / Silver ink,paste/중공실리카 |"
+    },
+    {
+      "axis": "product",
+      "value": "열차단 필름 소재",
+      "weight": 0.215,
+      "direction": null,
+      "evidence": "기타 | 열차단 필름 소재 및기타 기능성 소재 | TRB paste, TCO target 등 | 24,015(21.5%) |"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전기차용 배터리 수요는 북미와 유럽의 환경 규제 및 완성차 업체들의 전동화 전략에 따라 견조한 흐름을 이어가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터센터",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "ESS용 배터리 시장은 AI 데이터센터 전력 수요 급증과 재생에너지 저장 수요에 힘입어 가장 역동적인 성장세를 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "모바일 및 서버용 고사양 메모리 수요가 늘어남에 따라 3D 낸드플래시(Nand Flash)의 고적층화가 가속화되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "태양광 산업은 신재생에너지 전환과 탄소중립 목표에 따라 글로벌 시장 규모가 2023년 약 2,896억 달러에서"
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "나노신소재는 원재료인 금속 또는 비금속 Metal을 구입하여 초미립 나노 분말로 합성하고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Powder",
+      "weight": 0.829,
+      "direction": null,
+      "evidence": "Powder | CNT slurry, Ceria slurry, 중공실리카 등 주재료 | 30,819,980 | 82.9 |"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "영업본부는 본사(세종시), 대전공장, 서울에서 각각 업무를 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "영업본부는 본사(세종시), 대전공장, 서울에서 각각 업무를 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 주력 수출 품목인 이차전지 소재는 국내를 비롯해 미국, 중국, 유럽 등 주요 거점의 현지 생산 법인을 통해"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 주력 수출 품목인 이차전지 소재는 국내를 비롯해 미국, 중국, 유럽 등 주요 거점의 현지 생산 법인을 통해"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "당사의 원재료는 해외에서 직접조달 하거나, 국내에서 구매하고 있어 일부 환율에 의한 가격 영향이 있으나 원재료 수급에는 크게 문제가 없습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"CNT 도전재\", \"weight\": 0.594, \"direction\": null, \"evidence\": \"이차전지 소재 | 이차전지 도전재 | CNT 등 | 66,338(59.4%) |\"}, {\"axis\": \"product\", \"value\": \"TCO 타겟\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"디스플레이용 투명전도성전극 및 저반사소재 | 인듐계산화물 TCO 타겟/아연계산화물TCO 타겟 / Silver ink,paste/중공실리카 |\"}, {\"axis\": \"product\", \"value\": \"CMP slurry\", \"weight\": 0.097, \"direction\": null, \"evidence\": \"반도체 소재 | 반도체 웨이퍼 식각액 | CMP slurry | 10,849(9.7%) |\"}, {\"axis\": \"product\", \"value\": \"중공실리카\", \"weight\": 0.069, \"direction\": null, \"evidence\": \"디스플레이 소재 | 디스플레이용 투명전도성전극 및 저반사소재 | 인듐계산화물 TCO 타겟/아연계산화물TCO 타겟 / Silver ink,paste/중공실리카 |\"}, {\"axis\": \"product\", \"value\": \"열차단 필름 소재\", \"weight\": 0.215, \"direction\": null, \"evidence\": \"기타 | 열차단 필름 소재 및기타 기능성 소재 | TRB paste, TCO target 등 | 24,015(21.5%) |\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"전기차용 배터리 수요는 북미와 유럽의 환경 규제 및 완성차 업체들의 전동화 전략에 따라 견조한 흐름을 이어가고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"AI 데이터센터\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"ESS용 배터리 시장은 AI 데이터센터 전력 수요 급증과 재생에너지 저장 수요에 힘입어 가장 역동적인 성장세를 보이고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"모바일 및 서버용 고사양 메모리 수요가 늘어남에 따라 3D 낸드플래시(Nand Flash)의 고적층화가 가속화되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"태양광\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"태양광 산업은 신재생에너지 전환과 탄소중립 목표에 따라 글로벌 시장 규모가 2023년 약 2,896억 달러에서\"}, {\"axis\": \"raw_material\", \"value\": \"금속\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"나노신소재는 원재료인 금속 또는 비금속 Metal을 구입하여 초미립 나노 분말로 합성하고\"}, {\"axis\": \"raw_material\", \"value\": \"Powder\", \"weight\": 0.829, \"direction\": null, \"evidence\": \"Powder | CNT slurry, Ceria slurry, 중공실리카 등 주재료 | 30,819,980 | 82.9 |\"}, {\"axis\": \"region\", \"value\": \"세종\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"영업본부는 본사(세종시), 대전공장, 서울에서 각각 업무를 진행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"영업본부는 본사(세종시), 대전공장, 서울에서 각각 업무를 진행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 주력 수출 품목인 이차전지 소재는 국내를 비롯해 미국, 중국, 유럽 등 주요 거점의 현지 생산 법인을 통해\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사의 주력 수출 품목인 이차전지 소재는 국내를 비롯해 미국, 중국, 유럽 등 주요 거점의 현지 생산 법인을 통해\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"당사의 원재료는 해외에서 직접조달 하거나, 국내에서 구매하고 있어 일부 환율에 의한 가격 영향이 있으나 원재료 수급에는 크게 문제가 없습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/121600_20260320001026.txt"
+}

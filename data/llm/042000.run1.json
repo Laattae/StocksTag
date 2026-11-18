@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "이커머스 솔루션",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "판매자가 직접 소비자에게 온라인 판매를 할 수 있는 D2C 스토어를 구축하는 솔루션을 무료로 제공하고 다양한 부가서비스를 연결해 시장을 선점하며 지배적인 이커머스 플랫폼 기업으로 자리매김하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "결제솔루션",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 말 기준 주요 사업별 영업수익 비중은 EC플랫폼 89.1%, 인프라 10.9%이며, EC플랫폼은 서비스 성격에 따라 결제솔루션, EC솔루션, 공급망서비스, 마케팅솔루션으로 구분하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "호스팅",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인프라는 웹호스팅, 서버호스팅, 코로케이션 등을 비롯해 매니지먼트 서비스 등의 부가서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "마케팅솔루션",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "EC플랫폼은 결제솔루션, EC솔루션, 공급망서비스, 마케팅솔루션의 4개 부문으로 구성되며, 각 부문별 세부 내용은 다음과 같습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "네이버",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 네이버(주)와의 주식교환(계약 체결일 : '21.08.10)을 통해 보통주식 310,327주를 취득하였으며, 동 주식은 취득일로부터 5년간 처분이 제한되어 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "구글",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "판매자의 채널 다각화 및 글로벌 시장 진출 지원을 위해 구글(Google International LLC), 틱톡 등 글로벌 플랫폼과의 전략적 파트너십을 지속 강화하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사의 금융자산과 부채를 구성하는 주요 외화 통화에 대한 원화의 환율이 상승하였더라면, 연결실체의 자본과 손익은 증가 또는 감소하였을 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사의 이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 예금과 차입금에서 발생하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"이커머스 솔루션\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"판매자가 직접 소비자에게 온라인 판매를 할 수 있는 D2C 스토어를 구축하는 솔루션을 무료로 제공하고 다양한 부가서비스를 연결해 시장을 선점하며 지배적인 이커머스 플랫폼 기업으로 자리매김하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"결제솔루션\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 말 기준 주요 사업별 영업수익 비중은 EC플랫폼 89.1%, 인프라 10.9%이며, EC플랫폼은 서비스 성격에 따라 결제솔루션, EC솔루션, 공급망서비스, 마케팅솔루션으로 구분하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"호스팅\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인프라는 웹호스팅, 서버호스팅, 코로케이션 등을 비롯해 매니지먼트 서비스 등의 부가서비스로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"마케팅솔루션\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"EC플랫폼은 결제솔루션, EC솔루션, 공급망서비스, 마케팅솔루션의 4개 부문으로 구성되며, 각 부문별 세부 내용은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"네이버\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 네이버(주)와의 주식교환(계약 체결일 : '21.08.10)을 통해 보통주식 310,327주를 취득하였으며, 동 주식은 취득일로부터 5년간 처분이 제한되어 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"구글\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"판매자의 채널 다각화 및 글로벌 시장 진출 지원을 위해 구글(Google International LLC), 틱톡 등 글로벌 플랫폼과의 전략적 파트너십을 지속 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사의 금융자산과 부채를 구성하는 주요 외화 통화에 대한 원화의 환율이 상승하였더라면, 연결실체의 자본과 손익은 증가 또는 감소하였을 것입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사의 이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동금리부 조건의 예금과 차입금에서 발생하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/042000_20260317000899.txt"
+}

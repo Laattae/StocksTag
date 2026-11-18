@@ -1,0 +1,81 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "스마트카드",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 스마트카드(DID) 사업과 플랫폼 사업을 중심으로 안정적인 수익 기반과 성장동력을 동시에 확보하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "메탈카드",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2018년부터 프리미엄 카드 시장에 진출하여 특히 '메탈 카드’ 분야에서 글로벌 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지역화폐",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "지역화폐 사업은 플랫폼 사업의 핵심을 구성합니다."
+    },
+    {
+      "axis": "product",
+      "value": "USIM",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MVNO(가상이동통신망) 사업은 이동통신사에 유심(USIM)을 공급하던 사업에서 MVNO 사업자로 전환하여 자체 브랜드 통신 서비스를 제공하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "스마트 카드키",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 코나모빌리티를 통해 OTA 서비스를 제공하고, 스마트카드 키 시장을 개척하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "금융",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내에서는 금융카드(신용카드·체크카드), 하이패스 카드, 전자여권 등을 직접 제작하여 금융기관 및 공공기관에 납품하며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자동차 전장사업은 차량의 네트워크 연결 확대로 증가하는 SE(Secure Element) 수요에 대응하는 사업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "당사 매출의 약 40%가 해외 수출이므로 환율 변동이 실적에 영향을 미칩니다. 달러 강세 시 수출 경쟁력과 환산 매출이 증가하는 효과가 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트카드\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 스마트카드(DID) 사업과 플랫폼 사업을 중심으로 안정적인 수익 기반과 성장동력을 동시에 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메탈카드\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2018년부터 프리미엄 카드 시장에 진출하여 특히 '메탈 카드’ 분야에서 글로벌 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지역화폐\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"지역화폐 사업은 플랫폼 사업의 핵심을 구성합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"USIM\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MVNO(가상이동통신망) 사업은 이동통신사에 유심(USIM)을 공급하던 사업에서 MVNO 사업자로 전환하여 자체 브랜드 통신 서비스를 제공하는 사업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트 카드키\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 코나모빌리티를 통해 OTA 서비스를 제공하고, 스마트카드 키 시장을 개척하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"금융\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내에서는 금융카드(신용카드·체크카드), 하이패스 카드, 전자여권 등을 직접 제작하여 금융기관 및 공공기관에 납품하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자동차 전장사업은 차량의 네트워크 연결 확대로 증가하는 SE(Secure Element) 수요에 대응하는 사업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자체 공장(경기도 김포시 대곶면 대명리, 충북 진천군 이월면 장수로 341)과 외주생산을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"당사 매출의 약 40%가 해외 수출이므로 환율 변동이 실적에 영향을 미칩니다. 달러 강세 시 수출 경쟁력과 환산 매출이 증가하는 효과가 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/052400_20260311003779.txt"
+}

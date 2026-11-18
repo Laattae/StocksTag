@@ -1,0 +1,165 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "펩타이드 소재",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 약효지속성 의약품의 개발과 함께 연구용 펩타이드 소재도 생산하고 있으며, 해당 판매액을 제품매출로 인식하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "약효지속성 의약품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 산업은 약효지속화 기술이 적용된 약효지속성 의약품에 속합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전문의약품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고순도 '히알우로니다아제'를 주성분으로 하는 제품(제왕절개 수술을 받은 임산부의 부종을 조기억제)을 판매하는 의약품 도매업을 영위하고 있으며 해당 판매액을 상품매출로 인식하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "파킨슨병",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "약효지속성 의약품분야는 당뇨병, 암, 중추신경계 질환, 퇴행성뇌질환 등 대부분 만성질환에 사용되거나 개발되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전립선암",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "일례로 T사의 전립선암 치료제의 경우 이미 수년 전에 제형 특허까지 모두 만료되었음에도 불구하고 현재까지 선진국에서 제네릭으로 규정할 만한 후발 제품은 없는 상황입니다."
+    },
+    {
+      "axis": "application",
+      "value": "제2형 당뇨병",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고령화로 인해 고혈압, 당뇨병 등 만성질환이 급격히 증가하고 있으며 이는 의료 서비스와 의약품 사용량 증가에 직접적인 영향을 미칩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "대웅제약",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "전립선암 치료제1개월 지속형 | 대웅제약 | 전세계 | 2003. 08. 14"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당뇨병 치료제1주/2주 지속형(GLP-1 RA) | 유한양행 | 한국 | 2011. 02. 25"
+    },
+    {
+      "axis": "customer",
+      "value": "Qilu Pharmaceutical",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "표적항암 항체치료제 후보물질(PAb001-ADC) | Qilu Pharmaceutical | 전세계 | 2021.03. 26"
+    },
+    {
+      "axis": "customer",
+      "value": "Invex Therapeutics",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특발성 두개내 고혈압(IIH)치료제PRESENDIN | Invex Therapeutics(호주) | 전세계 | 2021.09.27"
+    },
+    {
+      "axis": "raw_material",
+      "value": "아미노산 류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | 아미노산 류 | 국내 | 21,928"
+    },
+    {
+      "axis": "raw_material",
+      "value": "용매 류",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "용매 류 | 국내 | 50,691"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기타 시약류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "기타 시약류 | 국내 | 8,325"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대전광역시 유성구 유성대로 1628번길 37-24"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "충청북도 청주시 흥덕구 오송읍 의료단지길 135충청북도 청주시 오송읍 정중리 736"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "당기말과 전기말 현재 다른 모든 변수가 일정하고, 주요 외화에 대한 원화의 환율이 10% 변동 시 회사의 세전이익에 미치는 영향은 다음과 같습니다"
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화 추세",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "먼저 의약품 소비량에 영향을 주는 요인으로 고령화 추세를 들 수 있습니다. 고령화로 인해 고혈압, 당뇨병 등 만성질환이 급격히 증가하고 있으며 이는 의료 서비스와 의약품 사용량 증가에 직접적인 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "약가규제 정책",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "다음으로 의약품 가격에 영향을 주는 요인으로는 각국 정부와 보험사의 다양한 규제를 들 수 있습니다. 전술한 바와 같이 고령화와 경제 발전 등으로 인해 의약품 사용량이 크게 증가하였고, 앞으로도 계속적으로 증가할 것으로 예측되면서 각국 정부는 다양한 방법으로 약가를 규제하고 있는데 이러한 약가규제 정책은 제약 산업의 장애 요인으로 작용하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "초음파 분무장치",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "무균공정용 초음파 분무장치"
+    },
+    {
+      "axis": "product",
+      "value": "펩타이드",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "면역반응을 조절하는 펩타이드"
+    },
+    {
+      "axis": "product",
+      "value": "항체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MUC1에 특이적으로 결합하는 항체 및 그의 용도"
+    },
+    {
+      "axis": "product",
+      "value": "서방형 제제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세마글루타이드 또는 이의 약학적으로 허용가능한 염을 포함하는 서방형 제제 조성물"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"펩타이드 소재\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 약효지속성 의약품의 개발과 함께 연구용 펩타이드 소재도 생산하고 있으며, 해당 판매액을 제품매출로 인식하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"약효지속성 의약품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 산업은 약효지속화 기술이 적용된 약효지속성 의약품에 속합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전문의약품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고순도 '히알우로니다아제'를 주성분으로 하는 제품(제왕절개 수술을 받은 임산부의 부종을 조기억제)을 판매하는 의약품 도매업을 영위하고 있으며 해당 판매액을 상품매출로 인식하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"파킨슨병\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"약효지속성 의약품분야는 당뇨병, 암, 중추신경계 질환, 퇴행성뇌질환 등 대부분 만성질환에 사용되거나 개발되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전립선암\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"일례로 T사의 전립선암 치료제의 경우 이미 수년 전에 제형 특허까지 모두 만료되었음에도 불구하고 현재까지 선진국에서 제네릭으로 규정할 만한 후발 제품은 없는 상황입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제2형 당뇨병\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고령화로 인해 고혈압, 당뇨병 등 만성질환이 급격히 증가하고 있으며 이는 의료 서비스와 의약품 사용량 증가에 직접적인 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대웅제약\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"전립선암 치료제1개월 지속형 | 대웅제약 | 전세계 | 2003. 08. 14\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당뇨병 치료제1주/2주 지속형(GLP-1 RA) | 유한양행 | 한국 | 2011. 02. 25\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Qilu Pharmaceutical\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"표적항암 항체치료제 후보물질(PAb001-ADC) | Qilu Pharmaceutical | 전세계 | 2021.03. 26\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Invex Therapeutics\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"특발성 두개내 고혈압(IIH)치료제PRESENDIN | Invex Therapeutics(호주) | 전세계 | 2021.09.27\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아미노산 류\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 아미노산 류 | 국내 | 21,928\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"용매 류\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"용매 류 | 국내 | 50,691\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"기타 시약류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"기타 시약류 | 국내 | 8,325\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대전광역시 유성구 유성대로 1628번길 37-24\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"충청북도 청주시 흥덕구 오송읍 의료단지길 135충청북도 청주시 오송읍 정중리 736\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"당기말과 전기말 현재 다른 모든 변수가 일정하고, 주요 외화에 대한 원화의 환율이 10% 변동 시 회사의 세전이익에 미치는 영향은 다음과 같습니다\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화 추세\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"먼저 의약품 소비량에 영향을 주는 요인으로 고령화 추세를 들 수 있습니다. 고령화로 인해 고혈압, 당뇨병 등 만성질환이 급격히 증가하고 있으며 이는 의료 서비스와 의약품 사용량 증가에 직접적인 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"약가규제 정책\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"다음으로 의약품 가격에 영향을 주는 요인으로는 각국 정부와 보험사의 다양한 규제를 들 수 있습니다. 전술한 바와 같이 고령화와 경제 발전 등으로 인해 의약품 사용량이 크게 증가하였고, 앞으로도 계속적으로 증가할 것으로 예측되면서 각국 정부는 다양한 방법으로 약가를 규제하고 있는데 이러한 약가규제 정책은 제약 산업의 장애 요인으로 작용하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"초음파 분무장치\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"무균공정용 초음파 분무장치\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펩타이드\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"면역반응을 조절하는 펩타이드\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"MUC1에 특이적으로 결합하는 항체 및 그의 용도\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"서방형 제제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"세마글루타이드 또는 이의 약학적으로 허용가능한 염을 포함하는 서방형 제제 조성물\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/087010_20260318001345.txt"
+}

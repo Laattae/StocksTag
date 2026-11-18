@@ -1,0 +1,74 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "시멘트",
+      "weight": 0.94,
+      "direction": null,
+      "evidence": "시멘트 사업 | 시멘트, 석회석, 물류 | 94.16%"
+    },
+    {
+      "axis": "product",
+      "value": "레미콘",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "레미콘 사업 | 레미콘 | 5.84%"
+    },
+    {
+      "axis": "product",
+      "value": "석회석",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "시멘트 사업 | 시멘트, 석회석, 물류 | 94.16%"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "시멘트 산업은 국가 기간산업으로서 토목, 건축 및 사회간접자본시설 확충 등에 중요한 역할을 해왔으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유연탄",
+      "weight": 0.58,
+      "direction": null,
+      "evidence": "석회석을 제외한 원부연료 매입액에서 유연탄의 비중은 58%로 원재료 중 가장 큰 비중을 차지하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석유코크스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "석유코크스, 중화석고, 탈황석고 등을 원재료로 사용하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "탈황석고",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "탈황석고 | 시멘트 원료 | 6,760 | 9"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 강원도 삼척시 소재 삼척공장에서 시멘트를 생산하여 전국 출하 기지를 통해 시멘트 및 2차 제품을 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "건설 경기",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "시멘트 산업은 건설 및 부동산 경기에 직접적인 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.94,\n      \"direction\": null,\n      \"evidence\": \"시멘트 사업 | 시멘트, 석회석, 물류 | 94.16%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"레미콘 사업 | 레미콘 | 5.84%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석회석\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"시멘트 사업 | 시멘트, 석회석, 물류 | 94.16%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"시멘트 산업은 국가 기간산업으로서 토목, 건축 및 사회간접자본시설 확충 등에 중요한 역할을 해왔으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유연탄\",\n      \"weight\": 0.58,\n      \"direction\": null,\n      \"evidence\": \"석회석을 제외한 원부연료 매입액에서 유연탄의 비중은 58%로 원재료 중 가장 큰 비중을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석유코크스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"석유코크스, 중화석고, 탈황석고 등을 원재료로 사용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"탈황석고\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"탈황석고 | 시멘트 원료 | 6,760 | 9\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 강원도 삼척시 소재 삼척공장에서 시멘트를 생산하여 전국 출하 기지를 통해 시멘트 및 2차 제품을 판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설 경기\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"시멘트 산업은 건설 및 부동산 경기에 직접적인 영향을 받습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/038500_20260320000882.txt"
+}

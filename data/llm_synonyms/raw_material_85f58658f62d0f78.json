@@ -1,0 +1,64 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "Wafer",
+      "synonyms": ["WAFER"]
+    },
+    {
+      "group": 4,
+      "canonical": "메탈실리콘",
+      "synonyms": ["메탈 실리콘"]
+    },
+    {
+      "group": 5,
+      "canonical": "에폭시수지",
+      "synonyms": ["에폭시 수지"]
+    },
+    {
+      "group": 6,
+      "canonical": "원료의약품",
+      "synonyms": ["원료 의약품"]
+    },
+    {
+      "group": 7,
+      "canonical": "Al-Foil",
+      "synonyms": ["Al -Foil"]
+    },
+    {
+      "group": 10,
+      "canonical": "Nickel",
+      "synonyms": ["NICKEL"]
+    },
+    {
+      "group": 15,
+      "canonical": "PET Film",
+      "synonyms": ["Pet Film"]
+    },
+    {
+      "group": 16,
+      "canonical": "Actuator",
+      "synonyms": ["ACTUATOR"]
+    },
+    {
+      "group": 18,
+      "canonical": "플라즈마발생장치",
+      "synonyms": ["플라즈마 발생장치"]
+    },
+    {
+      "group": 20,
+      "canonical": "Controller",
+      "synonyms": ["CONTROLLER"]
+    },
+    {
+      "group": 21,
+      "canonical": "Copper Foil",
+      "synonyms": ["COPPER FOIL"]
+    },
+    {
+      "group": 23,
+      "canonical": "Steel Plate",
+      "synonyms": ["STEEL PLATE"]
+    }
+  ]
+}

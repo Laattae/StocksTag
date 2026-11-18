@@ -1,0 +1,102 @@
+{
+  "merges": [
+    {
+      "group": 3,
+      "canonical": "금융투자",
+      "synonyms": [
+        "금융투자업"
+      ]
+    },
+    {
+      "group": 4,
+      "canonical": "기능성필름",
+      "synonyms": [
+        "고기능성 필름"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "기업인프라",
+      "synonyms": [
+        "기업인프라 서비스"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "기초화장품",
+      "synonyms": [
+        "기초 화장품"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "독립형탱크",
+      "synonyms": [
+        "독립형 탱크"
+      ]
+    },
+    {
+      "group": 11,
+      "canonical": "모바일게임",
+      "synonyms": [
+        "모바일 게임"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "무연휘발유",
+      "synonyms": [
+        "무연 휘발유"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "반도체 장비",
+      "synonyms": [
+        "반도체장비"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "보안솔루션",
+      "synonyms": [
+        "보안 솔루션"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "부동산 개발",
+      "synonyms": [
+        "부동산 개발사업"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "산업용로봇",
+      "synonyms": [
+        "산업용 로봇"
+      ]
+    },
+    {
+      "group": 24,
+      "canonical": "색조화장품",
+      "synonyms": [
+        "색조 화장품"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "석유류제품",
+      "synonyms": [
+        "석유류 제품"
+      ]
+    },
+    {
+      "group": 28,
+      "canonical": "선박용엔진",
+      "synonyms": [
+        "선박용 엔진"
+      ]
+    }
+  ]
+}

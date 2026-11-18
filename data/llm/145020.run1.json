@@ -1,0 +1,96 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "보툴렉스",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "Toxin | 보툴렉스 | 230,499 | 54.22%"
+    },
+    {
+      "axis": "product",
+      "value": "더채움",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "Filler | 더채움 | 130,232 | 30.63%"
+    },
+    {
+      "axis": "product",
+      "value": "웰라쥬",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "Cosmetics | 웰라쥬 | 56,326 | 13.25%"
+    },
+    {
+      "axis": "product",
+      "value": "블루로즈 포르테",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Medical Device | Blue Rose Forte 등 | 5,383 | 1.27%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "인혈청단백질",
+      "weight": null,
+      "direction": null,
+      "evidence": "보조성분인 인혈청단백질(human serum albumin) 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "히알루론산나트륨",
+      "weight": null,
+      "direction": null,
+      "evidence": "현대바이오랜드에서 생산하는 히알루론산나트륨을 공급받고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 2016년 미국 식품의약국(FDA)의 cGMP 기준 및 유럽의약청(EMA)의 EU GMP 등 세계적 수준의 GMP 기준을 적용한 최첨단 설비의 보툴리눔 톡신 제2생산 공장을 거두농공단지에 준공하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결실체는 여러 활동으로 인하여 시장위험(외환위험, 가격위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출돼 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보툴리눔 톡신",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "1) 보툴리눔 독소의 제품화 (보툴렉스) - 눈꺼풀경련 치료, 미간주름의 일시적 개선, 소아 뇌성마비 첨족 기형의 치료"
+    },
+    {
+      "axis": "product",
+      "value": "히알루론산 필러",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2) 히알루론산 조직 수복용 필러 제품의 상업화 - 안면부 주름의 일시적 개선"
+    },
+    {
+      "axis": "product",
+      "value": "안면조직고정용실",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "16) 안면조직고정용실 (BRFS-18G-S100WH) 임상3상 - 코입술주름(Nasolabial fold) 개선"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "연결실체는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보툴렉스\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"Toxin | 보툴렉스 | 230,499 | 54.22%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"더채움\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"Filler | 더채움 | 130,232 | 30.63%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"웰라쥬\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"Cosmetics | 웰라쥬 | 56,326 | 13.25%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"블루로즈 포르테\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Medical Device | Blue Rose Forte 등 | 5,383 | 1.27%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"인혈청단백질\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"보조성분인 인혈청단백질(human serum albumin) 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"히알루론산나트륨\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"현대바이오랜드에서 생산하는 히알루론산나트륨을 공급받고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 2016년 미국 식품의약국(FDA)의 cGMP 기준 및 유럽의약청(EMA)의 EU GMP 등 세계적 수준의 GMP 기준을 적용한 최첨단 설비의 보툴리눔 톡신 제2생산 공장을 거두농공단지에 준공하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 여러 활동으로 인하여 시장위험(외환위험, 가격위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출돼 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보툴리눔 톡신\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"1) 보툴리눔 독소의 제품화 (보툴렉스) - 눈꺼풀경련 치료, 미간주름의 일시적 개선, 소아 뇌성마비 첨족 기형의 치료\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"히알루론산 필러\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2) 히알루론산 조직 수복용 필러 제품의 상업화 - 안면부 주름의 일시적 개선\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"안면조직고정용실\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"16) 안면조직고정용실 (BRFS-18G-S100WH) 임상3상 - 코입술주름(Nasolabial fold) 개선\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 환율 변동 리스크 관리를 위하여 외화 포지션에 대해 통화선물을 매매하여 헷지합니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/145020_20260320000349.txt"
+}

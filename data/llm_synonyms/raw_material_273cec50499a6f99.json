@@ -1,0 +1,46 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "원료의약품",
+      "synonyms": [
+        "원료 의약품"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "철근",
+      "synonyms": [
+        "이형철근"
+      ]
+    },
+    {
+      "group": 9,
+      "canonical": "커피",
+      "synonyms": [
+        "커피 원두"
+      ]
+    },
+    {
+      "group": 10,
+      "canonical": "코코아 원두",
+      "synonyms": [
+        "코코아류"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "PET칩",
+      "synonyms": [
+        "PET Chip"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "메탈실리콘",
+      "synonyms": [
+        "메탈 실리콘"
+      ]
+    }
+  ]
+}

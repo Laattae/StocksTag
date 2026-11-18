@@ -1,0 +1,157 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Test Handler",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "반도체검사장비(테크윙) | 검사장비(Test Handler 등) | 57,299 | 82,166 | 52,805 | 36.01%"
+    },
+    {
+      "axis": "product",
+      "value": "C.O.K",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "C.O.K(change over kit) | 58,557 | 48,185 | 38,275 | 36.80%"
+    },
+    {
+      "axis": "product",
+      "value": "Parts 및 Board",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Parts 및 Board 등 | 32,297 | 33,554 | 23,306 | 20.30%"
+    },
+    {
+      "axis": "product",
+      "value": "OLED/LCD평가, 측정 장비",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "디스플레이평가장비(이엔씨테크놀로지) | OLED/LCD평가, 측정 장비 등 | 10,976 | 21,603 | 18,630 | 6.90%"
+    },
+    {
+      "axis": "product",
+      "value": "Cube Prober",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사 주력 제품으로는 Cube Prober, Probe Station, Memory 및 SOC Test Handler 등이 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "AI 반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근 이슈로 떠오른 챗GPT 등 AI 반도체 용량과 처리속도가 빠르게 증가하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "비대면 사업 발전으로 대형 IT기업들의 서버용 SSD 수요가 증가하면서 성장세가 더욱 빨라지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 전장",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SoC(System on Chip) 부문은 자동차 전장(자율주행), IoT, VR/AR, 웨어러블 기기"
+    },
+    {
+      "axis": "customer",
+      "value": "거래처 A",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "1 | 거래처 | 거래처 A | 거래처 A | 거래처 A | 매출액 | 64,834 | 83,480 | 62,562"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Micron",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "반도체 장비 | Micron, SK hynix 등 | 32,252"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "디스플레이장비 | 삼성디스플레이 등 | 3,688"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Frame",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | 반도체 검사장비 | 공압실린더 | 410,168 | 122,139 | 61,791 | Frame | 12,687,895"
+    },
+    {
+      "axis": "raw_material",
+      "value": "C.O.K",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | 반도체 검사장비 | ... | C.O.K | 25,507,158 | 18,515,534 | 16,783,049"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "동탄본사 | 토지 | 화성시 동탄면 방교리 750-446"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "안성공장 | 토지 | 안성시 원곡면 반제리 545 외"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "아산공장 | 토지 | 아산시 음봉면 신휴리 777 외"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "천안공장 | 토지 | 천안시 서북구 신가리 599"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 소자 업체의 설비투자",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "반도체 장비 산업의 경기변동은 주로 소자업체들의 설비투자 계획에 민감하게 반응하며, 반도체 소자 업체의 경기변동에 후행 하는 특성을 갖고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Test Handler\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"반도체검사장비(테크윙) | 검사장비(Test Handler 등) | 57,299 | 82,166 | 52,805 | 36.01%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"C.O.K\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"C.O.K(change over kit) | 58,557 | 48,185 | 38,275 | 36.80%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Parts 및 Board\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Parts 및 Board 등 | 32,297 | 33,554 | 23,306 | 20.30%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED/LCD평가, 측정 장비\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"디스플레이평가장비(이엔씨테크놀로지) | OLED/LCD평가, 측정 장비 등 | 10,976 | 21,603 | 18,630 | 6.90%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Cube Prober\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"당사 주력 제품으로는 Cube Prober, Probe Station, Memory 및 SOC Test Handler 등이 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 이슈로 떠오른 챗GPT 등 AI 반도체 용량과 처리속도가 빠르게 증가하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"비대면 사업 발전으로 대형 IT기업들의 서버용 SSD 수요가 증가하면서 성장세가 더욱 빨라지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 전장\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SoC(System on Chip) 부문은 자동차 전장(자율주행), IoT, VR/AR, 웨어러블 기기\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"거래처 A\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"1 | 거래처 | 거래처 A | 거래처 A | 거래처 A | 매출액 | 64,834 | 83,480 | 62,562\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Micron\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비 | Micron, SK hynix 등 | 32,252\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"디스플레이장비 | 삼성디스플레이 등 | 3,688\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Frame\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 반도체 검사장비 | 공압실린더 | 410,168 | 122,139 | 61,791 | Frame | 12,687,895\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"C.O.K\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 반도체 검사장비 | ... | C.O.K | 25,507,158 | 18,515,534 | 16,783,049\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"동탄본사 | 토지 | 화성시 동탄면 방교리 750-446\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"안성공장 | 토지 | 안성시 원곡면 반제리 545 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"아산공장 | 토지 | 아산시 음봉면 신휴리 777 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"천안공장 | 토지 | 천안시 서북구 신가리 599\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 소자 업체의 설비투자\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"반도체 장비 산업의 경기변동은 주로 소자업체들의 설비투자 계획에 민감하게 반응하며, 반도체 소자 업체의 경기변동에 후행 하는 특성을 갖고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/089030_20260623000173.txt"
+}

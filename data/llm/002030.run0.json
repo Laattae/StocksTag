@@ -1,0 +1,242 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "시멘트",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "시멘트 | 건축자재 | 824,308 | 43.74"
+    },
+    {
+      "axis": "product",
+      "value": "골판지원지",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "골판지원지 | 골판지상자제조 | 586,543 | 31.13"
+    },
+    {
+      "axis": "product",
+      "value": "골판지상자",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "골판지상자 | 골판지포장외 | 536,426 | 28.47"
+    },
+    {
+      "axis": "product",
+      "value": "레미콘",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "레미콘 | 101,814 | 5.40"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": null,
+      "direction": null,
+      "evidence": "동사가 영위하고 있는 시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우"
+    },
+    {
+      "axis": "application",
+      "value": "택배 및 온라인쇼핑",
+      "weight": null,
+      "direction": null,
+      "evidence": "재활용 국내폐지를 비롯한 원재료 수급은 수요산업인 농산물 작황, 제조업 가동 상황변동, 택배 및 온라인쇼핑을 비롯한 민간소비에 영향을 받습니다."
+    },
+    {
+      "axis": "application",
+      "value": "농산물포장",
+      "weight": null,
+      "direction": null,
+      "evidence": "상자는 전기, 전자 제조업 등을 비롯한 부품 및 완성제조업체, 농협 등을 통한 농산물포장용, 대기업 MRO등에 납품을 하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐지 및 펄프",
+      "weight": null,
+      "direction": null,
+      "evidence": "제지부문 | 폐지 및 펄프 | 골판지 원지 | 252,259 | 297,841 | 267,181"
+    },
+    {
+      "axis": "raw_material",
+      "value": "모래/자갈",
+      "weight": null,
+      "direction": null,
+      "evidence": "시멘트 | 원자재 | 모래/자갈 | Re',D/M 생산 |  32,549(27.3)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "슬래그",
+      "weight": null,
+      "direction": null,
+      "evidence": "슬래그 | 시멘트 생산 |  5,902(4.9) | 포스코 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석고",
+      "weight": null,
+      "direction": null,
+      "evidence": "석고 | 시멘트 생산 |  4,115(3.5) | 태원물산 외"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "아세아시멘트(주) | 시멘트 | 제천공장 | 4,410 | 4,410 | 4,410"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "옥계공장에서 생산된 포틀랜드시멘트는 선박(해송), 화차(철송), 트럭(육송)을 통해"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "세종특별자치시 및 경기도 시흥시에 위치한 생산공장 2곳에 골판지원지 등 제품 제조를 위한 생산 설비"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": null,
+      "direction": null,
+      "evidence": "경산제지(주)는 대구광역시 달성군에 위치한 생산공장 1곳에 생산설비"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)에이팩은 경남 양산시에 위치한 생산공장 1곳에 생산설비"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "지배회사는 주 원재료인 펄프 및 폐지 수입 시 USANCE 등을 활용하고 있어 환율상승에 따른 환차손 등 환리스크 관리가 중요한 변수입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유연탄 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": null,
+      "direction": 1,
+      "evidence": "동사가 영위하고 있는 시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 동사의 수익성에 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "제지산업은 원재료 가격 변동이 수익성에 민감한 영향을 미칩니다. 주요 원재료는 펄프와 재활용 폐지이며 지종별로 투입 비중에 차이가 존재합니다."
+    },
+    {
+      "axis": "product",
+      "value": "시멘트",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "아세아시멘트(주)는 2025년 연결매출액 1조 228 억원, 연결영업이익 771 억원, 연결당기순이익 164 억원을 기록하였고 별도매출액은 4,566 억원, 별도영업이익 426 억원, 별도당기순이익 191 억원을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "골판지원지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "아세아제지(주)는 골판지원지 중에서도 수입 원재료를 사용하는 표면지를 주로 생산하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "골판지상자",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "제일산업(주)과 유진판지(주), (주)에이팩은 골판지 원단 및 골판지상자를 생산하고 판매하는 회사로 영업력 확대와 경쟁력 향상을 위해 신규 인쇄기 및 완성공정 설비 등 시설투자를 지속하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "레미콘",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사가 같이 석회석 원석 채취부터 시멘트, 레미콘, 몰탈 등의 생산을 종합적으로 영위하는 회사는 약10개 내외의 회사가 존재합니다."
+    },
+    {
+      "application": "건설업",
+      "axis": "application",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 당사의 수익성에 영향을 미칠 수 있습니다."
+    },
+    {
+      "application": "농수산물 포장",
+      "axis": "application",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "(주)에이팩은 골심지 합지기 설비 투자를 통하여 농산물 포장시장에 진출하였고, 현재 대기업 위주 다수 거래선을 확보하고 있으며, 코팅제 개발을 통하여 수산물시장까지 진출하여 농수산물 전문 골판지상자 전문업체로 성장하고 있습니다."
+    },
+    {
+      "application": "제조업",
+      "axis": "application",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "골판지 포장산업은 일반 소비대중에게 직접 판매하지 못하는 중간재로 수요처가 생산하는 제품(섬유제품, 전자제품, 식품, 의약품 및 농수산물 등)의 특성에 맞도록 견적, 발주, 재단과 인쇄가 이루어지며, 주문 생산되는 거래로 이루어지고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "석회석",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "시멘트의 주요 생산원료인 석회석은 국내 부존자원이 비교적 풍부하여 국내 조달이 가능합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유연탄",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "그러나 시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "폐지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "따라서, 재활용 국내폐지 가격 변동성에 의해 영향을 받지만 수입 원자재(펄프, 폐지)가격과 환율 변동에 따라 손익구조가 변동됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "선박 이송은 물류비용이 저렴하고 내륙사가 공급하기 어려운 해안지역과 제주도까지 시멘트 공급이 가능하여 원가경쟁력과 지리적인 판매 우위를 점하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "direction": -1,
+      "value": "건설경기",
+      "weight": 0.5,
+      "evidence": "시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 당사의 수익성에 영향을 미칠 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "direction": -1,
+      "value": "환율",
+      "weight": 0.3,
+      "evidence": "그러나 시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.44,\n      \"direction\": null,\n      \"evidence\": \"시멘트 | 건축자재 | 824,308 | 43.74\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골판지원지\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"골판지원지 | 골판지상자제조 | 586,543 | 31.13\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골판지상자\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"골판지상자 | 골판지포장외 | 536,426 | 28.47\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"레미콘 | 101,814 | 5.40\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"동사가 영위하고 있는 시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"택배 및 온라인쇼핑\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"재활용 국내폐지를 비롯한 원재료 수급은 수요산업인 농산물 작황, 제조업 가동 상황변동, 택배 및 온라인쇼핑을 비롯한 민간소비에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"농산물포장\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"상자는 전기, 전자 제조업 등을 비롯한 부품 및 완성제조업체, 농협 등을 통한 농산물포장용, 대기업 MRO등에 납품을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"폐지 및 펄프\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"제지부문 | 폐지 및 펄프 | 골판지 원지 | 252,259 | 297,841 | 267,181\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"모래/자갈\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"시멘트 | 원자재 | 모래/자갈 | Re',D/M 생산 |  32,549(27.3)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"슬래그\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"슬래그 | 시멘트 생산 |  5,902(4.9) | 포스코 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석고\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"석고 | 시멘트 생산 |  4,115(3.5) | 태원물산 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"아세아시멘트(주) | 시멘트 | 제천공장 | 4,410 | 4,410 | 4,410\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"옥계공장에서 생산된 포틀랜드시멘트는 선박(해송), 화차(철송), 트럭(육송)을 통해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"세종특별자치시 및 경기도 시흥시에 위치한 생산공장 2곳에 골판지원지 등 제품 제조를 위한 생산 설비\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"경산제지(주)는 대구광역시 달성군에 위치한 생산공장 1곳에 생산설비\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(주)에이팩은 경남 양산시에 위치한 생산공장 1곳에 생산설비\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"지배회사는 주 원재료인 펄프 및 폐지 수입 시 USANCE 등을 활용하고 있어 환율상승에 따른 환차손 등 환리스크 관리가 중요한 변수입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유연탄 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"동사가 영위하고 있는 시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 동사의 수익성에 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원재료 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"제지산업은 원재료 가격 변동이 수익성에 민감한 영향을 미칩니다. 주요 원재료는 펄프와 재활용 폐지이며 지종별로 투입 비중에 차이가 존재합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시멘트\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"아세아시멘트(주)는 2025년 연결매출액 1조 228 억원, 연결영업이익 771 억원, 연결당기순이익 164 억원을 기록하였고 별도매출액은 4,566 억원, 별도영업이익 426 억원, 별도당기순이익 191 억원을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골판지원지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"아세아제지(주)는 골판지원지 중에서도 수입 원재료를 사용하는 표면지를 주로 생산하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골판지상자\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"제일산업(주)과 유진판지(주), (주)에이팩은 골판지 원단 및 골판지상자를 생산하고 판매하는 회사로 영업력 확대와 경쟁력 향상을 위해 신규 인쇄기 및 완성공정 설비 등 시설투자를 지속하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사가 같이 석회석 원석 채취부터 시멘트, 레미콘, 몰탈 등의 생산을 종합적으로 영위하는 회사는 약10개 내외의 회사가 존재합니다.\"\n    },\n    {\n      \"application\": \"건설업\",\n      \"axis\": \"application\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 당사의 수익성에 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"application\": \"농수산물 포장\",\n      \"axis\": \"application\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"(주)에이팩은 골심지 합지기 설비 투자를 통하여 농산물 포장시장에 진출하였고, 현재 대기업 위주 다수 거래선을 확보하고 있으며, 코팅제 개발을 통하여 수산물시장까지 진출하여 농수산물 전문 골판지상자 전문업체로 성장하고 있습니다.\"\n    },\n    {\n      \"application\": \"제조업\",\n      \"axis\": \"application\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"골판지 포장산업은 일반 소비대중에게 직접 판매하지 못하는 중간재로 수요처가 생산하는 제품(섬유제품, 전자제품, 식품, 의약품 및 농수산물 등)의 특성에 맞도록 견적, 발주, 재단과 인쇄가 이루어지며, 주문 생산되는 거래로 이루어지고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석회석\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"시멘트의 주요 생산원료인 석회석은 국내 부존자원이 비교적 풍부하여 국내 조달이 가능합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유연탄\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"그러나 시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"폐지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"따라서, 재활용 국내폐지 가격 변동성에 의해 영향을 받지만 수입 원자재(펄프, 폐지)가격과 환율 변동에 따라 손익구조가 변동됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"선박 이송은 물류비용이 저렴하고 내륙사가 공급하기 어려운 해안지역과 제주도까지 시멘트 공급이 가능하여 원가경쟁력과 지리적인 판매 우위를 점하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": -1,\n      \"value\": \"건설경기\",\n      \"weight\": 0.5,\n      \"evidence\": \"시멘트 사업은 전방산업인 건설경기에 따라서 변동하는 특징을 가지고 있어 건설경기의 회복이 지연되거나 악화될 경우, 당사의 수익성에 영향을 미칠 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"direction\": -1,\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"evidence\": \"그러나 시멘트의 소성과정에서 필수적인 열에너지원인 유연탄은 해외에서 전량 수입하여 사용하고 있는 바 국제 자원 가격 및 환율의 움직임에 영향을 받습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/002030_20260326000458.txt"
+}

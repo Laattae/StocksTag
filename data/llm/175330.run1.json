@@ -1,0 +1,394 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 6,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "은행업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "자회사로는 은행업을 영위하는 전북은행과 광주은행, 여신전문금융업을 영위하는 JB우리캐피탈"
+    },
+    {
+      "axis": "product",
+      "value": "여신전문금융업",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "자회사로는 은행업을 영위하는 전북은행과 광주은행, 여신전문금융업을 영위하는 JB우리캐피탈"
+    },
+    {
+      "axis": "product",
+      "value": "집합투자업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "여신전문금융업을 영위하는 JB우리캐피탈, 집합투자업을 영위하는 JB자산운용"
+    },
+    {
+      "axis": "product",
+      "value": "신기술사업금융업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "집합투자업을 영위하는 JB자산운용, 신기술사업금융업을 영위하는 JB인베스트먼트가 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "- 주 소 : 전북특별자치도 전주시 덕진구 백제대로 566(금암동 669-2)"
+    },
+    {
+      "axis": "region",
+      "value": "캄보디아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "손자회사로는 PPCBank(은행업/캄보디아), JB PPAM(자산운용업/캄보디아)"
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "JB Capital Myanmar(소액대출업/미얀마), JB Securities Vietnam(증권업/베트남)이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "JB Capital Myanmar(소액대출업/미얀마), JB Securities Vietnam(증권업/베트남)이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "실물 경기 부진",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "가계 부채관련 규제 강화",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "글로벌 통상 환경의 불확실성",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기 대출형식으로 자금을 공급하는 업무 등"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기 대출형식으로 자금을 공급하는 업무 등"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신용/체크카드 회원 모집 및 운영, 승인/매입/청구/결제업무, 카드금융 업무(단기/장기 카드대출),카드 부가서비스 업무"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "할부금융업, 신기술사업금융업, 시설대여업, 등"
+    },
+    {
+      "axis": "product",
+      "value": "자산운용",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자산운용업, 투자자문업, 투자일임업 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "기준금리 인하 추세로 인한 NIM(2024년 2.68% → 2025년 2.61%) 하락 영향에도 불구하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "실물 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도"
+    },
+    {
+      "axis": "exposure",
+      "value": "가계 부채 규제",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(주)전북은행은 전북특별자치도 내 거점영업 점포 네트워크를 구축하고 지역민에게 차별화된 금융서비스를 제공하여"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "광주은행(연결)은 2,726억원의 순이익을 달성하였고"
+    },
+    {
+      "axis": "region",
+      "value": "캄보디아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "손자회사인 캄보디아 프놈펜상업은행(PPCBank)은 전년 대비 27% 늘어난 486억원의 순이익을 기록하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증업무, 유가증권 발행 및 투자 등을 주요업무로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증업무, 유가증권 발행 및 투자 등을 주요업무로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "신탁",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이외에도 국고수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드업무를 겸하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이외에도 국고수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드업무를 겸하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2026년 국내은행의 경영성과에 영향을 미칠 수 있는 주요 환경요인 측면으로는 기준금리 인하에 따른 순이자마진 축소"
+    },
+    {
+      "axis": "exposure",
+      "value": "가계부채",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "정부의 가계부채 관리 강화 및 대출규제에 따른 대출자산 성장 둔화"
+    },
+    {
+      "axis": "exposure",
+      "value": "국내외 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한, 국내외 경기 둔화의 영향으로 한계기업 및 취약차주 중심의 부실위험이 지속되고 건전성 저하 이슈 또한 부각될 것으로 전망됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출상품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당행은 예금의 수입, 유가증권 기타 채무증서의 발행 등을 통해 불특정 다수인으로부터 자금을 조달하고, 이 자금을 대출하거나 어음을 할인하는 등 자금중개 기능을 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예적금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고유업무는 자금의 중개라는 은행의 본질적인 기능을 수행하는 은행의 중심업무로 예금ㆍ적금의 수신업무와 자금의 대출 또는 어음의 할인업무인 여신업무, 그리고 외환업무로 구분할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "은행업의 본질을 훼손하지 않는 범위 내에서 금융투자, 신탁, 신용카드, 지급결제, 디지털금융서비스 등 다양한 분야로 영업영역을 확장하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신탁업무",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이와 함께 부수업무란, 은행이 고유업무를 수행하는 과정에서 필연적으로 수반되거나 사회경제적 기능을 원활히 수행하는 데 필요한 업무를 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "JB우리캐피탈은 여신전문금융업법에 의해 설립된 여신전문금융회사로서 할부금융업, 리스업(시설대여업), 기타 대출사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "고객이 선정한 차량 및 기계설비 등을 리스회사가 구입하여 장기간약정한 바에 따라 리스료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "금리경쟁 심화에 따른 NIM 하락, 일부 자산의 연체성향 확대와 PF 부실채권 정리 등 부정적 요인이 있었음에도 불구하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "은행업은 경기변동에 민감한 산업으로 경기 호황기에는 자산과 수익이 함께 증가하지만 경기침체 시에는 부실여신 증가로 자산건전성 및 수익성 악화가 발생할 수 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "광주은행은 은행법에 의해 설립된 지방은행으로, 광주광역시 및 전라남도 지역을 주요 영업구역으로 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "광주은행은 은행법에 의해 설립된 지방은행으로, 광주광역시 및 전라남도 지역을 주요 영업구역으로 하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2016년 1월에는 베트남 하노이에 사무소를 설치, JB금융그룹내 선발주자로 동남아 금융시장 진출의 교두보를 마련하는 동시에"
+    },
+    {
+      "axis": "product",
+      "value": "오토론",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "오토론은 고객이 차량을 구입할 경우 자동차 구입자금을 대출해 드리는 상품으로 일정기간 동안 매월 할부금을 균등하게 납부하는 대출 상품입니다."
+    },
+    {
+      "axis": "product",
+      "value": "리스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "리스는 고객이 선정한 차량 및 기계설비 등을 리스회사가 구입하여 장기간약정한 바에 따라 리스료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품으로서"
+    },
+    {
+      "axis": "product",
+      "value": "장기렌터카",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "장기렌터카는 고객이 선정한 차량을 약정한 바에 따라 렌터카 대여료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품으로서"
+    },
+    {
+      "axis": "product",
+      "value": "개인신용대출",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "개인신용대출은 자금이 필요한 다양한 고객군에 대하여 각각의 신용에 따라 대출을 해주는 형태의 금융서비스입니다."
+    },
+    {
+      "axis": "product",
+      "value": "기업금융",
+      "weight": 0.46,
+      "direction": null,
+      "evidence": "기업금융은 기업의 신용이나 보유자산을 담보로 필요한 자금을 대출하는 일반대출 / 대규모 자금이 필요한 프로젝트의 사업성 검토 및 채권 보전을 통한 PF대출"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "2025년은 인플레이션 완화와 금리 안정 기대 속에서 금융시장 유동성이 점진적으로 개선되었으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 시장",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다만 부동산 시장 회복 지연과 PF 관련 리스크는 지속되어 업권 전반의 자산건전성에 대한 부담은 여전히 존재하는 상황이었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "국/내외 경제적 불확실성에 따른 리스크가 커지고 있는 시장상황 하에서 고금리/고환율 등의 영향으로 대체투자부문 경기 악화에서 기인하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "금융권은 금리 인하 속도와 폭에 따른 순이자마진(NIM) 변화를 정밀하게 관리해야 하는 시점에 놓여 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "자산관리 서비스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "생성형 AI를 활용한 초개인화 자산관리와 고도화된 실시간 리스크 탐지 시스템을 본격 가동하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "펀드 및 ETF",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기존의 단순 지수 추종형 ETF를 넘어 파생상품을 결합하여 하락장에서 손실을 방어하면서 상승장 수익을 추구하는 '정의된 성과(Defined Outcome) ETF'와 펀드 매니저의 역량이 강조되는 '액티브 ETF'가 시장의 주류로 부상하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "2026년 국내 금융산업은 기준금리가 연 2.5% 수준의 중립 금리에 안착함에 따라, 고금리 시대의 긴축 효과가 해소되는 변곡점에 위치해 있으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "달러 강세 기조에 따른 긴축적 금융여건과 미·중 무역 갈등의 고착화는 신흥국 경제에 지속적인 하방 압력을 가할 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 PF",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다만 부동산 시장 회복 지연과 PF 관련 리스크는 지속되어 업권 전반의 자산건전성에 대한 부담을 여전히 존재하는 상황이었습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"은행업\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"자회사로는 은행업을 영위하는 전북은행과 광주은행, 여신전문금융업을 영위하는 JB우리캐피탈\"}, {\"axis\": \"product\", \"value\": \"여신전문금융업\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"자회사로는 은행업을 영위하는 전북은행과 광주은행, 여신전문금융업을 영위하는 JB우리캐피탈\"}, {\"axis\": \"product\", \"value\": \"집합투자업\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"여신전문금융업을 영위하는 JB우리캐피탈, 집합투자업을 영위하는 JB자산운용\"}, {\"axis\": \"product\", \"value\": \"신기술사업금융업\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"집합투자업을 영위하는 JB자산운용, 신기술사업금융업을 영위하는 JB인베스트먼트가 있으며\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"- 주 소 : 전북특별자치도 전주시 덕진구 백제대로 566(금암동 669-2)\"}, {\"axis\": \"region\", \"value\": \"캄보디아\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"손자회사로는 PPCBank(은행업/캄보디아), JB PPAM(자산운용업/캄보디아)\"}, {\"axis\": \"region\", \"value\": \"미얀마\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"JB Capital Myanmar(소액대출업/미얀마), JB Securities Vietnam(증권업/베트남)이 있습니다.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"JB Capital Myanmar(소액대출업/미얀마), JB Securities Vietnam(증권업/베트남)이 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"실물 경기 부진\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"가계 부채관련 규제 강화\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"글로벌 통상 환경의 불확실성\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도 수익성 위주의 내실경영을 통해 견조한 실적을 달성하였습니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기 대출형식으로 자금을 공급하는 업무 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"일반대중으로부터 예금 등의 형태로 취득한 자금을 주 재원으로 하여 자금수요자에게 장ㆍ단기 대출형식으로 자금을 공급하는 업무 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신용/체크카드 회원 모집 및 운영, 승인/매입/청구/결제업무, 카드금융 업무(단기/장기 카드대출),카드 부가서비스 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"할부금융업, 신기술사업금융업, 시설대여업, 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자산운용\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자산운용업, 투자자문업, 투자일임업 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"기준금리 인하 추세로 인한 NIM(2024년 2.68% → 2025년 2.61%) 하락 영향에도 불구하고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"실물 경기\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"가계 부채 규제\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"실물 경기 부진, 가계 부채관련 규제 강화 및 글로벌 통상 환경의 불확실성 속에서도\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"(주)전북은행은 전북특별자치도 내 거점영업 점포 네트워크를 구축하고 지역민에게 차별화된 금융서비스를 제공하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"광주은행(연결)은 2,726억원의 순이익을 달성하였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캄보디아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"손자회사인 캄보디아 프놈펜상업은행(PPCBank)은 전년 대비 27% 늘어난 486억원의 순이익을 기록하였습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"예금\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증업무, 유가증권 발행 및 투자 등을 주요업무로 하고 있으며\"}, {\"axis\": \"product\", \"value\": \"대출\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"은행은 고유업무인 여수신 업무를 중심으로 내국환 및 외국환 등의 환업무와 지급보증업무, 유가증권 발행 및 투자 등을 주요업무로 하고 있으며\"}, {\"axis\": \"product\", \"value\": \"신탁\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"이외에도 국고수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드업무를 겸하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"신용카드\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"이외에도 국고수납, 보호예수 등 은행법에 관련된 각종 부수업무와 신탁업무, 신용카드업무를 겸하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"기준금리\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"2026년 국내은행의 경영성과에 영향을 미칠 수 있는 주요 환경요인 측면으로는 기준금리 인하에 따른 순이자마진 축소\"}, {\"axis\": \"exposure\", \"value\": \"가계부채\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"정부의 가계부채 관리 강화 및 대출규제에 따른 대출자산 성장 둔화\"}, {\"axis\": \"exposure\", \"value\": \"국내외 경기\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"또한, 국내외 경기 둔화의 영향으로 한계기업 및 취약차주 중심의 부실위험이 지속되고 건전성 저하 이슈 또한 부각될 것으로 전망됩니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출상품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당행은 예금의 수입, 유가증권 기타 채무증서의 발행 등을 통해 불특정 다수인으로부터 자금을 조달하고, 이 자금을 대출하거나 어음을 할인하는 등 자금중개 기능을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예적금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고유업무는 자금의 중개라는 은행의 본질적인 기능을 수행하는 은행의 중심업무로 예금ㆍ적금의 수신업무와 자금의 대출 또는 어음의 할인업무인 여신업무, 그리고 외환업무로 구분할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"은행업의 본질을 훼손하지 않는 범위 내에서 금융투자, 신탁, 신용카드, 지급결제, 디지털금융서비스 등 다양한 분야로 영업영역을 확장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁업무\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"이와 함께 부수업무란, 은행이 고유업무를 수행하는 과정에서 필연적으로 수반되거나 사회경제적 기능을 원활히 수행하는 데 필요한 업무를 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"JB우리캐피탈은 여신전문금융업법에 의해 설립된 여신전문금융회사로서 할부금융업, 리스업(시설대여업), 기타 대출사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"고객이 선정한 차량 및 기계설비 등을 리스회사가 구입하여 장기간약정한 바에 따라 리스료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"금리경쟁 심화에 따른 NIM 하락, 일부 자산의 연체성향 확대와 PF 부실채권 정리 등 부정적 요인이 있었음에도 불구하고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"은행업은 경기변동에 민감한 산업으로 경기 호황기에는 자산과 수익이 함께 증가하지만 경기침체 시에는 부실여신 증가로 자산건전성 및 수익성 악화가 발생할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"광주은행은 은행법에 의해 설립된 지방은행으로, 광주광역시 및 전라남도 지역을 주요 영업구역으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"광주은행은 은행법에 의해 설립된 지방은행으로, 광주광역시 및 전라남도 지역을 주요 영업구역으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2016년 1월에는 베트남 하노이에 사무소를 설치, JB금융그룹내 선발주자로 동남아 금융시장 진출의 교두보를 마련하는 동시에\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"오토론\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"오토론은 고객이 차량을 구입할 경우 자동차 구입자금을 대출해 드리는 상품으로 일정기간 동안 매월 할부금을 균등하게 납부하는 대출 상품입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"리스는 고객이 선정한 차량 및 기계설비 등을 리스회사가 구입하여 장기간약정한 바에 따라 리스료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품으로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"장기렌터카\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"장기렌터카는 고객이 선정한 차량을 약정한 바에 따라 렌터카 대여료를 받는 것을 조건으로 그 물건을 임대하여 주는 형태의 상품으로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"개인신용대출\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"개인신용대출은 자금이 필요한 다양한 고객군에 대하여 각각의 신용에 따라 대출을 해주는 형태의 금융서비스입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기업금융\",\n      \"weight\": 0.46,\n      \"direction\": null,\n      \"evidence\": \"기업금융은 기업의 신용이나 보유자산을 담보로 필요한 자금을 대출하는 일반대출 / 대규모 자금이 필요한 프로젝트의 사업성 검토 및 채권 보전을 통한 PF대출\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"2025년은 인플레이션 완화와 금리 안정 기대 속에서 금융시장 유동성이 점진적으로 개선되었으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 시장\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"다만 부동산 시장 회복 지연과 PF 관련 리스크는 지속되어 업권 전반의 자산건전성에 대한 부담은 여전히 존재하는 상황이었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"국/내외 경제적 불확실성에 따른 리스크가 커지고 있는 시장상황 하에서 고금리/고환율 등의 영향으로 대체투자부문 경기 악화에서 기인하였습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"금융권은 금리 인하 속도와 폭에 따른 순이자마진(NIM) 변화를 정밀하게 관리해야 하는 시점에 놓여 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자산관리 서비스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"생성형 AI를 활용한 초개인화 자산관리와 고도화된 실시간 리스크 탐지 시스템을 본격 가동하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드 및 ETF\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기존의 단순 지수 추종형 ETF를 넘어 파생상품을 결합하여 하락장에서 손실을 방어하면서 상승장 수익을 추구하는 '정의된 성과(Defined Outcome) ETF'와 펀드 매니저의 역량이 강조되는 '액티브 ETF'가 시장의 주류로 부상하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"기준금리\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"2026년 국내 금융산업은 기준금리가 연 2.5% 수준의 중립 금리에 안착함에 따라, 고금리 시대의 긴축 효과가 해소되는 변곡점에 위치해 있으나\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"달러 강세 기조에 따른 긴축적 금융여건과 미·중 무역 갈등의 고착화는 신흥국 경제에 지속적인 하방 압력을 가할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 PF\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"다만 부동산 시장 회복 지연과 PF 관련 리스크는 지속되어 업권 전반의 자산건전성에 대한 부담을 여전히 존재하는 상황이었습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/175330_20260318001225.txt"
+}

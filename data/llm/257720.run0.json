@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "글로벌 각 지역에서 선호되는 화장품 카테고리 및 제품 유형을 분석하여 브랜드를 분류하고"
+    },
+    {
+      "axis": "product",
+      "value": "풀필먼트 서비스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "풀필먼트 사업은 오픈마켓 및 글로벌 온라인 채널에 대한 직접 운영이 어려운 K-Beauty 브랜드를 대상으로, 판매 채널 운영부터 물류까지 전 과정을 대행하는 서비스입니다."
+    },
+    {
+      "axis": "application",
+      "value": "뷰티",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전 세계 뷰티 및 퍼스널케어(Beauty & Personal Care) 시장은 지속적인 성장세를 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "E-Commerce",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "급변하는 글로벌 E-Commerce 및 유통 환경에 효과적으로 대응할 수 있는 종합 솔루션을 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "iHerb, Inc",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "CA매출 | iHerb, Inc | 68,442 | 6.13%"
+    },
+    {
+      "axis": "customer",
+      "value": "SHOPEE",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "풀필먼트매출 | SHOPEE | 15,386 | 1.38%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경기도 광주시 오포읍 오포로 650-23오포CS물류창고"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 신규 사옥 | 78,221 | 2024-07-25 | 사무실, 창고 확장"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Hall A, Docks 37 Logistyczna 2, 55-040 Bielany Wroclawskie, Poland"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "VIETTEL TOWER (A2 BUILDING) 12TH FLOOR,285CACH MANG THANG 8 STREET,WARD 12,DISTRICT 10, HCMC, Viet Nam"
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Plot S60305, Jebel Ali Free Zone, JAFZA South, Dubai, UAE"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 USD, EUR와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결실체의 이자율 변동위험은 주로 예금 및 변동금리부 차입금에서 비롯되며, 연결실체는 이자율 변동으로 인한 불확실성과 금융비용의 최소화를 위한 정책을 수립 및 운용하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"화장품\", \"weight\": 0.95, \"direction\": null, \"evidence\": \"글로벌 각 지역에서 선호되는 화장품 카테고리 및 제품 유형을 분석하여 브랜드를 분류하고\"}, {\"axis\": \"product\", \"value\": \"풀필먼트 서비스\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"풀필먼트 사업은 오픈마켓 및 글로벌 온라인 채널에 대한 직접 운영이 어려운 K-Beauty 브랜드를 대상으로, 판매 채널 운영부터 물류까지 전 과정을 대행하는 서비스입니다.\"}, {\"axis\": \"application\", \"value\": \"뷰티\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전 세계 뷰티 및 퍼스널케어(Beauty & Personal Care) 시장은 지속적인 성장세를 보이고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"E-Commerce\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"급변하는 글로벌 E-Commerce 및 유통 환경에 효과적으로 대응할 수 있는 종합 솔루션을 제공하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"iHerb, Inc\", \"weight\": 0.06, \"direction\": null, \"evidence\": \"CA매출 | iHerb, Inc | 68,442 | 6.13%\"}, {\"axis\": \"customer\", \"value\": \"SHOPEE\", \"weight\": 0.01, \"direction\": null, \"evidence\": \"풀필먼트매출 | SHOPEE | 15,386 | 1.38%\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"경기도 광주시 오포읍 오포로 650-23오포CS물류창고\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"미국 신규 사옥 | 78,221 | 2024-07-25 | 사무실, 창고 확장\"}, {\"axis\": \"region\", \"value\": \"폴란드\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"Hall A, Docks 37 Logistyczna 2, 55-040 Bielany Wroclawskie, Poland\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"VIETTEL TOWER (A2 BUILDING) 12TH FLOOR,285CACH MANG THANG 8 STREET,WARD 12,DISTRICT 10, HCMC, Viet Nam\"}, {\"axis\": \"region\", \"value\": \"아랍에미리트\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"Plot S60305, Jebel Ali Free Zone, JAFZA South, Dubai, UAE\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"연결실체는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 USD, EUR와 관련된 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"연결실체의 이자율 변동위험은 주로 예금 및 변동금리부 차입금에서 비롯되며, 연결실체는 이자율 변동으로 인한 불확실성과 금융비용의 최소화를 위한 정책을 수립 및 운용하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/257720_20260320001024.txt"
+}

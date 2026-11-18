@@ -1,0 +1,420 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "가공식품",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "식품 & 식품서비스 | 가공식품, 설탕, 밀가루, 식용유, 식자재 유통 서비스 등 | 14,901,960 | 33.1"
+    },
+    {
+      "axis": "product",
+      "value": "핵산",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "생명공학 | 핵산, 아미노산, 사료 등 | 6,220,537 | 13.8"
+    },
+    {
+      "axis": "product",
+      "value": "운송",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "물류 & 신유통 | 하역, 운송, 집하, 배송, 의류, 전자/가구, 이미용품 등 | 18,600,623 | 41.3"
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "엔터테인먼트 & 미디어 | 광고, 수신료, 극장수입, 판권, 음악, 브랜드 등 | 5,026,467 | 11.2"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원맥",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "경유",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "운송, 보관, 하역이 주업종인 서비스업으로 사업부문별 매입액의 대부분이 인건비, 노임, 감가상각비 등의 고정비로 그 기재를 생략하였으며, 당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "핵산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "핵산, 아미노산,식물성 단백원 등"
+    },
+    {
+      "axis": "product",
+      "value": "아미노산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "핵산, 아미노산,식물성 단백원 등"
+    },
+    {
+      "axis": "product",
+      "value": "택배",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "택배, 이커머스 물류"
+    },
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "음반, 음원, 콘서트, 매니지먼트 등"
+    },
+    {
+      "axis": "product",
+      "value": "음원",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "음반, 음원, 콘서트, 매니지먼트 등"
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "콘텐츠 기획, 제작, 유통 등"
+    },
+    {
+      "axis": "product",
+      "value": "냉동생지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "냉동생지, 빵 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "회사는 주로 변동 이자율로 발행된 차입금으로 인한 현금흐름 이자율 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가지수",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "회사가 보유하고 있는 상장주식은 공개시장에서 거래되고 있으며 KOSPI 주가지수, KOSDAQ 주가지수 등에 속해 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개 사이트를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개 사이트를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미국 | 사이트 | - | 2 | 2 |"
+    },
+    {
+      "axis": "customer",
+      "value": "넷플릭스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "디즈니+",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "HORMEL",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "HORMEL社 | 2025년 3월 | 2025년 ~ 2029년 | 육가공 상표권 | 계약서에 의함 |"
+    },
+    {
+      "axis": "product",
+      "value": "비비고 플랜테이블 왕교자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한 '비비고 플랜테이블 왕교자' 제품 2종을 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TasteNrich",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "식물 유래 발효소재 'TasteNrich'를 사용하여 고기를 넣은 듯한 풍미를 살렸습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PHACT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사가 개발한 PHACT는 PLA와 같은 생분해 소재와 혼합해 강도와 물성, 생분해도를 개선할 수 있다는 장점이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "설탕",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "밀가루",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "햇반",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "상 품 밥 (햇 반) | 66 | 70 |"
+    },
+    {
+      "axis": "product",
+      "value": "냉동만두",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "냉 동 만 두 (가정용) | 42 | 45 |"
+    },
+    {
+      "axis": "product",
+      "value": "뚜레쥬르",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "프랜차이즈부문은 재료부터 다른 건강한 베이커리 뚜레쥬르를 전국 1,285여개 운영 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "식품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PHA는 해양에서 분해되는 바이오 기반 소재로 식품, 소비재, 산업재, 농업 등 여러 다른 산업과 결합하여 시너지를 낼 수 있는 성장 가능성이 큰 소재입니다."
+    },
+    {
+      "axis": "application",
+      "value": "화장품 용기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2022년12월 국내 최초로 PHA를 적용한 화장품 용기를 개발, 상업화에 성공했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제3자 물류 시장은 물류 운영 난이도 상승 및 물류원가 증가로 산업온라인 소비 패턴으로의 변화로 인해 산업군별 성장 편차는 더욱 렷해지고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "택배",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "e-Commerce 시장의 성장으로 택배시장 규모는 지속적으로 확대되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한"
+    },
+    {
+      "axis": "raw_material",
+      "value": "완두",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한"
+    },
+    {
+      "axis": "raw_material",
+      "value": "곡물",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 곡물가 및 환율 변동과 경기부진 등 외부 환경변화에도 불구하고, 대외적인 시장 변동성을 축소시킬 수 있도록 헷지 전략을 적극적으로 추진하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재 인도네시아 공장에서 15천톤의 aPHA와 scPHA를 생산할 수 있는 CAPA를 구축하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국에 위치하는 당사 BIO 사업장 심양공장과 요성공장에서는 중국 국가환경보호부의 대기오염물질 초저배출 기준 공표에 따라 환경설비를 투자하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "생산 및 소비시장 다변화에 따른 물류 난이도가 상승하고 있으며 유류비 및 인건비 상승에 따른 물류비 부담 증가로 인하여 자동화 설비 기반의 제3자물류 위탁에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "방송프로그램",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 드라마를 기획ㆍ제작ㆍ판매하고, 관련 부가사업을 영위하는 방송영상물 제작사업을 주된 사업으로 운영하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 영화의 제작, 투자 및 배급 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음악",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등"
+    },
+    {
+      "axis": "product",
+      "value": "TV홈쇼핑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고"
+    },
+    {
+      "axis": "application",
+      "value": "OTT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 OTT 시장은 매년 급속하게 성장하고 있고, 특히 팬데믹을 겪으며 대중들의 관심이 급증하면서 티빙, 웨이브, 쿠팡플레이와 같은 토종 OTT뿐만 아니라 글로벌 OTT인 애플TV, 디즈니+가 진입하여 사업자간 경쟁이 심화되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유료방송",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "케이블TV의 성장, 위성방송의 출범, IPTV의 성장으로 인한 다매체 구조의 형성 및 PP의 제작 역량 강화에 따른 메가(Mega)-IP확보 등 다채널 시대의 도래로 지상파의 시장지배력은 부분적으로 축소되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "드라마산업의 경우 문화 소비라는 특성상 수요자의 기호 변화가 매우 빠르고 유행이 중요하며, 경기에 따른 변동성이 매우 큰 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "광고시장",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "방송광고 시장경기의 침체 또는 회복에 따라 광고시장은 민감한 변동을 보여왔습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Netflix",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 tvN, OCN 등 전통적인 방송 채널에 컨텐츠를 공급해 온 제작사로서 이러한 미디어 환경 변화에 영향을 받아왔습니다. 이에 대응하여 당사는 글로벌 주요 OTT 사업자인 Netflix, Inc.와 2019년 콘텐츠 제작 및 방영권 판매 등에 관한 사업 협력 계약을 체결하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Amazon Prime Video",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "예능 콘텐츠로는 , , 시리즈 등을 제작하였고, 는 한국 예능 최초로 글로벌 OTT 아마존 프라임(Prime Video)에 공개되는 등 국내 뿐만 아니라 해외에서도 높은 성과를 기록하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가공식품\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"식품 & 식품서비스 | 가공식품, 설탕, 밀가루, 식용유, 식자재 유통 서비스 등 | 14,901,960 | 33.1\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"핵산\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"생명공학 | 핵산, 아미노산, 사료 등 | 6,220,537 | 13.8\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"운송\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"물류 & 신유통 | 하역, 운송, 집하, 배송, 의류, 전자/가구, 이미용품 등 | 18,600,623 | 41.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광고\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"엔터테인먼트 & 미디어 | 광고, 수신료, 극장수입, 판권, 음악, 브랜드 등 | 5,026,467 | 11.2\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원맥\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"경유\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"운송, 보관, 하역이 주업종인 서비스업으로 사업부문별 매입액의 대부분이 인건비, 노임, 감가상각비 등의 고정비로 그 기재를 생략하였으며, 당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"소재식품은 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가(원당, 원맥, 대두) 및 환율 변동으로 인해 원가 등락의 기복이 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"핵산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"핵산, 아미노산,식물성 단백원 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아미노산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"핵산, 아미노산,식물성 단백원 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"택배\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"택배, 이커머스 물류\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음반\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"음반, 음원, 콘서트, 매니지먼트 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음원\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"음반, 음원, 콘서트, 매니지먼트 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"드라마\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"콘텐츠 기획, 제작, 유통 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉동생지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"냉동생지, 빵 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 달러화 및 유로화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"회사는 주로 변동 이자율로 발행된 차입금으로 인한 현금흐름 이자율 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가지수\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"회사가 보유하고 있는 상장주식은 공개시장에서 거래되고 있으며 KOSPI 주가지수, KOSDAQ 주가지수 등에 속해 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개 사이트를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"보고서작성기준일 현재 한국에서 178개 사이트, 중국에서 110개 사이트, 튀르키예에서 77개 사이트, 베트남에서 84개 사이트, 인도네시아에서 72개 사이트를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미국 | 사이트 | - | 2 | 2 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넷플릭스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"디즈니+\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"HORMEL\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"HORMEL社 | 2025년 3월 | 2025년 ~ 2029년 | 육가공 상표권 | 계약서에 의함 |\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"비비고 플랜테이블 왕교자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한 '비비고 플랜테이블 왕교자' 제품 2종을 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TasteNrich\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"식물 유래 발효소재 'TasteNrich'를 사용하여 고기를 넣은 듯한 풍미를 살렸습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PHACT\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사가 개발한 PHACT는 PLA와 같은 생분해 소재와 혼합해 강도와 물성, 생분해도를 개선할 수 있다는 장점이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"설탕\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"밀가루\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"햇반\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"상 품 밥 (햇 반) | 66 | 70 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉동만두\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"냉 동 만 두 (가정용) | 42 | 45 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뚜레쥬르\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"프랜차이즈부문은 재료부터 다른 건강한 베이커리 뚜레쥬르를 전국 1,285여개 운영 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PHA는 해양에서 분해되는 바이오 기반 소재로 식품, 소비재, 산업재, 농업 등 여러 다른 산업과 결합하여 시너지를 낼 수 있는 성장 가능성이 큰 소재입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화장품 용기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2022년12월 국내 최초로 PHA를 적용한 화장품 용기를 개발, 상업화에 성공했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제3자 물류 시장은 물류 운영 난이도 상승 및 물류원가 증가로 산업온라인 소비 패턴으로의 변화로 인해 산업군별 성장 편차는 더욱 렷해지고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"택배\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"e-Commerce 시장의 성장으로 택배시장 규모는 지속적으로 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"완두\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"PlanTable 브랜드 첫 제품으로 대두, 완두 등으로 만든 식물성 대체육과 식물성 오일등 100% 식물성 재료만 사용한\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"곡물\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 곡물가 및 환율 변동과 경기부진 등 외부 환경변화에도 불구하고, 대외적인 시장 변동성을 축소시킬 수 있도록 헷지 전략을 적극적으로 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현재 인도네시아 공장에서 15천톤의 aPHA와 scPHA를 생산할 수 있는 CAPA를 구축하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국에 위치하는 당사 BIO 사업장 심양공장과 요성공장에서는 중국 국가환경보호부의 대기오염물질 초저배출 기준 공표에 따라 환경설비를 투자하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"설탕, 밀가루, 대두유 등을 생산, 판매하는 소재식품 사업은 성숙산업으로, 생활필수품이라는 산업특성상 수요탄력성이 낮고 경기변동에 크게 영향을 받지 않으나, 국제 곡물가 및 환율로 인해 원가 등락의 기복이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"생산 및 소비시장 다변화에 따른 물류 난이도가 상승하고 있으며 유류비 및 인건비 상승에 따른 물류비 부담 증가로 인하여 자동화 설비 기반의 제3자물류 위탁에 대한 수요가 증가하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"방송프로그램\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 드라마를 기획ㆍ제작ㆍ판매하고, 관련 부가사업을 영위하는 방송영상물 제작사업을 주된 사업으로 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 영화의 제작, 투자 및 배급 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음악\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV홈쇼핑\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OTT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내 OTT 시장은 매년 급속하게 성장하고 있고, 특히 팬데믹을 겪으며 대중들의 관심이 급증하면서 티빙, 웨이브, 쿠팡플레이와 같은 토종 OTT뿐만 아니라 글로벌 OTT인 애플TV, 디즈니+가 진입하여 사업자간 경쟁이 심화되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유료방송\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"케이블TV의 성장, 위성방송의 출범, IPTV의 성장으로 인한 다매체 구조의 형성 및 PP의 제작 역량 강화에 따른 메가(Mega)-IP확보 등 다채널 시대의 도래로 지상파의 시장지배력은 부분적으로 축소되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"드라마산업의 경우 문화 소비라는 특성상 수요자의 기호 변화가 매우 빠르고 유행이 중요하며, 경기에 따른 변동성이 매우 큰 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"광고시장\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"방송광고 시장경기의 침체 또는 회복에 따라 광고시장은 민감한 변동을 보여왔습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Netflix\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 tvN, OCN 등 전통적인 방송 채널에 컨텐츠를 공급해 온 제작사로서 이러한 미디어 환경 변화에 영향을 받아왔습니다. 이에 대응하여 당사는 글로벌 주요 OTT 사업자인 Netflix, Inc.와 2019년 콘텐츠 제작 및 방영권 판매 등에 관한 사업 협력 계약을 체결하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Amazon Prime Video\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"예능 콘텐츠로는 , , 시리즈 등을 제작하였고, 는 한국 예능 최초로 글로벌 OTT 아마존 프라임(Prime Video)에 공개되는 등 국내 뿐만 아니라 해외에서도 높은 성과를 기록하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/001040_20260318001509.txt"
+}

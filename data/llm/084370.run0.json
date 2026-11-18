@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LPCVD장비",
+      "weight": 0.81,
+      "direction": null,
+      "evidence": "반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비 | -BlueJay-Albatross-QXP | 283,728(81.0%)"
+    },
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.042,
+      "direction": null,
+      "evidence": "반도체용 산업가스반도체 소재 | 제품 | 전구체 | 반도체 전공정 중 박막증착에 사용되는 화학물질 | -SP | 14,853(4.2%)"
+    },
+    {
+      "axis": "application",
+      "value": "메모리 반도체",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "모바일, PC 교체수요 및 고용량화 지속확대 등 Memory 시장이 성장하고 있으므로 반도체용 설비투자도 함께 증가하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "customer",
+      "value": "MICRON",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON"
+    },
+    {
+      "axis": "raw_material",
+      "value": "플랫폼",
+      "weight": 0.096,
+      "direction": null,
+      "evidence": "반도체장비 | 원재료 | 플랫폼 | Brooks 등 | Wafer 이송장치 | 16,407 | 9.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "히터",
+      "weight": 0.085,
+      "direction": null,
+      "evidence": "반도체장비 | 원재료 | 히터 | Inabata 등 | Chamber 내 부속품(Wafer 고온 유지) | 14,396 | 8.5%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Eugenus Inc. | 미국 | 99.93% | 반도체장비 제조 | 12월 31일"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유진태극무역(무석)유한공사 | 중국 | 100% | 반도체 장비 유지보수, 반도체 장비 수입, 수출 | 12월 31일"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 기능통화인 원화 외의 통화로 표시되는 매출채권 및 매입채무와 관련하여 환위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LPCVD장비\",\n      \"weight\": 0.81,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 제품 | LPCVDPlasmaALD | 반도체 전공정 장비:웨이퍼 위에 특정 용도막(산화막, 절연막 등)을 증착하는 장비 | -BlueJay-Albatross-QXP | 283,728(81.0%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.042,\n      \"direction\": null,\n      \"evidence\": \"반도체용 산업가스반도체 소재 | 제품 | 전구체 | 반도체 전공정 중 박막증착에 사용되는 화학물질 | -SP | 14,853(4.2%)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"메모리 반도체\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"모바일, PC 교체수요 및 고용량화 지속확대 등 Memory 시장이 성장하고 있으므로 반도체용 설비투자도 함께 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"MICRON\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | (주)유진테크Eugenus Inc.유진태극무역(무석)유한공사 | 반도체 전공정 장비제조 | SK하이닉스삼성전자MICRON\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"플랫폼\",\n      \"weight\": 0.096,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 원재료 | 플랫폼 | Brooks 등 | Wafer 이송장치 | 16,407 | 9.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"히터\",\n      \"weight\": 0.085,\n      \"direction\": null,\n      \"evidence\": \"반도체장비 | 원재료 | 히터 | Inabata 등 | Chamber 내 부속품(Wafer 고온 유지) | 14,396 | 8.5%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Eugenus Inc. | 미국 | 99.93% | 반도체장비 제조 | 12월 31일\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유진태극무역(무석)유한공사 | 중국 | 100% | 반도체 장비 유지보수, 반도체 장비 수입, 수출 | 12월 31일\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 기능통화인 원화 외의 통화로 표시되는 매출채권 및 매입채무와 관련하여 환위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/084370_20260319000837.txt"
+}

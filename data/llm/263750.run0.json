@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "게임소프트웨어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 연결회사 기준으로 게임소프트웨어의 개발 및 퍼블리싱 사업 등을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC 게임",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "콘솔 게임",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "게임엔진",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "'검은사막'은 언리얼, 유니티 등 상용화 엔진이 아닌 자체 개발한 엔진으로 제작되었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "텐센트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "'검은사막'은 국내와 일본의 경우 당사가 직접 서비스하고 있으며 중국의 경우 텐센트가 서비스하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "넷이즈",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "'EVE Online'은 당사 종속회사인 CCP ehf.가 직접 글로벌 서비스를 제공하고 있으며, 중국 서비스의 경우 퍼블리셔인 넷이즈가 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Microsoft",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Sony",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "대상지역 | \n 경기도 안양시 동안구 흥안대로439번길 67 (관양동)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결회사의 기능통화인 원화 외의 통화로 표시되는 판매에 대해 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로써"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"게임소프트웨어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 연결회사 기준으로 게임소프트웨어의 개발 및 퍼블리싱 사업 등을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC 게임\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"콘솔 게임\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"게임사업부문의 주요 매출원은 '검은사막' 및 'EVE' IP 등 PC, 콘솔, 모바일 게임의 글로벌 서비스로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"게임엔진\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"'검은사막'은 언리얼, 유니티 등 상용화 엔진이 아닌 자체 개발한 엔진으로 제작되었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"텐센트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"'검은사막'은 국내와 일본의 경우 당사가 직접 서비스하고 있으며 중국의 경우 텐센트가 서비스하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넷이즈\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"'EVE Online'은 당사 종속회사인 CCP ehf.가 직접 글로벌 서비스를 제공하고 있으며, 중국 서비스의 경우 퍼블리셔인 넷이즈가 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Microsoft\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sony\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"'검은사막 Xbox 및 PlayStation' 버전은 당사가 개발한 '검은사막 콘솔' 타이틀을 Microsoft, Sony를 통해 공급하는 방식으로 서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"대상지역 | \\n 경기도 안양시 동안구 흥안대로439번길 67 (관양동)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 기능통화인 원화 외의 통화로 표시되는 판매에 대해 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이자율위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로써\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/263750_20260319001336.txt"
+}

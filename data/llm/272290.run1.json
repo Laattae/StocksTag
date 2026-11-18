@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 패키지 소재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "반도체 패키지 소재 사업 매출액은 365억원으로 전년 대비 0.9% 감소했으며, 전체 매출액의 8.3%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "OLED 소재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "OLED 소재 사업 매출액은 2,915억원으로 전년 대비 20.1% 증가했으며, 전체 매출액의 66.3%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "회로기판 소재",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "회로기판 소재 사업 매출액은 1,116억원으로 전년 대비 22.1% 감소했으며, 전체 매출액의 25.4%를 차지합니다."
+    },
+    {
+      "axis": "product",
+      "value": "리튬",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)이녹스리튬은 2차전지용 리튬을 제조하여 판매하는 것을 주된 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "PI필름",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PET",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "동박",
+      "weight": null,
+      "direction": null,
+      "evidence": "PI Film의 가격은 전년대비 한자리 초반의 비율로 하락하였으며, 동박의 가격은 구리시세의 상승으로 전년대비 한자리 중반의 비율로 상승하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "S社",
+      "weight": null,
+      "direction": null,
+      "evidence": "주요고객 | S社, L社등 |"
+    },
+    {
+      "axis": "customer",
+      "value": "L社",
+      "weight": null,
+      "direction": null,
+      "evidence": "주요고객 | S社, L社등 |"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "충청북도 청주시 오창테크노폴리스 산업단지에 제조 공장을 2025년 11월 준공했으며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "연결회사는 여러 활동으로 인하여 시장위험(환위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 패키지 소재\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"반도체 패키지 소재 사업 매출액은 365억원으로 전년 대비 0.9% 감소했으며, 전체 매출액의 8.3%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED 소재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"OLED 소재 사업 매출액은 2,915억원으로 전년 대비 20.1% 증가했으며, 전체 매출액의 66.3%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"회로기판 소재\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"회로기판 소재 사업 매출액은 1,116억원으로 전년 대비 22.1% 감소했으며, 전체 매출액의 25.4%를 차지합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리튬\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(주)이녹스리튬은 2차전지용 리튬을 제조하여 판매하는 것을 주된 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PI필름\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PET\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 소재 생산을 위한 주요 원재료는 PI필름, PET, 절연 및 도전성 소재 등 특수 필름과 접착제용 약품 등이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동박\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"PI Film의 가격은 전년대비 한자리 초반의 비율로 하락하였으며, 동박의 가격은 구리시세의 상승으로 전년대비 한자리 중반의 비율로 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"S社\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주요고객 | S社, L社등 |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"L社\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"주요고객 | S社, L社등 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"충청북도 청주시 오창테크노폴리스 산업단지에 제조 공장을 2025년 11월 준공했으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"국내, 중국 및 베트남에 생산 법인을 갖고 있으며, 생산능력은 Full 생산 고려시 약 7,760만㎡ 수준입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 여러 활동으로 인하여 시장위험(환위험 및 이자율위험), 신용위험 및 유동성위험과 같은 다양한 재무위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/272290_20260318001197.txt"
+}

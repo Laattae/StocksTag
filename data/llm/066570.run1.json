@@ -1,0 +1,250 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "냉장고",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세탁기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "에어컨",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TV",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 제품인 영상기기의 매출액은 162,092억원으로 사업부문 매출액 대비 83.4%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "카메라모듈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LG이노텍의 주요 제품은 카메라모듈 등이며, 매출액은 218,966억원 그리고 매출 비중은 24.5%입니다."
+    },
+    {
+      "axis": "product",
+      "value": "텔레매틱스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "텔레매틱스, AV, AVN 등 차량용 부품을 생산ㆍ판매하는 VS사업부문의 매출액은 111,357억원이며, 매출 비중은 약 12.5%입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Copper",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "LCD 모듈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LCD 모듈, Chip 등이 주요 원재료이며, 멕시코, 폴란드, 인도네시아, 중국 등에서 생산하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Image Sensor",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 원재료는 Image Sensor, Lens, Actuator 등이며, 주요 생산지는 한국, 중국, 베트남 등입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "LG디지털파크 | 경기도 평택시 진위면 엘지로 222"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "인천 캠퍼스 | 인천광역시 서구 경명대로 322번길"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LG퓨처파크 | 경상북도 구미시 수출대로 168"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LG스마트파크1 : 경상남도 창원시 성산구 성산패총로 170"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국 테네시/헌츠빌"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "태주, 남경(LGENT, LGEPN, LGENV), 천진"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도 노이다/푸네, 태국 라영, 베트남 하이퐁(LGEVH, LGITVH), 인도네시아 자카르타/찌까랑"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결회사는 전 세계적으로 영업활동을 영위하고 있어 다양한 통화의 환율변동위험에노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동 금리부 조건의 예금과 차입금에서 발생하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Best Buy",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다."
+    },
+    {
+      "axis": "product",
+      "value": "냉장고",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TV",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 TV사업 분야에서 13년 연속 시장점유율 1위를 유지하고 있는 OLED TV와 초슬림 QNED LCD TV를 중심으로 프리미엄 TV 시장에서의 지위를 강화하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "노트북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "인포테인먼트(IT) 분야에서도 AI기술이 적용된 고성능 초경량 Gram 노트북은 물론, 게이밍 등 다양한 고객 수요에 최적화된 프리미엄 모니터를 중심으로 사업 경쟁력을 강화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "모니터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "MS 부문은 TV와 모니터, 노트북, PC 등의 인포메이션 테크놀로지 제품(IT)"
+    },
+    {
+      "axis": "product",
+      "value": "텔레매틱스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "VS부문은 차량용 인포테인먼트(헤드유닛, 텔레매틱스, 디스플레이 등) 제품, 전기차용 구동부품(모터ㆍ인버터 등), 자동차 램프 및 보안용 SW를 생산ㆍ판매ㆍ제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "에어컨",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세부적인 분야로는 가정용 에어컨, 공기청정기 등을 담당하는 가정용 에어솔루션 영역과, 상업용 에어컨과 중앙공조시스템, 산업용 냉난방 공조기 등의 사업영역으로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "카메라모듈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "카메라모듈(Camera Module) 산업은 고부가가치의 기술 집약적 산업으로, 이미지 센서, 광학설계, 정밀기구, 반도체 패키징, 소프트웨어 기술이 복합적으로 결합되는 융ㆍ복합 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "상업용 에어컨 경우 최근 데이터센터나 반도체, 배터리 공장에 필요한 고성능 냉각시설 수요가 증가하면서 AI의 후방산업에서 새로운 성장 영역으로 주목 받고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기차용 구동부품(E-Powertrain)은 미국 전기차 보조금 지원 중단 등에 따른 단기적 시장 정체 요인이 있었으나, 글로벌 환경 규제 및 지속적인 전기차 충전 Infra 확대 등으로 중장기적으로는 견조한 수요 성장이 예상됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "이에 HS본부는 유연한 글로벌 생산지 운영을 통해 글로벌 원자재 가격과 관세 리스크에 민첩하게 대응하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기준금리",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "주요국의 경기선행지수 개선 및 기준금리 인하로 시장 회복세를 기대하였으나 전쟁 등의 지정학적 리스크 해소 지연과 미국의 관세 정책 변화로 인해 지역별 시장 불확실성 지속되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "제조 관점에서 당사는 등대공장(세계경제포럼 선정: 창원공장, 미국 테네시공장)의 자동화ㆍ정보화ㆍ지능화를 포괄하는 세계 최고 수준의 지능형 자율 공장 시스템을 생산법인으로 확산하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"냉장고\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"세탁기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"에어컨\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품인 냉장고, 세탁기, 에어컨의 매출액은 264,692억원으로 양 개 사업부문 매출액의 약 74.7%를 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"TV\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"주요 제품인 영상기기의 매출액은 162,092억원으로 사업부문 매출액 대비 83.4%를 차지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"카메라모듈\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LG이노텍의 주요 제품은 카메라모듈 등이며, 매출액은 218,966억원 그리고 매출 비중은 24.5%입니다.\"}, {\"axis\": \"product\", \"value\": \"텔레매틱스\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"텔레매틱스, AV, AVN 등 차량용 부품을 생산ㆍ판매하는 VS사업부문의 매출액은 111,357억원이며, 매출 비중은 약 12.5%입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Steel\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Resin\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Copper\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"Steel, Resin, Copper 등이 주요 원재료이며, 한국, 중국, 태국, 미국 등에서 생산하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"LCD 모듈\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"LCD 모듈, Chip 등이 주요 원재료이며, 멕시코, 폴란드, 인도네시아, 중국 등에서 생산하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"Image Sensor\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"주요 원재료는 Image Sensor, Lens, Actuator 등이며, 주요 생산지는 한국, 중국, 베트남 등입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"LG디지털파크 | 경기도 평택시 진위면 엘지로 222\"}, {\"axis\": \"region\", \"value\": \"인천\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"인천 캠퍼스 | 인천광역시 서구 경명대로 322번길\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"LG퓨처파크 | 경상북도 구미시 수출대로 168\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"LG스마트파크1 : 경상남도 창원시 성산구 성산패총로 170\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"미국 테네시/헌츠빌\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"태주, 남경(LGENT, LGEPN, LGENV), 천진\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"인도 노이다/푸네, 태국 라영, 베트남 하이퐁(LGEVH, LGITVH), 인도네시아 자카르타/찌까랑\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결회사는 전 세계적으로 영업활동을 영위하고 있어 다양한 통화의 환율변동위험에노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서 이는 주로 변동 금리부 조건의 예금과 차입금에서 발생하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Best Buy\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"연결회사의 주요 매출처는 Best Buy, HOME DEPOT, LOWE'S 등 입니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉장고\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"인스타뷰 냉장고ㆍ워시타워ㆍ워시콤보와 같은 혁신적인 프리미엄 제품에 대한 수요가 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 TV사업 분야에서 13년 연속 시장점유율 1위를 유지하고 있는 OLED TV와 초슬림 QNED LCD TV를 중심으로 프리미엄 TV 시장에서의 지위를 강화하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"노트북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"인포테인먼트(IT) 분야에서도 AI기술이 적용된 고성능 초경량 Gram 노트북은 물론, 게이밍 등 다양한 고객 수요에 최적화된 프리미엄 모니터를 중심으로 사업 경쟁력을 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모니터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"MS 부문은 TV와 모니터, 노트북, PC 등의 인포메이션 테크놀로지 제품(IT)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"텔레매틱스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"VS부문은 차량용 인포테인먼트(헤드유닛, 텔레매틱스, 디스플레이 등) 제품, 전기차용 구동부품(모터ㆍ인버터 등), 자동차 램프 및 보안용 SW를 생산ㆍ판매ㆍ제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에어컨\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"세부적인 분야로는 가정용 에어컨, 공기청정기 등을 담당하는 가정용 에어솔루션 영역과, 상업용 에어컨과 중앙공조시스템, 산업용 냉난방 공조기 등의 사업영역으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카메라모듈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"카메라모듈(Camera Module) 산업은 고부가가치의 기술 집약적 산업으로, 이미지 센서, 광학설계, 정밀기구, 반도체 패키징, 소프트웨어 기술이 복합적으로 결합되는 융ㆍ복합 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"상업용 에어컨 경우 최근 데이터센터나 반도체, 배터리 공장에 필요한 고성능 냉각시설 수요가 증가하면서 AI의 후방산업에서 새로운 성장 영역으로 주목 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전기차용 구동부품(E-Powertrain)은 미국 전기차 보조금 지원 중단 등에 따른 단기적 시장 정체 요인이 있었으나, 글로벌 환경 규제 및 지속적인 전기차 충전 Infra 확대 등으로 중장기적으로는 견조한 수요 성장이 예상됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"글로벌 원자재, 해상운임 및 환율의 변동성은 사업 운영에 지속적인 Risk 요인이었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"이에 HS본부는 유연한 글로벌 생산지 운영을 통해 글로벌 원자재 가격과 관세 리스크에 민첩하게 대응하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"기준금리\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"주요국의 경기선행지수 개선 및 기준금리 인하로 시장 회복세를 기대하였으나 전쟁 등의 지정학적 리스크 해소 지연과 미국의 관세 정책 변화로 인해 지역별 시장 불확실성 지속되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"제조 관점에서 당사는 등대공장(세계경제포럼 선정: 창원공장, 미국 테네시공장)의 자동화ㆍ정보화ㆍ지능화를 포괄하는 세계 최고 수준의 지능형 자율 공장 시스템을 생산법인으로 확산하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/066570_20260706000276.txt"
+}

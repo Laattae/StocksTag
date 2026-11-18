@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동광학검사기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다"
+    },
+    {
+      "axis": "product",
+      "value": "자동광학수리기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다"
+    },
+    {
+      "axis": "product",
+      "value": "VRS",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "FA",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소프트웨어",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "FC-BGA",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "FC-BGA는 반도체 기판 중 최고 사양 제품으로 독보적인 기술력과 엄격한 품질 관리 역량을 갖춘 업체만이 진입 가능한 시장입니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 설비는 전방 산업인 반도체의 경기 변동에 민감하게 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "application",
+      "value": "서버",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서"
+    },
+    {
+      "axis": "customer",
+      "value": "NVIDIA",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "AMD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Qualcomm",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "토지 | 경기도 평택, 동탄"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 USD와 JPY 관련된 환율 변동 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동광학검사기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동광학수리기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 기판 자동광학검사기(AOI: Automatic Optical Inspection) 및 자동광학수리기(AOR: Automatic Optical Repair)를 제작/판매하는 글로벌 반도체 장비 업체입니다\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"VRS\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"FA\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소프트웨어\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"AOI, VRS, AOR과 같은 단독 설비와 자동화 설비인 FA(In-Line등), 그리고 이들 설비의 효율적인 운용을 위한 소프트웨어(DTS 등)를 제작하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"FC-BGA\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"FC-BGA는 반도체 기판 중 최고 사양 제품으로 독보적인 기술력과 엄격한 품질 관리 역량을 갖춘 업체만이 진입 가능한 시장입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 설비는 전방 산업인 반도체의 경기 변동에 민감하게 영향을 받는 구조입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"서버\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근 AI 기술의 확산으로 인해 서버 및 HPC 등 고성능 반도체 수요가 확대되면서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"NVIDIA\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AMD\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Qualcomm\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"NVIDIA, AMD, Qualcomm 등 주요 반도체 기업들의 수요가 증가함에 따라 반도체 기판 제조사들의 실적은 전년 대비 개선되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"토지 | 경기도 평택, 동탄\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 USD와 JPY 관련된 환율 변동 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/420770_20260319000682.txt"
+}

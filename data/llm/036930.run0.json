@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 제조장비",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "반도체 제조장비 | SD System(ALD, HDPCVD, Dry Etch, MOCVD, UHVCVD), ALMO(ALD, CVD),SDP System(ALD, CVD), Guidance Series(ALD, CVD), Eureka (Epi) | 303,720(97.8%)"
+    },
+    {
+      "axis": "product",
+      "value": "디스플레이 제조장비",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "디스플레이 제조장비 | LCD TFT 장비(PECVD), OLED LTPS TFT 장비(CVD), OLED Oxide TFT 장비(CVD)Encapsulation 장비(ALD/CVD, ALD, CVD),ToE(CVD) | 6,950(2.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "태양전지 제조장비",
+      "weight": 0.0,
+      "direction": null,
+      "evidence": "태양전지 제조장비 | 박막형(Thin film Si) 태양전지 제조장비(PECVD, MOCVD)결정형(c-Si) 태양전지 제조장비(HJT, PECVD, PVD, RIE)페로브스카이트 태양전지 제조장비(ALD/CVD, PVD)탠덤(Tandem) 태양전지 제조장비(ALD/CVD, PECVD, PVD) | 23(0.0%)"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)"
+    },
+    {
+      "axis": "application",
+      "value": "태양광",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Cold Wall Type 매엽식 Selective-HSG 형성 장비를 삼성전자와 공동으로 개발하여 세계 최초로 양산화에 성공하였고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 가공물",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "가공품 | 알루미늄 등의 가공물 | 41,183 | 33.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기전자부품",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "전기전자부품 | 전장, 제어 관련 부품류 | 18,219 | 15.0%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "OEM 부품",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "OEM PART | 사용자가 원하는 일정 성능을 내는 부품 | 18,984 | 15.6%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "사업장 | 소재지 | 기능 | 본점 | 경기도 광주시 오포로 240 | 생산 및 관리, 영업 | 용인 | 경기도 용인시 기흥구 신정로 79 | R&D(연구개발) 및 관리, 영업"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "수입 원자재의 매입가격은 관세 및 환율이 가격 변동에 중요한 영향을 미치어 연도별, 매입처별로 단가 차이가 발생할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "변동이자율이 적용되는 차입 시 이자율 상승에 따라 순금융비용이 증가할 위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 제조장비\",\n      \"weight\": 0.98,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조장비 | SD System(ALD, HDPCVD, Dry Etch, MOCVD, UHVCVD), ALMO(ALD, CVD),SDP System(ALD, CVD), Guidance Series(ALD, CVD), Eureka (Epi) | 303,720(97.8%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이 제조장비\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"디스플레이 제조장비 | LCD TFT 장비(PECVD), OLED LTPS TFT 장비(CVD), OLED Oxide TFT 장비(CVD)Encapsulation 장비(ALD/CVD, ALD, CVD),ToE(CVD) | 6,950(2.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양전지 제조장비\",\n      \"weight\": 0.0,\n      \"direction\": null,\n      \"evidence\": \"태양전지 제조장비 | 박막형(Thin film Si) 태양전지 제조장비(PECVD, MOCVD)결정형(c-Si) 태양전지 제조장비(HJT, PECVD, PVD, RIE)페로브스카이트 태양전지 제조장비(ALD/CVD, PVD)탠덤(Tandem) 태양전지 제조장비(ALD/CVD, PECVD, PVD) | 23(0.0%)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"반도체 장비태양전지 장비디스플레이 장비 | 반도체 제조태양전지 제조디스플레이 제조 | 주성엔지니어링 | 266,451(85.8%)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Cold Wall Type 매엽식 Selective-HSG 형성 장비를 삼성전자와 공동으로 개발하여 세계 최초로 양산화에 성공하였고\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 가공물\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"가공품 | 알루미늄 등의 가공물 | 41,183 | 33.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기전자부품\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"전기전자부품 | 전장, 제어 관련 부품류 | 18,219 | 15.0%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"OEM 부품\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"OEM PART | 사용자가 원하는 일정 성능을 내는 부품 | 18,984 | 15.6%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"사업장 | 소재지 | 기능 | 본점 | 경기도 광주시 오포로 240 | 생산 및 관리, 영업 | 용인 | 경기도 용인시 기흥구 신정로 79 | R&D(연구개발) 및 관리, 영업\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"수입 원자재의 매입가격은 관세 및 환율이 가격 변동에 중요한 영향을 미치어 연도별, 매입처별로 단가 차이가 발생할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"변동이자율이 적용되는 차입 시 이자율 상승에 따라 순금융비용이 증가할 위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/036930_20260318000323.txt"
+}

@@ -1,0 +1,72 @@
+{
+  "merges": [
+    {
+      "group": 1,
+      "canonical": "필러",
+      "synonyms": [
+        "HA필러",
+        "히알루론산 필러"
+      ]
+    },
+    {
+      "group": 2,
+      "canonical": "항체-약물 접합체",
+      "synonyms": [
+        "항체-약물 결합체",
+        "항체 약물 접합체",
+        "항체-독소 접합체",
+        "항체-약물접합체"
+      ]
+    },
+    {
+      "group": 3,
+      "canonical": "호텔",
+      "synonyms": [
+        "호텔 숙박"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "ADC",
+      "synonyms": [
+        "ADC 신약"
+      ]
+    },
+    {
+      "group": 13,
+      "canonical": "ESS",
+      "synonyms": [
+        "ESS용 배터리"
+      ]
+    },
+    {
+      "group": 20,
+      "canonical": "LNG선",
+      "synonyms": [
+        "LNG 운반선",
+        "LNGC"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "MBX",
+      "synonyms": [
+        "MBX 코인"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "NCA",
+      "synonyms": [
+        "NCA 양극재"
+      ]
+    },
+    {
+      "group": 23,
+      "canonical": "NCM",
+      "synonyms": [
+        "NCM 양극재"
+      ]
+    }
+  ]
+}

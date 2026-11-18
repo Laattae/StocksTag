@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "면세품",
+      "weight": 0.83,
+      "direction": null,
+      "evidence": "TR 부문은 국가로부터 관련 사업권을 취득하여, 외국인 방문객 및 내국인 해외출국자를 대상으로 외국의 유명 브랜드 상품 및 토산품을 주요 제품으로 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "호텔 숙박",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "호텔&레저 부문의 호텔 부문은 외국인 관광객 및 내국인을 대상으로 숙박, 식음, 연회 등 서비스를 제공하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "식음료",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "상품(면세,장비,직판 등) 3,381,830 | 제품(식음료) 209,290"
+    },
+    {
+      "axis": "product",
+      "value": "여행 서비스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "레저부문은 레포츠 및 여행사업을 운영하며, 레포츠는 실내 체련장 및 기업 내 휘트니스 클럽 위탁운영하며, 여행사업은 기업 비즈니스 여행 관련 호텔, 항공권 등의 예약을 대행해주는 사업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "관광",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2020년 전세계적 팬데믹인 코로나 19가 발병하여 면세사업을 포함한 관광산업 전체에 타격을 주었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "기업 출장",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "항공, 호텔, 차량 등 일련의 기업 출장 서비스를 대행하는 BTM(Business Travel Management) 사업을 영위 하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "중국인 관광객",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "엔데믹 이후 중국인 관광객의 구매력 감소가 면세업계에 큰 영향을 미치고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "내국인 출국객",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Global 경기 변동에 따른 내국인 출국객, 외국인 관광객의 증감과 환율 변동에 영향을 받음"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "서울 | 면세점 | 서울 중구 | 92,770 | 82,913 | 58 | 소유"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제주 | 면세점 | 제주 제주시 | 3,499 | 12,457 | 49 | 소유"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "공항면세점(1개) | 인천 | - | 8,757 | 52 | 임차"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Shilla Travel Retail Pte. Ltd. | 싱가포르 | 7,922 | 681"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Shilla Travel Retail Hong Kong Limited | 중국 홍콩 | 3,508 | 356"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원/달러 환율 상승으로 면세업의 가격 경쟁력이 약화되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "중국인 관광객 구매력",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "엔데믹 이후 중국인 관광객의 구매력 감소가 면세업계에 큰 영향을 미치고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "공항 임대료",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 공항 임대료 등의 고정비 부담이 수익성에 부정적인 영향을 미치고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "호 텔 : 여행 수요에 영향을 미치는 경제 상황, 국제유가, 환율 등의 영향을 받음"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"면세품\",\n      \"weight\": 0.83,\n      \"direction\": null,\n      \"evidence\": \"TR 부문은 국가로부터 관련 사업권을 취득하여, 외국인 방문객 및 내국인 해외출국자를 대상으로 외국의 유명 브랜드 상품 및 토산품을 주요 제품으로 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"호텔 숙박\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"호텔&레저 부문의 호텔 부문은 외국인 관광객 및 내국인을 대상으로 숙박, 식음, 연회 등 서비스를 제공하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식음료\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"상품(면세,장비,직판 등) 3,381,830 | 제품(식음료) 209,290\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"여행 서비스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"레저부문은 레포츠 및 여행사업을 운영하며, 레포츠는 실내 체련장 및 기업 내 휘트니스 클럽 위탁운영하며, 여행사업은 기업 비즈니스 여행 관련 호텔, 항공권 등의 예약을 대행해주는 사업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"관광\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2020년 전세계적 팬데믹인 코로나 19가 발병하여 면세사업을 포함한 관광산업 전체에 타격을 주었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"기업 출장\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"항공, 호텔, 차량 등 일련의 기업 출장 서비스를 대행하는 BTM(Business Travel Management) 사업을 영위 하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"중국인 관광객\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"엔데믹 이후 중국인 관광객의 구매력 감소가 면세업계에 큰 영향을 미치고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"내국인 출국객\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Global 경기 변동에 따른 내국인 출국객, 외국인 관광객의 증감과 환율 변동에 영향을 받음\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"서울 | 면세점 | 서울 중구 | 92,770 | 82,913 | 58 | 소유\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제주 | 면세점 | 제주 제주시 | 3,499 | 12,457 | 49 | 소유\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"공항면세점(1개) | 인천 | - | 8,757 | 52 | 임차\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Shilla Travel Retail Pte. Ltd. | 싱가포르 | 7,922 | 681\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Shilla Travel Retail Hong Kong Limited | 중국 홍콩 | 3,508 | 356\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원/달러 환율 상승으로 면세업의 가격 경쟁력이 약화되었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"중국인 관광객 구매력\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"엔데믹 이후 중국인 관광객의 구매력 감소가 면세업계에 큰 영향을 미치고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"공항 임대료\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 공항 임대료 등의 고정비 부담이 수익성에 부정적인 영향을 미치고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"호 텔 : 여행 수요에 영향을 미치는 경제 상황, 국제유가, 환율 등의 영향을 받음\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/008770_20260311004398.txt"
+}

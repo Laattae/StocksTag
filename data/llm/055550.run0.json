@@ -1,0 +1,399 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 5,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "여신",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "은행업 부문 | 고객에 대한 여신, 수신취급 및 이에 수반되는 업무"
+    },
+    {
+      "axis": "product",
+      "value": "수신",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "은행업 부문 | 고객에 대한 여신, 수신취급 및 이에 수반되는 업무"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "신용카드업 부문 | 신용카드, 장단기 카드대출, 할부금융, 리스 등의 영업 및 이에 수반되는 업무"
+    },
+    {
+      "axis": "product",
+      "value": "유가증권 매매",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "증권업 부문 | 유가증권의 매매, 위탁매매, 인수 및 이에 수반되는 업무"
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보험업 부문 | 생명보험사업, 손해보험사업과 이에 수반되는 업무"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 환율 등 거시 환경의 급격한 변동 속에서도 그룹 RWA를 관리하여 2025년말 기준 보통주 자본비율(CET1) 13.35%를 유지하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신한캐피탈은 금리부 자산 감소 및 금리 하락 등에 따른 이자수익 감소 및 부동산 PF관련 대손비용 적립으로 인하여"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신한카드는 신용카드 등을 매개로 개인 및 법인회원 또는 공공기관이 일정 신용한도 내에서 물품 및 용역 구입대금을 지불할 수 있는 신용공여를 제공하고"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신한카드는 여신전문금융업법에 따라 고객이 자동차 구매에 필요한 자금을 대여해 주는 할부금융 상품을 취급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보장성보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신한라이프생명보험은 신한금융그룹의 Total 금융네트워크를 기반으로 보장성보험, 저축성보험, 투자형보험, 연금보험 및 퇴직연금 등 보험상품"
+    },
+    {
+      "axis": "application",
+      "value": "AI 데이터센터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "AI 데이터센터, 전력망 등 신성장 섹터 인프라 사업영역을 확장하고자 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "AI 데이터센터, 전력망 등 신성장 섹터 인프라 사업영역을 확장하고자 합니다."
+    },
+    {
+      "axis": "product",
+      "value": "IB업무",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "조합, 사모투자전문회사 및 기타 간접투자기구에 대한 출자 및 인수금융, 주식연계채권 매입, 프로젝트 금융, 국내외 대체투자 등"
+    },
+    {
+      "axis": "product",
+      "value": "시설대여",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "이용자가 선정한 특정 물건을 구입한 후 임대(리스)하고 일정 기간에 걸쳐 사용료를 받는 임대차 형식의 물건을 매개로 한 물적금융"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업이 물건매매를 통해 취득한 할부채권을 매입하여 매수인으로부터 원리금을 분할 상환 받는 방식의 금융"
+    },
+    {
+      "axis": "product",
+      "value": "신기술사업금융",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "신기술사업자에 대한 투자 및 융자"
+    },
+    {
+      "axis": "product",
+      "value": "일반대출",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자산(충당금 반영 후) 기준으로 일반대출 등 대출자산의 비중이 60.1%이며"
+    },
+    {
+      "axis": "product",
+      "value": "차입형토지신탁",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "차입형토지신탁이란 신탁사가 부동산 개발 시행능력이나 건설자금이 부족한 토지소유자(또는 시행자)로부터 사업 부지를 수탁 받아 개발 계획의 수립"
+    },
+    {
+      "axis": "product",
+      "value": "관리형토지신탁",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "부동산개발사업의 안정적 진행을 위하여 토지소유자(위탁자)가 신탁사(수탁자)에 토지를 신탁하고 신탁사는 인ㆍ허가 및 분양계약 등의 주체로서"
+    },
+    {
+      "axis": "product",
+      "value": "디지털",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "대 고객용 앱 서비스 개발 및 운영으로 고객 중심의 차별화 된 디지털 서비스를 제공하고 공간 제약 없는 실시간 업무환경을 통한"
+    },
+    {
+      "axis": "product",
+      "value": "정보보안",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "고객사의 보안업무를 전담하는 정보보안 전문가 서비스와 해킹 흔적 분석, 현장 침투테스트, 해킹사고 대응 등의 해킹전담 서비스를 비롯해"
+    },
+    {
+      "axis": "product",
+      "value": "시스템 통합",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "시장변화에 유연한 IT환경 구축과 데이터관리/실시간 정보분석을 통한 금융시스템, 외국계은행 시스템, 금융 공동망 솔루션 구축"
+    },
+    {
+      "axis": "product",
+      "value": "부동산 자산관리",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부동산투자회사법상 부동산투자회사(REITs)가 위탁한 부동산 투자 및 운용 업무를 수행하는 것을 주된 사업목적으로 하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설 수주",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "2026년 건설산업 및 부동산 시장은 대내외 불확실성 지속으로 건설 수주와 주택 인허가 감소 등 침체기가 계속될 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주택 인허가",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "2026년 건설산업 및 부동산 시장은 대내외 불확실성 지속으로 건설 수주와 주택 인허가 감소 등 침체기가 계속될 것으로 보입니다."
+    },
+    {
+      "axis": "product",
+      "value": "부동산투자회사(REITs)",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신한리츠운용은 2017년 10월 18일 설립된 금융지주회사 산하의 최초의 부동산 자산관리회사로서 부동산투자회사법상 부동산투자회사(REITs)가 위탁한 부동산 투자 및 운용 업무를 수행하는 것을 주된 사업목적으로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신용카드업은 카드사가 일정한 요건을 갖춘 회원에게 신용카드를 발급하고, 상품 및 용역을 판매/제공하는 가맹점과 계약을 체결한 후, 회원에 대한 신용공여 대가로 수수료 등의 부가가치를 창출하는 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생명보험업은 보험회사가 보험계약자로부터 보험료를 납부 받아 보험대상자(피보험자)의 사망 또는 생존 시 일정한 금액을 지급하기로 약정함으로써 효력이 발생하는 인보험계약을 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자산운용회사가 운용하는 펀드의 회계처리와 보유하고 있는 자산의 평가업무를 통해펀드 및 수익증권의 기준가격을 산출하고"
+    },
+    {
+      "axis": "product",
+      "value": "벤처투자",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "벤처투자 : 성장가능성이 높은 초기기업에 주식 또는 전환사채 등의 형태로 투자하여 경영컨설팅, 마케팅 지원 등으로 기업가치를 제고한 후 기업공개(IPO)"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국전력공사 | 0.3 | 121.4 | 3,582.5 | 84.1 | - | 3,788.3"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼성전자(주) | - | 2,801.4 | - | - | - | 2,801.4"
+    },
+    {
+      "axis": "customer",
+      "value": "호텔롯데",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "(주)호텔롯데 | 100.5 | 615.2 | 328.7 | 701.8 | - | 1,746.1"
+    },
+    {
+      "axis": "customer",
+      "value": "엘지디스플레이",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "엘지디스플레이주식회사 | 910.7 | 631.7 | 10.0 | 0.0 | - | 1,552.3"
+    },
+    {
+      "axis": "customer",
+      "value": "에스케이하이닉스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "에스케이하이닉스(주) | 979.0 | - | 493.8 | 30.0 | - | 1,502.8"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "서울 | 422 | 31 | - | 453"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "경기 | 166 | 20 | - | 186"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부산 | 44 | 5 | - | 49"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "인천 | 48 | 10 | - | 58"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "고금리 장기화, 경기 변동 등으로 인한 가계 대출 부실 위험과 기업 구조조정 등으로 인한 대손충당금 증가의 위험 및 은행간 경쟁 심화로 인한 수익성 악화는 극복해야 할 과제입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원/달러 환율은 연초 미국 보호무역 강화와 대내외 불확실성 확대의 영향으로 1분기 중 평균 1,450원 내외의 높은 수준을 유지하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자산관리(WM) 부문에서는 강력한 'One WM' 실행을 통해 그룹 차원의 자산관리 역량을 결집하고, 이를 기반으로 자산관리(WM) 및 퇴직연금 부문의 성과 창출을 본격화할 예정입니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "저축은행은 서민과 중소기업의 금융편의를 도모하고 저축을 증대하기 위하여 1972년제정된 상호저축은행법에 의하여 설립된 제2금융기관으로서 예금과 대출을 주 업무로 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "보험상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "손해보험업은 우연한 사건으로 발생하는 손해로 인한 위험을 보장하며, 이에 따라 발생하는 보험의 인수, 보험료 수수 및 보험금 지급 등을 영업으로 하는 산업을 말합니다."
+    },
+    {
+      "axis": "product",
+      "value": "발행어음",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신한투자증권은 2025년 12월 17일 종합금융투자사업자로서 단기금융업(발행어음사업)에 대한 인허가를 취득하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "토큰증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신한투자증권은 디지털 자산 사업을 선제적으로 확장하기 위해, 조각투자사업 제휴, 토큰증권 사업 추진 준비를 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "부동산 시장",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "호텔, 오피스 등 상업용 부동산 시장도 점차 회복세를 보이고 있어 부동산, 특별자산 등의 대체자산 자금 유입을 기대하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "중소기업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "저축은행은 서민과 중소기업의 금융편의를 도모하고 저축을 증대하기 위하여 1972년제정된 상호저축은행법에 의하여 설립된 제2금융기관으로서"
+    },
+    {
+      "axis": "customer",
+      "value": "더존비즈온",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제주은행은 2025년 4월 국내 ERP 1위 기업 더존 비즈온을 대상으로 한 제 3자 배정방식 유상증자를 결정하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "KT",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "신한은행은 이러한 흐름에 발맞춰 KT, 넥슨, GS 등과의 메가 에코시스템을 구축하여 다양한 관점으로 본업을 재해석하는 것은 물론"
+    },
+    {
+      "axis": "customer",
+      "value": "카카오모빌리티",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 4월에도 카카오모빌리티 및 이마트와 업무 협약을 맺어 데이터 시너지를 지속 강화하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "이마트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년 4월에도 카카오모빌리티 및 이마트와 업무 협약을 맺어 데이터 시너지를 지속 강화하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "글로벌 현지법인인 신한라이프 베트남법인은 2021년 2월 라이선스인가 획득 후 사업 개시를 위한 1년여간의 준비과정을 거쳐2022년 1월 영업을 개시하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "미국 관세정책으로 인한 글로벌 규제에 대한 불확실성은 여전히 존재하나, 금리인하 가능성 및 국내외 증시 강세장 영향으로 국내외 주식시장의 자금 유입 추세는 상승 기조를 유지할 것으로 예상 됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "자산운용업은 경기 변동 및 금융시장 변화에 따라 많은 영향을 받으므로 상대적으로 안정성이 높지 않은 산업입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"여신\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"은행업 부문 | 고객에 대한 여신, 수신취급 및 이에 수반되는 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수신\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"은행업 부문 | 고객에 대한 여신, 수신취급 및 이에 수반되는 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"신용카드업 부문 | 신용카드, 장단기 카드대출, 할부금융, 리스 등의 영업 및 이에 수반되는 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유가증권 매매\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"증권업 부문 | 유가증권의 매매, 위탁매매, 인수 및 이에 수반되는 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보험업 부문 | 생명보험사업, 손해보험사업과 이에 수반되는 업무\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 환율 등 거시 환경의 급격한 변동 속에서도 그룹 RWA를 관리하여 2025년말 기준 보통주 자본비율(CET1) 13.35%를 유지하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신한캐피탈은 금리부 자산 감소 및 금리 하락 등에 따른 이자수익 감소 및 부동산 PF관련 대손비용 적립으로 인하여\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신한카드는 신용카드 등을 매개로 개인 및 법인회원 또는 공공기관이 일정 신용한도 내에서 물품 및 용역 구입대금을 지불할 수 있는 신용공여를 제공하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신한카드는 여신전문금융업법에 따라 고객이 자동차 구매에 필요한 자금을 대여해 주는 할부금융 상품을 취급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보장성보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신한라이프생명보험은 신한금융그룹의 Total 금융네트워크를 기반으로 보장성보험, 저축성보험, 투자형보험, 연금보험 및 퇴직연금 등 보험상품\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 데이터센터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"AI 데이터센터, 전력망 등 신성장 섹터 인프라 사업영역을 확장하고자 합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"AI 데이터센터, 전력망 등 신성장 섹터 인프라 사업영역을 확장하고자 합니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"IB업무\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"조합, 사모투자전문회사 및 기타 간접투자기구에 대한 출자 및 인수금융, 주식연계채권 매입, 프로젝트 금융, 국내외 대체투자 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시설대여\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"이용자가 선정한 특정 물건을 구입한 후 임대(리스)하고 일정 기간에 걸쳐 사용료를 받는 임대차 형식의 물건을 매개로 한 물적금융\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업이 물건매매를 통해 취득한 할부채권을 매입하여 매수인으로부터 원리금을 분할 상환 받는 방식의 금융\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신기술사업금융\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"신기술사업자에 대한 투자 및 융자\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반대출\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자산(충당금 반영 후) 기준으로 일반대출 등 대출자산의 비중이 60.1%이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차입형토지신탁\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"차입형토지신탁이란 신탁사가 부동산 개발 시행능력이나 건설자금이 부족한 토지소유자(또는 시행자)로부터 사업 부지를 수탁 받아 개발 계획의 수립\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"관리형토지신탁\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"부동산개발사업의 안정적 진행을 위하여 토지소유자(위탁자)가 신탁사(수탁자)에 토지를 신탁하고 신탁사는 인ㆍ허가 및 분양계약 등의 주체로서\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디지털\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"대 고객용 앱 서비스 개발 및 운영으로 고객 중심의 차별화 된 디지털 서비스를 제공하고 공간 제약 없는 실시간 업무환경을 통한\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정보보안\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"고객사의 보안업무를 전담하는 정보보안 전문가 서비스와 해킹 흔적 분석, 현장 침투테스트, 해킹사고 대응 등의 해킹전담 서비스를 비롯해\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 통합\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"시장변화에 유연한 IT환경 구축과 데이터관리/실시간 정보분석을 통한 금융시스템, 외국계은행 시스템, 금융 공동망 솔루션 구축\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산 자산관리\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"부동산투자회사법상 부동산투자회사(REITs)가 위탁한 부동산 투자 및 운용 업무를 수행하는 것을 주된 사업목적으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설 수주\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"2026년 건설산업 및 부동산 시장은 대내외 불확실성 지속으로 건설 수주와 주택 인허가 감소 등 침체기가 계속될 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주택 인허가\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"2026년 건설산업 및 부동산 시장은 대내외 불확실성 지속으로 건설 수주와 주택 인허가 감소 등 침체기가 계속될 것으로 보입니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산투자회사(REITs)\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신한리츠운용은 2017년 10월 18일 설립된 금융지주회사 산하의 최초의 부동산 자산관리회사로서 부동산투자회사법상 부동산투자회사(REITs)가 위탁한 부동산 투자 및 운용 업무를 수행하는 것을 주된 사업목적으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신용카드업은 카드사가 일정한 요건을 갖춘 회원에게 신용카드를 발급하고, 상품 및 용역을 판매/제공하는 가맹점과 계약을 체결한 후, 회원에 대한 신용공여 대가로 수수료 등의 부가가치를 창출하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"생명보험업은 보험회사가 보험계약자로부터 보험료를 납부 받아 보험대상자(피보험자)의 사망 또는 생존 시 일정한 금액을 지급하기로 약정함으로써 효력이 발생하는 인보험계약을 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자산운용회사가 운용하는 펀드의 회계처리와 보유하고 있는 자산의 평가업무를 통해펀드 및 수익증권의 기준가격을 산출하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"벤처투자\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"벤처투자 : 성장가능성이 높은 초기기업에 주식 또는 전환사채 등의 형태로 투자하여 경영컨설팅, 마케팅 지원 등으로 기업가치를 제고한 후 기업공개(IPO)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국전력공사 | 0.3 | 121.4 | 3,582.5 | 84.1 | - | 3,788.3\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼성전자(주) | - | 2,801.4 | - | - | - | 2,801.4\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"호텔롯데\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"(주)호텔롯데 | 100.5 | 615.2 | 328.7 | 701.8 | - | 1,746.1\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지디스플레이\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"엘지디스플레이주식회사 | 910.7 | 631.7 | 10.0 | 0.0 | - | 1,552.3\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에스케이하이닉스\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"에스케이하이닉스(주) | 979.0 | - | 493.8 | 30.0 | - | 1,502.8\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"서울 | 422 | 31 | - | 453\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"경기 | 166 | 20 | - | 186\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"부산 | 44 | 5 | - | 49\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"인천 | 48 | 10 | - | 58\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"고금리 장기화, 경기 변동 등으로 인한 가계 대출 부실 위험과 기업 구조조정 등으로 인한 대손충당금 증가의 위험 및 은행간 경쟁 심화로 인한 수익성 악화는 극복해야 할 과제입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"원/달러 환율은 연초 미국 보호무역 강화와 대내외 불확실성 확대의 영향으로 1분기 중 평균 1,450원 내외의 높은 수준을 유지하였습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자산관리(WM) 부문에서는 강력한 'One WM' 실행을 통해 그룹 차원의 자산관리 역량을 결집하고, 이를 기반으로 자산관리(WM) 및 퇴직연금 부문의 성과 창출을 본격화할 예정입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"저축은행은 서민과 중소기업의 금융편의를 도모하고 저축을 증대하기 위하여 1972년제정된 상호저축은행법에 의하여 설립된 제2금융기관으로서 예금과 대출을 주 업무로 하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"손해보험업은 우연한 사건으로 발생하는 손해로 인한 위험을 보장하며, 이에 따라 발생하는 보험의 인수, 보험료 수수 및 보험금 지급 등을 영업으로 하는 산업을 말합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발행어음\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신한투자증권은 2025년 12월 17일 종합금융투자사업자로서 단기금융업(발행어음사업)에 대한 인허가를 취득하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"토큰증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신한투자증권은 디지털 자산 사업을 선제적으로 확장하기 위해, 조각투자사업 제휴, 토큰증권 사업 추진 준비를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"부동산 시장\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"호텔, 오피스 등 상업용 부동산 시장도 점차 회복세를 보이고 있어 부동산, 특별자산 등의 대체자산 자금 유입을 기대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"중소기업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"저축은행은 서민과 중소기업의 금융편의를 도모하고 저축을 증대하기 위하여 1972년제정된 상호저축은행법에 의하여 설립된 제2금융기관으로서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"더존비즈온\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제주은행은 2025년 4월 국내 ERP 1위 기업 더존 비즈온을 대상으로 한 제 3자 배정방식 유상증자를 결정하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"KT\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"신한은행은 이러한 흐름에 발맞춰 KT, 넥슨, GS 등과의 메가 에코시스템을 구축하여 다양한 관점으로 본업을 재해석하는 것은 물론\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"카카오모빌리티\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 4월에도 카카오모빌리티 및 이마트와 업무 협약을 맺어 데이터 시너지를 지속 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"이마트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년 4월에도 카카오모빌리티 및 이마트와 업무 협약을 맺어 데이터 시너지를 지속 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"글로벌 현지법인인 신한라이프 베트남법인은 2021년 2월 라이선스인가 획득 후 사업 개시를 위한 1년여간의 준비과정을 거쳐2022년 1월 영업을 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"미국 관세정책으로 인한 글로벌 규제에 대한 불확실성은 여전히 존재하나, 금리인하 가능성 및 국내외 증시 강세장 영향으로 국내외 주식시장의 자금 유입 추세는 상승 기조를 유지할 것으로 예상 됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"자산운용업은 경기 변동 및 금융시장 변화에 따라 많은 영향을 받으므로 상대적으로 안정성이 높지 않은 산업입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/055550_20261007000218.txt"
+}

@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "매트리스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "가구 제조 부문은 주력사업을 매트리스, 베개 및 가구 사업으로 전환하여 본 보고서 제출일 현재까지 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가구",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "가구 제조 부문은 주력사업을 매트리스, 베개 및 가구 사업으로 전환하여 본 보고서 제출일 현재까지 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "침대 프레임",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2005년 매트리스 소형 박스 포장의 상업화에 성공하였으며, 침대 프레임 및 소파 등도 소형 박스 포장 형태로 개발하여"
+    },
+    {
+      "axis": "product",
+      "value": "소파",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2005년 매트리스 소형 박스 포장의 상업화에 성공하였으며, 침대 프레임 및 소파 등도 소형 박스 포장 형태로 개발하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "TDI",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MDI",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Polyol",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Steel Wire",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "가구 제조 부문은 1979년 3월 설립 이후 2000년대 초반까지 텐트로 대표되는 캠핑용품의 제조 및 판매 사업을 영위하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "본 사 서울 강남구 外 193,753 39,890 97,406 59,446 291,159 소유 - - - 1,173 - 임차"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)지누스는 원재료를 중국, 인도네시아를 포함한 여러 국가에서 조달하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)지누스는 원재료를 중국, 인도네시아를 포함한 여러 국가에서 조달하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "면세점은 백화점 등 일반 유통업과 달리 한국을 방문하는 외국인과 해외로 출국하는 내국인만 이용이 가능하기 때문에 관광시장 동향과 밀접한 관계가 있습니다. 또한 국제정세 및 환율 등 다양한 외부 환경에 민감한 특성을 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "가구 제조 부문이 영위하는 매트리스와 침실용 가구 산업은 대표적인 내구소비재로 경기변동에 따른 소득수준에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "매트리스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "가구 제조 부문이 영위하는 매트리스와 침실용 가구 산업은 계절적 영향을 직접적으로 받지않는 사업에 해당하는 것으로 판단하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "침실가구",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "매트리스에서 침실가구 그리고 다양한 가구분야로 사업영역을 확장하면서 지속해서 성장하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소파",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "거실 가구의 대표적인 품목인 소파는 오랜 기간의 R&D활동을 통해 이미 수십 종의 다양한 디자인 제품들이 온라인 채널에 출시되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "테이블",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "또한, 다양한 종류의 테이블들도 개발되어 지속적으로 출시되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "북미 시장",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "가구 제조 부문은 과거 캠핑용품 사업 시기부터 유지해온 북미 시장의 유통망을 바탕으로, 지난 10여 년간 주력 시장인 미국을 중심으로 매트리스 및 침실 가구 사업을 전개해왔습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Amazon.com",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "가구 제조 부문은 북미 최대의 온라인 커머스 플랫폼인 Amazon.com을 비롯하여 Walmart.com, Samsclub.com, Wayfair.com, Costco.com 등 주요한 온라인 채널을 통해서 제품을 판매하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Walmart.com",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Amazon.com을 비롯하여 Walmart.com, Samsclub.com, Wayfair.com, Costco.com 등 주요한 온라인 채널을 통해서 제품을 판매하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "가구 제조 부문은 과거 캠핑용품 사업 시기부터 유지해온 북미 시장의 유통망을 바탕으로, 지난 10여 년간 주력 시장인 미국을 중심으로 매트리스 및 침실 가구 사업을 전개해왔습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"매트리스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"가구 제조 부문은 주력사업을 매트리스, 베개 및 가구 사업으로 전환하여 본 보고서 제출일 현재까지 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가구\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"가구 제조 부문은 주력사업을 매트리스, 베개 및 가구 사업으로 전환하여 본 보고서 제출일 현재까지 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"침대 프레임\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2005년 매트리스 소형 박스 포장의 상업화에 성공하였으며, 침대 프레임 및 소파 등도 소형 박스 포장 형태로 개발하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소파\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2005년 매트리스 소형 박스 포장의 상업화에 성공하였으며, 침대 프레임 및 소파 등도 소형 박스 포장 형태로 개발하여\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"TDI\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MDI\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Polyol\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"메모리폼 매트리스는 Polyol, TDI, MDI 등의 화학원료가 상당부분을 차지하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Steel Wire\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"가구 제조 부문은 1979년 3월 설립 이후 2000년대 초반까지 텐트로 대표되는 캠핑용품의 제조 및 판매 사업을 영위하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"본 사 서울 강남구 外 193,753 39,890 97,406 59,446 291,159 소유 - - - 1,173 - 임차\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)지누스는 원재료를 중국, 인도네시아를 포함한 여러 국가에서 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)지누스는 원재료를 중국, 인도네시아를 포함한 여러 국가에서 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"면세점은 백화점 등 일반 유통업과 달리 한국을 방문하는 외국인과 해외로 출국하는 내국인만 이용이 가능하기 때문에 관광시장 동향과 밀접한 관계가 있습니다. 또한 국제정세 및 환율 등 다양한 외부 환경에 민감한 특성을 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"가구 제조 부문이 영위하는 매트리스와 침실용 가구 산업은 대표적인 내구소비재로 경기변동에 따른 소득수준에 영향을 받습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"매트리스\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"가구 제조 부문이 영위하는 매트리스와 침실용 가구 산업은 계절적 영향을 직접적으로 받지않는 사업에 해당하는 것으로 판단하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"침실가구\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"매트리스에서 침실가구 그리고 다양한 가구분야로 사업영역을 확장하면서 지속해서 성장하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"소파\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"거실 가구의 대표적인 품목인 소파는 오랜 기간의 R&D활동을 통해 이미 수십 종의 다양한 디자인 제품들이 온라인 채널에 출시되었습니다.\"}, {\"axis\": \"product\", \"value\": \"테이블\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"또한, 다양한 종류의 테이블들도 개발되어 지속적으로 출시되고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"북미 시장\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"가구 제조 부문은 과거 캠핑용품 사업 시기부터 유지해온 북미 시장의 유통망을 바탕으로, 지난 10여 년간 주력 시장인 미국을 중심으로 매트리스 및 침실 가구 사업을 전개해왔습니다.\"}, {\"axis\": \"customer\", \"value\": \"Amazon.com\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"가구 제조 부문은 북미 최대의 온라인 커머스 플랫폼인 Amazon.com을 비롯하여 Walmart.com, Samsclub.com, Wayfair.com, Costco.com 등 주요한 온라인 채널을 통해서 제품을 판매하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"Walmart.com\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"Amazon.com을 비롯하여 Walmart.com, Samsclub.com, Wayfair.com, Costco.com 등 주요한 온라인 채널을 통해서 제품을 판매하고 있으며\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"가구 제조 부문은 과거 캠핑용품 사업 시기부터 유지해온 북미 시장의 유통망을 바탕으로, 지난 10여 년간 주력 시장인 미국을 중심으로 매트리스 및 침실 가구 사업을 전개해왔습니다.\"}]}"
+  ],
+  "text_path": "data/reports/069960_20260318001314.txt"
+}

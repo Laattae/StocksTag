@@ -1,0 +1,251 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "가정간편식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 가정간편식(HMR) 제품의 제조 및 판매, 베이커리, 외식 가맹사업을 통해 대한민국 푸드 시장을 개척하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "커피",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "커피사업과 관련하여 SBI Nevada, Inc.와 상표 및 기술 사용 계약을 체결하고 전국 2,115개의 직영매장을 운영하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "와인",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주류사업은 전 세계 유명 와인, 맥주 등을 수입하고 전국 67개의 직영매장을 통해 다양한 주류를 합리적인 가격에 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "레미콘",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "철근",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "밀가루",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 식음사업에 필요한 밀가루, 수입육, 설탕 등 각종 원재료를 CJ제일제당 등 국내 여러 제조 및 유통업체를 통해 구매하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원두",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Starbucks Corporation으로부터 커피 제조용 원두와 서울우유협동조합 등으로부터 우유 등을 구매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | 레미콘 | 건축,토목공사용 | 38,608 | ㈜삼표산업, 쌍용레미콘㈜ 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 | 철근 | 건축,토목공사용 | 29,333 | 대한제강㈜ 등"
+    },
+    {
+      "axis": "customer",
+      "value": "Starbucks Corporation",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Starbucks Corporation으로부터 커피 제조용 원두와 서울우유협동조합 등으로부터 우유 등을 구매하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 미국 캘리포니아주 및 워싱턴주 등에 Bristol Farms, New Seasons Market 등 5개 브랜드 총 57개의 프리미엄 그로서리 마켓을 자가 또는 임차 형태로 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "보고기간종료일 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가정간편식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세부 시장별로는 가정간편식(HMR), 프리미엄ㆍ기능성 펫푸드, 건강기능식품 및 기능성 스낵, K-푸드 수출형 카테고리가 평균 대비 높은 성장성을 보일 것으로 예상된다."
+    },
+    {
+      "axis": "product",
+      "value": "와인",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "맥주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위스키",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "와인",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "맥주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위스키",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "커피",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "커피 산업은 소비자들의 커피소비에 대한 일상화 및 프리미엄 커피에 대한 수요가 확대됨에 따라 외형성장을 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "올해는 에비앙 병제품 수입판매를 시작하여 음료사업 부분을 새롭게 진출하였고 신규상품 런칭 및 거래처 확대로 지속적인 성장을 하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "식료품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "프리미엄 식료품 소매 산업은 소비자들의 건강, 웰빙, 그리고 지속 가능성에 대한 관심이 증가하면서 꾸준히 성장하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "커피 원두",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "BRISTOL FARMS는 미국 캘리포니아주에 13개의 Bristol Farms 매장과 6개의 Lazy Acres 매장을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "미국 그로서리 시장은 전반적으로 완만한 성장세를 보이고 있으며, 최근 통계 기준 2026년 연간 예상 시장규모는 약 9,203억 달러(한화 악 1,321조원)로 추정됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다만, 글로벌 공급망 이슈와 수입 관세(예: 커피, 과일, 와인) 등으로 인한 원가 부담, 고금리 유지에 따른 소비 위축 가능성 등은 중장기적으로 시장의 제약 요인으로 작용하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가정간편식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 가정간편식(HMR) 제품의 제조 및 판매, 베이커리, 외식 가맹사업을 통해 대한민국 푸드 시장을 개척하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"커피사업과 관련하여 SBI Nevada, Inc.와 상표 및 기술 사용 계약을 체결하고 전국 2,115개의 직영매장을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"와인\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주류사업은 전 세계 유명 와인, 맥주 등을 수입하고 전국 67개의 직영매장을 통해 다양한 주류를 합리적인 가격에 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철근\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"밀가루\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 식음사업에 필요한 밀가루, 수입육, 설탕 등 각종 원재료를 CJ제일제당 등 국내 여러 제조 및 유통업체를 통해 구매하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원두\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Starbucks Corporation으로부터 커피 제조용 원두와 서울우유협동조합 등으로부터 우유 등을 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 레미콘 | 건축,토목공사용 | 38,608 | ㈜삼표산업, 쌍용레미콘㈜ 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 철근 | 건축,토목공사용 | 29,333 | 대한제강㈜ 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Starbucks Corporation\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Starbucks Corporation으로부터 커피 제조용 원두와 서울우유협동조합 등으로부터 우유 등을 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회사는 미국 캘리포니아주 및 워싱턴주 등에 Bristol Farms, New Seasons Market 등 5개 브랜드 총 57개의 프리미엄 그로서리 마켓을 자가 또는 임차 형태로 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"보고기간종료일 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가정간편식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"세부 시장별로는 가정간편식(HMR), 프리미엄ㆍ기능성 펫푸드, 건강기능식품 및 기능성 스낵, K-푸드 수출형 카테고리가 평균 대비 높은 성장성을 보일 것으로 예상된다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"와인\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"맥주\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위스키\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"와인\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"맥주\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"위스키\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"커피\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"커피 산업은 소비자들의 커피소비에 대한 일상화 및 프리미엄 커피에 대한 수요가 확대됨에 따라 외형성장을 하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"음료\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"올해는 에비앙 병제품 수입판매를 시작하여 음료사업 부분을 새롭게 진출하였고 신규상품 런칭 및 거래처 확대로 지속적인 성장을 하고 있으며\"}, {\"axis\": \"product\", \"value\": \"식료품\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"프리미엄 식료품 소매 산업은 소비자들의 건강, 웰빙, 그리고 지속 가능성에 대한 관심이 증가하면서 꾸준히 성장하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"커피 원두\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"BRISTOL FARMS는 미국 캘리포니아주에 13개의 Bristol Farms 매장과 6개의 Lazy Acres 매장을 운영하고 있으며\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"미국 그로서리 시장은 전반적으로 완만한 성장세를 보이고 있으며, 최근 통계 기준 2026년 연간 예상 시장규모는 약 9,203억 달러(한화 악 1,321조원)로 추정됩니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"다만, 글로벌 공급망 이슈와 수입 관세(예: 커피, 과일, 와인) 등으로 인한 원가 부담, 고금리 유지에 따른 소비 위축 가능성 등은 중장기적으로 시장의 제약 요인으로 작용하고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/139480_20260318001024.txt"
+}

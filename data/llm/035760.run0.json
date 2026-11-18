@@ -1,0 +1,200 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "콘텐츠",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사 채널 및 플랫폼의 주요 콘텐츠들은 당사 자체 제작 및 당사 산하 스튜디오제작을 통해 안정적으로 공급받고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "광고",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사의 사업은 크게 4개 부문으로 구성되어 있습니다. 방송채널, 광고, 티빙 사업 등이 편제되어 있는 미디어플랫폼사업"
+    },
+    {
+      "axis": "product",
+      "value": "음반",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "음반ㆍ음원 제작 및 콘서트, 엠넷 채널 관련 사업이 포함된 음악사업"
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "콘텐츠 제작ㆍ판매를 비롯해 영화사업과 IP 부가사업 등으로 구성된 영화드라마사업"
+    },
+    {
+      "axis": "application",
+      "value": "OTT 플랫폼",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "넷플릭스",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "스튜디오드래곤",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "CJ ENM, 스튜디오드래곤, FIFTH SEASON 등"
+    },
+    {
+      "axis": "customer",
+      "value": "디즈니+",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매"
+    },
+    {
+      "axis": "customer",
+      "value": "아마존프라임비디오",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 외화로 표시된 거래를 수행하고 있으며, 외화 입출금 규모 및 환율의 변동에 따라 환차손익이 발생할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장금리",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "시장금리가 상승할 경우 이자비용 증가를 초래할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "영화",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "당사는 영화의 제작, 투자 및 배급 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "드라마",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "시리즈, 등 높은 화제성을 일으킨 TV 드라마와 시리즈, (TVING), , (Netflix), (Disney+) 등 국내 및 글로벌 OTT 드라마와 영화를 제작하여"
+    },
+    {
+      "axis": "product",
+      "value": "음악",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등"
+    },
+    {
+      "axis": "product",
+      "value": "TV홈쇼핑",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고, 시청자로부터 전화/모바일 등을 통해 주문 및 대금을 결제 받은 후"
+    },
+    {
+      "axis": "product",
+      "value": "뮤지컬",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사의 뮤지컬 사업은 크게 자체제작과 글로벌 사업으로 구분됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "OTT 서비스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반면, OTT 서비스는 빠르게 성장하며 시장 내 주요 경쟁 구도가 형성되었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "온라인쇼핑",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "TV산업을 기반으로 출발한 홈쇼핑은 상품 소싱 능력, 체계적 물류시스템, 축적된 양질의 DB를 바탕으로 온라인쇼핑몰 등의 매체까지 사업 영역을 확대하며 성장을 지속하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "넷플릭스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "글로벌 OTT 서비스 넷플릭스가 향후 4년간 한국 콘텐츠 제작에 약 3조 3,000억 원을 투자하겠다고 발표하면서"
+    },
+    {
+      "axis": "customer",
+      "value": "아마존 프라임",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "는 한국 예능 최초로 글로벌 OTT 아마존 프라임(Prime Video)에 공개되는 등 국내 뿐만 아니라 해외에서도 높은 성과를 기록하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2022년 1월 미국 스튜디오 FIFTH SEASON 인수 및 2022년 4월 콘텐츠 스튜디오 CJ ENM STUDIOS 설립을 통해"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2025년에는 일본과 공동제작한 Netflix JP 오리지널 시리즈 를 론칭하는 등 글로벌향 작품 제작을 확대하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "투자, 기획, 제작의 글로벌화를 위하여 박차를 가하고 있으며 이미 중국, 베트남, 인도네시아에서는 기록적인 박스오피스 실적을 달성하였고"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2년 연속 베트남 內 박스 오피스 1위를 기록하고 역대 베트남 매출을 달성했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "드라마산업의 경우 문화 소비라는 특성상 수요자의 기호 변화가 매우 빠르고 유행이 중요하며, 경기에 따른 변동성이 매우 큰 산업입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"콘텐츠\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"당사 채널 및 플랫폼의 주요 콘텐츠들은 당사 자체 제작 및 당사 산하 스튜디오제작을 통해 안정적으로 공급받고 있으며\"}, {\"axis\": \"product\", \"value\": \"광고\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"당사의 사업은 크게 4개 부문으로 구성되어 있습니다. 방송채널, 광고, 티빙 사업 등이 편제되어 있는 미디어플랫폼사업\"}, {\"axis\": \"product\", \"value\": \"음반\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"음반ㆍ음원 제작 및 콘서트, 엠넷 채널 관련 사업이 포함된 음악사업\"}, {\"axis\": \"product\", \"value\": \"영화\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"콘텐츠 제작ㆍ판매를 비롯해 영화사업과 IP 부가사업 등으로 구성된 영화드라마사업\"}, {\"axis\": \"application\", \"value\": \"OTT 플랫폼\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매\"}, {\"axis\": \"customer\", \"value\": \"넷플릭스\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"넷플릭스, 디즈니+, 왓챠, 쿠팡, 네이버 등에 VOD 서비스권(전송권) 판매\"}, {\"axis\": \"customer\", \"value\": \"스튜디오드래곤\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"CJ ENM, 스튜디오드래곤, FIFTH SEASON 등\"}, {\"axis\": \"customer\", \"value\": \"디즈니+\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매\"}, {\"axis\": \"customer\", \"value\": \"아마존프라임비디오\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"넷플릭스, 디즈니+, 아마존프라임비디오 등 주요 글로벌 OTT 사업자 및 VIU 등 주요 로컬 OTT사업자에 콘텐츠별 VOD 서비스권 판매\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"당사의 본사는 서울특별시 서초구 과천대로 870-13에 소재하고 있으며, 서울특별시 마포구 상암산로 66에 미디어 관련 사업장 등을 소유하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"경기도 군포시 농심로47번길 20에 물류센터를 운영하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"당사는 외화로 표시된 거래를 수행하고 있으며, 외화 입출금 규모 및 환율의 변동에 따라 환차손익이 발생할 수 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"시장금리\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"시장금리가 상승할 경우 이자비용 증가를 초래할 수 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"영화\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"당사는 영화의 제작, 투자 및 배급 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"드라마\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"시리즈, 등 높은 화제성을 일으킨 TV 드라마와 시리즈, (TVING), , (Netflix), (Disney+) 등 국내 및 글로벌 OTT 드라마와 영화를 제작하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음악\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"음악사업부문은 음악 콘텐츠(음반ㆍ원, 아티스트)의 제작 및 유통을 중심으로 아티스트 권리를 활용한 콘서트, 매니지먼트, 부가상품 사업 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV홈쇼핑\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"TV홈쇼핑은 상품에 대한 특징과 정보 등을 상세히 설명하는 프로그램을 플랫폼사업자를 통해 유료방송가입자에게 송출하고, 시청자로부터 전화/모바일 등을 통해 주문 및 대금을 결제 받은 후\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뮤지컬\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사의 뮤지컬 사업은 크게 자체제작과 글로벌 사업으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"OTT 서비스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반면, OTT 서비스는 빠르게 성장하며 시장 내 주요 경쟁 구도가 형성되었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"온라인쇼핑\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"TV산업을 기반으로 출발한 홈쇼핑은 상품 소싱 능력, 체계적 물류시스템, 축적된 양질의 DB를 바탕으로 온라인쇼핑몰 등의 매체까지 사업 영역을 확대하며 성장을 지속하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넷플릭스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"글로벌 OTT 서비스 넷플릭스가 향후 4년간 한국 콘텐츠 제작에 약 3조 3,000억 원을 투자하겠다고 발표하면서\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"아마존 프라임\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"는 한국 예능 최초로 글로벌 OTT 아마존 프라임(Prime Video)에 공개되는 등 국내 뿐만 아니라 해외에서도 높은 성과를 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2022년 1월 미국 스튜디오 FIFTH SEASON 인수 및 2022년 4월 콘텐츠 스튜디오 CJ ENM STUDIOS 설립을 통해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2025년에는 일본과 공동제작한 Netflix JP 오리지널 시리즈 를 론칭하는 등 글로벌향 작품 제작을 확대하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"투자, 기획, 제작의 글로벌화를 위하여 박차를 가하고 있으며 이미 중국, 베트남, 인도네시아에서는 기록적인 박스오피스 실적을 달성하였고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2년 연속 베트남 內 박스 오피스 1위를 기록하고 역대 베트남 매출을 달성했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"드라마산업의 경우 문화 소비라는 특성상 수요자의 기호 변화가 매우 빠르고 유행이 중요하며, 경기에 따른 변동성이 매우 큰 산업입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/035760_20260318001469.txt"
+}

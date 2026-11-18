@@ -1,0 +1,391 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "폴리에틸렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "폴리에틸렌(HDPE, LLDPE), 폴리부텐(PB), EPO 등"
+    },
+    {
+      "axis": "product",
+      "value": "폴리부텐",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "폴리에틸렌(HDPE, LLDPE), 폴리부텐(PB), EPO 등"
+    },
+    {
+      "axis": "product",
+      "value": "BOPP",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "DL에프엔씨㈜ BOPP 등"
+    },
+    {
+      "axis": "product",
+      "value": "APAO",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "디렉스폴리머(유) APAO"
+    },
+    {
+      "axis": "product",
+      "value": "Solid IR",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Cariflex PTE.LTD. 및 그 종속회사 Solid IR, IR Latex 등"
+    },
+    {
+      "axis": "product",
+      "value": "폴리머 제품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Kraton Corporation 및 그 종속회사 폴리머 제품(SBS, SEBS), Pine 케미칼 제품(TOFA,TOR)"
+    },
+    {
+      "axis": "product",
+      "value": "전기차부품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "DL모터스㈜ 엔진부품, 전기차부품, 조향부품, 변속기부품"
+    },
+    {
+      "axis": "product",
+      "value": "토목공사 건설용역",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "토목공사 건설용역,철구조물 제작/설치용역"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "제조부문(자동차부품)은 국내외 고객으로부터 인정받은 기술력을 바탕으로 전기차 확산에 발맞춰 배터리와 구동모터 부품을 수주하여 생산, 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "관광/레저",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "투자 및 기타부문은 호텔 및 골프장 운영을 통해 관광/레저사업 등을 영위하는 글래드호텔앤리조트㈜"
+    },
+    {
+      "axis": "customer",
+      "value": "여천NCC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "여천NCC㈜ 합작회사 주요 공급업체 2개사 (여천NCC㈜, 대한유화㈜)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에틸렌,C4 RAFFINATE-1 등 PE, PB 제품 생산"
+    },
+    {
+      "axis": "raw_material",
+      "value": "부타디엔",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부타디엔, 스타이렌,이소프렌 등 폴리머 제품 생산"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "레미콘 건설기초자재 137,414 18.4% 유진기업㈜, ㈜삼표산업"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철근",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철근 건설기초자재 93,947 12.6% 동국제강㈜, 현대제철㈜"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "[DL케미칼㈜ _ ① 주요 생산설비의 현황] 전남 여수 외"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "[DL에프엔씨㈜ _ ① 주요 생산설비의 현황] 전북 완주군"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "여수, 미국 Belpre 공장,미국 Panama City 공장,싱가포르 공장 등"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "건물 자가보유 싱가포르 13,383 86,961"
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 자가보유 브라질 648,761 30,734"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "제조부문(유화사업, 소재사업)은 글로벌 수요부진 및 중국의 대규모 증설 등 어려운 대외 환경의 영향으로 당기 연결 매출은 전기 대비 6.3% 감소한 4조 6,161억원을 기록하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 가격변동 원인 : PE, PB 등 : 유가, Global 수급 Balance, 환율변동 등"
+    },
+    {
+      "axis": "product",
+      "value": "폴리에틸렌",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "폴리에틸렌(HDPE, LLDPE),폴리부텐(PB), EPO,BOPP, Solid IR, IR Latex,폴리머 제품(SBS, SEBS),Pine 케미칼 제품(TOFA,TOR),APAO 등"
+    },
+    {
+      "axis": "product",
+      "value": "폴리부텐",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "폴리에틸렌(HDPE, LLDPE),폴리부텐(PB), EPO,BOPP, Solid IR, IR Latex,폴리머 제품(SBS, SEBS),Pine 케미칼 제품(TOFA,TOR),APAO 등"
+    },
+    {
+      "axis": "product",
+      "value": "합성고무",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "합성수지, FILM, 합성고무, 점접착소재,바이오케미칼 제품 제조 및 판매"
+    },
+    {
+      "axis": "product",
+      "value": "엔진부품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "엔진부품, 전기차부품,조향부품, 변속기부품"
+    },
+    {
+      "axis": "product",
+      "value": "전기차부품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "엔진부품, 전기차부품,조향부품, 변속기부품"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "포장재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현대트랜시스㈜,현대자동차㈜, 현대위아㈜ 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "나프타",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 미국, 네덜란드, 중국에 주요 연구 설비를 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 미국, 네덜란드, 중국에 주요 연구 설비를 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "또한 원유 기반의 기초 유분 등을 원료로 사용하기 때문에 국제유가의 직접적인 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결실체는 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PE사업은 글로벌 수요 부진으로 제품 마진 하락 압력을 지속적으로 받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PB",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PB사업은 공급 안정성을 최우선으로 하며, 글로벌 시장 수요에 적극 대응하여 시장점유율을 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "BOPP 필름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "플라스틱필름 부문은 BOPP필름 시장에서의 국내 기준 점유율을 기입하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "합성고무 라텍스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "합성고무 라텍스 사업은 싱가포르 신규 공장에서 생산된 제품이 주요 고객사로부터 순조롭게 승인을 받아 판매를 개시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "SBS, SEBS",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "폴리머 소재 사업(SBS, SEBS 등)은 제품 마진 개선에도 불구하고 원료 가격 하락에 따른 부정적 재고효과로 전년 대비 실적이 감소하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TOFA, TOR",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Pine 케미칼 사업(TOFA, TOR 등)은 시장 수요 부진 및 마진 하락 영향으로 전년 대비 실적이 감소하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원유 기반 소재 사업은 자동차, 건설, 수술용 장갑 등 전방 산업의 제조에 필요한 합성 수지를 제공하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원유 기반 소재 사업은 자동차, 건설, 수술용 장갑 등 전방 산업의 제조에 필요한 합성 수지를 제공하는 기술집약적 대규모 장치 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "현대차는 전기차 캐즘의 영향으로 둔화된 성장세를 신형 하이브리드 차량 출시 등으로 돌파구를 찾아 장기적인 성장세를 유지하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "현대차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 고객인 현대차그룹과의 높은 기술과 품질 수준을 기반으로 한 밀접한 관계유지를 통하여 최근 대량의 실린더블록 외주화물량을 수주하는 등 많은 성과를 내고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "CTO",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "목재로 펄프를 제조할 때 생산되는 부산물 CTO (Crude Tall Oil)와 CST (Crude Sulfate Turpentine)를 원료로 사용하는 친환경 고부가가치 제품으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "CST",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "목재로 펄프를 제조할 때 생산되는 부산물 CTO (Crude Tall Oil)와 CST (Crude Sulfate Turpentine)를 원료로 사용하는 친환경 고부가가치 제품으로"
+    },
+    {
+      "axis": "region",
+      "value": "싱가포르",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "합성고무 라텍스 사업은 싱가포르 신규 공장에서 생산된 제품이 주요 고객사로부터 순조롭게 승인을 받아 판매를 개시하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "IR Latex를 생산하고 있는 브라질 및 신규 상업가동을 개시한 싱가포르 등에서 각국의 보건/안전/환경과 관련된 법률을 따르고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "또한 원유 기반의 기초 유분 등을 원료로 사용하기 때문에 국제유가의 직접적인 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "최근 지속적인 원화 약세와 원자재 가격 상승 등이 자동차부품 사업에 민감한 영향을 미치고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 지속적인 원화 약세와 원자재 가격 상승 등이 자동차부품 사업에 민감한 영향을 미치고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리에틸렌\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"폴리에틸렌(HDPE, LLDPE), 폴리부텐(PB), EPO 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리부텐\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"폴리에틸렌(HDPE, LLDPE), 폴리부텐(PB), EPO 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BOPP\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"DL에프엔씨㈜ BOPP 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"APAO\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"디렉스폴리머(유) APAO\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Solid IR\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Cariflex PTE.LTD. 및 그 종속회사 Solid IR, IR Latex 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리머 제품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Kraton Corporation 및 그 종속회사 폴리머 제품(SBS, SEBS), Pine 케미칼 제품(TOFA,TOR)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기차부품\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"DL모터스㈜ 엔진부품, 전기차부품, 조향부품, 변속기부품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"토목공사 건설용역\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"토목공사 건설용역,철구조물 제작/설치용역\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"제조부문(자동차부품)은 국내외 고객으로부터 인정받은 기술력을 바탕으로 전기차 확산에 발맞춰 배터리와 구동모터 부품을 수주하여 생산, 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"관광/레저\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"투자 및 기타부문은 호텔 및 골프장 운영을 통해 관광/레저사업 등을 영위하는 글래드호텔앤리조트㈜\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"여천NCC\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"여천NCC㈜ 합작회사 주요 공급업체 2개사 (여천NCC㈜, 대한유화㈜)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"에틸렌,C4 RAFFINATE-1 등 PE, PB 제품 생산\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"부타디엔\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"부타디엔, 스타이렌,이소프렌 등 폴리머 제품 생산\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"레미콘 건설기초자재 137,414 18.4% 유진기업㈜, ㈜삼표산업\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철근\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"철근 건설기초자재 93,947 12.6% 동국제강㈜, 현대제철㈜\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"[DL케미칼㈜ _ ① 주요 생산설비의 현황] 전남 여수 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"[DL에프엔씨㈜ _ ① 주요 생산설비의 현황] 전북 완주군\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"여수, 미국 Belpre 공장,미국 Panama City 공장,싱가포르 공장 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"건물 자가보유 싱가포르 13,383 86,961\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 자가보유 브라질 648,761 30,734\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"제조부문(유화사업, 소재사업)은 글로벌 수요부진 및 중국의 대규모 증설 등 어려운 대외 환경의 영향으로 당기 연결 매출은 전기 대비 6.3% 감소한 4조 6,161억원을 기록하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 가격변동 원인 : PE, PB 등 : 유가, Global 수급 Balance, 환율변동 등\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리에틸렌\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"폴리에틸렌(HDPE, LLDPE),폴리부텐(PB), EPO,BOPP, Solid IR, IR Latex,폴리머 제품(SBS, SEBS),Pine 케미칼 제품(TOFA,TOR),APAO 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폴리부텐\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"폴리에틸렌(HDPE, LLDPE),폴리부텐(PB), EPO,BOPP, Solid IR, IR Latex,폴리머 제품(SBS, SEBS),Pine 케미칼 제품(TOFA,TOR),APAO 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성고무\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"합성수지, FILM, 합성고무, 점접착소재,바이오케미칼 제품 제조 및 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진부품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"엔진부품, 전기차부품,조향부품, 변속기부품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기차부품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"엔진부품, 전기차부품,조향부품, 변속기부품\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"포장재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현대트랜시스㈜,현대자동차㈜, 현대위아㈜ 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"나프타\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"유화사업은 나프타를 분해하여 생산되는 기초 유분 등을 원료로 사용하여 자동차, 건설, 포장재 등 전방산업에 사용되는 합성수지를 생산하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 미국, 네덜란드, 중국에 주요 연구 설비를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 미국, 네덜란드, 중국에 주요 연구 설비를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"또한 원유 기반의 기초 유분 등을 원료로 사용하기 때문에 국제유가의 직접적인 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 환율과 이자율의 변동으로 인한 금융위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"PE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PE사업은 글로벌 수요 부진으로 제품 마진 하락 압력을 지속적으로 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PB\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"PB사업은 공급 안정성을 최우선으로 하며, 글로벌 시장 수요에 적극 대응하여 시장점유율을 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BOPP 필름\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"플라스틱필름 부문은 BOPP필름 시장에서의 국내 기준 점유율을 기입하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합성고무 라텍스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"합성고무 라텍스 사업은 싱가포르 신규 공장에서 생산된 제품이 주요 고객사로부터 순조롭게 승인을 받아 판매를 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"SBS, SEBS\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"폴리머 소재 사업(SBS, SEBS 등)은 제품 마진 개선에도 불구하고 원료 가격 하락에 따른 부정적 재고효과로 전년 대비 실적이 감소하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TOFA, TOR\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Pine 케미칼 사업(TOFA, TOR 등)은 시장 수요 부진 및 마진 하락 영향으로 전년 대비 실적이 감소하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원유 기반 소재 사업은 자동차, 건설, 수술용 장갑 등 전방 산업의 제조에 필요한 합성 수지를 제공하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원유 기반 소재 사업은 자동차, 건설, 수술용 장갑 등 전방 산업의 제조에 필요한 합성 수지를 제공하는 기술집약적 대규모 장치 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"현대차는 전기차 캐즘의 영향으로 둔화된 성장세를 신형 하이브리드 차량 출시 등으로 돌파구를 찾아 장기적인 성장세를 유지하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 고객인 현대차그룹과의 높은 기술과 품질 수준을 기반으로 한 밀접한 관계유지를 통하여 최근 대량의 실린더블록 외주화물량을 수주하는 등 많은 성과를 내고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"CTO\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"목재로 펄프를 제조할 때 생산되는 부산물 CTO (Crude Tall Oil)와 CST (Crude Sulfate Turpentine)를 원료로 사용하는 친환경 고부가가치 제품으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"CST\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"목재로 펄프를 제조할 때 생산되는 부산물 CTO (Crude Tall Oil)와 CST (Crude Sulfate Turpentine)를 원료로 사용하는 친환경 고부가가치 제품으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가포르\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"합성고무 라텍스 사업은 싱가포르 신규 공장에서 생산된 제품이 주요 고객사로부터 순조롭게 승인을 받아 판매를 개시하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"IR Latex를 생산하고 있는 브라질 및 신규 상업가동을 개시한 싱가포르 등에서 각국의 보건/안전/환경과 관련된 법률을 따르고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"또한 원유 기반의 기초 유분 등을 원료로 사용하기 때문에 국제유가의 직접적인 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"최근 지속적인 원화 약세와 원자재 가격 상승 등이 자동차부품 사업에 민감한 영향을 미치고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근 지속적인 원화 약세와 원자재 가격 상승 등이 자동차부품 사업에 민감한 영향을 미치고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000210_20260318000970.txt"
+}

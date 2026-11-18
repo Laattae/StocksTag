@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "클라우드 서비스",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "클라우드&AI | 클라우드,Data & AI 등 | 3,587,301 | 59%"
+    },
+    {
+      "axis": "product",
+      "value": "스마트팩토리",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "스마트엔지니어링 | 스마트팩토리,스마트물류,스마트시티 | 1,193,534 | 19%"
+    },
+    {
+      "axis": "product",
+      "value": "시스템 통합(SI)",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "Digital BusinessService (SI/SM) | SI, SM 등 | 1,348,708 | 22%"
+    },
+    {
+      "axis": "product",
+      "value": "스마트물류",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "스마트팩토리,스마트물류,스마트시티"
+    },
+    {
+      "axis": "product",
+      "value": "스마트시티",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "스마트팩토리,스마트물류,스마트시티"
+    },
+    {
+      "axis": "customer",
+      "value": "엘지전자",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "엘지전자㈜ | 1,535,928 | 25.1%"
+    },
+    {
+      "axis": "customer",
+      "value": "엘지화학",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "㈜엘지화학 | 1,222,974 | 20.0%"
+    },
+    {
+      "axis": "customer",
+      "value": "엘지유플러스",
+      "weight": 0.058,
+      "direction": null,
+      "evidence": "㈜엘지유플러스 | 356,885 | 5.8%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전산장비",
+      "weight": 0.415,
+      "direction": null,
+      "evidence": "전사 | 상품 | 전산장비 외 | 매출 등 | 1,411,549 (41.5%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "외주용역비",
+      "weight": 0.585,
+      "direction": null,
+      "evidence": "외주용역비 | 외주비 | 매출 등 | 1,988,002 (58.5%)"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 변동",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "전통적인 IT 서비스 산업은 경기에 대한 민감도가 타 산업대비 비교적 높으며, 경기 후행적인 성격을 보였다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 금융상품과 관련하여 시장위험(외환위험, 이자율위험, 가격위험), 신용위험, 유동성위험과 같은 다양한 금융위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"클라우드 서비스\",\n      \"weight\": 0.59,\n      \"direction\": null,\n      \"evidence\": \"클라우드&AI | 클라우드,Data & AI 등 | 3,587,301 | 59%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트팩토리\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"스마트엔지니어링 | 스마트팩토리,스마트물류,스마트시티 | 1,193,534 | 19%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 통합(SI)\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"Digital BusinessService (SI/SM) | SI, SM 등 | 1,348,708 | 22%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트물류\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리,스마트물류,스마트시티\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"스마트시티\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"스마트팩토리,스마트물류,스마트시티\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지전자\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"엘지전자㈜ | 1,535,928 | 25.1%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지화학\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"㈜엘지화학 | 1,222,974 | 20.0%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"엘지유플러스\",\n      \"weight\": 0.058,\n      \"direction\": null,\n      \"evidence\": \"㈜엘지유플러스 | 356,885 | 5.8%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전산장비\",\n      \"weight\": 0.415,\n      \"direction\": null,\n      \"evidence\": \"전사 | 상품 | 전산장비 외 | 매출 등 | 1,411,549 (41.5%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"외주용역비\",\n      \"weight\": 0.585,\n      \"direction\": null,\n      \"evidence\": \"외주용역비 | 외주비 | 매출 등 | 1,988,002 (58.5%)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 변동\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"전통적인 IT 서비스 산업은 경기에 대한 민감도가 타 산업대비 비교적 높으며, 경기 후행적인 성격을 보였다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 금융상품과 관련하여 시장위험(외환위험, 이자율위험, 가격위험), 신용위험, 유동성위험과 같은 다양한 금융위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/064400_20260316000832.txt"
+}

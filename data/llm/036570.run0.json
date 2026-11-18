@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "리니지M",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "게임 | 리니지M | 432,977 | 29% | 492,760 | 31% | 496,115 | 28%"
+    },
+    {
+      "axis": "product",
+      "value": "PC 게임",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "PC 게임 | 353,581 | 23% | 351,778 | 22% | 360,451 | 20%"
+    },
+    {
+      "axis": "product",
+      "value": "리니지W",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "리니지W | 183,086 | 12% | 244,280 | 15% | 414,014 | 23%"
+    },
+    {
+      "axis": "product",
+      "value": "리니지2M",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "리니지2M | 178,348 | 12% | 182,567 | 12% | 262,863 | 15%"
+    },
+    {
+      "axis": "product",
+      "value": "아이온2",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "아이온2 | 77,361 | 5% | - | - | - | -"
+    },
+    {
+      "axis": "customer",
+      "value": "구글",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 매출의 가장 큰 비중을 차지하는 모바일 게임의 경우는 주로 구글과 애플의 모바일 결제 시스템을 통해서 판매가 이뤄지고 있으나"
+    },
+    {
+      "axis": "customer",
+      "value": "애플",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사 매출의 가장 큰 비중을 차지하는 모바일 게임의 경우는 주로 구글과 애플의 모바일 결제 시스템을 통해서 판매가 이뤄지고 있으나"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "업무효율성 증대 및 안정적 업무 공간 확보를 위해 기 매입한 경기도 성남시 분당구 삼평동 641번지 토지에 글로벌 RDI 센터(가칭) 건립"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "아래 표에서 양수(+)는 해당 통화에 대하여 원화가 10% 상승할 경우의 세전이익의 증가를 나타냅니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "주가가 5% 상승하는 경우,- 기타포괄손익-공정가치측정 금융자산의 공정가치변동으로 기타포괄손익은 14,096백만원 증가"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"리니지M\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"게임 | 리니지M | 432,977 | 29% | 492,760 | 31% | 496,115 | 28%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC 게임\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"PC 게임 | 353,581 | 23% | 351,778 | 22% | 360,451 | 20%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리니지W\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"리니지W | 183,086 | 12% | 244,280 | 15% | 414,014 | 23%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"리니지2M\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"리니지2M | 178,348 | 12% | 182,567 | 12% | 262,863 | 15%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아이온2\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"아이온2 | 77,361 | 5% | - | - | - | -\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"구글\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 매출의 가장 큰 비중을 차지하는 모바일 게임의 경우는 주로 구글과 애플의 모바일 결제 시스템을 통해서 판매가 이뤄지고 있으나\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"애플\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사 매출의 가장 큰 비중을 차지하는 모바일 게임의 경우는 주로 구글과 애플의 모바일 결제 시스템을 통해서 판매가 이뤄지고 있으나\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"업무효율성 증대 및 안정적 업무 공간 확보를 위해 기 매입한 경기도 성남시 분당구 삼평동 641번지 토지에 글로벌 RDI 센터(가칭) 건립\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"아래 표에서 양수(+)는 해당 통화에 대하여 원화가 10% 상승할 경우의 세전이익의 증가를 나타냅니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"주가가 5% 상승하는 경우,- 기타포괄손익-공정가치측정 금융자산의 공정가치변동으로 기타포괄손익은 14,096백만원 증가\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/036570_20260318001448.txt"
+}

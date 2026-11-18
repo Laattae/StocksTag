@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일게임",
+      "weight": 0.78,
+      "direction": null,
+      "evidence": "모바일게임 | '서머너즈 워: 천공의 아레나','컴투스프로야구V','컴투스프로야구','MLB 9이닝스''MLB 라이벌' 등 | ㈜컴투스㈜데이세븐㈜티키타카스튜디오 등 | 544,381 | 78.2%"
+    },
+    {
+      "axis": "product",
+      "value": "미디어/콘텐츠",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "미디어/콘텐츠 | 콘텐츠 제작 및 서비스 등 | ㈜위지윅스튜디오㈜마이뮤직테이스트 등 | 122,822 | 17.6%"
+    },
+    {
+      "axis": "product",
+      "value": "온라인게임",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "온라인게임 등 | 골프스타,타이젬 바둑,OOTP 등 | ㈜컴투스㈜컴투스타이젬 Out of the Park Developments GmbH 등 | 29,221 | 4.2%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": null,
+      "direction": null,
+      "evidence": "특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": null,
+      "direction": null,
+      "evidence": "특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "그러나 해외 매출 비중이 상당한 만큼 외환 위험 관리가 중요합니다. 이에 따라, 환율 변동에 따른 환차손 등의 위험 제거에 주안점을 두고 리스크관리를 추진할 것 입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일게임\",\n      \"weight\": 0.78,\n      \"direction\": null,\n      \"evidence\": \"모바일게임 | '서머너즈 워: 천공의 아레나','컴투스프로야구V','컴투스프로야구','MLB 9이닝스''MLB 라이벌' 등 | ㈜컴투스㈜데이세븐㈜티키타카스튜디오 등 | 544,381 | 78.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미디어/콘텐츠\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"미디어/콘텐츠 | 콘텐츠 제작 및 서비스 등 | ㈜위지윅스튜디오㈜마이뮤직테이스트 등 | 122,822 | 17.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"온라인게임\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"온라인게임 등 | 골프스타,타이젬 바둑,OOTP 등 | ㈜컴투스㈜컴투스타이젬 Out of the Park Developments GmbH 등 | 29,221 | 4.2%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"특히 미국, 중국, 일본, 대만, 독일 등에 현지 법인을 설립하여 적극적인 글로벌 서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"그러나 해외 매출 비중이 상당한 만큼 외환 위험 관리가 중요합니다. 이에 따라, 환율 변동에 따른 환차손 등의 위험 제거에 주안점을 두고 리스크관리를 추진할 것 입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/078340_20260320001410.txt"
+}

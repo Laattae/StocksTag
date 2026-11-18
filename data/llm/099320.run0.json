@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "위성시스템",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "전자광학카메라",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "위성체사업을 구성하는 위성과 전자광학카메라의 가격 변동 요인은 고객의 요구에 따른 제품 사양과 성능에 따라 다양합니다."
+    },
+    {
+      "axis": "product",
+      "value": "위성지상국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "지상체사업은 위성운영국 개발과 영상수신처리국 개발사업으로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "위성영상",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "자회사인 (주)에스아이아이에스와 (주)에스아이에이는 위성제조사업의 전방사업인 위성영상 판매 사업과"
+    },
+    {
+      "axis": "product",
+      "value": "위성영상 데이터 분석 서비스",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인공지능 기반 위성영상 분석사업을 영위하고 있으며, 동기간 각 자회사들의 매출은 83억원(전체 매출의 4%), 18억원(전체 매출의 1%) 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "지구관측",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "군사 목적으로 활용할 수 있는 군사위성과 이동형 지상체 개발을 주요사업으로 하는 방위사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "감시정찰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "초고해상도 위성을 자체 확보하여 국방 안보 분야에서 요구되는 정밀 감시ㆍ정찰 수요에 대응함으로써"
+    },
+    {
+      "axis": "customer",
+      "value": "한국항공우주연구원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국방과학연구소",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "국립환경과학원",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전자부품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작"
+    },
+    {
+      "axis": "raw_material",
+      "value": "자세제어부품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작"
+    },
+    {
+      "axis": "raw_material",
+      "value": "센서류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구조물",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "본사 | 자가 | 대전시 유성구 엑스포로 441 외 1개소 | 토지"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료의 수급 상황과 대외 환율의 변동에 따라 조달에 일부 영향을 받고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성시스템\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전자광학카메라\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"위성체사업을 구성하는 위성과 전자광학카메라의 가격 변동 요인은 고객의 요구에 따른 제품 사양과 성능에 따라 다양합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성지상국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"지상체사업은 위성운영국 개발과 영상수신처리국 개발사업으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성영상\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"자회사인 (주)에스아이아이에스와 (주)에스아이에이는 위성제조사업의 전방사업인 위성영상 판매 사업과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위성영상 데이터 분석 서비스\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인공지능 기반 위성영상 분석사업을 영위하고 있으며, 동기간 각 자회사들의 매출은 83억원(전체 매출의 4%), 18억원(전체 매출의 1%) 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"지구관측\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 지구관측 위성시스템의 개발 및 생산을 핵심사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"군사 목적으로 활용할 수 있는 군사위성과 이동형 지상체 개발을 주요사업으로 하는 방위사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"감시정찰\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"초고해상도 위성을 자체 확보하여 국방 안보 분야에서 요구되는 정밀 감시ㆍ정찰 수요에 대응함으로써\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국항공우주연구원\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국방과학연구소\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"국립환경과학원\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"위성 지상체분야는 대부분 국내 고객으로 한국항공우주연구원, 국립환경과학원, 국방과학연구소와 방위사업청 등 정부 산하 연구소 및 기관입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전자부품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"자세제어부품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"센서류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구조물\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전자부품, 자세제어부품, 센서류, 구조물 등 | 인공위성 제작\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"본사 | 자가 | 대전시 유성구 엑스포로 441 외 1개소 | 토지\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료의 수급 상황과 대외 환율의 변동에 따라 조달에 일부 영향을 받고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/099320_20260406004277.txt"
+}

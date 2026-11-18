@@ -1,0 +1,305 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "실리콘",
+      "weight": 0.47,
+      "direction": null,
+      "evidence": "2025년 연결 기준 매출액은 3조 671억원으로 전체 매출액 중 47.30%의 매출비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "도료",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "2025년 연결 기준 매출액은 1조 9,098억원으로 전체 매출액 중 29.46%의 매출비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "건자재",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "2025년 연결 기준 매출액은 9,666억원으로 전체 매출액 중 14.91%의 매출비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "석고보드",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "건자재 부문의 주요 제품은 내장재로는 석고보드, 천장재로는 마이톤(암면흡음천장판), 석고텍스(석고천장판)을 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "실란트",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "주요 제품은 실리콘 및 실란트입니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며, 전방산업인 건설, 자동차, 조선, 전자산업 등의 경기에 많은 영향을 받고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기전자",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "실리콘 산업은 일반 소비자들이 사용하는 생활용품등의 소비재 시장의 견조한 시장 성장을 바탕으로 자동차, 전기전자 등 각종 산업에 응용처가 확대되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "도료 부문의 주요 매출처는 자동차용 도료 거래선인 현대자동차, HD현대중공업 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "HD현대중공업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "도료 부문의 주요 매출처는 자동차용 도료 거래선인 현대자동차, HD현대중공업 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "P&G",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "3M",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "LOREAL",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "메탈 실리콘",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "실리콘 산업은 실리콘 메탈 등을 원료로 하여 실리콘의 기초 원료인 모노머(MCS: Methyl Chlorosilane)를 생산하는 Upstream 공정과"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에폭시수지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "도료 | 케이씨씨 | 원재료 외 | 에폭시수지 외 | 도료 | 837,039 | 27.15 | 금호피앤비화학주식회사 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "울산공장 | 울산 동구 방어진순환도로 30 |"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전주1공장 | 전북 완주군 봉동읍 완주산단4로 19 |"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "대죽1공장 | 충남 서산 대산읍 대죽2로 15 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "KCC(HK) | KCK | 도료 | 곤산공장 | ㎘ | 52,276 | 47,556 | 47,555 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "실리콘 | MOM | 실리콘 | 미국 외 | TON | 635,786 | 649,038 | 669,608 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "실리콘",
+      "weight": 0.47,
+      "direction": null,
+      "evidence": "실리콘 부문 | 실리콘, 실란트 | 지배회사 케이씨씨는 2003년 국내 최초로 실리콘 업스트림(Upstream) 생산공장을 건설하여"
+    },
+    {
+      "axis": "product",
+      "value": "도료",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "도료 부문 | 도료 | 지배회사 케이씨씨는 국내 최대의 도료 생산업체로서 자동차용, 선박용, 공업용, 건축용, 중방식용 등 다양한 분야에 적용할 수 있는 제품 포트폴리오를 구축하여"
+    },
+    {
+      "axis": "product",
+      "value": "석고보드",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "건자재 부문 | PVC창호 석고보드, 그라스울 등 | 지배회사 케이씨씨는 내장재로는 석고보드, 천장재로는 마이톤(암면흡음천장판), 석고텍스(석고천장판)을 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "PVC창호",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "건자재 부문 | PVC창호 석고보드, 그라스울 등 | 또한 PVC창호재는 완벽한 밀폐효과로 방음, 단열은 물론 수밀성이 뛰어나고"
+    },
+    {
+      "axis": "product",
+      "value": "유리장섬유",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "기타 부문 | 장섬유, AM, DCB, 시공수익 등 | 유리장섬유(Glass Fiber) 제품의 경우 내화학성, 강도, 불연성, 전기절연성, 내열 및 내구성이 우수하여"
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": null,
+      "direction": null,
+      "evidence": "도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": null,
+      "direction": null,
+      "evidence": "도료산업은 수요산업인 자동차, 선박 및 건설경기의 영향을 받는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": null,
+      "direction": null,
+      "evidence": "조선 산업의 경우 친환경 에너지 수요 증가에 따라 LNG선 발주 및 수주가 계속 이어지고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": null,
+      "direction": null,
+      "evidence": "지배회사 케이씨씨는 반도체 칩을 외부환경(충격, 습기, 먼지) 등으로부터 보호하는 봉지재인 EMC(Epoxy Molding Compound)를 생산하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "AXALTA",
+      "weight": null,
+      "direction": null,
+      "evidence": "AXALTA(미국) | 2018.07.01 ~ 2043.06.30 | 도료제조기술 | 2018~2042년간 총 1억불"
+    },
+    {
+      "axis": "raw_material",
+      "value": "석고",
+      "weight": null,
+      "direction": null,
+      "evidence": "석고보드의 경우 석탄화력발전의 부산물인 배연탈황석고와 수입 천연석고를 주원료로 제조하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "메탈실리콘",
+      "weight": null,
+      "direction": null,
+      "evidence": "유기실리콘의 주원료는 메탈실리콘과 메탄올입니다. 메탈실리콘은 주로 중국에서, 메탄올은 북중미와 중동에서 조달하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": null,
+      "direction": null,
+      "evidence": "울산공장 | RTO 1, 2호 예비용 AC TOWER 外 | 2024.08 ~ 2025.12 | 913 | 환경 개선"
+    },
+    {
+      "axis": "region",
+      "value": "세종",
+      "weight": null,
+      "direction": null,
+      "evidence": "세종공장 | Forehearth 배기가스 개선공사 | 2023.12 ~ 2025.04 | 350 | 환경 개선"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "도료 관련 주요 종속회사로는 중국 내 KCC Chemical (Kunshan) Co., Ltd., KCC Chemical (Beijing) Co., Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "또한 베트남의 종속회사인 KCVN의 경우 국내 생산과 함께 생산지 이원화를 통한 거래선 수급불안 해소를 이끌어내고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": null,
+      "evidence": "도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련을 가지고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": null,
+      "direction": null,
+      "evidence": "도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련을 가지고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "건설경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "건축자재 산업은 수요산업인 건축경기에 따라 경기변동이 이루어지는 산업으로서 계절적 요인에 의한 계절적 경기 순환체계와"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘\",\n      \"weight\": 0.47,\n      \"direction\": null,\n      \"evidence\": \"2025년 연결 기준 매출액은 3조 671억원으로 전체 매출액 중 47.30%의 매출비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"도료\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"2025년 연결 기준 매출액은 1조 9,098억원으로 전체 매출액 중 29.46%의 매출비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건자재\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"2025년 연결 기준 매출액은 9,666억원으로 전체 매출액 중 14.91%의 매출비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석고보드\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"건자재 부문의 주요 제품은 내장재로는 석고보드, 천장재로는 마이톤(암면흡음천장판), 석고텍스(석고천장판)을 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실란트\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"주요 제품은 실리콘 및 실란트입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며, 전방산업인 건설, 자동차, 조선, 전자산업 등의 경기에 많은 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기전자\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"실리콘 산업은 일반 소비자들이 사용하는 생활용품등의 소비재 시장의 견조한 시장 성장을 바탕으로 자동차, 전기전자 등 각종 산업에 응용처가 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"도료 부문의 주요 매출처는 자동차용 도료 거래선인 현대자동차, HD현대중공업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"HD현대중공업\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"도료 부문의 주요 매출처는 자동차용 도료 거래선인 현대자동차, HD현대중공업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"P&G\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"3M\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LOREAL\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"실리콘 부문의 주요 매출처는 P&G, 3M, LOREAL 등이 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"메탈 실리콘\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"실리콘 산업은 실리콘 메탈 등을 원료로 하여 실리콘의 기초 원료인 모노머(MCS: Methyl Chlorosilane)를 생산하는 Upstream 공정과\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에폭시수지\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"도료 | 케이씨씨 | 원재료 외 | 에폭시수지 외 | 도료 | 837,039 | 27.15 | 금호피앤비화학주식회사 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"울산공장 | 울산 동구 방어진순환도로 30 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전주1공장 | 전북 완주군 봉동읍 완주산단4로 19 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"대죽1공장 | 충남 서산 대산읍 대죽2로 15 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"KCC(HK) | KCK | 도료 | 곤산공장 | ㎘ | 52,276 | 47,556 | 47,555 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"실리콘 | MOM | 실리콘 | 미국 외 | TON | 635,786 | 649,038 | 669,608 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련이 있으며\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘\",\n      \"weight\": 0.47,\n      \"direction\": null,\n      \"evidence\": \"실리콘 부문 | 실리콘, 실란트 | 지배회사 케이씨씨는 2003년 국내 최초로 실리콘 업스트림(Upstream) 생산공장을 건설하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"도료\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"도료 부문 | 도료 | 지배회사 케이씨씨는 국내 최대의 도료 생산업체로서 자동차용, 선박용, 공업용, 건축용, 중방식용 등 다양한 분야에 적용할 수 있는 제품 포트폴리오를 구축하여\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석고보드\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"건자재 부문 | PVC창호 석고보드, 그라스울 등 | 지배회사 케이씨씨는 내장재로는 석고보드, 천장재로는 마이톤(암면흡음천장판), 석고텍스(석고천장판)을 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC창호\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"건자재 부문 | PVC창호 석고보드, 그라스울 등 | 또한 PVC창호재는 완벽한 밀폐효과로 방음, 단열은 물론 수밀성이 뛰어나고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리장섬유\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"기타 부문 | 장섬유, AM, DCB, 시공수익 등 | 유리장섬유(Glass Fiber) 제품의 경우 내화학성, 강도, 불연성, 전기절연성, 내열 및 내구성이 우수하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 건설, 자동차, 조선 등의 산업용은 물론 생활 주변에 사용되는 가정용 등 다양한 방면에 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 수요산업인 자동차, 선박 및 건설경기의 영향을 받는 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"조선 산업의 경우 친환경 에너지 수요 증가에 따라 LNG선 발주 및 수주가 계속 이어지고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"지배회사 케이씨씨는 반도체 칩을 외부환경(충격, 습기, 먼지) 등으로부터 보호하는 봉지재인 EMC(Epoxy Molding Compound)를 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"AXALTA\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"AXALTA(미국) | 2018.07.01 ~ 2043.06.30 | 도료제조기술 | 2018~2042년간 총 1억불\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"석고\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"석고보드의 경우 석탄화력발전의 부산물인 배연탈황석고와 수입 천연석고를 주원료로 제조하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"메탈실리콘\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"유기실리콘의 주원료는 메탈실리콘과 메탄올입니다. 메탈실리콘은 주로 중국에서, 메탄올은 북중미와 중동에서 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"울산공장 | RTO 1, 2호 예비용 AC TOWER 外 | 2024.08 ~ 2025.12 | 913 | 환경 개선\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"세종\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"세종공장 | Forehearth 배기가스 개선공사 | 2023.12 ~ 2025.04 | 350 | 환경 개선\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도료 관련 주요 종속회사로는 중국 내 KCC Chemical (Kunshan) Co., Ltd., KCC Chemical (Beijing) Co., Ltd.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"또한 베트남의 종속회사인 KCVN의 경우 국내 생산과 함께 생산지 이원화를 통한 거래선 수급불안 해소를 이끌어내고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련을 가지고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도료산업은 원재료의 수입 비중이 높아 환율 및 유가와 밀접한 관련을 가지고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"건설경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"건축자재 산업은 수요산업인 건축경기에 따라 경기변동이 이루어지는 산업으로서 계절적 요인에 의한 계절적 경기 순환체계와\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/002380_20260309001896.txt"
+}

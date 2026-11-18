@@ -1,0 +1,53 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "뮤",
+      "weight": 0.63,
+      "direction": null,
+      "evidence": "웹젠 | 뮤 | 109,777 | 63%"
+    },
+    {
+      "axis": "product",
+      "value": "메틴2",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "웹젠 | 메틴2 | 29,993 | 17%"
+    },
+    {
+      "axis": "product",
+      "value": "R2",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "웹젠, 웹젠레드코어 | R2 | 19,035 | 11%"
+    },
+    {
+      "axis": "product",
+      "value": "샷온라인",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "웹젠 외 | 기타 | 4,231 | 2%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결회사는 해외 로열티 매출거래 등과 관련하여 환율변동위험에 노출되어 있습니 다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"뮤\",\n      \"weight\": 0.63,\n      \"direction\": null,\n      \"evidence\": \"웹젠 | 뮤 | 109,777 | 63%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메틴2\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"웹젠 | 메틴2 | 29,993 | 17%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"R2\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"웹젠, 웹젠레드코어 | R2 | 19,035 | 11%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"샷온라인\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"웹젠 외 | 기타 | 4,231 | 2%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 해외 로열티 매출거래 등과 관련하여 환율변동위험에 노출되어 있습니 다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/069080_20260318000593.txt"
+}

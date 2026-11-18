@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일게임",
+      "weight": 0.47,
+      "direction": null,
+      "evidence": "게임부문 | 게임매출 | 모바일게임 | V4, Blue Archive, HIT2 등 | 81,378,279 | 46.69%"
+    },
+    {
+      "axis": "product",
+      "value": "온라인게임",
+      "weight": 0.52,
+      "direction": null,
+      "evidence": "게임부문 | 게임매출 | 온라인게임 (PC/콘솔) | 서든어택, HIT2, 퍼스트 디센던트 등 | 89,958,098 | 51.62%"
+    },
+    {
+      "axis": "product",
+      "value": "사무실 임대",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "임대사업 | 임대매출 | 임대수익 | 사무실 임대 | 5,036,055 | 100.00%"
+    },
+    {
+      "axis": "customer",
+      "value": "넥슨코리아",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2019년 11월에 출시한 모바일게임 V4(MMORPG)는 (주)넥슨코리아를 통해 국내서비스를 진행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Yostar Inc.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2021년 2월 출시한 모바일게임 Blue Archive(RPG)는 Yostar Inc.를 통해 일본 지역에 서비스를 개시하였으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Shanghai Roaming Star Co., Ltd.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2023년 8월부터 Shanghai Roaming Star Co., Ltd. 통해 중국 지역에도 서비스를 진행하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(주)중앙판교개발은 경기도 성남시 판교의 판교테크노밸리 건설컨소시움에 참여하여 2012년부터 임대사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일게임\",\n      \"weight\": 0.47,\n      \"direction\": null,\n      \"evidence\": \"게임부문 | 게임매출 | 모바일게임 | V4, Blue Archive, HIT2 등 | 81,378,279 | 46.69%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"온라인게임\",\n      \"weight\": 0.52,\n      \"direction\": null,\n      \"evidence\": \"게임부문 | 게임매출 | 온라인게임 (PC/콘솔) | 서든어택, HIT2, 퍼스트 디센던트 등 | 89,958,098 | 51.62%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"사무실 임대\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"임대사업 | 임대매출 | 임대수익 | 사무실 임대 | 5,036,055 | 100.00%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"넥슨코리아\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2019년 11월에 출시한 모바일게임 V4(MMORPG)는 (주)넥슨코리아를 통해 국내서비스를 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Yostar Inc.\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2021년 2월 출시한 모바일게임 Blue Archive(RPG)는 Yostar Inc.를 통해 일본 지역에 서비스를 개시하였으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Shanghai Roaming Star Co., Ltd.\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2023년 8월부터 Shanghai Roaming Star Co., Ltd. 통해 중국 지역에도 서비스를 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(주)중앙판교개발은 경기도 성남시 판교의 판교테크노밸리 건설컨소시움에 참여하여 2012년부터 임대사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/225570_20260319000472.txt"
+}

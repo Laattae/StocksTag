@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "위탁매매",
+      "weight": 0.56,
+      "direction": null,
+      "evidence": "위탁매매 56.0%"
+    },
+    {
+      "axis": "product",
+      "value": "기업금융",
+      "weight": 0.258,
+      "direction": null,
+      "evidence": "기업금융 25.8%"
+    },
+    {
+      "axis": "product",
+      "value": "선물중개업",
+      "weight": 0.071,
+      "direction": null,
+      "evidence": "선물중개업 7.1%"
+    },
+    {
+      "axis": "product",
+      "value": "자기매매",
+      "weight": 0.014,
+      "direction": null,
+      "evidence": "자기매매 1.4%"
+    },
+    {
+      "axis": "product",
+      "value": "해외영업",
+      "weight": 0.006,
+      "direction": null,
+      "evidence": "해외영업 0.6%"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연준의 금리인하, 세계의 완만한 성장 기조에 위험선호 구도가 유지될 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가지수",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "금융투자업은 경기 상승시 주식시장 호황에 따른 수익 증대를 이룰 수 있는 반면"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "높은 원자재 가격, 그리고 다소 약세를 보인 파운드화의 수혜를 입었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "기관투자자",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국내외 네트워크를 기반으로 기관투자자 대상 주식중개는 물론 IB 영업에서도 사업역량을 강화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금전신탁",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "(4) 자금조달 및 운용현황① 금전신탁 자금조달현황"
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": " 퇴직연금 |  확정급여형 |  3,639,672 |  - |  - |  - |  484,067 |  4,123,739 |"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "선물 |  국내 |  금융선물 |  금리선물 |  국채3년 |  - |  - |  265,784 |  265,784 |"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "옵션 |  해외 |  주가지수 |  - |  - |  - |  - |  - |  - |  -"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "④ 투자운용손익- 채권"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "서울특별시 |  12 |  - |  - |  12 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "부산광역시 |  2 |  - |  - |  2 |"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "일본(동경) |  - |  - |  1 |  1 |"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "중국(북경) |  - |  - |  1 |  1 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "시장상황",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "향후 시장상황 및 지역특성 등의 변화를 지속모니터링하여 신설 및 시설확충 여부 검토 예정입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"위탁매매\",\n      \"weight\": 0.56,\n      \"direction\": null,\n      \"evidence\": \"위탁매매 56.0%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기업금융\",\n      \"weight\": 0.258,\n      \"direction\": null,\n      \"evidence\": \"기업금융 25.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물중개업\",\n      \"weight\": 0.071,\n      \"direction\": null,\n      \"evidence\": \"선물중개업 7.1%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자기매매\",\n      \"weight\": 0.014,\n      \"direction\": null,\n      \"evidence\": \"자기매매 1.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해외영업\",\n      \"weight\": 0.006,\n      \"direction\": null,\n      \"evidence\": \"해외영업 0.6%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연준의 금리인하, 세계의 완만한 성장 기조에 위험선호 구도가 유지될 것입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"주가지수\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"금융투자업은 경기 상승시 주식시장 호황에 따른 수익 증대를 이룰 수 있는 반면\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"높은 원자재 가격, 그리고 다소 약세를 보인 파운드화의 수혜를 입었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기관투자자\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국내외 네트워크를 기반으로 기관투자자 대상 주식중개는 물론 IB 영업에서도 사업역량을 강화하고 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"금전신탁\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"(4) 자금조달 및 운용현황① 금전신탁 자금조달현황\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \" 퇴직연금 |  확정급여형 |  3,639,672 |  - |  - |  - |  484,067 |  4,123,739 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"선물 |  국내 |  금융선물 |  금리선물 |  국채3년 |  - |  - |  265,784 |  265,784 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"옵션\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"옵션 |  해외 |  주가지수 |  - |  - |  - |  - |  - |  - |  -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"④ 투자운용손익- 채권\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"서울특별시 |  12 |  - |  - |  12 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"부산광역시 |  2 |  - |  - |  2 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"일본(동경) |  - |  - |  1 |  1 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"중국(북경) |  - |  - |  1 |  1 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장상황\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"향후 시장상황 및 지역특성 등의 변화를 지속모니터링하여 신설 및 시설확충 여부 검토 예정입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/016360_20260312001379.txt"
+}

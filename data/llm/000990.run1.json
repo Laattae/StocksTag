@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Wafer",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "Wafer 등 | 신호처리용 Chip제조용 Wafer 외 | 1,331,736 | 95%"
+    },
+    {
+      "axis": "product",
+      "value": "합금철",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "합금철 | FeMn(HC/MC/LC)SiMn, SiMn(LC),기타 | 40,064 | 3%"
+    },
+    {
+      "axis": "product",
+      "value": "디스플레이 구동 IC",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자회사인 DB글로벌칩은 디스플레이 구동 IC 제품을 설계, 판매하는 사업을 운영하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "골프장 서비스",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "그린피, 자산관리 등 | 부동산 개발 및 골프장 운영 | 22,435 | 2%"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "시스템 반도체는 고기술, 고성장, 고부가가치의 유망산업으로 AI, 5G, IoT, 스마트폰, 고해상도 TV, 자동차 등 다양한 분야에 활용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "소비가전, 스마트폰, TV, 자동차, 산업용 등 다양한 분야에 활용되는 제품을 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "TV",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 종속회사인 DB글로벌칩의 디스플레이 구동IC 사업은 TV, IT 및 Mobile 용 등 디스플레이와 관련된 제품 포트폴리오를 다양하게 구축하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "IoT",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "시스템 반도체는 고기술, 고성장, 고부가가치의 유망산업으로 AI, 5G, IoT, 스마트폰, 고해상도 TV, 자동차 등 다양한 분야에 활용되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wafer",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "Wafer | 공정용 Wafer | 양산공정용 | 95,920 | 44.24%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Chemical",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "Chemical | 공정용 Chemical | 양산공정용 | 42,143 | 19.44%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Reticle",
+      "weight": 0.27,
+      "direction": null,
+      "evidence": "Reticle | Photo Mask | 양산 및 개발용 | 58,390 | 26.93%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Gas",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "Gas | 공정용 Gas | 양산공정용 | 12,443 | 5.74%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 부천에 본사를 두고 있으며, 부천(FAB1)과 상우(FAB2) 두 곳에 공장을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 해외 영업을 위해 미국, 중국법인과 대만, 일본, 유럽 지사를 운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 해외 영업을 위해 미국, 중국법인과 대만, 일본, 유럽 지사를 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체는 전세계적으로 영업활동을 영위하고 있어 다양한 통화로부터의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"Wafer 등 | 신호처리용 Chip제조용 Wafer 외 | 1,331,736 | 95%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"합금철\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"합금철 | FeMn(HC/MC/LC)SiMn, SiMn(LC),기타 | 40,064 | 3%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이 구동 IC\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자회사인 DB글로벌칩은 디스플레이 구동 IC 제품을 설계, 판매하는 사업을 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골프장 서비스\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"그린피, 자산관리 등 | 부동산 개발 및 골프장 운영 | 22,435 | 2%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"시스템 반도체는 고기술, 고성장, 고부가가치의 유망산업으로 AI, 5G, IoT, 스마트폰, 고해상도 TV, 자동차 등 다양한 분야에 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"소비가전, 스마트폰, TV, 자동차, 산업용 등 다양한 분야에 활용되는 제품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"TV\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 종속회사인 DB글로벌칩의 디스플레이 구동IC 사업은 TV, IT 및 Mobile 용 등 디스플레이와 관련된 제품 포트폴리오를 다양하게 구축하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"IoT\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"시스템 반도체는 고기술, 고성장, 고부가가치의 유망산업으로 AI, 5G, IoT, 스마트폰, 고해상도 TV, 자동차 등 다양한 분야에 활용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.44,\n      \"direction\": null,\n      \"evidence\": \"Wafer | 공정용 Wafer | 양산공정용 | 95,920 | 44.24%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Chemical\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"Chemical | 공정용 Chemical | 양산공정용 | 42,143 | 19.44%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Reticle\",\n      \"weight\": 0.27,\n      \"direction\": null,\n      \"evidence\": \"Reticle | Photo Mask | 양산 및 개발용 | 58,390 | 26.93%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Gas\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"Gas | 공정용 Gas | 양산공정용 | 12,443 | 5.74%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 부천에 본사를 두고 있으며, 부천(FAB1)과 상우(FAB2) 두 곳에 공장을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 해외 영업을 위해 미국, 중국법인과 대만, 일본, 유럽 지사를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 해외 영업을 위해 미국, 중국법인과 대만, 일본, 유럽 지사를 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 전세계적으로 영업활동을 영위하고 있어 다양한 통화로부터의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"이자율 위험은 미래 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000990_20260601001661.txt"
+}

@@ -1,0 +1,243 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "대형마트 상품",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "식품, 의류 등 상품, 수수료 및 임대료 수입 등 | ㈜이마트, ㈜이마트24, ㈜에스에스지닷컴,㈜신세계프라퍼티, ㈜스타필드고양, 아폴로코리아㈜, ㈜더블유컨셉코리아, ㈜플래티넘페이먼츠 | 상품매출 | 18,801,725 | 64.9%"
+    },
+    {
+      "axis": "product",
+      "value": "식음료",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "식품, 외식, 음료, 주류판매 및식자재납품 등 | ㈜신세계푸드, ㈜신세계엘앤비, ㈜에스씨케이컴퍼니 | 상품매출 | 4,853,760 | 16.7%"
+    },
+    {
+      "axis": "product",
+      "value": "프리미엄 그로서리",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "식품 등 | PK RETAIL HOLDINGS, INC.GOOD FOOD HOLDINGS, LLCBRISTOL FARMS, INC.METROPOLITAN MARKET, LLCNEW SEASONS MARKET, LLCNEW LEAF COMMUNITY MARKETS, INC.SHAFER VINEYARDS, INC.STARFIELD PROPERTIES INC.ASIA LEGEND CAPITAL LIMITED | 상품매출 | 2,441,710 | 8.4%"
+    },
+    {
+      "axis": "product",
+      "value": "건설업",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "건설업 및서비스업 등 | 신세계건설㈜포항프라이머스프로젝트투자금융㈜이터널포항제삼차㈜에스이엔씨피닉스제일차㈜에스이엔씨피닉스제이차㈜에스이엔씨피닉스제삼차㈜ | 건 축 | 1,033,797 | 3.6%"
+    },
+    {
+      "axis": "product",
+      "value": "IT서비스",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "IT서비스 등 | ㈜신세계아이앤씨 | IT서비스 | 419,373 | 1.4%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "과일, 채소",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | 과일, 채소 등 | 상품제조용 | 239,339 | 농협, 직수입 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "우육, 돈육",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | 우육, 돈육 등 | 상품제조용 | 280,572 | 축협, ㈜도드람푸드 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "밀가루",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 | 밀가루, 치즈, 크림, 유지류, 초콜릿 등 | 단체급식 및 외식사업용 | 370,268 | CJ제일제당㈜, ㈜조흥, 매일유업㈜, ㈜디어푸드 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원두",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 | 원두 | 상품제조용 | 172,712 | Starbucks Corporation"
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원재료 | 레미콘 | 건축,토목공사용 | 38,608 | ㈜삼표산업, 쌍용레미콘㈜ 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동서울터미널과 경기도 남양주시 별내동, 경기도 화성시, 충북 청주시 일대의 개발사업을 계획하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개), 부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며, 외식 및 기타 사업으로는 소매판매업(선물세트, HMR, 김치, 침구류 등)과 외식(호경전, 호무랑, MOTT32 등), 플라워샵, 오피스 건물 운영 등을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며, 외식 및 기타 사업으로는 소매판매업(선물세트, HMR, 김치, 침구류 등)과 외식(호경전, 호무랑, MOTT32 등), 플라워샵, 오피스 건물 운영 등을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "회사는 미국 캘리포니아주 및 워싱턴주 등에 Bristol Farms, New Seasons Market 등 5개 브랜드 총 57개의 프리미엄 그로서리 마켓을 자가 또는 임차 형태로 운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "보고기간종료일 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대형마트",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "1993년 11월 이마트 창동점 개점을 시작으로 등장한 대형마트는 식품 및 비식품 상품을 한곳에서 편리하게 구매할 수 있는 대표적인 유통 업태입니다."
+    },
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "편의점은 다양한 고객 편의와 차별화된 서비스를 제공하기 위하여 도입된 종합소매업으로 소규모 점포형태를 띄고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "온라인쇼핑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "통계청 조사에 따른 우리나라 온라인 쇼핑의 판매액을 살펴보면, 2018년 113조 3,140억원에서 2025년에는 2배가 넘는 272조 398억으로 연평균(CAGR) 13% 가량 성장했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "간편결제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "간편결제 이용금액의 약 82%(2020년 기준)를 차지하는 카드결제 방식의 경우 신용카드사, VAN사, PG사 등이 참여하는 기존 카드결제 프로세스에 간편결제 사업자가 추가적인 사업영역을 확보하는 형태입니다."
+    },
+    {
+      "axis": "product",
+      "value": "복합쇼핑몰",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "복합쇼핑몰 조성 산업은 소비와 여가를 함께 누리려는 소비자들의 소비 트렌드에 맞추어 쇼핑과 문화생활, 여가를 한 공간에서 모두 즐길 수 있는 신개념 유통 업태이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "소비지출 감소",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "다만, 2025년 대형마트 업계는 높은 체감 물가와 실질 소비지출 감소로 인한 불황형 소비패턴 심화 영향을 고스란히 받는 가운데, 주요 기업의 회생절차 돌입, 민생회복 소비쿠폰 사용처 제외 등 여러 변수들로 인해 전년 대비 4.2% 역성장을 기록하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가, 환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "와인",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "맥주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "위스키",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "커피",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "커피 산업은 소비자들의 커피소비에 대한 일상화 및 프리미엄 커피에 대한 수요가 확대됨에 따라 외형성장을 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "식료품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고품질의 신선식품, 현지에서 조달한 로컬푸드, 유기농 및 특화된 식료품에 대한 수요는 지속적으로 증가하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "커피 원두",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "고금리 유지에 따른 소비 위축 가능성 등은 중장기적으로 시장의 제약 요인으로 작용하고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"대형마트 상품\", \"weight\": 0.65, \"direction\": null, \"evidence\": \"식품, 의류 등 상품, 수수료 및 임대료 수입 등 | ㈜이마트, ㈜이마트24, ㈜에스에스지닷컴,㈜신세계프라퍼티, ㈜스타필드고양, 아폴로코리아㈜, ㈜더블유컨셉코리아, ㈜플래티넘페이먼츠 | 상품매출 | 18,801,725 | 64.9%\"}, {\"axis\": \"product\", \"value\": \"식음료\", \"weight\": 0.17, \"direction\": null, \"evidence\": \"식품, 외식, 음료, 주류판매 및식자재납품 등 | ㈜신세계푸드, ㈜신세계엘앤비, ㈜에스씨케이컴퍼니 | 상품매출 | 4,853,760 | 16.7%\"}, {\"axis\": \"product\", \"value\": \"프리미엄 그로서리\", \"weight\": 0.08, \"direction\": null, \"evidence\": \"식품 등 | PK RETAIL HOLDINGS, INC.GOOD FOOD HOLDINGS, LLCBRISTOL FARMS, INC.METROPOLITAN MARKET, LLCNEW SEASONS MARKET, LLCNEW LEAF COMMUNITY MARKETS, INC.SHAFER VINEYARDS, INC.STARFIELD PROPERTIES INC.ASIA LEGEND CAPITAL LIMITED | 상품매출 | 2,441,710 | 8.4%\"}, {\"axis\": \"product\", \"value\": \"건설업\", \"weight\": 0.04, \"direction\": null, \"evidence\": \"건설업 및서비스업 등 | 신세계건설㈜포항프라이머스프로젝트투자금융㈜이터널포항제삼차㈜에스이엔씨피닉스제일차㈜에스이엔씨피닉스제이차㈜에스이엔씨피닉스제삼차㈜ | 건 축 | 1,033,797 | 3.6%\"}, {\"axis\": \"product\", \"value\": \"IT서비스\", \"weight\": 0.02, \"direction\": null, \"evidence\": \"IT서비스 등 | ㈜신세계아이앤씨 | IT서비스 | 419,373 | 1.4%\"}, {\"axis\": \"raw_material\", \"value\": \"과일, 채소\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"원재료 | 과일, 채소 등 | 상품제조용 | 239,339 | 농협, 직수입 외\"}, {\"axis\": \"raw_material\", \"value\": \"우육, 돈육\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"원재료 | 우육, 돈육 등 | 상품제조용 | 280,572 | 축협, ㈜도드람푸드 외\"}, {\"axis\": \"raw_material\", \"value\": \"밀가루\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원재료 | 밀가루, 치즈, 크림, 유지류, 초콜릿 등 | 단체급식 및 외식사업용 | 370,268 | CJ제일제당㈜, ㈜조흥, 매일유업㈜, ㈜디어푸드 등\"}, {\"axis\": \"raw_material\", \"value\": \"원두\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"원재료 | 원두 | 상품제조용 | 172,712 | Starbucks Corporation\"}, {\"axis\": \"raw_material\", \"value\": \"레미콘\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"원재료 | 레미콘 | 건축,토목공사용 | 38,608 | ㈜삼표산업, 쌍용레미콘㈜ 등\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"동서울터미널과 경기도 남양주시 별내동, 경기도 화성시, 충북 청주시 일대의 개발사업을 계획하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"회사는 서울, 경기 지역에서 6개의 시티호텔(럭셔리 1개, 5성급 1개, 4성급 4개), 부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며, 외식 및 기타 사업으로는 소매판매업(선물세트, HMR, 김치, 침구류 등)과 외식(호경전, 호무랑, MOTT32 등), 플라워샵, 오피스 건물 운영 등을 영위하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"제주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"부산, 제주 지역에 3개 레저호텔(5성급 3개)을 운영하고 있으며, 외식 및 기타 사업으로는 소매판매업(선물세트, HMR, 김치, 침구류 등)과 외식(호경전, 호무랑, MOTT32 등), 플라워샵, 오피스 건물 운영 등을 영위하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"회사는 미국 캘리포니아주 및 워싱턴주 등에 Bristol Farms, New Seasons Market 등 5개 브랜드 총 57개의 프리미엄 그로서리 마켓을 자가 또는 임차 형태로 운영하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"보고기간종료일 현재 외화에 대한 원화 환율 10% 변동시 환율변동이 당기손익에 미치는 영향은 다음과 같습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"건설업 부문의 매출은 건축, 토목공사에 사용되는 철근, 콘크리트 등 원재료의 가격변동에 영향을 받습니다.\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"대형마트\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"1993년 11월 이마트 창동점 개점을 시작으로 등장한 대형마트는 식품 및 비식품 상품을 한곳에서 편리하게 구매할 수 있는 대표적인 유통 업태입니다.\"}, {\"axis\": \"product\", \"value\": \"편의점\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"편의점은 다양한 고객 편의와 차별화된 서비스를 제공하기 위하여 도입된 종합소매업으로 소규모 점포형태를 띄고 있으며\"}, {\"axis\": \"product\", \"value\": \"온라인쇼핑\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"통계청 조사에 따른 우리나라 온라인 쇼핑의 판매액을 살펴보면, 2018년 113조 3,140억원에서 2025년에는 2배가 넘는 272조 398억으로 연평균(CAGR) 13% 가량 성장했습니다.\"}, {\"axis\": \"product\", \"value\": \"간편결제\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"간편결제 이용금액의 약 82%(2020년 기준)를 차지하는 카드결제 방식의 경우 신용카드사, VAN사, PG사 등이 참여하는 기존 카드결제 프로세스에 간편결제 사업자가 추가적인 사업영역을 확보하는 형태입니다.\"}, {\"axis\": \"product\", \"value\": \"복합쇼핑몰\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"복합쇼핑몰 조성 산업은 소비와 여가를 함께 누리려는 소비자들의 소비 트렌드에 맞추어 쇼핑과 문화생활, 여가를 한 공간에서 모두 즐길 수 있는 신개념 유통 업태이며\"}, {\"axis\": \"exposure\", \"value\": \"소비지출 감소\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"다만, 2025년 대형마트 업계는 높은 체감 물가와 실질 소비지출 감소로 인한 불황형 소비패턴 심화 영향을 고스란히 받는 가운데, 주요 기업의 회생절차 돌입, 민생회복 소비쿠폰 사용처 제외 등 여러 변수들로 인해 전년 대비 4.2% 역성장을 기록하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제 곡물가, 환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"다만 산업 전반의 수요는 안정적임에도, 국제 곡물가, 환율 등 원자재 가격 변동에 따라 공급 측면에서의 원가변동은 상당할 수 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"와인\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2008년 설립 이후 전 세계의 유명 와인을 합리적인 가격으로 고객에게 선보이는 것을 시작으로 현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"맥주\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"위스키\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"현재는 맥주, 위스키 등 다채로운 주류를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"커피 산업은 소비자들의 커피소비에 대한 일상화 및 프리미엄 커피에 대한 수요가 확대됨에 따라 외형성장을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식료품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고품질의 신선식품, 현지에서 조달한 로컬푸드, 유기농 및 특화된 식료품에 대한 수요는 지속적으로 증가하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"커피 원두\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하지만, 커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"커피 원두 등 원부자재에 대한 수입의존도가 높은 이유로 환율 및 국제 원자재 가격의 변화에 민감한 편입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"고금리 유지에 따른 소비 위축 가능성 등은 중장기적으로 시장의 제약 요인으로 작용하고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/139480_20260318001024.txt"
+}

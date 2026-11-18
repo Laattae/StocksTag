@@ -1,0 +1,46 @@
+{
+  "merges": [
+    {
+      "group": 5,
+      "canonical": "모바일 게임",
+      "synonyms": [
+        "모바일게임"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "PC 게임",
+      "synonyms": [
+        "PC게임"
+      ]
+    },
+    {
+      "group": 21,
+      "canonical": "산업용 로봇",
+      "synonyms": [
+        "산업용로봇"
+      ]
+    },
+    {
+      "group": 22,
+      "canonical": "스테인리스",
+      "synonyms": [
+        "스테인리스강"
+      ]
+    },
+    {
+      "group": 27,
+      "canonical": "방산",
+      "synonyms": [
+        "방산물자"
+      ]
+    },
+    {
+      "group": 30,
+      "canonical": "봉·선",
+      "synonyms": [
+        "봉ㆍ선"
+      ]
+    }
+  ]
+}

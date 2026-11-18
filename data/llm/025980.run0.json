@@ -1,0 +1,94 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "리조트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "플랫폼 운영 | 리조트, 호텔 | 180,194 | 69.8"
+    },
+    {
+      "axis": "product",
+      "value": "호텔",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "플랫폼 운영 | 리조트, 호텔 | 180,194 | 69.8"
+    },
+    {
+      "axis": "product",
+      "value": "골프",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "플랫폼 운영 | 골프 | 19,748 | 7.7"
+    },
+    {
+      "axis": "product",
+      "value": "분양",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "플랫폼 개발(분양) | 분양 | 36,603 | 14.2"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "부산시 기장군에 아난티 코브(호텔, 리조트), 빌라쥬 드 아난티(호텔, 리조트)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "경기도가평군에 아난티 코드(리조트)"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "서울시 강남구에 아난티 앳 강남(호텔)"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "제주도 구좌읍에 아난티 클럽 제주(골프, 리조트)를 보유ㆍ운영하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "경상남도 남해군에 아난티 남해(골프, 리조트)를 보유ㆍ운영하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "시장위험은 다시 환율변동위험, 이자율변동위험과 지분증권에 대한 시장가치 변동위험 등으로 구분됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "특1급 호텔사업의 경우, 내국인과 외국인의 매출 비중이 약 6:4로 나뉘어 있어, 국내외 경기 변동이 상호 보완하는 특징을 보입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"리조트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 운영 | 리조트, 호텔 | 180,194 | 69.8\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"호텔\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 운영 | 리조트, 호텔 | 180,194 | 69.8\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"골프\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 운영 | 골프 | 19,748 | 7.7\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"분양\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 개발(분양) | 분양 | 36,603 | 14.2\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"부산시 기장군에 아난티 코브(호텔, 리조트), 빌라쥬 드 아난티(호텔, 리조트)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"경기도가평군에 아난티 코드(리조트)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"서울시 강남구에 아난티 앳 강남(호텔)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"제주도 구좌읍에 아난티 클럽 제주(골프, 리조트)를 보유ㆍ운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"경상남도 남해군에 아난티 남해(골프, 리조트)를 보유ㆍ운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"시장위험은 다시 환율변동위험, 이자율변동위험과 지분증권에 대한 시장가치 변동위험 등으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"특1급 호텔사업의 경우, 내국인과 외국인의 매출 비중이 약 6:4로 나뉘어 있어, 국내외 경기 변동이 상호 보완하는 특징을 보입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/025980_20260311003981.txt"
+}

@@ -1,0 +1,67 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "입술화장용 제품",
+      "weight": 0.64,
+      "direction": null,
+      "evidence": "화장품사업 | 제품 | 색조화장품 | 입술화장용제품 | - N사 등 | 183,351 | 63.56%"
+    },
+    {
+      "axis": "product",
+      "value": "베이스용 제품",
+      "weight": 0.21,
+      "direction": null,
+      "evidence": "화장품사업 | 제품 | 색조화장품 | 베이스용제품 | - R사 등 | 59,964 | 20.79%"
+    },
+    {
+      "axis": "product",
+      "value": "눈화장용 제품",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "화장품사업 | 제품 | 색조화장품 | 눈화장용제품 | - M사 등 | 40,776 | 14.13%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "오일",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "화장품사업 | 원재료 | 오일, 착색제, 계면활성제 등 | 립스틱, 아이섀도우 등의 화장품 원료 | 35,511 | 23.71%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "용기",
+      "weight": 0.76,
+      "direction": null,
+      "evidence": "부재료 | 용기,캡, 단상자 등 | 보조재 | 114,267 | 76.29%"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "경기도 화성시 삼성1로5길 39"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "C&C 상해 제1공장 | 색조화장품 제조 | 중국 상해시 봉현구 뷰티밸리 內"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결실체는 국제적인 영업활동을 영위함에 따라 미국달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"입술화장용 제품\",\n      \"weight\": 0.64,\n      \"direction\": null,\n      \"evidence\": \"화장품사업 | 제품 | 색조화장품 | 입술화장용제품 | - N사 등 | 183,351 | 63.56%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"베이스용 제품\",\n      \"weight\": 0.21,\n      \"direction\": null,\n      \"evidence\": \"화장품사업 | 제품 | 색조화장품 | 베이스용제품 | - R사 등 | 59,964 | 20.79%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"눈화장용 제품\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"화장품사업 | 제품 | 색조화장품 | 눈화장용제품 | - M사 등 | 40,776 | 14.13%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"오일\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"화장품사업 | 원재료 | 오일, 착색제, 계면활성제 등 | 립스틱, 아이섀도우 등의 화장품 원료 | 35,511 | 23.71%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"용기\",\n      \"weight\": 0.76,\n      \"direction\": null,\n      \"evidence\": \"부재료 | 용기,캡, 단상자 등 | 보조재 | 114,267 | 76.29%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"경기도 화성시 삼성1로5길 39\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"C&C 상해 제1공장 | 색조화장품 제조 | 중국 상해시 봉현구 뷰티밸리 內\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결실체는 국제적인 영업활동을 영위함에 따라 미국달러화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/352480_20260323001238.txt"
+}

@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "화장품사업부문 | 상품, 제품 | 기초 / 색조화장품 | 3,794,374 | 3,477,837 | 3,270,552"
+    },
+    {
+      "axis": "product",
+      "value": "색조화장품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화장품사업부문 | 상품, 제품 | 기초 / 색조화장품 | 3,794,374 | 3,477,837 | 3,270,552"
+    },
+    {
+      "axis": "product",
+      "value": "생활용품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "헤어 앤 뷰티(Hair & Beauty)사업부문 | 상품, 제품 | 개인용제품 / 생활용품 등 | 458,446 | 407,274 | 403,412"
+    },
+    {
+      "axis": "raw_material",
+      "value": "글리세린",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에탄올",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "자음단",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 1.0,
+      "direction": -1,
+      "evidence": "주2) 주요 가격변동원인: 시장 수요 변동에 따른 원재료 가격 변동 및 환율변동 등"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"기초화장품\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"화장품사업부문 | 상품, 제품 | 기초 / 색조화장품 | 3,794,374 | 3,477,837 | 3,270,552\"}, {\"axis\": \"product\", \"value\": \"색조화장품\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"화장품사업부문 | 상품, 제품 | 기초 / 색조화장품 | 3,794,374 | 3,477,837 | 3,270,552\"}, {\"axis\": \"product\", \"value\": \"생활용품\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"헤어 앤 뷰티(Hair & Beauty)사업부문 | 상품, 제품 | 개인용제품 / 생활용품 등 | 458,446 | 407,274 | 403,412\"}, {\"axis\": \"raw_material\", \"value\": \"글리세린\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등\"}, {\"axis\": \"raw_material\", \"value\": \"에탄올\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등\"}, {\"axis\": \"raw_material\", \"value\": \"자음단\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"화장품사업부문 | 원재료 | GLYCERINE, Synthetic Ethyl Alcohol 95%, JAUM BALANCING COMPLEX (자음단) 등\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"화장품사업장(오산) | 경기 오산시 가장산업동로 37 | (주)아모레퍼시픽\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"헤어앤뷰티사업장(대전) | 대전 대덕구 대화로 80 | (주)아모레퍼시픽\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"중국공장 | No. 768, Boxue South Road, Malu Town, Jiading District, Shanghai, China 201801\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 1.0, \"direction\": -1, \"evidence\": \"주2) 주요 가격변동원인: 시장 수요 변동에 따른 원재료 가격 변동 및 환율변동 등\"}]}"
+  ],
+  "text_path": "data/reports/090430_20260318000785.txt"
+}

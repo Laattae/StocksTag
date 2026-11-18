@@ -1,0 +1,122 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "자동차 램프",
+      "weight": 0.78,
+      "direction": null,
+      "evidence": "자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전동화 부품",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "미러",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "현대자동차 | 905,155,183 | 17.27% | 887,838,527 | 17.85% | 855,671,404 | 17.68%"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "현대모비스 | 904,966,666 | 17.27% | 853,364,697 | 17.16% | 735,281,662 | 15.20%"
+    },
+    {
+      "axis": "customer",
+      "value": "GM",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "GM | 843,659,696 | 16.10% | 880,380,373 | 17.70% | 726,342,990 | 15.01%"
+    },
+    {
+      "axis": "customer",
+      "value": "기아자동차",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "기아자동차 | 782,256,380 | 14.93% | 721,616,997 | 14.51% | 745,948,089 | 15.42%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "SPHC-P",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SPHC-P (1.6×1219×C) | 949/KG | 987/KG | 1,026/KG"
+    },
+    {
+      "axis": "raw_material",
+      "value": "SAPH 440-P",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SAPH 440-P (4.5×1250×C) | 1,003/KG | 1,030/KG | 998/KG"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "SL America Inc | 알라바마 | 1,560 | 1,076 | 69.0% | 테네시 | 1,020 | 938 | 92.0%"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "삼립(연태)차등유한공사 | 1,154 | 443 | 38.4%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "환위험은 환율변동으로 인하여 금융상품의 미래현금흐름에 대한 공정가치가 변동될 위험입니다. 연결기업은 해외 영업활동 등으로 인하여 USD 등의 환위험에 노출되어있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다. 연결기업은 변동이자부 단기차입금과 관련된 시장이자율 변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차 램프\",\n      \"weight\": 0.78,\n      \"direction\": null,\n      \"evidence\": \"자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동화 부품\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"미러\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"자동차 부품 전문기업으로 자동차 램프, 전동화 부품, 미러, 전자 등의 제품을 생산하여 국내외의 현대차, 기아차, GM, Ford, Stellantis, Geely 등의 OEM에 납품하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"현대자동차 | 905,155,183 | 17.27% | 887,838,527 | 17.85% | 855,671,404 | 17.68%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대모비스\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"현대모비스 | 904,966,666 | 17.27% | 853,364,697 | 17.16% | 735,281,662 | 15.20%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"GM\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"GM | 843,659,696 | 16.10% | 880,380,373 | 17.70% | 726,342,990 | 15.01%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기아자동차\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"기아자동차 | 782,256,380 | 14.93% | 721,616,997 | 14.51% | 745,948,089 | 15.42%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SPHC-P\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SPHC-P (1.6×1219×C) | 949/KG | 987/KG | 1,026/KG\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"SAPH 440-P\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SAPH 440-P (4.5×1250×C) | 1,003/KG | 1,030/KG | 998/KG\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"에스엘(주) | 성산 | 1,420 | 896 | 63.1% | 대구 | 1,330 | 1,035 | 77.8% | 천안 | 1,780 | 1,433 | 80.5% | 안산 | 1,537 | 1,069 | 69.5%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"SL America Inc | 알라바마 | 1,560 | 1,076 | 69.0% | 테네시 | 1,020 | 938 | 92.0%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"삼립(연태)차등유한공사 | 1,154 | 443 | 38.4%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"환위험은 환율변동으로 인하여 금융상품의 미래현금흐름에 대한 공정가치가 변동될 위험입니다. 연결기업은 해외 영업활동 등으로 인하여 USD 등의 환위험에 노출되어있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이자율위험은 시장이자율의 변동으로 인하여 금융상품의 공정가치나 미래현금흐름이 변동할 위험입니다. 연결기업은 변동이자부 단기차입금과 관련된 시장이자율 변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/005850_20260318000781.txt"
+}

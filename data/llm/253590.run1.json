@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "SSD 테스터",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "번인 테스터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "CXL 메모리 검사장비",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2023년 세계 최초로 CXL 1.1 메모리 검사장비 상용화 성공, 2024년 7월 CXL 2.0 검사장비 초도 납품 완료 이후 글로벌 CXL 제조사들로부터 지속적인 수주를 확보하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "현재의 메모리반도체 시장은 AI 서버 중심의 폭발적인 수요 증가로 인해 DRAM 및 HBM을 중심으로 강한 호황이 지속되고 있는 상황입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "NAND 부문도 마찬가지로 2026년에는 데이터센터 및 서버용 SSD 수요가 폭발적으로 증가하면서, 주요 CSP의 HDD→SSD 전환 가속과 함께 eSSD 중심의 수요가 구조적으로 확대되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 산업은 전통적 수요처인 모바일폰, PC, 서버 시장 뿐만 아니라 AI, Big Data, 자율주행, 5G 등 다양한 신산업에도 필수 요소로 자리매김하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IC",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "원재료 | IC | 테스트장비 제조용 | 3,573 | 14.87 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "PCB | 1,123 | 4.67 | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "챔버류",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "챔버류 | 7,493 | 31.19 | -"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "토지 | 자가 | 경기도 안양, 의왕 | 14,856,184 | 12,810,951 | (254,772)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "싱가폴",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화와 관련된 환율 변동 위험에 노출돼 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 산업 업황",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "반도체 장비 산업은 반도체 산업의 후방산업으로서 반도체 산업 업황에 크게 영향받으며, 반도체 산업의 약 10% 정도의 규모를 가지고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"SSD 테스터\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"번인 테스터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 반도체 후공정 테스터 제품군으로는 스토리지(Storage) 완제품 테스터인 SSD Tester와 컴포넌트(Component) 또는 메모리칩 단일 소자별 테스트의 MBT (Monitoring Burn-in Tester)로 나눌 수 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CXL 메모리 검사장비\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2023년 세계 최초로 CXL 1.1 메모리 검사장비 상용화 성공, 2024년 7월 CXL 2.0 검사장비 초도 납품 완료 이후 글로벌 CXL 제조사들로부터 지속적인 수주를 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"현재의 메모리반도체 시장은 AI 서버 중심의 폭발적인 수요 증가로 인해 DRAM 및 HBM을 중심으로 강한 호황이 지속되고 있는 상황입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"NAND 부문도 마찬가지로 2026년에는 데이터센터 및 서버용 SSD 수요가 폭발적으로 증가하면서, 주요 CSP의 HDD→SSD 전환 가속과 함께 eSSD 중심의 수요가 구조적으로 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 산업은 전통적 수요처인 모바일폰, PC, 서버 시장 뿐만 아니라 AI, Big Data, 자율주행, 5G 등 다양한 신산업에도 필수 요소로 자리매김하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IC\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"원재료 | IC | 테스트장비 제조용 | 3,573 | 14.87 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"PCB | 1,123 | 4.67 | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"챔버류\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"챔버류 | 7,493 | 31.19 | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"토지 | 자가 | 경기도 안양, 의왕 | 14,856,184 | 12,810,951 | (254,772)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"싱가폴\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 한국 본사 및 미국(Neosem Technology Inc.), 싱가폴(NEOSEM ASIA PTE. Ltd.), 그리고 말레이시아(NEOSEM (M) SDN. BHD.)에 판매 조직을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국달러화와 관련된 환율 변동 위험에 노출돼 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 산업 업황\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"반도체 장비 산업은 반도체 산업의 후방산업으로서 반도체 산업 업황에 크게 영향받으며, 반도체 산업의 약 10% 정도의 규모를 가지고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/253590_20260318000748.txt"
+}

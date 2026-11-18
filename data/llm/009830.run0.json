@@ -1,0 +1,263 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LDPE",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "태양광 제품 등 | 셀, 모듈 등 | 82,683 | 54.34% |"
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |"
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |"
+    },
+    {
+      "axis": "product",
+      "value": "자동차 부품",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "플라스틱제품 등 | 자동차 부품,태양광소재,산업용 소재 등 | 12,834 | 8.44% |"
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "전력망(grid)의 안정화 및 에너지의 효율성 제고를 위한 차세대 서비스형 에너지 사업도 추진 중입니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "지속 가능한 발전과 모빌리티 시장 패러다임 변화에 맞추어 전기차 배터리 하우징 등의 사업을 지속 추진하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국바스프주식회사",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "직판(70%) 대리점(28%) | 한국바스프주식회사(4%) 등 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.32,
+      "direction": null,
+      "evidence": "관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여 PE에서 PVC 및 CA, TDI에 이르기까지 일관된 생산체계를 구축한 종합화학 사업이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "웨이퍼",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "신재생에너지 | 한화솔루션(주)큐셀 부문 | M10 N 웨 이 퍼(USD/장)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PP",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "가공소재 | 한화첨단소재(주) | PP(천원/MT) |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PI Film",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "기타 | 한화이센셜(주) | PI Flim(천원/M)"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "여수 공장 | EVA, LDPE, LLDPE, VCM, EDC, ECH, PVC, HDPE, 가성소다,염소 등 | 전남 여수시 여수산단3로 117(월하동)"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "울산 공장 | EVA, LDPE, VCM 등 | 울산 남구 상개로 141(상개동)"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "공장 | 태양광 셀/모듈 생산 | 충북 진천군 이월면 산수산단2로 202"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "공장 | 태양광 모듈 생산 | 미국(Georgia 州)"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "법인 | 화합물 제조, 석유화학/태양광 제품판매 등 | 6개소(중국 닝보/상해, 태국, 말레이시아, 인도, 미국)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체의 외환위험은 미래 예상거래 및 인식된 자산ㆍ부채가 기능통화 외의 통화로 표시될 때 발생하며"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "한국충청북도 진천군, 말레이시아 셀렝고르주 사이버자야 공장 내 R&D 센터와 개발팀을 두고, 탈하임 R&D센터와 협력 하에 태양광 셀/모듈 성능 및 품질 관리"
+    },
+    {
+      "axis": "product",
+      "value": "PE",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PVC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가성소다",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "TDI",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "태양광 발전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전력망 공급 측면에서도 2026~2027년 약 70GW의 신규 태양광 설비가 추가되어 미국 태양광 운영 용량이 49% 증가할 것으로 전망됩니다"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "경량복합소재의 자동차산업의 경우 연비규제에 따른 차량 경량화 요구가 증가되고 있으며 감성품질 증대, 부품 고급화 및 전자화의 일환으로 NVH(소음,진동) 소재와 전열/전기전도성 소재의 적용이 확대되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "회로소재는 스마트폰에 주로 사용되어고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "데이터 센터가 수요 확대의 주요 원인으로 보고 있고, 상업용 전력 소비는 '25년 3%에서 '26년 5%로 증가될 것으로 예상됩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "에틸렌",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당기(FY25) 중 화학물질관리법 관련 ‘유해물질 취급 시 안전보호구 미착용’ 사유로 여수공장 ‘1차 경고’ 행정처분 1건이 발생하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국충청북도 진천군, 말레이시아 셀렝고르주 사이버자야 공장 내 R&D 센터와 개발팀을 두고"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며, 세계 경기 및 수급상황에 따라 호황과 불황이 주기적으로 반복되는 경기 순환형 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "특히 유틸리티 규모의 프로젝트들은 금융 비용 민감도가 높기 때문에, 전세계 금리 변동 영향을 크게 받고 있으며, 주택용 시장에서는 대출을 통한 자금조달로 인하여 금리 변동에 따른 수요 변화가 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "또한, 에틸렌을 원재료로 사용하기 때문에 유가와 밀접한 관계가 있으며, 수출에 따른 환율 변동 영향도 받습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LDPE\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"태양광 제품 등 | 셀, 모듈 등 | 82,683 | 54.34% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"LDPE, 가성소다, PVC 등 | 48,884 | 32.13% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차 부품\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"플라스틱제품 등 | 자동차 부품,태양광소재,산업용 소재 등 | 12,834 | 8.44% |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"전력망(grid)의 안정화 및 에너지의 효율성 제고를 위한 차세대 서비스형 에너지 사업도 추진 중입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"지속 가능한 발전과 모빌리티 시장 패러다임 변화에 맞추어 전기차 배터리 하우징 등의 사업을 지속 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국바스프주식회사\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"직판(70%) 대리점(28%) | 한국바스프주식회사(4%) 등 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.32,\n      \"direction\": null,\n      \"evidence\": \"관계기업인 YNCC로부터 에틸렌을 경쟁력 있는 가격에 구매하여 PE에서 PVC 및 CA, TDI에 이르기까지 일관된 생산체계를 구축한 종합화학 사업이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"웨이퍼\",\n      \"weight\": 0.54,\n      \"direction\": null,\n      \"evidence\": \"신재생에너지 | 한화솔루션(주)큐셀 부문 | M10 N 웨 이 퍼(USD/장)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PP\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"가공소재 | 한화첨단소재(주) | PP(천원/MT) |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PI Film\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"기타 | 한화이센셜(주) | PI Flim(천원/M)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"여수 공장 | EVA, LDPE, LLDPE, VCM, EDC, ECH, PVC, HDPE, 가성소다,염소 등 | 전남 여수시 여수산단3로 117(월하동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"울산 공장 | EVA, LDPE, VCM 등 | 울산 남구 상개로 141(상개동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"공장 | 태양광 셀/모듈 생산 | 충북 진천군 이월면 산수산단2로 202\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"공장 | 태양광 모듈 생산 | 미국(Georgia 州)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"법인 | 화합물 제조, 석유화학/태양광 제품판매 등 | 6개소(중국 닝보/상해, 태국, 말레이시아, 인도, 미국)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체의 외환위험은 미래 예상거래 및 인식된 자산ㆍ부채가 기능통화 외의 통화로 표시될 때 발생하며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이자율위험은 미래의 시장이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"한국충청북도 진천군, 말레이시아 셀렝고르주 사이버자야 공장 내 R&D 센터와 개발팀을 두고, 탈하임 R&D센터와 협력 하에 태양광 셀/모듈 성능 및 품질 관리\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PE\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PE 제품은 중국의 대규모 증설 지속, 지정학적 요인에 따른 원료가 상승, 고물가 ·고금리 장기화로 인한 전방 수요 위축 등의 영향으로 2025년에도 약세 시황이 지속되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PVC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"PVC 제품은 2025년 중국 부동산 및 건설 경기 회복 지연에 따른 수요 부진과 중국 내 신증설 물량 출현에 따른 공급과잉 심화로 가격 약보합세가 지속되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가성소다\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"CA 제품군은 1분기 알루미나 가격 강세와 니켈 등 2차전지 소재 수요가 견조하게 유지되며 가성소다 국제 가격이 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TDI\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"TDI 제품은 '25년 초 글로벌 메이커들의 가격 인상 시도로 국제 가격이 일시적으로 상승하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"태양광 발전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전력망 공급 측면에서도 2026~2027년 약 70GW의 신규 태양광 설비가 추가되어 미국 태양광 운영 용량이 49% 증가할 것으로 전망됩니다\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"경량복합소재의 자동차산업의 경우 연비규제에 따른 차량 경량화 요구가 증가되고 있으며 감성품질 증대, 부품 고급화 및 전자화의 일환으로 NVH(소음,진동) 소재와 전열/전기전도성 소재의 적용이 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"회로소재는 스마트폰에 주로 사용되어고 있어, 기존 스마트폰 시장의 경기 상황과 신제품 출시 시점 등에 영향을 많이 받는 특징이 있으나\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"데이터 센터가 수요 확대의 주요 원인으로 보고 있고, 상업용 전력 소비는 '25년 3%에서 '26년 5%로 증가될 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납사\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"에틸렌\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"미국 조지아주에 태양광 통합생산단지 '솔라허브'를 구축하여, 미국 내 생산능력 증대 및 미국산 제품 프리미엄 확보를 통한 수익성 개선을 도모하겠습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당기(FY25) 중 화학물질관리법 관련 ‘유해물질 취급 시 안전보호구 미착용’ 사유로 여수공장 ‘1차 경고’ 행정처분 1건이 발생하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한국충청북도 진천군, 말레이시아 셀렝고르주 사이버자야 공장 내 R&D 센터와 개발팀을 두고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"아울러 제조원가의 50% 이상을 원료가(납사, 에틸렌 등)가 차지하고 있어 유가 변동에 매우 민감한 산업이며, 세계 경기 및 수급상황에 따라 호황과 불황이 주기적으로 반복되는 경기 순환형 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"특히 유틸리티 규모의 프로젝트들은 금융 비용 민감도가 높기 때문에, 전세계 금리 변동 영향을 크게 받고 있으며, 주택용 시장에서는 대출을 통한 자금조달로 인하여 금리 변동에 따른 수요 변화가 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"또한, 에틸렌을 원재료로 사용하기 때문에 유가와 밀접한 관계가 있으며, 수출에 따른 환율 변동 영향도 받습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/009830_20261112000461.txt"
+}

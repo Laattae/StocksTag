@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "객실 및 식음료",
+      "weight": 0.69,
+      "direction": null,
+      "evidence": "관광호텔업 | 객실수입, 식음료수입 등 | 171,273,985 | 68.97%"
+    },
+    {
+      "axis": "product",
+      "value": "쇼핑몰 판매수수료 및 임대",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "쇼핑몰운영 | 판매수수료, 임대관리수입 | 36,984,453 | 14.89%"
+    },
+    {
+      "axis": "product",
+      "value": "주방용품 및 식기류",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "식기류 제조 및 판매 | 상품 및 제품 판매수입 | 35,027,036 | 14.11%"
+    },
+    {
+      "axis": "application",
+      "value": "관광 및 숙박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 호캉스 족 증가 및 OTA(Online Travel Agency)를 이용해 중동 등 다양한 국적의 방한 외국인 수가 증가 및 다양한 정보매체를 바탕으로 자유롭게 여행하는 개별관광객(FIT)역시 증가하고 있는 추세"
+    },
+    {
+      "axis": "application",
+      "value": "유통 및 전자상거래",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 물류시장은 온라인쇼핑몰과 전자상거래시장의 폭발적인 성장세로 인한 거래량의 증가로 물류센터에 대한 수요가 지속적으로 확대되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2017년 서울의 중심, 용산에 문을 연 서울드래곤 시티는 1,700개 객실의 규모를 갖춘 국내 최초 호텔플렉스로"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 인천 연수구에 스퀘어원이라는 복합 쇼핑몰을 운영중에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "호텔업은 비수기와 성수기의 구분이 명확하여 객실 점유율이 연간 평균 100% 수준에 이르기는 사실상 어려우며, 경기변동에 민감한 특성을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"객실 및 식음료\",\n      \"weight\": 0.69,\n      \"direction\": null,\n      \"evidence\": \"관광호텔업 | 객실수입, 식음료수입 등 | 171,273,985 | 68.97%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"쇼핑몰 판매수수료 및 임대\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"쇼핑몰운영 | 판매수수료, 임대관리수입 | 36,984,453 | 14.89%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주방용품 및 식기류\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"식기류 제조 및 판매 | 상품 및 제품 판매수입 | 35,027,036 | 14.11%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"관광 및 숙박\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 호캉스 족 증가 및 OTA(Online Travel Agency)를 이용해 중동 등 다양한 국적의 방한 외국인 수가 증가 및 다양한 정보매체를 바탕으로 자유롭게 여행하는 개별관광객(FIT)역시 증가하고 있는 추세\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유통 및 전자상거래\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 물류시장은 온라인쇼핑몰과 전자상거래시장의 폭발적인 성장세로 인한 거래량의 증가로 물류센터에 대한 수요가 지속적으로 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2017년 서울의 중심, 용산에 문을 연 서울드래곤 시티는 1,700개 객실의 규모를 갖춘 국내 최초 호텔플렉스로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 인천 연수구에 스퀘어원이라는 복합 쇼핑몰을 운영중에 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기변동\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"호텔업은 비수기와 성수기의 구분이 명확하여 객실 점유율이 연간 평균 100% 수준에 이르기는 사실상 어려우며, 경기변동에 민감한 특성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"호텔업은 국내 관광산업의 동향, 소득수준의 변화와 같은 경제상황, 국제유가, 환율 등 국내외 경기변동에 직간접적인 영향을 받고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/006730_20260319000002.txt"
+}

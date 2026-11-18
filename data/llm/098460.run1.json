@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "3D 납도포 검사장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "3D 자동 광학 검사장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "3D 반도체패키징 검사장비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "뇌수술용 의료로봇",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이러한 기술력과 수술 레퍼런스를 바탕으로 당사는 글로벌 신경외과 로봇 시장 확대 에 대응하여뇌수술용 의료로봇을 개발하였으며 2020년 첫 판매를 달성하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "3D 투명체 검사장비",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전자제품 산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체 산업",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "의료기기 산업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "3D AOI 사업부문은 서버 및 산업용 고객사 매출 확대에 힘입어 전년 대비 19.8% 증가한 117,955백만원의 매출을 기록했습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차 전장",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "3D SPI 사업부문 또한 서버 및 자동차전장 고객사 매출 확대에 힘입어 전년 대비 15.8% 증가한 86,019백만 원의 매출을 기록했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국(USD), 유럽(EUR), 일본(JPY)과 관련된 환율 변동 위험에 노출돼 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "KOH YOUNG AMERICA INC. (이하 “KYA”이라 칭함)는 2010년 7월 미국 아리조나주에 설립되었으며, 2019년 조지아주로 이전하였습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 납도포 검사장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 자동 광학 검사장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 반도체패키징 검사장비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"뇌수술용 의료로봇\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이러한 기술력과 수술 레퍼런스를 바탕으로 당사는 글로벌 신경외과 로봇 시장 확대 에 대응하여뇌수술용 의료로봇을 개발하였으며 2020년 첫 판매를 달성하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"3D 투명체 검사장비\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 제품으로는 3D 납도포 검사장비(SPI), 3D 자동 광학 검사장비(AOI), 3D 반도체패키징 검사장비(Meister, Zenstar 등), 3D 투명체 검사장비(DPI), 3D 자동 핀 검사장비(API) 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전자제품 산업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체 산업\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"의료기기 산업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사가 영위하는 사업부문이 속한 산업은 전자제품 산업과 반도체 산업이며, 신사업에서는의료기기 산업이 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"3D AOI 사업부문은 서버 및 산업용 고객사 매출 확대에 힘입어 전년 대비 19.8% 증가한 117,955백만원의 매출을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차 전장\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"3D SPI 사업부문 또한 서버 및 자동차전장 고객사 매출 확대에 힘입어 전년 대비 15.8% 증가한 86,019백만 원의 매출을 기록했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"연결회사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국(USD), 유럽(EUR), 일본(JPY)과 관련된 환율 변동 위험에 노출돼 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"KOH YOUNG AMERICA INC. (이하 “KYA”이라 칭함)는 2010년 7월 미국 아리조나주에 설립되었으며, 2019년 조지아주로 이전하였습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/098460_20260312000804.txt"
+}

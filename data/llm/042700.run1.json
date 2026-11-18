@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "HBM TC 본더",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사의 주력 장비 'HBM TC(Thermal Compression) 본더'는 메모리칩에 정밀한 열과 압력을 가해 12단, 16단과 같은 고적층 HBM을 생산하는 핵심 장비입니다."
+    },
+    {
+      "axis": "product",
+      "value": "6-SIDE INSPECTION",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "'6-SIDE INSPECTION' 장비는 TC 본딩 전후공정에서 HBM 수율을 관리하는 필수 검사 장비입니다."
+    },
+    {
+      "axis": "product",
+      "value": "micro SAW & VISION PLACEMENT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한, 'micro SAW & VISION PLACEMENT(MSVP)'는 반도체 패키지의 절단→세척→건조→2D/3D 비전 검사→선별→적재까지의 공정을 일괄 처리하는 반도체 제조공정의 필수 장비입니다."
+    },
+    {
+      "axis": "product",
+      "value": "EMI SHIELD",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "'EMI SHIELD(전자기파 차폐)'는 반도체에서 발생하는 전자파가 반도체 패키지내 다른 반도체 칩의 오작동을 유발하지 않도록 하는 공정입니다."
+    },
+    {
+      "axis": "product",
+      "value": "BOC COB 본더",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "'BOC COB 본더'는 BOC(Board On Chip)와 COB(Chip On Board) 두 가지 본딩 공정을 한 대의 장비로 처리할 수 있는 세계 최초의 투인원(Two-in-One) 본딩 장비입니다."
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "AI 서버와 데이터센터 투자 확대에 따라 고대역폭 메모리(HBM) 수요가 급증하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "AI 서버와 데이터센터 투자 확대에 따라 고대역폭 메모리(HBM) 수요가 급증하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "우주항공",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로"
+    },
+    {
+      "axis": "application",
+      "value": "저궤도 위성통신",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로"
+    },
+    {
+      "axis": "application",
+      "value": "방산용 드론",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Micron Technology",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내의 JCET스태츠칩팩코리아, ASE코리아, Amkor코리아, 삼성전기, LG이노텍, 코리아써키트, SFA반도체, 시그네틱스 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG이노텍",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내의 JCET스태츠칩팩코리아, ASE코리아, Amkor코리아, 삼성전기, LG이노텍, 코리아써키트, SFA반도체, 시그네틱스 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Bonder Modules",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Bonder Modules 外 | 제조장비용부속품 | 153,159 | 84,46"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "- 반도체 장비 사업과 관련하여 당사는 본점인 인천시 서구 가좌동에 부설연구소를 설립하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "원화 外(USD, JPY)의 통화로 진행되는 판매(수출) 및 매입(수입) 활동과 관련되어 발생하는 환위험이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"HBM TC 본더\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"당사의 주력 장비 'HBM TC(Thermal Compression) 본더'는 메모리칩에 정밀한 열과 압력을 가해 12단, 16단과 같은 고적층 HBM을 생산하는 핵심 장비입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"6-SIDE INSPECTION\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"'6-SIDE INSPECTION' 장비는 TC 본딩 전후공정에서 HBM 수율을 관리하는 필수 검사 장비입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"micro SAW & VISION PLACEMENT\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"또한, 'micro SAW & VISION PLACEMENT(MSVP)'는 반도체 패키지의 절단→세척→건조→2D/3D 비전 검사→선별→적재까지의 공정을 일괄 처리하는 반도체 제조공정의 필수 장비입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"EMI SHIELD\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"'EMI SHIELD(전자기파 차폐)'는 반도체에서 발생하는 전자파가 반도체 패키지내 다른 반도체 칩의 오작동을 유발하지 않도록 하는 공정입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BOC COB 본더\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"'BOC COB 본더'는 BOC(Board On Chip)와 COB(Chip On Board) 두 가지 본딩 공정을 한 대의 장비로 처리할 수 있는 세계 최초의 투인원(Two-in-One) 본딩 장비입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"AI 서버와 데이터센터 투자 확대에 따라 고대역폭 메모리(HBM) 수요가 급증하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"AI 서버와 데이터센터 투자 확대에 따라 고대역폭 메모리(HBM) 수요가 급증하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"우주항공\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"저궤도 위성통신\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방산용 드론\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 EMI 장비는 우주항공, 저궤도 위성통신, 방산용 드론 그리고 스마트 디바이스 시장에 필수 공정인 전자파 차폐 장비로\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Micron Technology\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내의 JCET스태츠칩팩코리아, ASE코리아, Amkor코리아, 삼성전기, LG이노텍, 코리아써키트, SFA반도체, 시그네틱스 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG이노텍\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"국내의 JCET스태츠칩팩코리아, ASE코리아, Amkor코리아, 삼성전기, LG이노텍, 코리아써키트, SFA반도체, 시그네틱스 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Bonder Modules\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"Bonder Modules 外 | 제조장비용부속품 | 153,159 | 84,46\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"- 반도체 장비 사업과 관련하여 당사는 본점인 인천시 서구 가좌동에 부설연구소를 설립하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"원화 外(USD, JPY)의 통화로 진행되는 판매(수출) 및 매입(수입) 활동과 관련되어 발생하는 환위험이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/042700_20260312001230.txt"
+}

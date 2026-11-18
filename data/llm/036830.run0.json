@@ -1,0 +1,171 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전해액",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "2차전지의 소재 중 전해액을 생산, 판매하고 있으며, 미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.)를 통해 글로벌 2차전지 고객들을 대응 중이며"
+    },
+    {
+      "axis": "product",
+      "value": "HF",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "반도체 제조 공정상 사용되는 공정용 화학 소재 / 장치 등 | CMP slurry 외 | 766,977(83%) | 반도체 | 제품 / 상품매출 | HF, B.O.E, CMP Slurry, Precursor, 라이닝 외"
+    },
+    {
+      "axis": "product",
+      "value": "OLED glass Scribing",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "대표적 매출원으로 디스플레이 패널의 한종류인 RIGID OLED용 유리 기판을 식각해 얇게 만드는 공정을 거친 패널을 수주하여 Scribing하는 임가공 용역입니다."
+    },
+    {
+      "axis": "product",
+      "value": "마스크팩",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "바이오헬스케어 | 제품매출 | 마스크팩 등 | 마스크팩 등 | 하이드로겔마스크류 외 | 111,638(20%)"
+    },
+    {
+      "axis": "product",
+      "value": "CMP Slurry",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "반도체 제조 공정상 사용되는 공정용 화학 소재 / 장치 등 | CMP slurry 외 | 766,977(83%) | 반도체 | 제품 / 상품매출 | HF, B.O.E, CMP Slurry, Precursor, 라이닝 외"
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "또한 전기자동차(EV), 대용량 전력 저장장치(ESS) 등으로 확대될 것으로 예상하고 있으며, 이럴 경우 기기 대형화에 따른 2차전지 용량 증가 및 2차전지 재료 수요도 성장할 것으로 기대된다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.25,
+      "direction": 1,
+      "evidence": "스마트폰의 슬림화 및 경량화 추세에 따라 매출이 2013년 급상승하면서 디스플레이 부문의 매출 성장을 이끌었습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.2,
+      "direction": 1,
+      "evidence": "또한 세계 각국의 친환경에너지 확대 기조에 따라 ESS용 전지에 대한 수요 역시 지속적으로 증가할 것으로 예상되며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "솔브레인에스엘디㈜의 디스플레이 사업부는 임가공업을 영위하고 있으며, 주요 고객사로는 삼성디스플레이㈜가 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성SDI",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "또한 삼성SDI, SK온, LG에너지솔루션 등의 국내 2차전지 제조사에 관련 제품을 공급하고있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "파우더류",
+      "weight": 0.55,
+      "direction": null,
+      "evidence": "2차전지 재료 | 원재료 | 파우더류 외 | 41,282 | 55 | 1,000 USD, % |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "점증제",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "바이오헬스케어 | 원재료 | 점증제 | 8,706 | 24 | 백만원, % |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "H3PO4",
+      "weight": 0.76,
+      "direction": null,
+      "evidence": "반도체 | 원재료/상품 | H3PO4 외 | 291,801 | 76.4% | 솔브레인라사 외 |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "유기재료",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "디스플레이 | 원재료/상품 | 유기재료 외 | 46,834 | 12.3% | 엠씨솔루션 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요사업장 | 주소 | 기능 | 공주공장 | 충청남도 공주시 공단길 14-36 | OLED glass Scribing, Cel l 임가공업 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "파주공장 | 경기도 파주시 문산읍 돈유2로 35 | 반도체 Probe Card 등 생산 |"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "말레이시아",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "헝가리",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결회사는 국제적인 영업활동을 영위하고 있기 때문에 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전방산업 수요",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다. 이에 따라 당사의 영업환경은 전방산업의 변동과 국제 경기의 흐름에 영향을 받게 됩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전해액\",\n      \"weight\": 0.43,\n      \"direction\": null,\n      \"evidence\": \"2차전지의 소재 중 전해액을 생산, 판매하고 있으며, 미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.)를 통해 글로벌 2차전지 고객들을 대응 중이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HF\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 공정상 사용되는 공정용 화학 소재 / 장치 등 | CMP slurry 외 | 766,977(83%) | 반도체 | 제품 / 상품매출 | HF, B.O.E, CMP Slurry, Precursor, 라이닝 외\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"OLED glass Scribing\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"대표적 매출원으로 디스플레이 패널의 한종류인 RIGID OLED용 유리 기판을 식각해 얇게 만드는 공정을 거친 패널을 수주하여 Scribing하는 임가공 용역입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"마스크팩\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"바이오헬스케어 | 제품매출 | 마스크팩 등 | 마스크팩 등 | 하이드로겔마스크류 외 | 111,638(20%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"CMP Slurry\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 공정상 사용되는 공정용 화학 소재 / 장치 등 | CMP slurry 외 | 766,977(83%) | 반도체 | 제품 / 상품매출 | HF, B.O.E, CMP Slurry, Precursor, 라이닝 외\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기자동차\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"또한 전기자동차(EV), 대용량 전력 저장장치(ESS) 등으로 확대될 것으로 예상하고 있으며, 이럴 경우 기기 대형화에 따른 2차전지 용량 증가 및 2차전지 재료 수요도 성장할 것으로 기대된다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.25,\n      \"direction\": 1,\n      \"evidence\": \"스마트폰의 슬림화 및 경량화 추세에 따라 매출이 2013년 급상승하면서 디스플레이 부문의 매출 성장을 이끌었습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.2,\n      \"direction\": 1,\n      \"evidence\": \"또한 세계 각국의 친환경에너지 확대 기조에 따라 ESS용 전지에 대한 수요 역시 지속적으로 증가할 것으로 예상되며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 삼성전자, SK하이닉스, 삼성디스플레이, LG디스플레이 등 국내 반도체 및 디스플레이 제조사에 공정용 화학 소재 등을 안정적으로 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"솔브레인에스엘디㈜의 디스플레이 사업부는 임가공업을 영위하고 있으며, 주요 고객사로는 삼성디스플레이㈜가 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성SDI\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"또한 삼성SDI, SK온, LG에너지솔루션 등의 국내 2차전지 제조사에 관련 제품을 공급하고있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"파우더류\",\n      \"weight\": 0.55,\n      \"direction\": null,\n      \"evidence\": \"2차전지 재료 | 원재료 | 파우더류 외 | 41,282 | 55 | 1,000 USD, % |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"점증제\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"바이오헬스케어 | 원재료 | 점증제 | 8,706 | 24 | 백만원, % |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"H3PO4\",\n      \"weight\": 0.76,\n      \"direction\": null,\n      \"evidence\": \"반도체 | 원재료/상품 | H3PO4 외 | 291,801 | 76.4% | 솔브레인라사 외 |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유기재료\",\n      \"weight\": 0.12,\n      \"direction\": null,\n      \"evidence\": \"디스플레이 | 원재료/상품 | 유기재료 외 | 46,834 | 12.3% | 엠씨솔루션 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요사업장 | 주소 | 기능 | 공주공장 | 충청남도 공주시 공단길 14-36 | OLED glass Scribing, Cel l 임가공업 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"파주공장 | 경기도 파주시 문산읍 돈유2로 35 | 반도체 Probe Card 등 생산 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"말레이시아\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"헝가리\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"미국(Soulbrain MI, Inc.), 말레이시아(Soulbrain E&I Malaysia SDN BHD), 헝가리(Soulbrain HU Kft.) 등에 주요 생산법인이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 국제적인 영업활동을 영위하고 있기 때문에 외환위험, 특히 주로 미국달러화 및 일본엔화와 관련된 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전방산업 수요\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"당사가 속해 있는 반도체, 디스플레이, 2차전지 등의 전방산업은 국제 경기에 영향을 받는 산업입니다. 이에 따라 당사의 영업환경은 전방산업의 변동과 국제 경기의 흐름에 영향을 받게 됩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/036830_20260318001251.txt"
+}

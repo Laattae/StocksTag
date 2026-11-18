@@ -1,0 +1,207 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "과산화수소",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "박막소재",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘음극재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이차전지용 소재인 음극바인더, 분리막바인더, 실리콘음극재 등을 개발 및 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "라텍스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제지산업에서 부재료로 사용되는 라텍스외 제지약품, 폐수처리 등에 사용되는 고분자응집제 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "고분자응집제",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "제지산업에서 부재료로 사용되는 라텍스외 제지약품, 폐수처리 등에 사용되는 고분자응집제 등을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "차아황산소다",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "BPO",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "QD",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "이차전지",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "이차전지용 소재인 음극바인더, 분리막바인더, 실리콘음극재 등을 개발 및 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "제지",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "섬유",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "TSMC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "당사의 주요 매출처로는 삼영순화, 삼성디스플레이, 한솔제지, Innos Taiwan, 미래나노텍 등이 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "당사의 주요 매출처로는 LG에너지솔루션, 삼성SDI, 삼성디스플레이, 삼성전기, 무라타, SK온, 이마트, 농협, 스타벅스, 아성다이소 등이 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "BZC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "정밀화학 원료 3,567(1.5%) 테크노화인켐"
+    },
+    {
+      "axis": "raw_material",
+      "value": "ECH",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제지/환경, 정밀화학 원료 825(0.4%) 롯데정밀화학"
+    },
+    {
+      "axis": "raw_material",
+      "value": "IA",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제지/환경 원료 1,502(0.6%) 애경케미칼"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MAM",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제지/환경 원료 3,283(1.4%) 에스엔에프코리아"
+    },
+    {
+      "axis": "raw_material",
+      "value": "MCA",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "제지/환경 원료 5,318(2.3%) 솔레니스코리아"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "정밀화학 울산공장 78.0 78.0 78.0"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전주공장 자가 전주 토 지 23,735 -"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원유가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "국제 원유가격 및 기초 석유화학 제품 가격의 변동과 원재료별 수급상황 변화 등으로원재료 구입가격이 원재료별로 차별적인 움직임을 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "기초 석유화학 제품 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "국제 원유가격 및 기초 석유화학 제품 가격의 변동과 원재료별 수급상황 변화 등으로원재료 구입가격이 원재료별로 차별적인 움직임을 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체라인 증설",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "특히 고객사의 반도체라인 증설에 따라, 초고순도 과산화수소의 수요량이 꾸준히 증가하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"과산화수소\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"박막소재\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘음극재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이차전지용 소재인 음극바인더, 분리막바인더, 실리콘음극재 등을 개발 및 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라텍스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제지산업에서 부재료로 사용되는 라텍스외 제지약품, 폐수처리 등에 사용되는 고분자응집제 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고분자응집제\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"제지산업에서 부재료로 사용되는 라텍스외 제지약품, 폐수처리 등에 사용되는 고분자응집제 등을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차아황산소다\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"BPO\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"QD\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"반도체 공정에서 반도체 박막을 형성하는 데에 사용하는 박막소재(Precursor), 디스플레이 제조에 사용되는 Resin 및 QD 등 전자소재 제품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"이차전지\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"이차전지용 소재인 음극바인더, 분리막바인더, 실리콘음극재 등을 개발 및 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"제지\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"섬유\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"반도체, 디스플레이, 제지 및 섬유에 사용되는 과산화수소, 섬유에 사용되는 차아황산소다, Polymer 합성시 중합개시제로 주로 사용되는 BPO를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"TSMC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"삼성전자, SK하이닉스, TSMC 등 글로벌 주요 반도체 업체들에 판매하고 있으며, 대만, 중국, 미국 등에 판매를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성디스플레이\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 매출처로는 삼영순화, 삼성디스플레이, 한솔제지, Innos Taiwan, 미래나노텍 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG에너지솔루션\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 매출처로는 LG에너지솔루션, 삼성SDI, 삼성디스플레이, 삼성전기, 무라타, SK온, 이마트, 농협, 스타벅스, 아성다이소 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"BZC\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"정밀화학 원료 3,567(1.5%) 테크노화인켐\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"ECH\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제지/환경, 정밀화학 원료 825(0.4%) 롯데정밀화학\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IA\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제지/환경 원료 1,502(0.6%) 애경케미칼\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MAM\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제지/환경 원료 3,283(1.4%) 에스엔에프코리아\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"MCA\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"제지/환경 원료 5,318(2.3%) 솔레니스코리아\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"정밀화학 울산공장 78.0 78.0 78.0\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전주공장 자가 전주 토 지 23,735 -\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원유가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"국제 원유가격 및 기초 석유화학 제품 가격의 변동과 원재료별 수급상황 변화 등으로원재료 구입가격이 원재료별로 차별적인 움직임을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"기초 석유화학 제품 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"국제 원유가격 및 기초 석유화학 제품 가격의 변동과 원재료별 수급상황 변화 등으로원재료 구입가격이 원재료별로 차별적인 움직임을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체라인 증설\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"특히 고객사의 반도체라인 증설에 따라, 초고순도 과산화수소의 수요량이 꾸준히 증가하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/014680_20260318001424.txt"
+}

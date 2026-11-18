@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "택배",
+      "weight": 0.31,
+      "direction": null,
+      "evidence": "택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%"
+    },
+    {
+      "axis": "product",
+      "value": "포워딩",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "글로벌사업부문 | 항공/해상 포워딩, 국제특송 및 프로젝트 물류 | 4,359,928 | 35.4%"
+    },
+    {
+      "axis": "product",
+      "value": "항만하역",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "CL사업부문 | 항만하역, 창고운영 및 운송 | 3,373,592 | 27.5%"
+    },
+    {
+      "axis": "product",
+      "value": "종합건설",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "건설사업부문 | 종합건설, 리조트 | 805,397 | 6.6%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "경유",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "레미콘",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "회사가 구입하는 주요 자재는 시황성 자재인 레미콘, 이형철근으로 주요 거래업체는 유진기업, 삼표 등 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "이형철근",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "회사가 구입하는 주요 자재는 시황성 자재인 레미콘, 이형철근으로 주요 거래업체는 유진기업, 삼표 등 입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "연결기업은 해운영업, 해외영업과 관련한 국내외 운송거래시 주로 USD, SGD 등의 환율 변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "※ 경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "연결기업의 이자율위험은 미래의 금융시장 변화에 따라 예상치 못한 시장금리 변동으로 이자비용 변동에 노출되어 있는 위험으로서"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"택배\",\n      \"weight\": 0.31,\n      \"direction\": null,\n      \"evidence\": \"택배사업부문 | 택배, 이커머스 물류 | 3,745,735 | 30.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"포워딩\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"글로벌사업부문 | 항공/해상 포워딩, 국제특송 및 프로젝트 물류 | 4,359,928 | 35.4%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항만하역\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"CL사업부문 | 항만하역, 창고운영 및 운송 | 3,373,592 | 27.5%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"종합건설\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"건설사업부문 | 종합건설, 리조트 | 805,397 | 6.6%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"경유\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사에서 사용하는 주원재료는 경유이며, 구입비용은 아래 표와 같습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"레미콘\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"회사가 구입하는 주요 자재는 시황성 자재인 레미콘, 이형철근으로 주요 거래업체는 유진기업, 삼표 등 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"이형철근\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"회사가 구입하는 주요 자재는 시황성 자재인 레미콘, 이형철근으로 주요 거래업체는 유진기업, 삼표 등 입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"해외사업은 미국, 인도, 베트남 등 전세계에 걸쳐 39개국 115개 법인 운영을 통하여\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"연결기업은 해운영업, 해외영업과 관련한 국내외 운송거래시 주로 USD, SGD 등의 환율 변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"※ 경유 비용은 국제유가 하락 등으로 14.8% 감소하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"연결기업의 이자율위험은 미래의 금융시장 변화에 따라 예상치 못한 시장금리 변동으로 이자비용 변동에 노출되어 있는 위험으로서\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000120_20260316001417.txt"
+}

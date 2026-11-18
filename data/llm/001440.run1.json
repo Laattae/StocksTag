@@ -1,0 +1,123 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전력 및 절연선",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "전력 및 절연선 | 7,061 | 19.4% | -"
+    },
+    {
+      "axis": "product",
+      "value": "나선 및 권선",
+      "weight": 0.51,
+      "direction": null,
+      "evidence": "나선 및권선 | 통신선,전력선,권선 등의 도체용 및 전기기기의 내부에 코일상태로 감겨져서 기계적 에너지를 전기적 에너지로 변환시키거나 전기적 에너지를 기계적 에너지로변환시키는데 사용 | 18,447 | 50.7% | -"
+    },
+    {
+      "axis": "product",
+      "value": "통신케이블",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "통신케이블 | 건물 내외, 철도, 지하철 등에 DATA,VOICE, 영상 등을 전송하는 통신망과이동통신 기지국이나 실내 중계기 등무선통신망 구축에 사용 | 317 | 0.9% | -"
+    },
+    {
+      "axis": "product",
+      "value": "초고압케이블",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해저케이블",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해상풍력 내외부망 해저케이블 생산을 위한 해저 1공장은 2025년 6월 종합 준공해 가동 중이며"
+    },
+    {
+      "axis": "product",
+      "value": "HVDC케이블",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "640kV HVDC 해저케이블 생산을 위한 VCV(Vertical Continuous Vulcanization) 설비를 갖춘 해저2공장은 2025년 9월 착공하여 건설하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "케이블 공장 | 당진 | 충청남도 당진시 고대면 대호만로 870"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "남아공",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "사우디",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근에는 재생에너지 확대, 전력망 고도화, 데이터센터 증설 등으로 초고압, HVDC 및 해저케이블 등 고부가가치 제품의 수요 비중이 확대되는 추세입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "동(Copper), 알루미늄 등 주요 원자재 가격 변동이 제품 가격 및 수익성에 영향을 미치는 구조를 가지고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 가격변동원인 : 국제고시 전기동 가격의 변동 및 환율변동"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력 및 절연선\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"전력 및 절연선 | 7,061 | 19.4% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"나선 및 권선\",\n      \"weight\": 0.51,\n      \"direction\": null,\n      \"evidence\": \"나선 및권선 | 통신선,전력선,권선 등의 도체용 및 전기기기의 내부에 코일상태로 감겨져서 기계적 에너지를 전기적 에너지로 변환시키거나 전기적 에너지를 기계적 에너지로변환시키는데 사용 | 18,447 | 50.7% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"통신케이블\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"통신케이블 | 건물 내외, 철도, 지하철 등에 DATA,VOICE, 영상 등을 전송하는 통신망과이동통신 기지국이나 실내 중계기 등무선통신망 구축에 사용 | 317 | 0.9% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초고압케이블\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 초고압케이블, 통신케이블, Copper Rod 등을 생산, 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해저케이블\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해상풍력 내외부망 해저케이블 생산을 위한 해저 1공장은 2025년 6월 종합 준공해 가동 중이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HVDC케이블\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"640kV HVDC 해저케이블 생산을 위한 VCV(Vertical Continuous Vulcanization) 설비를 갖춘 해저2공장은 2025년 9월 착공하여 건설하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기동\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며, 주요 전기동 산지에서 직수입 하거나 국내 동제련 업체에서 구입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사의 제품의 경우 전기동 및 알루미늄이 주된 원재료이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"케이블 공장 | 당진 | 충청남도 당진시 고대면 대호만로 870\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"남아공\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"사우디\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"주요 생산설비의 경우 국내(당진공장, 전력기기공장)와 해외(베트남, 남아공, 사우디)에 다수 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대한전선의 주요 매출처는 한국전력공사, (주)대원전선, (주)삼동, (주)경신전선 입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근에는 재생에너지 확대, 전력망 고도화, 데이터센터 증설 등으로 초고압, HVDC 및 해저케이블 등 고부가가치 제품의 수요 비중이 확대되는 추세입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"동(Copper), 알루미늄 등 주요 원자재 가격 변동이 제품 가격 및 수익성에 영향을 미치는 구조를 가지고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 가격변동원인 : 국제고시 전기동 가격의 변동 및 환율변동\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/001440_20260318001418.txt"
+}

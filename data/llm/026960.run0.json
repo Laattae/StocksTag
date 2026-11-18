@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "식자재",
+      "weight": 0.56,
+      "direction": null,
+      "evidence": "식품사업부문 | 식자재, 수입음료 등 | 299,641,127 | 56.2"
+    },
+    {
+      "axis": "product",
+      "value": "포장재",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6"
+    },
+    {
+      "axis": "product",
+      "value": "커피류",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "동서물산(주)은 커피제품 포장/판매를 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "크리머",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "구매수출부문 | 크리머 수출, 원부자재 구매대행 | 104,402,677 | 19.6"
+    },
+    {
+      "axis": "product",
+      "value": "현미녹차",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 곡류가공품 등 식품, 식품용 연포장 필름 등포장재, 커피 및 현미녹차ㆍ둥굴레차 등 다류를 생산 또는 수입하여 판매하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "야자유",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "치즈류",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄 호일",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"식자재\",\n      \"weight\": 0.56,\n      \"direction\": null,\n      \"evidence\": \"식품사업부문 | 식자재, 수입음료 등 | 299,641,127 | 56.2\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"포장재\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"제조부문 | 포장재, 다류, 커피제품 포장/판매 | 120,333,733 | 22.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피류\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"동서물산(주)은 커피제품 포장/판매를 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"크리머\",\n      \"weight\": 0.19,\n      \"direction\": null,\n      \"evidence\": \"구매수출부문 | 크리머 수출, 원부자재 구매대행 | 104,402,677 | 19.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"현미녹차\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 곡류가공품 등 식품, 식품용 연포장 필름 등포장재, 커피 및 현미녹차ㆍ둥굴레차 등 다류를 생산 또는 수입하여 판매하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"야자유\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"치즈류\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄 호일\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 야자유, 치즈류, 과채가공품, 음료 등 식품군과 PET필름ㆍ알루미늄 호일ㆍLDPE 수지 등을 수입 또는 국내매입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 수입의존도가 높기 때문에 환율, 국제 원자재 가격의 변화에 민감하게 반응하는 특성이 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/026960_20260312000207.txt"
+}

@@ -1,0 +1,794 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 7,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "휘발유",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "휘발유 | 자동차 연료 | 4,927,286 | 18%"
+    },
+    {
+      "axis": "product",
+      "value": "경유",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "경유 | 산업용, 차량용 연료 | 9,768,203 | 34%"
+    },
+    {
+      "axis": "product",
+      "value": "원유운반선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원유운반선, 컨테이너선, 정유제품운반선, LNG선, 군함 外"
+    },
+    {
+      "axis": "product",
+      "value": "LNG선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원유운반선, 컨테이너선, 정유제품운반선, LNG선, LPG선 外"
+    },
+    {
+      "axis": "product",
+      "value": "전력변압기",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "전력변압기, 고압차단기 外"
+    },
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "산업용로봇 | 210,573(80%) |"
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "태양광모듈, 제어시스템 등 신재생에너지, 수소연료전지 外"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사에서 생산된 제품들은 자동차, 비행기, 선박 등의 에너지원에서부터 석유화학제품의 기초원료까지 다양한 용도로 사용되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "선박용엔진, 디젤발전설비 外"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "신재생 발전원 설치 증가, AI 시장과 데이터센터 건설 확대에 따른 전력 수급 변동성 증가로 인해 국내 및 글로벌 전력 시장에서의 ESS 수요는 당분간 계속될 것으로 전망합니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Aramco Trading Singapore Pte. Ltd.",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "매출액 10% 이상을 차지하는 주요 매출처는 Aramco Trading Singapore Pte. Ltd.입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "사우디전력청",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료인 원유는 전량 수입에 의존하고 있으며, 주로 중동지역에서 원유를 수입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "콘덴세이트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이 외에 콘덴세이트는 Qatar Energy 등과 계약을 도입하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "후판",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "STEEL PLATE : 스틸데일리 공시기준(시중 유통가, SS275 20T)"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "충청남도 서산시 대산읍에 원유처리능력 최대 일 520,000배럴 및 콘덴세이트 일 170,000배럴의 원유정제 시설과 고도화 설비를 통해"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "금년 9월에는 미국 텍사스주에서 추진되는 200MWh급 ESS 사업의 EPC 계약을 남부발전으로부터 수주했고"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "이에 따라 당사는 중국 판매법인을 설립하여 시장 수요에 대응하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원유를 주요 원재료로 사용하기에 유가 변동위험에 노출되어 있으며, 이 외에 환율 변동위험, 이자율 변동위험에도 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "원유를 주요 원재료로 사용하기에 유가 변동위험에 노출되어 있으며, 이 외에 환율 변동위험, 이자율 변동위험에도 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "선박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "조 선 | 제 품 | 선박 外 | 수 출 | 23,469,411 | 20,018,322 | 14,701,450"
+    },
+    {
+      "axis": "product",
+      "value": "엔진",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "엔진기계 | 〃 | 엔진류,기계 설비 外 | 수 출 | 2,513,234 | 2,012,801 | 1,534,981"
+    },
+    {
+      "axis": "product",
+      "value": "석유류제품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "석유류제품 | 2025.01.01 | 2025.12.31 | 188,010 | 166,426 | 188,010 | 166,426 | - | - | 한국군"
+    },
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전기전자부 문 | 전력변압기 | HD현대일렉트릭(주) | 380대 | 360대 | 360대"
+    },
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "건설기계 | 굴착기 외 | HD건설기계㈜ | 24,540대 | 21,540대 | 17,640대"
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "산업용/FPD로봇 등 | 대구 | 8,640 대 | 8,640 대 | 8,640 대"
+    },
+    {
+      "axis": "product",
+      "value": "지게차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "산업차량 | 소형/중형/전동지게차 | 울산공장 | 20,000대 | 20,000대 | 20,000대"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 대형조선소 친환경 연료 적용 선박에 수주 협력 강화 (경쟁사 대비 높은 실적을 바탕으로"
+    },
+    {
+      "axis": "application",
+      "value": "발전",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전력청 및 국내외 공공/민간 발전사업체, EPC 업체와 자가발전설비 구축"
+    },
+    {
+      "axis": "customer",
+      "value": "Aramco Trading Singapore Pte. Ltd.",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "매출액 비중 10% 이상을 차지하는 주요매출처는 Aramco Trading Singapore Pte. Ltd.(매출액 비중 11.9%)입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국군",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "석유류제품 | 2025.01.01 | 2025.12.31 | 188,010 | 166,426 | 188,010 | 166,426 | - | - | 한국군"
+    },
+    {
+      "axis": "customer",
+      "value": "수협중앙회",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "석유류제품 | 2025.01.01 | 2025.12.31 | 155,995 | 126,588 | 155,995 | 126,588 | - | - | 수협중앙회"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "구리(TON) | 9,965 | 9,288 | 8,489"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "니켈(TON) | 15,447 | 17,141 | 21,528"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원유(bbl) | 69.13 | 79.45 | 82"
+    },
+    {
+      "axis": "raw_material",
+      "value": "후판",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "STEEL PLATE(TON) | 914,038원 | 958,653원 |  1,130,193원"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 성남시 분당구를 비롯하여 서울, 울산, 안성, 청주 등 국내사업장 및 미국, 중국"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서 주요 제품에 대한"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서 주요 제품에 대한"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "단기적인 가격변동은 크지 않으나, 환율 등에 따라 가격이 변동함."
+    },
+    {
+      "axis": "product",
+      "value": "친환경솔루션",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "AM솔루션(선박부품, 육상발전 등), 유류(벙커링), 친환경솔루션(개조공사 등),디지털솔루션, 기타"
+    },
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "변압기, 고압차단기중저압차단기, 회전기배전반, 전력제어 外"
+    },
+    {
+      "axis": "product",
+      "value": "건설기계",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "건설기계 (굴착기, 휠로더 등)"
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "산업용로봇"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "외화 장기도급 계약체결 시점과 실제 수금 시점 사이의 환율변동으로 인한 영업이익의 불확실성"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "원유 및 제품 가격 차이 변동에 따른 손익 변동 위험, 고정가 및 전월가 판매 제품의 가격 변동으로 인한 손익변동 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결회사의 이자율 변동위험은 주로 예금 및 변동금리부 차입금 계약으로부터 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "고압차단기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "회전기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "ㆍ고출력 및 고발전량 모듈 기술개발 (설계/자재/공정) ㆍ태양광 모듈 사용처 다변화를 위한 application 기술 개발 ㆍ모듈 신규 자재 및 다원화 자재 평가"
+    },
+    {
+      "axis": "product",
+      "value": "제어시스템",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 HD현대 그룹의 조선해양 부문 계열회사로서, 자체 제품인 박용 제어시스템(브랜드명 HiCONiS)의 기능 고도화 및 적용 확대를 위한 연구개발 활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "당사는 해외 고객등과의 무역거래에서 발생하는 외화 수금이 원자재 수입으로 인한 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 주요 위험이라고 할 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원자재 가격 변동 위험을 회피할 목적으로 금융기관과 파생상품계약을 체결하고 있으며, 모든 파생상품의 공정가치는 거래은행이 제공한 선물가격을 이용하여 평가하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ㆍ(주) 경기도 성남시 분당구 분당수서로 477 6층, 8층, 19층ㆍ(부) 울산광역시 동구 방어진순환도로 1000"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ㆍ(주) 경기도 성남시 분당구 분당수서로 477 6층, 8층, 19층ㆍ(부) 울산광역시 동구 방어진순환도로 1000"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "ㆍ전라남도 영암군 삼호읍 대불로 93"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Room10102, Building10,NO.498, Guoshoujing Road,China (Shanghai) Pilot Free Trade Zone,Shanghai,China"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Peter-Muller -Strasse 14, 40468 Dusseldorf, Germany"
+    },
+    {
+      "axis": "product",
+      "value": "석유제품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "정유산업에서 생산되는 석유제품은 자동차, 비행기, 선박 등의 에너지원에서부터 석유화학제품의 기초원료까지 다양한 용도로 사용되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "윤활기유",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "윤활기유는 윤활유의 원재료로 윤활유의 80~85%를 구성하고 있으며 윤활기유에 산화방지제, 내마모제 등 각종 첨가물을 혼합하여 윤활유가 만들어집니다."
+    },
+    {
+      "axis": "product",
+      "value": "기초유화",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "기초유화산업은 납사(Naphtha) 분해설비를 통해 생산되는 에틸렌, 프로필렌 등의 올레핀계 제품과 납사(Naphtha) 개질설비에서 벤젠, 톨루엔, 자일렌 등의 방향족 제품을 생산하는 기초 소재산업으로"
+    },
+    {
+      "axis": "product",
+      "value": "선박",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "글로벌 발주 둔화 우려에도 불구하고 LNG선을 중심으로 한 고부가가치 선종 수요가 견조하게 유지되며 성장성을 확보할 것으로 보입니다."
+    },
+    {
+      "axis": "product",
+      "value": "엔진",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "엔진기계사업은 선박의 추진 및 발전기용 엔진을 주요 제품으로 하며, 조선산업과 밀접한 관련이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "그린에너지 사업부문은 이와같은 태양광 산업 밸류체인 내에서 셀, 모듈, 시스템 및 설치 사업을 주력으로 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "조선산업은 대형 건조설비를 필수적으로 갖추어야 하기 때문에 막대한 설비투자가 필요한 장치산업이자 자본 집약적 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해운",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사업특성상 전방산업인 해운산업의 시황에 많은 영향을 받고 있으며, 후방산업인 철강·기계산업 등에 대한 파급효과가 매우 큽니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전기차 보급 및 AI 인프라 구축을 위한 데이터센터 투자 증가 등 전기화 트렌드가 지속적으로 이어 짐에 따라 기존 전력 인프라의 노후화에 따른 분산전원에 대한 수요와빠른 시간 내 전기접속을 원하는 고객의 수요 충족이 가능한 연료전지 산업이 차세대발전원 역할을 할 것으로 예상되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "선주사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이에 따른 각 선주사들의 선대 개편은 필연적인 사항으로, 신조 발주 물량이 단기적으로는 감소될 수 있으나 중장기적 흐름속에서 친환경 연료 엔진 수요는 더욱 증가할 것으로 전망되고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "정유산업의 원재료인 원유는 전량 수입에 의존하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원유 및 초경질유의 일종인 콘덴세이트에서 추출하는 납사를 원료로 사용하는 산업 특성상 유가 변동에 민감하게 반응하며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주) 경기도 성남시 분당구 분당수서로 477 (부) 울산광역시 동구 고늘로 77 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기술연구소 | (주) 경기도 성남시 분당구 분당수서로 477 (부) 울산광역시 동구 고늘로 77 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "유가 변동에 따라 원가는 즉시 반영되는 반면 윤활기유 제품 가격은 후행하는 특징을가지고 있어 윤활기유 판매는 유가 영향에 따른 수익성 차이를 보이고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "수출이 매출의 대부분을 차지하고 있어 세계 경기동향(환율, 금리, 유가 등)에 많은 영향을 받고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "다만, 글로벌 시장은 고금리 기조와 전력 계통(Grid) 포화 등의 영향으로 과거급팽창기 대비 성장 속도가 완만해지고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "연료전지",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "다가올 수소경제에 핵심 기술인 연료전지/전해조 주기기 납품 및 유지보수 사업을 위한 전문 기업이 되기 위해 '24년 8월 설립되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전해조",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고체산화물 연료전지(SOFC) 및 전해조(SOEC) 기술을 활용하여 다양한 산업 영역으로의 확장을 목표로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "연료공급장치",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "LNG·LPG·암모니아·메탄올 등 대체연료 추진선박 발주가 증가함에 따라 연료공급장치 및 재액화·재기화 등 가스처리 설비의 수요가 확대되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "크레인",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "HD Hyundai Eco Vina Co. Ltd.(舊. Doosan Enerbility Vietnam Co., Ltd.)는 기 수주된 크레인과 모듈을 생산중이며, 향후 항만 크레인과 독립형 탱크를 생산할 계획입니다."
+    },
+    {
+      "axis": "product",
+      "value": "독립형 탱크",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "독립형 탱크는 LPG·암모니아 운반선 및 친환경 연료 추진선(LNG)의 필수 기자재로서, IMO 환경 규제 강화에 따른 전방 산업의 수요가 지속적으로 확대되는 추세입니다."
+    },
+    {
+      "axis": "product",
+      "value": "태양광 모듈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 생산품인 태양광 모듈은 생산과정에서 주로 전기를 사용하여 간접적으로 온실가스를 배출합니다."
+    },
+    {
+      "axis": "product",
+      "value": "전력변압기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기전자기기 제품은 전력 공급의 단계에 따라 송전 단계(고압, 통상 50kV 이상)에서 사용되는 전력변압기, 고압차단기 등 전력기기"
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "선박 기자재 산업은 선박의 운항·적재·연료공급·에너지 효율 등에 필요한 핵심 장치를 설계·제작·공급하는 산업으로"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "추가로, 전력 소비가 많은 인공지능(AI) 산업과 데이터센터, 반도체 공장 건설 확대에 따른 대규모 전력기기 설비 투자가 이어질 것으로 예상됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업장 내 폐수처리장에서 처리된 폐수는 법적 기준치보다 엄격한 사내기준으로 관리되어 울산시 방어진수질개선사업소로 유입되며"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "HD Hyundai Asia Holdings Pte. Ltd.는 '25년 12월말 현재 베트남, 필리핀에 자회사를 둔 순수지주회사 형태로 운영되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "필리핀",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "HD Hyundai Asia Holdings Pte. Ltd.는 '25년 12월말 현재 베트남, 필리핀에 자회사를 둔 순수지주회사 형태로 운영되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "국제 에너지 가격, 환율, 원자재 가격 변동은 기자재의 생산 원가에 영향을 미쳐 사업 안정성에 중요한 변동 요인으로 작용합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "국제 에너지 가격, 환율, 원자재 가격 변동은 기자재의 생산 원가에 영향을 미쳐 사업 안정성에 중요한 변동 요인으로 작용합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "조선산업과 마찬가지로 수출이 매출의 대부분을 차지하고 있어 세계 경기동향(환율, 금리, 유가 등)에 많은 영향을 받고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "전력변압기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전력변압기, 고압차단기 등 고압 제품은 제품의 신뢰성이 요구되는 특성에 따라 제품 선정 시 Track-record가 특히 중요하게 작용하며"
+    },
+    {
+      "axis": "product",
+      "value": "고압차단기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전력변압기, 고압차단기 등 고압 제품은 제품의 신뢰성이 요구되는 특성에 따라 제품 선정 시 Track-record가 특히 중요하게 작용하며"
+    },
+    {
+      "axis": "product",
+      "value": "배전반",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "배전반 | 2025년 12월 | 절연 부싱 | 특허법 | 3명 | 상용 예정 |"
+    },
+    {
+      "axis": "product",
+      "value": "중저압차단기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중저압차단기 | 2025년 11월 | 기중차단기 전류센서 시스템 | 특허법 | 1명 | 상용화 |"
+    },
+    {
+      "axis": "product",
+      "value": "에너지저장장치",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 약 10년간 다양한 프로젝트를 통해 누적 1.6GWh 이상의 맞춤형 ESS를 공급해온 한편, 최근 미국 텍사스 200MWh급 루틸 BESS 프로젝트의 EPC 계약을 체결하고 현지 법인을 설립하는 등 글로벌 BESS 시장 확대를 추진하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "지게차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "산업차량 산업은 지게차 제조, 판매 및 A/S 중심에서 물류창고 설계, 물류 자동화 영역까지 사업영역이 확대되고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "굴착기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "건설기계는 도로·건물 건설 등 대규모 인프라 구축부터 광산, 농업, 산림 등 다양한 환경에서 굴삭, 자재운반, 파쇄 등의 작업에 활용되는 기계장치입니다."
+    },
+    {
+      "axis": "product",
+      "value": "산업용로봇",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "IFR(International Federation of Robotics, 국제로봇연맹)은 산업용로봇은 각 산업의 제조현장에서 제품 생산부터 출하까지 공정내 작업을 수행하기위한 로봇을 말하며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전력 소비가 많은 인공지능(AI) 산업과 데이터센터, 반도체 공장 건설 확대에 따른 대규모 전력기기 설비 투자가 이어질 것으로 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "신재생 에너지 발전이 확대되면서 전력계통의 안전성 확보가 주요 과제로 떠오르고 있으며, 전기차 확대 등 에너지 소비의 전기화(Electrification) 추세로 지속적인 송배전 인프라 투자가 필요한 상황입니다."
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전 세계 선박 시장에서는 컨테이너선과 LNG선을 비롯한 대형 선박 중심의 수요가 이어지는 가운데, 메탄올 추진선과 암모니아 추진선 등 친환경 선박 발주가 확대되면서 선박용 전장품 시장도 꾸준히 성장하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "로봇산업은 로봇의 완성품이나 부품을 제조, 판매, 서비스하는 산업을 말하며, 자동차 산업과 같은 기계산업과 PC나 반도체 산업과 같은 IT산업의 특징을 모두 가지고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "최근에는 증가하는 미국 시장 수요에 대응하고자 울산 변압기 철심공장 및 미국 알라바마 공장 변압기 전문보관장 준공으로 생산 능력을 확충하였으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 미국에 위치한 종속법인인 HD Hyundai Power Transformers USA, INC.를 활용하여 미국 정부의 자국우선주의/Buy America 정책에 적극 대응하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중국 시장은 농촌의 도시화, 인프라 건설, 환경 보호 강화에 따른 장비 교체 수요 증가로 시장이 지속적으로 성장하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 글로벌 업체 간 경쟁이 치열하고 수출 비중도 높아 환율 변동에 따른 가격 경쟁력 변화 역시 중요한 수요 결정 요인입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전력 인프라 투자",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "글로벌 전기전자기기 시장은 산업의 성장성 측면에서 성숙 단계에 접어들었으나, 대내외환경 변화에 따라 전력계통 인프라 투자가 확대되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"휘발유\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"휘발유 | 자동차 연료 | 4,927,286 | 18%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"경유\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"경유 | 산업용, 차량용 연료 | 9,768,203 | 34%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원유운반선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원유운반선, 컨테이너선, 정유제품운반선, LNG선, 군함 外\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNG선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원유운반선, 컨테이너선, 정유제품운반선, LNG선, LPG선 外\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력변압기\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"전력변압기, 고압차단기 外\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"굴착기\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"지배기업인 HD건설기계㈜를 비롯하여 한국채택국제회계기준에 따라 연결대상 종속기업(10개사)에 해당되는 회사들은 굴착기, 휠로더 등을 제작ㆍ판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"산업용로봇 | 210,573(80%) |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"태양광모듈, 제어시스템 등 신재생에너지, 수소연료전지 外\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사에서 생산된 제품들은 자동차, 비행기, 선박 등의 에너지원에서부터 석유화학제품의 기초원료까지 다양한 용도로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"선박\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"선박용엔진, 디젤발전설비 外\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"신재생 발전원 설치 증가, AI 시장과 데이터센터 건설 확대에 따른 전력 수급 변동성 증가로 인해 국내 및 글로벌 전력 시장에서의 ESS 수요는 당분간 계속될 것으로 전망합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"건설기계는 도로, 건물 건설, 광산 개발 등에 이용됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Aramco Trading Singapore Pte. Ltd.\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"매출액 10% 이상을 차지하는 주요 매출처는 Aramco Trading Singapore Pte. Ltd.입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"사우디전력청\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결매출 중 5%를 초과하는 주요 매출처는 사우디전력청, Xcel Energy, NextEra Energy 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 원유는 전량 수입에 의존하고 있으며, 주로 중동지역에서 원유를 수입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"콘덴세이트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이 외에 콘덴세이트는 Qatar Energy 등과 계약을 도입하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"후판\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"STEEL PLATE : 스틸데일리 공시기준(시중 유통가, SS275 20T)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"충청남도 서산시 대산읍에 원유처리능력 최대 일 520,000배럴 및 콘덴세이트 일 170,000배럴의 원유정제 시설과 고도화 설비를 통해\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 울산공장을 비롯하여 음성, 군산 등 국내 사업장과 미국, 유럽, 인도 등 해외사업장에서 주요 제품 생산, 마케팅, 판매 등의 사업활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"금년 9월에는 미국 텍사스주에서 추진되는 200MWh급 ESS 사업의 EPC 계약을 남부발전으로부터 수주했고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"이에 따라 당사는 중국 판매법인을 설립하여 시장 수요에 대응하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원유를 주요 원재료로 사용하기에 유가 변동위험에 노출되어 있으며, 이 외에 환율 변동위험, 이자율 변동위험에도 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"원유를 주요 원재료로 사용하기에 유가 변동위험에 노출되어 있으며, 이 외에 환율 변동위험, 이자율 변동위험에도 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"선박\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"조 선 | 제 품 | 선박 外 | 수 출 | 23,469,411 | 20,018,322 | 14,701,450\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"엔진기계 | 〃 | 엔진류,기계 설비 外 | 수 출 | 2,513,234 | 2,012,801 | 1,534,981\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석유류제품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"석유류제품 | 2025.01.01 | 2025.12.31 | 188,010 | 166,426 | 188,010 | 166,426 | - | - | 한국군\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전기전자부 문 | 전력변압기 | HD현대일렉트릭(주) | 380대 | 360대 | 360대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"굴착기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"건설기계 | 굴착기 외 | HD건설기계㈜ | 24,540대 | 21,540대 | 17,640대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"산업용/FPD로봇 등 | 대구 | 8,640 대 | 8,640 대 | 8,640 대\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지게차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"산업차량 | 소형/중형/전동지게차 | 울산공장 | 20,000대 | 20,000대 | 20,000대\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 대형조선소 친환경 연료 적용 선박에 수주 협력 강화 (경쟁사 대비 높은 실적을 바탕으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"발전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전력청 및 국내외 공공/민간 발전사업체, EPC 업체와 자가발전설비 구축\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Aramco Trading Singapore Pte. Ltd.\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"매출액 비중 10% 이상을 차지하는 주요매출처는 Aramco Trading Singapore Pte. Ltd.(매출액 비중 11.9%)입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국군\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"석유류제품 | 2025.01.01 | 2025.12.31 | 188,010 | 166,426 | 188,010 | 166,426 | - | - | 한국군\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"수협중앙회\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"석유류제품 | 2025.01.01 | 2025.12.31 | 155,995 | 126,588 | 155,995 | 126,588 | - | - | 수협중앙회\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"구리(TON) | 9,965 | 9,288 | 8,489\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"니켈(TON) | 15,447 | 17,141 | 21,528\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원유(bbl) | 69.13 | 79.45 | 82\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"후판\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"STEEL PLATE(TON) | 914,038원 | 958,653원 |  1,130,193원\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 성남시 분당구를 비롯하여 서울, 울산, 안성, 청주 등 국내사업장 및 미국, 중국\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서 주요 제품에 대한\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"미국, 중국, 독일, 헝가리, 스위스, 사우디아라비아 등 해외 사업장에서 주요 제품에 대한\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"단기적인 가격변동은 크지 않으나, 환율 등에 따라 가격이 변동함.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"친환경솔루션\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"AM솔루션(선박부품, 육상발전 등), 유류(벙커링), 친환경솔루션(개조공사 등),디지털솔루션, 기타\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"변압기, 고압차단기중저압차단기, 회전기배전반, 전력제어 外\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건설기계\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"건설기계 (굴착기, 휠로더 등)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"산업용로봇\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"외화 장기도급 계약체결 시점과 실제 수금 시점 사이의 환율변동으로 인한 영업이익의 불확실성\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"원유 및 제품 가격 차이 변동에 따른 손익 변동 위험, 고정가 및 전월가 판매 제품의 가격 변동으로 인한 손익변동 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결회사의 이자율 변동위험은 주로 예금 및 변동금리부 차입금 계약으로부터 발생합니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고압차단기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"회전기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 지배기업의 분당 글로벌R&D센터 및 용인 신뢰성센터와 종속기업인 헝가리연구소(HD Hyundai Electric Hungary Kft.), 스위스연구소(HD Hyundai Electric Switzerland Ltd.) 및 중국연구소(HD Hyundai Electric Shanghai Ltd.) 등을 통해 변압기, 고압차단기, 회전기, ICT 기반 전력 기기 등 전기ㆍ전자시스템과 디자인 등의 분야에서 시장 지향적인 최적 기술을 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"ㆍ고출력 및 고발전량 모듈 기술개발 (설계/자재/공정) ㆍ태양광 모듈 사용처 다변화를 위한 application 기술 개발 ㆍ모듈 신규 자재 및 다원화 자재 평가\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제어시스템\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 HD현대 그룹의 조선해양 부문 계열회사로서, 자체 제품인 박용 제어시스템(브랜드명 HiCONiS)의 기능 고도화 및 적용 확대를 위한 연구개발 활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.9,\n      \"direction\": -1,\n      \"evidence\": \"당사는 해외 고객등과의 무역거래에서 발생하는 외화 수금이 원자재 수입으로 인한 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 주요 위험이라고 할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원자재 가격 변동 위험을 회피할 목적으로 금융기관과 파생상품계약을 체결하고 있으며, 모든 파생상품의 공정가치는 거래은행이 제공한 선물가격을 이용하여 평가하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ㆍ(주) 경기도 성남시 분당구 분당수서로 477 6층, 8층, 19층ㆍ(부) 울산광역시 동구 방어진순환도로 1000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ㆍ(주) 경기도 성남시 분당구 분당수서로 477 6층, 8층, 19층ㆍ(부) 울산광역시 동구 방어진순환도로 1000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"ㆍ전라남도 영암군 삼호읍 대불로 93\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Room10102, Building10,NO.498, Guoshoujing Road,China (Shanghai) Pilot Free Trade Zone,Shanghai,China\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"독일\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Peter-Muller -Strasse 14, 40468 Dusseldorf, Germany\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"석유제품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"정유산업에서 생산되는 석유제품은 자동차, 비행기, 선박 등의 에너지원에서부터 석유화학제품의 기초원료까지 다양한 용도로 사용되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"윤활기유\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"윤활기유는 윤활유의 원재료로 윤활유의 80~85%를 구성하고 있으며 윤활기유에 산화방지제, 내마모제 등 각종 첨가물을 혼합하여 윤활유가 만들어집니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초유화\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"기초유화산업은 납사(Naphtha) 분해설비를 통해 생산되는 에틸렌, 프로필렌 등의 올레핀계 제품과 납사(Naphtha) 개질설비에서 벤젠, 톨루엔, 자일렌 등의 방향족 제품을 생산하는 기초 소재산업으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선박\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"글로벌 발주 둔화 우려에도 불구하고 LNG선을 중심으로 한 고부가가치 선종 수요가 견조하게 유지되며 성장성을 확보할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"엔진기계사업은 선박의 추진 및 발전기용 엔진을 주요 제품으로 하며, 조선산업과 밀접한 관련이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"그린에너지 사업부문은 이와같은 태양광 산업 밸류체인 내에서 셀, 모듈, 시스템 및 설치 사업을 주력으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"조선산업은 대형 건조설비를 필수적으로 갖추어야 하기 때문에 막대한 설비투자가 필요한 장치산업이자 자본 집약적 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"사업특성상 전방산업인 해운산업의 시황에 많은 영향을 받고 있으며, 후방산업인 철강·기계산업 등에 대한 파급효과가 매우 큽니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전기차 보급 및 AI 인프라 구축을 위한 데이터센터 투자 증가 등 전기화 트렌드가 지속적으로 이어 짐에 따라 기존 전력 인프라의 노후화에 따른 분산전원에 대한 수요와빠른 시간 내 전기접속을 원하는 고객의 수요 충족이 가능한 연료전지 산업이 차세대발전원 역할을 할 것으로 예상되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"선주사\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이에 따른 각 선주사들의 선대 개편은 필연적인 사항으로, 신조 발주 물량이 단기적으로는 감소될 수 있으나 중장기적 흐름속에서 친환경 연료 엔진 수요는 더욱 증가할 것으로 전망되고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"정유산업의 원재료인 원유는 전량 수입에 의존하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원유 및 초경질유의 일종인 콘덴세이트에서 추출하는 납사를 원료로 사용하는 산업 특성상 유가 변동에 민감하게 반응하며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"(주) 경기도 성남시 분당구 분당수서로 477 (부) 울산광역시 동구 고늘로 77 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기술연구소 | (주) 경기도 성남시 분당구 분당수서로 477 (부) 울산광역시 동구 고늘로 77 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"유가 변동에 따라 원가는 즉시 반영되는 반면 윤활기유 제품 가격은 후행하는 특징을가지고 있어 윤활기유 판매는 유가 영향에 따른 수익성 차이를 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"수출이 매출의 대부분을 차지하고 있어 세계 경기동향(환율, 금리, 유가 등)에 많은 영향을 받고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"다만, 글로벌 시장은 고금리 기조와 전력 계통(Grid) 포화 등의 영향으로 과거급팽창기 대비 성장 속도가 완만해지고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"연료전지\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"다가올 수소경제에 핵심 기술인 연료전지/전해조 주기기 납품 및 유지보수 사업을 위한 전문 기업이 되기 위해 '24년 8월 설립되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전해조\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고체산화물 연료전지(SOFC) 및 전해조(SOEC) 기술을 활용하여 다양한 산업 영역으로의 확장을 목표로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"연료공급장치\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"LNG·LPG·암모니아·메탄올 등 대체연료 추진선박 발주가 증가함에 따라 연료공급장치 및 재액화·재기화 등 가스처리 설비의 수요가 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"크레인\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"HD Hyundai Eco Vina Co. Ltd.(舊. Doosan Enerbility Vietnam Co., Ltd.)는 기 수주된 크레인과 모듈을 생산중이며, 향후 항만 크레인과 독립형 탱크를 생산할 계획입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"독립형 탱크\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"독립형 탱크는 LPG·암모니아 운반선 및 친환경 연료 추진선(LNG)의 필수 기자재로서, IMO 환경 규제 강화에 따른 전방 산업의 수요가 지속적으로 확대되는 추세입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"태양광 모듈\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 생산품인 태양광 모듈은 생산과정에서 주로 전기를 사용하여 간접적으로 온실가스를 배출합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력변압기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전기전자기기 제품은 전력 공급의 단계에 따라 송전 단계(고압, 통상 50kV 이상)에서 사용되는 전력변압기, 고압차단기 등 전력기기\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"선박\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"선박 기자재 산업은 선박의 운항·적재·연료공급·에너지 효율 등에 필요한 핵심 장치를 설계·제작·공급하는 산업으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"추가로, 전력 소비가 많은 인공지능(AI) 산업과 데이터센터, 반도체 공장 건설 확대에 따른 대규모 전력기기 설비 투자가 이어질 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"사업장 내 폐수처리장에서 처리된 폐수는 법적 기준치보다 엄격한 사내기준으로 관리되어 울산시 방어진수질개선사업소로 유입되며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"HD Hyundai Asia Holdings Pte. Ltd.는 '25년 12월말 현재 베트남, 필리핀에 자회사를 둔 순수지주회사 형태로 운영되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"필리핀\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"HD Hyundai Asia Holdings Pte. Ltd.는 '25년 12월말 현재 베트남, 필리핀에 자회사를 둔 순수지주회사 형태로 운영되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"국제 에너지 가격, 환율, 원자재 가격 변동은 기자재의 생산 원가에 영향을 미쳐 사업 안정성에 중요한 변동 요인으로 작용합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"국제 에너지 가격, 환율, 원자재 가격 변동은 기자재의 생산 원가에 영향을 미쳐 사업 안정성에 중요한 변동 요인으로 작용합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"조선산업과 마찬가지로 수출이 매출의 대부분을 차지하고 있어 세계 경기동향(환율, 금리, 유가 등)에 많은 영향을 받고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력변압기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전력변압기, 고압차단기 등 고압 제품은 제품의 신뢰성이 요구되는 특성에 따라 제품 선정 시 Track-record가 특히 중요하게 작용하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고압차단기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전력변압기, 고압차단기 등 고압 제품은 제품의 신뢰성이 요구되는 특성에 따라 제품 선정 시 Track-record가 특히 중요하게 작용하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배전반\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"배전반 | 2025년 12월 | 절연 부싱 | 특허법 | 3명 | 상용 예정 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"중저압차단기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중저압차단기 | 2025년 11월 | 기중차단기 전류센서 시스템 | 특허법 | 1명 | 상용화 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"에너지저장장치\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 약 10년간 다양한 프로젝트를 통해 누적 1.6GWh 이상의 맞춤형 ESS를 공급해온 한편, 최근 미국 텍사스 200MWh급 루틸 BESS 프로젝트의 EPC 계약을 체결하고 현지 법인을 설립하는 등 글로벌 BESS 시장 확대를 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"지게차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"산업차량 산업은 지게차 제조, 판매 및 A/S 중심에서 물류창고 설계, 물류 자동화 영역까지 사업영역이 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"굴착기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"건설기계는 도로·건물 건설 등 대규모 인프라 구축부터 광산, 농업, 산림 등 다양한 환경에서 굴삭, 자재운반, 파쇄 등의 작업에 활용되는 기계장치입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산업용로봇\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"IFR(International Federation of Robotics, 국제로봇연맹)은 산업용로봇은 각 산업의 제조현장에서 제품 생산부터 출하까지 공정내 작업을 수행하기위한 로봇을 말하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전력 소비가 많은 인공지능(AI) 산업과 데이터센터, 반도체 공장 건설 확대에 따른 대규모 전력기기 설비 투자가 이어질 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"신재생 에너지 발전이 확대되면서 전력계통의 안전성 확보가 주요 과제로 떠오르고 있으며, 전기차 확대 등 에너지 소비의 전기화(Electrification) 추세로 지속적인 송배전 인프라 투자가 필요한 상황입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"선박\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전 세계 선박 시장에서는 컨테이너선과 LNG선을 비롯한 대형 선박 중심의 수요가 이어지는 가운데, 메탄올 추진선과 암모니아 추진선 등 친환경 선박 발주가 확대되면서 선박용 전장품 시장도 꾸준히 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"로봇산업은 로봇의 완성품이나 부품을 제조, 판매, 서비스하는 산업을 말하며, 자동차 산업과 같은 기계산업과 PC나 반도체 산업과 같은 IT산업의 특징을 모두 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"최근에는 증가하는 미국 시장 수요에 대응하고자 울산 변압기 철심공장 및 미국 알라바마 공장 변압기 전문보관장 준공으로 생산 능력을 확충하였으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 미국에 위치한 종속법인인 HD Hyundai Power Transformers USA, INC.를 활용하여 미국 정부의 자국우선주의/Buy America 정책에 적극 대응하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중국 시장은 농촌의 도시화, 인프라 건설, 환경 보호 강화에 따른 장비 교체 수요 증가로 시장이 지속적으로 성장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 글로벌 업체 간 경쟁이 치열하고 수출 비중도 높아 환율 변동에 따른 가격 경쟁력 변화 역시 중요한 수요 결정 요인입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전력 인프라 투자\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"글로벌 전기전자기기 시장은 산업의 성장성 측면에서 성숙 단계에 접어들었으나, 대내외환경 변화에 따라 전력계통 인프라 투자가 확대되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/267250_20260320000872.txt"
+}

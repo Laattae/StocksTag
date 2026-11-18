@@ -1,0 +1,284 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "김치",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "또한 국내 대표적인 김치 브랜드인 '종가'를 중심으로 맛김치, 포기김치, 총각김치 등의 김치류 및 반찬류"
+    },
+    {
+      "axis": "product",
+      "value": "MSG",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "소재사업은 국내 최대의 전분 및 전분당 생산규모를 보유한 전분당 사업과 MSG, 핵산, 아스파탐, L-페닐알라닌, 라이신, 아르기닌, 트립토판 등을 생산하는 바이오 사업으로 구성됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "전분당",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전분당 사업은 국내 최대의 전분 및 전분당 생산규모를 보유하고 있으며, 옥수수를 가공하여 제빵, 제과, 가공식품 원료로 사용되는 일반 전분류와"
+    },
+    {
+      "axis": "product",
+      "value": "라이신",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "장류",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "'순창고추장' 등 전통 장류부터 '미원' 등의 조미료류, 식초, 액젓 등의 농수산식품"
+    },
+    {
+      "axis": "application",
+      "value": "식품업계",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "사료업계",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "제약",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "화장품",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "이마트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "농협하나로마트",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "쿠팡",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Unilever",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PT DAESANG INGREDIENTS INDONESIA는 식품사업의 경우 Unilever, Indofood 등 대형 B2B 거래처는 PT DAESANG INGREDIENTS INDONESIA가 직접 거래 중이며"
+    },
+    {
+      "axis": "customer",
+      "value": "Indofood",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "PT DAESANG INGREDIENTS INDONESIA는 식품사업의 경우 Unilever, Indofood 등 대형 B2B 거래처는 PT DAESANG INGREDIENTS INDONESIA가 직접 거래 중이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "소재사업 | 대상(주) | 원재료 | 옥수수 | 제조 | 257,115(41.6)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "배추",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "식품 | 대상(주) | 원재료 | 배추, 절임배추 | 제조 | 82,058(13.3)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "포도당",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재 | 대상(주) | 원재료 | 포도당(*2) | 제조 | 57,000(9.2)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "커피",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주)대상다이브스 | 원재료 | 커피(생두) | 제조 | 47,280(7.7)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "고추",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "식품 | 대상(주) | 원재료 | 고추 | 제조 | 24,579(4.0)"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "미원 | 군산 | 16,610"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고추장, 된장, 간장,액젓류외 | 순창 | 136,442"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "마요네즈, 맛나, 감치미외 | 기흥 | 42,006"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "양념소스류, 육가공캔외 | 천안 | 44,326"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "또한 주요 종속회사로는 인도네시아 지역에서 전분당, 조미료 사업을 영위하는 PT DAESANG INGREDIENTS INDONESIA"
+    },
+    {
+      "axis": "exposure",
+      "value": "원재료 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "당사 및 종속회사의 주요 가격변동요인은 원재료 가격변동 및 생산비용 증가에 따른 원가상승과 글로벌 시장 공급 및 수요에 따른 가격 변동 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "연결기업은 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "김치",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "김치 29.4 31.6 34.2 16.8"
+    },
+    {
+      "axis": "product",
+      "value": "발효조미료",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "발효조미료 92.6 97.5 99 7.4"
+    },
+    {
+      "axis": "product",
+      "value": "MSG",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "MSG 17 18 19 29"
+    },
+    {
+      "axis": "product",
+      "value": "전분당",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전분당 17 18 19 29"
+    },
+    {
+      "axis": "product",
+      "value": "라이신",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "소재사업은 발효기술을 기반으로한, 조미 소재, 아미노산, 클로렐라 등의 BIO, 라이신 사업과 탄수화물 가공기술을 통한"
+    },
+    {
+      "axis": "raw_material",
+      "value": "국제 곡물",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원당",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어"
+    },
+    {
+      "axis": "raw_material",
+      "value": "당밀",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대상(주)PT DAESANG INGREDIENTS INDONESIA, DAESANG VIETNAM, 대상푸드플러스(주)"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "DAESANG VIETNAM, DAESANG AMERICA INC. 외"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물 가격",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"김치\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"또한 국내 대표적인 김치 브랜드인 '종가'를 중심으로 맛김치, 포기김치, 총각김치 등의 김치류 및 반찬류\"}, {\"axis\": \"product\", \"value\": \"MSG\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"소재사업은 국내 최대의 전분 및 전분당 생산규모를 보유한 전분당 사업과 MSG, 핵산, 아스파탐, L-페닐알라닌, 라이신, 아르기닌, 트립토판 등을 생산하는 바이오 사업으로 구성됩니다.\"}, {\"axis\": \"product\", \"value\": \"전분당\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전분당 사업은 국내 최대의 전분 및 전분당 생산규모를 보유하고 있으며, 옥수수를 가공하여 제빵, 제과, 가공식품 원료로 사용되는 일반 전분류와\"}, {\"axis\": \"product\", \"value\": \"라이신\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"장류\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"'순창고추장' 등 전통 장류부터 '미원' 등의 조미료류, 식초, 액젓 등의 농수산식품\"}, {\"axis\": \"application\", \"value\": \"식품업계\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"사료업계\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"필수아미노산 중 하나인 라이신 및 기능성 사료용 아미노산(L-아르기닌, L-트립토판 등)은 발효기술을 바탕으로 제조하여 세계 사료업계에 공급하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"제약\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"화장품\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"소재사업부문에서는 국내외의 주요 음료 및 제과 등의 식품업계와 제약, 사료, 화장품, 기타산업 등 다양한 산업의 업체들과 거래를 하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"이마트\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"농협하나로마트\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"쿠팡\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"식품사업부문의 주요 매출처로는 이마트, 농협하나로마트 등의 대형할인점 및 B2B, 쿠팡 등의 이커머스와 거래하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"Unilever\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"PT DAESANG INGREDIENTS INDONESIA는 식품사업의 경우 Unilever, Indofood 등 대형 B2B 거래처는 PT DAESANG INGREDIENTS INDONESIA가 직접 거래 중이며\"}, {\"axis\": \"customer\", \"value\": \"Indofood\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"PT DAESANG INGREDIENTS INDONESIA는 식품사업의 경우 Unilever, Indofood 등 대형 B2B 거래처는 PT DAESANG INGREDIENTS INDONESIA가 직접 거래 중이며\"}, {\"axis\": \"raw_material\", \"value\": \"옥수수\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"소재사업 | 대상(주) | 원재료 | 옥수수 | 제조 | 257,115(41.6)\"}, {\"axis\": \"raw_material\", \"value\": \"배추\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"식품 | 대상(주) | 원재료 | 배추, 절임배추 | 제조 | 82,058(13.3)\"}, {\"axis\": \"raw_material\", \"value\": \"포도당\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"소재 | 대상(주) | 원재료 | 포도당(*2) | 제조 | 57,000(9.2)\"}, {\"axis\": \"raw_material\", \"value\": \"커피\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"(주)대상다이브스 | 원재료 | 커피(생두) | 제조 | 47,280(7.7)\"}, {\"axis\": \"raw_material\", \"value\": \"고추\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"식품 | 대상(주) | 원재료 | 고추 | 제조 | 24,579(4.0)\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"미원 | 군산 | 16,610\"}, {\"axis\": \"region\", \"value\": \"전북\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고추장, 된장, 간장,액젓류외 | 순창 | 136,442\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"마요네즈, 맛나, 감치미외 | 기흥 | 42,006\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"양념소스류, 육가공캔외 | 천안 | 44,326\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"또한 주요 종속회사로는 인도네시아 지역에서 전분당, 조미료 사업을 영위하는 PT DAESANG INGREDIENTS INDONESIA\"}, {\"axis\": \"exposure\", \"value\": \"원재료 가격\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"당사 및 종속회사의 주요 가격변동요인은 원재료 가격변동 및 생산비용 증가에 따른 원가상승과 글로벌 시장 공급 및 수요에 따른 가격 변동 입니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"연결기업은 국제적으로 영업활동을 영위하고 있어 외환위험, 특히 주로 미국 달러화와 관련된 환율변동위험에 노출되어 있습니다.\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"김치\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"김치 29.4 31.6 34.2 16.8\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"발효조미료\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"발효조미료 92.6 97.5 99 7.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"MSG\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"MSG 17 18 19 29\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전분당\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전분당 17 18 19 29\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라이신\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"소재사업은 발효기술을 기반으로한, 조미 소재, 아미노산, 클로렐라 등의 BIO, 라이신 사업과 탄수화물 가공기술을 통한\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"국제 곡물\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원당\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"당밀\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소재 사업은 주원재료로 사용되는 옥수수 및 원당, 당밀 등 거의 대부분을 해외로부터 수입하고 있어\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대상(주)PT DAESANG INGREDIENTS INDONESIA, DAESANG VIETNAM, 대상푸드플러스(주)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"DAESANG VIETNAM, DAESANG AMERICA INC. 외\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물 가격\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"원재료의 상당 부분을 수입하는 산업 특성상 기후 변화에 따른 국제 곡물 가격 변동 및 환율이 수익성에 영향을 미칩니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/001680_20260327000936.txt"
+}

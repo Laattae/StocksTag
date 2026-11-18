@@ -1,0 +1,610 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 6,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "배합사료 사업부문에서는 축우, 양돈, 양계용 배합사료를 생산 및 판매하며"
+    },
+    {
+      "axis": "product",
+      "value": "신선육",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "신선한 닭고기 생산에서 공급까지 '하림'의 높은 브랜드 인지도를 통한 소비자 신뢰 제고"
+    },
+    {
+      "axis": "product",
+      "value": "비육돈",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "양돈 사업부문에서는 식용 돼지고기의 원료가 되는 비육돈(원료돈)을 생산하고"
+    },
+    {
+      "axis": "product",
+      "value": "벌크화물",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "해상 운송사업 중 주력사업인 벌크화물 운송사업 서비스는 주요 지표인 BDI 지수에 따라 수익에 영향을 받고 있지만"
+    },
+    {
+      "axis": "product",
+      "value": "라면",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "면(장인라면 外) | 라면 | 48,906 | 44.72%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "옥수수 등 배합사료 원재료는 환율, 세계기후, 국제적 환경 등에 영향을 받으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두박",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "사료원료 | 대두박 | 사료원료 | 91,021 | 15.52%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "생계",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "원재료인 생계의 안정된 수급을 위하여 사육농가와 장기적인 계약을 통하여 생계를 공급받고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "소맥",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "사료원료 | 소맥 | 사료원료 | 26,509 | 4.52%"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "사료 사업부문은 축산업의 전방사업으로 닭, 돼지, 소 등 사육규모 및 원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 유가",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "BDI 지수",
+      "weight": 0.2,
+      "direction": 1,
+      "evidence": "해상 운송사업 중 주력사업인 벌크화물 운송사업 서비스는 주요 지표인 BDI 지수에 따라 수익에 영향을 받고 있지만"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "배합사료 | 경기 이천 | 150,000 | 150,000 | 150,000"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "배합사료 | 전북 군산 | 150,000 | 150,000 | 150,000"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Sunjin Vina Co.,Ltd, Sunjin Myanmar Company Limited"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "Harim(Liaocheng) Feedmill Co.,Ltd, Sunjin Vina Co.,Ltd"
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "배합사료(중부) | 2,100톤/일 * 25일 * 12개월= 630,000톤"
+    },
+    {
+      "axis": "product",
+      "value": "육계",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "육계부문매출(신선육,염지육,부분육,절단육 등)이 70.70% 이며"
+    },
+    {
+      "axis": "product",
+      "value": "육가공품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "육가공부문매출(냉장,냉동,상온)은 13.37%, 기타 15.93% 등 약 98.96%가 내수 판매입니다."
+    },
+    {
+      "axis": "product",
+      "value": "벌크선",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "팬오션의 핵심역량인 벌크부문의 선대 투자에서 더 나아가, 친환경 기조 대응 및 사업 다각화를 위하여 LNG선 등의 선대 투자를 함으로써"
+    },
+    {
+      "axis": "product",
+      "value": "즉석밥",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "즉석밥 | 생산능력(천식) | 27,744 | 27,744 | 27,744 |"
+    },
+    {
+      "axis": "application",
+      "value": "해상운송",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 거점별 해외 지사 및 Global 해운중계업체를 통해 화물/선박정보를 획득하여 해상운송을 하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 (주)포스코, 현대글로비스(주), 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주), 한국서부발전(주) 등 국내 화주 뿐만 아니라"
+    },
+    {
+      "axis": "customer",
+      "value": "현대글로비스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 (주)포스코, 현대글로비스(주), 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주), 한국서부발전(주) 등 국내 화주 뿐만 아니라"
+    },
+    {
+      "axis": "customer",
+      "value": "한국가스공사",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "아울러, 2005년 한국가스공사의 LNG 수송 사업자로 선정된 후 2009년부터 LNG 화물을 수송하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "옥수수(인도네시아 고론딸로) | 500톤/일 * 21일 * 12개월 = 126,000톤"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종계 | 인도네시아 빤데글랑 | 51,651,278 | 60,275,928 | 109,342,131 |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "J1영업본부는 경기지역과 강원지역, J2영업본부는 충청지역, J3영업본부는 전라지역과 제주지역"
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "배합사료 | 16시간 | 제주 사업소 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다. 이러한 거래들이 표시되는 주된 통화는 USD 등 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 시장이자율의 변동으로 인한 금융상품의 공정가치 또는 미래현금흐름이 변동될 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "닭고기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "세계적으로 가금류의 소비는 매년 10% 이상 신장하여 돼지고기, 쇠고기의 신장율을 크게 앞서는 미래식품으로 자리 잡고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하림은 전북특별자치도 김제와 정읍에 육계 전문 배합사료 공장을 보유하고 있으며, 컴퓨터 자동제어 생산라인에서 연간 52만톤 규모의 배합사료를 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "육가공품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "기존 통닭 위주 단순화된 소비 형태의 육계시장이 최근 닭고기의 부위별 부분육, 절단육, 부산물(닭발, 근위), 정육(순살고기), 양념육 제품등의 급속한 소비 패턴의 변화 및 증가 추세로 선진화됨으로써"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소맥",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "호식이두마리치킨",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "하림은 닭을 기르고 이를 제품으로 가공하여 판매하는 사업을 영위하는 기업으로 닭고기를 이마트와 같은 대형마트와 호식이두마리치킨과 같은 치킨 프랜차이즈 업체, 그리고 닭을 유통하는 유통업체 등을 주요 목표시장으로 하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Vale, Suzano, (주)포스코, 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주),한국서부발전(주), 현대글로비스(주) 등과 장기화물운송계약을 체결하여"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "하림은 전북특별자치도 김제와 정읍에 육계 전문 배합사료 공장을 보유하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "그리고 생계시세 영향과 환율 변동 등으로 인한 전년대비 금융손익의 증가 등을 반영한 당기순이익이 38,738백만원 발생하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "조류인플루엔자",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "만약 조류인플루엔자 등 닭고기 관련 질병이 다시 발생하거나 확산된다면 이에 대한 불안심리로 일반소비자의 닭고기 소비기피현상이 우려되며 사육농가의 사육기반 붕괴나 관련 사업의 규모 축소 등이 예상되어 하림의 영업에 부정적인 영향을 미칠 수도 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "배합사료 및 축산물 제조,판매를 주사업으로 하고 있으며 총매출액의 약 43%정도 점유하고 있는 배합사료 부문은"
+    },
+    {
+      "axis": "product",
+      "value": "돼지고기",
+      "weight": 0.23,
+      "direction": null,
+      "evidence": "식육 사업부문은 22.59%, 양돈사업부문 17.09%, 육가공 사업부문 12.53%"
+    },
+    {
+      "axis": "product",
+      "value": "닭고기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "하림은 닭을 기르고 이를 제품으로 가공하여 판매하는 사업을 영위하는 기업으로 닭고기를 이마트와 같은 대형마트와"
+    },
+    {
+      "axis": "product",
+      "value": "육가공품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "육가공 사업부문 12.53%이며 그외 기타사업부문 5.25%로 구성되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "옥수수",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인도네시아 술라웨시 고롱따로 일대에 옥수수의 안정적인 공급을 기하고자 옥수수 유통 사업을 추진하기 위해"
+    },
+    {
+      "axis": "raw_material",
+      "value": "옥수수",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "소맥",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두박",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원료돈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "신선식품 사업의 원료돈은 국내에서 조달하고 있으며, 본인이 직접 사육한 가축을 사용하거나 농가에서 사육한 가축을 구매하여 조달하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "국내 식품업계 최초로 지난 2014년 120억 원을 투자해 전북특별자치도 익산공장에 신재생 친환경 시설인"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "인도네시아 술라웨시 고롱따로 일대에 옥수수의 안정적인 공급을 기하고자 옥수수 유통 사업을 추진하기 위해 2009년 해외현지법인"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국제곡물가격, 환율 등이 배합사료 원가의 주요 변동요인이며, 각종 원재료를 분쇄, 혼합시 고도의 노하우가 필요하게 됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제곡물가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국제곡물가격, 환율 등이 배합사료 원가의 주요 변동요인이며, 각종 원재료를 분쇄, 혼합시 고도의 노하우가 필요하게 됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "가축 전염병",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "수요에 크게 영향을 미치는 것은 조류 인플루엔자 바이러스 등 전염병 발병에 따른 소비심리 위축으로 수요가 축소될 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "사료 산업은 과학적인 설계기술을 바탕으로 각종 원료를 저장, 분쇄, 혼합, 계량, 가공하는 공정을 거쳐 위생적이고 안전한 제품을 생산함으로써 가축의 성장에 필요한 영양소를 고르게 공급하는 산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "TV홈쇼핑",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "현재 국내 홈쇼핑사는 크게 TV홈쇼핑사업, 카탈로그사업, 인터넷 및 모바일 쇼핑사업 등 3가지 분류로 사업을 나누어 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "벌크선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "팬오션은 벌크선 서비스 주력 선사로서 벌크선 영업 부문은 정기선, 부정기선과 대형선으로 분류하여 운영하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "곡물",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "곡물사업은 해외 생산업자로부터 곡물을 구매하여 전세계 수입업자에게 판매/유통하는 사업으로써"
+    },
+    {
+      "axis": "product",
+      "value": "탱커선",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "탱커선은 원유를 수송하는 CRUDE OIL CARRIER, 원유정제를 거친 석유제품을 수송하는 PRODUCT CARRIER, 석유화학 제품 및 동식물유 등을 수송하는 CHEMICAL TANKER 등으로 구분됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "축산업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "축산업에 있어 가장 기초가 되며, 축산업 생산비 중 가장 큰 비중을 차지하고 있어 축산업계에 미치는 영향이 큰 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해운업",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "해운업은 국제무역의 기반산업이며 대량의 원자재 및 완성품 등 주요 수출입 화물을 가장 효율적으로 수송할 수 있는 운송사업입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "곡물",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "다만 사료의 주원료인 곡물시세에 대해 민감하게 반응하는 특징을 가지고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고"
+    },
+    {
+      "axis": "exposure",
+      "value": "곡물시세",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "다만 사료의 주원료인 곡물시세에 대해 민감하게 반응하는 특징을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "연료유가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "선박용 연료유는 국제적으로 거래되는 원유가격과 연동되어 변동됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "가공식품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "건강과 편의 추구라는 사회적 트렌드를 충실히 반영한 가공식품을 출시하기 위해 식품공장을 건설하고있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "천연조미료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "축산물을 이용한 천연조미료 시장 진입"
+    },
+    {
+      "axis": "product",
+      "value": "소스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "천연조미료를 이용한 소스 및 HMR 사업진행"
+    },
+    {
+      "axis": "product",
+      "value": "HMR",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "천연조미료를 이용한 소스 및 HMR 사업진행"
+    },
+    {
+      "axis": "product",
+      "value": "라면",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "라면 - 건면, 유탕면 21.01.21 인증완료"
+    },
+    {
+      "axis": "application",
+      "value": "식품산업",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국민소득의 증대로 인한 생활수준의 향상은 국민들의 식생활 패턴을 변화시켰고, 식품산업은 식생활의 서구화에 따라 성장을 해왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "물류산업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전자상거래의 증가는 단순히 택배물량의 증가를 넘어 물류산업의 개념을 산업물류에서 생활물류로 변화시키고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "축산물",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하림그룹이 기존에 갖추고 있는 축산소재 사업을 기반으로 종합식품가공사업을 전개할 예정입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "농수산물",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "농수산물에 대한 가공은 부가가치세법에 의하여 의제매입세액 공제를 받을 수 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하림산업이 매입한 양재동 부지는 도시첨단물류단지로 복합개발을 예정하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "1인가구 및 고령화 인구 증가",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "향후 식품 시장은 1인가구의 증가와 고령화 인구 증가로 인한 프리미엄 간편식 시장이 커질 것으로 예상합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전자상거래 증가",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "이에 따른 전자상거래의 증가는 단순히 택배물량의 증가를 넘어 물류산업의 개념을 산업물류에서 생활물류로 변화시키고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"배합사료 사업부문에서는 축우, 양돈, 양계용 배합사료를 생산 및 판매하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신선육\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"신선한 닭고기 생산에서 공급까지 '하림'의 높은 브랜드 인지도를 통한 소비자 신뢰 제고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비육돈\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"양돈 사업부문에서는 식용 돼지고기의 원료가 되는 비육돈(원료돈)을 생산하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"벌크화물\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"해상 운송사업 중 주력사업인 벌크화물 운송사업 서비스는 주요 지표인 BDI 지수에 따라 수익에 영향을 받고 있지만\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라면\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"면(장인라면 外) | 라면 | 48,906 | 44.72%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"옥수수 등 배합사료 원재료는 환율, 세계기후, 국제적 환경 등에 영향을 받으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두박\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"사료원료 | 대두박 | 사료원료 | 91,021 | 15.52%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"생계\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"원재료인 생계의 안정된 수급을 위하여 사육농가와 장기적인 계약을 통하여 생계를 공급받고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소맥\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"사료원료 | 소맥 | 사료원료 | 26,509 | 4.52%\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"사료 사업부문은 축산업의 전방사업으로 닭, 돼지, 소 등 사육규모 및 원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 유가\",\n      \"weight\": 0.2,\n      \"direction\": -1,\n      \"evidence\": \"원재료의 대부분을 수입에 의존하는 사료 산업의 특성상 국제 곡물가, 국제 유가, 환율에 주요한 영향을 받고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"BDI 지수\",\n      \"weight\": 0.2,\n      \"direction\": 1,\n      \"evidence\": \"해상 운송사업 중 주력사업인 벌크화물 운송사업 서비스는 주요 지표인 BDI 지수에 따라 수익에 영향을 받고 있지만\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"배합사료 | 경기 이천 | 150,000 | 150,000 | 150,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"배합사료 | 전북 군산 | 150,000 | 150,000 | 150,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Sunjin Vina Co.,Ltd, Sunjin Myanmar Company Limited\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"Harim(Liaocheng) Feedmill Co.,Ltd, Sunjin Vina Co.,Ltd\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"배합사료(중부) | 2,100톤/일 * 25일 * 12개월= 630,000톤\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육계\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"육계부문매출(신선육,염지육,부분육,절단육 등)이 70.70% 이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육가공품\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"육가공부문매출(냉장,냉동,상온)은 13.37%, 기타 15.93% 등 약 98.96%가 내수 판매입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"벌크선\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"팬오션의 핵심역량인 벌크부문의 선대 투자에서 더 나아가, 친환경 기조 대응 및 사업 다각화를 위하여 LNG선 등의 선대 투자를 함으로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"즉석밥\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"즉석밥 | 생산능력(천식) | 27,744 | 27,744 | 27,744 |\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상운송\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 거점별 해외 지사 및 Global 해운중계업체를 통해 화물/선박정보를 획득하여 해상운송을 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 (주)포스코, 현대글로비스(주), 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주), 한국서부발전(주) 등 국내 화주 뿐만 아니라\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대글로비스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 (주)포스코, 현대글로비스(주), 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주), 한국서부발전(주) 등 국내 화주 뿐만 아니라\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국가스공사\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"아울러, 2005년 한국가스공사의 LNG 수송 사업자로 선정된 후 2009년부터 LNG 화물을 수송하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"옥수수(인도네시아 고론딸로) | 500톤/일 * 21일 * 12개월 = 126,000톤\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종계 | 인도네시아 빤데글랑 | 51,651,278 | 60,275,928 | 109,342,131 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"J1영업본부는 경기지역과 강원지역, J2영업본부는 충청지역, J3영업본부는 전라지역과 제주지역\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"배합사료 | 16시간 | 제주 사업소 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다. 이러한 거래들이 표시되는 주된 통화는 USD 등 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 시장이자율의 변동으로 인한 금융상품의 공정가치 또는 미래현금흐름이 변동될 수 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"닭고기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"세계적으로 가금류의 소비는 매년 10% 이상 신장하여 돼지고기, 쇠고기의 신장율을 크게 앞서는 미래식품으로 자리 잡고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하림은 전북특별자치도 김제와 정읍에 육계 전문 배합사료 공장을 보유하고 있으며, 컴퓨터 자동제어 생산라인에서 연간 52만톤 규모의 배합사료를 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육가공품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"기존 통닭 위주 단순화된 소비 형태의 육계시장이 최근 닭고기의 부위별 부분육, 절단육, 부산물(닭발, 근위), 정육(순살고기), 양념육 제품등의 급속한 소비 패턴의 변화 및 증가 추세로 선진화됨으로써\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두박\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소맥\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"호식이두마리치킨\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"하림은 닭을 기르고 이를 제품으로 가공하여 판매하는 사업을 영위하는 기업으로 닭고기를 이마트와 같은 대형마트와 호식이두마리치킨과 같은 치킨 프랜차이즈 업체, 그리고 닭을 유통하는 유통업체 등을 주요 목표시장으로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"Vale, Suzano, (주)포스코, 한국남동발전(주), 한국남부발전(주), 한국동서발전(주), 한국중부발전(주),한국서부발전(주), 현대글로비스(주) 등과 장기화물운송계약을 체결하여\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"하림은 전북특별자치도 김제와 정읍에 육계 전문 배합사료 공장을 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"사료의 주원료(옥수수, 대두박, 소맥 등)는 미국과 브라질 등에서 직수입하여 원료를 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"그리고 생계시세 영향과 환율 변동 등으로 인한 전년대비 금융손익의 증가 등을 반영한 당기순이익이 38,738백만원 발생하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"조류인플루엔자\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"만약 조류인플루엔자 등 닭고기 관련 질병이 다시 발생하거나 확산된다면 이에 대한 불안심리로 일반소비자의 닭고기 소비기피현상이 우려되며 사육농가의 사육기반 붕괴나 관련 사업의 규모 축소 등이 예상되어 하림의 영업에 부정적인 영향을 미칠 수도 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.43,\n      \"direction\": null,\n      \"evidence\": \"배합사료 및 축산물 제조,판매를 주사업으로 하고 있으며 총매출액의 약 43%정도 점유하고 있는 배합사료 부문은\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"돼지고기\",\n      \"weight\": 0.23,\n      \"direction\": null,\n      \"evidence\": \"식육 사업부문은 22.59%, 양돈사업부문 17.09%, 육가공 사업부문 12.53%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"닭고기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"하림은 닭을 기르고 이를 제품으로 가공하여 판매하는 사업을 영위하는 기업으로 닭고기를 이마트와 같은 대형마트와\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육가공품\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"육가공 사업부문 12.53%이며 그외 기타사업부문 5.25%로 구성되어 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 술라웨시 고롱따로 일대에 옥수수의 안정적인 공급을 기하고자 옥수수 유통 사업을 추진하기 위해\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"옥수수\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소맥\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두박\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 원재료인 옥수수,소맥,대두박은 대부분 미국,중국,남미등지에서 수입하며 국내외 환율변동에 매우 민감합니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원료돈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"신선식품 사업의 원료돈은 국내에서 조달하고 있으며, 본인이 직접 사육한 가축을 사용하거나 농가에서 사육한 가축을 구매하여 조달하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"국내 식품업계 최초로 지난 2014년 120억 원을 투자해 전북특별자치도 익산공장에 신재생 친환경 시설인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 술라웨시 고롱따로 일대에 옥수수의 안정적인 공급을 기하고자 옥수수 유통 사업을 추진하기 위해 2009년 해외현지법인\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국제곡물가격, 환율 등이 배합사료 원가의 주요 변동요인이며, 각종 원재료를 분쇄, 혼합시 고도의 노하우가 필요하게 됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제곡물가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"국제곡물가격, 환율 등이 배합사료 원가의 주요 변동요인이며, 각종 원재료를 분쇄, 혼합시 고도의 노하우가 필요하게 됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"가축 전염병\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"수요에 크게 영향을 미치는 것은 조류 인플루엔자 바이러스 등 전염병 발병에 따른 소비심리 위축으로 수요가 축소될 수 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"사료 산업은 과학적인 설계기술을 바탕으로 각종 원료를 저장, 분쇄, 혼합, 계량, 가공하는 공정을 거쳐 위생적이고 안전한 제품을 생산함으로써 가축의 성장에 필요한 영양소를 고르게 공급하는 산업입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"TV홈쇼핑\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"현재 국내 홈쇼핑사는 크게 TV홈쇼핑사업, 카탈로그사업, 인터넷 및 모바일 쇼핑사업 등 3가지 분류로 사업을 나누어 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"벌크선\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"팬오션은 벌크선 서비스 주력 선사로서 벌크선 영업 부문은 정기선, 부정기선과 대형선으로 분류하여 운영하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"곡물\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"곡물사업은 해외 생산업자로부터 곡물을 구매하여 전세계 수입업자에게 판매/유통하는 사업으로써\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탱커선\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"탱커선은 원유를 수송하는 CRUDE OIL CARRIER, 원유정제를 거친 석유제품을 수송하는 PRODUCT CARRIER, 석유화학 제품 및 동식물유 등을 수송하는 CHEMICAL TANKER 등으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"축산업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"축산업에 있어 가장 기초가 되며, 축산업 생산비 중 가장 큰 비중을 차지하고 있어 축산업계에 미치는 영향이 큰 산업입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해운업\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"해운업은 국제무역의 기반산업이며 대량의 원자재 및 완성품 등 주요 수출입 화물을 가장 효율적으로 수송할 수 있는 운송사업입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"곡물\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"다만 사료의 주원료인 곡물시세에 대해 민감하게 반응하는 특징을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"대전, 인천, 익산, 함안에 4개의 사료공장을 가동하고 있고\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"곡물시세\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"다만 사료의 주원료인 곡물시세에 대해 민감하게 반응하는 특징을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"연료유가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"선박용 연료유는 국제적으로 거래되는 원유가격과 연동되어 변동됩니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가공식품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"건강과 편의 추구라는 사회적 트렌드를 충실히 반영한 가공식품을 출시하기 위해 식품공장을 건설하고있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"천연조미료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"축산물을 이용한 천연조미료 시장 진입\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"천연조미료를 이용한 소스 및 HMR 사업진행\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"HMR\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"천연조미료를 이용한 소스 및 HMR 사업진행\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"라면\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"라면 - 건면, 유탕면 21.01.21 인증완료\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"식품산업\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국민소득의 증대로 인한 생활수준의 향상은 국민들의 식생활 패턴을 변화시켰고, 식품산업은 식생활의 서구화에 따라 성장을 해왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류산업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전자상거래의 증가는 단순히 택배물량의 증가를 넘어 물류산업의 개념을 산업물류에서 생활물류로 변화시키고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"축산물\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하림그룹이 기존에 갖추고 있는 축산소재 사업을 기반으로 종합식품가공사업을 전개할 예정입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"농수산물\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"농수산물에 대한 가공은 부가가치세법에 의하여 의제매입세액 공제를 받을 수 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"하림산업이 매입한 양재동 부지는 도시첨단물류단지로 복합개발을 예정하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"1인가구 및 고령화 인구 증가\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"향후 식품 시장은 1인가구의 증가와 고령화 인구 증가로 인한 프리미엄 간편식 시장이 커질 것으로 예상합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전자상거래 증가\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"이에 따른 전자상거래의 증가는 단순히 택배물량의 증가를 넘어 물류산업의 개념을 산업물류에서 생활물류로 변화시키고 있으며\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/003380_20260323001527.txt"
+}

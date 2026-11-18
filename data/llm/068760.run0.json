@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "고덱스",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "당사는 간장용제 '고덱스'를 포함하여 다양한 질환군을 대상으로 한 케미컬의약품 파이프라인을 보유하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "램시마",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "자가면역질환 치료제 5개 품목(램시마, 램시마SC, 유플라이마, 스테키마, 앱토즈마)"
+    },
+    {
+      "axis": "product",
+      "value": "트룩시마",
+      "weight": 0.02,
+      "direction": null,
+      "evidence": "항암제 3개 품목(트룩시마, 허쥬마, 베그젤마)"
+    },
+    {
+      "axis": "product",
+      "value": "허쥬마",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "항암제 3개 품목(트룩시마, 허쥬마, 베그젤마)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "비페닐디메칠디카르복실레이트",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "비페닐디메칠디카르복실레이트 | 3,600 | 5.5"
+    },
+    {
+      "axis": "raw_material",
+      "value": "오로트산카르니틴",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "오로트산카르니틴 | 5,075 | 7.7"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "충청북도 진천과 오창에 생산시설 및 품질 관리시설을 갖추고 정제, 경질캡슐제 등의 전문의약품"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": null,
+      "direction": null,
+      "evidence": "인천 송도에 위치한 글로벌생명공학연구센터 내 연구개발본부에서 복합제 개량신약 개발 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "변동이자율로 발행된 차입금으로 인하여 당사는 이자율변동에 따른 현금흐름변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"고덱스\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"당사는 간장용제 '고덱스'를 포함하여 다양한 질환군을 대상으로 한 케미컬의약품 파이프라인을 보유하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"램시마\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환 치료제 5개 품목(램시마, 램시마SC, 유플라이마, 스테키마, 앱토즈마)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"트룩시마\",\n      \"weight\": 0.02,\n      \"direction\": null,\n      \"evidence\": \"항암제 3개 품목(트룩시마, 허쥬마, 베그젤마)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"허쥬마\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"항암제 3개 품목(트룩시마, 허쥬마, 베그젤마)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"비페닐디메칠디카르복실레이트\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"비페닐디메칠디카르복실레이트 | 3,600 | 5.5\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"오로트산카르니틴\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"오로트산카르니틴 | 5,075 | 7.7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"충청북도 진천과 오창에 생산시설 및 품질 관리시설을 갖추고 정제, 경질캡슐제 등의 전문의약품\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"인천 송도에 위치한 글로벌생명공학연구센터 내 연구개발본부에서 복합제 개량신약 개발 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"변동이자율로 발행된 차입금으로 인하여 당사는 이자율변동에 따른 현금흐름변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/068760_20260316001332.txt"
+}

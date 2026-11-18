@@ -1,0 +1,201 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "LNG 운반선",
+      "weight": 0.773,
+      "direction": null,
+      "evidence": "당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비"
+    },
+    {
+      "axis": "product",
+      "value": "원유 운반선",
+      "weight": 0.773,
+      "direction": null,
+      "evidence": "당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비"
+    },
+    {
+      "axis": "product",
+      "value": "컨테이너선",
+      "weight": 0.773,
+      "direction": null,
+      "evidence": "당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비"
+    },
+    {
+      "axis": "product",
+      "value": "FPSO",
+      "weight": 0.156,
+      "direction": null,
+      "evidence": "부유식 원유생산저장 하역설비(FPSO), 고정식 플랫폼(Fixed Platform), 원유 시추설비(RIG, Drillship) 등 해양제품"
+    },
+    {
+      "axis": "product",
+      "value": "잠수함",
+      "weight": 0.156,
+      "direction": null,
+      "evidence": "잠수함, 구축함, 구난함, 경비함 등 특수선을 건조하는 종합 조선ㆍ해양 전문회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "석유화학플랜트",
+      "weight": 0.064,
+      "direction": null,
+      "evidence": "(주)한화로부터 플랜트 사업을 양수하여, 석유화학(Petrochemicals), 정유(Refinery), 발전/담수(Power & Water), 산업/광물(Industrial, Metal & Minerals) 플랜트를 설계단계부터 시공까지 종합건설 사업을 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력발전기 설치선",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "또한 2024년 12월 1일부터 (주)한화로부터 풍력 사업을 양수하여 육/해상 풍력사업을 사업개발부터 설계, 시공까지 개발 및 종합건설 사업을 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "선박ㆍ해양플랜트산업은 해양에너지 개발산업, 해운업, 수산업, 군수산업, 관광산업 등에 사용되는 각종 선박 건조 및 에너지와 자원의 개발, 가공, 저장 등에 사용되는 장비와 설비 등을 개발ㆍ생산하는 산업입니다."
+    },
+    {
+      "axis": "application",
+      "value": "해양에너지",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이들 산업은 전방 산업인 해양에너지 개발, 해운, 수산, 방위, 해상 및 심해 관광산업의 성장에 단초를 제공하며"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "방위사업청, Chevron Australia Pty Ltd 외"
+    },
+    {
+      "axis": "customer",
+      "value": "Chevron",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "방위사업청, Chevron Australia Pty Ltd 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "강재",
+      "weight": 0.809,
+      "direction": null,
+      "evidence": "선박 건조 등에 필요한 철판 제품은 포스코, 현대제철 등 국내제철소와 일본 및 중국에서 매입하고 있고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "기자재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "선박 주요 부품인 엔진은 HD현대중공업, 한화엔진 등으로부터 매입하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "연결회사는 경상남도 거제시 거제대로 3370(아주동)에 위치한 한화오션(주)를 포함한 국내 사업장 및 중국 등에서 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "연결회사는 경상남도 거제시 거제대로 3370(아주동)에 위치한 한화오션(주)를 포함한 국내 사업장 및 중국 등에서 사업활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "한화오션에코텍(주)는 선박블럭 및 기자재 등 제작 | 전남 광양시 광양읍 율촌산단 3로 111"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "환율 상승 | 외화 계약가의 가치 증가에 따른 환산이익 확대, 파생상품 위험회피 거래에 따른 통화 선도 손실 확대"
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "플랜트산업은 국제 유가 등 시장 동향, 정부의 에너지 정책 방향 등에 따라 투자가 결정되어 시장의 변동성이 있는 편입니다."
+    },
+    {
+      "axis": "product",
+      "value": "LNGC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "상선 | 한화오션,한화해양공정(산동)유한공사,한화오션에코텍 | LNGC, VLCC 등 | Maran Gas Maritime Inc 외 | 77.3"
+    },
+    {
+      "axis": "product",
+      "value": "VLCC",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "상선 | 한화오션,한화해양공정(산동)유한공사,한화오션에코텍 | LNGC, VLCC 등 | Maran Gas Maritime Inc 외 | 77.3"
+    },
+    {
+      "axis": "product",
+      "value": "해상철구조물",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6"
+    },
+    {
+      "axis": "product",
+      "value": "화공 및 발전시설",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4"
+    },
+    {
+      "axis": "customer",
+      "value": "방위사업청",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6"
+    },
+    {
+      "axis": "customer",
+      "value": "Chevron Australia",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6"
+    },
+    {
+      "axis": "customer",
+      "value": "통영에코파워",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4"
+    },
+    {
+      "axis": "customer",
+      "value": "한화솔루션",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 2023년 신성장동력 사업 진출 및 확보를 위해 미주 지역에 Hanwha Ocean USA Holdings Corp. 설립한 바 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"LNG 운반선\", \"weight\": 0.773, \"direction\": null, \"evidence\": \"당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비\"}, {\"axis\": \"product\", \"value\": \"원유 운반선\", \"weight\": 0.773, \"direction\": null, \"evidence\": \"당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비\"}, {\"axis\": \"product\", \"value\": \"컨테이너선\", \"weight\": 0.773, \"direction\": null, \"evidence\": \"당사는 LNG 운반선, 원유 운반선, 컨테이너선, LPG 운반선 등 각종 선박과 부유식 원유생산저장 하역설비\"}, {\"axis\": \"product\", \"value\": \"FPSO\", \"weight\": 0.156, \"direction\": null, \"evidence\": \"부유식 원유생산저장 하역설비(FPSO), 고정식 플랫폼(Fixed Platform), 원유 시추설비(RIG, Drillship) 등 해양제품\"}, {\"axis\": \"product\", \"value\": \"잠수함\", \"weight\": 0.156, \"direction\": null, \"evidence\": \"잠수함, 구축함, 구난함, 경비함 등 특수선을 건조하는 종합 조선ㆍ해양 전문회사입니다.\"}, {\"axis\": \"product\", \"value\": \"석유화학플랜트\", \"weight\": 0.064, \"direction\": null, \"evidence\": \"(주)한화로부터 플랜트 사업을 양수하여, 석유화학(Petrochemicals), 정유(Refinery), 발전/담수(Power & Water), 산업/광물(Industrial, Metal & Minerals) 플랜트를 설계단계부터 시공까지 종합건설 사업을 수행하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"해상풍력발전기 설치선\", \"weight\": 0.01, \"direction\": null, \"evidence\": \"또한 2024년 12월 1일부터 (주)한화로부터 풍력 사업을 양수하여 육/해상 풍력사업을 사업개발부터 설계, 시공까지 개발 및 종합건설 사업을 수행하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"조선\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"선박ㆍ해양플랜트산업은 해양에너지 개발산업, 해운업, 수산업, 군수산업, 관광산업 등에 사용되는 각종 선박 건조 및 에너지와 자원의 개발, 가공, 저장 등에 사용되는 장비와 설비 등을 개발ㆍ생산하는 산업입니다.\"}, {\"axis\": \"application\", \"value\": \"해양에너지\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"이들 산업은 전방 산업인 해양에너지 개발, 해운, 수산, 방위, 해상 및 심해 관광산업의 성장에 단초를 제공하며\"}, {\"axis\": \"customer\", \"value\": \"방위사업청\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"방위사업청, Chevron Australia Pty Ltd 외\"}, {\"axis\": \"customer\", \"value\": \"Chevron\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"방위사업청, Chevron Australia Pty Ltd 외\"}, {\"axis\": \"raw_material\", \"value\": \"강재\", \"weight\": 0.809, \"direction\": null, \"evidence\": \"선박 건조 등에 필요한 철판 제품은 포스코, 현대제철 등 국내제철소와 일본 및 중국에서 매입하고 있고\"}, {\"axis\": \"raw_material\", \"value\": \"기자재\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"선박 주요 부품인 엔진은 HD현대중공업, 한화엔진 등으로부터 매입하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경남\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"연결회사는 경상남도 거제시 거제대로 3370(아주동)에 위치한 한화오션(주)를 포함한 국내 사업장 및 중국 등에서 사업활동을 수행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"연결회사는 경상남도 거제시 거제대로 3370(아주동)에 위치한 한화오션(주)를 포함한 국내 사업장 및 중국 등에서 사업활동을 수행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"전남\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"한화오션에코텍(주)는 선박블럭 및 기자재 등 제작 | 전남 광양시 광양읍 율촌산단 3로 111\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"환율 상승 | 외화 계약가의 가치 증가에 따른 환산이익 확대, 파생상품 위험회피 거래에 따른 통화 선도 손실 확대\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"플랜트산업은 국제 유가 등 시장 동향, 정부의 에너지 정책 방향 등에 따라 투자가 결정되어 시장의 변동성이 있는 편입니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"LNGC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"상선 | 한화오션,한화해양공정(산동)유한공사,한화오션에코텍 | LNGC, VLCC 등 | Maran Gas Maritime Inc 외 | 77.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"VLCC\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"상선 | 한화오션,한화해양공정(산동)유한공사,한화오션에코텍 | LNGC, VLCC 등 | Maran Gas Maritime Inc 외 | 77.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상철구조물\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화공 및 발전시설\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"방위사업청\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Chevron Australia\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"해양 및 특수선 | 한화오션,DSME Kazakhstan LLP | 해상철구조물 등 | 방위사업청, Chevron Australia Pty Ltd 외 | 15.6\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"통영에코파워\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화솔루션\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"E&I | 한화오션 | 화공 및 발전시설 등 | 통영에코파워, 한화솔루션(주) 등 | 6.4\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 2023년 신성장동력 사업 진출 및 확보를 위해 미주 지역에 Hanwha Ocean USA Holdings Corp. 설립한 바 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/042660_20260317000644.txt"
+}

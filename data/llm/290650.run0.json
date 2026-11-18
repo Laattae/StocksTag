@@ -1,0 +1,96 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "인체조직이식재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "인체조직기반 의료기기",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "제약",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "또한, 기존 외과 네트워크를 활용한 제약사업 및 자회사 글로벌의학연구센터를 통한 기능성 화장품 및 건강기능식품 CRO사업"
+    },
+    {
+      "axis": "raw_material",
+      "value": "인체조직",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요매입처는 한국공공조직은행, 해외 인체조직은행 등으로 해외 인체조직은행 한 곳과는 원재료 수입 독점 계약이 되어 있어"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "성남시\n1,282,060\n1,314,036\n-\n-\n2,596,096\n토지\n화성시"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이에 아직 인체조직법이 완비되지 않은 중국 및 동남아시아 국가 등에는 인체조직 기반 의료기기로 개발하여 수출하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "고령화의 가속화와 의료기술의 발전으로 인해 평균 수명이 늘어나는 등 바이오 의료기기의 수요가 매우 커질 것으로 예상합니다."
+    },
+    {
+      "axis": "product",
+      "value": "인체조직 이식재",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "암질환, 유착방지, 골결손 등에 쓰이는 인체조직 이식재(바이오 의료기기 포함)는 경기변동 및 계절적 영향에 둔감한 편이나"
+    },
+    {
+      "axis": "product",
+      "value": "메가카티",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 차세대 성장동력으로 퇴행성 관절염 치료재 메가카티(MegaCarti), 무세포동종진피(hADM)을 활용한 세포외기질(ECM) 기반 복원ㆍ재생 치료재 리투오(Re2O)"
+    },
+    {
+      "axis": "product",
+      "value": "유착방지재",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인체조직기반 온도감응성 유착방지재 메가쉴드(MegaShield), 동종 신경이식재 메가너브 프라임(MegaNerve Prime), 차세대 에스테틱 제품 등을 출시하고"
+    },
+    {
+      "axis": "product",
+      "value": "코스메슈티컬",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "성분의 독특함과 효능의 극대화에 초점을 맞춘 코스메슈티컬은 대표적인 가치소비 품목이며"
+    },
+    {
+      "axis": "product",
+      "value": "바이더닥터 아토",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "ZAG-pepetide를 핵심성분으로 개발된 바이더닥터 아토는 영유아부터 성인까지 다양한 연령대의 피부고민에 적용되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"인체조직이식재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"인체조직기반 의료기기\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제약\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"또한, 기존 외과 네트워크를 활용한 제약사업 및 자회사 글로벌의학연구센터를 통한 기능성 화장품 및 건강기능식품 CRO사업\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"인체조직\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주요매입처는 한국공공조직은행, 해외 인체조직은행 등으로 해외 인체조직은행 한 곳과는 원재료 수입 독점 계약이 되어 있어\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"성남시\\n1,282,060\\n1,314,036\\n-\\n-\\n2,596,096\\n토지\\n화성시\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이에 아직 인체조직법이 완비되지 않은 중국 및 동남아시아 국가 등에는 인체조직 기반 의료기기로 개발하여 수출하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"고령화의 가속화와 의료기술의 발전으로 인해 평균 수명이 늘어나는 등 바이오 의료기기의 수요가 매우 커질 것으로 예상합니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"인체조직 이식재\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"암질환, 유착방지, 골결손 등에 쓰이는 인체조직 이식재(바이오 의료기기 포함)는 경기변동 및 계절적 영향에 둔감한 편이나\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"메가카티\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 차세대 성장동력으로 퇴행성 관절염 치료재 메가카티(MegaCarti), 무세포동종진피(hADM)을 활용한 세포외기질(ECM) 기반 복원ㆍ재생 치료재 리투오(Re2O)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유착방지재\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"인체조직기반 온도감응성 유착방지재 메가쉴드(MegaShield), 동종 신경이식재 메가너브 프라임(MegaNerve Prime), 차세대 에스테틱 제품 등을 출시하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"코스메슈티컬\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"성분의 독특함과 효능의 극대화에 초점을 맞춘 코스메슈티컬은 대표적인 가치소비 품목이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이더닥터 아토\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"ZAG-pepetide를 핵심성분으로 개발된 바이더닥터 아토는 영유아부터 성인까지 다양한 연령대의 피부고민에 적용되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/290650_20260324000006.txt"
+}

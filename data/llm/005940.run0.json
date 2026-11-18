@@ -1,0 +1,194 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "유가증권 중개",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "금융투자업의 주요 사업영역은 ①유가증권 중개 및 매매, 각종 금융상품 개발 및 판매, 고객 포트폴리오 설계 등의 자산관리업무(WM)"
+    },
+    {
+      "axis": "product",
+      "value": "금융상품",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "금융투자업의 주요 사업영역은 ①유가증권 중개 및 매매, 각종 금융상품 개발 및 판매, 고객 포트폴리오 설계 등의 자산관리업무(WM)"
+    },
+    {
+      "axis": "product",
+      "value": "유가증권 인수",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "②유가증권 인수 및 발행, 기업 자금조달, M&A 등의 투자은행업무(IB)"
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Trading | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문"
+    },
+    {
+      "axis": "application",
+      "value": "실물경제",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이러한 업무를 통해 금융투자업은 대한민국 실물경제와 함께 성장해왔으며, 경제성장의 핵심동력으로서 중요한 역할을 수행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "SK스페셜티, 안산 성곡동 데이터센터 PF 등 대형 딜을 수행한 결과입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "글로벌 금리 인하 기조의 본격화와 주요국 경제 정책의 변화 속에서 국내외 금융시장은 일시적인 변동성을 보였으나"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내 4분기 달러-원 환율은 미국 금리 달러 강세 국면과 위험회피 심리, 내국인의 해외투자 확대 기조로 3분기 대비 31.7원 상승한 1,434.9원을 기록했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "지분증권 | 주식 | 유가증권시장 | 334,692,183 | 334,060,252 | 668,752,436 | 313,563"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "채무증권 | 채권 | 장내 | 577,173 | 1,876,740 | 2,453,912 | 5,546"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "선물 | 국내 | 619,226,907 | 618,945,102 | 1,238,172,009 | 18,372"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "옵션 | 장내 | 국내 | 19,050,021 | 19,183,824 | 38,233,845 | 13,175"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "서울 | 20 | 1 | - | 21"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "경기 | 10 | - | - | 10"
+    },
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "(나) N2 HTS/홈페이지(www.nhsec.com) 수수료율\n거래상품 |\n거래금액 |\n수수료율 |\n주식 |"
+    },
+    {
+      "axis": "product",
+      "value": "선물",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선물 |\nKOSPI200/코스닥150/미니KOSPI200/유로스톡스50/KRX300/코스닥글로벌 |\n금액 무관 |\n0.0097974%"
+    },
+    {
+      "axis": "product",
+      "value": "옵션",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "옵션 |\nKOSPI200/KOSPI200 위클리 |\n1천만원 미만 |\n 옵션가격 0.42미만 : 0.382346% + (계약건당 13원)"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(3) 채권매매(영업점, 고객지원센터, 홈페이지, N2 HTS, N2 MTS)"
+    },
+    {
+      "axis": "product",
+      "value": "금 현물",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "금 현물 |\n금액 무관 |\n0.50% (VAT 10% 별도) |"
+    },
+    {
+      "axis": "region",
+      "value": "홍콩",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "◆ NH Investment & Securities (H.K.) Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "◆ NH Securities Vietnam Co., Ltd."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "◆ PT. NH Korindo Sekuritas Indonesia"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "◆ NH Investment & Securities America, Inc."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "한편, 환율 변동 위험은 금융상품을 측정하는 기능통화 이외의 통화로 표시된 금융상품에서 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"유가증권 중개\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"금융투자업의 주요 사업영역은 ①유가증권 중개 및 매매, 각종 금융상품 개발 및 판매, 고객 포트폴리오 설계 등의 자산관리업무(WM)\"}, {\"axis\": \"product\", \"value\": \"금융상품\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"금융투자업의 주요 사업영역은 ①유가증권 중개 및 매매, 각종 금융상품 개발 및 판매, 고객 포트폴리오 설계 등의 자산관리업무(WM)\"}, {\"axis\": \"product\", \"value\": \"유가증권 인수\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"②유가증권 인수 및 발행, 기업 자금조달, M&A 등의 투자은행업무(IB)\"}, {\"axis\": \"product\", \"value\": \"파생상품\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"Trading | 주식, 채권 등 상품운용 및 파생상품 공급과 자기자본투자를 수행하는 부문\"}, {\"axis\": \"application\", \"value\": \"실물경제\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"이러한 업무를 통해 금융투자업은 대한민국 실물경제와 함께 성장해왔으며, 경제성장의 핵심동력으로서 중요한 역할을 수행하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"SK스페셜티, 안산 성곡동 데이터센터 PF 등 대형 딜을 수행한 결과입니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"글로벌 금리 인하 기조의 본격화와 주요국 경제 정책의 변화 속에서 국내외 금융시장은 일시적인 변동성을 보였으나\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"국내 4분기 달러-원 환율은 미국 금리 달러 강세 국면과 위험회피 심리, 내국인의 해외투자 확대 기조로 3분기 대비 31.7원 상승한 1,434.9원을 기록했습니다.\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"지분증권 | 주식 | 유가증권시장 | 334,692,183 | 334,060,252 | 668,752,436 | 313,563\"}, {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"채무증권 | 채권 | 장내 | 577,173 | 1,876,740 | 2,453,912 | 5,546\"}, {\"axis\": \"product\", \"value\": \"선물\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"선물 | 국내 | 619,226,907 | 618,945,102 | 1,238,172,009 | 18,372\"}, {\"axis\": \"product\", \"value\": \"옵션\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"옵션 | 장내 | 국내 | 19,050,021 | 19,183,824 | 38,233,845 | 13,175\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"서울 | 20 | 1 | - | 21\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"경기 | 10 | - | - | 10\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"주식\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"(나) N2 HTS/홈페이지(www.nhsec.com) 수수료율\\n거래상품 |\\n거래금액 |\\n수수료율 |\\n주식 |\"}, {\"axis\": \"product\", \"value\": \"선물\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"선물 |\\nKOSPI200/코스닥150/미니KOSPI200/유로스톡스50/KRX300/코스닥글로벌 |\\n금액 무관 |\\n0.0097974%\"}, {\"axis\": \"product\", \"value\": \"옵션\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"옵션 |\\nKOSPI200/KOSPI200 위클리 |\\n1천만원 미만 |\\n 옵션가격 0.42미만 : 0.382346% + (계약건당 13원)\"}, {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"(3) 채권매매(영업점, 고객지원센터, 홈페이지, N2 HTS, N2 MTS)\"}, {\"axis\": \"product\", \"value\": \"금 현물\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"금 현물 |\\n금액 무관 |\\n0.50% (VAT 10% 별도) |\"}, {\"axis\": \"region\", \"value\": \"홍콩\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"◆ NH Investment & Securities (H.K.) Ltd.\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"◆ NH Securities Vietnam Co., Ltd.\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"◆ PT. NH Korindo Sekuritas Indonesia\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"◆ NH Investment & Securities America, Inc.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"한편, 환율 변동 위험은 금융상품을 측정하는 기능통화 이외의 통화로 표시된 금융상품에서 발생합니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다.\"}, {\"axis\": \"exposure\", \"value\": \"주가\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"시장위험은 금리, 주가, 환율 등 시장상황의 변동으로 인하여 기대했던 수익을 얻을 수 없게 되는 위험을 의미합니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/005940_20260313000771.txt"
+}

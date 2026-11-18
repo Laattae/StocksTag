@@ -1,0 +1,186 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "Chemical Air Filter",
+      "weight": 0.83,
+      "direction": null,
+      "evidence": "ChemicalAir FiIter 반도체 및 디스플레이 제조 클린룸 및 주요 공정 장비에 적용되며, 공기 중 분자 오염물질(AMC)을 제거하여 공정 환경 유지 및 생산 안정성 확보를 목적으로 사용됨 67,407 82.68%"
+    },
+    {
+      "axis": "product",
+      "value": "GV1001",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "바이오사업 젬백스앤카엘 용역 라이선스 계약 GV1001의 진행성 핵상 마비 적응증에 대한 임상시험, 품목허가, 및 판매 또는 그 위탁을 실시할 수 있는 라이선스를 독점적으로 실시할 수 있는 권한 허여(대한민국, 일본, 인도, 인도네시아) 11,500 14.11%"
+    },
+    {
+      "axis": "product",
+      "value": "Filter media",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "FiIter media Chemical Air Filter에 적용되는 핵심 소재로서, 공정상 화학오염물질 제거기능을 수행함 2,366 2.90%"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 제조 공정에 필수적인 Chemical Air Filter 등을 국산화하여 글로벌 반도체 및 디스플레이 제조사에 공급하고 있는 환경오염제어 사업부문은"
+    },
+    {
+      "axis": "application",
+      "value": "디스플레이",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "반도체 및 디스플레이 제조 공정에 필수적인 Chemical Air Filter 등을 국산화하여 글로벌 반도체 및 디스플레이 제조사에 공급하고 있는 환경오염제어 사업부문은"
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머병",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "바이오사업부문은 텔로머라제 유래 펩타이드 기술을 기반으로 신약 연구개발을 수행하고 있으며, 대표 파이프라인인 GV1001을 중심으로 알츠하이머병(AD) 및 진행성 핵상마비(PSP)를 주요 적응증으로 국내외 임상시험을 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "진행성 핵상마비",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "바이오사업부문은 텔로머라제 유래 펩타이드 기술을 기반으로 신약 연구개발을 수행하고 있으며, 대표 파이프라인인 GV1001을 중심으로 알츠하이머병(AD) 및 진행성 핵상마비(PSP)를 주요 적응증으로 국내외 임상시험을 수행하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성제약",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "GV1001 삼성제약㈜ 알츠하이머병 대한민국 2023.05.25 2038.12.31(연장 가능) 120,000 12,000 국내3상 임상시험 IND 승인"
+    },
+    {
+      "axis": "raw_material",
+      "value": "AL Frame",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "내수 AL Frame Chemical Air Filter 제조 11,722 40.09"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Activated Carbon",
+      "weight": 0.24,
+      "direction": null,
+      "evidence": "내수 Activated Carbon Filter adsorbent 제조 5,423 24.04"
+    },
+    {
+      "axis": "raw_material",
+      "value": "이온교환수지",
+      "weight": 0.21,
+      "direction": null,
+      "evidence": "내수 이온교환수지 Filter media 제조 5,097 21.00"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Aluminum mesh",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "내수 Aluminum mesh Chemical Air Filter 제조 1,191 4.90"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 본사는 경기도 성남시 분당구에 위치하고 있으며, 생산설비는 대전광역시 유성구에 위치하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 산업 투자",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "반도체 산업의 지속적인 투자 확대에 따라 관련 필터 수요가 증가하고 있어 향후 지속적인 성장이 기대되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사는 수출 및 원재료 수입 거래와 관련하여 USD, JPY, SGD, CNY 등의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GV1001",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물"
+    },
+    {
+      "axis": "product",
+      "value": "케미칼필터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "부직포에 첨착활성탄을 입착시킨 필터 여재, 필터 여재 제작 방법 및 필터 여재를 구비한 케미칼필터 제작방법"
+    },
+    {
+      "axis": "product",
+      "value": "gas scrubber",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "세라믹 관을 이용하여 가스 스크러버 연소로의 부식을 억제하는 방법부직포에 첨착활성탄을 입착시킨 필터 여재"
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물"
+    },
+    {
+      "axis": "application",
+      "value": "항암",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "항암 | GV1001 등 | 암의 면역학적 치료에 유용한 생물학적 마커 항암 치료용 사이토카인 유도 살해세포의 생산 방법"
+    },
+    {
+      "axis": "application",
+      "value": "전립선 비대증",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전립선 비대증 | GV1001 | 전립선 비대증 치료 및 예방용 조성물"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"Chemical Air Filter\",\n      \"weight\": 0.83,\n      \"direction\": null,\n      \"evidence\": \"ChemicalAir FiIter 반도체 및 디스플레이 제조 클린룸 및 주요 공정 장비에 적용되며, 공기 중 분자 오염물질(AMC)을 제거하여 공정 환경 유지 및 생산 안정성 확보를 목적으로 사용됨 67,407 82.68%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GV1001\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"바이오사업 젬백스앤카엘 용역 라이선스 계약 GV1001의 진행성 핵상 마비 적응증에 대한 임상시험, 품목허가, 및 판매 또는 그 위탁을 실시할 수 있는 라이선스를 독점적으로 실시할 수 있는 권한 허여(대한민국, 일본, 인도, 인도네시아) 11,500 14.11%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Filter media\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"FiIter media Chemical Air Filter에 적용되는 핵심 소재로서, 공정상 화학오염물질 제거기능을 수행함 2,366 2.90%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 공정에 필수적인 Chemical Air Filter 등을 국산화하여 글로벌 반도체 및 디스플레이 제조사에 공급하고 있는 환경오염제어 사업부문은\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디스플레이\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"반도체 및 디스플레이 제조 공정에 필수적인 Chemical Air Filter 등을 국산화하여 글로벌 반도체 및 디스플레이 제조사에 공급하고 있는 환경오염제어 사업부문은\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알츠하이머병\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"바이오사업부문은 텔로머라제 유래 펩타이드 기술을 기반으로 신약 연구개발을 수행하고 있으며, 대표 파이프라인인 GV1001을 중심으로 알츠하이머병(AD) 및 진행성 핵상마비(PSP)를 주요 적응증으로 국내외 임상시험을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"진행성 핵상마비\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"바이오사업부문은 텔로머라제 유래 펩타이드 기술을 기반으로 신약 연구개발을 수행하고 있으며, 대표 파이프라인인 GV1001을 중심으로 알츠하이머병(AD) 및 진행성 핵상마비(PSP)를 주요 적응증으로 국내외 임상시험을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성제약\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"GV1001 삼성제약㈜ 알츠하이머병 대한민국 2023.05.25 2038.12.31(연장 가능) 120,000 12,000 국내3상 임상시험 IND 승인\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"AL Frame\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"내수 AL Frame Chemical Air Filter 제조 11,722 40.09\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Activated Carbon\",\n      \"weight\": 0.24,\n      \"direction\": null,\n      \"evidence\": \"내수 Activated Carbon Filter adsorbent 제조 5,423 24.04\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"이온교환수지\",\n      \"weight\": 0.21,\n      \"direction\": null,\n      \"evidence\": \"내수 이온교환수지 Filter media 제조 5,097 21.00\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Aluminum mesh\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"내수 Aluminum mesh Chemical Air Filter 제조 1,191 4.90\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 본사는 경기도 성남시 분당구에 위치하고 있으며, 생산설비는 대전광역시 유성구에 위치하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 산업 투자\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"반도체 산업의 지속적인 투자 확대에 따라 관련 필터 수요가 증가하고 있어 향후 지속적인 성장이 기대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 수출 및 원재료 수입 거래와 관련하여 USD, JPY, SGD, CNY 등의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사는 차입금과 관련하여 이자율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GV1001\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"케미칼필터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"부직포에 첨착활성탄을 입착시킨 필터 여재, 필터 여재 제작 방법 및 필터 여재를 구비한 케미칼필터 제작방법\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"gas scrubber\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"세라믹 관을 이용하여 가스 스크러버 연소로의 부식을 억제하는 방법부직포에 첨착활성탄을 입착시킨 필터 여재\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알츠하이머\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"항암\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"항암 | GV1001 등 | 암의 면역학적 치료에 유용한 생물학적 마커 항암 치료용 사이토카인 유도 살해세포의 생산 방법\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전립선 비대증\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전립선 비대증 | GV1001 | 전립선 비대증 치료 및 예방용 조성물\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"알츠하이머 | GV1001 | 신경세포 손실 예방 및 재생 효능을 가지는 펩티드 및 이를 포함하는 조성물 항염증 활성을 갖는 펩티드 및 이를 포함하는 조성물 중추 또는 말초 신경계 질환의 치료용, 예방용 또는 개선용 조성물 | 13 | 국내, 미국, 중국, 일본, 유럽 등\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/082270_20260320001156.txt"
+}

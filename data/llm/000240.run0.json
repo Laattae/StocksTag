@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "축전지",
+      "weight": 0.84,
+      "direction": null,
+      "evidence": "사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "타이어",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "타이어부문 (대상회사 : 한국타이어앤테크놀로지), 일반기계사업부문 (대상회사 : 한국엔지니어링웍스), 금형사업부문 (대상회사 : 한국프리시전웍스)은 당사의 지분법 대상 기업으로 자세한 사업의 내용은 한국타이어앤테크놀로지㈜의 사업보고서를 참조하시기 바랍니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "납",
+      "weight": 0.86,
+      "direction": null,
+      "evidence": "축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내 대전사업장과 전주사업장 그리고 북미 미국사업장에서 제품 제조, 개발, 마케팅 및 영업활동 등을 진행하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": null,
+      "direction": null,
+      "evidence": "전주사업장 | 자가 | 전라북도 완주군 봉동읍 완주산단2로 40"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "Hankook & Company ES America Corporation | 100 | 100 | 미국 | 12월 | 차량용 배터리의 제조 및 판매"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며"
+    },
+    {
+      "axis": "exposure",
+      "value": "세계경기",
+      "weight": null,
+      "direction": 1,
+      "evidence": "수출이 높은 비중을 차지함에 따라 세계경기의 변화에 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"축전지\",\n      \"weight\": 0.84,\n      \"direction\": null,\n      \"evidence\": \"사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며, 당기말 현재 전체 매출의 83.9%를 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"타이어\",\n      \"weight\": 0.22,\n      \"direction\": null,\n      \"evidence\": \"타이어부문 (대상회사 : 한국타이어앤테크놀로지), 일반기계사업부문 (대상회사 : 한국엔지니어링웍스), 금형사업부문 (대상회사 : 한국프리시전웍스)은 당사의 지분법 대상 기업으로 자세한 사업의 내용은 한국타이어앤테크놀로지㈜의 사업보고서를 참조하시기 바랍니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납\",\n      \"weight\": 0.86,\n      \"direction\": null,\n      \"evidence\": \"축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"사업총괄부문은 자동차용 및 산업용 축전지 제조, 판매를 주요 사업으로 하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내 대전사업장과 전주사업장 그리고 북미 미국사업장에서 제품 제조, 개발, 마케팅 및 영업활동 등을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"전주사업장 | 자가 | 전라북도 완주군 봉동읍 완주산단2로 40\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"Hankook & Company ES America Corporation | 100 | 100 | 미국 | 12월 | 차량용 배터리의 제조 및 판매\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"축전지업계의 수익성에 직접 영향을 미치는 원재료인 납은 LME 가격 및 환율이 원가의 변동에 큰 영향을 주며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"세계경기\",\n      \"weight\": null,\n      \"direction\": 1,\n      \"evidence\": \"수출이 높은 비중을 차지함에 따라 세계경기의 변화에 영향을 받습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/000240_20260318000997.txt"
+}

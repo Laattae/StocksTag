@@ -1,0 +1,129 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "디스플레이 부품",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "디스플레이 | 51,463,387 | 33.01% | 46,627,837 | 32.28% | 44,601,665 | 36.56%"
+    },
+    {
+      "axis": "product",
+      "value": "자율주행 부품",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "자율주행차 | 34,300,811 | 22.01% | 34,756,474 | 24.06% | 18,785,598 | 15.40%"
+    },
+    {
+      "axis": "product",
+      "value": "배터리 부품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "배터리 | 7,961,086 | 5.11% | 6,709,477 | 4.65% | - | 0.00%"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "자동차부품 | 101,306,634 | 64.99% | 98,704,143 | 68.34% | 75,911,254 | 62.23%"
+    },
+    {
+      "axis": "application",
+      "value": "가전",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "금형 및 가전 | 50,859,383 | 32.63% | 45,584,600 | 31.55% | 41,181,405 | 33.76%"
+    },
+    {
+      "axis": "application",
+      "value": "로봇",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "최근에는 휴머노이드 AI로봇의 부품도 수주를 하여 로봇 분야로의 진출에도 성공하였고 현재 개발 단계에 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "LG전자",
+      "weight": 0.53,
+      "direction": null,
+      "evidence": "A사 | 82,698,735 | 53.05%"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "B사 | 29,799,101 | 19.12%"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "C사 | 16,805,354 | 10.78%"
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "D사 | 7,961,086 | 5.11%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "마그네슘",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 베트남 등 해외 생산거점 확장과 신규 글로벌 고객사 확보를 통해 미래 성장동력을 강화하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 국내 및 현지에서 원재료를 직접 조달하고 있으며 원재료는 국제 시세의 변동 및 환율 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "다이캐스팅 업체와 같이 원자재의 비중이 높은 산업은 원자재 가격 변동이 회사의 경영상 손익에 영향을 줄 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"디스플레이 부품\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"디스플레이 | 51,463,387 | 33.01% | 46,627,837 | 32.28% | 44,601,665 | 36.56%\"}, {\"axis\": \"product\", \"value\": \"자율주행 부품\", \"weight\": 0.22, \"direction\": null, \"evidence\": \"자율주행차 | 34,300,811 | 22.01% | 34,756,474 | 24.06% | 18,785,598 | 15.40%\"}, {\"axis\": \"product\", \"value\": \"배터리 부품\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"배터리 | 7,961,086 | 5.11% | 6,709,477 | 4.65% | - | 0.00%\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.65, \"direction\": null, \"evidence\": \"자동차부품 | 101,306,634 | 64.99% | 98,704,143 | 68.34% | 75,911,254 | 62.23%\"}, {\"axis\": \"application\", \"value\": \"가전\", \"weight\": 0.33, \"direction\": null, \"evidence\": \"금형 및 가전 | 50,859,383 | 32.63% | 45,584,600 | 31.55% | 41,181,405 | 33.76%\"}, {\"axis\": \"application\", \"value\": \"로봇\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"최근에는 휴머노이드 AI로봇의 부품도 수주를 하여 로봇 분야로의 진출에도 성공하였고 현재 개발 단계에 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"LG전자\", \"weight\": 0.53, \"direction\": null, \"evidence\": \"A사 | 82,698,735 | 53.05%\"}, {\"axis\": \"customer\", \"value\": \"현대모비스\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"B사 | 29,799,101 | 19.12%\"}, {\"axis\": \"customer\", \"value\": \"삼성전기\", \"weight\": 0.11, \"direction\": null, \"evidence\": \"C사 | 16,805,354 | 10.78%\"}, {\"axis\": \"customer\", \"value\": \"현대자동차\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"D사 | 7,961,086 | 5.11%\"}, {\"axis\": \"raw_material\", \"value\": \"알루미늄\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"마그네슘\", \"weight\": 0.04, \"direction\": null, \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"}, {\"axis\": \"raw_material\", \"value\": \"아연\", \"weight\": 0.01, \"direction\": null, \"evidence\": \"당사의 원재료 비율은 2025년 기준 알루미늄합금 합금 약 85%, 마그네슘합금 약 4%, 아연합금 약 1% 입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"350톤 이하 | 6,994,458 | 18,721,646 | 6,911,520 | 18,598,272 | 5,660,864 | 17,880,192\"}, {\"axis\": \"region\", \"value\": \"베트남\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"또한 베트남 등 해외 생산거점 확장과 신규 글로벌 고객사 확보를 통해 미래 성장동력을 강화하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"당사는 국내 및 현지에서 원재료를 직접 조달하고 있으며 원재료는 국제 시세의 변동 및 환율 변동에 영향을 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.5, \"direction\": -1, \"evidence\": \"다이캐스팅 업체와 같이 원자재의 비중이 높은 산업은 원자재 가격 변동이 회사의 경영상 손익에 영향을 줄 수 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/125490_20260319000665.txt"
+}

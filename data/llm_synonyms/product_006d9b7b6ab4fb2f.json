@@ -1,0 +1,67 @@
+{
+  "merges": [
+    {
+      "group": 4,
+      "canonical": "홈쇼핑",
+      "synonyms": [
+        "TV홈쇼핑"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "기초화장품",
+      "synonyms": [
+        "기초 화장품"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "색조화장품",
+      "synonyms": [
+        "색조 화장품"
+      ]
+    },
+    {
+      "group": 5,
+      "canonical": "줄기세포배양액화장품",
+      "synonyms": [
+        "줄기세포배양액 화장품"
+      ]
+    },
+    {
+      "group": 6,
+      "canonical": "무연휘발유",
+      "synonyms": [
+        "무연 휘발유"
+      ]
+    },
+    {
+      "group": 8,
+      "canonical": "BOPP",
+      "synonyms": [
+        "BOPP 필름"
+      ]
+    },
+    {
+      "group": 14,
+      "canonical": "HVAC",
+      "synonyms": [
+        "에이치백(HVAC)"
+      ]
+    },
+    {
+      "group": 16,
+      "canonical": "PC게임",
+      "synonyms": [
+        "PC 게임"
+      ]
+    },
+    {
+      "group": 19,
+      "canonical": "가스터빈엔진",
+      "synonyms": [
+        "가스터빈 엔진"
+      ]
+    }
+  ]
+}

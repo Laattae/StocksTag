@@ -1,0 +1,102 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체검사장비",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사 주력 제품으로는 Cube Prober, Probe Station, Memory 및 SOC Test Handler 등이 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "C.O.K",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "C.O.K(change over kit) | 58,557 | 48,185 | 38,275 | 36.80% | 25.97% | 28.65%"
+    },
+    {
+      "axis": "product",
+      "value": "디스플레이평가장비",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "디스플레이평가장비로는 광학평가시스템(Optical evaluation system), Module process system"
+    },
+    {
+      "axis": "application",
+      "value": "AI 서버",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근 이슈로 떠오른 챗GPT 등 AI 반도체 용량과 처리속도가 빠르게 증가하고 있어"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SoC(System on Chip) 부문은 자동차 전장(자율주행), IoT, VR/AR, 웨어러블 기기(스마트워치, 스마트밴드, 무선 이어폰 등) 등의 칩 수요 증가에 따라"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "SSD(Solid State Drive) 부문 역시 자기디스크에 데이터를 저장하는 기존의 HDD(Hard Disk Drive)와 달리 반도체 메모리에 직접 데이터를 기록함으로써 데이터 처리 속도가 훨씬 빠르고 전력소모가 적어 Storage 분야에서 꾸준하게 수요가 증가할 것으로 전망됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Micron",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동탄본사 | 토지 | 화성시 동탄면 방교리 750-446"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "아산공장 | 토지 | 아산시 음봉면 신휴리 777 외"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "보고기간종료일 현재 다른 모든 변수가 일정하고 외화에 대한 원화환율이 5% 상승 또는 하락할 경우 세후 이익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 전방산업 수요",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "반도체 장비 산업의 경기변동은 주로 소자업체들의 설비투자 계획에 민감하게 반응하며, 반도체 소자 업체의 경기변동에 후행 하는 특성을 갖고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체검사장비\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사 주력 제품으로는 Cube Prober, Probe Station, Memory 및 SOC Test Handler 등이 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"C.O.K\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"C.O.K(change over kit) | 58,557 | 48,185 | 38,275 | 36.80% | 25.97% | 28.65%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디스플레이평가장비\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"디스플레이평가장비로는 광학평가시스템(Optical evaluation system), Module process system\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI 서버\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 이슈로 떠오른 챗GPT 등 AI 반도체 용량과 처리속도가 빠르게 증가하고 있어\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"스마트폰\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SoC(System on Chip) 부문은 자동차 전장(자율주행), IoT, VR/AR, 웨어러블 기기(스마트워치, 스마트밴드, 무선 이어폰 등) 등의 칩 수요 증가에 따라\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"SSD(Solid State Drive) 부문 역시 자기디스크에 데이터를 저장하는 기존의 HDD(Hard Disk Drive)와 달리 반도체 메모리에 직접 데이터를 기록함으로써 데이터 처리 속도가 훨씬 빠르고 전력소모가 적어 Storage 분야에서 꾸준하게 수요가 증가할 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Micron\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 제품은 SK하이닉스, 삼성전자, Micron, Intel, Infineon 등 유수의 글로벌 반도체 기업에공급되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"동탄본사 | 토지 | 화성시 동탄면 방교리 750-446\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"아산공장 | 토지 | 아산시 음봉면 신휴리 777 외\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"보고기간종료일 현재 다른 모든 변수가 일정하고 외화에 대한 원화환율이 5% 상승 또는 하락할 경우 세후 이익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 전방산업 수요\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"반도체 장비 산업의 경기변동은 주로 소자업체들의 설비투자 계획에 민감하게 반응하며, 반도체 소자 업체의 경기변동에 후행 하는 특성을 갖고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/089030_20260623000173.txt"
+}

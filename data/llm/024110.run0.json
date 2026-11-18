@@ -1,0 +1,165 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업"
+    },
+    {
+      "axis": "product",
+      "value": "대출금",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업"
+    },
+    {
+      "axis": "product",
+      "value": "신탁업",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드업",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "금리 인하기 진입에 따른 NIM 악화에도 불구하고, 적극적인 중기금융 지원을 통한 대출자산의 성장"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제유가",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "중동發 지정학적 리스크 확대로 국제유가 급등 등 부정적 영향을 받을 것으로 예상됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "美 관세정책 및 고환율 등 대외 불확실성 지속으로 금융시장 변동성이 확대되고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인"
+    },
+    {
+      "axis": "region",
+      "value": "미얀마",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인"
+    },
+    {
+      "axis": "region",
+      "value": "폴란드",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인"
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "완전경쟁시장 하에서 다수 증권사들은 위탁매매시장의 낮은 거래수수료로 인한 온라인 채널활성화와 퇴직연금사업의 경쟁 고도화 등으로"
+    },
+    {
+      "axis": "product",
+      "value": "보험상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "보험사 및 타금융권과의 경쟁이 심화될수록 상품 경쟁력 및 서비스 차별화 정도가 기업의 핵심 경쟁력이 될 것으로 예상됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "집합투자상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "개인투자자 및 기관의 자금이 예금 중심의 자산배분에서 투자상품 중심으로 점진적으로 이동하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "채권추심",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "채권추심업은 1997년 IMF후에 신종 금융업무로서 자리매김을 해 나가고 있으나 최근 각종 규제강화로 성장이 정체되고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "금융IT서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "금융IT서비스는 사용자 요구수준이 향상되고, 정보시스템이 복잡해짐에 따라 단순개발에서 탈피하여 컨설팅에서부터 AI, 클라우드, 사이버 보안 등으로 사업영역이 확대되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "2025년에는 금리 등 시장 불확실성 증가, 경제성장률 둔화에 따른 보험수요 감소 및 보험업 관련 규제 강화 등으로 생명보험사 실적 개선은 제한적일 전망입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "시장변동성",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "2020년부터는 금융시장 불확실성 지속과 시장변동성 확대로 리스크관리의 중요성이 부각되었으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "최근 부동산 경기 침체와 취약차주 증가로 수익성 부진과 자산 성장의 정체가 지속되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "중국의 은행업은 금융업종 중 주도적인 위치를 차지하고 있으며 금융개혁을 지속적으로 실시하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 은행산업은 2025년 12월 기준 자산규모 8.2% 증가했으며, 여신 9.63% 증가, 수신 13.83% 증가하였습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출금\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"예금ㆍ적금의 수입, 자금의 대출 또는 어음의 할인, 내ㆍ외국환 등의 사업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁업\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드업\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"투자자문업, 신탁업, 보험대리점의 업무, 퇴직연금사업자의 업무, 신용카드업 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"금리 인하기 진입에 따른 NIM 악화에도 불구하고, 적극적인 중기금융 지원을 통한 대출자산의 성장\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제유가\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"중동發 지정학적 리스크 확대로 국제유가 급등 등 부정적 영향을 받을 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"美 관세정책 및 고환율 등 대외 불확실성 지속으로 금융시장 변동성이 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미얀마\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"폴란드\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"기업은행(중국)유한공사, IBK인도네시아은행, IBK미얀마은행, IBK폴란드은행 등 4개의 해외법인\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"완전경쟁시장 하에서 다수 증권사들은 위탁매매시장의 낮은 거래수수료로 인한 온라인 채널활성화와 퇴직연금사업의 경쟁 고도화 등으로\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"보험사 및 타금융권과의 경쟁이 심화될수록 상품 경쟁력 및 서비스 차별화 정도가 기업의 핵심 경쟁력이 될 것으로 예상됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"집합투자상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"개인투자자 및 기관의 자금이 예금 중심의 자산배분에서 투자상품 중심으로 점진적으로 이동하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권추심\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"채권추심업은 1997년 IMF후에 신종 금융업무로서 자리매김을 해 나가고 있으나 최근 각종 규제강화로 성장이 정체되고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"금융IT서비스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"금융IT서비스는 사용자 요구수준이 향상되고, 정보시스템이 복잡해짐에 따라 단순개발에서 탈피하여 컨설팅에서부터 AI, 클라우드, 사이버 보안 등으로 사업영역이 확대되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"2025년에는 금리 등 시장 불확실성 증가, 경제성장률 둔화에 따른 보험수요 감소 및 보험업 관련 규제 강화 등으로 생명보험사 실적 개선은 제한적일 전망입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"시장변동성\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"2020년부터는 금융시장 불확실성 지속과 시장변동성 확대로 리스크관리의 중요성이 부각되었으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"최근 부동산 경기 침체와 취약차주 증가로 수익성 부진과 자산 성장의 정체가 지속되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"중국의 은행업은 금융업종 중 주도적인 위치를 차지하고 있으며 금융개혁을 지속적으로 실시하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 은행산업은 2025년 12월 기준 자산규모 8.2% 증가했으며, 여신 9.63% 증가, 수신 13.83% 증가하였습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/024110_20260318000761.txt"
+}

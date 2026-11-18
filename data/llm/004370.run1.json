@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "라면",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "스낵",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "음료",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "백산수",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "당사는 '백산수', '웰치스' 등 대표 브랜드를 중심으로 생수, 탄산음료 및 주스 카테고리에서 점유율 확대에 주력하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "소맥분",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "소맥분의 경우 기상 및 재배면적 변화에 따른 작황이 곡물 시세에 절대적인 영향을 주고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "팜유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "팜유는 말레이시아의 주요 공급선을 대상으로 경쟁입찰 방식의 선도구매를 진행하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "포장재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "안성공장 경기도 안성시 공단로 28(신소현동)"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "아산공장 충청남도 아산시 탕정면 탕정면로 485"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "부산공장 부산광역시 사상구 사상로 455번길 46(모라동)"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "구미공장 경상북도 구미시 1공단로7길 58-11(공단동)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "농심아메리카 미국, LA"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "상해공장 중국, 상해"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 유가",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "시세는 수급상황, 국제 원자재 가격 및 유가, 세계경기 추이 등에 직간접적인 영향을 받으며, 중동지역 정세불안 가중으로 식물유지 시세 전반에 상방압력이 가중되었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": -1,
+      "evidence": "최근 기후, 전쟁, 미국의 관세 및 금리정책 이슈 등으로 변동성이 심화될 것으로 예상됩니다."
+    },
+    {
+      "axis": "region",
+      "value": "한국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "구분 | \n한국 | \n중국 | \n미국 | \n캐나다 | \n일본 | \n호주 | \n베트남"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "구분 | \n한국 | \n중국 | \n미국 | \n캐나다 | \n일본 | \n호주 | \n베트남"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "구분 | \n한국 | \n중국 | \n미국 | \n캐나다 | \n일본 | \n호주 | \n베트남"
+    },
+    {
+      "axis": "region",
+      "value": "캐나다",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "구분 | \n한국 | \n중국 | \n미국 | \n캐나다 | \n일본 | \n호주 | \n베트남"
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "구분 | \n한국 | \n중국 | \n미국 | \n캐나다 | \n일본 | \n호주 | \n베트남"
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"라면\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"스낵\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"음료\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"면류, 스낵, 음료 등의 판매를 주사업으로 하는 농심은 브랜드 파워, 연구개발 역량, 생산 및 품질, 경영능력 면에서 세계적인 경쟁력을 갖추고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"백산수\", \"weight\": 0.05, \"direction\": null, \"evidence\": \"당사는 '백산수', '웰치스' 등 대표 브랜드를 중심으로 생수, 탄산음료 및 주스 카테고리에서 점유율 확대에 주력하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"소맥분\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"소맥분의 경우 기상 및 재배면적 변화에 따른 작황이 곡물 시세에 절대적인 영향을 주고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"팜유\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"팜유는 말레이시아의 주요 공급선을 대상으로 경쟁입찰 방식의 선도구매를 진행하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"포장재\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"안성공장 경기도 안성시 공단로 28(신소현동)\"}, {\"axis\": \"region\", \"value\": \"충남\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"아산공장 충청남도 아산시 탕정면 탕정면로 485\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"부산공장 부산광역시 사상구 사상로 455번길 46(모라동)\"}, {\"axis\": \"region\", \"value\": \"경북\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"구미공장 경상북도 구미시 1공단로7길 58-11(공단동)\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"농심아메리카 미국, LA\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"상해공장 중국, 상해\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"포장재는 국내 주요 연포장업체를 통해 구매하고 있으며, 국제유가와 기초원료인 나프타 그리고 환율 등 국내외 시세에 영향을 받는 구조입니다.\"}, {\"axis\": \"exposure\", \"value\": \"국제 유가\", \"weight\": 0.3, \"direction\": -1, \"evidence\": \"시세는 수급상황, 국제 원자재 가격 및 유가, 세계경기 추이 등에 직간접적인 영향을 받으며, 중동지역 정세불안 가중으로 식물유지 시세 전반에 상방압력이 가중되었습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.2, \"direction\": -1, \"evidence\": \"최근 기후, 전쟁, 미국의 관세 및 금리정책 이슈 등으로 변동성이 심화될 것으로 예상됩니다.\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"region\",\n      \"value\": \"한국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"구분 | \\n한국 | \\n중국 | \\n미국 | \\n캐나다 | \\n일본 | \\n호주 | \\n베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"구분 | \\n한국 | \\n중국 | \\n미국 | \\n캐나다 | \\n일본 | \\n호주 | \\n베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"구분 | \\n한국 | \\n중국 | \\n미국 | \\n캐나다 | \\n일본 | \\n호주 | \\n베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캐나다\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"구분 | \\n한국 | \\n중국 | \\n미국 | \\n캐나다 | \\n일본 | \\n호주 | \\n베트남\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"구분 | \\n한국 | \\n중국 | \\n미국 | \\n캐나다 | \\n일본 | \\n호주 | \\n베트남\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/004370_20260311003892.txt"
+}

@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "항체의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "CDMO 제품 등 항체의약품 43,583 95.6%"
+    },
+    {
+      "axis": "product",
+      "value": "mRNA",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "ADC",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "빠르게 성장 중인 ADC 의약품 수요에 대응하기 위해 ADC 생산시설을 구축, 2025년 1분기 말 기준 생산시설 완공 및 GMP Ready를 완료했습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세포/유전자 치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "세포/유전자 치료제 분야에서는 기술력 확보와 시장 선점을 위해 라이프사이언스 펀드를 통한 전략적 투자를 병행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "오가노이드",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "2025년 6월에는 바이오의약품 위탁개발생산(CDMO)을 넘어 연구 서비스까지 사업 포트폴리오 확장을 통해 수주 경쟁력을 강화하기 위해 삼성 오가노이드 사업을 출시하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "바이오의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "바이오의약품 시장 규모는 2025년 약 5,387억 달러로 전체 제약시장에서 42.7% 비중을 차지하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "글락소스미스클라인",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한 글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CDMO 원재료 Resin 등 7,464"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Filter",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "부재료 Filter 등 4,034"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "보고서 제출일 기준 인천 송도에 위치한 인천경제자유구역 내에 총 78만 5천리터의 생산 용량을 보유하고 있습니다"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 12월에는 미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한"
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "지역별로는 유럽(52.0%)과 미국(38.0%)에서 대부분의 매출이 발생하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "CDO 사업의 경우에는 중소형 Biotech 중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발 및 임상 지연 등 일부 영향을 받을 수 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체의약품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"CDMO 제품 등 항체의약품 43,583 95.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"mRNA\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 항체의약품 중심의 CDMO 서비스에서 나아가 mRNA, ADC, 세포/유전자 치료제 등 차세대 바이오의약품으로 사업을 확장하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ADC\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"빠르게 성장 중인 ADC 의약품 수요에 대응하기 위해 ADC 생산시설을 구축, 2025년 1분기 말 기준 생산시설 완공 및 GMP Ready를 완료했습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포/유전자 치료제\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"세포/유전자 치료제 분야에서는 기술력 확보와 시장 선점을 위해 라이프사이언스 펀드를 통한 전략적 투자를 병행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"오가노이드\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"2025년 6월에는 바이오의약품 위탁개발생산(CDMO)을 넘어 연구 서비스까지 사업 포트폴리오 확장을 통해 수주 경쟁력을 강화하기 위해 삼성 오가노이드 사업을 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"바이오의약품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"바이오의약품 시장 규모는 2025년 약 5,387억 달러로 전체 제약시장에서 42.7% 비중을 차지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"글락소스미스클라인\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한 글로벌 제약회사 글락소스미스클라인(GSK)의 자회사인 Human Genome Sciences Inc.의 100% 지분 인수 계약을 체결하여\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Resin\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"CDMO 원재료 Resin 등 7,464\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Filter\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"부재료 Filter 등 4,034\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"보고서 제출일 기준 인천 송도에 위치한 인천경제자유구역 내에 총 78만 5천리터의 생산 용량을 보유하고 있습니다\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 12월에는 미국 메릴랜드에 위치한 총 6만 리터 규모의 바이오의약품 생산시설을 보유한\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"지역별로는 유럽(52.0%)과 미국(38.0%)에서 대부분의 매출이 발생하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사의 기능통화인 원화 외의 통화로 표시되는 판매, 구매 및 차입에 대해 환위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"CDO 사업의 경우에는 중소형 Biotech 중심의 사업 영역으로, 금리의 영향에 따른 자금 조달의 변동성으로 인해 신약개발 및 임상 지연 등 일부 영향을 받을 수 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/207940_20260515001658.txt"
+}

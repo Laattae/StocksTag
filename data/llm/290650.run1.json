@@ -1,0 +1,117 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "인체조직이식재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다."
+    },
+    {
+      "axis": "product",
+      "value": "의료기기",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "인체조직 기반 의료기기는 기존 인체조직이식재에 0.01% 이상의 바이오폴리머(고분자물질)를 가교하여 만들어집니다."
+    },
+    {
+      "axis": "product",
+      "value": "제약",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "또한, 기존 외과 네트워크를 활용한 제약사업 및 자회사 글로벌의학연구센터를 통한 기능성 화장품 및 건강기능식품 CRO사업"
+    },
+    {
+      "axis": "customer",
+      "value": "한국공공조직은행",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요매입처는 한국공공조직은행, 해외 인체조직은행 등으로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원재료 냉동",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원재료 원재료 냉동 (MS) 국 내 40,673 193,531 896,809"
+    },
+    {
+      "axis": "region",
+      "value": "성남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 성남시 1,282,060 1,314,036 - - 2,596,096"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "토지 화성시 19,754,178 - - - 19,754,178"
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "고령화의 가속화와 의료기술의 발전으로 인해 평균 수명이 늘어나는 등 바이오 의료기기의 수요가 매우 커질 것으로 예상합니다."
+    },
+    {
+      "axis": "product",
+      "value": "인체조직 이식재",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "암질환, 유착방지, 골결손 등에 쓰이는 인체조직 이식재(바이오 의료기기 포함)는 경기변동 및 계절적 영향에 둔감한 편이나"
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "화장품 산업은 전통적으로 경기에 직접적인 영향을 받으면서 계절변화에 민감한 산업이었으나"
+    },
+    {
+      "axis": "product",
+      "value": "메가카티",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 차세대 성장동력으로 퇴행성 관절염 치료재 메가카티(MegaCarti), 무세포동종진피(hADM)을 활용한"
+    },
+    {
+      "axis": "product",
+      "value": "유착방지재",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인체조직기반 온도감응성 유착방지재 메가쉴드(MegaShield), 동종 신경이식재 메가너브 프라임(MegaNerve Prime)"
+    },
+    {
+      "axis": "product",
+      "value": "메가덤",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "또한 당사 피부이식재 제품인 메가덤과 함께 유방 재건 분야에서 같이 판매될 가능성이 높습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "고령화",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "삶의 질 향상, 고령화, 만성질환 및 평균수명 증가로 재생의료산업은 의학 분야의 새로운 패러다임으로 떠오르고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "만성질환",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "삶의 질 향상, 고령화, 만성질환 및 평균수명 증가로 재생의료산업은 의학 분야의 새로운 패러다임으로 떠오르고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"인체조직이식재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 매출은 인체조직이식재 및 인체조직기반 의료기기 사업에서 발생합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료기기\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"인체조직 기반 의료기기는 기존 인체조직이식재에 0.01% 이상의 바이오폴리머(고분자물질)를 가교하여 만들어집니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제약\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"또한, 기존 외과 네트워크를 활용한 제약사업 및 자회사 글로벌의학연구센터를 통한 기능성 화장품 및 건강기능식품 CRO사업\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국공공조직은행\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"주요매입처는 한국공공조직은행, 해외 인체조직은행 등으로\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원재료 냉동\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"원재료 원재료 냉동 (MS) 국 내 40,673 193,531 896,809\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"성남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 성남시 1,282,060 1,314,036 - - 2,596,096\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"토지 화성시 19,754,178 - - - 19,754,178\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"고령화\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"고령화의 가속화와 의료기술의 발전으로 인해 평균 수명이 늘어나는 등 바이오 의료기기의 수요가 매우 커질 것으로 예상합니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"인체조직 이식재\", \"weight\": 0.35, \"direction\": null, \"evidence\": \"암질환, 유착방지, 골결손 등에 쓰이는 인체조직 이식재(바이오 의료기기 포함)는 경기변동 및 계절적 영향에 둔감한 편이나\"}, {\"axis\": \"product\", \"value\": \"화장품\", \"weight\": 0.25, \"direction\": null, \"evidence\": \"화장품 산업은 전통적으로 경기에 직접적인 영향을 받으면서 계절변화에 민감한 산업이었으나\"}, {\"axis\": \"product\", \"value\": \"메가카티\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"당사는 차세대 성장동력으로 퇴행성 관절염 치료재 메가카티(MegaCarti), 무세포동종진피(hADM)을 활용한\"}, {\"axis\": \"product\", \"value\": \"유착방지재\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"인체조직기반 온도감응성 유착방지재 메가쉴드(MegaShield), 동종 신경이식재 메가너브 프라임(MegaNerve Prime)\"}, {\"axis\": \"product\", \"value\": \"메가덤\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"또한 당사 피부이식재 제품인 메가덤과 함께 유방 재건 분야에서 같이 판매될 가능성이 높습니다.\"}, {\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"삶의 질 향상, 고령화, 만성질환 및 평균수명 증가로 재생의료산업은 의학 분야의 새로운 패러다임으로 떠오르고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"만성질환\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"삶의 질 향상, 고령화, 만성질환 및 평균수명 증가로 재생의료산업은 의학 분야의 새로운 패러다임으로 떠오르고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/290650_20260324000006.txt"
+}

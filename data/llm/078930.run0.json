@@ -1,0 +1,582 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 6,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "휘발유",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "휘 발 유 | 엔진,자동차연료 | Kixx | 5,605,736 | 12.6%"
+    },
+    {
+      "axis": "product",
+      "value": "경유",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "경 유 | 디젤엔진용 | - | 12,490,045 | 28.0%"
+    },
+    {
+      "axis": "product",
+      "value": "윤활기유",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "윤활유사업 | 윤활기유, 윤활유 등 | 1,875,784 | 4.2%"
+    },
+    {
+      "axis": "product",
+      "value": "방향족",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "석유화학사업 | 방향족, 폴리머, 올레핀 | 7,835,129 | 17.6%"
+    },
+    {
+      "axis": "product",
+      "value": "전력",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "발전부문 | 전기 | 산업/가정용 | 1,216,138 | 92.5%"
+    },
+    {
+      "axis": "customer",
+      "value": "Chevron U.S.A. Inc.",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "매출액의 10% 이상을 차지하는 주요 매출처는 Chevron U.S.A. Inc.입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력거래소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "가스전력사업 | 전력, 도시가스 및 가스용품, 집단에너지, 자원개발, 신재생에너지 | 한국전력거래소, 한국전력공사, 수용가, 소매 고객, TOTAL ENERGIES TRADING ASIA Pte. Ltd 등"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "GSLL, Inc는 2016년 미국 현지에 설립된 법인으로"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "PT. GS Retail Indonesia는 수퍼 사업의 해외 진출을 위해 인도네시아 현지에 설립된 법인으로"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원유가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "경유, 휘발유, 등유 : 국제 원유가격, 환율, 국제 제품가격, 정유사별 경영실적 및 영업전략, 경쟁상황에 따라 변동"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "경유, 휘발유, 등유 : 국제 원유가격, 환율, 국제 제품가격, 정유사별 경영실적 및 영업전략, 경쟁상황에 따라 변동"
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "구 분 | 감가상각비와 상각비 | 비유동자산의 취득 | 당기 | 전기 | 당기 | 전기 | 집단에너지부문 | 31,861,771,442"
+    },
+    {
+      "axis": "product",
+      "value": "증기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "증기 및 전기판매 | 881,450,543,180 | 901,850,631,234"
+    },
+    {
+      "axis": "product",
+      "value": "휘발유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "정유사업 | 제품 | 휘발유 | 수출 | 2,645,327 | 2,947,385 | 2,829,444"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "회사의 주요 원재료인 원유 및 납사는 대부분을 Chevron U.S.A Inc.과 CITPL"
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "회사의 주요 원재료인 원유 및 납사는 대부분을 Chevron U.S.A Inc.과 CITPL"
+    },
+    {
+      "axis": "raw_material",
+      "value": "LNG",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "회사의 주요 원재료인 LNG 대부분을 한국가스공사와 GS Energy Trading Singapore Pte. Ltd."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력거래소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당기 및 전기 연결실체의 매출액의 10% 이상을 차지하는 외부 고객은 한국전력거래소이며"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "정유사업 | 일반정유 | 여수 | 천배럴 | 292,000 | 292,000 | 292,000"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "윤활유사업 | 윤활유 | 인천 | 천배럴 | 3,341 | 3,341 | 3,341"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "주요가격 변동 원인 : 국제 원유가격, 천연가스 가격변동 및 환율 변동으로 인한 LNG 가격 변동"
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "발전기에서 생산된 전력을 한국전력거래소를 통하여 한전에 전량 판매"
+    },
+    {
+      "axis": "product",
+      "value": "증기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "반월 산업단지의 약 200 여개 업체에 증기 배관망을 통하여 판매"
+    },
+    {
+      "axis": "product",
+      "value": "철강 금속제품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "무역/유통 부문 | 철강 금속제품,석유ㆍ화학제품 등"
+    },
+    {
+      "axis": "product",
+      "value": "석유ㆍ화학제품",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "무역/유통 부문 | 철강 금속제품,석유ㆍ화학제품 등"
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력 하부 구조물",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제조 부문 | 해상풍력 하부 구조물 및 화공기기 등"
+    },
+    {
+      "axis": "application",
+      "value": "산업단지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "증기는 반월 산업단지의 약 200 여개 업체에 증기 배관망을 통하여 판매"
+    },
+    {
+      "axis": "application",
+      "value": "해상풍력",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "해상풍력 사업부문 당사는 국내외 주요 사업주(Project Owner) 대상으로 영업활동을 집중하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "한국전력 | 38,959 | 23.4 | 47,497 | 26.4"
+    },
+    {
+      "axis": "customer",
+      "value": "LG화학",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "티더블유바이오매스에너지(주) | 합작투자계약 | LG화학"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원유 및 석유제품에 대한 상품스왑계약을 체결하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "대한민국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "매출은 전액 대한민국에서 발생하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "인도네시아 석탄광산회사인 PT Baramulti Suksessarana Tbk(BSSR)의 지분을"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결실체는 외화로 표시된 거래를 하고 있기 때문에 USD 및 EUR 등의 환율변동위험에 노출됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "석유류 제품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "정유산업은 국가 에너지 안보 및 산업활동의 기반이 되는 석유류 제품과 석유화학 원료를 생산, 공급하는 국가 기간산업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "Base Oil",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Base Oil 산업은 원유 정제과정에서 생산된 Waxy Oil로 Base Oil을 생산하는데"
+    },
+    {
+      "axis": "product",
+      "value": "윤활유 완제품",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다."
+    },
+    {
+      "axis": "product",
+      "value": "올레핀",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "고온 분해 혹은 촉매 반응을 통하여 올레핀 제품과 방향족 제품을 생산하고"
+    },
+    {
+      "axis": "product",
+      "value": "방향족",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "올레핀 제품과 방향족 제품을 생산하고, 이들 제품을 기초 원료로 합성수지, 합성고무, 합성섬유 원료"
+    },
+    {
+      "axis": "application",
+      "value": "수송용",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내에서는 산업, 수송용 수요가 전체의 90% 이상을 차지하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "석유화학 원료용",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "항공·해운 등 대체가 어려운 수송 부문과 석유화학 원료용 수요는 단기간 내 감소세로 전환되기 어려울 것으로 전망됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다."
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국가스공사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "천연가스 매매계약서(2호기(수정), 3호기) | 한국가스공사 | 2013.02.22 | LNG 장기 공급 계약"
+    },
+    {
+      "axis": "customer",
+      "value": "GS글로벌",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "GS 당진 Biomass 발전소연료매매 계약 | GS글로벌 | 2014.03.05 | 연료 매매 계약"
+    },
+    {
+      "axis": "customer",
+      "value": "SIEMENS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "LONG TERM MAINTENANCESERVICES CONTRACT | SIEMENS | 2011.03.24 | GS 당진복합 3호기정비 기자재 장기구매계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원유",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "원유 자원의 지역적 편재성으로 인해 원유는 주로 수입에 의존하며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "납사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "정유 공장에서 생산되는 납사와 가스오일 또는 천연가스를 원료로"
+    },
+    {
+      "axis": "raw_material",
+      "value": "천연가스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "천연가스 매매계약서(2호기(수정), 3호기) | 한국가스공사 | 2013.02.22 | LNG 장기 공급 계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Waxy Oil",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Base Oil 산업은 원유 정제과정에서 생산된 Waxy Oil로 Base Oil을 생산하는데"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "열은 경기도 안양과 부천의 신도시를 중심으로 독점 공급하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 칼리만탄에 포스코인터내셔널과 함께 2,600억원을 투자하여 바이오원료 정제시설을 건설할 계획입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "국제 정세 및 지정학적 리스크에 따라 원유 가격과 환율이 급변하면서 정제마진 및 수익성에도 변동성이 존재합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "국제 정세 및 지정학적 리스크에 따라 원유 가격과 환율이 급변하면서 정제마진 및 수익성에도 변동성이 존재합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "2025년 글로벌 석유 시장은 고금리 기조의 실질적 종료와 주요국 중심의 통화 완화 정책에 힘입어 완만한 수요 회복세를 기록하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "최저임금",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "편의점",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "수퍼마켓",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "홈쇼핑",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "석유제품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "정유사나 수입사로부터 석유 완제품을 구매하여 산업체나 주유소, 일반판매소 등에 공급하는 대리점 사업"
+    },
+    {
+      "axis": "raw_material",
+      "value": "천연가스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Biomass연료",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황"
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 유가",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "열",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동시에 전기를 생산/판매함에 따라 에너지이용효율 측면에서도 우수성을 인정받고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화력발전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "화력발전사업은 제도적으로 민간의 참여를 제한적으로 허용하는 등 신규진입이 규제되어왔지만 5차 전력수급기본계획 이후 당사를 포함한 민자 화력발전을 전력수급계획에 포함되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "풍력발전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 신재생에너지사업의 일환으로 새로운 성장동력으로 추진하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 화력발전사업은 일반소비자를 대상으로 전력을 판매하는 방식이 아니라 전력거래소를 통하여 전량 한국전력공사에 판매되고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 이러한 추세와 더불어, 영양 및 제주에 건설한 풍력발전시설을 통해 풍력사업 개발 및 운영에 대한 노하우를 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "풍력발전 사업의 영향을 미치는 주요 요인은 전세계 경기흐름, 정부의 정책적 지원, 유가 변동, 풍력 발전 단가 등 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국내총생산",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "전력수요는 일반적으로 소득수준, 요금수준, 기후, 산업구조, 경제상황 등에 영향을 받으며, 특히 국내총생산(GDP)에 연동되는 특성을 지니고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"휘발유\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"휘 발 유 | 엔진,자동차연료 | Kixx | 5,605,736 | 12.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"경유\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"경 유 | 디젤엔진용 | - | 12,490,045 | 28.0%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"윤활기유\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"윤활유사업 | 윤활기유, 윤활유 등 | 1,875,784 | 4.2%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"방향족\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"석유화학사업 | 방향족, 폴리머, 올레핀 | 7,835,129 | 17.6%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"발전부문 | 전기 | 산업/가정용 | 1,216,138 | 92.5%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Chevron U.S.A. Inc.\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"매출액의 10% 이상을 차지하는 주요 매출처는 Chevron U.S.A. Inc.입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력거래소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"가스전력사업 | 전력, 도시가스 및 가스용품, 집단에너지, 자원개발, 신재생에너지 | 한국전력거래소, 한국전력공사, 수용가, 소매 고객, TOTAL ENERGIES TRADING ASIA Pte. Ltd 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"GSLL, Inc는 2016년 미국 현지에 설립된 법인으로\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"PT. GS Retail Indonesia는 수퍼 사업의 해외 진출을 위해 인도네시아 현지에 설립된 법인으로\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원유가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"경유, 휘발유, 등유 : 국제 원유가격, 환율, 국제 제품가격, 정유사별 경영실적 및 영업전략, 경쟁상황에 따라 변동\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"경유, 휘발유, 등유 : 국제 원유가격, 환율, 국제 제품가격, 정유사별 경영실적 및 영업전략, 경쟁상황에 따라 변동\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"구 분 | 감가상각비와 상각비 | 비유동자산의 취득 | 당기 | 전기 | 당기 | 전기 | 집단에너지부문 | 31,861,771,442\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"증기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"증기 및 전기판매 | 881,450,543,180 | 901,850,631,234\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"휘발유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"정유사업 | 제품 | 휘발유 | 수출 | 2,645,327 | 2,947,385 | 2,829,444\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"회사의 주요 원재료인 원유 및 납사는 대부분을 Chevron U.S.A Inc.과 CITPL\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"납사\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"회사의 주요 원재료인 원유 및 납사는 대부분을 Chevron U.S.A Inc.과 CITPL\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"LNG\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"회사의 주요 원재료인 LNG 대부분을 한국가스공사와 GS Energy Trading Singapore Pte. Ltd.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력거래소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당기 및 전기 연결실체의 매출액의 10% 이상을 차지하는 외부 고객은 한국전력거래소이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"정유사업 | 일반정유 | 여수 | 천배럴 | 292,000 | 292,000 | 292,000\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"윤활유사업 | 윤활유 | 인천 | 천배럴 | 3,341 | 3,341 | 3,341\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"주요가격 변동 원인 : 국제 원유가격, 천연가스 가격변동 및 환율 변동으로 인한 LNG 가격 변동\"\n    }\n  ]\n}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"발전기에서 생산된 전력을 한국전력거래소를 통하여 한전에 전량 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"증기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"반월 산업단지의 약 200 여개 업체에 증기 배관망을 통하여 판매\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"철강 금속제품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"무역/유통 부문 | 철강 금속제품,석유ㆍ화학제품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"석유ㆍ화학제품\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"무역/유통 부문 | 철강 금속제품,석유ㆍ화학제품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력 하부 구조물\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제조 부문 | 해상풍력 하부 구조물 및 화공기기 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"산업단지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"증기는 반월 산업단지의 약 200 여개 업체에 증기 배관망을 통하여 판매\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"해상풍력\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"해상풍력 사업부문 당사는 국내외 주요 사업주(Project Owner) 대상으로 영업활동을 집중하고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"한국전력 | 38,959 | 23.4 | 47,497 | 26.4\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG화학\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"티더블유바이오매스에너지(주) | 합작투자계약 | LG화학\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원유 및 석유제품에 대한 상품스왑계약을 체결하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대한민국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"매출은 전액 대한민국에서 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 석탄광산회사인 PT Baramulti Suksessarana Tbk(BSSR)의 지분을\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 하고 있기 때문에 USD 및 EUR 등의 환율변동위험에 노출됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 고정이자율과 변동이자율로 자금을 차입하고 있으며, 이로 인하여 이자율위험에 노출되어 있습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"석유류 제품\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"정유산업은 국가 에너지 안보 및 산업활동의 기반이 되는 석유류 제품과 석유화학 원료를 생산, 공급하는 국가 기간산업입니다.\"}, {\"axis\": \"product\", \"value\": \"Base Oil\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"Base Oil 산업은 원유 정제과정에서 생산된 Waxy Oil로 Base Oil을 생산하는데\"}, {\"axis\": \"product\", \"value\": \"윤활유 완제품\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다.\"}, {\"axis\": \"product\", \"value\": \"올레핀\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"고온 분해 혹은 촉매 반응을 통하여 올레핀 제품과 방향족 제품을 생산하고\"}, {\"axis\": \"product\", \"value\": \"방향족\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"올레핀 제품과 방향족 제품을 생산하고, 이들 제품을 기초 원료로 합성수지, 합성고무, 합성섬유 원료\"}, {\"axis\": \"application\", \"value\": \"수송용\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"국내에서는 산업, 수송용 수요가 전체의 90% 이상을 차지하고 있으며\"}, {\"axis\": \"application\", \"value\": \"석유화학 원료용\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"항공·해운 등 대체가 어려운 수송 부문과 석유화학 원료용 수요는 단기간 내 감소세로 전환되기 어려울 것으로 전망됩니다.\"}, {\"axis\": \"application\", \"value\": \"자동차\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다.\"}, {\"axis\": \"application\", \"value\": \"선박\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"윤활유 완제품 산업은 자동차용, 산업용 및 선박용 윤활유 등 다양한 제품을 생산합니다.\"}, {\"axis\": \"customer\", \"value\": \"한국가스공사\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"천연가스 매매계약서(2호기(수정), 3호기) | 한국가스공사 | 2013.02.22 | LNG 장기 공급 계약\"}, {\"axis\": \"customer\", \"value\": \"GS글로벌\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"GS 당진 Biomass 발전소연료매매 계약 | GS글로벌 | 2014.03.05 | 연료 매매 계약\"}, {\"axis\": \"customer\", \"value\": \"SIEMENS\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"LONG TERM MAINTENANCESERVICES CONTRACT | SIEMENS | 2011.03.24 | GS 당진복합 3호기정비 기자재 장기구매계약\"}, {\"axis\": \"raw_material\", \"value\": \"원유\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"원유 자원의 지역적 편재성으로 인해 원유는 주로 수입에 의존하며\"}, {\"axis\": \"raw_material\", \"value\": \"납사\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"정유 공장에서 생산되는 납사와 가스오일 또는 천연가스를 원료로\"}, {\"axis\": \"raw_material\", \"value\": \"천연가스\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"천연가스 매매계약서(2호기(수정), 3호기) | 한국가스공사 | 2013.02.22 | LNG 장기 공급 계약\"}, {\"axis\": \"raw_material\", \"value\": \"Waxy Oil\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"Base Oil 산업은 원유 정제과정에서 생산된 Waxy Oil로 Base Oil을 생산하는데\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"열은 경기도 안양과 부천의 신도시를 중심으로 독점 공급하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"인도네시아\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"인도네시아 칼리만탄에 포스코인터내셔널과 함께 2,600억원을 투자하여 바이오원료 정제시설을 건설할 계획입니다.\"}, {\"axis\": \"exposure\", \"value\": \"유가\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"국제 정세 및 지정학적 리스크에 따라 원유 가격과 환율이 급변하면서 정제마진 및 수익성에도 변동성이 존재합니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"국제 정세 및 지정학적 리스크에 따라 원유 가격과 환율이 급변하면서 정제마진 및 수익성에도 변동성이 존재합니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"2025년 글로벌 석유 시장은 고금리 기조의 실질적 종료와 주요국 중심의 통화 완화 정책에 힘입어 완만한 수요 회복세를 기록하였습니다.\"}, {\"axis\": \"exposure\", \"value\": \"최저임금\", \"weight\": 0.6, \"direction\": -1, \"evidence\": \"최저임금의 지속적인 상승은 가맹점의 인건비 부담을 가중시키고 있으며, 향후 인건비 부담 증가는 편의점 산업에 잠재적 위험 요소로 작용할 가능성이 있습니다.\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"편의점\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"수퍼마켓\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"홈쇼핑\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"현재 당사는 편의점(GS25), 수퍼마켓(GS THE FRESH), 홈쇼핑(GS SHOP)을 주요 사업으로 영위하고 있으며\"}, {\"axis\": \"product\", \"value\": \"석유제품\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"정유사나 수입사로부터 석유 완제품을 구매하여 산업체나 주유소, 일반판매소 등에 공급하는 대리점 사업\"}, {\"axis\": \"raw_material\", \"value\": \"천연가스\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황\"}, {\"axis\": \"raw_material\", \"value\": \"Biomass연료\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황\"}, {\"axis\": \"exposure\", \"value\": \"국제 유가\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"환율, 국제 유가, 천연가스, Biomass연료 가격과 수급에 영향을 마치는 원재료 시장 상황\"}, {\"axis\": \"region\", \"value\": \"서울\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}, {\"axis\": \"region\", \"value\": \"부산\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}, {\"axis\": \"region\", \"value\": \"대전\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}, {\"axis\": \"region\", \"value\": \"대구\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}, {\"axis\": \"region\", \"value\": \"강원\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 서울, 부산, 대전, 대구, 원주, 부천, 강릉 지역에 사무실을 두고 있으며\"}]}\n```",
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"열\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"동시에 전기를 생산/판매함에 따라 에너지이용효율 측면에서도 우수성을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화력발전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"화력발전사업은 제도적으로 민간의 참여를 제한적으로 허용하는 등 신규진입이 규제되어왔지만 5차 전력수급기본계획 이후 당사를 포함한 민자 화력발전을 전력수급계획에 포함되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"풍력발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 신재생에너지사업의 일환으로 새로운 성장동력으로 추진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 화력발전사업은 일반소비자를 대상으로 전력을 판매하는 방식이 아니라 전력거래소를 통하여 전량 한국전력공사에 판매되고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 반월 산업단지의 약 200여개 업체, 구미 산업단지의 약 50여개 업체에 열을 공급하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 이러한 추세와 더불어, 영양 및 제주에 건설한 풍력발전시설을 통해 풍력사업 개발 및 운영에 대한 노하우를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"풍력발전 사업의 영향을 미치는 주요 요인은 전세계 경기흐름, 정부의 정책적 지원, 유가 변동, 풍력 발전 단가 등 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국내총생산\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"전력수요는 일반적으로 소득수준, 요금수준, 기후, 산업구조, 경제상황 등에 영향을 받으며, 특히 국내총생산(GDP)에 연동되는 특성을 지니고 있습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/078930_20260318000836.txt"
+}

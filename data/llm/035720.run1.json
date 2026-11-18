@@ -1,0 +1,194 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "카카오톡",
+      "weight": 0.95,
+      "direction": null,
+      "evidence": "당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "선물하기",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "플랫폼 부문 | 제품/용역 | 톡비즈 | 카카오톡,선물하기"
+    },
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "콘텐츠 부문 | 제품/용역 | 게임 | 모바일 및 PC 게임"
+    },
+    {
+      "axis": "product",
+      "value": "음원음반 유통",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "뮤직 | 음원음반 유통, 레이블, 음원플랫폼"
+    },
+    {
+      "axis": "product",
+      "value": "픽코마",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "스토리 | 픽코마,카카오페이지,카카오웹툰"
+    },
+    {
+      "axis": "application",
+      "value": "모빌리티",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "금융",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "데이터센터의 소재지는 안산시 한양대 ERICA 캠퍼스로 2023년 10월 준공되었으며, 2024년 1월부터 운영 중에 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2021년에 인증을 획득한 제주 오피스와 판교 오피스를 포함해 총 3개 사업장에서 ISO14001 인증을 유지하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "환율위험은 금융상품을 측정하는 기능통화 이외의 통화로 표시된 금융상품에서 발생합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "이자율 위험은 미래시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서"
+    },
+    {
+      "axis": "product",
+      "value": "봉제인형",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "GRS 인증을 받은 공장 및 제조사와 협업하여 카카오프렌즈의 주력 상품인 봉제인형에 GRS 인증 재생 폴리에스터 충전재를 적용하여 출시하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "온라인 광고",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "온라인 광고는 모바일, PC, IoT를 비롯한 뉴미디어 플랫폼 기반의 디지털 마케팅에 활용되는 광고 상품과 플랫폼을 통해 사용자와 비즈니스, 비즈니스와 비즈니스를 연결하는 행위를 총칭합니다."
+    },
+    {
+      "axis": "product",
+      "value": "선물하기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 대표적인 커머스 서비스인 '선물하기'는 카카오톡 안에서 친구 관계를 레버리지하여 선물을 주고 받는 문화를 형성하면서 선물하기 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PC게임",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "PC게임 시장은 특정 게임들에 인기가 집중되고, 타이틀 개발을 위해 대단위 개발 비용과 인력을 투입해야 하는 어려움, 그리고 모바일 플랫폼으로의 시장 이동으로 인해 성장이 둔화 되어 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "모바일게임",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "모바일게임 시장은 2017년 PC게임 시장 규모를 처음 넘어선 이후 국내 게임 산업에서 지배적인 위치를 유지해 오고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "웹툰",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "스토리 콘텐츠의 대표격인 웹툰은 세로 스크롤 형태로 만화 콘텐츠를 감상할 수 있는 서비스로, PC와 모바일을 포함한 디지털 매체를 통해 이용자들에게 빠르게 접근 가능할 뿐 아니라"
+    },
+    {
+      "axis": "product",
+      "value": "해외여행보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "특히 업계 최초로 '무사고 환급금', '즉시지급' 서비스를 도입한 해외여행보험은 출시 2년여 만에 누적 가입자 수 500만 명을 돌파하며 업계를 선도하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주식 매매 서비스",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "카카오페이증권은 2020년 안정적인 투자 상품인 공모 펀드를 통하여, 투자에 처음 입문하는 이용자들에게 간접 투자 경험을 제공하였고, 2022년 4월 개인 투자자들이 직접 투자하는 비중이 늘어나는 트렌드를 고려하여, 상품 커버리지를 확대하는 관점에서 주식 매매 서비스를 운용하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "디지털 마케팅",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "온라인 광고는 모바일, PC, IoT를 비롯한 뉴미디어 플랫폼 기반의 디지털 마케팅에 활용되는 광고 상품과 플랫폼을 통해 사용자와 비즈니스, 비즈니스와 비즈니스를 연결하는 행위를 총칭합니다."
+    },
+    {
+      "axis": "application",
+      "value": "전자상거래",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "이커머스 산업은 온라인 플랫폼을 통해 이루어지는 제품과 서비스의 거래행위를 총칭합니다."
+    },
+    {
+      "axis": "application",
+      "value": "엔터테인먼트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "게임은 디지털, 비대면 여가 문화로서 엔터테인먼트 산업의 중심축을 이루고 있으며, 타 산업 대비 언어, 국가, 브랜드 등의 장벽이 낮아 해외 수출이 용이합니다."
+    },
+    {
+      "axis": "region",
+      "value": "제주",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 사업장이 있는 지역에서 자연자본 및 생물다양성 관련 주요 요소를 파악하고 리스크가 높게 나타난 제주지역에서는 전문가와 지역사회의 참여를 통해 사업장 인근의 생물다양성 영향 평가를 진행하고 개선과제를 도출하며 생물다양성 보전 활동을 수행하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "고금리와 물가상승으로 비우호적 거시경제 여건이 이어질 경우, 소비심리가 위축되면서 가성비를 중시하는 경향이 한층 두드러지게 되고, 기업들의 수익성 개선의 제약 요인으로 작용하기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "물가",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "고금리와 물가상승으로 비우호적 거시경제 여건이 이어질 경우, 소비심리가 위축되면서 가성비를 중시하는 경향이 한층 두드러지게 되고, 기업들의 수익성 개선의 제약 요인으로 작용하기도 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해당 파생상품은 장내통화선물(USD) 상품으로, 해외주식 결제를 지원하기 위하여 외화달러 보유에 따른 환율 변동 리스크 헷지를 목적으로 하고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"카카오톡\",\n      \"weight\": 0.95,\n      \"direction\": null,\n      \"evidence\": \"당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물하기\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"플랫폼 부문 | 제품/용역 | 톡비즈 | 카카오톡,선물하기\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"콘텐츠 부문 | 제품/용역 | 게임 | 모바일 및 PC 게임\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음원음반 유통\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"뮤직 | 음원음반 유통, 레이블, 음원플랫폼\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"픽코마\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"스토리 | 픽코마,카카오페이지,카카오웹툰\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모빌리티\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"금융\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"데이터센터의 소재지는 안산시 한양대 ERICA 캠퍼스로 2023년 10월 준공되었으며, 2024년 1월부터 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2021년에 인증을 획득한 제주 오피스와 판교 오피스를 포함해 총 3개 사업장에서 ISO14001 인증을 유지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"환율위험은 금융상품을 측정하는 기능통화 이외의 통화로 표시된 금융상품에서 발생합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"이자율 위험은 미래시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험으로서\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"봉제인형\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"GRS 인증을 받은 공장 및 제조사와 협업하여 카카오프렌즈의 주력 상품인 봉제인형에 GRS 인증 재생 폴리에스터 충전재를 적용하여 출시하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"온라인 광고\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"온라인 광고는 모바일, PC, IoT를 비롯한 뉴미디어 플랫폼 기반의 디지털 마케팅에 활용되는 광고 상품과 플랫폼을 통해 사용자와 비즈니스, 비즈니스와 비즈니스를 연결하는 행위를 총칭합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"선물하기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 대표적인 커머스 서비스인 '선물하기'는 카카오톡 안에서 친구 관계를 레버리지하여 선물을 주고 받는 문화를 형성하면서 선물하기 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PC게임\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"PC게임 시장은 특정 게임들에 인기가 집중되고, 타이틀 개발을 위해 대단위 개발 비용과 인력을 투입해야 하는 어려움, 그리고 모바일 플랫폼으로의 시장 이동으로 인해 성장이 둔화 되어 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일게임\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"모바일게임 시장은 2017년 PC게임 시장 규모를 처음 넘어선 이후 국내 게임 산업에서 지배적인 위치를 유지해 오고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"웹툰\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"스토리 콘텐츠의 대표격인 웹툰은 세로 스크롤 형태로 만화 콘텐츠를 감상할 수 있는 서비스로, PC와 모바일을 포함한 디지털 매체를 통해 이용자들에게 빠르게 접근 가능할 뿐 아니라\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해외여행보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"특히 업계 최초로 '무사고 환급금', '즉시지급' 서비스를 도입한 해외여행보험은 출시 2년여 만에 누적 가입자 수 500만 명을 돌파하며 업계를 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식 매매 서비스\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"카카오페이증권은 2020년 안정적인 투자 상품인 공모 펀드를 통하여, 투자에 처음 입문하는 이용자들에게 간접 투자 경험을 제공하였고, 2022년 4월 개인 투자자들이 직접 투자하는 비중이 늘어나는 트렌드를 고려하여, 상품 커버리지를 확대하는 관점에서 주식 매매 서비스를 운용하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"디지털 마케팅\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"온라인 광고는 모바일, PC, IoT를 비롯한 뉴미디어 플랫폼 기반의 디지털 마케팅에 활용되는 광고 상품과 플랫폼을 통해 사용자와 비즈니스, 비즈니스와 비즈니스를 연결하는 행위를 총칭합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전자상거래\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"이커머스 산업은 온라인 플랫폼을 통해 이루어지는 제품과 서비스의 거래행위를 총칭합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"엔터테인먼트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"게임은 디지털, 비대면 여가 문화로서 엔터테인먼트 산업의 중심축을 이루고 있으며, 타 산업 대비 언어, 국가, 브랜드 등의 장벽이 낮아 해외 수출이 용이합니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"제주\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주요 사업장이 있는 지역에서 자연자본 및 생물다양성 관련 주요 요소를 파악하고 리스크가 높게 나타난 제주지역에서는 전문가와 지역사회의 참여를 통해 사업장 인근의 생물다양성 영향 평가를 진행하고 개선과제를 도출하며 생물다양성 보전 활동을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"고금리와 물가상승으로 비우호적 거시경제 여건이 이어질 경우, 소비심리가 위축되면서 가성비를 중시하는 경향이 한층 두드러지게 되고, 기업들의 수익성 개선의 제약 요인으로 작용하기도 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"물가\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"고금리와 물가상승으로 비우호적 거시경제 여건이 이어질 경우, 소비심리가 위축되면서 가성비를 중시하는 경향이 한층 두드러지게 되고, 기업들의 수익성 개선의 제약 요인으로 작용하기도 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"해당 파생상품은 장내통화선물(USD) 상품으로, 해외주식 결제를 지원하기 위하여 외화달러 보유에 따른 환율 변동 리스크 헷지를 목적으로 하고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/035720_20260318001423.txt"
+}

@@ -1,0 +1,300 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "의료서비스",
+      "weight": 0.59,
+      "direction": null,
+      "evidence": "병원매출 | 의료서비스 | 743,878 | 58.65% | -"
+    },
+    {
+      "axis": "product",
+      "value": "의약품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제품매출 | 의약품/화장품/화장품원료 등 | 121,896 | 9.61% | -"
+    },
+    {
+      "axis": "product",
+      "value": "화장품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "제품매출 | 의약품/화장품/화장품원료 등 | 121,896 | 9.61% | -"
+    },
+    {
+      "axis": "product",
+      "value": "제대혈 보관",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "서비스매출 | 제대혈 채취 및 보관 매출 | 15,940 | 1.26% | -"
+    },
+    {
+      "axis": "product",
+      "value": "바이오인슈어런스",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "Bio-Insurance 서비스매출 | 6,432 | 0.51% | -"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "판교 제2테크노밸리 CDMO GMP 신규시설 투자 관련당사는 글로벌 세포유전자 치료제 CDMO 생산시설 및 바이오뱅크 구축을 위하여, 판교 제2테크노밸리(경기도 성남시 수정구 금토동 724번지)내 토지"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": null,
+      "direction": null,
+      "evidence": "구강 필름형 조현병 치료제(메조피/Mezofy. 아리피프라졸) 미국 식품의약국(FDA) 품목허가 획득"
+    },
+    {
+      "axis": "product",
+      "value": "세포ㆍ유전자 치료제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업"
+    },
+    {
+      "axis": "product",
+      "value": "바이럴 벡터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc."
+    },
+    {
+      "axis": "product",
+      "value": "의료 IT 서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "유전체 분석 진단 서비스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "국내외 의료기관 및 국내외 고객들의 PGT/세포유전체/분자유전체 분석 및 진단 서비스"
+    },
+    {
+      "axis": "product",
+      "value": "망막색소상피세포",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "바이오의약품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업"
+    },
+    {
+      "axis": "application",
+      "value": "의료 IT",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스"
+    },
+    {
+      "axis": "application",
+      "value": "퇴행성 망막질환",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "(2) Improved Modalities for the Treatment of Degenerative Diseases of the Retina(향상된 퇴행성 망막질환 치료양식)"
+    },
+    {
+      "axis": "customer",
+      "value": "Astellas Institute of Regenerative Medicine",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "미국에 소재한 Astellas Institute of Regenerative Medicine (이하 'AIRM') 사와 망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Pluristem Therapeutics",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "Pluristem Therapeutics(이스라엘, Nasdaq 상장)"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "미국 병원의 정부 매출(Q.A.F 등), 임대료 매출 및 로열티 매출, 기술 이전 매출 등을 포함하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "판교 제2테크노밸리 CDMO GMP 신규시설 투자"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "당기말과 전기말 현재 연결실체의 금융자산과 부채를 구성하는 주요 외화에 대하여 원화가 변동을 보인다면 연결실체의 자본(포괄손익)과 손익(당기손익)은 증가 또는 감소하였을 것입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체는 변동이자율 금융부채 규모의 증가에 따라 부수되는 이자율 부담을 최소화하기 위한 일환으로 연간 자금수지 계획을 수립하고 시행하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "황반변성증 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)"
+    },
+    {
+      "axis": "product",
+      "value": "뇌졸중 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "바이오신약 | 뇌졸중 치료제 (CordSTEM-ST) | 급성 뇌졸중"
+    },
+    {
+      "axis": "product",
+      "value": "무릎관절연골결손 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "무릎관절연골결손 치료제(CordSTEM-CD) | 무릎관절연골결손"
+    },
+    {
+      "axis": "product",
+      "value": "알츠하이머병 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알츠하이머병 치료제(PlaSTEM-AD) | 알츠하이머성 치매"
+    },
+    {
+      "axis": "product",
+      "value": "고형암 면역세포치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고형암 면역세포치료제 (CBT101) | 고형암"
+    },
+    {
+      "axis": "application",
+      "value": "스타가르트병",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)"
+    },
+    {
+      "axis": "application",
+      "value": "나이관련황반변성증",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)"
+    },
+    {
+      "axis": "application",
+      "value": "급성 뇌졸중",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "바이오신약 | 뇌졸중 치료제 (CordSTEM-ST) | 급성 뇌졸중"
+    },
+    {
+      "axis": "application",
+      "value": "무릎관절연골결손",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "무릎관절연골결손 치료제(CordSTEM-CD) | 무릎관절연골결손"
+    },
+    {
+      "axis": "application",
+      "value": "알츠하이머성 치매",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "알츠하이머병 치료제(PlaSTEM-AD) | 알츠하이머성 치매"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "□ (주)제넥신, 경기도, 한국 / 부장, 세포유전자치료제 R&D 실장"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "□ 네오이뮨테크 (NIT), 메릴랜드 주 락빌, 미국 / 수석 의학 책임자 / 부사장"
+    },
+    {
+      "axis": "region",
+      "value": "스웨덴",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "□ 카롤린스카 연구원, 스톡홀름, 스웨덴 / 박사후연구원, 비만 연구"
+    },
+    {
+      "axis": "region",
+      "value": "독일",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "□ Ph. D. 독일, 괴팅겐 대학교 막스플랑크 실험의학 연구소 신경과학 박사과정"
+    },
+    {
+      "axis": "customer",
+      "value": "Pluristem",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "간헐성파행증 치료제 (Intermittent Claudication, IC) (글로벌임상) | 간헐성파행증 | Pluristem(이스라엘)사와 공동개발"
+    },
+    {
+      "axis": "product",
+      "value": "NK세포치료제",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "nk세포치료제 시장 전망(2024 to 2034).jpg\nnk세포치료제 시장 전망(2024 to 2034)\n※ 출처: Precedence Research(2025.04)"
+    },
+    {
+      "axis": "product",
+      "value": "면역세포 장기 보관 서비스",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "글로벌 NK세포 치료제 시장 확장은 면역세포 장기 보관 서비스 수요에도 긍정적인 영향을 미칠 것으로 예상되며, 당사의 바이오인슈어런스 사업 역시 이러한 시장 성장 흐름과 맞물려 장기적으로 안정적인 성장 기반을 확보할 수 있을 것으로 판단됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "의료 IT 시스템 통합",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "의료 IT 시스템 통합(System Integration, SI)은 의료기관, 제약사, 바이오기업, 연구기관 등의 환경과 요구에 최적화된 정보 시스템을 설계ㆍ구축ㆍ운영하는 사업입니다."
+    },
+    {
+      "axis": "product",
+      "value": "헬스케어 컨설팅 서비스",
+      "weight": 0.22,
+      "direction": null,
+      "evidence": "Precedence Research에 따르면, 글로벌 헬스케어 컨설팅 서비스 시장 규모는 2024년 약 336억 8,000만 달러(한화 약 46조 1천억 원)로 추정되며"
+    },
+    {
+      "axis": "product",
+      "value": "유전체 분석",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "유전정보 빅데이터를 이용해 표적치료제 등 신약을 개발하는데 활용할 수 있습니다. 또한, 유전체 검사를 통해 자신에게 효과가 있는 특정 항암제를 쉽게 찾아낼 수도 있기에"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"의료서비스\",\n      \"weight\": 0.59,\n      \"direction\": null,\n      \"evidence\": \"병원매출 | 의료서비스 | 743,878 | 58.65% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"의약품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제품매출 | 의약품/화장품/화장품원료 등 | 121,896 | 9.61% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화장품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"제품매출 | 의약품/화장품/화장품원료 등 | 121,896 | 9.61% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제대혈 보관\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"서비스매출 | 제대혈 채취 및 보관 매출 | 15,940 | 1.26% | -\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오인슈어런스\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"Bio-Insurance 서비스매출 | 6,432 | 0.51% | -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"판교 제2테크노밸리 CDMO GMP 신규시설 투자 관련당사는 글로벌 세포유전자 치료제 CDMO 생산시설 및 바이오뱅크 구축을 위하여, 판교 제2테크노밸리(경기도 성남시 수정구 금토동 724번지)내 토지\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"구강 필름형 조현병 치료제(메조피/Mezofy. 아리피프라졸) 미국 식품의약국(FDA) 품목허가 획득\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"세포ㆍ유전자 치료제\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업\"}, {\"axis\": \"product\", \"value\": \"바이럴 벡터\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"세포유전자치료제 주 원료인 바이럴 벡터(Viral Vector) CDMO 사업을 영위하는 종속회사 Matica Biotechnology, Inc.\"}, {\"axis\": \"product\", \"value\": \"의료 IT 서비스\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스\"}, {\"axis\": \"product\", \"value\": \"유전체 분석 진단 서비스\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"국내외 의료기관 및 국내외 고객들의 PGT/세포유전체/분자유전체 분석 및 진단 서비스\"}, {\"axis\": \"product\", \"value\": \"망막색소상피세포\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다.\"}, {\"axis\": \"application\", \"value\": \"바이오의약품\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"국내외 세포ㆍ유전자 치료제 기업 등으로부터 바이오의약품 등의 제조 위수탁 및 연구대행을 담당하는 글로벌 CDMO 사업\"}, {\"axis\": \"application\", \"value\": \"의료 IT\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"국내외 의료기관 등의 IT 시스템 구축 및 유지보수를 담당하는 의료 IT 서비스\"}, {\"axis\": \"application\", \"value\": \"퇴행성 망막질환\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"(2) Improved Modalities for the Treatment of Degenerative Diseases of the Retina(향상된 퇴행성 망막질환 치료양식)\"}, {\"axis\": \"customer\", \"value\": \"Astellas Institute of Regenerative Medicine\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"미국에 소재한 Astellas Institute of Regenerative Medicine (이하 'AIRM') 사와 망막색소상피세포(RPE) 및 할구(Blastomere) 관련 기술, 임상시험, 특허권 등 제반 권리를 이전하는 계약을 체결하였습니다.\"}, {\"axis\": \"customer\", \"value\": \"Pluristem Therapeutics\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"Pluristem Therapeutics(이스라엘, Nasdaq 상장)\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"미국 병원의 정부 매출(Q.A.F 등), 임대료 매출 및 로열티 매출, 기술 이전 매출 등을 포함하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"판교 제2테크노밸리 CDMO GMP 신규시설 투자\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"당기말과 전기말 현재 연결실체의 금융자산과 부채를 구성하는 주요 외화에 대하여 원화가 변동을 보인다면 연결실체의 자본(포괄손익)과 손익(당기손익)은 증가 또는 감소하였을 것입니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"연결실체는 변동이자율 금융부채 규모의 증가에 따라 부수되는 이자율 부담을 최소화하기 위한 일환으로 연간 자금수지 계획을 수립하고 시행하고 있으며\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"황반변성증 치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)\"}, {\"axis\": \"product\", \"value\": \"뇌졸중 치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"바이오신약 | 뇌졸중 치료제 (CordSTEM-ST) | 급성 뇌졸중\"}, {\"axis\": \"product\", \"value\": \"무릎관절연골결손 치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"무릎관절연골결손 치료제(CordSTEM-CD) | 무릎관절연골결손\"}, {\"axis\": \"product\", \"value\": \"알츠하이머병 치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"알츠하이머병 치료제(PlaSTEM-AD) | 알츠하이머성 치매\"}, {\"axis\": \"product\", \"value\": \"고형암 면역세포치료제\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"고형암 면역세포치료제 (CBT101) | 고형암\"}, {\"axis\": \"application\", \"value\": \"스타가르트병\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)\"}, {\"axis\": \"application\", \"value\": \"나이관련황반변성증\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"바이오신약 | 황반변성증 치료제 (망막색소상피세포:RPE) | 스타가르트병(SMD), 진행된 위축 나이관련황반변성증(AMD)\"}, {\"axis\": \"application\", \"value\": \"급성 뇌졸중\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"바이오신약 | 뇌졸중 치료제 (CordSTEM-ST) | 급성 뇌졸중\"}, {\"axis\": \"application\", \"value\": \"무릎관절연골결손\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"무릎관절연골결손 치료제(CordSTEM-CD) | 무릎관절연골결손\"}, {\"axis\": \"application\", \"value\": \"알츠하이머성 치매\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"알츠하이머병 치료제(PlaSTEM-AD) | 알츠하이머성 치매\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"□ (주)제넥신, 경기도, 한국 / 부장, 세포유전자치료제 R&D 실장\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"□ 네오이뮨테크 (NIT), 메릴랜드 주 락빌, 미국 / 수석 의학 책임자 / 부사장\"}, {\"axis\": \"region\", \"value\": \"스웨덴\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"□ 카롤린스카 연구원, 스톡홀름, 스웨덴 / 박사후연구원, 비만 연구\"}, {\"axis\": \"region\", \"value\": \"독일\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"□ Ph. D. 독일, 괴팅겐 대학교 막스플랑크 실험의학 연구소 신경과학 박사과정\"}, {\"axis\": \"customer\", \"value\": \"Pluristem\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"간헐성파행증 치료제 (Intermittent Claudication, IC) (글로벌임상) | 간헐성파행증 | Pluristem(이스라엘)사와 공동개발\"}]}\n```",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"NK세포치료제\", \"weight\": 0.03, \"direction\": null, \"evidence\": \"nk세포치료제 시장 전망(2024 to 2034).jpg\\nnk세포치료제 시장 전망(2024 to 2034)\\n※ 출처: Precedence Research(2025.04)\"}, {\"axis\": \"product\", \"value\": \"면역세포 장기 보관 서비스\", \"weight\": 0.36, \"direction\": null, \"evidence\": \"글로벌 NK세포 치료제 시장 확장은 면역세포 장기 보관 서비스 수요에도 긍정적인 영향을 미칠 것으로 예상되며, 당사의 바이오인슈어런스 사업 역시 이러한 시장 성장 흐름과 맞물려 장기적으로 안정적인 성장 기반을 확보할 수 있을 것으로 판단됩니다.\"}, {\"axis\": \"product\", \"value\": \"의료 IT 시스템 통합\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"의료 IT 시스템 통합(System Integration, SI)은 의료기관, 제약사, 바이오기업, 연구기관 등의 환경과 요구에 최적화된 정보 시스템을 설계ㆍ구축ㆍ운영하는 사업입니다.\"}, {\"axis\": \"product\", \"value\": \"헬스케어 컨설팅 서비스\", \"weight\": 0.22, \"direction\": null, \"evidence\": \"Precedence Research에 따르면, 글로벌 헬스케어 컨설팅 서비스 시장 규모는 2024년 약 336억 8,000만 달러(한화 약 46조 1천억 원)로 추정되며\"}, {\"axis\": \"product\", \"value\": \"유전체 분석\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"유전정보 빅데이터를 이용해 표적치료제 등 신약을 개발하는데 활용할 수 있습니다. 또한, 유전체 검사를 통해 자신에게 효과가 있는 특정 항암제를 쉽게 찾아낼 수도 있기에\"}], \"application\": [{\"axis\": \"application\", \"value\": \"암 치료\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"이러한 성장세는 암ㆍ면역질환의 발병 증가, 차세대 면역항암제 수요 확대, NK세포 기반 면역 치료 기술의 고도화에 기인합니다.\"}, {\"axis\": \"application\", \"value\": \"면역질환 치료\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"이러한 성장세는 암ㆍ면역질환의 발병 증가, 차세대 면역항암제 수요 확대, NK세포 기반 면역 치료 기술의 고도화에 기인합니다.\"}, {\"axis\": \"application\", \"value\": \"안티에이징\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"세포치료 클리닉의 우수한 배양기술을 활용하여 면역력 증가뿐만 아니라 손상된 세포의 재생을 통한 안티에이징 및 항암효과 등의 건강한 삶을 위한 세포치료를 실현하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"의료\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"의료 IT 시스템 통합(System Integration, SI)은 의료기관, 제약사, 바이오기업, 연구기관 등의 환경과 요구에 최적화된 정보 시스템을 설계ㆍ구축ㆍ운영하는 사업입니다.\"}, {\"axis\": \"application\", \"value\": \"난임 치료\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다.\"}], \"customer\": [{\"axis\": \"customer\", \"value\": \"시티 퍼틸리티\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다.\"}], \"raw_material\": [], \"region\": [{\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"미국ㆍ동남아 등 해외 주요 시장으로 서비스 대상을 확대할 계획입니다.\"}, {\"axis\": \"region\", \"value\": \"호주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"국내 최초로는 호주 유전체분석시장에 진출하여, 호주의 난임센터'시티 퍼틸리티(City Fertility)'와 협력해 호주 난임환자들에게'착상전 배아 유전 검사(Preimplantation genetic testing, PGT)' 서비스를 제공하고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"국내뿐만 아니라 중국, 일본, 인도네시아 등으로 시장 범위를 확대해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"일본\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"국내뿐만 아니라 중국, 일본, 인도네시아 등으로 시장 범위를 확대해 나가고 있습니다.\"}, {\"axis\": \"region\", \"value\": \"카타르\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"카타르 메디컬센터 설립 타당성 분석을 시작으로, 동아시아 지역을 중심으로 한 메디컬센터 운영 컨설팅 사업을 확대하고 있으며\"}], \"exposure\": [{\"axis\": \"exposure\", \"value\": \"고령화\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"원격진료, 환자 모니터링, 전자의무기록(EMR) 관리, 헬스케어 앱ㆍ웨어러블 기기 연동, 데이터 분석 기반 맞춤형 치료 등 다양한 분야에서 활용되며, 고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"만성질환 증가\", \"weight\": 0.6, \"direction\": 1, \"evidence\": \"원격진료, 환자 모니터링, 전자의무기록(EMR) 관리, 헬스케어 앱ㆍ웨어러블 기기 연동, 데이터 분석 기반 맞춤형 치료 등 다양한 분야에서 활용되며, 고령화ㆍ만성질환 증가와 함께 의료 서비스 수요 확대를 견인하고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"사이버 보안 위험\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"다만, 사이버 보안 위험과 높은 초기 투자비용은 시장 확대의 제약 요인으로 지적되고 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"높은 초기 투자비용\", \"weight\": 0.4, \"direction\": -1, \"evidence\": \"다만, 사이버 보안 위험과 높은 초기 투자비용은 시장 확대의 제약 요인으로 지적되고 있습니다.\"}]}"
+  ],
+  "text_path": "data/reports/085660_20260609000370.txt"
+}

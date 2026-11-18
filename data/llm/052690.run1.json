@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "원자력발전소 설계",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M(Operation and Maintenance), 플랜트 건설사업 및 신재생에너지 관련 사업 등을 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "원자로계통설계",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "회사는 원자력발전소 종합설계와 원자로계통설계 기술을 함께 보유한 기업으로, 1,2차 계통을 동시에 설계할 수 있는 세계 최고수준의 발전소 설계전문회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "소형모듈원자로",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기존 대형원전 대비 소규모 설비용량의 SMR(소형모듈형원자로) 기술개발에서 계통설계와 BOP(Balance Of Plant) 종합설계와 같은 핵심과제를 주관하고 있으며, 회사 고유의 해양부유식 소형원자로 노형인 BANDI 개발을 수행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "화력발전소 설계",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해상풍력 발전소",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가스엔진발전소",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "인도네시아 PLN 가스엔진발전소 EPC 등"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M(Operation and Maintenance), 플랜트 건설사업 및 신재생에너지 관련 사업 등을 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "화력발전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내 뿐 아니라 원전 수출을 위하여 한전 및 한수원 등 유관기관과 유기적으로 협력하고 있으며, 해외 원전 수요국 현지에서 한국형 원전 기술 설명회를 개최하는 등 적극적인 한국형 원전의 홍보활동에 매진하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "UAE 원전 종합설계용역"
+    },
+    {
+      "axis": "customer",
+      "value": "인도네시아전력청",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아 PLN 엔진발전소 패키지 EPC사업 (Sumbawa-2)"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "김천본사 외 | 자가보유 | 경북 김천 외"
+    },
+    {
+      "axis": "region",
+      "value": "체코",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "체코 두코바니 5&6호기 종합설계용역 등"
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "UAE 원전 원자로계통설계 용역 등"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "인도네시아 PLN 가스엔진발전소 EPC 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "회사는 외화로 체결된 용역 및 건설계약 등과 관련하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자력발전소 설계\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M(Operation and Maintenance), 플랜트 건설사업 및 신재생에너지 관련 사업 등을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원자로계통설계\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"회사는 원자력발전소 종합설계와 원자로계통설계 기술을 함께 보유한 기업으로, 1,2차 계통을 동시에 설계할 수 있는 세계 최고수준의 발전소 설계전문회사입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소형모듈원자로\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"기존 대형원전 대비 소규모 설비용량의 SMR(소형모듈형원자로) 기술개발에서 계통설계와 BOP(Balance Of Plant) 종합설계와 같은 핵심과제를 주관하고 있으며, 회사 고유의 해양부유식 소형원자로 노형인 BANDI 개발을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"화력발전소 설계\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"해상풍력 발전소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스엔진발전소\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 PLN 가스엔진발전소 EPC 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력발전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"회사는 발전소 및 플랜트 관련 엔지니어링 업체로서 1975년 설립된 이래 원자력/화력 발전소의 설계, 발전설비 O&M(Operation and Maintenance), 플랜트 건설사업 및 신재생에너지 관련 사업 등을 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화력발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"에너지신사업 부문에서는 석탄화력, 복합화력, 열병합발전 등 다양한 화력발전소 설계 기술을 보유하여 국내 발전플랜트 수요를 안정적으로 뒷받침해 왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2050 탄소중립을 위해 발전분야에서 대규모 해상풍력 등 재생에너지사업 뿐만 아니라 청정 수소 사업 수행 및 관련 기술 개발을 통해 친환경 및 무탄소에너지 시장을 선도하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"국내 뿐 아니라 원전 수출을 위하여 한전 및 한수원 등 유관기관과 유기적으로 협력하고 있으며, 해외 원전 수요국 현지에서 한국형 원전 기술 설명회를 개최하는 등 적극적인 한국형 원전의 홍보활동에 매진하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"UAE 원전 종합설계용역\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"인도네시아전력청\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 PLN 엔진발전소 패키지 EPC사업 (Sumbawa-2)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"김천본사 외 | 자가보유 | 경북 김천 외\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"체코\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"체코 두코바니 5&6호기 종합설계용역 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"아랍에미리트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"UAE 원전 원자로계통설계 용역 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 PLN 가스엔진발전소 EPC 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"회사는 외화로 체결된 용역 및 건설계약 등과 관련하여 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/052690_20260326001003.txt"
+}

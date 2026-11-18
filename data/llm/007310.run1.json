@@ -1,0 +1,151 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "면제품",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "면제품류 | 1,056,087,227 | 1,008,570,213 |"
+    },
+    {
+      "axis": "product",
+      "value": "양념소스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "양념소스류 | 625,504,410 | 625,822,442 |"
+    },
+    {
+      "axis": "product",
+      "value": "유지류",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "유지류 | 440,514,067 | 416,567,925 |"
+    },
+    {
+      "axis": "product",
+      "value": "농수산가공품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "농수산 가공품류 | 713,998,024 | 683,278,687 |"
+    },
+    {
+      "axis": "product",
+      "value": "건조식품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "건조식품류 | 225,744,632 | 230,881,820 |"
+    },
+    {
+      "axis": "product",
+      "value": "냉동식품",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "냉동만두, 냉동면 등 냉동식품 및 동그랑땡, 볶음밥, 캔햄 등 냉동조리식품을 제조하고 판매하는 사업을 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "치즈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "치즈, 소스, 분말/시즈닝, 빵크림, 피자, 밀키트, 유탕류, 이스트 등 다양한 식품 원재료와 가공식품을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "참기름",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "참기름, 후추 등 식품 원재료의 제조 및 판매를 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유지류",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 유지(대두유, 팜유) | 수입 | $1,120/TON | $974/TON | $1,243/TON |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "설탕",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "설탕 | 국내 | \\1,120/KG | \\1,193/KG | \\1,069/KG |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주정",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주정 | 국내 | \\2,205/KG | \\2,205/KG | \\2,133/KG |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "물엿",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "물엿 | 국내 | \\969/KG | \\985/KG | \\1,092/KG |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결회사는 가공식품 수출 및 원재료 수입 거래와 관련하여 USD, JPY, EUR, NZD, CNY의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "밀가루, 치즈, 버터 등 주요 원자재 가격의 변동성으로 인해 비용 부담이 커지고, 브랜드와 신제품 출시가 늘면서 가격 경쟁도 심화되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "연결회사는 금융상품을 운용함에 따라 신용위험, 유동성위험, 환위험, 이자율위험 및기타 가격위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"면제품\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"면제품류 | 1,056,087,227 | 1,008,570,213 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"양념소스\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"양념소스류 | 625,504,410 | 625,822,442 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유지류\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"유지류 | 440,514,067 | 416,567,925 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"농수산가공품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"농수산 가공품류 | 713,998,024 | 683,278,687 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"건조식품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"건조식품류 | 225,744,632 | 230,881,820 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"냉동식품\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"냉동만두, 냉동면 등 냉동식품 및 동그랑땡, 볶음밥, 캔햄 등 냉동조리식품을 제조하고 판매하는 사업을 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"치즈\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"치즈, 소스, 분말/시즈닝, 빵크림, 피자, 밀키트, 유탕류, 이스트 등 다양한 식품 원재료와 가공식품을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"참기름\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"참기름, 후추 등 식품 원재료의 제조 및 판매를 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유지류\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"주요 유지(대두유, 팜유) | 수입 | $1,120/TON | $974/TON | $1,243/TON |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"설탕\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"설탕 | 국내 | \\\\1,120/KG | \\\\1,193/KG | \\\\1,069/KG |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"주정\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"주정 | 국내 | \\\\2,205/KG | \\\\2,205/KG | \\\\2,133/KG |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"물엿\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"물엿 | 국내 | \\\\969/KG | \\\\985/KG | \\\\1,092/KG |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 안양에 위치한 본사를 포함하여 국내에 총 4개의 생산공장(안양, 대풍, 삼남, 포승)과 해외에 별도현지법인으로 설립된 6개의 생산공장(중국(JIANGSU OTTOGI FOODS, JIANGSU TAEDONG FOODS), 뉴질랜드, 베트남, 미국)을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 가공식품 수출 및 원재료 수입 거래와 관련하여 USD, JPY, EUR, NZD, CNY의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"밀가루, 치즈, 버터 등 주요 원자재 가격의 변동성으로 인해 비용 부담이 커지고, 브랜드와 신제품 출시가 늘면서 가격 경쟁도 심화되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 금융상품을 운용함에 따라 신용위험, 유동성위험, 환위험, 이자율위험 및기타 가격위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/007310_20260318000621.txt"
+}

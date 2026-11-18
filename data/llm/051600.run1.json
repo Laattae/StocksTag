@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "발전설비 정비서비스",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "우수한 전문기술인력과 첨단 장비를 바탕으로 국내외 산업설비의 가동률과 효율성 향상을 위한 고품질의 정비서비스를 제공하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "가스터빈 고온부품 재생정비",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "GE의 가스터빈 재생정비 기술을 바탕으로 지멘스, 웨스팅하우스, ABB, Non-GE 등 다양한 기종의 가스터빈 및 스팀터빈 부품 재생정비서비스를 수행하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "송전선로 유지정비",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전국에 산재해있는 전력지사에서 가공송전설비 대상으로 유지정비를 담당하며 전력의 안정적 공급에 이바지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신재생에너지 O&M",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "정부의 신재생에너지 확대 정책에 부응하여 친환경기업으로 자리매김하고 신규사업 진출을 통해 회사의 미래 성장동력을 확충하고자, 당사는 신재생발전설비 건설공사와 O&M사업을 수행하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "화력발전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전국에 산재해있는 화력사업장에서 국내발전설비를 대상으로 건설과정에서의 시운전정비, 운전과정에서의 경상정비, 계획예방정비, 개보수공사 등을 충실히 수행하여"
+    },
+    {
+      "axis": "application",
+      "value": "원자력발전",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "1978년 고리1호기 상업운전을 시작한 이래 상업운전 중인 26기, 영구정지 2기, 시운전 2기를 포함하여 현재 15개 원자력사업소에서 정비업무를 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "양수발전",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내 전력망의 첨두부하를 담당하고 있는 7개 양수발전소 16호기를 대상으로 시운전정비, 경상정비, 계획예방정비, 개보수공사를 수행하여"
+    },
+    {
+      "axis": "customer",
+      "value": "한국수력원자력",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년도 원전(다수호기) 기전설비 정비공사 등 28건"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 가공송전 순시점검 위탁공사 등 4건"
+    },
+    {
+      "axis": "customer",
+      "value": "한국지역난방공사",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "화성 열병합발전소 정비공사"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "토지 | 나주 본사 외 | 자가보유 | 전남 나주 외 |"
+    },
+    {
+      "axis": "region",
+      "value": "아랍에미리트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "남아프리카공화국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "우루과이",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"발전설비 정비서비스\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"우수한 전문기술인력과 첨단 장비를 바탕으로 국내외 산업설비의 가동률과 효율성 향상을 위한 고품질의 정비서비스를 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"가스터빈 고온부품 재생정비\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"GE의 가스터빈 재생정비 기술을 바탕으로 지멘스, 웨스팅하우스, ABB, Non-GE 등 다양한 기종의 가스터빈 및 스팀터빈 부품 재생정비서비스를 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"송전선로 유지정비\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전국에 산재해있는 전력지사에서 가공송전설비 대상으로 유지정비를 담당하며 전력의 안정적 공급에 이바지하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신재생에너지 O&M\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"정부의 신재생에너지 확대 정책에 부응하여 친환경기업으로 자리매김하고 신규사업 진출을 통해 회사의 미래 성장동력을 확충하고자, 당사는 신재생발전설비 건설공사와 O&M사업을 수행하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"화력발전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전국에 산재해있는 화력사업장에서 국내발전설비를 대상으로 건설과정에서의 시운전정비, 운전과정에서의 경상정비, 계획예방정비, 개보수공사 등을 충실히 수행하여\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"원자력발전\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"1978년 고리1호기 상업운전을 시작한 이래 상업운전 중인 26기, 영구정지 2기, 시운전 2기를 포함하여 현재 15개 원자력사업소에서 정비업무를 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"양수발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내 전력망의 첨두부하를 담당하고 있는 7개 양수발전소 16호기를 대상으로 시운전정비, 경상정비, 계획예방정비, 개보수공사를 수행하여\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국수력원자력\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년도 원전(다수호기) 기전설비 정비공사 등 28건\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 가공송전 순시점검 위탁공사 등 4건\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국지역난방공사\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"화성 열병합발전소 정비공사\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"토지 | 나주 본사 외 | 자가보유 | 전남 나주 외 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"아랍에미리트\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"남아프리카공화국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"우루과이\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"해외에서도 기술력을 인정받아 UAE, 남아프리카 공화국, 우루과이등지에서 적극적으로 해외시장을 개척해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/051600_20260323000091.txt"
+}

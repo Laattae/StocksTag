@@ -1,0 +1,145 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "GI-101",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "product",
+      "value": "GI-102",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "product",
+      "value": "GI-301",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "product",
+      "value": "GI-108",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "application",
+      "value": "면역항암제",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "application",
+      "value": "알레르기 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제"
+    },
+    {
+      "axis": "customer",
+      "value": "심시어",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "전임상 단계의 면역항암제 GI-101을 중국 심시어(Simcere Pharmaceutical)에 7억9천만달러 규모로 기술이전"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "마루호",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2023년 10월 GI-301의 일본 내 개발 및 상업화 권리에 대한 2억 2,100만달러 규모의 기술이전 계약을 추가로 체결"
+    },
+    {
+      "axis": "customer",
+      "value": "MSD",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 MSD(Merck & Co., Inc.) 와같은 글로벌 선도기업과 공동임상 계약을 체결하는 등 다양하고 적극적인 협력을 추진"
+    },
+    {
+      "axis": "product",
+      "value": "GI-101",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "바이오 신약 항암제 GI-101 임상1/2상(한국)임상1/2상(미국)"
+    },
+    {
+      "axis": "product",
+      "value": "GI-102",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "항암제 GI-102 임상1/2상(한국)임상1/2상(미국)"
+    },
+    {
+      "axis": "product",
+      "value": "GI-301",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알레르기치료제 GI-301 임상2상(한국)"
+    },
+    {
+      "axis": "product",
+      "value": "GI-108",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "항암제 GI-108 임상1/2a상(한국)"
+    },
+    {
+      "axis": "application",
+      "value": "고형암",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "진행성 또는 전이성 고형암 환자를 대상으로 GI-101 단일요법 및GI-101과 pembrolizumab, lenvatinib 또는 국소 방사선 병용요법의안전성"
+    },
+    {
+      "axis": "application",
+      "value": "알레르기 질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알레르기 질환(아토피 피부염, 알레르기 비염, 천식 등)"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "한국 포함 아시아 및 유럽 다국가 임상 2상 진행 또는 준비 중 (※ 임상시험 주체: (주)유한양행)"
+    },
+    {
+      "axis": "customer",
+      "value": "마루호",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "일본 임상 2상 준비중 (※ 임상시험 주체: 마루호(Maruho))"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미국 임상1/2상 IND(임상시험계획) 승인(2021년 06월)"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-101\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-102\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-301\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-108\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"면역항암제\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알레르기 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"심시어\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"전임상 단계의 면역항암제 GI-101을 중국 심시어(Simcere Pharmaceutical)에 7억9천만달러 규모로 기술이전\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"마루호\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2023년 10월 GI-301의 일본 내 개발 및 상업화 권리에 대한 2억 2,100만달러 규모의 기술이전 계약을 추가로 체결\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"MSD\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 MSD(Merck & Co., Inc.) 와같은 글로벌 선도기업과 공동임상 계약을 체결하는 등 다양하고 적극적인 협력을 추진\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-101\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"바이오 신약 항암제 GI-101 임상1/2상(한국)임상1/2상(미국)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-102\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"항암제 GI-102 임상1/2상(한국)임상1/2상(미국)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-301\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알레르기치료제 GI-301 임상2상(한국)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-108\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"항암제 GI-108 임상1/2a상(한국)\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"고형암\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"진행성 또는 전이성 고형암 환자를 대상으로 GI-101 단일요법 및GI-101과 pembrolizumab, lenvatinib 또는 국소 방사선 병용요법의안전성\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알레르기 질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알레르기 질환(아토피 피부염, 알레르기 비염, 천식 등)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"한국 포함 아시아 및 유럽 다국가 임상 2상 진행 또는 준비 중 (※ 임상시험 주체: (주)유한양행)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"마루호\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"일본 임상 2상 준비중 (※ 임상시험 주체: 마루호(Maruho))\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미국 임상1/2상 IND(임상시험계획) 승인(2021년 06월)\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/358570_20260318001639.txt"
+}

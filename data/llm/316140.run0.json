@@ -1,0 +1,380 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 6,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전통적인 예금·대출 중심의 은행 본연의 역할을 충실히 수행함과 동시에"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전통적인 예금·대출 중심의 은행 본연의 역할을 충실히 수행함과 동시에"
+    },
+    {
+      "axis": "product",
+      "value": "신탁상품",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당행은 1999년 1월 구 한국상업은행과 구 한일은행의 합병으로 출범하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "방카슈랑스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "은행이 현재 영위하고 있는 주요 겸영업무로는 보험·집합투자상품·퇴직연금·신탁상품 매매·중개 대리 업무 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "퇴직연금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "은행이 현재 영위하고 있는 주요 겸영업무로는 보험·집합투자상품·퇴직연금·신탁상품 매매·중개 대리 업무 등이 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자산리밸런싱 및 조달비용 효율화 노력을 지속하는 한편, 종합금융그룹 완성에 따른 균형잡힌 사업 포트폴리오에서 창출한 수수료 수익과 유가증권·외환·보험 관련 손익이 고르게 성장하며 대내외 불확실성에도 이자, 비이자이익의 균형잡힌 수익 창출 능력을 보여주었습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "자산리밸런싱 및 조달비용 효율화 노력을 지속하는 한편, 종합금융그룹 완성에 따른 균형잡힌 사업 포트폴리오에서 창출한 수수료 수익과 유가증권·외환·보험 관련 손익이 고르게 성장하며 대내외 불확실성에도 이자, 비이자이익의 균형잡힌 수익 창출 능력을 보여주었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동양생명보험은 생명보험업을 전업으로 하는 기업으로서, 생존보험, 사망보험, 생사혼합보험, 단체보험 등 다양한 보장성 상품과 퇴직연금 등 저축성 상품을 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "우리카드는 신용/체크/선불카드 발급 및 신용판매, 단기카드대출(현금서비스), 장기카드대출(카드론)등의 카드업무와 할부금융업"
+    },
+    {
+      "axis": "product",
+      "value": "할부금융",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "우리금융캐피탈은 자동차금융을 중심으로 기업금융, 개인금융 등 다양한 여신업무를 취급하는 여신전문금융회사입니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한인 및 현지 기업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "인도네시아우리소다라은행은 개인대출을 중심으로 영업을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "베트남우리은행은 2017년 법인 전환 이후 2025년 기준 28개 영업망을 운영하며 리테일 및 기업금융을 영위하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "캄보디아",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "2022년 상업은행 전환 이후 기존 MFI 중심 포트폴리오에서 기업대출, 외환, 카드 등 상업은행 업무로 취급 범위를 재편하는 과정에 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "미주 지역의 상업용 부동산 리스크 및 금리 변동성 등을 감안하여 유동성 및 자산 건전성 관리에 중점을 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "환율 변동성 및 인플레이션 등 외부 요인을 감안하여 무역금융 및 환리스크 관리에 중점을 두고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "생명보험",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "에이비엘생명보험주식회사(이하 에이비엘생명보험)는 1954년 출범한 역사와 전통의 생명보험사로서 생명보험사업과 이에 관련된 부대사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "부동산신탁",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "우리자산신탁주식회사는 2000년 6월 설립된 부동산신탁전문회사이며, 2019년 12월 우리금융그룹에서 그룹차원의 시너지 창출과 금융그룹 고객에 대한 전문 부동산 금융서비스 제공 확대를 위하여 계열사로 편입하여 사업영역을 넓혔고"
+    },
+    {
+      "axis": "product",
+      "value": "저축은행업",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "우리금융저축은행은 1972년 10월 서민과 중소기업에 대한 금융편의를 도모하고 거래자보호 및 신용질서 유지를 통한 국민경제 발전에 이바지함을 목적으로 설립되어, 예금 및 적금의 수입, 자금의 대출 등 주요 업무를 영위하는 서민금융기관입니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드운용",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "우리자산운용은 2000년 7월 설립 이후 장기간 채권명가의 입지를 구축한 자산운용사로서, 2019년 8월에 우리금융그룹 계열사로 편입되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "단기금융",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "장부가 계산방식으로 안정적인 수익률을 추구하는 단기상품"
+    },
+    {
+      "axis": "product",
+      "value": "주식형",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "KOSPI200 추종하는 인덱스펀드"
+    },
+    {
+      "axis": "product",
+      "value": "채권형",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신용등급 A2이상인 어음 및 단기사채에 주로 투자하며, 듀레이션은 180일 내외로 운용"
+    },
+    {
+      "axis": "product",
+      "value": "채권혼합",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자"
+    },
+    {
+      "axis": "product",
+      "value": "ETF",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "MK-iSelect AI ESG지수를 초과하도록 운용"
+    },
+    {
+      "axis": "application",
+      "value": "반도체",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대한민국 미래 성장산업(반도체, AI, 로봇, 방산, 엔터, 헬스케어 등) 관련 핵심 20여 종목에 투자"
+    },
+    {
+      "axis": "application",
+      "value": "AI",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대한민국 미래 성장산업(반도체, AI, 로봇, 방산, 엔터, 헬스케어 등) 관련 핵심 20여 종목에 투자"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자"
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "동양생명은 해외투자의 환율 변동 위험에 대한 헤지 목적으로 통화선도 및 통화스왑 계약을 체결하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "고유업무는 예금·적금의 수입 또는 유가증권, 그 밖의 채무증서의 발행 업무"
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자금의 대출 또는 어음의 할인 업무, 내·외국환 업무로 구성됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "신탁업무",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "은행이 현재 영위하고 있는 주요 겸영업무로는 보험대리점 업무, 퇴직연금사업자 업무, 신탁업무, 투자자문업무"
+    },
+    {
+      "axis": "product",
+      "value": "보험",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "우리금융그룹은 2025년 7월 1일 동양생명 및 ABL생명의 자회사 편입을 완료하여 은행·증권·보험 등을 모두 포괄하는 종합금융그룹 포트폴리오를 완성하게 되었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "신용카드",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "일정한 자격을 갖춘 회원에게 신용카드를 발급하고, 회원이 신용카드를 이용하여 신용카드사와 계약된 가맹점을 통해 상품ㆍ용역을 구입"
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "금리인하기에 접어들며 은행의 이자수익 성장세는 약화될 것으로 전망됩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "국내 물가는 국제유가 안정세 등으로 점차 2% 수준으로 낮아지겠으나, 높아진 환율이 상방 리스크로 작용할 것으로 보입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "부동산 경기회복 지연에 따라 부동산 대출 회수에 어려움이 예상되며"
+    },
+    {
+      "axis": "product",
+      "value": "보험상품",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "동양생명과 ABL생명은 긴 업력과 탄탄한 판매채널이 강점으로, 업계 중대형급 수준의 고객·자산·이익규모를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "NPL",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "시장 경쟁력 확대의 일환으로, 기관전용사모집합투자기구업무집행사원(GP) 등록, 일반 사모집합투자기구 유한책임사원(LP) 자격 획득, 기업구조조정(CR) 투자 발굴, 저축은행 무담보 NPL 투자 등을 통해 포트폴리오를 확대하였으며"
+    },
+    {
+      "axis": "product",
+      "value": "토지신탁",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "2025년 우리자산신탁은 차입형, 도시정비사업, 일반관리형 등의 토지신탁은 우수한 사업 위주로 선별적으로 확대해 나가며"
+    },
+    {
+      "axis": "product",
+      "value": "카드",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "최근에는 우리카드 자체 결제망 구축을 통해 실적 성장 및 수익성 개선의 기반을 마련하였으며, 빅데이터 기반 고객 분석을 통한 초개인화 마케팅 수행과 사용자 경험 중심의 디지털 플랫폼 개선으로 경쟁력 있는 카드사로 도약하기 위한 성장 기반을 마련하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "부동산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한, 통신업, 부동산 등 이종산업과의 제휴를 통해 新수익원을 발굴하고, 디지털 금융환경에 대응한 고객 맞춤형 종합금융솔루션을 제공하고자 합니다."
+    },
+    {
+      "axis": "application",
+      "value": "통신업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "또한, 통신업, 부동산 등 이종산업과의 제휴를 통해 新수익원을 발굴하고, 디지털 금융환경에 대응한 고객 맞춤형 종합금융솔루션을 제공하고자 합니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "가계부채",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한 경기회복 지연, 자영업황 부진 등으로 가계부채 부실 위험이 높아지고 있다는 우려가 많습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경제성장 둔화",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "2025년은 경제성장 둔화 등으로 가계 및 기업 연체율이 증가함에 따라 시중은행 NPL이 약 8조원 가량 매각되어, 확대된 시장규모가 유지되었습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전통적인 예금·대출 중심의 은행 본연의 역할을 충실히 수행함과 동시에\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"전통적인 예금·대출 중심의 은행 본연의 역할을 충실히 수행함과 동시에\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁상품\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당행은 1999년 1월 구 한국상업은행과 구 한일은행의 합병으로 출범하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"방카슈랑스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"은행이 현재 영위하고 있는 주요 겸영업무로는 보험·집합투자상품·퇴직연금·신탁상품 매매·중개 대리 업무 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"퇴직연금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"은행이 현재 영위하고 있는 주요 겸영업무로는 보험·집합투자상품·퇴직연금·신탁상품 매매·중개 대리 업무 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우리금융그룹은 현재 우리은행, 동양생명보험, 우리카드, 우리금융캐피탈, 우리투자증권을 비롯한 16개 자회사 및 미국, 중국, 인도네시아, 베트남 등지의 14개 해외현지법인\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자산리밸런싱 및 조달비용 효율화 노력을 지속하는 한편, 종합금융그룹 완성에 따른 균형잡힌 사업 포트폴리오에서 창출한 수수료 수익과 유가증권·외환·보험 관련 손익이 고르게 성장하며 대내외 불확실성에도 이자, 비이자이익의 균형잡힌 수익 창출 능력을 보여주었습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"자산리밸런싱 및 조달비용 효율화 노력을 지속하는 한편, 종합금융그룹 완성에 따른 균형잡힌 사업 포트폴리오에서 창출한 수수료 수익과 유가증권·외환·보험 관련 손익이 고르게 성장하며 대내외 불확실성에도 이자, 비이자이익의 균형잡힌 수익 창출 능력을 보여주었습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"동양생명보험은 생명보험업을 전업으로 하는 기업으로서, 생존보험, 사망보험, 생사혼합보험, 단체보험 등 다양한 보장성 상품과 퇴직연금 등 저축성 상품을 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"우리카드는 신용/체크/선불카드 발급 및 신용판매, 단기카드대출(현금서비스), 장기카드대출(카드론)등의 카드업무와 할부금융업\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"할부금융\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"우리금융캐피탈은 자동차금융을 중심으로 기업금융, 개인금융 등 다양한 여신업무를 취급하는 여신전문금융회사입니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한인 및 현지 기업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"우리아메리카은행은 미국 내 한인 및 현지 기업을 주요 고객으로 예·적금, 대출 등 상업은행 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"인도네시아우리소다라은행은 개인대출을 중심으로 영업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"베트남우리은행은 2017년 법인 전환 이후 2025년 기준 28개 영업망을 운영하며 리테일 및 기업금융을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"캄보디아\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"2022년 상업은행 전환 이후 기존 MFI 중심 포트폴리오에서 기업대출, 외환, 카드 등 상업은행 업무로 취급 범위를 재편하는 과정에 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"미주 지역의 상업용 부동산 리스크 및 금리 변동성 등을 감안하여 유동성 및 자산 건전성 관리에 중점을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"환율 변동성 및 인플레이션 등 외부 요인을 감안하여 무역금융 및 환리스크 관리에 중점을 두고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"생명보험\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"에이비엘생명보험주식회사(이하 에이비엘생명보험)는 1954년 출범한 역사와 전통의 생명보험사로서 생명보험사업과 이에 관련된 부대사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부동산신탁\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"우리자산신탁주식회사는 2000년 6월 설립된 부동산신탁전문회사이며, 2019년 12월 우리금융그룹에서 그룹차원의 시너지 창출과 금융그룹 고객에 대한 전문 부동산 금융서비스 제공 확대를 위하여 계열사로 편입하여 사업영역을 넓혔고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"저축은행업\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"우리금융저축은행은 1972년 10월 서민과 중소기업에 대한 금융편의를 도모하고 거래자보호 및 신용질서 유지를 통한 국민경제 발전에 이바지함을 목적으로 설립되어, 예금 및 적금의 수입, 자금의 대출 등 주요 업무를 영위하는 서민금융기관입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드운용\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"우리자산운용은 2000년 7월 설립 이후 장기간 채권명가의 입지를 구축한 자산운용사로서, 2019년 8월에 우리금융그룹 계열사로 편입되었습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"단기금융\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"장부가 계산방식으로 안정적인 수익률을 추구하는 단기상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식형\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"KOSPI200 추종하는 인덱스펀드\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권형\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신용등급 A2이상인 어음 및 단기사채에 주로 투자하며, 듀레이션은 180일 내외로 운용\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권혼합\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ETF\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"MK-iSelect AI ESG지수를 초과하도록 운용\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"반도체\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대한민국 미래 성장산업(반도체, AI, 로봇, 방산, 엔터, 헬스케어 등) 관련 핵심 20여 종목에 투자\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"AI\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대한민국 미래 성장산업(반도체, AI, 로봇, 방산, 엔터, 헬스케어 등) 관련 핵심 20여 종목에 투자\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"30% 이하 주식에 투자(삼성전자&SK하이닉스에 집중 투자)하고, 나머지 자산은 국내 채권에 투자\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"동양생명은 해외투자의 환율 변동 위험에 대한 헤지 목적으로 통화선도 및 통화스왑 계약을 체결하고 있으며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"고유업무는 예금·적금의 수입 또는 유가증권, 그 밖의 채무증서의 발행 업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자금의 대출 또는 어음의 할인 업무, 내·외국환 업무로 구성됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신탁업무\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"은행이 현재 영위하고 있는 주요 겸영업무로는 보험대리점 업무, 퇴직연금사업자 업무, 신탁업무, 투자자문업무\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"우리금융그룹은 2025년 7월 1일 동양생명 및 ABL생명의 자회사 편입을 완료하여 은행·증권·보험 등을 모두 포괄하는 종합금융그룹 포트폴리오를 완성하게 되었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"신용카드\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"일정한 자격을 갖춘 회원에게 신용카드를 발급하고, 회원이 신용카드를 이용하여 신용카드사와 계약된 가맹점을 통해 상품ㆍ용역을 구입\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"금리인하기에 접어들며 은행의 이자수익 성장세는 약화될 것으로 전망됩니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"국내 물가는 국제유가 안정세 등으로 점차 2% 수준으로 낮아지겠으나, 높아진 환율이 상방 리스크로 작용할 것으로 보입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"부동산 경기회복 지연에 따라 부동산 대출 회수에 어려움이 예상되며\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보험상품\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"동양생명과 ABL생명은 긴 업력과 탄탄한 판매채널이 강점으로, 업계 중대형급 수준의 고객·자산·이익규모를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"NPL\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"시장 경쟁력 확대의 일환으로, 기관전용사모집합투자기구업무집행사원(GP) 등록, 일반 사모집합투자기구 유한책임사원(LP) 자격 획득, 기업구조조정(CR) 투자 발굴, 저축은행 무담보 NPL 투자 등을 통해 포트폴리오를 확대하였으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"토지신탁\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"2025년 우리자산신탁은 차입형, 도시정비사업, 일반관리형 등의 토지신탁은 우수한 사업 위주로 선별적으로 확대해 나가며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"카드\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"최근에는 우리카드 자체 결제망 구축을 통해 실적 성장 및 수익성 개선의 기반을 마련하였으며, 빅데이터 기반 고객 분석을 통한 초개인화 마케팅 수행과 사용자 경험 중심의 디지털 플랫폼 개선으로 경쟁력 있는 카드사로 도약하기 위한 성장 기반을 마련하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"부동산\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한, 통신업, 부동산 등 이종산업과의 제휴를 통해 新수익원을 발굴하고, 디지털 금융환경에 대응한 고객 맞춤형 종합금융솔루션을 제공하고자 합니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"통신업\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"또한, 통신업, 부동산 등 이종산업과의 제휴를 통해 新수익원을 발굴하고, 디지털 금융환경에 대응한 고객 맞춤형 종합금융솔루션을 제공하고자 합니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"가계부채\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한 경기회복 지연, 자영업황 부진 등으로 가계부채 부실 위험이 높아지고 있다는 우려가 많습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경제성장 둔화\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"2025년은 경제성장 둔화 등으로 가계 및 기업 연체율이 증가함에 따라 시중은행 NPL이 약 8조원 가량 매각되어, 확대된 시장규모가 유지되었습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/316140_20260313001235.txt"
+}

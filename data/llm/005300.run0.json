@@ -1,0 +1,164 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "탄산음료",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "탄산음료 | 음용 | 칠성사이다, 펩시콜라 등 | 880,023 | 34.3"
+    },
+    {
+      "axis": "product",
+      "value": "소주",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "소주 | 음용 | 처음처럼, 새로 등 | 420,362 | 16.4"
+    },
+    {
+      "axis": "product",
+      "value": "커피",
+      "weight": 0.11,
+      "direction": null,
+      "evidence": "커피 | 음용 | 레쓰비, 칸타타 등 | 293,871 | 11.4"
+    },
+    {
+      "axis": "product",
+      "value": "먹는샘물",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "먹는샘물 | 음용 | 아이시스 등 | 213,728 | 8.3"
+    },
+    {
+      "axis": "product",
+      "value": "주스",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "주스 | 음용 | 델몬트주스 등 | 146,506 | 5.7"
+    },
+    {
+      "axis": "customer",
+      "value": "PepsiCo. Inc.",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "펩시 EBA [Exclusive Bottling Appointment] | 2011.01.03 | PepsiCo. Inc. | 2011.01.01~2030.12.31"
+    },
+    {
+      "axis": "customer",
+      "value": "Pepsi Lipton International Limited",
+      "weight": null,
+      "direction": null,
+      "evidence": "립톤 EBA | 2016.07.01 | Pepsi Lipton InternationalLimited | 2016.07.01~2027.12.31"
+    },
+    {
+      "axis": "customer",
+      "value": "산토리",
+      "weight": null,
+      "direction": null,
+      "evidence": "오랑지나 | 2018.04.11 | 산토리 | 2018.04.11~2028.04.10"
+    },
+    {
+      "axis": "customer",
+      "value": "제주맥주",
+      "weight": null,
+      "direction": null,
+      "evidence": "제품공급계약(OEM) | 2020.12.17 | 제주맥주㈜ | 2021.01.01~2025.12.31"
+    },
+    {
+      "axis": "customer",
+      "value": "빅썸바이오",
+      "weight": null,
+      "direction": null,
+      "evidence": "건강기능식품 소재 개발대행 용역 계약 | 2022.10.06 | (주)빅썸바이오 | 2022.10.06~2026.06.30"
+    },
+    {
+      "axis": "raw_material",
+      "value": "당분류 및 첨가물",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "당,첨가물 | 114,367 | 17.3"
+    },
+    {
+      "axis": "raw_material",
+      "value": "음료 용기",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "용기 | 230,236 | 34.8"
+    },
+    {
+      "axis": "raw_material",
+      "value": "농축액",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "농축액 | 53,011 | 8.0"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주정",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "주정 | 88,597 | 33.6"
+    },
+    {
+      "axis": "raw_material",
+      "value": "주류 용기",
+      "weight": 0.34,
+      "direction": null,
+      "evidence": "용기 | 90,728 | 34.4"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 국내에 주류 5개 공장(강릉, 군산, 경산, 충주1, 충주2)을 운영하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "음료 산업은 타 산업에 비해 경기 변동의 영향을 덜 받는 편이나, 원자재 가격 변동에민감하고 환율에 따라 수익성에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": null,
+      "direction": -1,
+      "evidence": "음료 산업은 타 산업에 비해 경기 변동의 영향을 덜 받는 편이나, 원자재 가격 변동에민감하고 환율에 따라 수익성에 영향을 받습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄산음료\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"탄산음료 | 음용 | 칠성사이다, 펩시콜라 등 | 880,023 | 34.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소주\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"소주 | 음용 | 처음처럼, 새로 등 | 420,362 | 16.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"커피\",\n      \"weight\": 0.11,\n      \"direction\": null,\n      \"evidence\": \"커피 | 음용 | 레쓰비, 칸타타 등 | 293,871 | 11.4\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"먹는샘물\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"먹는샘물 | 음용 | 아이시스 등 | 213,728 | 8.3\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주스\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"주스 | 음용 | 델몬트주스 등 | 146,506 | 5.7\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"PepsiCo. Inc.\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"펩시 EBA [Exclusive Bottling Appointment] | 2011.01.03 | PepsiCo. Inc. | 2011.01.01~2030.12.31\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Pepsi Lipton International Limited\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"립톤 EBA | 2016.07.01 | Pepsi Lipton InternationalLimited | 2016.07.01~2027.12.31\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"산토리\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"오랑지나 | 2018.04.11 | 산토리 | 2018.04.11~2028.04.10\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"제주맥주\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"제품공급계약(OEM) | 2020.12.17 | 제주맥주㈜ | 2021.01.01~2025.12.31\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"빅썸바이오\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"건강기능식품 소재 개발대행 용역 계약 | 2022.10.06 | (주)빅썸바이오 | 2022.10.06~2026.06.30\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"당분류 및 첨가물\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"당,첨가물 | 114,367 | 17.3\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"음료 용기\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"용기 | 230,236 | 34.8\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"농축액\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"농축액 | 53,011 | 8.0\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"주정\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"주정 | 88,597 | 33.6\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"주류 용기\",\n      \"weight\": 0.34,\n      \"direction\": null,\n      \"evidence\": \"용기 | 90,728 | 34.4\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"광주\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내에 음료 6개 공장(안성1, 안성2, 오포, 대전, 양산, 광주)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"당사는 국내에 주류 5개 공장(강릉, 군산, 경산, 충주1, 충주2)을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"음료 산업은 타 산업에 비해 경기 변동의 영향을 덜 받는 편이나, 원자재 가격 변동에민감하고 환율에 따라 수익성에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"음료 산업은 타 산업에 비해 경기 변동의 영향을 덜 받는 편이나, 원자재 가격 변동에민감하고 환율에 따라 수익성에 영향을 받습니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/005300_20260311004566.txt"
+}

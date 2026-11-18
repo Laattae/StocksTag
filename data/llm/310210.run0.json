@@ -1,0 +1,109 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "표적치료제",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "비소세포폐암 치료제",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사가 자체 개발한 EGFR Exon20 INS 돌연변이 타겟 물질은 EGFR Exon20 삽입 돌연변이로 인한 비소세포폐암에 높은 활성을 보이고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "유방암 치료제",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 HER2를 타겟하며, 기존 치료제 내성 돌연변이 및 뇌전이암 치료효과가 개선된 유방암 치료제를 개발 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "자가면역질환 치료제",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 RIPK1을 억제하여 염증성질환을 치료하는 새로운 기전(MOA)의 치료제 후보물질을 개발하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "폐동맥고혈압 치료제",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 PDGFR을 억제하여 악성 폐동맥고혈압을 치료하는 새로운 기전(MOA)의 치료제를 개발 중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "폐암",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "유방암",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 RIPK1 치료제 선도물질은 염증성 질환 동물시험에서 TNF-α 항체 치료제와 동등 이상의 우수한 약효를 확인하였습니다."
+    },
+    {
+      "axis": "application",
+      "value": "폐동맥고혈압",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 PDGFR을 억제하여 악성 폐동맥고혈압을 치료하는 새로운 기전(MOA)의 치료제를 개발 중에 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "ORIC Pharmaceuticals",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 본 파이프라인을 2020년 10월 미국 나스닥 상장사인 오릭(ORIC Pharmaceuticals, Inc.)에 최대 마일스톤 6억 2,100만 달러(계약금 1,300만 달러 포함)에 기술이전 하였습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Anvia Therapeutics",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025년 9월에는 비상장사 Anvia Therapeutics, Inc.와 VRN04 프로그램에 대한 기술자산 판매 계약을 체결하는 등 보유 기술력을 인정받고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "합병 후 현재 당사는 보로노이㈜ 신약개발연구소 산하에 AI연구소, 바이오연구소, 실험동물센터, 의약화학연구소를 보유하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 국가별 주요 매출실적은 다음과 같습니다. 수출, 미국, 7,512, 100.0"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "회사의 외환위험관리의 목표는 환율 변동의 불확실성에 따른 손익 변동을 최소화하여 사업의 안정성을 기하기 위함입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"표적치료제\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비소세포폐암 치료제\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사가 자체 개발한 EGFR Exon20 INS 돌연변이 타겟 물질은 EGFR Exon20 삽입 돌연변이로 인한 비소세포폐암에 높은 활성을 보이고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유방암 치료제\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 HER2를 타겟하며, 기존 치료제 내성 돌연변이 및 뇌전이암 치료효과가 개선된 유방암 치료제를 개발 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"자가면역질환 치료제\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 RIPK1을 억제하여 염증성질환을 치료하는 새로운 기전(MOA)의 치료제 후보물질을 개발하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"폐동맥고혈압 치료제\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 PDGFR을 억제하여 악성 폐동맥고혈압을 치료하는 새로운 기전(MOA)의 치료제를 개발 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"폐암\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유방암\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 자체 개발한 파이프라인으로 초기 임상개발(임상 1상~2상)에 집중하는 신약개발 전문기업으로 주로 폐암 및 유방암 등 항암제 분야 표적치료제 개발에 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 RIPK1 치료제 선도물질은 염증성 질환 동물시험에서 TNF-α 항체 치료제와 동등 이상의 우수한 약효를 확인하였습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"폐동맥고혈압\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 PDGFR을 억제하여 악성 폐동맥고혈압을 치료하는 새로운 기전(MOA)의 치료제를 개발 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"ORIC Pharmaceuticals\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 본 파이프라인을 2020년 10월 미국 나스닥 상장사인 오릭(ORIC Pharmaceuticals, Inc.)에 최대 마일스톤 6억 2,100만 달러(계약금 1,300만 달러 포함)에 기술이전 하였습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Anvia Therapeutics\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2025년 9월에는 비상장사 Anvia Therapeutics, Inc.와 VRN04 프로그램에 대한 기술자산 판매 계약을 체결하는 등 보유 기술력을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"합병 후 현재 당사는 보로노이㈜ 신약개발연구소 산하에 AI연구소, 바이오연구소, 실험동물센터, 의약화학연구소를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 국가별 주요 매출실적은 다음과 같습니다. 수출, 미국, 7,512, 100.0\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"회사의 외환위험관리의 목표는 환율 변동의 불확실성에 따른 손익 변동을 최소화하여 사업의 안정성을 기하기 위함입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/310210_20260320000892.txt"
+}

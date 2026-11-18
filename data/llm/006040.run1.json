@@ -1,0 +1,378 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 4,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "참치원어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "참치선망선단(참치캔 제조용 원어)의 2025년 1-12월 당사의 평균판매가격을 적용하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "참치통조림",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "동원 브랜드의 참치캔, 농수산캔, 조리냉동, 먹는샘물, 연제품 등과 양반 브랜드의 조미김, 김치, 죽"
+    },
+    {
+      "axis": "product",
+      "value": "크릴오일",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "노력의 일환으로 2019년 크릴오일 제품인 '동원 크릴리오'를 출시하였고"
+    },
+    {
+      "axis": "product",
+      "value": "양극박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "원형 배터리캔",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "유리병",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대부분의 포장재와 더불어 2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "양계, 양돈, 낙농, 비육, 오리 등 배합사료를 생산 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "에너지저장장치",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "참치원어",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "참치원어의 경우 시가를 적용하였으며, 유류의 경우 2025년 1-12월 원재료 평균 매입가격을 적용하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "유류",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "참치원어의 경우 시가를 적용하였으며, 유류의 경우 2025년 1-12월 원재료 평균 매입가격을 적용하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "연어",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "유통사업 | 원재료상품 | 횟감용참치 | 참치횟감 | 133,323 | TOYO REIZO Co., Ltd.외 | 연어 | 연어"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "그룹 연수원 ‘동원리더스아카데미’는 2007년 6월 경기도 이천시 장호원에 설립되었으며"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "동원산업은 부산광역시 감천항 수산물 유통단지에 첨단 위생관리 System을 도입하고"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "원양산업의 경기는 크게 생산량, 환율, 선진국들의 소비 경기변동에 의해 좌우되는데"
+    },
+    {
+      "axis": "product",
+      "value": "연포장재",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "연포장재,성형포장 등"
+    },
+    {
+      "axis": "product",
+      "value": "참치캔",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "참치캔, AL-foil, 음료캔 등"
+    },
+    {
+      "axis": "product",
+      "value": "알미늄박",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "알미늄박"
+    },
+    {
+      "axis": "product",
+      "value": "유리병",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "유리병 등"
+    },
+    {
+      "axis": "product",
+      "value": "음료캔",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "음료캔 등"
+    },
+    {
+      "axis": "product",
+      "value": "배터리",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "당사는 2차전지 핵심 부품인 원통형 CAN 생산을 위해 필수적인 금형 설계"
+    },
+    {
+      "axis": "raw_material",
+      "value": "원어",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원어 : Light Meat tuna 기준"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알미늄박",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "알미늄 박 (foil) 제조 노하우를 바탕으로 전개 중인 알루미늄 양극박 사업"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "진천,아산,군산, 음성공장, TTP 등"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "진천,아산,군산, 음성공장, TTP 등"
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "진천,아산,군산, 음성공장, TTP 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": -1,
+      "evidence": "연결회사는 수출 및 원재료 수입 거래와 관련하여 USD, JPY, EUR 등의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "참치캔",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "참 치 캔 | 78.9 | 81.4 | 81.7 | 82.5 | 닐슨"
+    },
+    {
+      "axis": "product",
+      "value": "캔 햄",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "캔 햄 | 18.9 | 19.9 | 19.2 | 19.0 | 닐슨"
+    },
+    {
+      "axis": "product",
+      "value": "알루미늄 양극박",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2차전지용 알루미늄 양극박, 원통형 배터리캔, 셀파우치 등"
+    },
+    {
+      "axis": "product",
+      "value": "원통형 배터리캔",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2차전지용 알루미늄 양극박, 원통형 배터리캔, 셀파우치 등"
+    },
+    {
+      "axis": "product",
+      "value": "유리병",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "유리병 | 식음료병, 맥주병, 소주병, 주스병 등"
+    },
+    {
+      "axis": "product",
+      "value": "PET",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "PET | 식음료용기, 탄산음료, 과실음료, 이온음료, 커피 용기 등"
+    },
+    {
+      "axis": "product",
+      "value": "배합사료",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 양계, 양돈, 낙농, 비육, 오리 등 배합사료를 생산 및 판매하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "에너지저장장치",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "규사",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소다회",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "[조미식품부문] ① 명칭 : 식품과학연구소 ② 소재지: 충남 아산시 영인면 신봉리 289-7"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "① 명칭 : 동원식품과학연구원 ② 소재지: 서울시 서초구 마방로 60 동원에프앤비 빌딩 지하1층"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한, 배합사료의 원재료는 대부분 해외에서 수입되고 있으며 국제 곡물가격, 환율 등이 배합사료 원가의 주요 변동 요인 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 곡물가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "또한, 배합사료의 원재료는 대부분 해외에서 수입되고 있으며 국제 곡물가격, 환율 등이 배합사료 원가의 주요 변동 요인 입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "원자재가 제조원가에서 차지하는 비중이 높은 포장재 사업의 특성 상 원자재가격의 변동리스크를 판가 조정 및 경비절감과 기술혁신을 통해 적극 대응하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PET 용기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며"
+    },
+    {
+      "axis": "product",
+      "value": "고기능성 필름",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "동원시스템즈 첨단필름 사업은 고기능성 필름 개발 사업을 추진 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보호필름",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "대부분 해외에 의존하는 고기능성 필름을 당사 보호필름 압출 기술을 적용하여 개발 및 사업화를 위하여 박차를 가하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "향후 미주, 중동, 중국, 동남아 등 전략 국가별 맞춤형 규격 인증"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "향후 미주, 중동, 중국, 동남아 등 전략 국가별 맞춤형 규격 인증"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"참치원어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"참치선망선단(참치캔 제조용 원어)의 2025년 1-12월 당사의 평균판매가격을 적용하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"참치통조림\",\n      \"weight\": 0.85,\n      \"direction\": null,\n      \"evidence\": \"동원 브랜드의 참치캔, 농수산캔, 조리냉동, 먹는샘물, 연제품 등과 양반 브랜드의 조미김, 김치, 죽\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"크릴오일\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"노력의 일환으로 2019년 크릴오일 제품인 '동원 크릴리오'를 출시하였고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"양극박\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원형 배터리캔\",\n      \"weight\": 0.65,\n      \"direction\": null,\n      \"evidence\": \"2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리병\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대부분의 포장재와 더불어 2차전지용 알루미늄 양극박 및 배터리용 원형캔을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"양계, 양돈, 낙농, 비육, 오리 등 배합사료를 생산 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"에너지저장장치\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"참치원어\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"참치원어의 경우 시가를 적용하였으며, 유류의 경우 2025년 1-12월 원재료 평균 매입가격을 적용하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"유류\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"참치원어의 경우 시가를 적용하였으며, 유류의 경우 2025년 1-12월 원재료 평균 매입가격을 적용하였습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"연어\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"유통사업 | 원재료상품 | 횟감용참치 | 참치횟감 | 133,323 | TOYO REIZO Co., Ltd.외 | 연어 | 연어\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"그룹 연수원 ‘동원리더스아카데미’는 2007년 6월 경기도 이천시 장호원에 설립되었으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"동원산업은 부산광역시 감천항 수산물 유통단지에 첨단 위생관리 System을 도입하고\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"원양산업의 경기는 크게 생산량, 환율, 선진국들의 소비 경기변동에 의해 좌우되는데\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"연포장재\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"연포장재,성형포장 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"참치캔\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"참치캔, AL-foil, 음료캔 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알미늄박\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"알미늄박\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리병\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"유리병 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"음료캔\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"음료캔 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배터리\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"당사는 2차전지 핵심 부품인 원통형 CAN 생산을 위해 필수적인 금형 설계\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원어\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원어 : Light Meat tuna 기준\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알미늄박\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"알미늄 박 (foil) 제조 노하우를 바탕으로 전개 중인 알루미늄 양극박 사업\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"진천,아산,군산, 음성공장, TTP 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"진천,아산,군산, 음성공장, TTP 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"진천,아산,군산, 음성공장, TTP 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": -1,\n      \"evidence\": \"연결회사는 수출 및 원재료 수입 거래와 관련하여 USD, JPY, EUR 등의 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"참치캔\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"참 치 캔 | 78.9 | 81.4 | 81.7 | 82.5 | 닐슨\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캔 햄\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"캔 햄 | 18.9 | 19.9 | 19.2 | 19.0 | 닐슨\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"알루미늄 양극박\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2차전지용 알루미늄 양극박, 원통형 배터리캔, 셀파우치 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"원통형 배터리캔\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2차전지용 알루미늄 양극박, 원통형 배터리캔, 셀파우치 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유리병\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"유리병 | 식음료병, 맥주병, 소주병, 주스병 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"PET\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"PET | 식음료용기, 탄산음료, 과실음료, 이온음료, 커피 용기 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"배합사료\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 양계, 양돈, 낙농, 비육, 오리 등 배합사료를 생산 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"에너지저장장치\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"글로벌 전기차(EV) 및 에너지저장장치(ESS) 시장은 고용량·고출력·안정성을 지향하는 기술적 변곡점에 직면해 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"음료CAN의 주 원재료인 Aluminum은 Global업체를 통하여 수입하여 사용하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"규사\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소다회\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"유리사업의 원재료인 규사, 소다회는 대부분 수입하여 조달하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"[조미식품부문] ① 명칭 : 식품과학연구소 ② 소재지: 충남 아산시 영인면 신봉리 289-7\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"① 명칭 : 동원식품과학연구원 ② 소재지: 서울시 서초구 마방로 60 동원에프앤비 빌딩 지하1층\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한, 배합사료의 원재료는 대부분 해외에서 수입되고 있으며 국제 곡물가격, 환율 등이 배합사료 원가의 주요 변동 요인 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 곡물가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"또한, 배합사료의 원재료는 대부분 해외에서 수입되고 있으며 국제 곡물가격, 환율 등이 배합사료 원가의 주요 변동 요인 입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"원자재가 제조원가에서 차지하는 비중이 높은 포장재 사업의 특성 상 원자재가격의 변동리스크를 판가 조정 및 경비절감과 기술혁신을 통해 적극 대응하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"PET 용기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고기능성 필름\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"동원시스템즈 첨단필름 사업은 고기능성 필름 개발 사업을 추진 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"보호필름\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"대부분 해외에 의존하는 고기능성 필름을 당사 보호필름 압출 기술을 적용하여 개발 및 사업화를 위하여 박차를 가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"강원도 횡성에 위치한 아셉틱 사업은 기존 PET 용기보다 플라스틱 사용이 감소되어 친환경적이며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"향후 미주, 중동, 중국, 동남아 등 전략 국가별 맞춤형 규격 인증\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"향후 미주, 중동, 중국, 동남아 등 전략 국가별 맞춤형 규격 인증\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/006040_20260318001195.txt"
+}

@@ -1,0 +1,180 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "GI-101",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GI-102",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GI-301",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GI-108",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "고형암",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이를 바탕으로 GI-101은 현재 고형암을 대상으로 다양한 항암제와의 병용요법을 통해 임상적 효용성을 극대화시키는 데 우선순위를 두고 임상개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전이성 흑색종",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 GI-102와 펨브롤리주맙 병용요법을 전이성 흑색종을 우선 적응증으로 개발하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "만성 특발성 두드러기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "항 FcεRI 항체와도 결합해 그 작용을 억제함으로써, 만성 특발성 두드러기 발병을 억제할 수 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "심시어",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전임상 단계의 면역항암제 GI-101을 중국 심시어(Simcere Pharmaceutical)에 7억9천만달러 규모로 기술이전(중국지역 판권) 하였고"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "마루호",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2023년 10월 일본 제약사인 마루호와 221백만달러 규모의 GI-301 일본 내 개발 및 상업화에 대한 전용실시권 계약을 추가로 체결했습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "MSD",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사는 자체적인 후보물질 발굴 및 연구개발 외에도 미국 MSD(Merck & Co., Inc.) 와같은 글로벌 선도기업과 공동임상 계약을 체결하는 등 다양하고 적극적인 협력을 추진하며 글로벌 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국 달러화와 관련된 환율 변동 위험에 노출돼 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "GI-101",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "항암제 | GI-101 | 임상1/2상(한국)임상1/2상(미국) | 2021년 04월 / 2023년 06월(변경승인)2021년 06월 / 2023년 05월(변경승인) | 라이선스 아웃 및 공동개발"
+    },
+    {
+      "axis": "product",
+      "value": "GI-102",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "항암제 | GI-102 | 임상1/2상(한국)임상1/2상(미국) | 2023년 02월 / 2025년 05월(변경승인)2023년 01월 / 2025년 05월(변경승인) | 특허등록정맥/피하주사제형"
+    },
+    {
+      "axis": "product",
+      "value": "GI-301",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "알레르기치료제 | GI-301 | 임상2상(한국) | 2025년 10월 | 라이선스 아웃 및 공동개발"
+    },
+    {
+      "axis": "product",
+      "value": "GI-108",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "항암제 | GI-108 | 임상1/2a상(한국) | 2024년 12월 / 2025년 04월(변경승인) | 특허등록공동개발"
+    },
+    {
+      "axis": "product",
+      "value": "GI-305",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "알레르기치료제 | GI-305 | 후보물질 도출 | - | 특허등록"
+    },
+    {
+      "axis": "application",
+      "value": "고형암",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "ㆍGI-101은 CD80에 의해서 면역관문인 CTLA-4의 작용을 억제해 체내 면역 작용을 재활성화 시킴ㆍ또한, IL-2 변이체에 의해서 항암 면역작용을 나타내는 세포독성 T 세포 및 자연살해세포를 증식 및 활성화시켜서항암치료의 상승효과를 나타낼 수 있음ㆍ전임상 단계에서 GI-101이 TPP(*)를 충족"
+    },
+    {
+      "axis": "application",
+      "value": "알레르기 질환",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ㆍ알레르기 질환을 유발하는 핵심인자인 IgE에 높은 결합력으로 부착하여, 체내 IgE 수용체와의 결합을 방해함"
+    },
+    {
+      "axis": "customer",
+      "value": "유한양행",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "ㆍ한국 포함 아시아 및 유럽 다국가 임상 2상 진행 또는 준비 중 (※ 임상시험 주체: (주)유한양행)"
+    },
+    {
+      "axis": "customer",
+      "value": "마루호",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "ㆍ일본 임상 2상 준비중 (※ 임상시험 주체: 마루호(Maruho))"
+    },
+    {
+      "axis": "customer",
+      "value": "MSD",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "ㆍ키트루다 병용 임상을 위한 MSD사의 무상공급 지원"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "ㆍ미국 임상1/2상 IND(임상시험계획) 승인(2021년 06월)ㆍ한국 및 미국 임상1/2상 진행 중"
+    },
+    {
+      "axis": "exposure",
+      "value": "면역항암제 시장",
+      "weight": 0.7,
+      "direction": 1,
+      "evidence": "전세계 면역항암제 시장규모: $820억(2024년) → $1,754억(2032년) ※ 출처: EvaluatePharma, Sales Forecasts 2024-2032 (Immuno-oncology therapeutic category)"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-101\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-102\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-301\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-108\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"핵심 신약파이프라인 ① GI-101/GI-102 면역항암제, ② GI-301 알레르기 치료제, ③ GI-108 대사면역항암제를 비롯한 다양한 면역치료제 신약 파이프라인을 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"고형암\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이를 바탕으로 GI-101은 현재 고형암을 대상으로 다양한 항암제와의 병용요법을 통해 임상적 효용성을 극대화시키는 데 우선순위를 두고 임상개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전이성 흑색종\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 GI-102와 펨브롤리주맙 병용요법을 전이성 흑색종을 우선 적응증으로 개발하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"만성 특발성 두드러기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"항 FcεRI 항체와도 결합해 그 작용을 억제함으로써, 만성 특발성 두드러기 발병을 억제할 수 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"심시어\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전임상 단계의 면역항암제 GI-101을 중국 심시어(Simcere Pharmaceutical)에 7억9천만달러 규모로 기술이전(중국지역 판권) 하였고\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"알레르기 치료제 GI-301 역시 전임상 단계에서 유한양행에 1조4,090억원 규모로 기술이전(일본 제외 글로벌 판권) 하는 성과를 거두었습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"마루호\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2023년 10월 일본 제약사인 마루호와 221백만달러 규모의 GI-301 일본 내 개발 및 상업화에 대한 전용실시권 계약을 추가로 체결했습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"MSD\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사는 자체적인 후보물질 발굴 및 연구개발 외에도 미국 MSD(Merck & Co., Inc.) 와같은 글로벌 선도기업과 공동임상 계약을 체결하는 등 다양하고 적극적인 협력을 추진하며 글로벌 경쟁력을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당사는 국제적으로 영업활동을 영위하고 있기 때문에 외환 위험, 특히 주로 미국 달러화와 관련된 환율 변동 위험에 노출돼 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-101\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"항암제 | GI-101 | 임상1/2상(한국)임상1/2상(미국) | 2021년 04월 / 2023년 06월(변경승인)2021년 06월 / 2023년 05월(변경승인) | 라이선스 아웃 및 공동개발\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-102\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"항암제 | GI-102 | 임상1/2상(한국)임상1/2상(미국) | 2023년 02월 / 2025년 05월(변경승인)2023년 01월 / 2025년 05월(변경승인) | 특허등록정맥/피하주사제형\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-301\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"알레르기치료제 | GI-301 | 임상2상(한국) | 2025년 10월 | 라이선스 아웃 및 공동개발\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-108\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"항암제 | GI-108 | 임상1/2a상(한국) | 2024년 12월 / 2025년 04월(변경승인) | 특허등록공동개발\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GI-305\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"알레르기치료제 | GI-305 | 후보물질 도출 | - | 특허등록\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"고형암\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"ㆍGI-101은 CD80에 의해서 면역관문인 CTLA-4의 작용을 억제해 체내 면역 작용을 재활성화 시킴ㆍ또한, IL-2 변이체에 의해서 항암 면역작용을 나타내는 세포독성 T 세포 및 자연살해세포를 증식 및 활성화시켜서항암치료의 상승효과를 나타낼 수 있음ㆍ전임상 단계에서 GI-101이 TPP(*)를 충족\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"알레르기 질환\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ㆍ알레르기 질환을 유발하는 핵심인자인 IgE에 높은 결합력으로 부착하여, 체내 IgE 수용체와의 결합을 방해함\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"유한양행\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"ㆍ한국 포함 아시아 및 유럽 다국가 임상 2상 진행 또는 준비 중 (※ 임상시험 주체: (주)유한양행)\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"마루호\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"ㆍ일본 임상 2상 준비중 (※ 임상시험 주체: 마루호(Maruho))\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"MSD\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"ㆍ키트루다 병용 임상을 위한 MSD사의 무상공급 지원\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"ㆍ미국 임상1/2상 IND(임상시험계획) 승인(2021년 06월)ㆍ한국 및 미국 임상1/2상 진행 중\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"면역항암제 시장\",\n      \"weight\": 0.7,\n      \"direction\": 1,\n      \"evidence\": \"전세계 면역항암제 시장규모: $820억(2024년) → $1,754억(2032년) ※ 출처: EvaluatePharma, Sales Forecasts 2024-2032 (Immuno-oncology therapeutic category)\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/358570_20260318001639.txt"
+}

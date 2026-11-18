@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "바이오시밀러 제품 등 매출이 1조 6,165억원으로 96.7%, 기타 서비스 매출이 555억원으로 3.3%를 차지하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "항체 약물 접합체",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "삼성바이오에피스는 2023년부터 항체 약물 접합체(ADC) 분야 연구개발에 착수하여 현재 총 2종의 신약 후보 물질"
+    },
+    {
+      "axis": "customer",
+      "value": "Biogen International",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "Biogen International Holding Ltd. 585,873,787 35.0%"
+    },
+    {
+      "axis": "customer",
+      "value": "Organon",
+      "weight": 0.29,
+      "direction": null,
+      "evidence": "Organon LLC 491,420,997 29.4%"
+    },
+    {
+      "axis": "customer",
+      "value": "Sandoz",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "Sandoz AG 279,254,670 16.7%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "원재료 Resin, Chemical, 배지, Filter 등 1,203"
+    },
+    {
+      "axis": "raw_material",
+      "value": "배지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "원재료 Resin, Chemical, 배지, Filter 등 1,203"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "한국을 비롯해 미국, 유럽, 캐나다, 호주, 브라질, 일본 등 전세계 주요 시장 내 시장 점유율을 지속적으로 확대하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "유럽",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "한국을 비롯해 미국, 유럽, 캐나다, 호주, 브라질, 일본 등 전세계 주요 시장 내 시장 점유율을 지속적으로 확대하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "미국의 관세 정책과 환율 변동과 같이 원재료 가격 상승을 유발할 수 있는 외부 요인이 여전히 존재하고 있어 시장 상황을 주시 중입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"바이오시밀러 제품 등 매출이 1조 6,165억원으로 96.7%, 기타 서비스 매출이 555억원으로 3.3%를 차지하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"항체 약물 접합체\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"삼성바이오에피스는 2023년부터 항체 약물 접합체(ADC) 분야 연구개발에 착수하여 현재 총 2종의 신약 후보 물질\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Biogen International\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"Biogen International Holding Ltd. 585,873,787 35.0%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Organon\",\n      \"weight\": 0.29,\n      \"direction\": null,\n      \"evidence\": \"Organon LLC 491,420,997 29.4%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sandoz\",\n      \"weight\": 0.17,\n      \"direction\": null,\n      \"evidence\": \"Sandoz AG 279,254,670 16.7%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Resin\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"원재료 Resin, Chemical, 배지, Filter 등 1,203\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"배지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"원재료 Resin, Chemical, 배지, Filter 등 1,203\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한국을 비롯해 미국, 유럽, 캐나다, 호주, 브라질, 일본 등 전세계 주요 시장 내 시장 점유율을 지속적으로 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"유럽\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"한국을 비롯해 미국, 유럽, 캐나다, 호주, 브라질, 일본 등 전세계 주요 시장 내 시장 점유율을 지속적으로 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"미국의 관세 정책과 환율 변동과 같이 원재료 가격 상승을 유발할 수 있는 외부 요인이 여전히 존재하고 있어 시장 상황을 주시 중입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/0126Z0_20260515003119.txt"
+}

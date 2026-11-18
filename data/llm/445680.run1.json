@@ -1,0 +1,138 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "세포전처리자동화 기기",
+      "weight": 0.571,
+      "direction": null,
+      "evidence": "제품 | 세포전처리자동화 기기 등 | 2,945 | 57.1%"
+    },
+    {
+      "axis": "product",
+      "value": "플레이트",
+      "weight": 0.098,
+      "direction": null,
+      "evidence": "플레이트 | 504 | 9.8%"
+    },
+    {
+      "axis": "product",
+      "value": "부속품",
+      "weight": 0.08,
+      "direction": null,
+      "evidence": "부속품 | 411 | 8.0%"
+    },
+    {
+      "axis": "application",
+      "value": "유세포 분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "상기 시장 중 현재의 사업 단계에서 가장 큰 수요가 있고 최적화된 유세포 분석 시장을 대상으로 영업을 집중하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "단일 세포 시퀀싱",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사에서 파악하고 있는 적용 가능한 시장은 유세포 분석(연구용 및 진단용), 라이브셀 이미징, 단일 세포 시퀀싱, 스페로이드/오가노이드 등으로 구분할 수 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Revvity",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Pluto Workstation은 글로벌 바이오/의료기기 및 시약을 제조, 유통하는 회사인 Revvity(구 퍼킨엘머)사에서 위탁생산합니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Hamilton",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Tecan",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Head",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Chassis",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며"
+    },
+    {
+      "axis": "exposure",
+      "value": "바이오 투자 사이클",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "다만 단기적으로는 바이오 투자 사이클, 정부 연구과제 예산 편성, 대형 제약사의 설비 투자 시점, 글로벌 공급망 상황 등에 따라 분기별 또는 연도별 실적 변동성이 나타날 수 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "세포전처리 자동화 기기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사는 Curiox C-FREE 기술 기반 세포전처리 자동화 기기 제조 및 판매 등의 단일사업부문을 운영하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "Laminar Wash HT",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "혁신 자동화 세포 세척 기술인 Curiox C-FREE와 이를 통해 도출된 기술제품군(Laminar Wash HT 2000, HT 2100, AUTO 1000, AUTO CX-1000)을 앞세워 새로운 분석 전처리 시장을 개척했으며"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto 시리즈",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히 2024년 6월 Pluto LT, 2024년 8월 Venus HT, 2024년 12월 Pluto MT, 2025년 6월 Pluto Alpha, Pluto HT 를 출시하였고"
+    },
+    {
+      "axis": "product",
+      "value": "Pluto Code",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "리퀴드 핸들링 워크스테이션을 이미 보유하고 있는 고객을 대상으로 Pluto Wash 기술을 구현할 수 있는 소프트웨어인 Pluto Code를 직접 판매하거나"
+    },
+    {
+      "axis": "application",
+      "value": "질량세포분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서"
+    },
+    {
+      "axis": "application",
+      "value": "단일 세포 염기서열 분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "단일 세포 염기서열 분석 또는 유세포 및 질량세포분석으로 분석할 수 없는 비단일 세포의 비율을 증가시킨다는 것을 시사합니다."
+    },
+    {
+      "axis": "application",
+      "value": "유세포분석",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "CITE-Seq, 유세포 및 질량세포분석 시 항체 염색의 강도와 해상도는 주로 항체 클론, 형광단 선택 및 항체 패널 설계에 의해 향상되어 온 반면"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"세포전처리자동화 기기\",\n      \"weight\": 0.571,\n      \"direction\": null,\n      \"evidence\": \"제품 | 세포전처리자동화 기기 등 | 2,945 | 57.1%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"플레이트\",\n      \"weight\": 0.098,\n      \"direction\": null,\n      \"evidence\": \"플레이트 | 504 | 9.8%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"부속품\",\n      \"weight\": 0.08,\n      \"direction\": null,\n      \"evidence\": \"부속품 | 411 | 8.0%\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"유세포 분석\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"상기 시장 중 현재의 사업 단계에서 가장 큰 수요가 있고 최적화된 유세포 분석 시장을 대상으로 영업을 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"단일 세포 시퀀싱\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사에서 파악하고 있는 적용 가능한 시장은 유세포 분석(연구용 및 진단용), 라이브셀 이미징, 단일 세포 시퀀싱, 스페로이드/오가노이드 등으로 구분할 수 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Revvity\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Pluto Workstation은 글로벌 바이오/의료기기 및 시약을 제조, 유통하는 회사인 Revvity(구 퍼킨엘머)사에서 위탁생산합니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Hamilton\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Tecan\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"소프트웨어 제품인 Pluto Code는 현재 글로벌 시장점유율이 높은 Hamilton/Tecan/Beckman Coulter/Opentrons 등 여러 브랜드의 자동 액체 핸들러에 적용할 수 있으며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Head\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Chassis\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 원재료는 크게 Head와 Chassis 및 조립품 등으로 구성되며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"바이오 투자 사이클\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"다만 단기적으로는 바이오 투자 사이클, 정부 연구과제 예산 편성, 대형 제약사의 설비 투자 시점, 글로벌 공급망 상황 등에 따라 분기별 또는 연도별 실적 변동성이 나타날 수 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"세포전처리 자동화 기기\", \"weight\": 1.0, \"direction\": null, \"evidence\": \"당사는 Curiox C-FREE 기술 기반 세포전처리 자동화 기기 제조 및 판매 등의 단일사업부문을 운영하고 있으며\"}, {\"axis\": \"product\", \"value\": \"Laminar Wash HT\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"혁신 자동화 세포 세척 기술인 Curiox C-FREE와 이를 통해 도출된 기술제품군(Laminar Wash HT 2000, HT 2100, AUTO 1000, AUTO CX-1000)을 앞세워 새로운 분석 전처리 시장을 개척했으며\"}, {\"axis\": \"product\", \"value\": \"Pluto 시리즈\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"특히 2024년 6월 Pluto LT, 2024년 8월 Venus HT, 2024년 12월 Pluto MT, 2025년 6월 Pluto Alpha, Pluto HT 를 출시하였고\"}, {\"axis\": \"product\", \"value\": \"Pluto Code\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"리퀴드 핸들링 워크스테이션을 이미 보유하고 있는 고객을 대상으로 Pluto Wash 기술을 구현할 수 있는 소프트웨어인 Pluto Code를 직접 판매하거나\"}, {\"axis\": \"application\", \"value\": \"질량세포분석\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"특히, 질량세포분석법 및 단일 세포 염기서열 분석과 같이 처리량이 낮거나 수행 비용이 비싼 분석 방법에서\"}, {\"axis\": \"application\", \"value\": \"단일 세포 염기서열 분석\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"단일 세포 염기서열 분석 또는 유세포 및 질량세포분석으로 분석할 수 없는 비단일 세포의 비율을 증가시킨다는 것을 시사합니다.\"}, {\"axis\": \"application\", \"value\": \"유세포분석\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"CITE-Seq, 유세포 및 질량세포분석 시 항체 염색의 강도와 해상도는 주로 항체 클론, 형광단 선택 및 항체 패널 설계에 의해 향상되어 온 반면\"}]}"
+  ],
+  "text_path": "data/reports/445680_20261001000609.txt"
+}

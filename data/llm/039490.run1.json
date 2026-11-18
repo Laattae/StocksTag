@@ -1,0 +1,181 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "주식",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2025년 국내 주식 일평균 시장 거래대금은 32.0조 원, 당사의 국내 주식 일평균 약정은 11.5조 원을 기록"
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "S&T Solution부문은 채권 운용 및 시장 조성, 대고객 RP 운용, 다양한 금융상품투자 등의 운용 기능과"
+    },
+    {
+      "axis": "product",
+      "value": "파생결합증권",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "고객의 니즈와 발맞추어 파생결합상품 (ELS, DLS, ELB, DLB)를 제작·공급하며"
+    },
+    {
+      "axis": "product",
+      "value": "예금",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "상호저축은행은 서민과 소규모 기업의 금융 편의를 도모하고 지역사회의 발전에 기여하며, 중산층 및 서민의 저축을 증대하기 위한 금융기관으로 예금과 대출을 주 업무로 하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "대출",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "(주)키움예스저축은행은 개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "펀드",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "종합자산운용사로서 주식형 및 채권형 펀드 뿐만 아니라 ETF, TDF, 부동산, 인프라, 리츠, 헤지펀드 등 대체투자 분야에 걸쳐 다양한 상품을 제공하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국내 증시",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "투자운용부문은 국내 증시 호조에 힘입어 이익 성장을 실현했습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "국내외 기관과의 구조화상품 비즈니스를 통해 금리/주식/파생 상품을 운용함으로써 안정적인 성과를 실현하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "보통예금",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "보통예금 | 입출금이 자유로운 예금으로 일시적 여유자금을 보관하거나 송금받을 수 있는 요구불 예금"
+    },
+    {
+      "axis": "product",
+      "value": "정기예금",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "정기예금 | 가입시점에 약정하신 금리를 만기까지 확정금리로 드리는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "정기적금",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "정기적금 | 매월 일정한 금액을 불입하여 목돈을 마련하는 상품"
+    },
+    {
+      "axis": "product",
+      "value": "일반자금대출",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "일반자금대출 | 소유하고 계신 주택, 아파트, 대지, 상가 등을 담보로 하는 대출상품"
+    },
+    {
+      "axis": "product",
+      "value": "주식담보대출Plus",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주식담보대출Plus | 대출신청인 명의의 증권계좌 주식을 담보로 하고, 증권계좌평가금액의 최대 70%까지 대출가능한 상품"
+    },
+    {
+      "axis": "product",
+      "value": "햇살론",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "햇살론 | 저신용자 또는 저소득자에 대한 신용대출이 원활이 이루어질 수 있도록 저축은행 등서민금융기관과 정부의 출연재원을 바탕으로 한 친서민 보증부 대출상품"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당분기말 현재 본점은 서울특별시 영등포구 여의도동에 위치하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "상호저축은행은 인터넷전문은행 등 타 업권과의 경쟁심화, 법정최고금리 인하, 건전성 규제강화(부동산PF관련 대손충당금 적립요율 상승) 등 험난한 경영환경 속에서 경쟁하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "국내주식",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "개인 고객 중심의 국내주식 위탁매매 부문에서 업계 1위의 시장 점유율을 안정적으로 유지하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "해외주식",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "해외주식·ETF·파생상품 등 다양한 투자상품 제공과 더불어 리서치 및 콘텐츠 경쟁력을 바탕으로 고객 투자 지원 역량을 지속 확대하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "파생상품",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "해외주식·ETF·파생상품 등 다양한 투자상품 제공과 더불어 리서치 및 콘텐츠 경쟁력을 바탕으로 고객 투자 지원 역량을 지속 확대하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "채권",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "개인에게는 주식과 채권을 포함한 금융자산에 대한 투자기회를 제공하고"
+    },
+    {
+      "axis": "exposure",
+      "value": "경기변동",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "금융투자업은 경기 상승 시 기업들의 실적 개선에 따른 종합주가지수 상승 등으로 수익 증대를 이룰 수 있는 반면 경기 하강시에는 수익 창출이 둔화되는 등 경기 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    },
+    {
+      "axis": "exposure",
+      "value": "주가",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년 국내 주식 일평균 시장 거래대금은 32.0조 원, 당사의 국내 주식 일평균 약정은 11.5조 원을 기록\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"채권\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"S&T Solution부문은 채권 운용 및 시장 조성, 대고객 RP 운용, 다양한 금융상품투자 등의 운용 기능과\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"파생결합증권\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"고객의 니즈와 발맞추어 파생결합상품 (ELS, DLS, ELB, DLB)를 제작·공급하며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"예금\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"상호저축은행은 서민과 소규모 기업의 금융 편의를 도모하고 지역사회의 발전에 기여하며, 중산층 및 서민의 저축을 증대하기 위한 금융기관으로 예금과 대출을 주 업무로 하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"대출\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"(주)키움예스저축은행은 개인과 중소상공인을 위한 서민금융기관으로 현재 예금업무, 일반자금대출, 종합통장대출, 예적금담보대출, 주식 관련 대출 등의 업무를 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"펀드\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"종합자산운용사로서 주식형 및 채권형 펀드 뿐만 아니라 ETF, TDF, 부동산, 인프라, 리츠, 헤지펀드 등 대체투자 분야에 걸쳐 다양한 상품을 제공하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국내 증시\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"투자운용부문은 국내 증시 호조에 힘입어 이익 성장을 실현했습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"국내외 기관과의 구조화상품 비즈니스를 통해 금리/주식/파생 상품을 운용함으로써 안정적인 성과를 실현하고 있습니다.\"\n    }\n  ]\n}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"보통예금\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"보통예금 | 입출금이 자유로운 예금으로 일시적 여유자금을 보관하거나 송금받을 수 있는 요구불 예금\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정기예금\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"정기예금 | 가입시점에 약정하신 금리를 만기까지 확정금리로 드리는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"정기적금\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"정기적금 | 매월 일정한 금액을 불입하여 목돈을 마련하는 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"일반자금대출\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"일반자금대출 | 소유하고 계신 주택, 아파트, 대지, 상가 등을 담보로 하는 대출상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주식담보대출Plus\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"주식담보대출Plus | 대출신청인 명의의 증권계좌 주식을 담보로 하고, 증권계좌평가금액의 최대 70%까지 대출가능한 상품\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"햇살론\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"햇살론 | 저신용자 또는 저소득자에 대한 신용대출이 원활이 이루어질 수 있도록 저축은행 등서민금융기관과 정부의 출연재원을 바탕으로 한 친서민 보증부 대출상품\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당분기말 현재 본점은 서울특별시 영등포구 여의도동에 위치하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"상호저축은행은 인터넷전문은행 등 타 업권과의 경쟁심화, 법정최고금리 인하, 건전성 규제강화(부동산PF관련 대손충당금 적립요율 상승) 등 험난한 경영환경 속에서 경쟁하고 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"국내주식\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"개인 고객 중심의 국내주식 위탁매매 부문에서 업계 1위의 시장 점유율을 안정적으로 유지하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"해외주식\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"해외주식·ETF·파생상품 등 다양한 투자상품 제공과 더불어 리서치 및 콘텐츠 경쟁력을 바탕으로 고객 투자 지원 역량을 지속 확대하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"파생상품\", \"weight\": 0.15, \"direction\": null, \"evidence\": \"해외주식·ETF·파생상품 등 다양한 투자상품 제공과 더불어 리서치 및 콘텐츠 경쟁력을 바탕으로 고객 투자 지원 역량을 지속 확대하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"채권\", \"weight\": 0.1, \"direction\": null, \"evidence\": \"개인에게는 주식과 채권을 포함한 금융자산에 대한 투자기회를 제공하고\"}, {\"axis\": \"exposure\", \"value\": \"경기변동\", \"weight\": 0.3, \"direction\": 1, \"evidence\": \"금융투자업은 경기 상승 시 기업들의 실적 개선에 따른 종합주가지수 상승 등으로 수익 증대를 이룰 수 있는 반면 경기 하강시에는 수익 창출이 둔화되는 등 경기 변동에 영향을 받습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금리\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"}, {\"axis\": \"exposure\", \"value\": \"주가\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"시장위험이란 금리, 환율, 주가 등 시장가격의 불리한 변동으로 발생할 수 있는 손실 가능성을 의미함.\"}]}"
+  ],
+  "text_path": "data/reports/039490_20260317000838.txt"
+}

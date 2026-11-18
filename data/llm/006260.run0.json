@@ -1,0 +1,376 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 3,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전력선",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "전력선 | 전력선, 알루미늄, 해저케이블 등 | 3,457,066 | 10.2 | 2,736,154"
+    },
+    {
+      "axis": "product",
+      "value": "전기동",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "동제련부문 | 전기동, 금, 은 등 | 14,942,426 | 44.1 | 12,116,329"
+    },
+    {
+      "axis": "product",
+      "value": "트랙터",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "기계부문 | 트랙터, 사출기 등 | 1,028,045 | 3.0 | 957,497"
+    },
+    {
+      "axis": "product",
+      "value": "광섬유케이블",
+      "weight": 0.01,
+      "direction": null,
+      "evidence": "통신부문 | 광섬유케이블, 동선케이블 등 | 131,160 | 0.4 | 139,396"
+    },
+    {
+      "axis": "product",
+      "value": "동관",
+      "weight": 0.015,
+      "direction": null,
+      "evidence": "금속부문 | 동관, STS, 후육관 | 500,601 | 1.5 | 521,450"
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "국내/외 조선시장 지위 유지 및 IMO 환경 규제에 따른 제품 Line up 확대"
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성에스디아이",
+      "weight": 0.07,
+      "direction": null,
+      "evidence": "전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1"
+    },
+    {
+      "axis": "customer",
+      "value": "LG에너지솔루션",
+      "weight": 0.04,
+      "direction": null,
+      "evidence": "(주)엘지에너지솔루션 | 4.6 | SAMSUNG E&C AMERICA, INC. | 2.2"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.03,
+      "direction": null,
+      "evidence": "부품부문 | 전자부품 | 삼성전자, Lenovo 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "제품 가격변동은 주로 LME(런던금속거래소) 동 가격 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "전선 | 원재료, 상품 등 | 전기동 및 알루미늄 | 전선 선재 등 | 3,989,570"
+    },
+    {
+      "axis": "raw_material",
+      "value": "동정광",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "엠앤엠 | 원재료 등 | 동정광, 슬라임 등 | 전기동, 금, 은 생산 | 14,384,061"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "본사 | 경기도 안양시 동안구 엘에스로 127 | LS전선㈜"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "공장 | 경상북도 구미시 수출대로 228 | LS전선㈜"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "온산 | 토지 | 자가보유 | 89,051 | - | - | - | 89,051"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "중국 | 이창(LS홍치전람(호북)유한공사), 우시(락성전람(무석)유한공사) |"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "아시아 | 베트남 하이퐁(LS-VINA Cable & System Joint Stock Co.), 베트남 호치민(LS Cable & System Vietnam Co., Ltd.)"
+    },
+    {
+      "axis": "exposure",
+      "value": "구리 가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "제품 가격변동은 주로 LME(런던금속거래소) 동 가격 변동에 영향을 받습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전력선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전선 | 전력선 및 통신선 등 | ~'25.12 | - | 각종 | 163,193 | 각종 | 86,893 | 각종 | 76,300"
+    },
+    {
+      "axis": "product",
+      "value": "통신선",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전선 | 전력선 및 통신선 등 | ~'25.12 | - | 각종 | 163,193 | 각종 | 86,893 | 각종 | 76,300"
+    },
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "변압기 외 | ~'25.12 | '25.01~ |  - | 3,691 | - | 1,484 | - | 2,207"
+    },
+    {
+      "axis": "product",
+      "value": "ESS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "ESS | ~'25.12 | '25.01~ | - | 999 | - | 887 | - | 112"
+    },
+    {
+      "axis": "product",
+      "value": "EV-Relay",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "EV-Relay | ~'25.12 | '25.01~ | 61,706,569 | 5,195 | 12,125,361 | 1,940 | 49,581,209 | 11,500"
+    },
+    {
+      "axis": "application",
+      "value": "철도",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "철도 | ~'25.12 | '25.01~ | - | 1,937 | - | 784 | - | 1,153"
+    },
+    {
+      "axis": "application",
+      "value": "신재생에너지",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025.07 | 1,382억원 규모 신재생에너지 발전사업 초고압변압기 공급 계약체결"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2025.03 | 1,600억원 규모 Big Tech Data Center Power Supply System 공급 계약 체결"
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전기동, 알루미늄, 납, 니켈등에 대한 선물계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전기동, 알루미늄, 납, 니켈등에 대한 선물계약"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전기동, 알루미늄, 납, 니켈등에 대한 선물계약"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "연결실체는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "연결실체는 변동이자율로 발행된 차입금으로 인하여 이자율위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금속가격",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "또한, 매출채권 및 매입채무 중 일부는 최초에 공정가치로 인식하고 거래일 후에 금속가격 변동을 반영하여 당기손익으로 인식하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전력케이블",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "생활용 및 산업용 전력 등을 공급하는데 사용되는 각종 전력케이블과 데이터, 음성, 영상 등을 송수신 하는데 사용되는 각종 통신케이블"
+    },
+    {
+      "axis": "product",
+      "value": "통신케이블",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "생활용 및 산업용 전력 등을 공급하는데 사용되는 각종 전력케이블과 데이터, 음성, 영상 등을 송수신 하는데 사용되는 각종 통신케이블"
+    },
+    {
+      "axis": "product",
+      "value": "전기동",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "LS MnM의 전기동(Cu 99.99% 이상) 제품은 런던금속거래소(LME : London Metal Exchange)의 최고등급인 'Grade A'로 등록되어"
+    },
+    {
+      "axis": "product",
+      "value": "트랙터",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "기계사업 중 트랙터 사업은 농축산물의 생산 및 생산 후 처리작업 등의 농업, 레저산업용 트랙터를 생산,판매하고"
+    },
+    {
+      "axis": "product",
+      "value": "사출성형기",
+      "weight": 0.65,
+      "direction": null,
+      "evidence": "사출성형기(Injection Molding Machine) 제조산업은 플라스틱 수지를 소재로 장착된 금형 조건별 플라스틱 성형제품을 생산하는 것"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "전선사업은 국내외 데이터센터 확장과 글로벌 인프라 투자 증가에 힘입어 성장세를 보이고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "해상풍력단지",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "유럽과 아시아의 대규모 해상풍력단지 건설 및 노후 전력망 교체 수요에 따라 초고압 전력 케이블과 해저케이블의 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기자동차",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "배터리를 활용하는 친환경차 시장이 확대되고 배터리의 활용 목적이 다양해지면서 직류 전력 산업 시장은 뚜렷하게 성장할 것으로 예상됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "부품사업은 스마트폰 시장의 경기 변동에 큰 영향을 받습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "전기동",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "전선의 주요 원자재는 전기동으로 전선 생산 원재료비의 약 65%을 차지하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "동광석",
+      "weight": 0.85,
+      "direction": null,
+      "evidence": "LS MnM의 원재료인 동광석은 전량을 남미, 동남아 등지로부터 국제시세로 수입되고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "구리 가격",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "원재료로 쓰이는 구리 가격의 변동이 전선가격의 변동과 회사의 수익성에 영향을 미칩니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "동관은 원재료인 전기동의 국제가격과 환율에 영향을 받으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "국방예산",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "특수사업(방위사업)은 정부의 국방예산 지출이 주수입원으로 안정적이며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "북미를 중심으로 한 반도체, 배터리, 자동차 등 산업 분야의 투자 증가와"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "중국 및 기타 개발도상국들을 중심으로 지속적으로 수요가 증가하고 있으며"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전력선\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"전력선 | 전력선, 알루미늄, 해저케이블 등 | 3,457,066 | 10.2 | 2,736,154\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전기동\",\n      \"weight\": 0.44,\n      \"direction\": null,\n      \"evidence\": \"동제련부문 | 전기동, 금, 은 등 | 14,942,426 | 44.1 | 12,116,329\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"트랙터\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"기계부문 | 트랙터, 사출기 등 | 1,028,045 | 3.0 | 957,497\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"광섬유케이블\",\n      \"weight\": 0.01,\n      \"direction\": null,\n      \"evidence\": \"통신부문 | 광섬유케이블, 동선케이블 등 | 131,160 | 0.4 | 139,396\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"동관\",\n      \"weight\": 0.015,\n      \"direction\": null,\n      \"evidence\": \"금속부문 | 동관, STS, 후육관 | 500,601 | 1.5 | 521,450\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"LS전선의 영업은 전력, 통신 등 각국의 기간산업을 기반으로 전기차, 신재생에너지, 데이터센터 등 친환경과 디지털 산업 분야로 확대하고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"국내/외 조선시장 지위 유지 및 IMO 환경 규제에 따른 제품 Line up 확대\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성에스디아이\",\n      \"weight\": 0.07,\n      \"direction\": null,\n      \"evidence\": \"전력인프라 | LS ELECTRIC AMERICA INC. | 31.2 | 삼성에스디아이 (주) | 7.4 | 한국전력공사 | 5.1\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"LG에너지솔루션\",\n      \"weight\": 0.04,\n      \"direction\": null,\n      \"evidence\": \"(주)엘지에너지솔루션 | 4.6 | SAMSUNG E&C AMERICA, INC. | 2.2\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.03,\n      \"direction\": null,\n      \"evidence\": \"부품부문 | 전자부품 | 삼성전자, Lenovo 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"전기동\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"제품 가격변동은 주로 LME(런던금속거래소) 동 가격 변동에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"전선 | 원재료, 상품 등 | 전기동 및 알루미늄 | 전선 선재 등 | 3,989,570\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"동정광\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"엠앤엠 | 원재료 등 | 동정광, 슬라임 등 | 전기동, 금, 은 생산 | 14,384,061\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"본사 | 경기도 안양시 동안구 엘에스로 127 | LS전선㈜\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"공장 | 경상북도 구미시 수출대로 228 | LS전선㈜\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"온산 | 토지 | 자가보유 | 89,051 | - | - | - | 89,051\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"중국 | 이창(LS홍치전람(호북)유한공사), 우시(락성전람(무석)유한공사) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"아시아 | 베트남 하이퐁(LS-VINA Cable & System Joint Stock Co.), 베트남 호치민(LS Cable & System Vietnam Co., Ltd.)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"구리 가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"제품 가격변동은 주로 LME(런던금속거래소) 동 가격 변동에 영향을 받습니다.\"\n    }\n  ]\n}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"전력선\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전선 | 전력선 및 통신선 등 | ~'25.12 | - | 각종 | 163,193 | 각종 | 86,893 | 각종 | 76,300\"}, {\"axis\": \"product\", \"value\": \"통신선\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전선 | 전력선 및 통신선 등 | ~'25.12 | - | 각종 | 163,193 | 각종 | 86,893 | 각종 | 76,300\"}, {\"axis\": \"product\", \"value\": \"변압기\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"변압기 외 | ~'25.12 | '25.01~ |  - | 3,691 | - | 1,484 | - | 2,207\"}, {\"axis\": \"product\", \"value\": \"ESS\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"ESS | ~'25.12 | '25.01~ | - | 999 | - | 887 | - | 112\"}, {\"axis\": \"product\", \"value\": \"EV-Relay\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"EV-Relay | ~'25.12 | '25.01~ | 61,706,569 | 5,195 | 12,125,361 | 1,940 | 49,581,209 | 11,500\"}, {\"axis\": \"application\", \"value\": \"철도\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"철도 | ~'25.12 | '25.01~ | - | 1,937 | - | 784 | - | 1,153\"}, {\"axis\": \"application\", \"value\": \"신재생에너지\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025.07 | 1,382억원 규모 신재생에너지 발전사업 초고압변압기 공급 계약체결\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"2025.03 | 1,600억원 규모 Big Tech Data Center Power Supply System 공급 계약 체결\"}, {\"axis\": \"raw_material\", \"value\": \"전기동\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전기동, 알루미늄, 납, 니켈등에 대한 선물계약\"}, {\"axis\": \"raw_material\", \"value\": \"알루미늄\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"전기동, 알루미늄, 납, 니켈등에 대한 선물계약\"}, {\"axis\": \"raw_material\", \"value\": \"니켈\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"전기동, 알루미늄, 납, 니켈등에 대한 선물계약\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"연결실체는 외화로 표시된 거래를 하고 있기 때문에 환율변동위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"연결실체는 변동이자율로 발행된 차입금으로 인하여 이자율위험에 노출되어 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"금속가격\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"또한, 매출채권 및 매입채무 중 일부는 최초에 공정가치로 인식하고 거래일 후에 금속가격 변동을 반영하여 당기손익으로 인식하고 있습니다.\"}]}\n```",
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"전력케이블\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"생활용 및 산업용 전력 등을 공급하는데 사용되는 각종 전력케이블과 데이터, 음성, 영상 등을 송수신 하는데 사용되는 각종 통신케이블\"}, {\"axis\": \"product\", \"value\": \"통신케이블\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"생활용 및 산업용 전력 등을 공급하는데 사용되는 각종 전력케이블과 데이터, 음성, 영상 등을 송수신 하는데 사용되는 각종 통신케이블\"}, {\"axis\": \"product\", \"value\": \"전기동\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"LS MnM의 전기동(Cu 99.99% 이상) 제품은 런던금속거래소(LME : London Metal Exchange)의 최고등급인 'Grade A'로 등록되어\"}, {\"axis\": \"product\", \"value\": \"트랙터\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"기계사업 중 트랙터 사업은 농축산물의 생산 및 생산 후 처리작업 등의 농업, 레저산업용 트랙터를 생산,판매하고\"}, {\"axis\": \"product\", \"value\": \"사출성형기\", \"weight\": 0.65, \"direction\": null, \"evidence\": \"사출성형기(Injection Molding Machine) 제조산업은 플라스틱 수지를 소재로 장착된 금형 조건별 플라스틱 성형제품을 생산하는 것\"}, {\"axis\": \"application\", \"value\": \"데이터센터\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"전선사업은 국내외 데이터센터 확장과 글로벌 인프라 투자 증가에 힘입어 성장세를 보이고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"해상풍력단지\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"유럽과 아시아의 대규모 해상풍력단지 건설 및 노후 전력망 교체 수요에 따라 초고압 전력 케이블과 해저케이블의 수요가 증가하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"전기자동차\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"배터리를 활용하는 친환경차 시장이 확대되고 배터리의 활용 목적이 다양해지면서 직류 전력 산업 시장은 뚜렷하게 성장할 것으로 예상됩니다.\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"부품사업은 스마트폰 시장의 경기 변동에 큰 영향을 받습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"전기동\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"전선의 주요 원자재는 전기동으로 전선 생산 원재료비의 약 65%을 차지하고 있습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"동광석\", \"weight\": 0.85, \"direction\": null, \"evidence\": \"LS MnM의 원재료인 동광석은 전량을 남미, 동남아 등지로부터 국제시세로 수입되고 있으며\"}, {\"axis\": \"exposure\", \"value\": \"구리 가격\", \"weight\": 0.9, \"direction\": 1, \"evidence\": \"원재료로 쓰이는 구리 가격의 변동이 전선가격의 변동과 회사의 수익성에 영향을 미칩니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"동관은 원재료인 전기동의 국제가격과 환율에 영향을 받으며\"}, {\"axis\": \"exposure\", \"value\": \"국방예산\", \"weight\": 0.5, \"direction\": 1, \"evidence\": \"특수사업(방위사업)은 정부의 국방예산 지출이 주수입원으로 안정적이며\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"북미를 중심으로 한 반도체, 배터리, 자동차 등 산업 분야의 투자 증가와\"}, {\"axis\": \"region\", \"value\": \"중국\", \"weight\": 0.75, \"direction\": null, \"evidence\": \"중국 및 기타 개발도상국들을 중심으로 지속적으로 수요가 증가하고 있으며\"}]}\n```"
+  ],
+  "text_path": "data/reports/006260_20260318001427.txt"
+}

@@ -1,0 +1,130 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "시스템 반도체",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "㈜가온칩스(이하 \"당사\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "AI 반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "2나노 GAA(Gate-All-Around) 공정을 기반으로 데이터센터 및 HPC용 대형(Big Die) AI 반도체부터 Edge 환경에서 구동되는 차세대 생성형 AI 반도체까지 다양한 AI 반도체 개발을 진행하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "차량용 반도체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "Automotive 분야에서는 ADAS(첨단 운전자 보조 시스템), Digital Cockpit, Vision Processor, Network Processor 등의 반도체 개발을 진행하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "주문형 반도체",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "파운드리 공정에 대한 기술적 전문성을 기반으로 고객사의 Custom ASIC(Application-Specific Integrated Circuit, 주문형 반도체) 개발을 설계부터 양산 단계까지 지원합니다."
+    },
+    {
+      "axis": "product",
+      "value": "Wafer",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "SoC Spec 협의 및 설계를 시작으로 Physical Implementation, Physical Design, 웨이퍼 생산 및 관리, 품질 관리(QA), 패키징 및 테스트 디자인 등 반도체 개발 전 과정을 지원하며 안정적인 설계 및 양산 서비스를 제공합니다."
+    },
+    {
+      "axis": "product",
+      "value": "IP",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자율주행",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "인공지능",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "㈜가온칩스(이하 \"당사\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Arm",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "IP",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wafer",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "제품 매출 중 기간별 Foundry Wafer 가격에 대한 전체 평균 단가입니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "일본",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사는 제품 수출 거래 등과 관련하여 주로 USD, JPY, CNY의 환율변동위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "전기차 시장 성장",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "다만 최근 전기차(EV) 시장 성장 속도 조정, 글로벌 무역 환경 변화, 글로벌 자동차 생산량 및 완성차 업체의 투자 계획 등에 따라 단기적인 수요 변동이 발생할 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"시스템 반도체\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"㈜가온칩스(이하 \\\"당사\\\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"AI 반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2나노 GAA(Gate-All-Around) 공정을 기반으로 데이터센터 및 HPC용 대형(Big Die) AI 반도체부터 Edge 환경에서 구동되는 차세대 생성형 AI 반도체까지 다양한 AI 반도체 개발을 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차량용 반도체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"Automotive 분야에서는 ADAS(첨단 운전자 보조 시스템), Digital Cockpit, Vision Processor, Network Processor 등의 반도체 개발을 진행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"주문형 반도체\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"파운드리 공정에 대한 기술적 전문성을 기반으로 고객사의 Custom ASIC(Application-Specific Integrated Circuit, 주문형 반도체) 개발을 설계부터 양산 단계까지 지원합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"SoC Spec 협의 및 설계를 시작으로 Physical Implementation, Physical Design, 웨이퍼 생산 및 관리, 품질 관리(QA), 패키징 및 테스트 디자인 등 반도체 개발 전 과정을 지원하며 안정적인 설계 및 양산 서비스를 제공합니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IP\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자율주행\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"인공지능\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 반도체 산업은 인공지능(AI), 데이터센터, 자율주행, IoT 등 다양한 산업 분야에서 시스템 반도체 수요가 확대되고 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"㈜가온칩스(이하 \\\"당사\\\")는 2012년 설립된 시스템 반도체 설계 전문 기업으로, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Arm\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"삼성 파운드리의 공식 디자인 솔루션 파트너(DSP, Design Solution Partner) 및 Arm Approved Design Partner(AADP)로서 시스템 반도체 설계 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"IP\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"외주가공비는 FAB, 패키징, 기타(외주용역 등)으로 구분하였으며 원재료는 IP 단일 품목입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"제품 매출 중 기간별 Foundry Wafer 가격에 대한 전체 평균 단가입니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"일본\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2022년 9월 일본 법인, 2024년 1월 미국 법인을 설립하여 주요 반도체 시장에서의 고객 대응 체계를 구축하였습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"당사는 제품 수출 거래 등과 관련하여 주로 USD, JPY, CNY의 환율변동위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"전기차 시장 성장\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"다만 최근 전기차(EV) 시장 성장 속도 조정, 글로벌 무역 환경 변화, 글로벌 자동차 생산량 및 완성차 업체의 투자 계획 등에 따라 단기적인 수요 변동이 발생할 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/399720_20260319001147.txt"
+}

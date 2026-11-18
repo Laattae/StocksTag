@@ -1,0 +1,88 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "바이오시밀러",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "바이오시밀러 제품 등 매출이 2,475억원으로 98.3%, 기타 서비스 매출이 42억원으로 3.3%를 차지하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ADC 신약",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "삼성바이오에피스는 바이오시밀러 사업에서의 성과를 바탕으로 신약 개발을 신규 사업 영역으로 확대해 나가고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "자가면역질환",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "종양질환",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "안과질환",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Biogen",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "Biogen International Holding Ltd. | 585,873,787 | 35.0% |"
+    },
+    {
+      "axis": "customer",
+      "value": "Organon",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "Organon LLC | 491,420,997 | 29.4% |"
+    },
+    {
+      "axis": "customer",
+      "value": "Sandoz",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "Sandoz AG | 279,254,670 | 16.7% |"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Resin",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Resin, Chemical, 배지, Filter 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "배지",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "Resin, Chemical, 배지, Filter 등"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.4,
+      "direction": -1,
+      "evidence": "미국의 관세 정책과 환율 변동과 같이 원재료 가격 상승을 유발할 수 있는 외부 요인이 여전히 존재하고 있어 시장 상황을 주시 중입니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"바이오시밀러\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"바이오시밀러 제품 등 매출이 2,475억원으로 98.3%, 기타 서비스 매출이 42억원으로 3.3%를 차지하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ADC 신약\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"삼성바이오에피스는 바이오시밀러 사업에서의 성과를 바탕으로 신약 개발을 신규 사업 영역으로 확대해 나가고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자가면역질환\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"종양질환\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"안과질환\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"자가면역질환, 종양질환, 안과질환, 혈액질환, 골질환 등 다양한 질병 영역에 걸쳐 연구 역량을 집중하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Biogen\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"Biogen International Holding Ltd. | 585,873,787 | 35.0% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Organon\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"Organon LLC | 491,420,997 | 29.4% |\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Sandoz\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"Sandoz AG | 279,254,670 | 16.7% |\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Resin\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Resin, Chemical, 배지, Filter 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"배지\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"Resin, Chemical, 배지, Filter 등\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.4,\n      \"direction\": -1,\n      \"evidence\": \"미국의 관세 정책과 환율 변동과 같이 원재료 가격 상승을 유발할 수 있는 외부 요인이 여전히 존재하고 있어 시장 상황을 주시 중입니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/0126Z0_20260515003119.txt"
+}

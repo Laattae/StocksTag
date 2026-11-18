@@ -1,0 +1,31 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모바일 게임",
+      "weight": 0.94,
+      "direction": null,
+      "evidence": "게임 | 쿠키런: 오븐브레이크쿠키런: 킹덤 등 | 모바일 게임 서비스게임내 광고 수익 | 278,585 | 94.25"
+    },
+    {
+      "axis": "product",
+      "value": "IP 라이선스 상품",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "IP | 라이센스상품컨텐츠 등 | 쿠키런 IP 상품 판매쿠키런 IP 로열티 | 13,933 | 4.71"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "II. 사업의 내용\n1. 사업의 개요"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모바일 게임\",\n      \"weight\": 0.94,\n      \"direction\": null,\n      \"evidence\": \"게임 | 쿠키런: 오븐브레이크쿠키런: 킹덤 등 | 모바일 게임 서비스게임내 광고 수익 | 278,585 | 94.25\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IP 라이선스 상품\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"IP | 라이센스상품컨텐츠 등 | 쿠키런 IP 상품 판매쿠키런 IP 로열티 | 13,933 | 4.71\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"II. 사업의 내용\\n1. 사업의 개요\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/194480_20260316001364.txt"
+}

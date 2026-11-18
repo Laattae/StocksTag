@@ -1,0 +1,143 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "선박용 저속엔진",
+      "weight": 0.79,
+      "direction": null,
+      "evidence": "선박용 저속엔진(2ST) | 317,670 | 78.94%"
+    },
+    {
+      "axis": "product",
+      "value": "Turbocharger",
+      "weight": 0.21,
+      "direction": null,
+      "evidence": "Turbocharger, Crankshaft, 기타부품, A/S | 83,775 | 20.82%"
+    },
+    {
+      "axis": "product",
+      "value": "Crankshaft",
+      "weight": 0.21,
+      "direction": null,
+      "evidence": "Turbocharger, Crankshaft, 기타부품, A/S | 83,775 | 20.82%"
+    },
+    {
+      "axis": "product",
+      "value": "디젤엔진",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 디젤엔진, LNG가스엔진(이중연료), LPG가스엔진(이중연료)을 생산하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "이중연료엔진",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 핵심 사업인 선박 엔진 분야는 현재 디젤엔진과 이중연료 엔진을 중심으로 형성되어 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "더불어 환경 규제 강화와 노후 선박 증가에 따른 신조선 발주 확대는 당사의 사업 성장과 신규 수주 기회 확보에 긍정적으로 작용할 것으로 기대됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "선박",
+      "weight": 0.9,
+      "direction": 1,
+      "evidence": "최근 글로벌 해운시장을 중심으로 친환경 엔진 수요는 대형 선박을 시작으로 지속적으로 확대가 예상됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "주식회사 케이조선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "주식회사 케이조선 | 비계열 | 79,843 | 19.84%"
+    },
+    {
+      "axis": "customer",
+      "value": "Xiamen Xiangyu Co., Ltd.",
+      "weight": 0.18,
+      "direction": null,
+      "evidence": "Xiamen Xiangyu Co., Ltd. | 비계열 | 74,345 | 18.48%"
+    },
+    {
+      "axis": "customer",
+      "value": "TAIZHOU SANFU SHIP ENGINEERING CO.,LTD.",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "TAIZHOU SANFU SHIP ENGINEERING CO.,LTD. | 비계열 | 52,134 | 12.96%"
+    },
+    {
+      "axis": "customer",
+      "value": "한화엔진 주식회사",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "한화엔진 주식회사 | 비계열 | 22,090 | 5.49%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Crankshaft 용 소재",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "엔진ㆍ기자재 | 원재료 | Crankshaft 용 소재 등 | 현대아이에프씨㈜, 주식회사 티에스피, (주)태상 외 | 161,584"
+    },
+    {
+      "axis": "raw_material",
+      "value": "STEEL PLATE",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "엔진ㆍ기자재 | STEEL PLATE | TON | 0.85 | 0.86 | 0.89 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "신촌1공장(본사) | 공장 | 선박용 엔진 | 경남 창원시 성산구 적현로 222(신촌동)"
+    },
+    {
+      "axis": "region",
+      "value": "대구",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대구공장 | 공장 | Turbocharger, 고온정밀부품 | 대구광역시 달서구 달서대로 533(호산동)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선박엔진 | 5,135 | 4,419 | 4,235 | 비 고 | 매출실적 기준 | 주) 위 가격은 대당 평균 매출액 기준으로 추진연료의 종류와 옵션, 엔진의 크기, 환율, 선박엔진 시황 등에 영향을 받습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "유가",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "금리",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "세계 조선경기",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"선박용 저속엔진\",\n      \"weight\": 0.79,\n      \"direction\": null,\n      \"evidence\": \"선박용 저속엔진(2ST) | 317,670 | 78.94%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Turbocharger\",\n      \"weight\": 0.21,\n      \"direction\": null,\n      \"evidence\": \"Turbocharger, Crankshaft, 기타부품, A/S | 83,775 | 20.82%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"Crankshaft\",\n      \"weight\": 0.21,\n      \"direction\": null,\n      \"evidence\": \"Turbocharger, Crankshaft, 기타부품, A/S | 83,775 | 20.82%\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"디젤엔진\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 디젤엔진, LNG가스엔진(이중연료), LPG가스엔진(이중연료)을 생산하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"이중연료엔진\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 핵심 사업인 선박 엔진 분야는 현재 디젤엔진과 이중연료 엔진을 중심으로 형성되어 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"더불어 환경 규제 강화와 노후 선박 증가에 따른 신조선 발주 확대는 당사의 사업 성장과 신규 수주 기회 확보에 긍정적으로 작용할 것으로 기대됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"선박\",\n      \"weight\": 0.9,\n      \"direction\": 1,\n      \"evidence\": \"최근 글로벌 해운시장을 중심으로 친환경 엔진 수요는 대형 선박을 시작으로 지속적으로 확대가 예상됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"주식회사 케이조선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"주식회사 케이조선 | 비계열 | 79,843 | 19.84%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Xiamen Xiangyu Co., Ltd.\",\n      \"weight\": 0.18,\n      \"direction\": null,\n      \"evidence\": \"Xiamen Xiangyu Co., Ltd. | 비계열 | 74,345 | 18.48%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"TAIZHOU SANFU SHIP ENGINEERING CO.,LTD.\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"TAIZHOU SANFU SHIP ENGINEERING CO.,LTD. | 비계열 | 52,134 | 12.96%\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한화엔진 주식회사\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"한화엔진 주식회사 | 비계열 | 22,090 | 5.49%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Crankshaft 용 소재\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"엔진ㆍ기자재 | 원재료 | Crankshaft 용 소재 등 | 현대아이에프씨㈜, 주식회사 티에스피, (주)태상 외 | 161,584\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"STEEL PLATE\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"엔진ㆍ기자재 | STEEL PLATE | TON | 0.85 | 0.86 | 0.89 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"신촌1공장(본사) | 공장 | 선박용 엔진 | 경남 창원시 성산구 적현로 222(신촌동)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대구\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대구공장 | 공장 | Turbocharger, 고온정밀부품 | 대구광역시 달서구 달서대로 533(호산동)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"선박엔진 | 5,135 | 4,419 | 4,235 | 비 고 | 매출실적 기준 | 주) 위 가격은 대당 평균 매출액 기준으로 추진연료의 종류와 옵션, 엔진의 크기, 환율, 선박엔진 시황 등에 영향을 받습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"유가\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"금리\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"세계 조선경기\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"선박용 엔진 및 기자재 산업은 세계 조선경기, 환율, 금리, 유가 등 외부 요인에 따라 수주 및 매출 변동폭이 큰 경기민감형 산업입니다.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/071970_20260316001327.txt"
+}

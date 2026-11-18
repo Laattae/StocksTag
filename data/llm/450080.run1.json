@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전구체",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주식회사 에코프로머티리얼즈는 이차전지용 양극재의 핵심소재인 전구체의 생산 및 판매를 주요 사업으로 영위하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "황산니켈",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산코발트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "황산망간",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ESS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전동공구",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "에코프로비엠",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 주요 매출처는 에코프로비엠을 비롯한 양극활물질 제조업체, 이차전지 Cell업체, 자동차 OEM업체 등 전기차 시장 관련 전방업체들이며"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "코발트",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "에코프로머티리얼즈(RMP 1,2 / CPM 1,2) | 경상북도 포항시 북구 흥해읍 영일만산단남로 75번길 15"
+    },
+    {
+      "axis": "region",
+      "value": "인도네시아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "인도네시아 술라웨시 IMIP에 위치한 PT Green Eco Nickel 제련소의 인수를 통해"
+    },
+    {
+      "axis": "exposure",
+      "value": "니켈 가격",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "LME 니켈 현물 평균 가격을 2025년 톤당 $15,241, 2026년 $16,207, 2027년 $17,237으로 상승할 것으로 전망하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "다른 모든 변수가 일정하다고 가정할 때, 당기와 전기의 화폐성 외화금융자산 및 부채에 대한 원화 환율의 5% 변동시 당사의 세후 손익에 미치는 영향은 다음과 같습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "보고기간말 현재 다른 모든 변수가 일정하고 이자율의 변동시 당사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"전구체\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"주식회사 에코프로머티리얼즈는 이차전지용 양극재의 핵심소재인 전구체의 생산 및 판매를 주요 사업으로 영위하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산니켈\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산코발트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"황산망간\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"전구체의 원료인 황산니켈, 황산코발트, 황산망간 등 황산메탈을 제련하는 RMP(Raw Material Precipitate) 공정을 운영 중에 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전기차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ESS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전동공구\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사가 제조, 생산 및 판매하는 전구체 제품은 이차전지의 핵심 소재로서 EV, 전동공구, 그리고 ESS 산업에서 사용 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"에코프로비엠\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 매출처는 에코프로비엠을 비롯한 양극활물질 제조업체, 이차전지 Cell업체, 자동차 OEM업체 등 전기차 시장 관련 전방업체들이며\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코발트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 주요 원재료는 니켈, 코발트 등으로 이루어져 있으며, 주요 원재료 별 매입액 및 매입비중은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"에코프로머티리얼즈(RMP 1,2 / CPM 1,2) | 경상북도 포항시 북구 흥해읍 영일만산단남로 75번길 15\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도네시아\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"인도네시아 술라웨시 IMIP에 위치한 PT Green Eco Nickel 제련소의 인수를 통해\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"니켈 가격\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"LME 니켈 현물 평균 가격을 2025년 톤당 $15,241, 2026년 $16,207, 2027년 $17,237으로 상승할 것으로 전망하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"다른 모든 변수가 일정하다고 가정할 때, 당기와 전기의 화폐성 외화금융자산 및 부채에 대한 원화 환율의 5% 변동시 당사의 세후 손익에 미치는 영향은 다음과 같습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"이자율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"보고기간말 현재 다른 모든 변수가 일정하고 이자율의 변동시 당사의 세후 이익 및 자본에 미치는 영향은 아래 표와 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/450080_20260320000475.txt"
+}

@@ -1,0 +1,144 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "기초화장품",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "Beauty 사업부문은 '더후', '숨37˚', '오휘', '빌리프', 'CNP', '더페이스샵' 등다양한 럭셔리 및 프리미엄 브랜드를 보유하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "색조화장품",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "그 외에도'글린트', '프레시안', 'hince' 등 브랜드를 통해 색조 화장품 시장에서의 입지를 확대하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "샴푸",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "Daily Beauty는 샴푸, 바디워시, 치약처럼 개인의 미용과 위생을 목적으로 사용되는제품이고"
+    },
+    {
+      "axis": "product",
+      "value": "치약",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "Daily Beauty는 샴푸, 바디워시, 치약처럼 개인의 미용과 위생을 목적으로 사용되는제품이고"
+    },
+    {
+      "axis": "product",
+      "value": "세탁세제",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "Home Care는 집안 청소와 의류 세탁에 사용되는 생활용품으로 구분됩니다."
+    },
+    {
+      "axis": "product",
+      "value": "탄산음료",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "Refreshment 사업부문에서 가장 큰 비중을 차지하는 브랜드는 '코카콜라'입니다."
+    },
+    {
+      "axis": "product",
+      "value": "생수",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "비탄산음료인 주스, 커피, 생수 등의 제품도제조하여 판매하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "The Coca-Cola Company",
+      "weight": 0.28,
+      "direction": null,
+      "evidence": "주요 종속회사인 코카콜라음료(주)는 The Coca-Cola Company(이하, \"TCCC\")의 보틀링 파트너로서 TCCC로부터 원액을 구매해 국내에서 제조하여 판매하는방식으로 매출이 발생하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "원액",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "Refreshment(음료) | 원재료 | 원액, 당류, 과즙 등 | 음료(탄산 및비산탄 음료)원료"
+    },
+    {
+      "axis": "raw_material",
+      "value": "당류",
+      "weight": 0.41,
+      "direction": null,
+      "evidence": "Refreshment(음료) | 원재료 | 원액, 당류, 과즙 등 | 음료(탄산 및비산탄 음료)원료"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Palm Stearin Oil",
+      "weight": 0.33,
+      "direction": null,
+      "evidence": "HDB(생활용품) | 원재료 | 소다회, AOS, 우지, Palm Stearin Oil 등 | 샴푸, 비누, 치약등의 원료"
+    },
+    {
+      "axis": "region",
+      "value": "충북",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)LG생활건강 | 청주 공장 | 충청북도 청주시 흥덕구 2순환로 765"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": null,
+      "direction": null,
+      "evidence": "(주)LG생활건강 | 울산 공장 | 울산광역시 울주군 온양읍 덕망로 275"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "코카콜라음료(주) | 여주공장 | 경기도 여주시 세종로(점봉동) 415"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": null,
+      "direction": null,
+      "evidence": "BEIJING LG HOUSEHOLDCHEMICAL CO., LTD. | (중국)북경J/V 공장 | No. 6 East Sixth Street in ZhongguancunScience and Technology Park &Opto Mechatronics Industrial Base of Tongzhou District,Beijing, China 101111"
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": null,
+      "direction": null,
+      "evidence": "LG VINA COSMETICSCOMPANY LIMITED | 베트남 공장 | Nhon Trach 2, Industrial Zone,Hiep Phuoc Village, Dong Nai Province, Vietnam"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "음료 산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 작은 산업이나,원부자재 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는특성을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "국제 원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "음료 산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 작은 산업이나,원부자재 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는특성을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "경기 동향",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "화장품은 대체로 경기 동향에 민감하게 반응하는 산업이나, 브랜드 로열티 유무에 따라 반응하는 정도는 상이하게 나타나는 경향이 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"기초화장품\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"Beauty 사업부문은 '더후', '숨37˚', '오휘', '빌리프', 'CNP', '더페이스샵' 등다양한 럭셔리 및 프리미엄 브랜드를 보유하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"색조화장품\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"그 외에도'글린트', '프레시안', 'hince' 등 브랜드를 통해 색조 화장품 시장에서의 입지를 확대하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"샴푸\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"Daily Beauty는 샴푸, 바디워시, 치약처럼 개인의 미용과 위생을 목적으로 사용되는제품이고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"치약\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"Daily Beauty는 샴푸, 바디워시, 치약처럼 개인의 미용과 위생을 목적으로 사용되는제품이고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"세탁세제\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"Home Care는 집안 청소와 의류 세탁에 사용되는 생활용품으로 구분됩니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"탄산음료\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"Refreshment 사업부문에서 가장 큰 비중을 차지하는 브랜드는 '코카콜라'입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"생수\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"비탄산음료인 주스, 커피, 생수 등의 제품도제조하여 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"The Coca-Cola Company\",\n      \"weight\": 0.28,\n      \"direction\": null,\n      \"evidence\": \"주요 종속회사인 코카콜라음료(주)는 The Coca-Cola Company(이하, \\\"TCCC\\\")의 보틀링 파트너로서 TCCC로부터 원액을 구매해 국내에서 제조하여 판매하는방식으로 매출이 발생하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"원액\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"Refreshment(음료) | 원재료 | 원액, 당류, 과즙 등 | 음료(탄산 및비산탄 음료)원료\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"당류\",\n      \"weight\": 0.41,\n      \"direction\": null,\n      \"evidence\": \"Refreshment(음료) | 원재료 | 원액, 당류, 과즙 등 | 음료(탄산 및비산탄 음료)원료\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Palm Stearin Oil\",\n      \"weight\": 0.33,\n      \"direction\": null,\n      \"evidence\": \"HDB(생활용품) | 원재료 | 소다회, AOS, 우지, Palm Stearin Oil 등 | 샴푸, 비누, 치약등의 원료\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충북\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(주)LG생활건강 | 청주 공장 | 충청북도 청주시 흥덕구 2순환로 765\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"(주)LG생활건강 | 울산 공장 | 울산광역시 울주군 온양읍 덕망로 275\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"코카콜라음료(주) | 여주공장 | 경기도 여주시 세종로(점봉동) 415\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"BEIJING LG HOUSEHOLDCHEMICAL CO., LTD. | (중국)북경J/V 공장 | No. 6 East Sixth Street in ZhongguancunScience and Technology Park &Opto Mechatronics Industrial Base of Tongzhou District,Beijing, China 101111\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"LG VINA COSMETICSCOMPANY LIMITED | 베트남 공장 | Nhon Trach 2, Industrial Zone,Hiep Phuoc Village, Dong Nai Province, Vietnam\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"음료 산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 작은 산업이나,원부자재 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는특성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"국제 원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"음료 산업은 타 산업에 비해 경기변동에 의한 영향이 비교적 작은 산업이나,원부자재 수입 의존도가 높아 환율, 국제 원자재 가격 변화에 민감하게 반응하는특성을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"경기 동향\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"화장품은 대체로 경기 동향에 민감하게 반응하는 산업이나, 브랜드 로열티 유무에 따라 반응하는 정도는 상이하게 나타나는 경향이 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/051900_20260316000985.txt"
+}

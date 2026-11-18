@@ -1,0 +1,52 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "벤처투자조합",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 벤처투자촉진에 관한 법률에 의거 중소벤처기업부에 등록된 벤처투자회사로서 벤처투자조합 등 조합 결성을 통한 창업기업 및 벤처기업 투자를 주력 사업으로 영위하고 있는 벤처캐피탈(Venture Capital, VC)입니다."
+    },
+    {
+      "axis": "product",
+      "value": "사모투자전문회사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "자본시장법에 근거한 PEF(사모투자전문회사)를 통해 스몰캡 강소기업에 대한 경영권 인수, Growth-Capital 투자를 주로 수행하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "ICT제조",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 투자 포트폴리오는 「ICT제조/서비스」「바이오/헬스케어」「엔터테인먼@드/유통소비재」 등 산업별 고른 분포를 보이고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "바이오",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사 투자 포트폴리오는 「ICT제조/서비스」「바이오/헬스케어」「엔터테인먼@드/유통소비재」 등 산업별 고른 분포를 보이고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지역 | 본·지점 | 출장소 | 사무소 | 합계 | 서울 | 1 | - | - | 1"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "지역 | 본·지점 | 출장소 | 사무소 | 합계 | 경기 | 1 | - | - | 1"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"벤처투자조합\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 벤처투자촉진에 관한 법률에 의거 중소벤처기업부에 등록된 벤처투자회사로서 벤처투자조합 등 조합 결성을 통한 창업기업 및 벤처기업 투자를 주력 사업으로 영위하고 있는 벤처캐피탈(Venture Capital, VC)입니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"사모투자전문회사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"자본시장법에 근거한 PEF(사모투자전문회사)를 통해 스몰캡 강소기업에 대한 경영권 인수, Growth-Capital 투자를 주로 수행하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"ICT제조\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 투자 포트폴리오는 「ICT제조/서비스」「바이오/헬스케어」「엔터테인먼@드/유통소비재」 등 산업별 고른 분포를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"바이오\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사 투자 포트폴리오는 「ICT제조/서비스」「바이오/헬스케어」「엔터테인먼@드/유통소비재」 등 산업별 고른 분포를 보이고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"지역 | 본·지점 | 출장소 | 사무소 | 합계 | 서울 | 1 | - | - | 1\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"지역 | 본·지점 | 출장소 | 사무소 | 합계 | 경기 | 1 | - | - | 1\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/100790_20260313001348.txt"
+}

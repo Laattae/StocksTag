@@ -1,0 +1,108 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "전도성 페이스트",
+      "weight": 0.43,
+      "direction": null,
+      "evidence": "전도성 페이스트 | - IT 모바일, 디ス플레이, 자동차에 사용되는 전자부품용 전극재료 | 108,233 | 42.51%"
+    },
+    {
+      "axis": "product",
+      "value": "이차전지용 음극재",
+      "weight": 0.19,
+      "direction": null,
+      "evidence": "이차전지용음극재료 | - 이차전지용 음극재 | 47,533 | 18.67%"
+    },
+    {
+      "axis": "product",
+      "value": "형광체재료",
+      "weight": 0.17,
+      "direction": null,
+      "evidence": "형광체재료 | - LED용 Powder, PIG | 43,875 | 17.23%"
+    },
+    {
+      "axis": "product",
+      "value": "고분자재료",
+      "weight": 0.12,
+      "direction": null,
+      "evidence": "고분자재료 | - 전기, 전자부품의 소체를 코팅하여 외부환경으로부터 보호하는 재료 | 31,237 | 12.27%"
+    },
+    {
+      "axis": "product",
+      "value": "태양전지 전극재료",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "태양전지전극재료 | - 태양전지의 전/후면 전극재료 | 22,000 | 8.64%"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사의 주요 제품인 칩 부품용 전도성 페이스트는 스마트폰, PC, 노트북 등에 사용되는 MLCC"
+    },
+    {
+      "axis": "application",
+      "value": "전기차",
+      "weight": null,
+      "direction": null,
+      "evidence": "당사는 2018년부터 실리콘 산화물 기반 음극재를 전기차용 배터리에 공급하였으며"
+    },
+    {
+      "axis": "application",
+      "value": "태양전지",
+      "weight": null,
+      "direction": null,
+      "evidence": "신재생 에너지 분야에서도 전자재료 수요가 늘어나면서, 당사는 이차전지 음극재와 태양전지 전극재료 개발에 주력하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전기",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내 | (주)한화솔루션 진천사업장,삼성전기(주),삼성전자(주),(주)파트론 | 현금"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": null,
+      "direction": null,
+      "evidence": "국내 | (주)한화솔루션 진천사업장,삼성전기(주),삼성전자(주),(주)파트론 | 현금"
+    },
+    {
+      "axis": "customer",
+      "value": "LG Energy Solution Wroclaw sp. Z o.o.",
+      "weight": null,
+      "direction": null,
+      "evidence": "해외 | IANJIN SAMSUNG ELECTRO MECHANICS CO.,LTD.,SAMSUNG ELECTRO-MECHANICS PHILS.CORP.,PT. HLI Green Power, Guangdong BYD Energy-saving Technology CO., LTD. LG Energy Solution Wroclaw sp. Z o.o."
+    },
+    {
+      "axis": "raw_material",
+      "value": "귀금속류",
+      "weight": 0.54,
+      "direction": null,
+      "evidence": "귀금속류 | 전도성 페이스트,고분자 전극재료의주재료 | 78,816 | 54.1%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Cu powder",
+      "weight": 0.26,
+      "direction": null,
+      "evidence": "Cu powder | MLCC원료 | 38,448 | 26.4%"
+    },
+    {
+      "axis": "exposure",
+      "value": "귀금속 국제 시세",
+      "weight": null,
+      "direction": 1,
+      "evidence": "전도성 페이스트,태양전지전극재료,고분자재료 : 동 품목의 주요 원재료는 Silver, Pd, Pt 등의 귀금속입니다. 이러한, 귀금속 원재료는 국제 시세에 따라 구매가 되며, 제품의 판매 가격도 국제 시세를 반영하여 결정되고 있습니다."
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"전도성 페이스트\", \"weight\": 0.43, \"direction\": null, \"evidence\": \"전도성 페이스트 | - IT 모바일, 디ス플레이, 자동차에 사용되는 전자부품용 전극재료 | 108,233 | 42.51%\"}, {\"axis\": \"product\", \"value\": \"이차전지용 음극재\", \"weight\": 0.19, \"direction\": null, \"evidence\": \"이차전지용음극재료 | - 이차전지용 음극재 | 47,533 | 18.67%\"}, {\"axis\": \"product\", \"value\": \"형광체재료\", \"weight\": 0.17, \"direction\": null, \"evidence\": \"형광체재료 | - LED용 Powder, PIG | 43,875 | 17.23%\"}, {\"axis\": \"product\", \"value\": \"고분자재료\", \"weight\": 0.12, \"direction\": null, \"evidence\": \"고분자재료 | - 전기, 전자부품의 소체를 코팅하여 외부환경으로부터 보호하는 재료 | 31,237 | 12.27%\"}, {\"axis\": \"product\", \"value\": \"태양전지 전극재료\", \"weight\": 0.09, \"direction\": null, \"evidence\": \"태양전지전극재료 | - 태양전지의 전/후면 전극재료 | 22,000 | 8.64%\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": null, \"direction\": null, \"evidence\": \"당사의 주요 제품인 칩 부품용 전도성 페이스트는 스마트폰, PC, 노트북 등에 사용되는 MLCC\"}, {\"axis\": \"application\", \"value\": \"전기차\", \"weight\": null, \"direction\": null, \"evidence\": \"당사는 2018년부터 실리콘 산화물 기반 음극재를 전기차용 배터리에 공급하였으며\"}, {\"axis\": \"application\", \"value\": \"태양전지\", \"weight\": null, \"direction\": null, \"evidence\": \"신재생 에너지 분야에서도 전자재료 수요가 늘어나면서, 당사는 이차전지 음극재와 태양전지 전극재료 개발에 주력하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"삼성전기\", \"weight\": null, \"direction\": null, \"evidence\": \"국내 | (주)한화솔루션 진천사업장,삼성전기(주),삼성전자(주),(주)파트론 | 현금\"}, {\"axis\": \"customer\", \"value\": \"삼성전자\", \"weight\": null, \"direction\": null, \"evidence\": \"국내 | (주)한화솔루션 진천사업장,삼성전기(주),삼성전자(주),(주)파트론 | 현금\"}, {\"axis\": \"customer\", \"value\": \"LG Energy Solution Wroclaw sp. Z o.o.\", \"weight\": null, \"direction\": null, \"evidence\": \"해외 | IANJIN SAMSUNG ELECTRO MECHANICS CO.,LTD.,SAMSUNG ELECTRO-MECHANICS PHILS.CORP.,PT. HLI Green Power, Guangdong BYD Energy-saving Technology CO., LTD. LG Energy Solution Wroclaw sp. Z o.o.\"}, {\"axis\": \"raw_material\", \"value\": \"귀금속류\", \"weight\": 0.54, \"direction\": null, \"evidence\": \"귀금속류 | 전도성 페이스트,고분자 전극재료의주재료 | 78,816 | 54.1%\"}, {\"axis\": \"raw_material\", \"value\": \"Cu powder\", \"weight\": 0.26, \"direction\": null, \"evidence\": \"Cu powder | MLCC원료 | 38,448 | 26.4%\"}, {\"axis\": \"exposure\", \"value\": \"귀금속 국제 시세\", \"weight\": null, \"direction\": 1, \"evidence\": \"전도성 페이스트,태양전지전극재료,고분자재료 : 동 품목의 주요 원재료는 Silver, Pd, Pt 등의 귀금속입니다. 이러한, 귀금속 원재료는 국제 시세에 따라 구매가 되며, 제품의 판매 가격도 국제 시세를 반영하여 결정되고 있습니다.\"}]}\n```"
+  ],
+  "text_path": "data/reports/078600_20260319000004.txt"
+}

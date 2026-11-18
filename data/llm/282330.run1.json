@@ -1,0 +1,116 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "가공식품",
+      "weight": 0.44,
+      "direction": null,
+      "evidence": "가공식품 | 44.1 | 44.5 | 43.5 |"
+    },
+    {
+      "axis": "product",
+      "value": "담배",
+      "weight": 0.37,
+      "direction": null,
+      "evidence": "담배 | 37.0 | 37.1 | 37.3 |"
+    },
+    {
+      "axis": "product",
+      "value": "식품",
+      "weight": 0.13,
+      "direction": null,
+      "evidence": "식품 | 13.7 | 13.2 | 13.3 |"
+    },
+    {
+      "axis": "product",
+      "value": "간편식",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "간편식 | 80.4 | 70.8 | 61.1 |"
+    },
+    {
+      "axis": "product",
+      "value": "물류 용역",
+      "weight": 0.99,
+      "direction": null,
+      "evidence": "물류 용역 | 99.9 | 99.9 | 99.9 |"
+    },
+    {
+      "axis": "product",
+      "value": "도시락",
+      "weight": null,
+      "direction": null,
+      "evidence": "도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등"
+    },
+    {
+      "axis": "product",
+      "value": "삼각김밥",
+      "weight": null,
+      "direction": null,
+      "evidence": "도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등"
+    },
+    {
+      "axis": "product",
+      "value": "샌드위치",
+      "weight": null,
+      "direction": null,
+      "evidence": "도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": null,
+      "direction": null,
+      "evidence": "안성물류센터 | 경기도 안성시 |"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": null,
+      "direction": null,
+      "evidence": "영남물류센터 | 울산시 울주군 |"
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": null,
+      "direction": null,
+      "evidence": "나주물류센터 | 전남 나주시 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": null,
+      "direction": null,
+      "evidence": "진주물류센터 | 경남 진주시 |"
+    },
+    {
+      "axis": "region",
+      "value": "강원",
+      "weight": null,
+      "direction": null,
+      "evidence": "강릉물류센터 | 강원도 강릉시 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": null,
+      "direction": -1,
+      "evidence": "해외에서 상품을 소싱하는 경우, 환율 변동, 소싱 국가의 경제 상황, 국제 무역 환경 변화 등에 따라 수익성, 상품 수급, 가격 등에 영향이 있을 수 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "세금",
+      "weight": null,
+      "direction": -1,
+      "evidence": "당사의 매출 상품 중 대부분을 차지하는 담배 및 가공식품, 주류, Fresh Food 등의 경우 주요 매입처의 가격정책 또는 관련 세금의 변동에 따라 가격이 변동됩니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"가공식품\",\n      \"weight\": 0.44,\n      \"direction\": null,\n      \"evidence\": \"가공식품 | 44.1 | 44.5 | 43.5 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"담배\",\n      \"weight\": 0.37,\n      \"direction\": null,\n      \"evidence\": \"담배 | 37.0 | 37.1 | 37.3 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"식품\",\n      \"weight\": 0.13,\n      \"direction\": null,\n      \"evidence\": \"식품 | 13.7 | 13.2 | 13.3 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"간편식\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"간편식 | 80.4 | 70.8 | 61.1 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류 용역\",\n      \"weight\": 0.99,\n      \"direction\": null,\n      \"evidence\": \"물류 용역 | 99.9 | 99.9 | 99.9 |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"도시락\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"삼각김밥\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"샌드위치\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"도시락 / 삼각김밥 / 샌드위치 / 햄버거 / 샐러드 등\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"안성물류센터 | 경기도 안성시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"영남물류센터 | 울산시 울주군 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"나주물류센터 | 전남 나주시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"진주물류센터 | 경남 진주시 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"강원\",\n      \"weight\": null,\n      \"direction\": null,\n      \"evidence\": \"강릉물류센터 | 강원도 강릉시 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"해외에서 상품을 소싱하는 경우, 환율 변동, 소싱 국가의 경제 상황, 국제 무역 환경 변화 등에 따라 수익성, 상품 수급, 가격 등에 영향이 있을 수 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"세금\",\n      \"weight\": null,\n      \"direction\": -1,\n      \"evidence\": \"당사의 매출 상품 중 대부분을 차지하는 담배 및 가공식품, 주류, Fresh Food 등의 경우 주요 매입처의 가격정책 또는 관련 세금의 변동에 따라 가격이 변동됩니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/282330_20260318000829.txt"
+}

@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "강관",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "배관용, 유정용, 구조용 등에 사용되는 강관 제품을 생산 및 판매하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "컬러강판",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "아연도금강판",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "산세강판",
+      "weight": 0.05,
+      "direction": null,
+      "evidence": "판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "건설",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "에너지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며"
+    },
+    {
+      "axis": "application",
+      "value": "가전제조업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "주요 수요산업으로는 건설업과 가전제조업으로 나눌 수 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "제품의 주원료는 열연강판 및 알루미늄 코일로써 국내 포스코를 비롯해 중국, 일본 등 다양한 공급사로부터 안정적으로 조달하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "HR Coil",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "강관 및 판재 사업부문의 주요원재료는 HR Coil 등으로, (주)포스코 등에서 구매하고 있습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "아연",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "아연 등 | 강관 도금 등 | 21,136"
+    },
+    {
+      "axis": "region",
+      "value": "경북",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전북",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "전남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "국내 외에도 아시아에서 미국, 유럽에 이르는 글로벌 생산 및 판매거점을 확보하고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "HR Coil 가격",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "제조원가 중 재료비 비중이 높아 주원재료인 HR Coil 가격변동에 따라 경쟁력(매출 및 이익규모)이 크게 좌우되고 있으며"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"강관\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"배관용, 유정용, 구조용 등에 사용되는 강관 제품을 생산 및 판매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"컬러강판\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아연도금강판\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"산세강판\",\n      \"weight\": 0.05,\n      \"direction\": null,\n      \"evidence\": \"판재부문은 컬러강판, 아연도금강판, 산세강판 제품을 생산, 판매하는 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"건설\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"조선\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"에너지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"이는 건설, 조선, 자동차, 기계, 에너지 등 산업 전반에 걸쳐 사용되고 있으며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"가전제조업\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"주요 수요산업으로는 건설업과 가전제조업으로 나눌 수 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"포스코\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"제품의 주원료는 열연강판 및 알루미늄 코일로써 국내 포스코를 비롯해 중국, 일본 등 다양한 공급사로부터 안정적으로 조달하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"HR Coil\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"강관 및 판재 사업부문의 주요원재료는 HR Coil 등으로, (주)포스코 등에서 구매하고 있습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"아연\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"아연 등 | 강관 도금 등 | 21,136\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경북\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전북\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"전남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"포항과 군산공장은 탄소강관, 순천공장은 탄소강관과 STS강관, 창원공장은 STS 및 Ti 등의 특수관을 생산하고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"국내 외에도 아시아에서 미국, 유럽에 이르는 글로벌 생산 및 판매거점을 확보하고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"HR Coil 가격\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"제조원가 중 재료비 비중이 높아 주원재료인 HR Coil 가격변동에 따라 경쟁력(매출 및 이익규모)이 크게 좌우되고 있으며\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/003030_20260316000062.txt"
+}

@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "한컴오피스",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사는 사무용 패키지 소프트웨어 제품, 모바일오피스 제품, 웹오피스 제품 등을 생산, 판매하고 있으며 이를 SW 부문으로 구분하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "소방용호흡기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "연결회사에서 생산, 판매하는 소방용 호흡기, 마스크, 보호의, 방산관련 제품을 제조부문으로 구분하고"
+    },
+    {
+      "axis": "product",
+      "value": "한컴독스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이러한 시장의 변화에 맞춰 당사는 2022년 구독형 서비스인 \"한컴독스\"를 출시하였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "한컴어시스턴트",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며"
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "패키지",
+      "weight": 0.98,
+      "direction": null,
+      "evidence": "원재료 | 패키지 | 포장용 박스등 | 20,870,904 (98.6%) |"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "지역 | 본점 | 지점 | 출장소 | 해외법인 | 합계 | 서울 | 1 | 1 | - | - | 2 | 계 | 1 | 1 | - | - | 2"
+    },
+    {
+      "axis": "exposure",
+      "value": "조달금리",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "업권 내 경쟁 심화, 2022년 하반기 이후 조달금리의 급격한 상승 등은여신전문금융회사의 수익성 제한 요인이 되고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "부동산 경기",
+      "weight": 0.6,
+      "direction": -1,
+      "evidence": "또한 최근 부동산 경기 침체로 부동산 PF 부실 우려 및 취약계층 대출 연체 증가 등으로 인해 자산 건전성 악화가 우려되는 상황인 바"
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴오피스\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사는 사무용 패키지 소프트웨어 제품, 모바일오피스 제품, 웹오피스 제품 등을 생산, 판매하고 있으며 이를 SW 부문으로 구분하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"소방용호흡기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"연결회사에서 생산, 판매하는 소방용 호흡기, 마스크, 보호의, 방산관련 제품을 제조부문으로 구분하고\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴독스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이러한 시장의 변화에 맞춰 당사는 2022년 구독형 서비스인 \\\"한컴독스\\\"를 출시하였습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"한컴어시스턴트\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"더 나아가, 당사는 2024년 12월 한컴의 AI기반 솔루션인 '한컴어시스턴트', '한컴피디아' 를 연이어 출시하며\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"이는 인공지능(AI), 클라우드 관련 수요 확대로 데이터센터 시스템과 소프트웨어 시장이 높은 성장률에 따른 전망입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"패키지\",\n      \"weight\": 0.98,\n      \"direction\": null,\n      \"evidence\": \"원재료 | 패키지 | 포장용 박스등 | 20,870,904 (98.6%) |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"지역 | 본점 | 지점 | 출장소 | 해외법인 | 합계 | 서울 | 1 | 1 | - | - | 2 | 계 | 1 | 1 | - | - | 2\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"조달금리\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"업권 내 경쟁 심화, 2022년 하반기 이후 조달금리의 급격한 상승 등은여신전문금융회사의 수익성 제한 요인이 되고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"부동산 경기\",\n      \"weight\": 0.6,\n      \"direction\": -1,\n      \"evidence\": \"또한 최근 부동산 경기 침체로 부동산 PF 부실 우려 및 취약계층 대출 연체 증가 등으로 인해 자산 건전성 악화가 우려되는 상황인 바\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/030520_20260318001305.txt"
+}

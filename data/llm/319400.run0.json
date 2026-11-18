@@ -1,0 +1,73 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "물류자동화 시스템",
+      "weight": 0.79,
+      "direction": null,
+      "evidence": "물류자동화 | 312,776,938 (79.4%) | 236,574,000 (69.3%) | 201,606,204 (75.3%) | 스토리지ㆍ이송ㆍ적재ㆍ전산 시스템 등"
+    },
+    {
+      "axis": "product",
+      "value": "승강장안전문",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "승강장안전문 (PSD) | 57,477,994 (14.6%) | 78,461,498 (23.0%) | 36,386,061 (13.6%) | 완전밀폐형, 반밀폐형, 난간형 등"
+    },
+    {
+      "axis": "product",
+      "value": "IT서비스",
+      "weight": 0.06,
+      "direction": null,
+      "evidence": "IT서비스 | 23,685,708 (6.0%) | 26,347,545 (7.7%) | 29,845,797 (11.1%) | IT 시스템 구축 및 운영 등"
+    },
+    {
+      "axis": "application",
+      "value": "물류센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근 전자상거래 확대, 빠른 배송에 대한 수요 증가, 글로벌 공급망의 복잡성 증가 등으로 인해 물류센터의 운영 효율성과 처리 속도를 높이기 위한 자동화 수요가 지속적으로 증가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "도시철도",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "승강장안전문은 국가 공공시설인 도시철도 승강장에 설치되어 이용객의 안전을 향상시키는 안전시설물입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "컨베이어기계",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "물류자동화 | 컨베이어기계, 제어전기, 랙, 기타 | 국내 | 168,541,944"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PSD 샤시",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "승강장 안전문 | PSD 샤시, 토목, 기계설치,기타 | 국내 | 14,135,789"
+    },
+    {
+      "axis": "region",
+      "value": "인천",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "인천청라 | 토지 | 인천 | 6,806,012"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "direction": -1,
+      "evidence": "회사의 위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있으며, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익(법인세비용 차감전)의 변화는 다음과 같습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"물류자동화 시스템\",\n      \"weight\": 0.79,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 | 312,776,938 (79.4%) | 236,574,000 (69.3%) | 201,606,204 (75.3%) | 스토리지ㆍ이송ㆍ적재ㆍ전산 시스템 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"승강장안전문\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"승강장안전문 (PSD) | 57,477,994 (14.6%) | 78,461,498 (23.0%) | 36,386,061 (13.6%) | 완전밀폐형, 반밀폐형, 난간형 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"IT서비스\",\n      \"weight\": 0.06,\n      \"direction\": null,\n      \"evidence\": \"IT서비스 | 23,685,708 (6.0%) | 26,347,545 (7.7%) | 29,845,797 (11.1%) | IT 시스템 구축 및 운영 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"물류센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 전자상거래 확대, 빠른 배송에 대한 수요 증가, 글로벌 공급망의 복잡성 증가 등으로 인해 물류센터의 운영 효율성과 처리 속도를 높이기 위한 자동화 수요가 지속적으로 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"도시철도\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"승강장안전문은 국가 공공시설인 도시철도 승강장에 설치되어 이용객의 안전을 향상시키는 안전시설물입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"컨베이어기계\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"물류자동화 | 컨베이어기계, 제어전기, 랙, 기타 | 국내 | 168,541,944\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PSD 샤시\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"승강장 안전문 | PSD 샤시, 토목, 기계설치,기타 | 국내 | 14,135,789\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인천\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"인천청라 | 토지 | 인천 | 6,806,012\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"direction\": -1,\n      \"evidence\": \"회사의 위험은 주로 인식된 자산과 부채의 환율변동과 관련하여 발생하고 있으며, 외화에 대한 원화환율이 10% 상승(하락)할 경우 당기손익(법인세비용 차감전)의 변화는 다음과 같습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/319400_20260318001359.txt"
+}

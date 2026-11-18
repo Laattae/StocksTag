@@ -1,0 +1,187 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "완성차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사와 연결 종속회사는 보고서 작성 기준일 현재 완성차 및 부분품의 제조ㆍ판매, 렌트 및 정비용역을 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "승용",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "RV",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "상용",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "친환경차",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "하이브리드 중심의 친환경차 판매 비중은 44.7%를 기록하며 전년동기 41.1% 대비 3.6%p 확대하며 판매의 질을 높였습니다."
+    },
+    {
+      "axis": "product",
+      "value": "PBV",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "EV 대중화 모델인 EV4, EV5와 당사 최초 전용 PBV인 PV5를 출시하여 국내 EV 시장점유율 1위를 달성하였습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "엔진",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "미션",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철판",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고"
+    },
+    {
+      "axis": "raw_material",
+      "value": "페인트",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고"
+    },
+    {
+      "axis": "customer",
+      "value": "현대모비스",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "주요 매입처 | 국내공장 | 부품 | 엔진, 미션, 모듈 등 | 487,286 | 91.4% | 현대모비스, 현대위아 등"
+    },
+    {
+      "axis": "customer",
+      "value": "현대제철",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "원자재 | 철판, 페인트 등 | 45,177 | 8.5% | 현대제철, 포스코 등"
+    },
+    {
+      "axis": "customer",
+      "value": "포스코",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "원자재 | 철판, 페인트 등 | 45,177 | 8.5% | 현대제철, 포스코 등"
+    },
+    {
+      "axis": "customer",
+      "value": "현대위아",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "주요 매입처 | 국내공장 | 부품 | 엔진, 미션, 모듈 등 | 487,286 | 91.4% | 현대모비스, 현대위아 등"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "국내 생산공장은 광명, 화성, 광주, 서산(위탁생산)에 위치해 있고"
+    },
+    {
+      "axis": "region",
+      "value": "광주",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "국내 생산공장은 광명, 화성, 광주, 서산(위탁생산)에 위치해 있고"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "슬로바키아",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "멕시코",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "'25년 연간 매출액은 수요기반 풀방식의 효율적인 인센티브 집행 및 우호적인 환율효과로 ASP 상승세를 지속하며"
+    },
+    {
+      "axis": "exposure",
+      "value": "관세",
+      "weight": 0.9,
+      "direction": -1,
+      "evidence": "영업이익의 경우, 2분기부터 본격화된 미국 관세 영향으로 매출원가가 크게 상승함에 따라"
+    },
+    {
+      "axis": "product",
+      "value": "자동차",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "자동차 산업에 관련된 법령이나 정부 규제는 자동차 안전기준 등의 안전 규제"
+    },
+    {
+      "axis": "product",
+      "value": "친환경차",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "친환경차 감면(하이브리드 70만원, 전기차 300만원, 수소연료전지차 400만원 한도)"
+    },
+    {
+      "axis": "exposure",
+      "value": "환경 규제",
+      "weight": 0.8,
+      "direction": -1,
+      "evidence": "최근 환경 규제는 각 국가별 탄소중립정책과 더불어 지속적으로 강화되고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "개별소비세",
+      "weight": 0.6,
+      "direction": 1,
+      "evidence": "2025년 1월 3일부터 2026년 6월말까지 100만원 한도내에서 30% 감면된 3.5%의 개별소비세가 적용되고 있습니다."
+    }
+  ],
+  "raw": [
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"완성차\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"당사와 연결 종속회사는 보고서 작성 기준일 현재 완성차 및 부분품의 제조ㆍ판매, 렌트 및 정비용역을 사업으로 영위하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"승용\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"RV\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"상용\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"주요 제품은 완성차로 승용, RV, 상용 등으로 구분하고 있습니다.\"}, {\"axis\": \"product\", \"value\": \"친환경차\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"하이브리드 중심의 친환경차 판매 비중은 44.7%를 기록하며 전년동기 41.1% 대비 3.6%p 확대하며 판매의 질을 높였습니다.\"}, {\"axis\": \"product\", \"value\": \"PBV\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"EV 대중화 모델인 EV4, EV5와 당사 최초 전용 PBV인 PV5를 출시하여 국내 EV 시장점유율 1위를 달성하였습니다.\"}, {\"axis\": \"raw_material\", \"value\": \"엔진\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고\"}, {\"axis\": \"raw_material\", \"value\": \"미션\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고\"}, {\"axis\": \"raw_material\", \"value\": \"철판\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고\"}, {\"axis\": \"raw_material\", \"value\": \"페인트\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"주요 원재료는 엔진, 미션, 모듈 등의 부품과 철판, 페인트 등의 원자재 및 기타로 구성되어 있고\"}, {\"axis\": \"customer\", \"value\": \"현대모비스\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"주요 매입처 | 국내공장 | 부품 | 엔진, 미션, 모듈 등 | 487,286 | 91.4% | 현대모비스, 현대위아 등\"}, {\"axis\": \"customer\", \"value\": \"현대제철\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"원자재 | 철판, 페인트 등 | 45,177 | 8.5% | 현대제철, 포스코 등\"}, {\"axis\": \"customer\", \"value\": \"포스코\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"원자재 | 철판, 페인트 등 | 45,177 | 8.5% | 현대제철, 포스코 등\"}, {\"axis\": \"customer\", \"value\": \"현대위아\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"주요 매입처 | 국내공장 | 부품 | 엔진, 미션, 모듈 등 | 487,286 | 91.4% | 현대모비스, 현대위아 등\"}, {\"axis\": \"region\", \"value\": \"경기\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"국내 생산공장은 광명, 화성, 광주, 서산(위탁생산)에 위치해 있고\"}, {\"axis\": \"region\", \"value\": \"광주\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"국내 생산공장은 광명, 화성, 광주, 서산(위탁생산)에 위치해 있고\"}, {\"axis\": \"region\", \"value\": \"미국\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다.\"}, {\"axis\": \"region\", \"value\": \"슬로바키아\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다.\"}, {\"axis\": \"region\", \"value\": \"멕시코\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"해외 생산공장은 미국, 슬로바키아, 멕시코, 인도, 중국(연결 제외)에 위치해 있습니다.\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.8, \"direction\": 1, \"evidence\": \"'25년 연간 매출액은 수요기반 풀방식의 효율적인 인센티브 집행 및 우호적인 환율효과로 ASP 상승세를 지속하며\"}, {\"axis\": \"exposure\", \"value\": \"관세\", \"weight\": 0.9, \"direction\": -1, \"evidence\": \"영업이익의 경우, 2분기부터 본격화된 미국 관세 영향으로 매출원가가 크게 상승함에 따라\"}]}",
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"자동차\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"자동차 산업에 관련된 법령이나 정부 규제는 자동차 안전기준 등의 안전 규제\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"친환경차\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"친환경차 감면(하이브리드 70만원, 전기차 300만원, 수소연료전지차 400만원 한도)\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환경 규제\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"최근 환경 규제는 각 국가별 탄소중립정책과 더불어 지속적으로 강화되고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"개별소비세\",\n      \"weight\": 0.6,\n      \"direction\": 1,\n      \"evidence\": \"2025년 1월 3일부터 2026년 6월말까지 100만원 한도내에서 30% 감면된 3.5%의 개별소비세가 적용되고 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/000270_20260312001224.txt"
+}

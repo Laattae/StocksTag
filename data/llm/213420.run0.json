@@ -1,0 +1,101 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "OLED 유기재료",
+      "weight": 0.588,
+      "direction": null,
+      "evidence": "당사는 OLED의 핵심 구성요소인 유기재료를 생산하는 회사입니다."
+    },
+    {
+      "axis": "product",
+      "value": "펌프 및 압축기",
+      "weight": 0.412,
+      "direction": null,
+      "evidence": "현대중공업터보기계는 펌프 및 압축기로 시장 상황 및 고객사 동향"
+    },
+    {
+      "axis": "application",
+      "value": "스마트폰",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "스마트폰 oled 침투율 전망치와 it용 oled 패널 출하량 전망"
+    },
+    {
+      "axis": "application",
+      "value": "조선",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "현대중공업터보기계(주)는 국내 유일의 펌프 및 압축기를 아우르는 대형 터보기계 종합 공급업체로서 조선ㆍ해양, 에너지ㆍ발전, 석유화학 등 다양한 전방산업에 핵심기자재인 터보기계를 제공하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "발전소",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "산업용 터보기계 부문에서는 발전소ㆍ플랜트 등에 사용되는 대형 산업용 펌프와 가스/공기 압축기등을 공급하고 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "삼성디스플레이",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "덕산네오룩스(주)는 디스플레이 소재 재료 매출은 주로 삼성디스플레이와 기타 해외업체 등으로 이루어져 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "사우디 Aramco",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "석유화학플랜트용 API672 공기압축기의 사우디 Aramco 공급자 등록 등 높은 진입장벽을 요구하는 시장에서 차별화된 경쟁력을 확보하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국가스공사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "최근 한국가스공사와 협력하여 외산에만 100% 의존하고 있었던 국내 LNG터미널용 극저온 펌프의 국산화에 성공하였습니다."
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써"
+    },
+    {
+      "axis": "region",
+      "value": "경주",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "당사의 매출은 수출 비중이 높으며, 외화 수금이 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 환리스크 관리의 주요 대상입니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "덕산네오룩스(주)의 주요 제품은 화학소재로서 수요업체의 상황, 제품의 조성, 제품 사이즈, 원자재 가격 등 여러가지 요인에 따라 제품 가격이 다르게 책정되므로"
+    },
+    {
+      "axis": "exposure",
+      "value": "이자율",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며"
+    }
+  ],
+  "raw": [
+    "```json\n{\"tags\": [{\"axis\": \"product\", \"value\": \"OLED 유기재료\", \"weight\": 0.588, \"direction\": null, \"evidence\": \"당사는 OLED의 핵심 구성요소인 유기재료를 생산하는 회사입니다.\"}, {\"axis\": \"product\", \"value\": \"펌프 및 압축기\", \"weight\": 0.412, \"direction\": null, \"evidence\": \"현대중공업터보기계는 펌프 및 압축기로 시장 상황 및 고객사 동향\"}, {\"axis\": \"application\", \"value\": \"스마트폰\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"스마트폰 oled 침투율 전망치와 it용 oled 패널 출하량 전망\"}, {\"axis\": \"application\", \"value\": \"조선\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"현대중공업터보기계(주)는 국내 유일의 펌프 및 압축기를 아우르는 대형 터보기계 종합 공급업체로서 조선ㆍ해양, 에너지ㆍ발전, 석유화학 등 다양한 전방산업에 핵심기자재인 터보기계를 제공하고 있습니다.\"}, {\"axis\": \"application\", \"value\": \"발전소\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"산업용 터보기계 부문에서는 발전소ㆍ플랜트 등에 사용되는 대형 산업용 펌프와 가스/공기 압축기등을 공급하고 있으며\"}, {\"axis\": \"customer\", \"value\": \"삼성디스플레이\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"덕산네오룩스(주)는 디스플레이 소재 재료 매출은 주로 삼성디스플레이와 기타 해외업체 등으로 이루어져 있으며\"}, {\"axis\": \"customer\", \"value\": \"사우디 Aramco\", \"weight\": 0.3, \"direction\": null, \"evidence\": \"석유화학플랜트용 API672 공기압축기의 사우디 Aramco 공급자 등록 등 높은 진입장벽을 요구하는 시장에서 차별화된 경쟁력을 확보하고 있습니다.\"}, {\"axis\": \"customer\", \"value\": \"한국가스공사\", \"weight\": 0.2, \"direction\": null, \"evidence\": \"최근 한국가스공사와 협력하여 외산에만 100% 의존하고 있었던 국내 LNG터미널용 극저온 펌프의 국산화에 성공하였습니다.\"}, {\"axis\": \"region\", \"value\": \"울산\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써\"}, {\"axis\": \"region\", \"value\": \"경주\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"울산 본사와 경주사업장에 세계적 수준의 시험 설비(Test Bed)를 보유함으로써\"}, {\"axis\": \"exposure\", \"value\": \"환율\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"당사의 매출은 수출 비중이 높으며, 외화 수금이 외화 지출보다 많은 현금흐름을 가지고 있으므로 환율 하락에 따른 환차손이 환리스크 관리의 주요 대상입니다.\"}, {\"axis\": \"exposure\", \"value\": \"원자재 가격\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"덕산네오룩스(주)의 주요 제품은 화학소재로서 수요업체의 상황, 제품의 조성, 제품 사이즈, 원자재 가격 등 여러가지 요인에 따라 제품 가격이 다르게 책정되므로\"}, {\"axis\": \"exposure\", \"value\": \"이자율\", \"weight\": 0.4, \"direction\": null, \"evidence\": \"이자율위험은 미래의 시장 이자율 변동에 따라 예금 또는 차입금 등에서 발생하는 이자수익 및 이자비용이 변동될 위험을 뜻하며\"}]}\n```"
+  ],
+  "text_path": "data/reports/213420_20260318001436.txt"
+}

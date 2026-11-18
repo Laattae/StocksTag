@@ -1,0 +1,129 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "반도체 패키징",
+      "weight": 0.75,
+      "direction": null,
+      "evidence": "당사 및 주요종속회사는 현재 반도체 제품(패키징) 생산 및 반도체 재료(반도체 식각공정용 실리콘 Part)제품의 생산을 주요 사업으로 영위하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "실리콘부품",
+      "weight": 0.16,
+      "direction": null,
+      "evidence": "반도체재료 | 제품외 | 실리콘부품 | 반도체 공정소모품 | - | 239,818,300 | 15.6"
+    },
+    {
+      "axis": "application",
+      "value": "모바일기기",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 반도체 FAB의 가동률이 부품의 수요에 가장 큰 영향요인으로 FAB 가동률이 높을수록 부품의 사용빈도가 증가합니다. 또한 FAB 투자규모의 증가에 따라 영향력이 있으며, FAB 투자를 결정하는 가장 큰 요인은 D램, NAND, 시스템반도체 등 반도체 소자를 사용하는 모바일기기, 휴대폰, 태블릿, PC, 서버 등 전자제품 수요 및 국내외 경기의 영향을 받게 됩니다."
+    },
+    {
+      "axis": "application",
+      "value": "서버",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "또한 반도체 FAB의 가동률이 부품의 수요에 가장 큰 영향요인으로 FAB 가동률이 높을수록 부품의 사용빈도가 증가합니다. 또한 FAB 투자규모의 증가에 따라 영향력이 있으며, FAB 투자를 결정하는 가장 큰 요인은 D램, NAND, 시스템반도체 등 반도체 소자를 사용하는 모바일기기, 휴대폰, 태블릿, PC, 서버 등 전자제품 수요 및 국내외 경기의 영향을 받게 됩니다."
+    },
+    {
+      "axis": "customer",
+      "value": "삼성전자",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며 이러한 추세는 앞으로도 지속될 것으로 전망하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "SK하이닉스",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며 이러한 추세는 앞으로도 지속될 것으로 전망하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "Tokyo Electron",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "또한 당사는 Tokyo Electron, 세메스를 비롯한 장비제조업체와 삼성전자등 반도체 제조업체를 고객으로 확보하고 있어 기술력과 품질수준은 검증되어 있으며"
+    },
+    {
+      "axis": "customer",
+      "value": "Applied Materials",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "2012.03.06 | 자동연장 | Applied Materials, Inc | 물품거래기본계약서(Electrode,Ring등) | -"
+    },
+    {
+      "axis": "raw_material",
+      "value": "PCB",
+      "weight": 0.35,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | PCB | BGA계열 제품용 인쇄회로기판 | 345,200 | - | 35.39%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "Wafer",
+      "weight": 0.14,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | Wafer | 반도체 소자의 재료 | 135,586 | - | 13.90%"
+    },
+    {
+      "axis": "raw_material",
+      "value": "소자",
+      "weight": 0.42,
+      "direction": null,
+      "evidence": "반도체제조 | 원재료 | 소자 | 반도체 물질로 전자회로를 구성 | 407,148 | - | 41.74%"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "브라질",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "브라질과 베트남에 현지법인을 두고 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "베트남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "브라질과 베트남에 현지법인을 두고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "반도체 업황",
+      "weight": 0.8,
+      "direction": 1,
+      "evidence": "- 반도체재료: 반도체 업황에 따른 시장수급에 의한 가격결정요인이 큼."
+    }
+  ],
+  "raw": [
+    "```json\n{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"반도체 패키징\",\n      \"weight\": 0.75,\n      \"direction\": null,\n      \"evidence\": \"당사 및 주요종속회사는 현재 반도체 제품(패키징) 생산 및 반도체 재료(반도체 식각공정용 실리콘 Part)제품의 생산을 주요 사업으로 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"실리콘부품\",\n      \"weight\": 0.16,\n      \"direction\": null,\n      \"evidence\": \"반도체재료 | 제품외 | 실리콘부품 | 반도체 공정소모품 | - | 239,818,300 | 15.6\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"모바일기기\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 반도체 FAB의 가동률이 부품의 수요에 가장 큰 영향요인으로 FAB 가동률이 높을수록 부품의 사용빈도가 증가합니다. 또한 FAB 투자규모의 증가에 따라 영향력이 있으며, FAB 투자를 결정하는 가장 큰 요인은 D램, NAND, 시스템반도체 등 반도체 소자를 사용하는 모바일기기, 휴대폰, 태블릿, PC, 서버 등 전자제품 수요 및 국내외 경기의 영향을 받게 됩니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"서버\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"또한 반도체 FAB의 가동률이 부품의 수요에 가장 큰 영향요인으로 FAB 가동률이 높을수록 부품의 사용빈도가 증가합니다. 또한 FAB 투자규모의 증가에 따라 영향력이 있으며, FAB 투자를 결정하는 가장 큰 요인은 D램, NAND, 시스템반도체 등 반도체 소자를 사용하는 모바일기기, 휴대폰, 태블릿, PC, 서버 등 전자제품 수요 및 국내외 경기의 영향을 받게 됩니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"삼성전자\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며 이러한 추세는 앞으로도 지속될 것으로 전망하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"SK하이닉스\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사는 현재 최고의 품질과 원가경쟁력으로 삼성전자, 하이닉스 등 종합반도체회사로부터의 수주량 및 수주제품군이 지속적으로 증가하고 있으며 이러한 추세는 앞으로도 지속될 것으로 전망하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Tokyo Electron\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"또한 당사는 Tokyo Electron, 세메스를 비롯한 장비제조업체와 삼성전자등 반도체 제조업체를 고객으로 확보하고 있어 기술력과 품질수준은 검증되어 있으며\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"Applied Materials\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"2012.03.06 | 자동연장 | Applied Materials, Inc | 물품거래기본계약서(Electrode,Ring등) | -\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"PCB\",\n      \"weight\": 0.35,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | PCB | BGA계열 제품용 인쇄회로기판 | 345,200 | - | 35.39%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"Wafer\",\n      \"weight\": 0.14,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | Wafer | 반도체 소자의 재료 | 135,586 | - | 13.90%\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"소자\",\n      \"weight\": 0.42,\n      \"direction\": null,\n      \"evidence\": \"반도체제조 | 원재료 | 소자 | 반도체 물질로 전자회로를 구성 | 407,148 | - | 41.74%\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"반도체 제조 사업부문은 충남 아산에 제조시설, 경기 성남 분당구에 R&D 센터를 두고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"브라질\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"브라질과 베트남에 현지법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"베트남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"브라질과 베트남에 현지법인을 두고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"연결실체는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"반도체 업황\",\n      \"weight\": 0.8,\n      \"direction\": 1,\n      \"evidence\": \"- 반도체재료: 반도체 업황에 따른 시장수급에 의한 가격결정요인이 큼.\"\n    }\n  ]\n}\n```"
+  ],
+  "text_path": "data/reports/067310_20260319000032.txt"
+}

@@ -1,0 +1,151 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "모듈부품",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "모듈부품4WD 부품등속조인트엔진열관리부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "4WD 부품",
+      "weight": 0.25,
+      "direction": null,
+      "evidence": "모듈부품4WD 부품등속조인트엔진열관리부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "등속조인트",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "모듈부품4WD 부품등속조인트엔진열관리부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "엔진",
+      "weight": 0.15,
+      "direction": null,
+      "evidence": "모듈부품4WD 부품등속조인트엔진열관리부품 등"
+    },
+    {
+      "axis": "product",
+      "value": "열관리부품",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "모듈부품4WD 부품등속조인트엔진열관리부품 등"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사는 자동차 부품의 기초 소재 가공부터 엔진, 모듈, 등속조인트, 4WD 부품 등 핵심 부품을 모두 자체 생산할 수 있는 경쟁력을 바탕으로"
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "한편, 당사는 방위산업 분야에서 국내 유일의 화포 제작 전문업체로서, 우수한 품질과 신뢰성을 인정받고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "현대자동차",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "당사의 최대 고객사인 현대자동차ㆍ기아와 업무 협력과 고객사 신규 차종 개발에 대한 요구사항 충족 등 공급관계를 강화함과 동시에"
+    },
+    {
+      "axis": "customer",
+      "value": "기아",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "당사의 최대 고객사인 현대자동차ㆍ기아와 업무 협력과 고객사 신규 차종 개발에 대한 요구사항 충족 등 공급관계를 강화함과 동시에"
+    },
+    {
+      "axis": "raw_material",
+      "value": "알루미늄",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "알루미늄 | USD/TON | 2,632 | 2,419 | 2,231 | LME 고시 기준"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "구리 | USD/TON | 9,945 | 9,147 | 8,476 | LME 고시 기준"
+    },
+    {
+      "axis": "raw_material",
+      "value": "철광석",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "철광석 | USD/TON | 106 | 110 | 120 | 스틸 데일리 DB 기준 (Platts)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "특수강",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "특수강 | WON/KG | 1,517 | 1,552 | 1,626 | HMC 고시 기준 (합금강 평균가)"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 생산거점은 창원, 평택, 서산, 울산, 안산, 광주(종속회사 포함)에 위치하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "울산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국내 생산거점은 창원, 평택, 서산, 울산, 안산, 광주(종속회사 포함)에 위치하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며"
+    },
+    {
+      "axis": "region",
+      "value": "멕시코",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사(연결실체)는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "제품의 가격을 구성하는 요소 중 재료비(원재료)가 상당한 비중을 차지하고 있기 때문에 그 변동이 있을 경우 가격이 변동될 수 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"모듈부품\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"모듈부품4WD 부품등속조인트엔진열관리부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"4WD 부품\",\n      \"weight\": 0.25,\n      \"direction\": null,\n      \"evidence\": \"모듈부품4WD 부품등속조인트엔진열관리부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"등속조인트\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"모듈부품4WD 부품등속조인트엔진열관리부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"엔진\",\n      \"weight\": 0.15,\n      \"direction\": null,\n      \"evidence\": \"모듈부품4WD 부품등속조인트엔진열관리부품 등\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"열관리부품\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"모듈부품4WD 부품등속조인트엔진열관리부품 등\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사는 자동차 부품의 기초 소재 가공부터 엔진, 모듈, 등속조인트, 4WD 부품 등 핵심 부품을 모두 자체 생산할 수 있는 경쟁력을 바탕으로\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"한편, 당사는 방위산업 분야에서 국내 유일의 화포 제작 전문업체로서, 우수한 품질과 신뢰성을 인정받고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"현대자동차\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"당사의 최대 고객사인 현대자동차ㆍ기아와 업무 협력과 고객사 신규 차종 개발에 대한 요구사항 충족 등 공급관계를 강화함과 동시에\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"기아\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사의 최대 고객사인 현대자동차ㆍ기아와 업무 협력과 고객사 신규 차종 개발에 대한 요구사항 충족 등 공급관계를 강화함과 동시에\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"알루미늄\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"알루미늄 | USD/TON | 2,632 | 2,419 | 2,231 | LME 고시 기준\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"구리 | USD/TON | 9,945 | 9,147 | 8,476 | LME 고시 기준\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"철광석\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"철광석 | USD/TON | 106 | 110 | 120 | 스틸 데일리 DB 기준 (Platts)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"특수강\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"특수강 | WON/KG | 1,517 | 1,552 | 1,626 | HMC 고시 기준 (합금강 평균가)\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 생산거점은 창원, 평택, 서산, 울산, 안산, 광주(종속회사 포함)에 위치하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"울산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국내 생산거점은 창원, 평택, 서산, 울산, 안산, 광주(종속회사 포함)에 위치하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"멕시코\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"현재 당사는 국내를 포함하여 미국, 중국, 멕시코, 인도, 러시아, 슬로바키아 총 7개국에 13개 생산 거점을 운영하고 있으며\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사(연결실체)는 외화로 표시된 거래를 수행하고 있으므로 환율변동으로 인한 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"제품의 가격을 구성하는 요소 중 재료비(원재료)가 상당한 비중을 차지하고 있기 때문에 그 변동이 있을 경우 가격이 변동될 수 있습니다.\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/011210_20260317000785.txt"
+}

@@ -1,0 +1,137 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 1,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "방산물자",
+      "weight": 0.55,
+      "direction": null,
+      "evidence": "디펜스솔루션 부문 | 제품 | 방산물자 | 32,153 | 55% |"
+    },
+    {
+      "axis": "product",
+      "value": "전동차",
+      "weight": 0.36,
+      "direction": null,
+      "evidence": "레일솔루션 부문 | 상품 ·제품 | 전동차 | 20,896 | 36% |"
+    },
+    {
+      "axis": "product",
+      "value": "제철프레스환경운반설비",
+      "weight": 0.09,
+      "direction": null,
+      "evidence": "에코플랜트 부문 | 제품 | 제철프레스환경운반설비 | 5,341 | 9% |"
+    },
+    {
+      "axis": "product",
+      "value": "K2전차",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "세계적인 수준의 성능을 갖춘 K2전차를 성공적으로 개발 완료하여 K1A1전차 이후 지상군 핵심 전투력 증강을 위한 양산/전력화 사업을 진행하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "차륜형장갑차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "국방개혁 기조에 따라 우리군의 기동성 향상을 위하여 독자 개발을 완료한 차륜형장갑차는 현대차그룹의 차량 관련 기술을 접목하여 지속적인 경쟁 우위를 확보해 나가고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "고속전철",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "레일솔루션사업본부는 국내를 넘어 세계시장에 고속전철, 전동차, 경전철, 트램 등 각종 철도차량을 공급하고 있으며"
+    },
+    {
+      "axis": "product",
+      "value": "수소트램",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "울산 장생포선 수소트램 사업 계약을 체결하였습니다. 아울러 울산, 성남, 제주 등의 자치단체에서도 수소트램 도입을 계획하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "무인항만로봇",
+      "weight": 0.1,
+      "direction": null,
+      "evidence": "국내 최초 무인항만로봇 공급 성과를 기점으로 무인소방로봇 등 다목적 무인차량 기반의 피지컬 AI(Physical AI) 시장 개척에 박차를 가하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "방위산업",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "디펜스솔루션사업본부는 지상무기체계의 연구개발 및 생산을 담당하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철도산업",
+      "weight": 0.4,
+      "direction": null,
+      "evidence": "국가 기간산업인 고속철 등 종합철도차량 제조, 철도시스템 솔루션, 철도 운영 및 유지보수 등을 영위하고 있는 레일솔루션 사업"
+    },
+    {
+      "axis": "application",
+      "value": "자동차",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에코플랜트사업본부는 오랜 기간 검증된 기술력을 바탕으로 국내ㆍ외 철강 및 자동차 생산 인프라 구축을 성공적으로 수행해 왔습니다."
+    },
+    {
+      "axis": "application",
+      "value": "철강",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "에코플랜트사업본부는 오랜 기간 검증된 기술력을 바탕으로 국내ㆍ외 철강 및 자동차 생산 인프라 구축을 성공적으로 수행해 왔습니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "금속소재",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "레일솔루션부문 외 | 원재료 | 금속소재 등 | 차 등 | 2,545,223(45%) | 현대비앤지스틸(특수관계인) 외"
+    },
+    {
+      "axis": "raw_material",
+      "value": "니켈",
+      "weight": 0.3,
+      "direction": 1,
+      "evidence": "변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "① 레일솔루션 부문 : 창원공장- 생산능력 : 552량- 생산능력 산출기준 : 철도차량 의장 연간 생산기준"
+    },
+    {
+      "axis": "region",
+      "value": "충남",
+      "weight": 0.5,
+      "direction": null,
+      "evidence": "② 에코플랜트 부문 : 에코제철공장 (당진공장)- 생산능력 : 10,800톤- 생산능력 산출기준 : 에코제철공장(당진공장) 용접물량 기준"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승"
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.5,
+      "direction": 1,
+      "evidence": "변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승"
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"방산물자\",\n      \"weight\": 0.55,\n      \"direction\": null,\n      \"evidence\": \"디펜스솔루션 부문 | 제품 | 방산물자 | 32,153 | 55% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동차\",\n      \"weight\": 0.36,\n      \"direction\": null,\n      \"evidence\": \"레일솔루션 부문 | 상품 ·제품 | 전동차 | 20,896 | 36% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"제철프레스환경운반설비\",\n      \"weight\": 0.09,\n      \"direction\": null,\n      \"evidence\": \"에코플랜트 부문 | 제품 | 제철프레스환경운반설비 | 5,341 | 9% |\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"K2전차\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"세계적인 수준의 성능을 갖춘 K2전차를 성공적으로 개발 완료하여 K1A1전차 이후 지상군 핵심 전투력 증강을 위한 양산/전력화 사업을 진행하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차륜형장갑차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"국방개혁 기조에 따라 우리군의 기동성 향상을 위하여 독자 개발을 완료한 차륜형장갑차는 현대차그룹의 차량 관련 기술을 접목하여 지속적인 경쟁 우위를 확보해 나가고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"고속전철\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"레일솔루션사업본부는 국내를 넘어 세계시장에 고속전철, 전동차, 경전철, 트램 등 각종 철도차량을 공급하고 있으며\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소트램\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"울산 장생포선 수소트램 사업 계약을 체결하였습니다. 아울러 울산, 성남, 제주 등의 자치단체에서도 수소트램 도입을 계획하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"무인항만로봇\",\n      \"weight\": 0.1,\n      \"direction\": null,\n      \"evidence\": \"국내 최초 무인항만로봇 공급 성과를 기점으로 무인소방로봇 등 다목적 무인차량 기반의 피지컬 AI(Physical AI) 시장 개척에 박차를 가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"방위산업\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"디펜스솔루션사업본부는 지상무기체계의 연구개발 및 생산을 담당하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철도산업\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"국가 기간산업인 고속철 등 종합철도차량 제조, 철도시스템 솔루션, 철도 운영 및 유지보수 등을 영위하고 있는 레일솔루션 사업\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"자동차\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"에코플랜트사업본부는 오랜 기간 검증된 기술력을 바탕으로 국내ㆍ외 철강 및 자동차 생산 인프라 구축을 성공적으로 수행해 왔습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"철강\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"에코플랜트사업본부는 오랜 기간 검증된 기술력을 바탕으로 국내ㆍ외 철강 및 자동차 생산 인프라 구축을 성공적으로 수행해 왔습니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"금속소재\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"레일솔루션부문 외 | 원재료 | 금속소재 등 | 차 등 | 2,545,223(45%) | 현대비앤지스틸(특수관계인) 외\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"니켈\",\n      \"weight\": 0.3,\n      \"direction\": 1,\n      \"evidence\": \"변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"① 레일솔루션 부문 : 창원공장- 생산능력 : 552량- 생산능력 산출기준 : 철도차량 의장 연간 생산기준\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"충남\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"② 에코플랜트 부문 : 에코제철공장 (당진공장)- 생산능력 : 10,800톤- 생산능력 산출기준 : 에코제철공장(당진공장) 용접물량 기준\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.5,\n      \"direction\": 1,\n      \"evidence\": \"변동원인 : 환율 상승 및 니켈 등 주요 원료가격 상승\"\n    }\n  ]\n}"
+  ],
+  "text_path": "data/reports/064350_20260319001275.txt"
+}

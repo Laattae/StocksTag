@@ -1,0 +1,159 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": 2,
+  "parts": 2,
+  "tags": [
+    {
+      "axis": "product",
+      "value": "빙과",
+      "weight": 0.239,
+      "direction": null,
+      "evidence": "빙과, 기타 | 월드콘,설레임 등 | 784,854 (23.9%)"
+    },
+    {
+      "axis": "product",
+      "value": "유지식품",
+      "weight": 0.219,
+      "direction": null,
+      "evidence": "유지식품 등 | 그랜드 마아가린 등 | 717,750(21.9%)"
+    },
+    {
+      "axis": "product",
+      "value": "비스킷",
+      "weight": 0.101,
+      "direction": null,
+      "evidence": "비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "초콜릿",
+      "weight": 0.101,
+      "direction": null,
+      "evidence": "비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "육가공",
+      "weight": 0.144,
+      "direction": null,
+      "evidence": "육가공 등 | 로스팜 등 | 473,065(14.4%)"
+    },
+    {
+      "axis": "product",
+      "value": "껌",
+      "weight": 0.026,
+      "direction": null,
+      "evidence": "식품제조 및 판매업 | 제 품 | 껌, 캔디 | 내 수 및 수 출 | 자일리톨,애니타임 등 | 169,098 (5.2%)"
+    },
+    {
+      "axis": "product",
+      "value": "캔디",
+      "weight": 0.026,
+      "direction": null,
+      "evidence": "식품제조 및 판매업 | 제 품 | 껌, 캔디 | 내 수 및 수 출 | 자일리톨,애니타임 등 | 169,098 (5.2%)"
+    },
+    {
+      "axis": "raw_material",
+      "value": "설탕",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "가공버터",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "유제품류 | 6,673 | 5,539 | 5,747 | HAVERO, CAMPINA, DMK 外 | 가공버터, 전지분유 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "코코아 원두",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "코코아류 | 15,522 | 8,718 | 4,228 | OLAM, BC, CARGILL 外 | 코코아 원두, 분말 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "대두유",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "유지원유 | 2,088 | 1,548 | 2,649 | 롯데상사, Bunge 外 | 대두유, 팜유, 야자유"
+    },
+    {
+      "axis": "raw_material",
+      "value": "수입전지",
+      "weight": 0.3,
+      "direction": null,
+      "evidence": "육가공류 | 4,826 | 4,573 | 5,002 | Smithfield, JBS 外 | 수입전지, 국산후지"
+    },
+    {
+      "axis": "customer",
+      "value": "대한제당",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등"
+    },
+    {
+      "axis": "customer",
+      "value": "대상",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등"
+    },
+    {
+      "axis": "customer",
+      "value": "롯데상사",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "유지원유 | 2,088 | 1,548 | 2,649 | 롯데상사, Bunge 外 | 대두유, 팜유, 야자유"
+    },
+    {
+      "axis": "region",
+      "value": "서울",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "당사는 서울에 위치한 본사를 포함하여 국내에 총 12개 생산공장(영등포, 평택, 대전,양산, 부산, 수원 등)과 각 시, 군에 물류창고, 영업지사 및 영업지점 등 국내사업장이있으며"
+    },
+    {
+      "axis": "region",
+      "value": "경기",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "평택공장 | 경기도 평택시 진위면 경기대로 1952 |"
+    },
+    {
+      "axis": "region",
+      "value": "대전",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "대전공장 | 대전광역시 대덕구 문평동로18번길 21 |"
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "양산공장 | 경상남도 양산시 양산대로 1158 |"
+    },
+    {
+      "axis": "region",
+      "value": "부산",
+      "weight": 0.2,
+      "direction": null,
+      "evidence": "부산공장 | 부산광역시 기장군 정관읍 산단2로 11 |"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.5,
+      "direction": -1,
+      "evidence": "당사는 외화사채 발행 및 국제적 영업활동으로 인하여 환율변동위험에 노출되어 있습니다."
+    }
+  ],
+  "raw": [
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"빙과\",\n      \"weight\": 0.239,\n      \"direction\": null,\n      \"evidence\": \"빙과, 기타 | 월드콘,설레임 등 | 784,854 (23.9%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"유지식품\",\n      \"weight\": 0.219,\n      \"direction\": null,\n      \"evidence\": \"유지식품 등 | 그랜드 마아가린 등 | 717,750(21.9%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"비스킷\",\n      \"weight\": 0.101,\n      \"direction\": null,\n      \"evidence\": \"비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"초콜릿\",\n      \"weight\": 0.101,\n      \"direction\": null,\n      \"evidence\": \"비스킷, 초콜릿 | 마가렛트,빼빼로 등 | 664,747(20.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"육가공\",\n      \"weight\": 0.144,\n      \"direction\": null,\n      \"evidence\": \"육가공 등 | 로스팜 등 | 473,065(14.4%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"껌\",\n      \"weight\": 0.026,\n      \"direction\": null,\n      \"evidence\": \"식품제조 및 판매업 | 제 품 | 껌, 캔디 | 내 수 및 수 출 | 자일리톨,애니타임 등 | 169,098 (5.2%)\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"캔디\",\n      \"weight\": 0.026,\n      \"direction\": null,\n      \"evidence\": \"식품제조 및 판매업 | 제 품 | 껌, 캔디 | 내 수 및 수 출 | 자일리톨,애니타임 등 | 169,098 (5.2%)\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"설탕\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"가공버터\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"유제품류 | 6,673 | 5,539 | 5,747 | HAVERO, CAMPINA, DMK 外 | 가공버터, 전지분유 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"코코아 원두\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"코코아류 | 15,522 | 8,718 | 4,228 | OLAM, BC, CARGILL 外 | 코코아 원두, 분말 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"대두유\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"유지원유 | 2,088 | 1,548 | 2,649 | 롯데상사, Bunge 外 | 대두유, 팜유, 야자유\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"수입전지\",\n      \"weight\": 0.3,\n      \"direction\": null,\n      \"evidence\": \"육가공류 | 4,826 | 4,573 | 5,002 | Smithfield, JBS 外 | 수입전지, 국산후지\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대한제당\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"대상\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당류 | 1,100 | 1,164 | 1,044 | 대한제당, 대상 外 | 설탕, 전분당, 대체당 등\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"롯데상사\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"유지원유 | 2,088 | 1,548 | 2,649 | 롯데상사, Bunge 外 | 대두유, 팜유, 야자유\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"서울\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"당사는 서울에 위치한 본사를 포함하여 국내에 총 12개 생산공장(영등포, 평택, 대전,양산, 부산, 수원 등)과 각 시, 군에 물류창고, 영업지사 및 영업지점 등 국내사업장이있으며\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경기\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"평택공장 | 경기도 평택시 진위면 경기대로 1952 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"대전\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"대전공장 | 대전광역시 대덕구 문평동로18번길 21 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"양산공장 | 경상남도 양산시 양산대로 1158 |\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"부산\",\n      \"weight\": 0.2,\n      \"direction\": null,\n      \"evidence\": \"부산공장 | 부산광역시 기장군 정관읍 산단2로 11 |\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.5,\n      \"direction\": -1,\n      \"evidence\": \"당사는 외화사채 발행 및 국제적 영업활동으로 인하여 환율변동위험에 노출되어 있습니다.\"\n    }\n  ]\n}",
+    "{\"tags\": [{\"axis\": \"product\", \"value\": \"\\ubacca\", \"weight\": 0.9, \"direction\": null, \"evidence\": \"\\ub2f9\\uc0ac\\ub294 \\ud604\\uc7ac \\uaecd, \\uce94\\ub514, \\ucd08\\ucf5c\\ub9bf, \\ube44\\uc2a4\\ud0b7 \\ubd84\\uc57c\\uc5d0\\uc11c \\uac15\\uc8\\uc744 \\ubcf4\\uc720\\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}, {\"axis\": \"product\", \"value\": \"\\uc790\\uc77c\\ub9ac\\ud1a8\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\ud2b9\\ud788, \\uc790\\uc77c\\ub9ac\\ud1a8, \\uac00\\ub098 \\ub4f1 \\uac15\\ub825\\ud55c \\ube0c\\ub79c\\ub4dc\\ub97c \\uae30\\ubc18\\uc73c\\ub85c \\uaecd \\ubc0f \\ucd08\\ucf5c\\ub9bf \\uc2dc\\uc7a5\\uc744 \\uc120\\ub3c4\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"product\", \"value\": \"\\ucd08\\ucf5c\\ub9bf\", \"weight\": 0.8, \"direction\": null, \"evidence\": \"\\ud2b9\\ud788, \\uc790\\uc77c\\ub9ac\\ud1a8, \\uac00\\ub098 \\ub4f1 \\uac15\\ub825\\ud55c \\ube0c\\ub79c\\ub4dc\\ub97c \\uae30\\ubc18\\uc73c\\ub85c \\uaecd \\ubc0f \\ucd08\\ucf5c\\ub9bf \\uc2dc\\uc7a5\\uc744 \\uc120\\ub3c4\\ud558\\uace0 \\uc788\\uc73c\\uba70\"}, {\"axis\": \"product\", \"value\": \"\\ube44\\uc2a4\\ud0b7\", \"weight\": 0.7, \"direction\": null, \"evidence\": \"\\ub2f9\\uc0ac\\ub294 \\ud604\\uc7ac \\uaecd, \\uce94\\ub514, \\ucd08\\ucf5c\\ub9bf, \\ube44\\uc2a4\\ud0b7 \\ubd84\\uc57c\\uc5d0\\uc11c \\uac15\\uc8\\uc744 \\ubcf4\\uc720\\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}, {\"axis\": \"product\", \"value\": \"\\uc720\\uc81c\\ud488\", \"weight\": 0.6, \"direction\": null, \"evidence\": \"\\uad6d\\ub0b4 \\uc720\\uac00\\uacf5 \\uc2dc\\uc7a5\\uc748 \\uacbd\\uc6b0, \\ucd9c\\uc0b0\\uc728 \\uc800\\ud558\\uc640 \\uc6d0\\uc720 \\uac00\\uaca9 \\uc0c1\\uc2b9 \\ub4f1\\uc758 \\uad6c\\uc870\\uc801 \\uc694\\uc778\\uc73c\\ub85c \\uc778\\ud574 \\uc8전\\ud1b5\\uc801\\uc778 \\uc6b0\\uc720 \\uc18c\\ube44\\ub294 \\uc815\\uccb4\\ub418\\uace0 \\uc788\\uc73c\\ub098\"}, {\"axis\": \"raw_material\", \"value\": \"\\ucf54\\ucf54\\uc542 \\uc6d0\\ub450\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"\\uc774\\uc5d0 \\ub2f9\\uc0ac\\ub294 \\ucf54\\ucf54\\uc542 \\uc6d0\\ub450\\uac00\\uaca9 \\uc0c1\\uc2b9 \\ub4f1\\uc758 \\uc678\\ubd80 \\uc694\\uc5d0 \\ud6a8\\uc728\\uc801\\uc73c\\ub85c \\ub300\\uc751\\ud558\\uace0\\uc790 \\ub2e4\\uc591\\ud55c \\uc804\\ub7b5 \\ubc29\\uc548\\uc744 \\ubaa8\\uc0c9\\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}, {\"axis\": \"region\", \"value\": \"\\uc11c\\uc6b8\", \"weight\": 0.5, \"direction\": null, \"evidence\": \"2017\\ub144 6\\uc6d4 \\uc11c\\uc6b8 \\ub9c8\\uace1 R&D \\uc0b0\\uc5c5\\ub2e8\\uc9c0\\uc5d0 \\uae30\\uc812 \\ub300\\ube44 \\uc57d 5\\ubc30 \\uaddc\\ubaa8\\ub85c \\uc5f0\\uad6c\\uc18c\\ub97c \\ud655\\uc7a5\\ud558\\uc5ec \\uac1c\\ubc1c \\uc5ed\\ub7c9\\uc744 \\uac15\\ud654\\ud558\\uc600\\uc2b5\\ub2c8\\ub2e4.\"}, {\"axis\": \"exposure\", \"value\": \"\\ud658\\uc728\", \"weight\": 0.7, \"direction\": -1, \"evidence\": \"\\ud558\\udb4 \\uc2dd\\ud48 \\uc0b0\\uc5c5\\uc740 \\uc6d0\\uc7ac\\ub8cc \\uc218\\uc785 \\uc758\\uc875\\ub3c4\\uac00 \\ub192\\uc542 \\uae00\\ub85c\\ubc8c \\uacbd\\uae30 \\ubc0f \\ud658\\uc728 \\ubcc0\\ub3d9, \\uad6d\\uc805 \\uc6d0\\uc7ac\\ub8cc \\uc218\\uae09 \\uc0c1\\ud69\\uc5d0 \\ubbfc\\uac10\\ud558\\uac8c \\ubc18\\uc751\\ud558\\ub294 \\ud2b9\\uc131\\uc744 \\uc9c0\\ub2c8\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}, {\"axis\": \"exposure\", \"value\": \"\\uc6d0\\uc7ac\\ub8cc \\uac00\\uaca9\", \"weight\": 0.8, \"direction\": -1, \"evidence\": \"\\uc81c\\uacfc \\ubc0f \\uc2dd\\ud48 \\uc0b0\\uc5c5\\uc740 \\ucd5c\\uadfc \\uacbd\\uc81c \\uc5ec\\uac74 \\uc545\\ud654, \\uc18c\\ube44 \\uc2ec\\ub9ac \\uc704\\ucd95, \\uc6d0\\uc7ac\\ub8cc \\uac00\\uaca9 \\uc0c1\\uc2b9\\uc73c\\ub85c \\uc778\\ud574 \\ube44\\uc6a9 \\ubd80\\ub2f4\\uc774 \\ucee4\\uc9c0\\ub294 \\uc0c1\\ud69\\uc5d0 \\ucc98\\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}"
+  ],
+  "text_path": "data/reports/280360_20260312000907.txt"
+}
