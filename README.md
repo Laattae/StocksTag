@@ -2,7 +2,7 @@
 
 **KOSPI200 · KOSDAQ150 종목에 공시 근거가 있는 세부 속성 태그를 붙이는 파이프라인**
 
-"반도체" 같은 섹터 수준이 아니라 `HBM TC 본더`, `데이터센터`, `MLCC`, `초전도 선재`처럼 구체적인 품목·응용처·고객사·리스크 요인까지 태그로 만든다. 모든 LLM 태그는 사업보고서 원문 구절(evidence)을 근거로 갖고, 그 구절이 원문에 실제로 있는지 프로그램이 검증한 것만 저장한다.
+"반도체" 같은 섹터 수준이 아니라 `HBM TC 본더`, `데이터센터`, `MLCC`, `초전도 선재`처럼 구체적인 품목·응용처·고객사·리스크 요인까지 태그로 만든다. 모든 LLM 태그는 사업보고서 원문 구절(evidence)을 근거로 갖고, 그 구절이 원문에 실제로 있는지 프로그램이 검증한 것만 저장한다. LLM이 근거를 잘못 옮겨 적었으면 원문에서 태그 값이 든 문장을 다시 찾아 붙이고, 그래도 없으면 버린다.
 
 실시간 주가 급등락을 감지해 가장 연관성 높은 뉴스를 푸시하는 서비스에서, **"이 뉴스가 이 종목과 왜 관련 있는가"** 를 판단하는 기반 데이터로 쓰인다.
 
@@ -17,7 +17,7 @@
 | customer | SK하이닉스, Micron | 현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology… |
 | exposure | 환율 | 시장위험은 환율, 이자율 및 지분증권의 가격 등 시장가격의 변동으로… |
 
-`application = 데이터센터` 태그가 붙은 종목은 삼성SDI, 한미반도체, 가온칩스, 대한전선, 이수페타시스 등 49개다. "데이터센터 투자 확대" 뉴스가 나오면 회사 이름이 기사에 없어도 이 종목들과 연결할 수 있다.
+`application = 데이터센터` 태그가 붙은 종목은 삼성SDI, 한미반도체, 가온칩스, 대한전선, 이수페타시스 등 60개다 (두 번 추출에서 모두 나온 것 39개). "데이터센터 투자 확대" 뉴스가 나오면 회사 이름이 기사에 없어도 이 종목들과 연결할 수 있다.
 
 ## 태그 축
 
@@ -50,14 +50,15 @@ flowchart LR
     K --> F
 ```
 
-## 현재 결과 (2026-11-18)
+## 현재 결과 (2026-11-19)
 
 | 항목 | 값 |
 |---|---|
 | 대상 | 351종목 (KOSPI200 201 + KOSDAQ150 150) |
-| LLM 태그 | 6,666개 적재, 근거 검증 거부율 5% |
-| 종목당 평균 | product 6.2 · region 4.6 · application 3.6 · raw_material 3.3 · customer 3.2 · exposure 2.6 |
-| 두 번 추출한 결과의 일치도 (Jaccard) | raw_material 0.64 · region 0.63 · exposure 0.60 · product 0.55 · customer 0.52 · application 0.42 |
+| LLM 태그 | 8,775개 적재 (두 번 추출한 결과의 합집합). 두 번 다 나온 것 4,453개는 `confidence` 1.0, 한 번만 나온 것은 0.5 |
+| 근거 검증 | 거부율 2%. 157개는 LLM 근거가 틀려 프로그램이 원문에서 다시 찾은 근거 (`evidence_source='repaired'`) |
+| 종목당 평균 | product 9.2 · region 5.3 · application 4.4 · raw_material 4.0 · customer 3.7 · exposure 3.2 |
+| 두 번 추출한 결과의 일치도 (Jaccard) | raw_material 0.64 · region 0.64 · exposure 0.61 · product 0.55 · customer 0.52 · application 0.43 |
 | 동의어 사전 | 254행 (사람이 승인한 것만) |
 | alias | 1,023개, 충돌 0건 |
 
@@ -67,7 +68,7 @@ LLM은 Google `gemini-3.5-flash-lite` 무료 할당량으로 돌렸다. OpenAI �
 
 ### 1. DB만 필요할 때 (덤프 복원)
 
-[Releases](https://github.com/Laattae/StocksTag/releases/tag/v0.1-tags)에서 `stocktag.dump`를 받는다.
+[Releases](https://github.com/Laattae/StocksTag/releases/tag/v0.2-tags)에서 `stocktag.dump`를 받는다.
 
 ```bash
 docker run -d --name stocktag-pg -e POSTGRES_USER=stocktag -e POSTGRES_PASSWORD=<비밀번호> -p 5432:5432 postgres:16
@@ -114,7 +115,7 @@ SELECT * FROM stock_tag_topk WHERE stock_code = '042700';
 |---|---|
 | `stock` | 종목코드, 이름, corp_code, 지수, 업종 |
 | `tag` | 태그 사전 (axis, value). 같은 값은 한 번만 정의 |
-| `stock_tag` | 종목-태그 연결. `weight`(중요도), `axis_rank`, `direction`, `evidence`(근거 원문), `rcept_no`(근거 공시) |
+| `stock_tag` | 종목-태그 연결. `weight`(중요도), `axis_rank`, `direction`, `confidence`(두 번 추출 중 나온 비율), `evidence`(근거 원문), `evidence_source`(llm / repaired), `rcept_no`(근거 공시) |
 | `tag_synonym` | 태그 동의어 → tag |
 | `stock_alias` | 종목 이름 표기 → 종목 |
 | `report_source` | 종목별 사용한 사업보고서 |
@@ -130,6 +131,7 @@ SELECT * FROM stock_tag_topk WHERE stock_code = '042700';
 
 ## 한계와 다음 단계
 
+- 한 번만 나온 태그(`confidence` 0.5)는 잡음이 더 많다. 정밀도가 중요하면 `confidence = 1`만 쓴다.
 - 근거 검증은 "구절이 원문에 있는가"만 확인한다. 그 구절이 태그를 실제로 뒷받침하는지는 사람 검수(`data/review_sample.csv`)로 잰다.
 - 사업보고서 기준이라 1년에 한 번 갱신된다.
 - `application` 축은 일치도가 0.42로 가장 낮다. 프롬프트 개선(v3)과 동의어 정리를 이어서 한다.

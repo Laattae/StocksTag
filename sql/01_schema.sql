@@ -55,6 +55,8 @@ CREATE TABLE IF NOT EXISTS stock_tag (
   created_at  TIMESTAMPTZ DEFAULT now(),
   PRIMARY KEY (stock_code, tag_id)
 );
+-- llm: LLM이 준 근거 구절 / repaired: LLM 근거가 원문에 없어 프로그램이 원문에서 값이 든 문장을 찾은 것
+ALTER TABLE stock_tag ADD COLUMN IF NOT EXISTS evidence_source TEXT;
 
 -- alias (뉴스 본문에서 종목 찾기용)
 CREATE TABLE IF NOT EXISTS stock_alias (

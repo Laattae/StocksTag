@@ -2,9 +2,129 @@
   "model": "gemini-3.5-flash-lite",
   "prompt_version": 2,
   "parts": 1,
-  "tags": [],
+  "tags": [
+    {
+      "axis": "product",
+      "value": "변압기",
+      "weight": 1.0,
+      "direction": null,
+      "evidence": "당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "차단기",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "전동기",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "감속기",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "ESS",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "저탄소 친환경 사회로의 변화에 부응하기 위하여 액화수소플랜트, ESS(Energy Storage System)를 중심으로 신재생에너지, 분산발전원과 연계된 신규 사업을 지속적으로 강화하고 있습니다."
+    },
+    {
+      "axis": "product",
+      "value": "아파트",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사의 건설 부문은 국내외에서 주택사업, 재개발ㆍ재건축사업, 업무ㆍ상업시설, 토목ㆍ환경, SOC(사회간접자본) 사업 다양한 건설 사업을 영위하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "데이터센터",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "최근 전력 인프라 시장은 탄소중립(Net Zero), AI 및 데이터센터 확산 등 디지털화 추세에 따라 큰 전환점을 맞이하고 있습니다."
+    },
+    {
+      "axis": "application",
+      "value": "전력망",
+      "weight": 0.9,
+      "direction": null,
+      "evidence": "유럽 및 북미 등 선진국의 노후 그리드 개체 수요가 증가하고 있으며 러시아-우크라이나 사태로 촉발된 에너지 자립 및 친환경 에너지 전환 정책에 따라 친환경, 고효율 제품에 대한 수요가 증가하고 있습니다."
+    },
+    {
+      "axis": "customer",
+      "value": "한국전력공사",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "2025년 주요 매출처는 HICO(6.78%), 부산우암1구역 주택재개발정비사업조합(4.31%), 산곡재개발정비사업조합(4.30%), 강원풍력발전(주) (3.89%), 한국전력공사 본사 (3.40%), AL FANAR(3.39%) 등 입니다."
+    },
+    {
+      "axis": "raw_material",
+      "value": "강판",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "중공업 부문 주요 원재료 강판 64,240 변압기, 전동기 생산 포스코, 삼동, 티씨머티리얼즈 등"
+    },
+    {
+      "axis": "raw_material",
+      "value": "구리",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "당사는 Copper 및 Core, Steel 등 주요원자재들의 수입으로 인해 환율 및 운반비 변동에 대한 원자재 구매 비용 상승, 시장 가치 하락 등 수익성 변동의 위험에 노출되어 있습니다."
+    },
+    {
+      "axis": "region",
+      "value": "경남",
+      "weight": 0.8,
+      "direction": null,
+      "evidence": "창원공장 창원시 1,031,192 -"
+    },
+    {
+      "axis": "region",
+      "value": "미국",
+      "weight": 0.7,
+      "direction": null,
+      "evidence": "Hyosung HICO, Ltd. Memphis, USA"
+    },
+    {
+      "axis": "region",
+      "value": "중국",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "Nantong Hyosung Transformer Co., Ltd. Jiangsu, China"
+    },
+    {
+      "axis": "region",
+      "value": "인도",
+      "weight": 0.6,
+      "direction": null,
+      "evidence": "HYOSUNG T&D INDIA Pvt Ltd Pune, INDIA"
+    },
+    {
+      "axis": "exposure",
+      "value": "환율",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "지배회사는 수출로 인한 외화수금이 원자재수입에 의한 외화 지출보다 많은 외화현금흐름을 가지고 있으며 환율하락에 따른 환차손 위험을 가지고 있습니다."
+    },
+    {
+      "axis": "exposure",
+      "value": "원자재 가격",
+      "weight": 0.7,
+      "direction": -1,
+      "evidence": "전기동 가격은 미국의 구리 관세 이슈 및 주요 광산 사고에 따른 공급 여건 악화의 영향으로 상승세를 보였습니다."
+    }
+  ],
   "raw": [
-    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차단기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ESS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"저탄소 친환경 사회로의 변화에 부응하기 위하여 액화수소플랜트, ESS(Energy Storage System)를 중심으로 신재생에너지, 분산발전원과 연계된 신규 사업을 지속적으로 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"수소충전소\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"한편, 수소모빌리티 인프라 구축을 위한 수소충전소 사업을 지속적으로 확대하고 있으며, 최근에는 액화수소 생산 등 수소 밸류체인 전반으로 사업 영역을 확장하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아파트\",\n      \"weight\": 0.5,\n      \"direction\": null,\n      \"evidence\": \"당사의 건설 부문은 국내외에서 주택사업, 재개발ㆍ재건축사업, 업무ㆍ상업시설, 토목ㆍ환경, SOC(사회간접자본) 사업 다양한 건설 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"GIS\",\n      \"weight\": 0.4,\n      \"direction\": null,\n      \"evidence\": \"당사 연구개발 조직에서는 한국전력공사 수요에 대응하기 위한 170kV 50kA GIS 및 친환경 72.5kV 31.5kA GIS, HVDC 필터용 550kV 63kA GIS를 개발하고 있으며\"\n    },\n    {\n      \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 전력 인프라 시장은 탄소중립(Net Zero), AI 및 데이터센터 확산 등 디지털화 추세에 따라 큰 전환점을 맞이하고 있습니다.\"\n    },\n    {\n      \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"전력사업 환경 변화(지능화 및 효율적 전력망 구축)에 대응하여 IT기반 전력설비 자산관리(Asset Management), 초고압 직류송전시스템(HVDC), STATCOM과 같은 사업을\"\n    },\n    {\n      \"application\",\n      \"value\": \"신재생에너지\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"저탄소 친환경 사회로의 변화에 부응하기 위하여 액화수소플랜트, ESS(Energy Storage System)를 중심으로 신재생에너지, 분산발전원과 연계된 신규 사업을 지속적으로 강화하고 있습니다.\"\n    },\n    {\n      \"application\",\n      \"value\": \"풍력발전\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"또한 풍력발전 사업의 경우, 기존 육상 중심의 사업 경험을 바탕으로 대용량 해상풍력터빈 분야까지 단계적으로 확대해 나갈 계획입니다.\"\n    },\n    {\n      \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"2025년 주요 매출처는 HICO(6.78%), 부산우암1구역 주택재개발정비사업조합(4.31%), 산곡재개발정비사업조합(4.30%), 강원풍력발전(주) (3.89%), 한국전력공사 본사 (3.40%), AL FANAR(3.39%) 등 입니다.\"\n    },\n    {\n      \"customer\",\n      \"value\": \"HICO\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 주요 매출처는 HICO(6.78%), 부산우암1구역 주택재개발정비사업조합(4.31%), 산곡재개발정비사업조합(4.30%), 강원풍력발전(주) (3.89%), 한국전력공사 본사 (3.40%), AL FANAR(3.39%) 등 입니다.\"\n    },\n    {\n      \"customer\",\n      \"value\": \"강원풍력발전\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"2025년 주요 매출처는 HICO(6.78%), 부산우암1구역 주택재개발정비사업조합(4.31%), 산곡재개발정비사업조합(4.30%), 강원풍력발전(주) (3.89%), 한국전력공사 본사 (3.40%), AL FANAR(3.39%) 등 입니다.\"\n    },\n    {\n      \"raw_material\",\n      \"value\": \"강판\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"강판 | 64,240 | 변압기, 전동기 생산 | 포스코, 삼동, 티씨머티리얼즈 등 | -\"\n    },\n    {\n      \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"구리 | 105,005 |\"\n    },\n    {\n      \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"창원공장 | 창원시 | 1,031,192\"\n    },\n    {\n      \"region\",\n      \"value\": \"세종\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"세종공장 | 세종시 | 50,341\"\n    },\n    {\n      \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Nantong Hyosung Transformer Co., Ltd. | 자가소유 | Jiangsu, China |\"\n    },\n    {\n      \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"HYOSUNG T&D INDIA Pvt Ltd | Pune, INDIA |\"\n    },\n    {\n      \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Hyosung HICO, Ltd. | Memphis, USA |\"\n    },\n    {\n      \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.8,\n      \"direction\": -1,\n      \"evidence\": \"지배회사는 수출로 인한 외화수금이 원자재수입에 의한 외화 지출보다 많은 외화현금흐름을 가지고 있으며 환율하락에 따른 환차손 위험을 가지고 있습니다.\"\n    },\n    {\n      \"exposure\",\n      \"value\": \"구리 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"전기동 가격은 미국의 구리 관세 이슈 및 주요 광산 사고에 따른 공급 여건 악화의 영향으로 상승세를 보였습니다.\"\n    },\n    {\n      \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"당사는 Copper 및 Core, Steel 등 주요원자재들의 수입으로 인해 환율 및 운반비 변동에 대한 원자재 구매 비용 상승, 시장 가치 하락 등 수익성 변동의 위험에 노출되어 있습니다.\"\n    }\n  ]\n}"
+    "{\n  \"tags\": [\n    {\n      \"axis\": \"product\",\n      \"value\": \"변압기\",\n      \"weight\": 1.0,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"차단기\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"전동기\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"감속기\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"당사의 중공업 부문에서 생산 및 판매 중인 주요 제품으로는 전력산업의 핵심 설비인 변압기, 차단기와 산업 생산설비 등에 광범위하게 이용되는 전동기, 감속기 등이 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"ESS\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"저탄소 친환경 사회로의 변화에 부응하기 위하여 액화수소플랜트, ESS(Energy Storage System)를 중심으로 신재생에너지, 분산발전원과 연계된 신규 사업을 지속적으로 강화하고 있습니다.\"\n    },\n    {\n      \"axis\": \"product\",\n      \"value\": \"아파트\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사의 건설 부문은 국내외에서 주택사업, 재개발ㆍ재건축사업, 업무ㆍ상업시설, 토목ㆍ환경, SOC(사회간접자본) 사업 다양한 건설 사업을 영위하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"데이터센터\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"최근 전력 인프라 시장은 탄소중립(Net Zero), AI 및 데이터센터 확산 등 디지털화 추세에 따라 큰 전환점을 맞이하고 있습니다.\"\n    },\n    {\n      \"axis\": \"application\",\n      \"value\": \"전력망\",\n      \"weight\": 0.9,\n      \"direction\": null,\n      \"evidence\": \"유럽 및 북미 등 선진국의 노후 그리드 개체 수요가 증가하고 있으며 러시아-우크라이나 사태로 촉발된 에너지 자립 및 친환경 에너지 전환 정책에 따라 친환경, 고효율 제품에 대한 수요가 증가하고 있습니다.\"\n    },\n    {\n      \"axis\": \"customer\",\n      \"value\": \"한국전력공사\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"2025년 주요 매출처는 HICO(6.78%), 부산우암1구역 주택재개발정비사업조합(4.31%), 산곡재개발정비사업조합(4.30%), 강원풍력발전(주) (3.89%), 한국전력공사 본사 (3.40%), AL FANAR(3.39%) 등 입니다.\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"강판\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"중공업 부문 주요 원재료 강판 64,240 변압기, 전동기 생산 포스코, 삼동, 티씨머티리얼즈 등\"\n    },\n    {\n      \"axis\": \"raw_material\",\n      \"value\": \"구리\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"당사는 Copper 및 Core, Steel 등 주요원자재들의 수입으로 인해 환율 및 운반비 변동에 대한 원자재 구매 비용 상승, 시장 가치 하락 등 수익성 변동의 위험에 노출되어 있습니다.\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"경남\",\n      \"weight\": 0.8,\n      \"direction\": null,\n      \"evidence\": \"창원공장 창원시 1,031,192 -\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"미국\",\n      \"weight\": 0.7,\n      \"direction\": null,\n      \"evidence\": \"Hyosung HICO, Ltd. Memphis, USA\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"중국\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"Nantong Hyosung Transformer Co., Ltd. Jiangsu, China\"\n    },\n    {\n      \"axis\": \"region\",\n      \"value\": \"인도\",\n      \"weight\": 0.6,\n      \"direction\": null,\n      \"evidence\": \"HYOSUNG T&D INDIA Pvt Ltd Pune, INDIA\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"환율\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"지배회사는 수출로 인한 외화수금이 원자재수입에 의한 외화 지출보다 많은 외화현금흐름을 가지고 있으며 환율하락에 따른 환차손 위험을 가지고 있습니다.\"\n    },\n    {\n      \"axis\": \"exposure\",\n      \"value\": \"원자재 가격\",\n      \"weight\": 0.7,\n      \"direction\": -1,\n      \"evidence\": \"전기동 가격은 미국의 구리 관세 이슈 및 주요 광산 사고에 따른 공급 여건 악화의 영향으로 상승세를 보였습니다.\"\n    }\n  ]\n}"
   ],
   "text_path": "data/reports/298040_20260323001004.txt"
 }
