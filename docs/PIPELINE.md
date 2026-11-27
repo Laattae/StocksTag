@@ -129,7 +129,7 @@ python -m src.s14_export_tags                  # data/export/stock_tag.csv
 
 | 항목 | 전 (v0.2 덤프) | 후 |
 |---|---|---|
-| 태그 사전 / 연결 / LLM 연결 | 4,601 / 9,822 / 8,775 | 4,506 / 9,758 / 8,711 |
+| 태그 사전 / 연결 / LLM 연결 | 4,601 / 9,822 / 8,775 | 4,506 / 9,758 / 8,711 (v0.3-tags 덤프) |
 | customer 태그 | 591 | 519 |
 | 동의어 | 260 (DB) / 254 (CSV) | 419 / 419 |
 | 축 간 동의어 어긋남 | 16 | 1 (외환, 일부러 남김) |
@@ -184,7 +184,7 @@ python -m src.s05_load_tags && python -m src.s06_build_aliases
 
 DB 없이 태그만 볼 때는 `data/export/stock_tag.csv` (s14가 만든 최종 종목-태그, 근거·idf 포함).
 
-덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump` → 새 Release에 첨부 (`gh release create <태그> stocktag.dump`). 최신 덤프: [v0.2-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.2-tags) (정제 전. 정제 후 덤프는 올리면 여기 고칠 것)
+덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump` → 새 Release에 첨부 (`gh release create <태그> stocktag.dump`). 최신 덤프: [v0.3-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.3-tags) (태그 정제 반영, 2026-11-27). 정제 전: [v0.2-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.2-tags)
 
 ## 다음 단계: 급등락 → 뉴스 연결 설계
 

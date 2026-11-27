@@ -68,7 +68,7 @@ LLM은 Google `gemini-3.5-flash-lite` 무료 할당량으로 돌렸다. OpenAI �
 
 ### 1. DB만 필요할 때 (덤프 복원)
 
-[Releases](https://github.com/Laattae/StocksTag/releases/tag/v0.2-tags)에서 `stocktag.dump`를 받는다.
+[Releases](https://github.com/Laattae/StocksTag/releases/tag/v0.3-tags)에서 `stocktag.dump`를 받는다.
 
 ```bash
 docker run -d --name stocktag-pg -e POSTGRES_USER=stocktag -e POSTGRES_PASSWORD=<비밀번호> -p 5432:5432 postgres:16
