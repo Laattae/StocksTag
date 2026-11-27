@@ -1,0 +1,676 @@
+axis,child,parent,kind,source
+application,5G 네트워크,네트워크,is_a,suffix
+application,AI 반도체,반도체,is_a,suffix
+application,AI 서버,서버,is_a,suffix
+application,OLED 디스플레이,디스플레이,is_a,suffix
+application,RF 에너지,에너지,is_a,suffix
+application,개인용 컴퓨터,컴퓨터,is_a,suffix
+application,건물 건설,건설,is_a,suffix
+application,건설기계,기계,is_a,suffix
+application,경유자동차,자동차,is_a,suffix
+application,공항 물류,물류,is_a,suffix
+application,기업금융,금융,is_a,suffix
+application,난치성 고형암,고형암,is_a,suffix
+application,네트워크 인프라,인프라,is_a,suffix
+application,농기계,기계,is_a,suffix
+application,대형 TV,TV,is_a,suffix
+application,도로 건설,건설,is_a,suffix
+application,도시철도,철도,is_a,suffix
+application,디지털 헬스케어,헬스케어,is_a,suffix
+application,류마티스관절염,관절염,is_a,suffix
+application,만성 간질환,간 질환,is_a,suffix
+application,메모리 반도체,반도체,is_a,suffix
+application,면역항암제,항암제,is_a,suffix
+application,모바일 IT 기기,IT기기,is_a,suffix
+application,무인화 방산,방산,is_a,suffix
+application,바이오의료,의료,is_a,suffix
+application,바이오의약품,의약품,is_a,suffix
+application,발전플랜트,플랜트,is_a,suffix
+application,복합발전,발전,is_a,suffix
+application,복합화력발전소,화력발전소,is_a,suffix
+application,비메모리 반도체,반도체,is_a,suffix
+application,비소세포폐암,폐암,is_a,suffix
+application,삼중음성유방암,유방암,is_a,suffix
+application,상업용 부동산,부동산,is_a,suffix
+application,생활가전,가전,is_a,suffix
+application,석유화학 플랜트,플랜트,is_a,suffix
+application,소비가전,가전,is_a,suffix
+application,소세포폐암,폐암,is_a,suffix
+application,수소전기차,전기차,is_a,suffix
+application,수입자동차,자동차,is_a,suffix
+application,스마트 물류,물류,is_a,suffix
+application,스마트모바일,모바일,is_a,suffix
+application,시스템반도체,반도체,is_a,suffix
+application,식품포장재,포장재,is_a,suffix
+application,신경내분비종양,종양,is_a,suffix
+application,신재생에너지,에너지,is_a,suffix
+application,신재생에너지 전력망,전력망,is_a,suffix
+application,원자력발전,발전,is_a,suffix
+application,유료방송,방송,is_a,suffix
+application,의료 IT,IT,is_a,suffix
+application,의료 인공지능,인공지능,is_a,suffix
+application,이차전지소재,전지소재,is_a,suffix
+application,자동차 타이어,타이어,is_a,suffix
+application,자율주행 자동차,자동차,is_a,suffix
+application,자율주행로봇,로봇,is_a,suffix
+application,재생에너지,에너지,is_a,suffix
+application,재생의료,의료,is_a,suffix
+application,저궤도 위성통신,위성통신,is_a,suffix
+application,전력 인프라,인프라,is_a,suffix
+application,전문의약품,의약품,is_a,suffix
+application,지능형 로봇,로봇,is_a,suffix
+application,차량용 디스플레이,디스플레이,is_a,suffix
+application,차량용 반도체,반도체,is_a,suffix
+application,차량용 전력반도체,반도체,is_a,suffix
+application,친환경 자동차,자동차,is_a,suffix
+application,택배 물류,물류,is_a,suffix
+application,퇴행성관절염,관절염,is_a,suffix
+application,폐동맥고혈압,고혈압,is_a,suffix
+application,폴리에스테르 섬유,섬유,is_a,suffix
+application,풍력발전,발전,is_a,suffix
+application,풍력발전기,발전기,is_a,suffix
+application,해상풍력발전,풍력발전,is_a,suffix
+application,해양에너지,에너지,is_a,suffix
+application,해양플랜트,플랜트,is_a,suffix
+application,화력발전,발전,is_a,suffix
+application,화력발전소,발전소,is_a,suffix
+customer,LG CNS,LG,is_a,seed
+customer,LG디스플레이,LG,is_a,seed
+customer,LG생활건강,LG,is_a,seed
+customer,LG에너지솔루션,LG,is_a,seed
+customer,LG유플러스,LG,is_a,seed
+customer,LG이노텍,LG,is_a,seed
+customer,LG전자,LG,is_a,seed
+customer,LG화학,LG,is_a,seed
+customer,기아,현대차그룹,is_a,seed
+customer,삼성E&A,삼성,is_a,seed
+customer,삼성SDI,삼성,is_a,seed
+customer,삼성디스플레이,삼성,is_a,seed
+customer,삼성물산,삼성,is_a,seed
+customer,삼성바이오에피스,삼성,is_a,seed
+customer,삼성전기,삼성,is_a,seed
+customer,삼성전자,삼성,is_a,seed
+customer,삼성중공업,삼성,is_a,seed
+customer,삼성카드,삼성,is_a,seed
+customer,한화솔루션,한화그룹,is_a,seed
+customer,한화시스템,한화그룹,is_a,seed
+customer,한화에어로스페이스,한화그룹,is_a,seed
+customer,한화엔진,한화그룹,is_a,seed
+customer,한화오션,한화그룹,is_a,seed
+customer,현대 트랜시스,현대차그룹,is_a,seed
+customer,현대건설,현대차그룹,is_a,seed
+customer,현대글로비스,현대차그룹,is_a,seed
+customer,현대로템,현대차그룹,is_a,seed
+customer,현대모비스,현대차그룹,is_a,seed
+customer,현대위아,현대차그룹,is_a,seed
+customer,현대자동차,현대차그룹,is_a,seed
+customer,현대제철,현대차그룹,is_a,seed
+customer,현대케피코,현대차그룹,is_a,seed
+exposure,AI 반도체 수요,반도체 수요,is_a,suffix
+exposure,USD 환율,환율,is_a,suffix
+exposure,가계 부채 규제,규제,is_a,suffix
+exposure,건설경기,경기,is_a,suffix
+exposure,경기 둔화,경기,is_a,seed
+exposure,경기변동,경기,is_a,seed
+exposure,국가 규제,규제,is_a,suffix
+exposure,국가 전력 수요,전력 수요,is_a,suffix
+exposure,국내외 경기,경기,is_a,suffix
+exposure,국내외 경기 둔화,경기 둔화,is_a,suffix
+exposure,국제 원자재 가격,원자재 가격,is_a,suffix
+exposure,글로벌 경기,경기,is_a,suffix
+exposure,글로벌 경기변동,경기변동,is_a,suffix
+exposure,글로벌 규제 환경 변화,환경변화,is_a,suffix
+exposure,글로벌 철강 가격,철강 가격,is_a,suffix
+exposure,금리 수준,금리,is_a,seed
+exposure,금리변동,금리,is_a,seed
+exposure,금리인상,금리,is_a,seed
+exposure,내수경기,경기,is_a,suffix
+exposure,반덤핑 관세,관세,is_a,suffix
+exposure,반도체 산업 경기,경기,is_a,suffix
+exposure,반도체 산업 경기변동,경기변동,is_a,suffix
+exposure,반도체 산업 설비투자,설비투자,is_a,suffix
+exposure,반도체 소자 업체의 설비투자,설비투자,is_a,suffix
+exposure,반도체 소자업체 설비투자,설비투자,is_a,suffix
+exposure,반도체 전방산업 수요,전방 산업 수요,is_a,suffix
+exposure,반도체 패키징 업체 설비투자,설비투자,is_a,suffix
+exposure,부동산 경기,경기,is_a,suffix
+exposure,비철금속 가격,금속가격,is_a,suffix
+exposure,설비투자 경기,경기,is_a,suffix
+exposure,세계 경제 성장률,경제성장률,is_a,suffix
+exposure,세계 조선경기,경기,is_a,suffix
+exposure,세계경기,경기,is_a,suffix
+exposure,소비경기,경기,is_a,suffix
+exposure,소비자물가,물가,is_a,suffix
+exposure,시장 주가지수,주가지수,is_a,suffix
+exposure,실물 경기,경기,is_a,suffix
+exposure,약가 규제,규제,is_a,suffix
+exposure,온실가스 배출권 가격,배출권 가격,is_a,suffix
+exposure,자동차 경기,경기,is_a,suffix
+exposure,전기동 가격,동 가격,is_a,suffix
+exposure,전방 산업 설비투자,설비투자,is_a,suffix
+exposure,전방산업 경기,경기,is_a,suffix
+exposure,정부 규제,규제,is_a,suffix
+exposure,조달금리,금리,is_a,suffix
+exposure,종합주가지수,주가지수,is_a,suffix
+exposure,주택 건설 경기,건설경기,is_a,suffix
+exposure,철강 경기,경기,is_a,suffix
+exposure,탄소중립 규제,규제,is_a,suffix
+exposure,환경규제,규제,is_a,suffix
+product,2속 ATC 모터,모터,is_a,suffix
+product,2차전지 전해액,전해액,is_a,suffix
+product,3D 라이다 센서,라이다 센서,is_a,suffix
+product,AC 모터,모터,is_a,suffix
+product,AI 가속기 PCB,PCB,is_a,suffix
+product,AhnLab CPP,CPP,is_a,suffix
+product,BB크림,크림,is_a,suffix
+product,BLDC 모터,모터,is_a,suffix
+product,Compact 건설기계,건설기계,is_a,suffix
+product,EUV용 블랭크마스크,블랭크마스크,is_a,suffix
+product,Excimer EUV Lamp,EUV Lamp,is_a,suffix
+product,FPCB,PCB,is_a,suffix
+product,Flexible PCB,PCB,is_a,suffix
+product,HDPE,PE,is_a,suffix
+product,IC TEST SOCKET,Test Socket,is_a,suffix
+product,IP 라이선스,라이선스,is_a,suffix
+product,IPTV,TV,is_a,suffix
+product,LDPE,PE,is_a,suffix
+product,LED 전구체,전구체,is_a,suffix
+product,LLDPE,PE,is_a,seed
+product,LNG 플랜트,플랜트,is_a,suffix
+product,LNG-FPSO,FPSO,is_a,suffix
+product,MMORPG,RPG,is_a,suffix
+product,Module PCB,PCB,is_a,suffix
+product,NK세포치료제,세포치료제,is_a,suffix
+product,OLED DDIC,DDIC,is_a,suffix
+product,OLED TV,TV,is_a,suffix
+product,OLED 공정장비,공정장비,is_a,suffix
+product,OLED 유기재료,유기재료,is_a,suffix
+product,Oligonucleotide CDMO,CDMO,is_a,suffix
+product,PC 게임,게임,is_a,suffix
+product,PC온라인 게임,온라인게임,is_a,suffix
+product,PVC창호,창호,is_a,suffix
+product,Rigid OLED glass Scribing,OLED glass Scribing,is_a,suffix
+product,STS강관,강관,is_a,suffix
+product,SiC Ring,Ring,is_a,suffix
+product,SiC 전력반도체,전력반도체,is_a,suffix
+product,Solid SiC Wafer,Wafer,is_a,suffix
+product,Special Solvent,Solvent,is_a,suffix
+product,Test Interface Board,Interface Board,is_a,suffix
+product,T커머스,커머스,is_a,suffix
+product,mRNA 백신,백신,is_a,suffix
+product,mRNA 예방 백신,백신,is_a,suffix
+product,가계대출,대출,is_a,suffix
+product,가공식품,식품,is_a,suffix
+product,가스복합발전,복합발전,is_a,suffix
+product,가스터빈 엔진,엔진,is_a,suffix
+product,감시정찰 무인기,무인기,is_a,suffix
+product,개인신용대출,신용대출,is_a,suffix
+product,개인신용카드,신용카드,is_a,suffix
+product,개인용생활용품,생활용품,is_a,suffix
+product,건강기능식품,식품,is_a,suffix
+product,건강보험,보험,is_a,suffix
+product,건강상해보험,보험,is_a,suffix
+product,건조식품,식품,is_a,suffix
+product,건축도료,도료,is_a,suffix
+product,게임소프트웨어,소프트웨어,is_a,suffix
+product,고강도 알루미늄 합금,알루미늄 합금,is_a,suffix
+product,고다층PCB,PCB,is_a,suffix
+product,고순도인산,인산,is_a,suffix
+product,고압차단기,차단기,is_a,suffix
+product,고체산화물연료전지,연료전지,is_a,suffix
+product,고형암 면역세포치료제,면역세포치료제,is_a,suffix
+product,골프보험,보험,is_a,suffix
+product,골프의류,의류,is_a,suffix
+product,공동주택,주택,is_a,suffix
+product,공장 자동화 시스템,자동화시스템,is_a,suffix
+product,관리형토지신탁,토지신탁,is_a,suffix
+product,국내주식,주식,is_a,suffix
+product,국방 통신 장비,통신장비,is_a,suffix
+product,글라스 반송용 로봇,로봇,is_a,suffix
+product,금속막 식각장비,식각장비,is_a,suffix
+product,금전신탁,신탁,is_a,suffix
+product,기어드 모터,모터,is_a,suffix
+product,기업대출,대출,is_a,suffix
+product,기초화장품,화장품,is_a,suffix
+product,김치냉장고,냉장고,is_a,suffix
+product,냉동만두,만두,is_a,suffix
+product,냉동식품,식품,is_a,suffix
+product,뇌수술용 의료로봇,로봇,is_a,suffix
+product,니켈 기반 특수합금,특수합금,is_a,suffix
+product,다관절로봇,로봇,is_a,suffix
+product,닥터유 제주용암수,제주용암수,is_a,suffix
+product,단기카드대출,대출,is_a,suffix
+product,단체보험,보험,is_a,suffix
+product,당뇨 비만치료제,비만 치료제,is_a,suffix
+product,대상포진백신,백신,is_a,suffix
+product,대환대출,대출,is_a,suffix
+product,더블 크림,크림,is_a,suffix
+product,데노수맙 바이오시밀러,바이오시밀러,is_a,suffix
+product,데스크탑로봇,로봇,is_a,suffix
+product,독감백신,백신,is_a,suffix
+product,두창예방백신,백신,is_a,suffix
+product,드라마 콘텐츠,콘텐츠,is_a,suffix
+product,디스플레이 공정용 화학 소재,공정용 화학 소재,is_a,suffix
+product,디스플레이 광고,광고,is_a,suffix
+product,디젤발전설비,발전설비,is_a,suffix
+product,디젤엔진,엔진,is_a,suffix
+product,디지털 광고,광고,is_a,suffix
+product,로봇 관제 솔루션,관제 솔루션,is_a,suffix
+product,로봇청소기,청소기,is_a,suffix
+product,리스채권,채권,is_a,suffix
+product,리쥬란 코스메틱,코스메틱,is_a,suffix
+product,리튬이온 2차전지,2차전지,is_a,suffix
+product,메탈카드,카드,is_a,suffix
+product,면스낵,스낵,is_a,suffix
+product,면역세포치료제,세포치료제,is_a,suffix
+product,면역항암제,항암제,is_a,suffix
+product,명품의류,의류,is_a,suffix
+product,모바일 게임,게임,is_a,suffix
+product,모바일 보안 솔루션,보안 솔루션,is_a,suffix
+product,몰드변압기,변압기,is_a,suffix
+product,무계목강관,강관,is_a,suffix
+product,무연 휘발유,휘발유,is_a,suffix
+product,무인 운반 로봇,로봇,is_a,suffix
+product,무인항공기,항공기,is_a,suffix
+product,무인항만로봇,로봇,is_a,suffix
+product,물류자동화 솔루션,자동화 솔루션,is_a,suffix
+product,물류자동화 시스템,자동화시스템,is_a,suffix
+product,물리보안 서비스,보안서비스,is_a,suffix
+product,미니펠레트,펠레트,is_a,suffix
+product,미디어콘텐츠,콘텐츠,is_a,suffix
+product,미용 의료기기,의료기기,is_a,suffix
+product,바이오 의약품 CDMO,CDMO,is_a,suffix
+product,바이오 화장품,화장품,is_a,suffix
+product,바이오물류,물류,is_a,suffix
+product,바이오의약품,의약품,is_a,suffix
+product,반도체 공정용 화학 소재,공정용 화학 소재,is_a,suffix
+product,반도체 공정장비,공정장비,is_a,suffix
+product,반도체용 폴리실리콘,폴리실리콘,is_a,suffix
+product,반도체용 황산,황산,is_a,suffix
+product,반도체용로봇,로봇,is_a,suffix
+product,발전용 디젤엔진,디젤엔진,is_a,suffix
+product,발전용 연료전지,연료전지,is_a,suffix
+product,방송광고,광고,is_a,suffix
+product,방역 로봇,로봇,is_a,suffix
+product,배송 로봇,로봇,is_a,suffix
+product,배전 변압기,변압기,is_a,suffix
+product,배전용 변압기,변압기,is_a,suffix
+product,배터리 양극박,양극박,is_a,suffix
+product,벌크화물 운송,화물 운송,is_a,suffix
+product,벤처투자조합,투자조합,is_a,suffix
+product,변액보험,보험,is_a,suffix
+product,보안SI,SI,is_a,suffix
+product,보장성보험,보험,is_a,suffix
+product,보통예금,예금,is_a,suffix
+product,복합리조트,리조트,is_a,suffix
+product,복합화력발전,화력발전,is_a,suffix
+product,부동산 자산관리,자산관리,is_a,suffix
+product,부동산담보대출,대출,is_a,suffix
+product,부동산신탁,신탁,is_a,suffix
+product,부동산펀드,펀드,is_a,suffix
+product,부동산프로젝트대출,대출,is_a,suffix
+product,부실채권,채권,is_a,suffix
+product,부유식 원유생산설비,생산설비,is_a,suffix
+product,분산제어시스템,제어시스템,is_a,suffix
+product,분자진단 시약,진단시약,is_a,suffix
+product,불닭소스,소스,is_a,suffix
+product,불소 냉매,냉매,is_a,suffix
+product,블루수소,수소,is_a,suffix
+product,비건음료,음료,is_a,suffix
+product,비소세포폐암 치료제,폐암 치료제,is_a,suffix
+product,사망보험,보험,is_a,suffix
+product,사모펀드,펀드,is_a,suffix
+product,사모헤지펀드,펀드,is_a,suffix
+product,사족보행로봇,로봇,is_a,suffix
+product,산업용 로봇,로봇,is_a,suffix
+product,산업용 변압기,변압기,is_a,suffix
+product,산화막 식각장비,식각장비,is_a,suffix
+product,산화아연,아연,made_from,suffix
+product,삼양라면,라면,is_a,suffix
+product,색조화장품,화장품,is_a,suffix
+product,생명보험,보험,is_a,suffix
+product,생사혼합보험,보험,is_a,suffix
+product,생성형 AI,AI,is_a,suffix
+product,생존보험,보험,is_a,suffix
+product,석유화학플랜트,플랜트,is_a,suffix
+product,선박용 도료,도료,is_a,suffix
+product,선박용 엔진,엔진,is_a,suffix
+product,선박용 저속엔진,엔진,is_a,suffix
+product,성매개 감염 진단시약,진단시약,is_a,suffix
+product,세팔로스포린 항생제,항생제,is_a,suffix
+product,소모성 지능형 군집무인기,무인기,is_a,suffix
+product,소셜카지노,카지노,is_a,suffix
+product,소형 건설기계,건설기계,is_a,suffix
+product,소형 굴착기,굴착기,is_a,suffix
+product,소화기 감염 진단시약,진단시약,is_a,suffix
+product,손해보험,보험,is_a,suffix
+product,송골매 무인기,무인기,is_a,suffix
+product,수냉식 열관리 부품,열관리부품,is_a,suffix
+product,수두백신,백신,is_a,suffix
+product,수산화리튬,리튬,made_from,suffix
+product,수소압축기,압축기,is_a,suffix
+product,수익증권,증권,is_a,suffix
+product,수전해 수소,수소,is_a,suffix
+product,수전해 수소플랜트,플랜트,is_a,suffix
+product,수직다관절 로봇,다관절로봇,is_a,suffix
+product,수평다관절 로봇,다관절로봇,is_a,suffix
+product,숙취해소 음료,음료,is_a,suffix
+product,순찰 로봇,로봇,is_a,suffix
+product,스마트 변압기,변압기,is_a,suffix
+product,스마트물류,물류,is_a,suffix
+product,스마트카드,카드,is_a,suffix
+product,스토리 IP,IP,is_a,suffix
+product,신용대출,대출,is_a,suffix
+product,신용카드,카드,is_a,suffix
+product,신재생에너지,에너지,is_a,suffix
+product,실리콘 식각장비,식각장비,is_a,suffix
+product,실리콘 웨이퍼,웨이퍼,is_a,suffix
+product,실리콘 음극재,음극재,is_a,suffix
+product,실리콘카바이드 웨이퍼,웨이퍼,is_a,suffix
+product,아웃도어 의류,의류,is_a,suffix
+product,아일리아 바이오시밀러,바이오시밀러,is_a,suffix
+product,아티스트 MD,MD,is_a,suffix
+product,안내 로봇,로봇,is_a,suffix
+product,알루미늄 양극박,양극박,is_a,suffix
+product,알츠하이머성 치매 치료제,치매치료제,is_a,suffix
+product,애니메이션 콘텐츠,콘텐츠,is_a,suffix
+product,액화수소,수소,is_a,suffix
+product,액화천연가스,천연가스,is_a,suffix
+product,약효지속성 의약품,의약품,is_a,suffix
+product,양념소스,소스,is_a,suffix
+product,여객 운송,운송,is_a,suffix
+product,연금보험,보험,is_a,suffix
+product,연포장재,포장재,is_a,suffix
+product,열차제어시스템,제어시스템,is_a,suffix
+product,영상 콘텐츠,콘텐츠,is_a,suffix
+product,오토리스,리스,is_a,suffix
+product,온라인 광고,광고,is_a,suffix
+product,온라인게임,게임,is_a,suffix
+product,운전자보험,보험,is_a,suffix
+product,원료의약품,의약품,is_a,suffix
+product,원자력발전소 감시제어시스템,제어시스템,is_a,suffix
+product,원자층 식각장비,식각장비,is_a,suffix
+product,원통형 배터리캔,배터리캔,is_a,suffix
+product,원형 배터리캔,배터리캔,is_a,suffix
+product,원화대출금,대출금,is_a,suffix
+product,원화예수금,예수금,is_a,suffix
+product,웨이퍼 반송용 로봇,로봇,is_a,suffix
+product,위성영상,영상,is_a,suffix
+product,유무선 통신장비,통신장비,is_a,suffix
+product,유방암 검진 소프트웨어,소프트웨어,is_a,suffix
+product,유성감속기,감속기,is_a,suffix
+product,유지식품,식품,is_a,suffix
+product,육상풍력발전,풍력발전,is_a,suffix
+product,윤활기유,기유,is_a,suffix
+product,음악 콘텐츠,콘텐츠,is_a,suffix
+product,의료 IT 시스템 통합,시스템 통합,is_a,suffix
+product,이동형 양팔로봇,로봇,is_a,suffix
+product,이족보행로봇,로봇,is_a,suffix
+product,이중연료엔진,엔진,is_a,suffix
+product,이중항체,항체,is_a,suffix
+product,이차전지 공정장비,공정장비,is_a,suffix
+product,이차전지용 음극재,음극재,is_a,suffix
+product,이커머스,커머스,is_a,suffix
+product,이커머스 물류,물류,is_a,suffix
+product,인공관절 수술로봇,로봇,is_a,suffix
+product,인공관절 임플란트,임플란트,is_a,suffix
+product,인공위성,위성,is_a,suffix
+product,인보험,보험,is_a,suffix
+product,인스타뷰 냉장고,냉장고,is_a,suffix
+product,인체조직기반 의료기기,의료기기,is_a,suffix
+product,일반대출,대출,is_a,suffix
+product,일반보험,보험,is_a,suffix
+product,일반의약품,의약품,is_a,suffix
+product,일반자금대출,대출,is_a,suffix
+product,일반화재보험,화재보험,is_a,suffix
+product,자가전달 비대칭 siRNA,비대칭 siRNA,is_a,suffix
+product,자동차도료,도료,is_a,suffix
+product,자동차보험,보험,is_a,suffix
+product,자동차용 축전지,축전지,is_a,suffix
+product,자동차용 튜브,튜브,is_a,suffix
+product,자율이동로봇,로봇,is_a,suffix
+product,자율주행 로봇,로봇,is_a,suffix
+product,자율주행 물류로봇,로봇,is_a,suffix
+product,자율주행 소프트웨어,소프트웨어,is_a,suffix
+product,장기보험,보험,is_a,suffix
+product,장기손해보험,손해보험,is_a,suffix
+product,장기카드대출,대출,is_a,suffix
+product,장내파생상품,파생상품,is_a,suffix
+product,장외파생상품,파생상품,is_a,suffix
+product,장티푸스백신,백신,is_a,suffix
+product,재보험,보험,is_a,suffix
+product,재산종합보험,보험,is_a,suffix
+product,재생에너지 전력,전력,is_a,suffix
+product,재활로봇,로봇,is_a,suffix
+product,저분자 신약 원료의약품,원료의약품,is_a,suffix
+product,저유황 경유,경유,is_a,suffix
+product,저축보험,보험,is_a,suffix
+product,저축성보험,보험,is_a,suffix
+product,저축은행업,은행업,is_a,suffix
+product,전고체 전해질,고체전해질,is_a,suffix
+product,전극공정장비,공정장비,is_a,suffix
+product,전기 굴착기,굴착기,is_a,suffix
+product,전기자동차 충전기,충전기,is_a,suffix
+product,전기차 충전기,충전기,is_a,suffix
+product,전략 금융상품,금융상품,is_a,suffix
+product,전력변압기,변압기,is_a,suffix
+product,전력용 변압기,변압기,is_a,suffix
+product,전문의약품,의약품,is_a,suffix
+product,전세대출,대출,is_a,suffix
+product,정기예금,예금,is_a,suffix
+product,정기적금,적금,is_a,suffix
+product,정밀감속기,감속기,is_a,suffix
+product,정밀유도무기,유도무기,is_a,suffix
+product,정유 플랜트,플랜트,is_a,suffix
+product,정형외과 수술로봇,로봇,is_a,suffix
+product,제네릭 원료의약품,원료의약품,is_a,suffix
+product,제조업용로봇,로봇,is_a,suffix
+product,조산화아연,산화아연,is_a,suffix
+product,종합건설,건설,is_a,suffix
+product,주가연계신탁,신탁,is_a,suffix
+product,주식담보대출,대출,is_a,suffix
+product,주식형 펀드,펀드,is_a,suffix
+product,주택담보대출,대출,is_a,suffix
+product,줄기세포 화장품,화장품,is_a,suffix
+product,줄기세포배양액 화장품,화장품,is_a,suffix
+product,줄기세포치료제,세포치료제,is_a,suffix
+product,중저압차단기,차단기,is_a,suffix
+product,중형 협업 무인전투기,협업 무인전투기,is_a,suffix
+product,지구관측위성,위성,is_a,suffix
+product,지상무기체계,무기체계,is_a,suffix
+product,지속가능 항공유,항공유,is_a,suffix
+product,지속형 바이오의약품,바이오의약품,is_a,suffix
+product,지적재산권 라이선스,라이선스,is_a,suffix
+product,직각좌표 로봇,로봇,is_a,suffix
+product,직교로봇,로봇,is_a,suffix
+product,집단에너지,에너지,is_a,suffix
+product,집합투자증권,증권,is_a,suffix
+product,차량용 전력반도체,전력반도체,is_a,suffix
+product,차륜형장갑차,장갑차,is_a,suffix
+product,차세대담배,담배,is_a,suffix
+product,차입형토지신탁,토지신탁,is_a,suffix
+product,채권형 펀드,펀드,is_a,suffix
+product,채무증권,증권,is_a,suffix
+product,척추수술로봇,로봇,is_a,suffix
+product,천연물 관절염 치료제,관절염 치료제,is_a,suffix
+product,청소 로봇,로봇,is_a,suffix
+product,체외진단 의료기기,의료기기,is_a,suffix
+product,체크카드,카드,is_a,suffix
+product,초고압변압기,변압기,is_a,suffix
+product,초대형컨테이너선,컨테이너선,is_a,suffix
+product,초코파이,파이,is_a,suffix
+product,치과용 골이식재,골이식재,is_a,suffix
+product,치과용 차폐막,차폐막,is_a,suffix
+product,친환경29kV GIS,GIS,is_a,suffix
+product,친환경몰드 변압기,몰드변압기,is_a,suffix
+product,침실가구,가구,is_a,suffix
+product,카오디오,오디오,is_a,suffix
+product,캐주얼 게임,게임,is_a,suffix
+product,컨테이너 운송,운송,is_a,suffix
+product,컴퓨터 하드웨어,하드웨어,is_a,suffix
+product,케미컬의약품,의약품,is_a,suffix
+product,케이블TV,TV,is_a,suffix
+product,콘솔 게임,게임,is_a,suffix
+product,탄산음료,음료,is_a,suffix
+product,탈모방지 화장품,화장품,is_a,suffix
+product,태반유래세포치료제,세포치료제,is_a,suffix
+product,태양광 전력,전력,is_a,suffix
+product,태양광용 웨이퍼,웨이퍼,is_a,suffix
+product,태양광용 폴리실리콘,폴리실리콘,is_a,suffix
+product,택배반송보험,보험,is_a,suffix
+product,토지신탁,신탁,is_a,suffix
+product,토큰증권,증권,is_a,suffix
+product,톤업선크림,크림,is_a,suffix
+product,투자신탁,신탁,is_a,suffix
+product,투자펀드,펀드,is_a,suffix
+product,특별자산펀드,펀드,is_a,suffix
+product,특종보험,보험,is_a,suffix
+product,파생결합증권,증권,is_a,suffix
+product,패션의류,의류,is_a,suffix
+product,페로브스카이트 태양광,태양광,is_a,suffix
+product,폐렴구균백신,백신,is_a,suffix
+product,폴리실리콘,실리콘,is_a,suffix
+product,피부미용 의료기기,미용 의료기기,is_a,suffix
+product,하이니켈 양극재,양극재,is_a,suffix
+product,하이스피드 번인 테스터,번인 테스터,is_a,suffix
+product,한컴오피스,오피스,is_a,suffix
+product,합성고무 라텍스,라텍스,is_a,suffix
+product,항공기 엔진,엔진,is_a,suffix
+product,항공기용 엔진,엔진,is_a,suffix
+product,항공운송,운송,is_a,suffix
+product,항만 크레인,크레인,is_a,suffix
+product,항체의약품,의약품,is_a,suffix
+product,해상보험,보험,is_a,suffix
+product,해상철구조물,철구조물,is_a,suffix
+product,해상풍력 발전설비,발전설비,is_a,suffix
+product,해상풍력발전,풍력발전,is_a,suffix
+product,해상풍력발전기,발전기,is_a,suffix
+product,해상풍력발전기 설치선,풍력발전기설치선,is_a,suffix
+product,해양무기체계,무기체계,is_a,suffix
+product,해양플랜트,플랜트,is_a,suffix
+product,해외보험,보험,is_a,suffix
+product,해외여행보험,보험,is_a,suffix
+product,해외주식,주식,is_a,suffix
+product,허셉틴 바이오시밀러,바이오시밀러,is_a,suffix
+product,협동로봇,로봇,is_a,suffix
+product,호흡기 감염 진단시약,진단시약,is_a,suffix
+product,혼합음료,음료,is_a,suffix
+product,화물 운송,운송,is_a,suffix
+product,화장품 포장재,포장재,is_a,suffix
+product,화재보험,보험,is_a,suffix
+product,화학적 재활용 PET,PET,is_a,suffix
+product,환경가전,가전,is_a,suffix
+product,환매조건부채권,채권,is_a,suffix
+product,황산니켈,니켈,made_from,suffix
+product,휴대폰보험,보험,is_a,suffix
+product,힘센엔진,엔진,is_a,suffix
+raw_material,AL Frame,FRAME,is_a,suffix
+raw_material,AlN Powder,Powder,is_a,suffix
+raw_material,BGA PCB,PCB,is_a,suffix
+raw_material,Cu powder,Powder,is_a,suffix
+raw_material,C원사,원사,is_a,suffix
+raw_material,E-scrap,Scrap,is_a,suffix
+raw_material,Fused Quartz,Quartz,is_a,suffix
+raw_material,Image Sensor,SENSOR,is_a,suffix
+raw_material,LDPE 수지,수지,is_a,suffix
+raw_material,Lead Frame,FRAME,is_a,suffix
+raw_material,N66원사,원사,is_a,suffix
+raw_material,NCM 전구체,전구체,is_a,suffix
+raw_material,Side brush motor,MOTOR,is_a,suffix
+raw_material,Styrene Monomer,MONOMER,is_a,suffix
+raw_material,Wheel motor,MOTOR,is_a,suffix
+raw_material,귀금속류,금속류,is_a,suffix
+raw_material,규소강판,강판,is_a,suffix
+raw_material,냉각형 적외선 렌즈,렌즈,is_a,suffix
+raw_material,니켈 파우더,파우더,is_a,suffix
+raw_material,다결정 실리콘,실리콘,is_a,suffix
+raw_material,대형엔진,엔진,is_a,suffix
+raw_material,동 Scrap,Scrap,is_a,suffix
+raw_material,동정광,정광,is_a,suffix
+raw_material,마니라판지,판지,is_a,suffix
+raw_material,메탈 실리콘,실리콘,is_a,suffix
+raw_material,방향성 전기강판,전기강판,is_a,suffix
+raw_material,비철금속,금속,is_a,suffix
+raw_material,비타민C 파우더,파우더,is_a,suffix
+raw_material,산화아연,아연,made_from,suffix
+raw_material,선박 연료유,연료유,is_a,suffix
+raw_material,센서 IC,IC,is_a,suffix
+raw_material,실리콘카바이드 파우더,파우더,is_a,suffix
+raw_material,아몰퍼스 유입 코아,코아,is_a,suffix
+raw_material,아연정광,정광,is_a,suffix
+raw_material,에폭시 수지,수지,is_a,suffix
+raw_material,에폭시레진,레진,is_a,suffix
+raw_material,연기자 출연료,출연료,is_a,suffix
+raw_material,연정광,정광,is_a,suffix
+raw_material,열연철판,철판,is_a,suffix
+raw_material,음료 용기,용기,is_a,suffix
+raw_material,이온교환수지,수지,is_a,suffix
+raw_material,재활용 플라스틱,플라스틱,is_a,suffix
+raw_material,저유황 경유,경유,is_a,suffix
+raw_material,전기강판,강판,is_a,suffix
+raw_material,전기전자부품,전자부품,is_a,suffix
+raw_material,주류 용기,용기,is_a,suffix
+raw_material,참치원어,원어,is_a,suffix
+raw_material,철스크랩,스크랩,is_a,suffix
+raw_material,카본원사,원사,is_a,suffix
+raw_material,코코아 원두,원두,is_a,suffix
+raw_material,코팅파우더,파우더,is_a,suffix
+raw_material,탄산리튬,리튬,made_from,suffix
+raw_material,탄화규소 파우더,파우더,is_a,suffix
+raw_material,탈황석고,석고,is_a,suffix
+raw_material,티타늄 원광석,원광석,is_a,suffix
+raw_material,폐 PCB,PCB,is_a,suffix
+raw_material,폐PET,PET,is_a,suffix
+raw_material,폴리실리콘,실리콘,is_a,suffix
+raw_material,화장품 용기,용기,is_a,suffix
+region,경기,수도권,is_a,seed
+region,경남,영남,is_a,seed
+region,경북,영남,is_a,seed
+region,경주,경북,is_a,seed
+region,광주,호남,is_a,seed
+region,구미,경북,is_a,seed
+region,나이지리아,아프리카,is_a,seed
+region,남아메리카,미주,is_a,seed
+region,남아프리카공화국,아프리카,is_a,seed
+region,네덜란드,유럽,is_a,seed
+region,뉴질랜드,오세아니아,is_a,seed
+region,대구,영남,is_a,seed
+region,대전,충청,is_a,seed
+region,독일,유럽,is_a,seed
+region,멕시코,북아메리카,is_a,seed
+region,미국,북아메리카,is_a,seed
+region,부산,영남,is_a,seed
+region,북아메리카,미주,is_a,seed
+region,브라질,남아메리카,is_a,seed
+region,사우디아라비아,중동,is_a,seed
+region,서울,수도권,is_a,seed
+region,성남,경기,is_a,seed
+region,세종,충청,is_a,seed
+region,스웨덴,유럽,is_a,seed
+region,스위스,유럽,is_a,seed
+region,스페인,유럽,is_a,seed
+region,슬로바키아,유럽,is_a,seed
+region,안동,경북,is_a,seed
+region,에티오피아,아프리카,is_a,seed
+region,여수,전남,is_a,seed
+region,영국,유럽,is_a,seed
+region,우루과이,남아메리카,is_a,seed
+region,울산,영남,is_a,seed
+region,이라크,중동,is_a,seed
+region,이스라엘,중동,is_a,seed
+region,이탈리아,유럽,is_a,seed
+region,인천,수도권,is_a,seed
+region,전남,호남,is_a,seed
+region,전북,호남,is_a,seed
+region,청주,충북,is_a,seed
+region,체코,유럽,is_a,seed
+region,충남,충청,is_a,seed
+region,충북,충청,is_a,seed
+region,캐나다,북아메리카,is_a,seed
+region,캘리포니아,미국,is_a,seed
+region,포르투갈,유럽,is_a,seed
+region,폴란드,유럽,is_a,seed
+region,프랑스,유럽,is_a,seed
+region,핀란드,유럽,is_a,seed
+region,헝가리,유럽,is_a,seed
+region,호주,오세아니아,is_a,seed

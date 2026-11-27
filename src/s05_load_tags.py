@@ -8,6 +8,8 @@
   그래도 없으면 버린다 (data/rejected.csv)
 - 근거 우선순위: LLM 근거 중 값이 들어 있는 것 > 다시 찾은 근거 > LLM 근거 중 값이 없는 것
 - 동의어 사전으로 값 통일 (적층세라믹콘덴서 → MLCC)
+- data/tag_stoplist.csv의 값(원가 표의 '부품', 부문 이름 '솔루션' 등)은 근거가 있어도 적재하지 않는다 (rejected.csv에 사유 남김)
+- 끝에 data/tag_relations.csv로 tag_relation을 다시 맞춘다
 - 띄어쓰기·대소문자·하이픈만 다른 표기는 가장 많이 쓰인 표기로 (재활 치료 → 재활치료)
 - 같은 태그가 여러 번 나오면 weight 최댓값
 - 축 안에서 weight 순위(axis_rank) 저장. 자르지는 않는다 (상한은 stock_tag_topk 뷰로 본다)
@@ -22,7 +24,7 @@ import json
 import re
 from collections import defaultdict
 
-from .common import DATA, LLM_AXES, LLM_OUT, canonical_value, db, load_synonyms, norm_for_match, norm_key, normalize_tag_shape, report_path, spelling_map, sync_synonym_table, upsert_tag
+from .common import DATA, LLM_AXES, LLM_OUT, canonical_value, db, load_stoplist, load_synonyms, norm_for_match, stopped, sync_match_exclude, norm_key, normalize_tag_shape, report_path, spelling_map, sync_relation_table, sync_synonym_table, upsert_tag
 
 REPAIR_AXES = ("product", "customer", "raw_material")
 REPAIR_MIN_LEN = 3      # norm_key 기준 글자 수. "SK", "LG", "전력"처럼 짧은 값은 아무 문장에서나 찾혀서 제외
@@ -109,6 +111,7 @@ def main():
 
     synonyms = load_synonyms()
     spelling = spelling_map(synonyms)
+    stoplist = load_stoplist()
     print(f"표기 정리 규칙 {len(spelling)}개 (띄어쓰기·대소문자·하이픈만 다른 값)")
 
     files: dict[str, list] = defaultdict(list)
@@ -156,6 +159,10 @@ def main():
                                          "reason": reason, "evidence": t.get("evidence")})
                         continue
                     value = canonical_value(axis, raw_value, synonyms, spelling)
+                    if stopped(axis, value, stoplist):  # 근거는 있지만 정보가 없는 값 (data/tag_stoplist.csv)
+                        rejected.append({"stock_code": code, "run": n, "axis": axis, "value": t.get("value"),
+                                         "reason": "포괄적인 값 (tag_stoplist)", "evidence": t.get("evidence")})
+                        continue
                     try:
                         w = max(0.0, min(1.0, float(t.get("weight") or 0.5)))
                     except (TypeError, ValueError):
@@ -194,6 +201,8 @@ def main():
         cur.execute("""DELETE FROM tag t WHERE NOT EXISTS (SELECT 1 FROM stock_tag st WHERE st.tag_id = t.tag_id)
                          AND NOT EXISTS (SELECT 1 FROM tag_synonym ts WHERE ts.tag_id = t.tag_id)""")
         print(f"안 쓰는 태그 {cur.rowcount}개 정리")
+        sync_relation_table(cur)  # 태그가 지워지면 관계도 CASCADE로 지워지므로 다시 맞춘다
+        sync_match_exclude(cur)
 
     with (DATA / "rejected.csv").open("w", encoding="utf-8", newline="") as fp:
         w = csv.DictWriter(fp, fieldnames=["stock_code", "run", "axis", "value", "reason", "evidence"])

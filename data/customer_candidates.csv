@@ -1,0 +1,127 @@
+﻿axis,canonical,synonym,canon_stocks,syn_stocks,method,ref_stock_code,note,approve
+customer,KT,케이티,2,0,display,030200,지금 태그에는 없음(뉴스 매칭용 동의어). 상장사 대표: 종목명이 영문 음차면 영문 표기로 (읽기 편하게),1
+customer,KT&G,케이티앤지,1,0,display,033780,지금 태그에는 없음(뉴스 매칭용 동의어).,1
+customer,LG CNS,LG씨엔에스,1,0,display,064400,지금 태그에는 없음(뉴스 매칭용 동의어).,1
+customer,현대차그룹,현대/기아,2,1,group,,,1
+customer,현대차그룹,현대/기아 자동차,2,1,group,,,1
+customer,현대차그룹,현대기아,2,1,group,,,1
+customer,현대차그룹,현대기아차그룹,2,1,group,,,1
+customer,현대차그룹,현대차ㆍ기아,2,1,group,,,1
+customer,LG디스플레이,LG Display,9,1,listed,034220,,1
+customer,LG디스플레이,엘지디스플레이,9,3,listed,034220,,1
+customer,LG유플러스,엘지유플러스,0,1,listed,032640,,1
+customer,LG전자,엘지전자,4,1,listed,066570,,1
+customer,LG화학,LG Chem Ltd.,3,1,listed,051910,,1
+customer,LG화학,엘지화학,3,2,listed,051910,,1
+customer,SK하이닉스,SK Hynix Inc,25,1,listed,000660,,1
+customer,보로노이,보로노이 주식회사,0,1,listed,310210,,1
+customer,엘앤에프,L&F,1,1,listed,066970,,1
+customer,한화엔진,한화엔진 주식회사,0,1,listed,082740,,1
+customer,현대자동차,현대차,23,2,listed,005380,,1
+customer,CJ ENM,씨제이이엔엠,1,2,merge,035760,,1
+customer,CNUOC,중국 CNUOC,1,2,merge,,,1
+customer,GSK,GlaxoSmithKline,3,1,merge,,뉴스 표기가 GSK라 영문 약칭 유지,1
+customer,GSK,글락소스미스클라인,3,1,merge,,,1
+customer,GS칼텍스,지에스칼텍스,0,2,merge,,비상장,1
+customer,S-Oil,에스오일,0,1,merge,010950,,1
+customer,SK에너지,에스케이에너지,2,1,merge,,비상장,1
+customer,SK온,에스케이온,5,1,merge,,비상장,1
+customer,ZF,ZF Friedrichshafen AG,1,1,merge,,,1
+customer,구글,Google,4,5,merge,,,1
+customer,구글 플레이스토어,구글 플레이,1,1,merge,,앱 마켓(채널). 구글과는 따로 둠,1
+customer,굿이어,Goodyear,1,1,merge,,,1
+customer,길리어드 사이언스,Gilead Sciences,1,1,merge,,,1
+customer,넷플릭스,Netflix,3,2,merge,,,1
+customer,노바티스,Norvatis,1,1,merge,,철자 오류,1
+customer,도쿄일렉트론,TEL,2,1,merge,,,1
+customer,도쿄일렉트론,Tokyo Electron,2,2,merge,,,1
+customer,디즈니+,Disney+,2,1,merge,,,1
+customer,로레알,L'Oreal,1,1,merge,,,1
+customer,로레알,LOREAL,1,1,merge,,,1
+customer,마이크로소프트,Microsoft,2,4,merge,,기존 Microsoft Corporation→Microsoft 도 따라감,1
+customer,마이크론,Micron,0,6,merge,,기존 Micron Technology→Micron 도 따라감,1
+customer,메르세데스-벤츠,BENZ,3,1,merge,,,1
+customer,메타,Meta,0,1,merge,,,1
+customer,미국 국립보건원,NIH,1,1,merge,,,1
+customer,바이오젠,Biogen,0,2,merge,,,1
+customer,바이오젠,Biogen International,0,1,merge,,자회사,1
+customer,바이오젠,Biogen Therapeutics Inc.,0,1,merge,,자회사,1
+customer,베링거인겔하임,Boehringer Ingelheim,1,1,merge,,,1
+customer,보잉,Boeing,2,1,merge,,,1
+customer,사노피,Sanofi,1,3,merge,,기존 Sanofi 사→Sanofi 도 따라감,1
+customer,사우디아람코,SAUDI ARABIAN OIL COMPANY,0,1,merge,,,1
+customer,사우디아람코,Saudi Aramco,0,3,merge,,,1
+customer,사우디아람코,사우디 Aramco,0,1,merge,,,1
+customer,삼성,Samsung,1,1,merge,,그룹,1
+customer,삼성전자,Samsung Electronics,47,1,merge,005930,상장사 (alias에 없는 표기),1
+customer,셰브론,Chevron,0,1,merge,,,1
+customer,셰브론,Chevron U.S.A. Inc.,0,1,merge,,자회사. Chevron Australia는 따로 둠,1
+customer,스타벅스,Starbucks Corporation,1,1,merge,,,1
+customer,스텔란티스,STELLANTIS,1,2,merge,,,1
+customer,아마존,Amazon.com,2,1,merge,,,1
+customer,아마존프라임비디오,Amazon Prime Video,1,2,merge,,스트리밍(채널). 아마존과는 따로 둠,1
+customer,아마존프라임비디오,아마존 프라임,1,1,merge,,,1
+customer,애플,Apple,3,7,merge,,,1
+customer,어플라이드머티어리얼즈,AMAT,0,1,merge,,,1
+customer,어플라이드머티어리얼즈,Applied Materials,0,1,merge,,,1
+customer,에볼루스,Evolus,2,1,merge,,,1
+customer,에어버스,Airbus,2,1,merge,,,1
+customer,오노약품공업,Ono Pharmaceutical,2,2,merge,,기존 Ono Pharmaceutical Co. Ltd.→ 도 따라감,1
+customer,전력거래소,한국전력거래소,1,1,merge,,,1
+customer,지멘스,SIEMENS,1,1,merge,,,1
+customer,치루제약,Qilu Pharmaceutical,1,2,merge,,,1
+customer,테슬라,Tesla,3,2,merge,,,1
+customer,텐센트뮤직엔터테인먼트그룹,Tencent Music Entertainment,1,1,merge,,,1
+customer,펩시코,"PepsiCo, Inc.",0,1,merge,,,1
+customer,펩시코,PepsiCo. Inc.,0,1,merge,,,1
+customer,포드,Ford,2,5,merge,,,1
+customer,포스코,POSCO,12,3,merge,,비상장 철강사 POSCO (POSCO홀딩스와 다름),1
+customer,폭스바겐,VW,6,1,merge,,,1
+customer,폭스바겐,Volkswagen Group,6,1,merge,,,1
+customer,한국전력,한전,15,1,merge,,,1
+customer,한국토지주택공사,LH,1,1,merge,,,1
+customer,화이자,Pfizer,1,2,merge,,,1
+customer,HD현대중공업,현대중공업,3,1,rename,329180,2022 사명 변경,1
+customer,기아,기아자동차,9,3,rename,000270,2021 사명 변경,1
+customer,메타,페이스북,0,1,rename,,Facebook → Meta (2021 사명 변경),1
+customer,삼성E&A,삼성엔지니어링,1,1,rename,028050,2024 사명 변경,1
+customer,구보타,Kubota,0,1,translit,,,1
+customer,글렌코어,Glencore,0,1,translit,,,1
+customer,넥스트에라에너지,NextEra Energy,0,2,translit,,,1
+customer,노바백스,Novavax,0,2,translit,,,1
+customer,노스페이스,The North Face,0,2,translit,,,1
+customer,도이치텔레콤,Deutsche Telekom,0,1,translit,,,1
+customer,라쿠텐,Rakuten,0,1,translit,,,1
+customer,로슈,Roche,0,1,translit,,,1
+customer,룰루레몬,Lululemon,0,2,translit,,,1
+customer,리비안,Rivian,0,1,translit,,,1
+customer,머크,Merck,0,2,translit,,MSD와는 따로 둠,1
+customer,발레,Vale,0,2,translit,,,1
+customer,버라이즌,Verizon,0,1,translit,,,1
+customer,베스타스,Vestas,0,1,translit,,,1
+customer,베스트바이,Best Buy,0,1,translit,,,1
+customer,보쉬,Bosch,0,1,translit,,,1
+customer,블룸에너지,Bloom Energy,0,1,translit,,,1
+customer,산도스,Sandoz,0,2,translit,,,1
+customer,셸,Shell,0,1,translit,,,1
+customer,소니,Sony,0,2,translit,,,1
+customer,쇼피,SHOPEE,0,1,translit,,,1
+customer,스포티파이,SPOTIFY,0,1,translit,,,1
+customer,아스트라제네카,AstraZeneca,0,2,translit,,,1
+customer,알리페이,Alipay Connect Pte.Ltd,0,1,translit,,,1
+customer,엔비디아,NVIDIA,0,1,translit,,한 표기뿐. 한글 대표로 바꾸고 영문은 동의어,1
+customer,오가논,Organon,0,2,translit,,,1
+customer,오스테드,Orsted,0,1,translit,,,1
+customer,월마트,Walmart.com,0,1,translit,,,1
+customer,웨이모,Waymo,0,1,translit,,,1
+customer,유니레버,Unilever,0,1,translit,,,1
+customer,인텔,Intel,0,2,translit,,,1
+customer,일라이릴리,Eli Lilly,0,2,translit,,기존 Eli Lilly and Company→ 도 따라감,1
+customer,지멘스에너지,Siemens Energy,0,1,translit,,,1
+customer,코스트코,Costco.com,0,1,translit,,,1
+customer,코카콜라,The Coca-Cola Company,0,1,translit,,,1
+customer,퀄컴,Qualcomm,0,1,translit,,,1
+customer,파타고니아,Patagonia,0,2,translit,,,1
+customer,홈디포,HOME DEPOT,0,1,translit,,,1
+customer,화웨이,Huawei,0,1,translit,,,1
+customer,후지쯔,Fujitsu,0,1,translit,,,1

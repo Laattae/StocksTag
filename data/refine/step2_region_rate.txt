@@ -1,0 +1,188 @@
+
+### [요약] 전체 규모
+(1행)
+stocks | tags | links | llm_links | synonyms
+351 | 4595 | 9798 | 8751 | 280
+
+### [요약] 축별 태그·연결 수
+(7행)
+axis | tags | links
+application | 496 | 1262
+customer | 591 | 999
+exposure | 276 | 1086
+industry_code | 159 | 351
+product | 2324 | 3215
+raw_material | 664 | 1021
+region | 85 | 1864
+
+### [1] 정규화하면 같아지는 표기 쌍 (같은 축)
+(0행)
+axis | tag_a | tag_b
+
+### [2] 고객사: 상장사 alias로 같은 종목을 가리키는데 표기가 여러 개
+(3행)
+ref_stock | variants
+엘앤에프 | 엘앤에프 1 · L&F 1
+현대자동차 | 현대자동차 23 · 현대차 2
+LG디스플레이 | LG디스플레이 9 · LG Display 1
+
+### [2] 고객사 값 중 상장사 alias와 정확히 맞는 것 / 안 맞는 것
+(1행)
+matched_tags | unmatched_tags | matched_links | unmatched_links
+66 | 525 | 259 | 740
+
+### [3] 두 개 이상 축에 있는 값 (축 조합별)
+(10행)
+axis_a | axis_b | shared_values
+product | raw_material | 102
+application | product | 99
+application | raw_material | 8
+application | exposure | 4
+customer | region | 3
+exposure | product | 2
+customer | product | 2
+product | region | 1
+exposure | region | 1
+customer | raw_material | 1
+
+### [3] 두 개 이상 축에 있는 값 (전체 개수)
+(1행)
+values_in_2plus_axes
+207
+
+### [3] 같은 종목에 같은 값이 두 축 이상으로 붙은 건수
+(1행)
+stock_value_dups
+78
+
+### [3] 동의어가 축 간에 어긋남 (A축 동의어로 등록된 단어가 B축에 별도 태그로 쓰임)
+(13행)
+syn_axis | synonym | syn_canonical | other_axis | other_tag | other_stocks
+product | 2차전지 | 이차전지 | application | 2차전지 | 9
+product | 배터리 | 이차전지 | application | 배터리 | 3
+application | 부동산 시장 | 부동산 | exposure | 부동산 시장 | 2
+product | LNG 운반선 | LNG선 | application | LNG운반선 | 2
+exposure | 외환 | 환율 | product | 외환 | 2
+application | 태양광 발전 | 태양광 | product | 태양광 발전 | 1
+product | 소형모듈원자로 | SMR | application | 소형모듈원자로 | 1
+application | OTT 서비스 | OTT | product | OTT 서비스 | 1
+application | OTT 플랫폼 | OTT | product | OTT 플랫폼 | 1
+application | 건설업 | 건설 | product | 건설업 | 1
+application | 가전제품 | 가전 | product | 가전제품 | 1
+product | 손해보험업 | 손해보험 | application | 손해보험업 | 1
+product | 양극활물질 | 양극재 | raw_material | 양극활물질 | 1
+
+### [4] 지역 태그 전체 (표기 확인용)
+(85행)
+value | stocks | dart | llm
+강원 | 26 | 4 | 22
+경기 | 223 | 101 | 122
+경남 | 39 | 13 | 26
+경북 | 40 | 11 | 29
+경주 | 1 | 0 | 1
+광주 | 15 | 0 | 15
+구미 | 1 | 0 | 1
+대구 | 23 | 7 | 16
+대만 | 8 | 0 | 8
+대전 | 36 | 9 | 27
+독일 | 15 | 0 | 15
+미국 | 152 | 0 | 152
+미주 | 1 | 0 | 1
+부산 | 39 | 7 | 32
+서울 | 167 | 148 | 19
+성남 | 1 | 0 | 1
+세종 | 13 | 5 | 8
+안동 | 1 | 0 | 1
+여수 | 2 | 0 | 2
+영국 | 5 | 0 | 5
+영남 | 40 | 40 | 0
+울산 | 42 | 2 | 40
+유럽 | 12 | 0 | 12
+인도 | 15 | 0 | 15
+인천 | 42 | 15 | 27
+일본 | 35 | 0 | 35
+전남 | 22 | 3 | 19
+전북 | 23 | 3 | 20
+제주 | 13 | 2 | 11
+중국 | 137 | 0 | 137
+중동 | 1 | 0 | 1
+청주 | 1 | 0 | 1
+체코 | 3 | 0 | 3
+충남 | 45 | 11 | 34
+충북 | 44 | 10 | 34
+충청 | 35 | 35 | 0
+태국 | 5 | 0 | 5
+한국 | 15 | 0 | 15
+호남 | 6 | 6 | 0
+호주 | 8 | 0 | 8
+홍콩 | 6 | 0 | 6
+라오스 | 2 | 0 | 2
+러시아 | 4 | 0 | 4
+멕시코 | 5 | 0 | 5
+미얀마 | 5 | 0 | 5
+베트남 | 78 | 0 | 78
+브라질 | 7 | 0 | 7
+수도권 | 264 | 264 | 0
+스웨덴 | 1 | 0 | 1
+스위스 | 3 | 0 | 3
+스페인 | 3 | 0 | 3
+아시아 | 2 | 0 | 2
+이라크 | 2 | 0 | 2
+캐나다 | 8 | 0 | 8
+파나마 | 1 | 0 | 1
+폴란드 | 13 | 0 | 13
+프랑스 | 1 | 0 | 1
+핀란드 | 1 | 0 | 1
+필리핀 | 7 | 0 | 7
+헝가리 | 5 | 0 | 5
+네덜란드 | 1 | 0 | 1
+뉴질랜드 | 3 | 0 | 3
+싱가포르 | 12 | 0 | 12
+아프리카 | 1 | 0 | 1
+우루과이 | 1 | 0 | 1
+이스라엘 | 1 | 0 | 1
+이탈리아 | 1 | 0 | 1
+캄보디아 | 4 | 0 | 4
+튀르키예 | 3 | 0 | 3
+포르투갈 | 1 | 0 | 1
+나이지리아 | 1 | 0 | 1
+남아메리카 | 1 | 0 | 1
+말레이시아 | 10 | 0 | 10
+방글라데시 | 2 | 0 | 2
+북아메리카 | 1 | 0 | 1
+슬로바키아 | 1 | 0 | 1
+에티오피아 | 2 | 0 | 2
+엘살바도르 | 2 | 0 | 2
+오세아니아 | 1 | 0 | 1
+인도네시아 | 30 | 0 | 30
+캘리포니아 | 1 | 0 | 1
+아랍에미리트 | 5 | 0 | 5
+사우디아라비아 | 6 | 0 | 6
+남아프리카공화국 | 2 | 0 | 2
+아메리카/유럽 | 1 | 0 | 1
+
+### [5] 상·하위 후보 수 (같은 축, 짧은 값이 긴 값의 앞이나 끝에 붙음, 둘 다 사용 중)
+(5행)
+axis | pairs | pairs_parent3_child2
+application | 219 | 21
+customer | 78 | 4
+exposure | 94 | 4
+product | 1016 | 81
+raw_material | 182 | 6
+
+### [6] 흔한 태그 (전체 종목의 20% 이상, industry_code 제외)
+(9행)
+axis | value | stocks | pct | idf
+exposure | 환율 | 318 | 90.6 | 0.10
+region | 수도권 | 264 | 75.2 | 0.28
+region | 경기 | 223 | 63.5 | 0.45
+region | 서울 | 167 | 47.6 | 0.74
+exposure | 금리 | 157 | 44.7 | 0.80
+region | 미국 | 152 | 43.3 | 0.84
+region | 중국 | 137 | 39.0 | 0.94
+region | 베트남 | 78 | 22.2 | 1.50
+exposure | 유가 | 72 | 20.5 | 1.58
+
+### [동의어] CSV ↔ DB 정합성
+CSV 행 280, 같은 단어를 여러 축에 등록 1개: 에너지저장장치(application/product)
+DB 행 280, CSV에 없는데 DB에 남은 것 0개, CSV에 있는데 DB에 없는 것 0개

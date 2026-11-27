@@ -90,12 +90,76 @@ s05는 이제 다음 순서로 처리한다.
 
 같은 태그가 두 회차에 모두 있으면 근거는 "값이 들어 있는 LLM 근거 > 다시 찾은 근거 > 값이 없는 LLM 근거" 순으로 고른다. 표본 25개 중 23개는 태그를 제대로 뒷받침했고, 약한 경우는 계열사 주석("현대모비스 … 계열회사")이나 표 셀 한 칸("SENSOR")이었다.
 
+## 태그 정제 (2026-11-27, 뉴스 적용 전)
+
+뉴스에 붙이기 전에 표기 중복·축 간 중복·상하위 관계·흔한 태그를 정리했다. 근거 검증(s05)은 그대로이고, 정제는 전부 `data/*.csv` 사전 + 스크립트라 s05를 다시 돌리면 같은 결과가 나온다 (내보낸 CSV로 바이트 단위 확인).
+
+### 다시 돌리는 순서
+
+```bash
+psql "$DATABASE_URL" -f sql/01_schema.sql      # tag_synonym (axis, synonym) PK, tag_relation, tag_match_exclude, 뷰
+python -m src.s05_load_tags                    # 동의어·stoplist 적용 적재 + 관계·매칭 제외 동기화
+python -m src.s09_refine_report --save <이름>   # 정제 지표 (sql/03_refine_checks.sql) → data/refine/<이름>.txt
+python -m src.s14_export_tags                  # data/export/stock_tag.csv
+```
+
+사전을 고칠 때 (후보 CSV → 사람이 approve=1 → `--apply` → s05):
+
+| 스크립트 | 후보 파일 | 사람이 쓰는 입력 | 반영되는 곳 |
+|---|---|---|---|
+| `s10_customer_candidates` | `customer_candidates.csv` | `customer_groups.csv` (해외·비상장사, 옛 사명, 그룹, 상장사 대표 표기) | `tag_synonyms.csv` |
+| `s11_cross_axis_candidates` | `cross_axis_candidates.csv` | — | `tag_synonyms.csv` |
+| `s12_relation_candidates` | `relation_candidates.csv` | `relation_seeds.csv` (지역, 그룹-계열사) | `tag_relations.csv` → `tag_relation` |
+| `s13_match_exclude` | — | `tag_match_exclude.csv` | `tag_match_exclude` |
+| (s05가 직접 읽음) | — | `tag_stoplist.csv` | 적재 제외 (`rejected.csv` 사유 "포괄적인 값") |
+
+### 무엇을 정했나
+
+| 단계 | 내용 | 결정 |
+|---|---|---|
+| 1 | `tag_synonym` PK를 `synonym` → `(axis, synonym)` | 같은 단어가 축마다 다른 태그를 가리킬 수 있게. 동기화는 CSV 기준으로 지우고 다시 넣음 (DB에만 남던 7행 정리) |
+| 2 | 지역·금리 | 싱가폴→싱가포르, 사우디→사우디아라비아, 남아공→남아프리카공화국, 대한민국→한국, 전라남도→전남, 시도 정식명칭 19개. 이자율→**금리**. 미주≠북아메리카(합치지 않음) |
+| 3 | 고객사 | 대표는 한글, 영문은 동의어 (Apple→애플). 상장사는 종목명 (현대차→현대자동차), 종목명이 영문 음차면 영문 (케이티→KT, LG씨엔에스→LG CNS). 그룹은 회사와 따로 (현대차그룹) |
+| 4 | 같은 값이 여러 축 | 축별 동의어를 맞춤 (2차전지는 product·application 모두 **2차전지** 대표). product 외환(은행 외국환 업무)≠환율. 같은 종목에 두 축으로 붙은 값은 지우지 않고 `stock_tag_concept` 뷰로 한 번만 셈 (region은 따로: exposure 경기≠region 경기) |
+| 5 | 상하위 | `is_a`(AI 반도체 ⊂ 반도체, 경주 ⊂ 경북 ⊂ 영남, 기아 ⊂ 현대차그룹)와 `made_from`(탄산리튬·수산화리튬 ← 리튬, 황산니켈 ← 니켈, 산화아연 ← 아연)로 나눔. 규칙은 "짧은 값이 긴 값의 끝에 붙음"(한국어는 끝말이 중심어) + 오탐 목록 + 사람 승인. 바로 위 상위만 저장, `tag_ancestor`가 is_a만 따라감 |
+| 5b | 포괄적인 값 | 부품·원자재·원재료·모듈·부속품·솔루션·플랫폼·산업용·케미컬·화학제품은 적재하지 않음 (원가 표 분류 칸·부문 이름). 전기(한전 등의 제품)·소프트웨어·로봇은 남김 |
+| 6 | 흔한 태그 | `tag_weight` 뷰에 idf. 키워드 매칭 제외: 환율·금리(exposure 방향으로 따로), 수도권·경기·서울(본사 주소). 미국·중국은 idf(0.84·0.94)만 — 한한령·관세 같은 이슈에 약하게라도 걸리도록. 계수(factor)는 만들지 않음 |
+
+### 수치 (정제 전 → 후)
+
+| 항목 | 전 (v0.2 덤프) | 후 |
+|---|---|---|
+| 태그 사전 / 연결 / LLM 연결 | 4,601 / 9,822 / 8,775 | 4,506 / 9,758 / 8,711 |
+| customer 태그 | 591 | 519 |
+| 동의어 | 260 (DB) / 254 (CSV) | 419 / 419 |
+| 축 간 동의어 어긋남 | 16 | 1 (외환, 일부러 남김) |
+| 거부 (`rejected.csv`) | 383 | 405 (+22 stoplist) |
+| 관계 / 매칭 제외 | — | 675 (is_a 670, made_from 5) / 5 |
+| 키워드 매칭 대상 연결 | — | 8,278 (제외 태그 1,129·industry_code 351 빼고) |
+
+단계별 지표는 `data/refine/step*.txt`.
+
+### 뉴스 매칭에 붙일 때 지킬 것
+
+- 점수는 `stock_tag`가 아니라 **`stock_tag_concept`(종목×개념) 단위**로 센다. 같은 값이 두 축에 붙은 80건이 두 번 계산되지 않게
+- 태그 점수 = `weight` × `tag_weight.idf`, `match_excluded`인 태그는 키워드 매칭에서 뺀다 (idf는 종목 쪽 흔한 정도만 반영. 뉴스 쪽 빈도는 뉴스를 붙인 뒤 다시 본다)
+- 기사 단어 → `tag_synonym`은 축마다 따로 있다 (같은 단어가 여러 축 태그로 갈 수 있음)
+- 상하위 전파(하위 기사 → 상위 태그 종목, 깊이별 감쇠)와 `made_from` 사용법은 아직 안 정했다. 정확도를 보고 정한다. 상위 → 하위 방향(로봇 기사 → 협동로봇 종목 30개)은 넓게 퍼지므로 조심
+
+### 남은 정제 과제
+
+1. 테마·이벤트 사전: 한한령·사드·중국 단체관광 → 화장품·면세점·카지노·게임 (+ region 중국 / customer 중국인 관광객 가점). 단어 하나로는 안 잡히는 이슈
+2. exposure 방향이 섞인 태그: 금리는 금융사 보고서 안에서도 +1/-1이 함께 나옴 (마진 유리·채권 평가 불리). s05는 weight 최대 쪽 하나만 고른다. 방향을 쓰기 전에 점검
+3. 영문으로만 남은 고객사 137개 (제약 라이선스 상대 등 1종목짜리), `한국항공우주산업`(상장사 한국항공우주) 미매칭
+4. 지역 매출 노출(중국 매출 비중 등)이 태그에 없다. 필요하면 프롬프트 v3에 항목 추가
+5. `s07_report`는 실행할 때마다 `review_sample.csv`를 새로 쓴다. 검수(`correct` 열)를 채운 뒤에는 `--score`만 쓸 것
+
 ## 남은 작업 (태깅)
 
 1. ~~2회차 JSON 파싱 실패 종목 다시 뽑기~~ (2026-11-19 완료)
 2. 프롬프트 v3: application 축은 질환·산업명만 (꼬리말 "치료", "산업" 금지), 의약품은 질환명을 application에도. 그 뒤 v1로 뽑힌 281종목 run0을 v3로 다시 뽑아 버전 통일. 근거에는 태그 값이 들어간 본문 문장을 쓰고 표 셀을 이어 붙이지 말라는 규칙도 넣는다 (근거 다시 찾기에 덜 기대도록)
 3. 사람 검수: `data/review_sample.csv` 90건에 1/0 → `s07_report --score`. 특히 "근거 구절은 원문에 있지만 태그를 뒷받침하지 않는" 경우(예: 금리 태그에 밀가루 작황 문장)가 얼마나 되는지
-4. 글자가 겹치지 않는 동의어(금리/이자율, Inductor/인덕터, ESS/에너지저장장치) 후보 찾기
+4. 글자가 겹치지 않는 동의어(~~금리/이자율~~, Inductor/인덕터, ~~ESS/에너지저장장치~~, ~~LNG/액화천연가스~~) 후보 찾기 (취소선은 2026-11-27 정제에서 처리)
 5. 헷갈리는 alias 표시: 일반 단어(대상, 동서, 테스, 하이브, 고영, 태성, 후성, 풍산), 영어 단어(Solid, NC, SL), 그룹명(SK, LG, 한화, GS, LS, CJ, 두산 …)
 
 ## 다른 PC에서 쓰기 (공유)
@@ -106,7 +170,7 @@ DB는 둘 중 하나로 만든다.
 
 ```bash
 # A. 덤프 복원 (가장 빠름). stocktag.dump는 Releases에서 받는다:
-#    https://github.com/Laattae/StocksTag/releases/tag/v0.1-tags
+#    https://github.com/Laattae/StocksTag/releases (최신 태그)
 docker run -d --name stocktag-pg -e POSTGRES_USER=stocktag -e POSTGRES_PASSWORD=... -p 5432:5432 postgres:16
 docker exec -i stocktag-pg pg_restore -U stocktag -d stocktag --no-owner < stocktag.dump
 
@@ -118,7 +182,9 @@ python -m src.s03_fetch_reports      # 섹션 파일이 있으면 다시 받지 
 python -m src.s05_load_tags && python -m src.s06_build_aliases
 ```
 
-덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump` → 새 Release에 첨부 (`gh release create <태그> stocktag.dump`). 최신 덤프: [v0.1-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.1-tags)
+DB 없이 태그만 볼 때는 `data/export/stock_tag.csv` (s14가 만든 최종 종목-태그, 근거·idf 포함).
+
+덤프 만들기: `docker exec stocktag-pg pg_dump -U stocktag -d stocktag --no-owner -Fc > stocktag.dump` → 새 Release에 첨부 (`gh release create <태그> stocktag.dump`). 최신 덤프: [v0.2-tags](https://github.com/Laattae/StocksTag/releases/tag/v0.2-tags) (정제 전. 정제 후 덤프는 올리면 여기 고칠 것)
 
 ## 다음 단계: 급등락 → 뉴스 연결 설계
 
@@ -132,7 +198,7 @@ python -m src.s05_load_tags && python -m src.s06_build_aliases
 **수집 시 (모든 기사, 규칙 기반)**: 기사마다 종목 언급을 찾아 `news_mention`에 신호를 저장한다.
 - 이름 판별: 가장 긴 이름 먼저 매칭(LS전선 안의 LS는 따로 세지 않음). 일반 단어·영어 alias는 `(주)`/`㈜`가 붙거나 정식명·종목코드가 함께 나올 때만 인정
 - 역할 신호: 제목 등장, 리드 문장 등장, 언급 횟수, 조사("가/는" 주어, "에" 거래 상대, "등"·"·" 나열), 기사 속 회사 수
-- 태그 연결: 기사 단어 → `tag`/`tag_synonym` → `stock_tag`. 흔한 태그(환율 307종목, 경기·서울)는 가중치를 낮춘다 (IDF)
+- 태그 연결: 기사 단어 → `tag`/`tag_synonym` → `stock_tag_concept`. 흔한 태그는 `tag_weight.idf`로 낮추고 `match_excluded`(환율·금리·수도권·경기·서울)는 뺀다 (위 "태그 정제" 참고)
 
 **급등락 시 (후보 몇 개만, LLM)**
 1. 감지 시각 전 몇 시간 안의 기사 중 직접 언급 + 태그(품목·고객사·테마) 언급 기사를 모은다

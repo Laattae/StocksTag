@@ -26,8 +26,8 @@ product,초전도 선재,고온초전도 선재
 product,ESS,에너지저장장치
 product,ESS,에너지저장시스템
 product,음극재,음극활물질
-product,이차전지,2차전지
-product,이차전지,배터리
+product,2차전지,이차전지
+product,2차전지,배터리
 product,CDMO,위탁개발생산
 product,CMO,위탁생산
 product,변압기,변압기류
@@ -107,15 +107,15 @@ customer,Angelini Pharma,Angelini Pharma S.p.A.
 customer,Anvia Therapeutics,"Anvia Therapeutics, Inc."
 customer,Apotex,Apotex Inc.
 customer,Chevron Australia,Chevron Australia Pty Ltd
-customer,Eli Lilly,Eli Lilly and Company
-customer,Micron,Micron Technology
-customer,Microsoft,Microsoft Corporation
+customer,일라이릴리,Eli Lilly and Company
+customer,마이크론,Micron Technology
+customer,마이크로소프트,Microsoft Corporation
 customer,ORIC Pharmaceuticals,"ORIC Pharmaceuticals, Inc."
-customer,Ono Pharmaceutical,"Ono Pharmaceutical Co., Ltd."
+customer,오노약품공업,"Ono Pharmaceutical Co., Ltd."
 customer,Pluristem,Pluristem Therapeutics
 customer,SK하이닉스,에스케이하이닉스
 customer,SK하이닉스,하이닉스
-customer,Sanofi,Sanofi 사
+customer,사노피,Sanofi 사
 customer,"Senju Pharmaceutical Co., Ltd",SENJU Pharmaceutical
 customer,TOYO Chemical,"TOYO Chemical CO., LTD."
 customer,르노코리아,르노코리아자동차
@@ -134,7 +134,7 @@ customer,한국전력,한국전력공사
 customer,한국타이어,한국타이어앤테크놀로지
 customer,해군,대한민국 해군
 customer,현대글로비스,현대글로비스(주)
-customer,현대자동차,현대자동차그룹
+customer,현대차그룹,현대자동차그룹
 exposure,고령화,인구 고령화
 exposure,국제 곡물가,곡물가격
 exposure,국제 곡물가,국제 곡물가격
@@ -149,7 +149,8 @@ exposure,원자재 가격,배터리 원자재 가격
 exposure,원재료 가격,국제 원재료 가격
 exposure,유가,국제 원유가격
 exposure,유가,원유가
-exposure,이자율,시장이자율
+exposure,금리,시장이자율
+exposure,금리,이자율
 exposure,전기차 화재,전기차 화재 위험
 exposure,전기차 화재,전기차 화재 위험성
 product,ADC,ADC 신약
@@ -253,3 +254,167 @@ raw_material,원두,커피 원두
 raw_material,철근,이형철근
 raw_material,코코아 원두,코코아류
 raw_material,포장재,포장재료
+region,싱가포르,싱가폴
+region,사우디아라비아,사우디
+region,남아프리카공화국,남아공
+region,한국,대한민국
+region,서울,서울특별시
+region,부산,부산광역시
+region,대구,대구광역시
+region,인천,인천광역시
+region,광주,광주광역시
+region,대전,대전광역시
+region,울산,울산광역시
+region,세종,세종특별자치시
+region,경기,경기도
+region,강원,강원도
+region,강원,강원특별자치도
+region,충북,충청북도
+region,충남,충청남도
+region,전북,전라북도
+region,전북,전북특별자치도
+region,전남,전라남도
+region,경북,경상북도
+region,경남,경상남도
+region,제주,제주도
+region,제주,제주특별자치도
+customer,KT,케이티
+customer,KT&G,케이티앤지
+customer,LG CNS,LG씨엔에스
+customer,현대차그룹,현대/기아
+customer,현대차그룹,현대/기아 자동차
+customer,현대차그룹,현대기아
+customer,현대차그룹,현대기아차그룹
+customer,현대차그룹,현대차ㆍ기아
+customer,LG디스플레이,LG Display
+customer,LG디스플레이,엘지디스플레이
+customer,LG유플러스,엘지유플러스
+customer,LG전자,엘지전자
+customer,LG화학,LG Chem Ltd.
+customer,LG화학,엘지화학
+customer,SK하이닉스,SK Hynix Inc
+customer,보로노이,보로노이 주식회사
+customer,엘앤에프,L&F
+customer,한화엔진,한화엔진 주식회사
+customer,현대자동차,현대차
+customer,CJ ENM,씨제이이엔엠
+customer,CNUOC,중국 CNUOC
+customer,GSK,GlaxoSmithKline
+customer,GSK,글락소스미스클라인
+customer,GS칼텍스,지에스칼텍스
+customer,S-Oil,에스오일
+customer,SK에너지,에스케이에너지
+customer,SK온,에스케이온
+customer,ZF,ZF Friedrichshafen AG
+customer,구글,Google
+customer,구글 플레이스토어,구글 플레이
+customer,굿이어,Goodyear
+customer,길리어드 사이언스,Gilead Sciences
+customer,넷플릭스,Netflix
+customer,노바티스,Norvatis
+customer,도쿄일렉트론,TEL
+customer,도쿄일렉트론,Tokyo Electron
+customer,디즈니+,Disney+
+customer,로레알,L'Oreal
+customer,로레알,LOREAL
+customer,마이크로소프트,Microsoft
+customer,마이크론,Micron
+customer,메르세데스-벤츠,BENZ
+customer,메타,Meta
+customer,미국 국립보건원,NIH
+customer,바이오젠,Biogen
+customer,바이오젠,Biogen International
+customer,바이오젠,Biogen Therapeutics Inc.
+customer,베링거인겔하임,Boehringer Ingelheim
+customer,보잉,Boeing
+customer,사노피,Sanofi
+customer,사우디아람코,SAUDI ARABIAN OIL COMPANY
+customer,사우디아람코,Saudi Aramco
+customer,사우디아람코,사우디 Aramco
+customer,삼성,Samsung
+customer,삼성전자,Samsung Electronics
+customer,셰브론,Chevron
+customer,셰브론,Chevron U.S.A. Inc.
+customer,스타벅스,Starbucks Corporation
+customer,스텔란티스,STELLANTIS
+customer,아마존,Amazon.com
+customer,아마존프라임비디오,Amazon Prime Video
+customer,아마존프라임비디오,아마존 프라임
+customer,애플,Apple
+customer,어플라이드머티어리얼즈,AMAT
+customer,어플라이드머티어리얼즈,Applied Materials
+customer,에볼루스,Evolus
+customer,에어버스,Airbus
+customer,오노약품공업,Ono Pharmaceutical
+customer,전력거래소,한국전력거래소
+customer,지멘스,SIEMENS
+customer,치루제약,Qilu Pharmaceutical
+customer,테슬라,Tesla
+customer,텐센트뮤직엔터테인먼트그룹,Tencent Music Entertainment
+customer,펩시코,"PepsiCo, Inc."
+customer,펩시코,PepsiCo. Inc.
+customer,포드,Ford
+customer,포스코,POSCO
+customer,폭스바겐,VW
+customer,폭스바겐,Volkswagen Group
+customer,한국전력,한전
+customer,한국토지주택공사,LH
+customer,화이자,Pfizer
+customer,HD현대중공업,현대중공업
+customer,기아,기아자동차
+customer,메타,페이스북
+customer,삼성E&A,삼성엔지니어링
+customer,구보타,Kubota
+customer,글렌코어,Glencore
+customer,넥스트에라에너지,NextEra Energy
+customer,노바백스,Novavax
+customer,노스페이스,The North Face
+customer,도이치텔레콤,Deutsche Telekom
+customer,라쿠텐,Rakuten
+customer,로슈,Roche
+customer,룰루레몬,Lululemon
+customer,리비안,Rivian
+customer,머크,Merck
+customer,발레,Vale
+customer,버라이즌,Verizon
+customer,베스타스,Vestas
+customer,베스트바이,Best Buy
+customer,보쉬,Bosch
+customer,블룸에너지,Bloom Energy
+customer,산도스,Sandoz
+customer,셸,Shell
+customer,소니,Sony
+customer,쇼피,SHOPEE
+customer,스포티파이,SPOTIFY
+customer,아스트라제네카,AstraZeneca
+customer,알리페이,Alipay Connect Pte.Ltd
+customer,엔비디아,NVIDIA
+customer,오가논,Organon
+customer,오스테드,Orsted
+customer,월마트,Walmart.com
+customer,웨이모,Waymo
+customer,유니레버,Unilever
+customer,인텔,Intel
+customer,일라이릴리,Eli Lilly
+customer,지멘스에너지,Siemens Energy
+customer,코스트코,Costco.com
+customer,코카콜라,The Coca-Cola Company
+customer,퀄컴,Qualcomm
+customer,파타고니아,Patagonia
+customer,홈디포,HOME DEPOT
+customer,화웨이,Huawei
+customer,후지쯔,Fujitsu
+application,2차전지,이차전지
+application,2차전지,배터리
+application,LNG선,LNG운반선
+exposure,부동산,부동산 시장
+application,손해보험,손해보험업
+application,SMR,소형모듈원자로
+product,건설,건설업
+product,가전,가전제품
+product,태양광,태양광 발전
+product,OTT,OTT 서비스
+product,OTT,OTT 플랫폼
+raw_material,양극재,양극활물질
+product,LNG,액화천연가스
+raw_material,LNG,액화천연가스

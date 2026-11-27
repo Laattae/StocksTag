@@ -10,10 +10,11 @@
 - API 키는 `.env`에만 둔다. 커밋하지 않는다.
 
 ## 구조
-- `sql/01_schema.sql` 스키마, `sql/02_checks.sql` 품질 점검 쿼리 (`-- name:` 주석 단위로 실행됨)
-- `src/common.py` DB 연결, OpenDART 호출, 정규화 함수
-- `src/s01`~`s07` 단계별 스크립트, `python -m src.sXX_...`로 실행
-- `data/` 입력 사전과 중간 산출물 (`reports/`, `llm/`은 생성물)
+- `sql/01_schema.sql` 스키마, `sql/02_checks.sql` 품질 점검 쿼리, `sql/03_refine_checks.sql` 정제 지표 (`-- name:` 주석 단위로 실행됨)
+- `src/common.py` DB 연결, OpenDART 호출, 정규화 함수, 사전 동기화(동의어·관계·매칭 제외)
+- `src/s01`~`s07` 단계별 스크립트, `s08`~`s13` 사전 정제(후보 CSV → 사람 승인 → `--apply`), `s14` 내보내기. `python -m src.sXX_...`로 실행
+- `data/` 입력 사전과 중간 산출물 (`reports/`, `llm/`은 생성물). 정제 사전: `tag_synonyms.csv`, `tag_stoplist.csv`, `tag_relations.csv`, `tag_match_exclude.csv`, `customer_groups.csv`, `relation_seeds.csv`
+- 태그 정제 결정과 뉴스 매칭 규칙은 docs/PIPELINE.md "태그 정제"
 
 ## 실행 전 확인할 것
 - OpenDART 응답 필드명이 코드와 같은지 첫 실행 때 출력해서 확인

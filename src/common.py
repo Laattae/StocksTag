@@ -175,6 +175,23 @@ def load_synonyms() -> dict[tuple[str, str], str]:
     return out
 
 
+def load_stoplist() -> dict[tuple[str, str], str]:
+    """data/tag_stoplist.csv: (axis, norm_key(value)) -> 사유. axis가 '*'이면 모든 축.
+    근거는 있어도 정보가 없는 값(원가 표의 '부품', 부문 이름 '솔루션')을 적재하지 않는다."""
+    out: dict[tuple[str, str], str] = {}
+    path = DATA / "tag_stoplist.csv"
+    if path.exists():
+        with path.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                out[(row["axis"].strip(), norm_key(row["value"]))] = row["reason"].strip()
+    return out
+
+
+def stopped(axis: str, value: str, stoplist: dict) -> str | None:
+    k = norm_key(value)
+    return stoplist.get((axis, k)) or stoplist.get(("*", k))
+
+
 def canonical(axis: str, value: str, synonyms: dict) -> str:
     v = re.sub(r"\s+", " ", value).strip()
     return synonyms.get((axis, norm_key(v)), v)
@@ -210,18 +227,80 @@ def canonical_value(axis: str, value: str, synonyms: dict, spelling: dict) -> st
 
 
 def sync_synonym_table(cur, synonyms: dict) -> None:
-    """tag_synonyms.csv 내용을 DB tag_synonym에도 반영 (뉴스 매칭 단계에서 사용)."""
+    """tag_synonyms.csv 내용으로 DB tag_synonym을 다시 만든다 (뉴스 매칭 단계에서 사용).
+    CSV가 원본이라 지운 뒤 넣는다 (CSV에서 빠진 동의어가 DB에 남지 않게).
+    같은 단어라도 축이 다르면 따로 들어간다. 같은 축·같은 단어가 서로 다른 대표 표기를 가리키면 멈춘다."""
     path = DATA / "tag_synonyms.csv"
+    cur.execute("DELETE FROM tag_synonym")
     if not path.exists():
         return
+    seen: dict[tuple[str, str], str] = {}
     with path.open(encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            tag_id = upsert_tag(cur, row["axis"].strip(), row["canonical"].strip())
+            axis, canon, syn = row["axis"].strip(), row["canonical"].strip(), row["synonym"].strip()
+            prev = seen.setdefault((axis, syn), canon)
+            if prev != canon:
+                raise ValueError(f"tag_synonyms.csv: {axis} {syn!r}가 {prev!r}와 {canon!r} 둘 다를 가리킴")
+            tag_id = upsert_tag(cur, axis, canon)
             cur.execute(
-                """INSERT INTO tag_synonym (synonym, tag_id) VALUES (%s, %s)
-                   ON CONFLICT (synonym) DO UPDATE SET tag_id = EXCLUDED.tag_id""",
-                (row["synonym"].strip(), tag_id),
+                """INSERT INTO tag_synonym (axis, synonym, tag_id) VALUES (%s, %s, %s)
+                   ON CONFLICT (axis, synonym) DO UPDATE SET tag_id = EXCLUDED.tag_id""",
+                (axis, syn, tag_id),
             )
+
+
+def sync_match_exclude(cur) -> None:
+    """data/tag_match_exclude.csv로 DB tag_match_exclude를 다시 만든다 (뉴스 키워드 매칭에서 뺄 흔한 태그)."""
+    path = DATA / "tag_match_exclude.csv"
+    cur.execute("CREATE TABLE IF NOT EXISTS tag_match_exclude (tag_id INT PRIMARY KEY REFERENCES tag ON DELETE CASCADE, reason TEXT)")
+    cur.execute("DELETE FROM tag_match_exclude")
+    if not path.exists():
+        return
+    synonyms = load_synonyms()
+    n = skipped = 0
+    with path.open(encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            axis = row["axis"].strip()
+            cur.execute("SELECT tag_id FROM tag WHERE axis = %s AND value = %s", (axis, canonical(axis, row["value"], synonyms)))
+            r = cur.fetchone()
+            if not r:
+                skipped += 1
+                continue
+            cur.execute("INSERT INTO tag_match_exclude (tag_id, reason) VALUES (%s, %s) ON CONFLICT DO NOTHING",
+                        (r[0], row["reason"].strip()))
+            n += cur.rowcount
+    print(f"tag_match_exclude {n}개 (태그가 없어 건너뜀 {skipped}개)")
+
+
+def sync_relation_table(cur) -> None:
+    """data/tag_relations.csv로 DB tag_relation을 다시 만든다. 값은 동의어 사전으로 대표 표기로 바꾼 뒤 찾고,
+    두 태그가 모두 사전(tag)에 있을 때만 넣는다 (관계 때문에 안 쓰는 태그를 만들지 않는다)."""
+    path = DATA / "tag_relations.csv"
+    cur.execute("CREATE TABLE IF NOT EXISTS tag_relation (child_tag_id INT REFERENCES tag ON DELETE CASCADE, "
+                "parent_tag_id INT REFERENCES tag ON DELETE CASCADE, kind TEXT NOT NULL DEFAULT 'is_a', source TEXT, "
+                "PRIMARY KEY (child_tag_id, parent_tag_id), CHECK (child_tag_id <> parent_tag_id))")
+    cur.execute("ALTER TABLE tag_relation ADD COLUMN IF NOT EXISTS kind TEXT NOT NULL DEFAULT 'is_a'")
+    cur.execute("DELETE FROM tag_relation")
+    if not path.exists():
+        return
+    synonyms = load_synonyms()
+    n = skipped = 0
+    with path.open(encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            axis = row["axis"].strip()
+            ids = []
+            for v in (row["child"], row["parent"]):
+                cur.execute("SELECT tag_id FROM tag WHERE axis = %s AND value = %s", (axis, canonical(axis, v, synonyms)))
+                r = cur.fetchone()
+                ids.append(r[0] if r else None)
+            if None in ids or ids[0] == ids[1]:
+                skipped += 1
+                continue
+            cur.execute("""INSERT INTO tag_relation (child_tag_id, parent_tag_id, kind, source) VALUES (%s, %s, %s, %s)
+                           ON CONFLICT DO NOTHING""",
+                        (ids[0], ids[1], (row.get("kind") or "is_a").strip(), row["source"].strip()))
+            n += cur.rowcount
+    print(f"tag_relation {n}개 (태그가 없어 건너뜀 {skipped}개)")
 
 
 # ---------------------------------------------------------------- 지역

@@ -1,0 +1,118 @@
+canonical,variant,kind,note
+KT,케이티,display,상장사 대표: 종목명이 영문 음차면 영문 표기로 (읽기 편하게)
+KT&G,케이티앤지,display,
+LG CNS,LG씨엔에스,display,
+애플,Apple,merge,
+마이크로소프트,Microsoft,merge,기존 Microsoft Corporation→Microsoft 도 따라감
+구글,Google,merge,
+구글 플레이스토어,구글 플레이,merge,앱 마켓(채널). 구글과는 따로 둠
+테슬라,Tesla,merge,
+아마존,Amazon.com,merge,
+아마존프라임비디오,Amazon Prime Video,merge,스트리밍(채널). 아마존과는 따로 둠
+아마존프라임비디오,아마존 프라임,merge,
+넷플릭스,Netflix,merge,
+디즈니+,Disney+,merge,
+메타,Meta,merge,
+메타,페이스북,rename,Facebook → Meta (2021 사명 변경)
+텐센트뮤직엔터테인먼트그룹,Tencent Music Entertainment,merge,
+도쿄일렉트론,Tokyo Electron,merge,
+도쿄일렉트론,TEL,merge,
+어플라이드머티어리얼즈,Applied Materials,merge,
+어플라이드머티어리얼즈,AMAT,merge,
+마이크론,Micron,merge,기존 Micron Technology→Micron 도 따라감
+보잉,Boeing,merge,
+에어버스,Airbus,merge,
+포드,Ford,merge,
+메르세데스-벤츠,BENZ,merge,
+폭스바겐,Volkswagen Group,merge,
+폭스바겐,VW,merge,
+스텔란티스,STELLANTIS,merge,
+지멘스,SIEMENS,merge,
+굿이어,Goodyear,merge,
+로레알,L'Oreal,merge,
+로레알,LOREAL,merge,
+화이자,Pfizer,merge,
+사노피,Sanofi,merge,기존 Sanofi 사→Sanofi 도 따라감
+노바티스,Norvatis,merge,철자 오류
+베링거인겔하임,Boehringer Ingelheim,merge,
+에볼루스,Evolus,merge,
+길리어드 사이언스,Gilead Sciences,merge,
+오노약품공업,Ono Pharmaceutical,merge,기존 Ono Pharmaceutical Co. Ltd.→ 도 따라감
+치루제약,Qilu Pharmaceutical,merge,
+GSK,GlaxoSmithKline,merge,뉴스 표기가 GSK라 영문 약칭 유지
+GSK,글락소스미스클라인,merge,
+바이오젠,Biogen,merge,
+바이오젠,Biogen International,merge,자회사
+바이오젠,Biogen Therapeutics Inc.,merge,자회사
+삼성전자,Samsung Electronics,merge,상장사 (alias에 없는 표기)
+삼성,Samsung,merge,그룹
+포스코,POSCO,merge,비상장 철강사 POSCO (POSCO홀딩스와 다름)
+사우디아람코,Saudi Aramco,merge,
+사우디아람코,SAUDI ARABIAN OIL COMPANY,merge,
+사우디아람코,사우디 Aramco,merge,
+CNUOC,중국 CNUOC,merge,
+펩시코,"PepsiCo, Inc.",merge,
+펩시코,PepsiCo. Inc.,merge,
+스타벅스,Starbucks Corporation,merge,
+ZF,ZF Friedrichshafen AG,merge,
+셰브론,Chevron,merge,
+셰브론,Chevron U.S.A. Inc.,merge,자회사. Chevron Australia는 따로 둠
+GS칼텍스,지에스칼텍스,merge,비상장
+GS칼텍스,GS 칼텍스,merge,
+SK온,에스케이온,merge,비상장
+SK에너지,에스케이에너지,merge,비상장
+한국전력,한전,merge,
+전력거래소,한국전력거래소,merge,
+한국토지주택공사,LH,merge,
+미국 국립보건원,NIH,merge,
+기아,기아자동차,rename,2021 사명 변경
+HD현대중공업,현대중공업,rename,2022 사명 변경
+삼성E&A,삼성엔지니어링,rename,2024 사명 변경
+S-Oil,에스오일,merge,
+CJ ENM,씨제이이엔엠,merge,
+현대차그룹,현대자동차그룹,group,기존 사전은 현대자동차그룹→현대자동차. 그룹은 따로 두고 5단계에서 현대자동차·기아의 상위로
+현대차그룹,현대기아차그룹,group,
+현대차그룹,현대기아,group,
+현대차그룹,현대/기아,group,
+현대차그룹,현대/기아 자동차,group,
+현대차그룹,현대차ㆍ기아,group,
+엔비디아,NVIDIA,translit,한 표기뿐. 한글 대표로 바꾸고 영문은 동의어
+인텔,Intel,translit,
+퀄컴,Qualcomm,translit,
+화웨이,Huawei,translit,
+소니,Sony,translit,
+아스트라제네카,AstraZeneca,translit,
+일라이릴리,Eli Lilly,translit,기존 Eli Lilly and Company→ 도 따라감
+로슈,Roche,translit,
+산도스,Sandoz,translit,
+머크,Merck,translit,MSD와는 따로 둠
+월마트,Walmart.com,translit,
+코스트코,Costco.com,translit,
+베스트바이,Best Buy,translit,
+홈디포,HOME DEPOT,translit,
+셸,Shell,translit,
+유니레버,Unilever,translit,
+코카콜라,The Coca-Cola Company,translit,
+보쉬,Bosch,translit,
+베스타스,Vestas,translit,
+오스테드,Orsted,translit,
+리비안,Rivian,translit,
+웨이모,Waymo,translit,
+버라이즌,Verizon,translit,
+도이치텔레콤,Deutsche Telekom,translit,
+글렌코어,Glencore,translit,
+발레,Vale,translit,
+스포티파이,SPOTIFY,translit,
+룰루레몬,Lululemon,translit,
+파타고니아,Patagonia,translit,
+노스페이스,The North Face,translit,
+후지쯔,Fujitsu,translit,
+구보타,Kubota,translit,
+라쿠텐,Rakuten,translit,
+쇼피,SHOPEE,translit,
+지멘스에너지,Siemens Energy,translit,
+블룸에너지,Bloom Energy,translit,
+넥스트에라에너지,NextEra Energy,translit,
+노바백스,Novavax,translit,
+오가논,Organon,translit,
+알리페이,Alipay Connect Pte.Ltd,translit,

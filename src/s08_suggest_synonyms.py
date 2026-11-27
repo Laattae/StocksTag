@@ -152,13 +152,14 @@ def suggest():
     print(f"\n후보 {len(uniq)}행 → {OUT}\napprove 열에 1을 적고 --apply, 그다음 s05를 다시 실행")
 
 
-def apply():
+def apply(candidates=OUT):
     """승인 행을 사전에 합친다. 대표가 다른 행의 synonym이면(A→B, B→C) 최종 대표(C)로 이어 준다.
-    기존 사전 행도 같이 다시 써서, 사전 전체에 연쇄가 남지 않게 한다."""
+    기존 사전 행도 같이 다시 써서, 사전 전체에 연쇄가 남지 않게 한다.
+    candidates: axis, canonical, synonym, approve 열이 있는 후보 CSV (s10_customer_candidates도 이걸 쓴다)"""
     with SYN.open(encoding="utf-8") as f:
         old = [(r["axis"].strip(), r["canonical"].strip(), r["synonym"].strip()) for r in csv.DictReader(f)]
     approved = []
-    with OUT.open(encoding="utf-8-sig") as f:
+    with candidates.open(encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
             if r["approve"].strip() == "1":
                 approved.append((r["axis"].strip(), r["canonical"].strip(), r["synonym"].strip()))
